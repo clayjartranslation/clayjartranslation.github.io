@@ -1,0 +1,2379 @@
+{
+ "id": "genesis",
+ "name": "Genesis",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Samaritan Pentateuch, the Septuagint (with Codex Alexandrinus where it differs), the Syriac, and the Vulgate. For Genesis 1 to 3 it was also checked against the Qumran fragments (4QGen-b, 4QGen-d, 4QGen-g, 4QGen-h, 4QGen-k), which agree closely with the Masoretic consonants. The Dead Sea Scrolls preserve little of Genesis 4 to 11 and none of the ages in chapters 5 and 11, so those chapters rest on the Masoretic Text, the Samaritan Pentateuch, and the Septuagint, whose differences are given in the footnotes.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    6,
+    9,
+    14,
+    20,
+    24
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the beginning{a} God{b} created the heavens and the earth.{c}"
+    },
+    {
+     "v": 2,
+     "text": "Now the earth was formless and empty,{d} and darkness was over the surface of the deep, and the Spirit{e} of God was hovering{f} over the surface of the waters."
+    },
+    {
+     "v": 3,
+     "text": "Then God said, “Let there be light,” and there was light."
+    },
+    {
+     "v": 4,
+     "text": "God saw the light, that it was good, and God separated between the light and the darkness."
+    },
+    {
+     "v": 5,
+     "text": "God called the light Day, and the darkness he called Night. And there was evening and there was morning: day one.{g}"
+    },
+    {
+     "v": 6,
+     "text": "Then God said, “Let there be an expanse{h} in the middle of the waters, and let it separate between waters and waters.”"
+    },
+    {
+     "v": 7,
+     "text": "So God made the expanse, and he separated between the waters that were under the expanse and the waters that were above the expanse. And it was so.{i}"
+    },
+    {
+     "v": 8,
+     "text": "God called the expanse Heavens. And there was evening and there was morning: a second day."
+    },
+    {
+     "v": 9,
+     "text": "Then God said, “Let the waters under the heavens be gathered into one place,{j} and let the dry land appear.” And it was so."
+    },
+    {
+     "v": 10,
+     "text": "God called the dry land Earth, and the gathering of the waters he called Seas. And God saw that it was good."
+    },
+    {
+     "v": 11,
+     "text": "Then God said, “Let the earth sprout green growth: plants that yield seed, and fruit trees that bear fruit according to their kind, with their seed in it, on the earth.” And it was so."
+    },
+    {
+     "v": 12,
+     "text": "The earth brought forth green growth: plants that yield seed according to their kind, and trees that bear fruit with their seed in it, according to their kind. And God saw that it was good."
+    },
+    {
+     "v": 13,
+     "text": "And there was evening and there was morning: a third day."
+    },
+    {
+     "v": 14,
+     "text": "Then God said, “Let there be lights in the expanse of the heavens to separate between the day and the night, and let them serve as signs and for appointed times,{k} and for days and years."
+    },
+    {
+     "v": 15,
+     "text": "Let them be lights in the expanse of the heavens to give light on the earth.” And it was so."
+    },
+    {
+     "v": 16,
+     "text": "God made the two great lights: the greater light to rule the day and the lesser light to rule the night,{l} and also the stars."
+    },
+    {
+     "v": 17,
+     "text": "God placed them in the expanse of the heavens to give light on the earth,"
+    },
+    {
+     "v": 18,
+     "text": "to rule over the day and over the night, and to separate between the light and the darkness. And God saw that it was good."
+    },
+    {
+     "v": 19,
+     "text": "And there was evening and there was morning: a fourth day."
+    },
+    {
+     "v": 20,
+     "text": "Then God said, “Let the waters swarm with swarms of living creatures,{m} and let birds fly above the earth, across the face of the expanse of the heavens.”"
+    },
+    {
+     "v": 21,
+     "text": "So God created the great sea creatures,{n} and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good."
+    },
+    {
+     "v": 22,
+     "text": "God blessed them, saying, “Be fruitful and multiply, and fill the waters in the seas, and let the birds multiply on the earth.”"
+    },
+    {
+     "v": 23,
+     "text": "And there was evening and there was morning: a fifth day."
+    },
+    {
+     "v": 24,
+     "text": "Then God said, “Let the earth bring forth living creatures according to their kind: livestock, creeping things, and wild animals of the earth, according to their kind.” And it was so."
+    },
+    {
+     "v": 25,
+     "text": "God made the wild animals of the earth according to their kind, and the livestock according to their kind, and every creeping thing of the ground according to its kind. And God saw that it was good."
+    },
+    {
+     "v": 26,
+     "text": "Then God said, “Let us make humankind{o} in our image, according to our likeness. Let them rule over the fish of the sea, over the birds of the heavens, over the livestock, over all the earth,{p} and over every creeping thing that creeps on the earth.”"
+    },
+    {
+     "v": 27,
+     "text": "So God created humankind in his own image; in the image of God he created him; male and female he created them.{q}"
+    },
+    {
+     "v": 28,
+     "text": "God blessed them, and God said to them, “Be fruitful and multiply; fill the earth and bring it under control. Rule over the fish of the sea, over the birds of the heavens, and over every living thing that creeps on the earth.”"
+    },
+    {
+     "v": 29,
+     "text": "God said, “Look, I have given you every seed-bearing plant that is on the face of all the earth, and every tree that has fruit with seed in it. They will be food for you."
+    },
+    {
+     "v": 30,
+     "text": "And to every animal of the earth, to every bird of the heavens, and to everything that creeps on the earth, everything that has the breath of life in it, I have given every green plant for food.” And it was so."
+    },
+    {
+     "v": 31,
+     "text": "God saw everything that he had made, and look, it was very good. And there was evening and there was morning: the sixth day.{r}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Hebrew bereshit. It can also be read as the start of a longer sentence: “When God began to create the heavens and the earth, the earth was formless…” The Septuagint (en archē, “in the beginning”) supports the traditional reading kept here."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Hebrew Elohim. The word is plural in form, but here it takes a singular verb (bara, “he created”), so it names the one God."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "“The heavens and the earth” pairs two opposites to mean everything that exists."
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Hebrew tohu wabohu, a rhyming pair: “a waste and a void,” land not yet shaped or filled. Days 1 to 3 give it shape; days 4 to 6 fill it."
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Hebrew ruach means spirit, wind, or breath. Some render “a wind from God” or “a mighty wind.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:2",
+     "text": "The same verb describes an eagle hovering over its young in Deuteronomy 32:11."
+    },
+    {
+     "m": "g",
+     "ref": "1:5",
+     "text": "Literally “one day.” Hebrew uses the number one here, not “first.” Days 2 to 5 have no article (“a second day”); day 6 has one (see 1:31)."
+    },
+    {
+     "m": "h",
+     "ref": "1:6",
+     "text": "Hebrew raqia, from a verb meaning to hammer out or spread thin, as with metal. Septuagint stereōma, Latin firmamentum (“firmament”). Also called a vault or dome."
+    },
+    {
+     "m": "i",
+     "ref": "1:7",
+     "text": "The Septuagint places “And it was so” at the end of 1:6, and in 1:8 it adds “And God saw that it was good,” which the Hebrew lacks for the second day."
+    },
+    {
+     "m": "j",
+     "ref": "1:9",
+     "text": "Masoretic Text maqom, “place.” A Qumran fragment (4QGen-h) and the Septuagint reflect miqweh, “one gathering,” which matches “gathering” in 1:10. The Septuagint also adds: “And the water under the heaven was gathered into its gatherings, and the dry land appeared.” A Qumran fragment (4QGen-k) appears to support this added clause in Hebrew."
+    },
+    {
+     "m": "k",
+     "ref": "1:14",
+     "text": "Hebrew moadim, the word later used for Israel’s appointed festivals. Also translated “seasons.”"
+    },
+    {
+     "m": "l",
+     "ref": "1:16",
+     "text": "The sun and moon are not named. Israel’s neighbors worshiped them as gods; here they are lamps that God made and placed."
+    },
+    {
+     "m": "m",
+     "ref": "1:20",
+     "text": "Hebrew nefesh chayyah, “living being” or “living soul.” The same phrase is used of the first human in 2:7. The Septuagint adds “And it was so” at the end of this verse."
+    },
+    {
+     "m": "n",
+     "ref": "1:21",
+     "text": "Hebrew tanninim, used elsewhere of sea monsters and serpents (Psalm 74:13; Isaiah 27:1). Even these are only creatures God made."
+    },
+    {
+     "m": "o",
+     "ref": "1:26",
+     "text": "Hebrew adam, here meaning the human race (note “let them rule”). “Us” and “our” have been read as a royal plural, a plural of self-deliberation, God speaking to his heavenly court, or, in Christian reading, a first hint of the Trinity."
+    },
+    {
+     "m": "p",
+     "ref": "1:26",
+     "text": "The Syriac Peshitta reads “over all the wild animals of the earth,” which matches the list in 1:25 and may preserve the original wording."
+    },
+    {
+     "m": "q",
+     "ref": "1:27",
+     "text": "The Hebrew moves from “him” (singular) to “them” (plural): one human race, created male and female. The verse is written as a short three-line poem."
+    },
+    {
+     "m": "r",
+     "ref": "1:31",
+     "text": "This is the first day with the definite article in Hebrew (“the sixth day”), marking the high point of the account."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    4,
+    8,
+    15,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So the heavens and the earth were completed, and everything in them.{a}"
+    },
+    {
+     "v": 2,
+     "text": "By the seventh day{b} God had completed his work that he had done, and he rested{c} on the seventh day from all his work that he had done."
+    },
+    {
+     "v": 3,
+     "text": "God blessed the seventh day and made it holy, because on it he rested from all his work that God had created and made.{d}"
+    },
+    {
+     "v": 4,
+     "text": "This is the account{e} of the heavens and the earth when they were created, on the day that the LORD{f} God made earth and heavens."
+    },
+    {
+     "v": 5,
+     "text": "No shrub of the field was yet on the earth, and no plant of the field had yet sprung up, for the LORD God had not sent rain on the earth, and there was no human{g} to work the ground."
+    },
+    {
+     "v": 6,
+     "text": "But a mist{h} would rise up from the earth and water the whole surface of the ground."
+    },
+    {
+     "v": 7,
+     "text": "Then the LORD God formed{i} the human from the dust of the ground, and breathed into his nostrils the breath of life, and the human became a living being.{j}"
+    },
+    {
+     "v": 8,
+     "text": "The LORD God planted a garden in Eden,{k} in the east, and there he put the human whom he had formed."
+    },
+    {
+     "v": 9,
+     "text": "Out of the ground the LORD God made every tree grow that is pleasing to look at and good for food, with the tree of life in the middle of the garden, and the tree of the knowledge of good and evil.{l}"
+    },
+    {
+     "v": 10,
+     "text": "A river flows out of Eden to water the garden, and from there it divides and becomes four headwaters."
+    },
+    {
+     "v": 11,
+     "text": "The name of the first is Pishon. It is the one that winds through the whole land of Havilah, where there is gold."
+    },
+    {
+     "v": 12,
+     "text": "The gold of that land is good; bdellium and onyx stone{m} are there."
+    },
+    {
+     "v": 13,
+     "text": "The name of the second river is Gihon. It is the one that winds through the whole land of Cush.{n}"
+    },
+    {
+     "v": 14,
+     "text": "The name of the third river is Tigris;{o} it is the one that flows east of Assyria. And the fourth river is the Euphrates."
+    },
+    {
+     "v": 15,
+     "text": "The LORD God took the human and placed him in the garden of Eden to work it and to keep it.{p}"
+    },
+    {
+     "v": 16,
+     "text": "And the LORD God commanded the human, saying, “From every tree of the garden you may freely eat,{q}"
+    },
+    {
+     "v": 17,
+     "text": "but from the tree of the knowledge of good and evil you must not eat, for on the day that you eat from it you will surely die.”{r}"
+    },
+    {
+     "v": 18,
+     "text": "Then the LORD God said, “It is not good for the human to be alone. I will make a helper for him who corresponds to him.”{s}"
+    },
+    {
+     "v": 19,
+     "text": "Now out of the ground the LORD God had formed every animal of the field and every bird of the heavens, and he brought them to the human to see what he would call each one. Whatever the human called each living creature, that became its name."
+    },
+    {
+     "v": 20,
+     "text": "The human gave names to all the livestock, to the birds of the heavens, and to every animal of the field. But for Adam{t} no helper was found who corresponded to him."
+    },
+    {
+     "v": 21,
+     "text": "So the LORD God caused a deep sleep to fall on the human, and he slept. Then he took one of his sides{u} and closed up the flesh in its place."
+    },
+    {
+     "v": 22,
+     "text": "The LORD God built{v} the side that he had taken from the human into a woman, and he brought her to the human."
+    },
+    {
+     "v": 23,
+     "text": "Then the human said, “This one, at last, is bone from my bones and flesh from my flesh. This one shall be called Woman, for from Man this one was taken.”{w}"
+    },
+    {
+     "v": 24,
+     "text": "That is why a man leaves his father and his mother and holds fast to his wife, and they become one flesh.{x}"
+    },
+    {
+     "v": 25,
+     "text": "The two of them were naked,{y} the human and his wife, and they were not ashamed."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Literally “and all their host,” that is, their whole array or army: everything that fills the sky and the land."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "The Samaritan Pentateuch, the Septuagint, and the Syriac read “on the sixth day,” probably to avoid any hint that God worked on the seventh day. The Masoretic “seventh” is the harder reading and is kept here; the Hebrew verb can mean “had completed.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:2",
+     "text": "Hebrew shavat, “ceased” or “stopped,” the root of the word Sabbath (shabbat). It means stopping work, not recovering from tiredness."
+    },
+    {
+     "m": "d",
+     "ref": "2:3",
+     "text": "Literally “which God created to make.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:4",
+     "text": "Hebrew toledot, “generations” or “family history.” This is the first of the toledot headings that divide Genesis into its main parts."
+    },
+    {
+     "m": "f",
+     "ref": "2:4",
+     "text": "Here the personal name of God, YHWH, appears for the first time. Following ancient Jewish and Christian practice, this translation writes it as “the LORD” in capital letters. See Conventions."
+    },
+    {
+     "m": "g",
+     "ref": "2:5",
+     "text": "Hebrew adam, “human,” sounds like adamah, “ground.” The wordplay runs through chapters 2 and 3: the human (adam) comes from the ground (adamah), works the ground, and returns to it (3:19). English might echo it as “earthling” from “earth.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:6",
+     "text": "Hebrew ed, a rare word. It may mean a spring or an underground stream (compare Akkadian edû, “flood”). The Septuagint reads pēgē, “spring.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:7",
+     "text": "Hebrew yatsar, the word for a potter shaping clay (Jeremiah 18:4–6). This image of God as potter and people as clay vessels gives this translation its name."
+    },
+    {
+     "m": "j",
+     "ref": "2:7",
+     "text": "Hebrew nefesh chayyah, the same phrase used of the animals in 1:20, 24. Older translations: “a living soul.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:8",
+     "text": "Eden probably means “delight” or “abundance.” The Septuagint calls the garden paradeisos, a park, from which comes the English word paradise."
+    },
+    {
+     "m": "l",
+     "ref": "2:9",
+     "text": "“Good and evil” may be a pair of opposites meaning knowledge of everything, or the claim to decide for oneself what is good and what is evil."
+    },
+    {
+     "m": "m",
+     "ref": "2:12",
+     "text": "Bdellium (Hebrew bedolach) is a fragrant tree resin. The stone (Hebrew shoham) is uncertain: onyx, carnelian, and lapis lazuli have all been proposed."
+    },
+    {
+     "m": "n",
+     "ref": "2:13",
+     "text": "Cush usually means the land south of Egypt (ancient Nubia). Some scholars connect it here with the Kassites of Mesopotamia."
+    },
+    {
+     "m": "o",
+     "ref": "2:14",
+     "text": "Hebrew Hiddeqel is the Tigris; Hebrew Perat is the Euphrates."
+    },
+    {
+     "m": "p",
+     "ref": "2:15",
+     "text": "Hebrew avad and shamar. Elsewhere the same pair describes the priests who serve and guard the sanctuary (Numbers 3:7–8), so the garden is pictured as a place of worship as well as work."
+    },
+    {
+     "m": "q",
+     "ref": "2:16",
+     "text": "Literally “eating you may eat.” Hebrew doubles the verb for emphasis: the permission is generous."
+    },
+    {
+     "m": "r",
+     "ref": "2:17",
+     "text": "Literally “dying you will die.” The serpent echoes and denies these exact words in 3:4."
+    },
+    {
+     "m": "s",
+     "ref": "2:18",
+     "text": "Hebrew ezer kenegdo. Ezer, “helper,” is most often used of God helping his people (Exodus 18:4; Psalm 33:20; 121:1–2), so it does not imply lower rank. Kenegdo means “as in front of him”: a partner who matches him. The Septuagint and Latin Vulgate read “Let us make.”"
+    },
+    {
+     "m": "t",
+     "ref": "2:20",
+     "text": "Here the Hebrew vowel pointing lacks the article, so adam may be read as the personal name Adam. The shift from “the human” to the name “Adam” is gradual and debated (compare 3:17, 21; 4:25)."
+    },
+    {
+     "m": "u",
+     "ref": "2:21",
+     "text": "Hebrew tsela, which usually means “side” (for example, the side of the tabernacle in Exodus 26:20). Traditionally “rib.”"
+    },
+    {
+     "m": "v",
+     "ref": "2:22",
+     "text": "Literally “built,” the verb used for building a house or an altar."
+    },
+    {
+     "m": "w",
+     "ref": "2:23",
+     "text": "Hebrew ishshah, “woman,” sounds like ish, “man.” English “woman” and “man” keep the play. “At last” is literally “this time.” The verse is a short poem, the first recorded human words."
+    },
+    {
+     "m": "x",
+     "ref": "2:24",
+     "text": "The Samaritan Pentateuch, the Septuagint, the Syriac, and the Vulgate read “and the two of them will become one flesh.” Jesus and Paul quote this longer form (Matthew 19:5; Mark 10:8; Ephesians 5:31)."
+    },
+    {
+     "m": "y",
+     "ref": "2:25",
+     "text": "Hebrew arummim, “naked,” sounds like arum, “crafty,” in the very next verse (3:1)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    8,
+    14,
+    16,
+    17,
+    20,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now the serpent was more crafty{a} than any animal of the field that the LORD God had made. He said to the woman, “Did God really say,{b} ‘You must not eat from any tree of the garden’?”"
+    },
+    {
+     "v": 2,
+     "text": "The woman said to the serpent, “We may eat from the fruit of the trees of the garden,"
+    },
+    {
+     "v": 3,
+     "text": "but about the fruit of the tree that is in the middle of the garden, God said, ‘You must not eat from it, and you must not touch it, or you will die.’”"
+    },
+    {
+     "v": 4,
+     "text": "The serpent said to the woman, “You will not surely die."
+    },
+    {
+     "v": 5,
+     "text": "For God knows that on the day you eat from it, your eyes will be opened, and you will be like God,{c} knowing good and evil.”"
+    },
+    {
+     "v": 6,
+     "text": "When the woman saw that the tree was good for food, that it was a delight to the eyes, and that the tree was desirable for making one wise,{d} she took some of its fruit and ate. She also gave some to her husband, who was with her, and he ate."
+    },
+    {
+     "v": 7,
+     "text": "Then the eyes of both of them were opened, and they knew that they were naked. So they sewed fig leaves together and made coverings for themselves."
+    },
+    {
+     "v": 8,
+     "text": "They heard the sound{e} of the LORD God walking in the garden in the cool of the day,{f} and the human and his wife hid themselves from the presence{g} of the LORD God among the trees of the garden."
+    },
+    {
+     "v": 9,
+     "text": "But the LORD God called to the human and said to him, “Where are you?”"
+    },
+    {
+     "v": 10,
+     "text": "He answered, “I heard your sound in the garden, and I was afraid because I was naked, so I hid myself.”"
+    },
+    {
+     "v": 11,
+     "text": "He said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”"
+    },
+    {
+     "v": 12,
+     "text": "The human said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate.”"
+    },
+    {
+     "v": 13,
+     "text": "Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me,{h} and I ate.”"
+    },
+    {
+     "v": 14,
+     "text": "The LORD God said to the serpent, “Because you have done this, cursed are you above all livestock and above every animal of the field. On your belly you will crawl, and dust you will eat all the days of your life."
+    },
+    {
+     "v": 15,
+     "text": "I will put hostility between you and the woman, and between your offspring{i} and her offspring. He will strike{j} your head, and you will strike his heel.”"
+    },
+    {
+     "v": 16,
+     "text": "To the woman he said, “I will greatly increase your pain in pregnancy;{k} in pain you will give birth to children. Your desire{l} will be for your husband, and he will rule over you.”"
+    },
+    {
+     "v": 17,
+     "text": "And to Adam{m} he said, “Because you listened to the voice of your wife and ate from the tree about which I commanded you, saying, ‘You must not eat from it,’ cursed is the ground because of you. In painful toil{n} you will eat from it all the days of your life."
+    },
+    {
+     "v": 18,
+     "text": "Thorns and thistles it will grow for you, and you will eat the plants of the field."
+    },
+    {
+     "v": 19,
+     "text": "By the sweat of your brow{o} you will eat bread, until you return to the ground, for out of it you were taken. For dust you are, and to dust you will return.”"
+    },
+    {
+     "v": 20,
+     "text": "The human named his wife Eve,{p} because she became the mother of all the living."
+    },
+    {
+     "v": 21,
+     "text": "The LORD God made garments of skin for Adam and for his wife, and he clothed them."
+    },
+    {
+     "v": 22,
+     "text": "Then the LORD God said, “Look, the human has become like one of us, knowing good and evil. And now, so that he does not reach out his hand and take also from the tree of life, and eat, and live forever…”{q}"
+    },
+    {
+     "v": 23,
+     "text": "So the LORD God sent him out from the garden of Eden to work the ground from which he had been taken."
+    },
+    {
+     "v": 24,
+     "text": "He drove out the human,{r} and on the east side of the garden of Eden he stationed the cherubim{s} and the flame of a sword that turned every way,{t} to guard the way to the tree of life."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Hebrew arum, “crafty” or “shrewd.” In Proverbs the word is a virtue (“prudent”). It plays on arummim, “naked,” in 2:25."
+    },
+    {
+     "m": "b",
+     "ref": "3:1",
+     "text": "Hebrew af ki, literally “Indeed, that God said…?” The serpent’s question twists God’s generous “every tree” (2:16) into “not any tree.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:5",
+     "text": "Hebrew elohim can mean “God,” “gods,” or “divine beings.” The word for “knowing” is plural, so “like gods” is possible; the Septuagint reads “like gods.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:6",
+     "text": "Hebrew lehaskil, “to make wise” or “to gain insight.” It may also mean “to look at”; the Septuagint has “beautiful to contemplate.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:8",
+     "text": "Hebrew qol, “sound” or “voice”; also in 3:10, 17."
+    },
+    {
+     "m": "f",
+     "ref": "3:8",
+     "text": "Thought for thought. Literally “at the wind (ruach) of the day,” most likely the breezy time of late afternoon or evening."
+    },
+    {
+     "m": "g",
+     "ref": "3:8",
+     "text": "Literally “from the face of.”"
+    },
+    {
+     "m": "h",
+     "ref": "3:13",
+     "text": "Hebrew hishshiani, “led me astray” or “tricked me.” Paul alludes to this in 2 Corinthians 11:3 and 1 Timothy 2:14."
+    },
+    {
+     "m": "i",
+     "ref": "3:15",
+     "text": "Literally “seed.” The word is singular and can mean many descendants or one descendant. Hebrew then says “he” (hu). The Septuagint also uses “he” (autos), even though “seed” is a neuter word in Greek, which suggests early readers saw one person here. From the second century (Irenaeus) Christians have read this verse as the first announcement of the gospel."
+    },
+    {
+     "m": "j",
+     "ref": "3:15",
+     "text": "Hebrew shuf, a rare verb used in both halves of the line; it may mean “crush,” “bruise,” or “strike.” The Septuagint has “watch for”; the Vulgate has “crush.”"
+    },
+    {
+     "m": "k",
+     "ref": "3:16",
+     "text": "Thought for thought. Literally “your pain and your conception,” two nouns joined to express one idea (pain connected with pregnancy)."
+    },
+    {
+     "m": "l",
+     "ref": "3:16",
+     "text": "Hebrew teshuqah, used again in 4:7 (sin’s desire for Cain) and in Song of Songs 7:10. The Septuagint reads “your turning” (apostrophē), as if from Hebrew teshuvah."
+    },
+    {
+     "m": "m",
+     "ref": "3:17",
+     "text": "Or “to the human.” The Hebrew vowel pointing here lacks the article, so it may be the personal name Adam (see 2:20)."
+    },
+    {
+     "m": "n",
+     "ref": "3:17",
+     "text": "Hebrew itstsavon, from the same root as the woman’s “pain” in 3:16. Man and woman share the same word of grief."
+    },
+    {
+     "m": "o",
+     "ref": "3:19",
+     "text": "Literally “of your nostrils” or “of your face.”"
+    },
+    {
+     "m": "p",
+     "ref": "3:20",
+     "text": "Hebrew Chavvah, which sounds like chai, “living.”"
+    },
+    {
+     "m": "q",
+     "ref": "3:22",
+     "text": "The Hebrew sentence breaks off without finishing. Verse 23 supplies the action."
+    },
+    {
+     "m": "r",
+     "ref": "3:24",
+     "text": "The Septuagint reads: “He drove out Adam and settled him opposite the garden of delight, and stationed the cherubim…”"
+    },
+    {
+     "m": "s",
+     "ref": "3:24",
+     "text": "Cherubim is the Hebrew plural of cherub: winged guardian beings, later pictured over the ark of the covenant (Exodus 25:18–22)."
+    },
+    {
+     "m": "t",
+     "ref": "3:24",
+     "text": "Literally “the flame of the sword that turns itself about,” that is, a flashing, whirling blade."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    3,
+    9,
+    17,
+    23,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now the human knew{a} Eve his wife, and she conceived and gave birth to Cain.{b} She said, “I have gained a man with the help of the LORD.”{c}"
+    },
+    {
+     "v": 2,
+     "text": "Then she gave birth again, to his brother Abel.{d} Abel became a keeper of sheep, and Cain became a worker of the ground."
+    },
+    {
+     "v": 3,
+     "text": "In the course of time{e} Cain brought an offering to the LORD from the fruit of the ground."
+    },
+    {
+     "v": 4,
+     "text": "And Abel, for his part, brought some of the firstborn of his flock and some of their fat portions. The LORD looked with favor on Abel and on his offering,"
+    },
+    {
+     "v": 5,
+     "text": "but on Cain and on his offering he did not look with favor. So Cain became very angry, and his face fell."
+    },
+    {
+     "v": 6,
+     "text": "The LORD said to Cain, “Why are you angry, and why has your face fallen?"
+    },
+    {
+     "v": 7,
+     "text": "If you do what is good, will there not be a lifting up?{f} But if you do not do what is good, sin is crouching at the door.{g} Its desire is for you, but you must rule over it.”"
+    },
+    {
+     "v": 8,
+     "text": "Cain spoke to Abel his brother.{h} And when they were in the field, Cain rose up against Abel his brother and killed him."
+    },
+    {
+     "v": 9,
+     "text": "Then the LORD said to Cain, “Where is Abel your brother?” He said, “I do not know. Am I my brother’s keeper?”{i}"
+    },
+    {
+     "v": 10,
+     "text": "And the LORD said, “What have you done? The voice of your brother’s blood{j} is crying out to me from the ground."
+    },
+    {
+     "v": 11,
+     "text": "Now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+    },
+    {
+     "v": 12,
+     "text": "When you work the ground, it will no longer give its strength to you. You will be a restless wanderer{k} on the earth.”"
+    },
+    {
+     "v": 13,
+     "text": "Cain said to the LORD, “My punishment{l} is greater than I can bear."
+    },
+    {
+     "v": 14,
+     "text": "Look, today you have driven me from the face of the ground, and I will be hidden from your face. I will be a restless wanderer on the earth, and whoever finds me will kill me.”"
+    },
+    {
+     "v": 15,
+     "text": "But the LORD said to him, “Therefore,{m} whoever kills Cain will suffer vengeance seven times over.” And the LORD put a sign{n} on Cain, so that no one who found him would strike him down."
+    },
+    {
+     "v": 16,
+     "text": "Then Cain went out from the presence of the LORD and settled in the land of Nod,{o} east of Eden."
+    },
+    {
+     "v": 17,
+     "text": "Cain knew his wife, and she conceived and gave birth to Enoch.{p} Cain was building a city, and he named the city after his son, Enoch."
+    },
+    {
+     "v": 18,
+     "text": "To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech."
+    },
+    {
+     "v": 19,
+     "text": "Lamech took two wives for himself. The name of the one was Adah, and the name of the other was Zillah."
+    },
+    {
+     "v": 20,
+     "text": "Adah gave birth to Jabal. He was the father of those who live in tents and keep livestock."
+    },
+    {
+     "v": 21,
+     "text": "His brother’s name was Jubal. He was the father of all who play the lyre and the pipe.{q}"
+    },
+    {
+     "v": 22,
+     "text": "Zillah also gave birth to Tubal-cain, who forged all kinds of tools of bronze and iron.{r} The sister of Tubal-cain was Naamah."
+    },
+    {
+     "v": 23,
+     "text": "Lamech said to his wives:{s} “Adah and Zillah, hear my voice; wives of Lamech, listen to what I say. I have killed a man for wounding me, a young man for striking me."
+    },
+    {
+     "v": 24,
+     "text": "If Cain is avenged seven times, then Lamech seventy-seven times.”{t}"
+    },
+    {
+     "v": 25,
+     "text": "Adam knew his wife again, and she gave birth to a son and named him Seth,{u} for she said, “God has appointed for me another offspring in place of Abel, because Cain killed him.”"
+    },
+    {
+     "v": 26,
+     "text": "To Seth also a son was born, and he named him Enosh.{v} At that time people began to call on the name of the LORD.{w}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Hebrew yada, “knew,” a common idiom for sexual union."
+    },
+    {
+     "m": "b",
+     "ref": "4:1",
+     "text": "Cain (Hebrew Qayin) sounds like qaniti, “I have gained.” The name itself may also mean “metalworker” (compare Tubal-cain, 4:22)."
+    },
+    {
+     "m": "c",
+     "ref": "4:1",
+     "text": "Literally “with the LORD” (et-YHWH). The Septuagint reads “through God.” Other proposals: “I have created a man, as the LORD did” or “I have gained a man, the LORD.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:2",
+     "text": "Abel (Hebrew Hevel) means “breath” or “vapor,” the word translated “meaningless” or “vanity” in Ecclesiastes. It hints at his brief life."
+    },
+    {
+     "m": "e",
+     "ref": "4:3",
+     "text": "Literally “at the end of days.”"
+    },
+    {
+     "m": "f",
+     "ref": "4:7",
+     "text": "Hebrew seet, literally “a lifting.” It may mean acceptance, forgiveness (sin “lifted”), or a lifted face, the opposite of the fallen face in 4:5–6. This is one of the hardest verses in Genesis."
+    },
+    {
+     "m": "g",
+     "ref": "4:7",
+     "text": "“Crouching” (rovets) pictures an animal lying in wait; it may echo the Akkadian rabisu, a demon thought to lurk at doorways. The next words, “its desire is for you, but you must rule over it,” repeat the wording of 3:16."
+    },
+    {
+     "m": "h",
+     "ref": "4:8",
+     "text": "Literally “Cain said to Abel his brother,” but the Masoretic Text gives no words, and some Hebrew manuscripts leave a gap here. The Samaritan Pentateuch, the Septuagint (“into the plain”), the Syriac, and the Vulgate add: “Let us go out to the field.” We keep the shorter Hebrew and render “said to” as “spoke to.”"
+    },
+    {
+     "m": "i",
+     "ref": "4:9",
+     "text": "Hebrew shomer, from the same verb as “keep” in 2:15."
+    },
+    {
+     "m": "j",
+     "ref": "4:10",
+     "text": "“Blood” is plural in Hebrew (“bloods”). Jewish tradition (Mishnah Sanhedrin 4:5) took it to include the descendants Abel never had."
+    },
+    {
+     "m": "k",
+     "ref": "4:12",
+     "text": "Thought for thought. Hebrew na wanad, a rhyming pair meaning “wandering and drifting,” like tohu wabohu in 1:2. Nad anticipates the land of Nod (4:16). The Septuagint reads “groaning and trembling.”"
+    },
+    {
+     "m": "l",
+     "ref": "4:13",
+     "text": "Hebrew avon means both guilt and its punishment. The verse can also be read, “My guilt is too great to be forgiven” (literally “to be lifted,” the same verb as in 4:7). The Septuagint reads “My crime is too great for me to be forgiven.”"
+    },
+    {
+     "m": "m",
+     "ref": "4:15",
+     "text": "Hebrew lakhen, “therefore.” The Septuagint, the Syriac, and the Vulgate read “Not so!” (lo khen)."
+    },
+    {
+     "m": "n",
+     "ref": "4:15",
+     "text": "Hebrew ot, the same word used for the “signs” in the sky (1:14) and the rainbow (9:12). Its nature is not described; it is a mark of protection, not of shame."
+    },
+    {
+     "m": "o",
+     "ref": "4:16",
+     "text": "Nod means “wandering,” from the same root as “wanderer” in 4:12, 14."
+    },
+    {
+     "m": "p",
+     "ref": "4:17",
+     "text": "Enoch (Hebrew Chanokh) may mean “dedicated.” This is Cain’s son, not the Enoch of 5:18–24. The Hebrew can also be read to mean that Enoch built the city and named it after his own son."
+    },
+    {
+     "m": "q",
+     "ref": "4:21",
+     "text": "Hebrew kinnor, a stringed instrument, and ugav, probably a flute or pipe."
+    },
+    {
+     "m": "r",
+     "ref": "4:22",
+     "text": "Thought for thought. Literally “a sharpener of every cutting tool of bronze and iron.” Hebrew nechoshet means copper or bronze."
+    },
+    {
+     "m": "s",
+     "ref": "4:23",
+     "text": "Lamech’s words (4:23–24) are the first poem after Eden, a boast of revenge. The verbs can also be read as a threat: “I will kill a man for wounding me.”"
+    },
+    {
+     "m": "t",
+     "ref": "4:24",
+     "text": "Or “seventy times seven.” Jesus seems to reverse this boast when he tells Peter to forgive “seventy-seven times” (Matthew 18:22)."
+    },
+    {
+     "m": "u",
+     "ref": "4:25",
+     "text": "Seth (Hebrew Shet) sounds like shat, “he has appointed” or “granted.”"
+    },
+    {
+     "m": "v",
+     "ref": "4:26",
+     "text": "Enosh means “human” or “mortal,” a synonym of adam (Psalm 8:4)."
+    },
+    {
+     "m": "w",
+     "ref": "4:26",
+     "text": "Literally “then it was begun to call on the name of the LORD.” The Septuagint reads “he hoped to call on the name of the Lord God,” reading the Hebrew verb differently."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    25,
+    28,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "This is the book of the generations{a} of Adam. On the day that God created humankind,{b} he made him in the likeness of God."
+    },
+    {
+     "v": 2,
+     "text": "Male and female he created them, and he blessed them and named them Humankind{c} on the day they were created."
+    },
+    {
+     "v": 3,
+     "text": "When Adam had lived 130 years,{d} he fathered a son in his own likeness, according to his image, and named him Seth.{e}"
+    },
+    {
+     "v": 4,
+     "text": "The days of Adam after he fathered Seth were 800 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 5,
+     "text": "So all the days that Adam lived were 930 years, and he died."
+    },
+    {
+     "v": 6,
+     "text": "When Seth had lived 105 years, he fathered Enosh."
+    },
+    {
+     "v": 7,
+     "text": "Seth lived after he fathered Enosh 807 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 8,
+     "text": "So all the days of Seth were 912 years, and he died."
+    },
+    {
+     "v": 9,
+     "text": "When Enosh had lived 90 years, he fathered Kenan.{f}"
+    },
+    {
+     "v": 10,
+     "text": "Enosh lived after he fathered Kenan 815 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 11,
+     "text": "So all the days of Enosh were 905 years, and he died."
+    },
+    {
+     "v": 12,
+     "text": "When Kenan had lived 70 years, he fathered Mahalalel.{g}"
+    },
+    {
+     "v": 13,
+     "text": "Kenan lived after he fathered Mahalalel 840 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 14,
+     "text": "So all the days of Kenan were 910 years, and he died."
+    },
+    {
+     "v": 15,
+     "text": "When Mahalalel had lived 65 years, he fathered Jared.{h}"
+    },
+    {
+     "v": 16,
+     "text": "Mahalalel lived after he fathered Jared 830 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 17,
+     "text": "So all the days of Mahalalel were 895 years, and he died."
+    },
+    {
+     "v": 18,
+     "text": "When Jared had lived 162 years, he fathered Enoch."
+    },
+    {
+     "v": 19,
+     "text": "Jared lived after he fathered Enoch 800 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 20,
+     "text": "So all the days of Jared were 962 years, and he died."
+    },
+    {
+     "v": 21,
+     "text": "When Enoch had lived 65 years, he fathered Methuselah.{i}"
+    },
+    {
+     "v": 22,
+     "text": "Enoch walked with God{j} after he fathered Methuselah 300 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 23,
+     "text": "So all the days of Enoch were 365 years.{k}"
+    },
+    {
+     "v": 24,
+     "text": "Enoch walked with God, and then he was no more, for God took him.{l}"
+    },
+    {
+     "v": 25,
+     "text": "When Methuselah had lived 187 years, he fathered Lamech."
+    },
+    {
+     "v": 26,
+     "text": "Methuselah lived after he fathered Lamech 782 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 27,
+     "text": "So all the days of Methuselah were 969 years, and he died.{m}"
+    },
+    {
+     "v": 28,
+     "text": "When Lamech had lived 182 years, he fathered a son."
+    },
+    {
+     "v": 29,
+     "text": "He named him Noah, saying, “This one will comfort us{n} in our work and in the painful toil of our hands, from the ground that the LORD has cursed.”"
+    },
+    {
+     "v": 30,
+     "text": "Lamech lived after he fathered Noah 595 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 31,
+     "text": "So all the days of Lamech were 777 years, and he died."
+    },
+    {
+     "v": 32,
+     "text": "When Noah was 500 years old, Noah fathered Shem, Ham, and Japheth.{o}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Hebrew sefer toledot, “the written record of the family line.” It is the second toledot heading (see 2:4). Matthew 1:1 opens with the same phrase in Greek."
+    },
+    {
+     "m": "b",
+     "ref": "5:1",
+     "text": "Hebrew adam. In 5:1–2 the word looks back to 1:26–28 and means humankind; from 5:3 on it is the personal name Adam."
+    },
+    {
+     "m": "c",
+     "ref": "5:2",
+     "text": "Hebrew “Adam.”"
+    },
+    {
+     "m": "d",
+     "ref": "5:3",
+     "text": "Hebrew writes numbers in words, often smaller units first (literally “thirty and a hundred years”). We use figures for clarity throughout the genealogies."
+    },
+    {
+     "m": "e",
+     "ref": "5:3",
+     "text": "The ages in Genesis 5 differ among the witnesses; no Dead Sea Scroll preserves them. The Septuagint adds 100 years to the age at fatherhood of Adam, Seth, Enosh, Kenan, Mahalalel, and Enoch (230, 205, 190, 170, 165, 165) and subtracts 100 from the years that follow, so the life spans stay the same. It gives Methuselah 167 years at fatherhood and 802 after (Codex Alexandrinus: 187 and 782), and Lamech 188, 565, and 753 in all. The Samaritan Pentateuch agrees with the Masoretic Text except for Jared (62, 785, 847 in all), Methuselah (67, 653, 720), and Lamech (53, 600, 653). From creation to the flood these give 1,656 years (Masoretic), 1,307 (Samaritan), and 2,242 (Septuagint)."
+    },
+    {
+     "m": "f",
+     "ref": "5:9",
+     "text": "Kenan (Hebrew Qenan) is related to the name Cain. Several names in this line resemble names in Cain’s line (4:17–18): Enoch, Lamech, Irad/Jared, Methushael/Methuselah."
+    },
+    {
+     "m": "g",
+     "ref": "5:12",
+     "text": "Mahalalel means “praise of God.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:15",
+     "text": "Jared probably means “descent.”"
+    },
+    {
+     "m": "i",
+     "ref": "5:21",
+     "text": "Methuselah probably means “man of the spear” or “man of Shelah.”"
+    },
+    {
+     "m": "j",
+     "ref": "5:22",
+     "text": "Literally “walked about with God,” a picture of close, daily fellowship, said also of Noah (6:9). The Septuagint reads “was well-pleasing to God,” the wording quoted in Hebrews 11:5."
+    },
+    {
+     "m": "k",
+     "ref": "5:23",
+     "text": "365, the number of days in a solar year. The book of 1 Enoch, quoted in Jude 14–15, develops traditions about Enoch, including a solar calendar."
+    },
+    {
+     "m": "l",
+     "ref": "5:24",
+     "text": "Literally “and he was not.” “Took” (laqach) is the verb used when Elijah is taken up (2 Kings 2:3, 10). The Septuagint reads “he was not found, because God transferred him” (Hebrews 11:5)."
+    },
+    {
+     "m": "m",
+     "ref": "5:27",
+     "text": "By the Masoretic numbers Methuselah dies in the year of the flood. By the main Septuagint numbers he would outlive the flood by 14 years, an early difficulty that the reading of Codex Alexandrinus (187 years) avoids."
+    },
+    {
+     "m": "n",
+     "ref": "5:29",
+     "text": "Noah (Hebrew Noach) sounds like nuach, “rest,” and is linked here with nacham, “comfort.” The Septuagint reads “will give us rest.” “Painful toil” (itstsavon) and the cursed ground look back to 3:17."
+    },
+    {
+     "m": "o",
+     "ref": "5:32",
+     "text": "Shem means “name.” Ham may mean “hot” or “warm.” Japheth is played on in 9:27 (“enlarge”). The order may not be by age (see 9:24; 10:21)."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    5,
+    9,
+    11,
+    13,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When humankind began to multiply on the face of the ground, and daughters were born to them,"
+    },
+    {
+     "v": 2,
+     "text": "the sons of God{a} saw that the daughters of humankind were beautiful, and they took as wives any of them they chose."
+    },
+    {
+     "v": 3,
+     "text": "Then the LORD said, “My Spirit will not remain{b} in humankind forever, because they are flesh.{c} Their days will be 120 years.”{d}"
+    },
+    {
+     "v": 4,
+     "text": "The Nephilim{e} were on the earth in those days, and also afterward, when the sons of God went in to the daughters of humankind and they bore children to them. These were the mighty men{f} of old, the men of renown.{g}"
+    },
+    {
+     "v": 5,
+     "text": "The LORD saw that the evil of humankind was great on the earth, and that every inclination{h} of the thoughts of their hearts was only evil all the time."
+    },
+    {
+     "v": 6,
+     "text": "And the LORD regretted{i} that he had made humankind on the earth, and he was grieved{j} in his heart."
+    },
+    {
+     "v": 7,
+     "text": "So the LORD said, “I will wipe out humankind, whom I have created, from the face of the ground: people and animals, creeping things and birds of the heavens, for I regret that I have made them.”"
+    },
+    {
+     "v": 8,
+     "text": "But Noah found favor{k} in the eyes of the LORD."
+    },
+    {
+     "v": 9,
+     "text": "This is the account of Noah. Noah was a righteous man, blameless{l} among the people of his time.{m} Noah walked with God."
+    },
+    {
+     "v": 10,
+     "text": "Noah fathered three sons: Shem, Ham, and Japheth."
+    },
+    {
+     "v": 11,
+     "text": "Now the earth was corrupt{n} in the sight of God, and the earth was filled with violence.{o}"
+    },
+    {
+     "v": 12,
+     "text": "God looked at the earth, and it was corrupt, for all flesh had corrupted its way on the earth."
+    },
+    {
+     "v": 13,
+     "text": "So God said to Noah, “I have decided to make an end of all flesh,{p} for the earth is filled with violence because of them. Now I am going to destroy them along with the earth."
+    },
+    {
+     "v": 14,
+     "text": "Make yourself an ark{q} of gopher wood.{r} Make rooms in the ark, and coat it inside and outside with pitch.{s}"
+    },
+    {
+     "v": 15,
+     "text": "This is how you are to make it: the length of the ark 300 cubits,{t} its width 50 cubits, and its height 30 cubits."
+    },
+    {
+     "v": 16,
+     "text": "Make a roof{u} for the ark, and finish it to a cubit from the top. Put the door of the ark in its side. Make it with lower, second, and third decks."
+    },
+    {
+     "v": 17,
+     "text": "For my part, I am going to bring the flood{v} of waters on the earth, to destroy all flesh in which there is the breath of life, from under the heavens. Everything that is on the earth will perish."
+    },
+    {
+     "v": 18,
+     "text": "But I will establish my covenant{w} with you, and you will go into the ark, you and your sons and your wife and your sons’ wives with you."
+    },
+    {
+     "v": 19,
+     "text": "And of every living thing, of all flesh, you are to bring two of every kind into the ark, to keep them alive with you. They are to be male and female."
+    },
+    {
+     "v": 20,
+     "text": "Of the birds according to their kind, of the livestock according to their kind, and of every creeping thing of the ground according to its kind, two of every kind will come to you to be kept alive."
+    },
+    {
+     "v": 21,
+     "text": "And you, take with you some of every kind of food that is eaten, and store it up; it will be food for you and for them.”"
+    },
+    {
+     "v": 22,
+     "text": "Noah did this. He did all that God commanded him; so he did."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Hebrew bene ha-elohim. There are three main readings. (1) Heavenly beings, as the same phrase means in Job 1:6, 2:1, and 38:7. This is the oldest known Jewish reading, told at length in 1 Enoch 6–16 (the Watchers) and Jubilees 5, and echoed in Jude 6 and 2 Peter 2:4; Codex Alexandrinus of the Septuagint reads “angels of God.” (2) Men of Seth’s godly line marrying women of Cain’s line, a view taught by Julius Africanus and Augustine. (3) Kings or powerful men, as in some rabbinic interpretation and Targum Onqelos (“sons of the great ones”)."
+    },
+    {
+     "m": "b",
+     "ref": "6:3",
+     "text": "Hebrew yadon, a verb found only here; its meaning is uncertain. The Septuagint and Vulgate read “remain.” Others render “strive with” or “contend with.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:3",
+     "text": "Hebrew beshaggam, “because also” (they are flesh). It may also be read “in their going astray.”"
+    },
+    {
+     "m": "d",
+     "ref": "6:3",
+     "text": "Either a limit on the human life span or the time left before the flood."
+    },
+    {
+     "m": "e",
+     "ref": "6:4",
+     "text": "Nephilim is left untranslated. It may come from naphal, “fall,” so “fallen ones” or “those who fall upon others.” The Septuagint reads gigantes, “giants.” The only other use is Numbers 13:33. The Hebrew does not clearly say the Nephilim were the children of these unions; they were already there “in those days.”"
+    },
+    {
+     "m": "f",
+     "ref": "6:4",
+     "text": "Hebrew gibborim, “warriors” or “heroes.”"
+    },
+    {
+     "m": "g",
+     "ref": "6:4",
+     "text": "Literally “men of the name.” Compare the builders who want to make a “name” for themselves in 11:4."
+    },
+    {
+     "m": "h",
+     "ref": "6:5",
+     "text": "Hebrew yetser, from yatsar, “to form” (2:7): what the heart shapes and plans. Later Jewish teaching speaks of the yetser ha-ra, the “evil inclination.”"
+    },
+    {
+     "m": "i",
+     "ref": "6:6",
+     "text": "Hebrew nacham, which can mean “regret,” “be sorry,” “change one’s mind,” or “be comforted.” It plays on Noah’s name (5:29). Scripture uses human language to express God’s grief while also teaching that God does not change his mind as humans do (Numbers 23:19)."
+    },
+    {
+     "m": "j",
+     "ref": "6:6",
+     "text": "From the same root as “pain” and “painful toil” in 3:16–17 and 5:29. God shares the grief that sin brought on people."
+    },
+    {
+     "m": "k",
+     "ref": "6:8",
+     "text": "Hebrew chen, “favor” or “grace.” Its consonants (ch-n) are those of Noah’s name (n-ch) reversed."
+    },
+    {
+     "m": "l",
+     "ref": "6:9",
+     "text": "Hebrew tamim, “whole, complete, sound,” the word used for sacrificial animals without defect. It does not mean sinless (see 9:21)."
+    },
+    {
+     "m": "m",
+     "ref": "6:9",
+     "text": "Literally “in his generations.”"
+    },
+    {
+     "m": "n",
+     "ref": "6:11",
+     "text": "Hebrew shachat, “spoiled, ruined.” The same verb is translated “destroy” in 6:13, 17: God brings to ruin what people had already ruined."
+    },
+    {
+     "m": "o",
+     "ref": "6:11",
+     "text": "Hebrew chamas, violence or brutal wrongdoing."
+    },
+    {
+     "m": "p",
+     "ref": "6:13",
+     "text": "Thought for thought. Literally “The end of all flesh has come before me.”"
+    },
+    {
+     "m": "q",
+     "ref": "6:14",
+     "text": "Hebrew tevah, a box or chest. The only other use is the basket in which the baby Moses was saved (Exodus 2:3–5)."
+    },
+    {
+     "m": "r",
+     "ref": "6:14",
+     "text": "The wood is unknown, perhaps cypress or another resinous wood, so the Hebrew word is kept. The Septuagint reads “squared timber.”"
+    },
+    {
+     "m": "s",
+     "ref": "6:14",
+     "text": "Hebrew kofer, from kafar, “to cover,” the same root later used for atonement."
+    },
+    {
+     "m": "t",
+     "ref": "6:15",
+     "text": "A cubit is the length of a forearm, about 18 inches (45 cm). The ark was about 450 feet long, 75 feet wide, and 45 feet high (135 by 22.5 by 13.5 meters)."
+    },
+    {
+     "m": "u",
+     "ref": "6:16",
+     "text": "Hebrew tsohar, found only here. It may mean “roof” or an opening for light (compare tsohorayim, “noon”)."
+    },
+    {
+     "m": "v",
+     "ref": "6:17",
+     "text": "Hebrew mabbul, used almost only of this flood (compare Psalm 29:10)."
+    },
+    {
+     "m": "w",
+     "ref": "6:18",
+     "text": "Hebrew berit, the first use of “covenant” in the Bible. The promise is fulfilled in 9:8–17."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    6,
+    11,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then the LORD said to Noah, “Go into the ark, you and all your household, for I have seen that you are righteous before me in this generation."
+    },
+    {
+     "v": 2,
+     "text": "Take with you seven pairs{a} of every clean animal, a male and its mate, and of the animals that are not clean, one pair, a male and its mate;"
+    },
+    {
+     "v": 3,
+     "text": "also of the birds of the heavens seven pairs, male and female,{b} to keep their offspring alive on the face of all the earth."
+    },
+    {
+     "v": 4,
+     "text": "For in seven days I will send rain on the earth for forty days and forty nights, and I will wipe out from the face of the ground every living thing{c} that I have made.”"
+    },
+    {
+     "v": 5,
+     "text": "And Noah did all that the LORD commanded him."
+    },
+    {
+     "v": 6,
+     "text": "Noah was 600 years old when the flood of waters came on the earth."
+    },
+    {
+     "v": 7,
+     "text": "Noah went into the ark, and his sons and his wife and his sons’ wives with him, to escape the waters of the flood."
+    },
+    {
+     "v": 8,
+     "text": "Of the clean animals and of the animals that are not clean, of the birds, and of everything that creeps on the ground,"
+    },
+    {
+     "v": 9,
+     "text": "two by two they came to Noah into the ark, male and female, as God had commanded Noah."
+    },
+    {
+     "v": 10,
+     "text": "After the seven days the waters of the flood came on the earth."
+    },
+    {
+     "v": 11,
+     "text": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month,{d} on that day all the springs of the great deep burst open, and the floodgates{e} of the heavens were opened."
+    },
+    {
+     "v": 12,
+     "text": "And the rain fell on the earth forty days and forty nights."
+    },
+    {
+     "v": 13,
+     "text": "On that very day Noah and his sons Shem, Ham, and Japheth, and Noah’s wife and the three wives of his sons with them, went into the ark,"
+    },
+    {
+     "v": 14,
+     "text": "they and every wild animal according to its kind, every kind of livestock according to its kind, every creeping thing that creeps on the earth according to its kind, and every bird according to its kind, every winged creature.{f}"
+    },
+    {
+     "v": 15,
+     "text": "They came to Noah into the ark, two by two of all flesh in which there was the breath of life."
+    },
+    {
+     "v": 16,
+     "text": "Those that went in, male and female of all flesh, went in as God had commanded him. Then the LORD shut him in.{g}"
+    },
+    {
+     "v": 17,
+     "text": "The flood continued forty days on the earth.{h} The waters increased and lifted up the ark, and it rose high above the earth."
+    },
+    {
+     "v": 18,
+     "text": "The waters prevailed{i} and increased greatly on the earth, and the ark floated on the face of the waters."
+    },
+    {
+     "v": 19,
+     "text": "The waters prevailed more and more on the earth, and all the high mountains under the whole heavens were covered."
+    },
+    {
+     "v": 20,
+     "text": "The waters prevailed fifteen cubits above them,{j} and the mountains were covered."
+    },
+    {
+     "v": 21,
+     "text": "All flesh that moved on the earth perished: birds, livestock, wild animals, every swarming creature that swarms on the earth, and every human being."
+    },
+    {
+     "v": 22,
+     "text": "Everything on the dry land that had the breath of the spirit of life in its nostrils{k} died."
+    },
+    {
+     "v": 23,
+     "text": "He wiped out every living thing that was on the face of the ground, people and animals, creeping things and birds of the heavens; they were wiped out from the earth. Only Noah was left, and those who were with him in the ark."
+    },
+    {
+     "v": 24,
+     "text": "And the waters prevailed on the earth 150 days.{l}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:2",
+     "text": "Literally “seven seven,” which may mean seven pairs or seven animals (three pairs and one more, perhaps for the sacrifice in 8:20). The Septuagint reads “sevens.” The distinction between clean and unclean animals looks ahead to Leviticus 11."
+    },
+    {
+     "m": "b",
+     "ref": "7:3",
+     "text": "The Septuagint adds “of the clean birds” and continues, “and of all the birds that are not clean, pairs, male and female.”"
+    },
+    {
+     "m": "c",
+     "ref": "7:4",
+     "text": "Hebrew yequm, a rare word: “everything that stands” or “everything that exists.”"
+    },
+    {
+     "m": "d",
+     "ref": "7:11",
+     "text": "The Septuagint reads “on the twenty-seventh day.” It also gives the twenty-seventh day in 8:4 and 8:14, so that in the Greek the flood lasts exactly one year."
+    },
+    {
+     "m": "e",
+     "ref": "7:11",
+     "text": "Hebrew arubbot, “windows” or “lattices,” picturing the sky as a vault with openings (compare 1:6–8)."
+    },
+    {
+     "m": "f",
+     "ref": "7:14",
+     "text": "Literally “every bird, every wing.”"
+    },
+    {
+     "m": "g",
+     "ref": "7:16",
+     "text": "The verse moves from “God” (Elohim) to “the LORD” (YHWH). Scholars have connected such changes with different sources, and readers have long noted the personal care shown: the LORD himself closes the door."
+    },
+    {
+     "m": "h",
+     "ref": "7:17",
+     "text": "The Septuagint reads “forty days and forty nights.”"
+    },
+    {
+     "m": "i",
+     "ref": "7:18",
+     "text": "Hebrew gavar, “grew strong” or “overpowered,” repeated four times (7:18, 19, 20, 24)."
+    },
+    {
+     "m": "j",
+     "ref": "7:20",
+     "text": "Literally “fifteen cubits upward,” about 22 feet (7 meters): above the peaks, or half the ark’s height, so that the ark could float clear of them."
+    },
+    {
+     "m": "k",
+     "ref": "7:22",
+     "text": "Literally “in whose nostrils was the breath of the spirit of life,” joining the wording of 2:7 and 6:17."
+    },
+    {
+     "m": "l",
+     "ref": "7:24",
+     "text": "Five months of 30 days, from the seventeenth day of the second month (7:11) to the seventeenth day of the seventh month (8:4)."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    6,
+    13,
+    15,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But God remembered{a} Noah and all the wild animals and all the livestock that were with him in the ark. God made a wind{b} blow over the earth, and the waters subsided."
+    },
+    {
+     "v": 2,
+     "text": "The springs of the deep and the floodgates of the heavens were closed, and the rain from the heavens was held back."
+    },
+    {
+     "v": 3,
+     "text": "The waters steadily receded{c} from the earth, and at the end of 150 days the waters had gone down."
+    },
+    {
+     "v": 4,
+     "text": "In the seventh month, on the seventeenth day of the month,{d} the ark came to rest{e} on the mountains of Ararat.{f}"
+    },
+    {
+     "v": 5,
+     "text": "The waters continued to go down until the tenth month. In the tenth month, on the first day of the month, the tops of the mountains became visible."
+    },
+    {
+     "v": 6,
+     "text": "At the end of forty days Noah opened the window of the ark that he had made,"
+    },
+    {
+     "v": 7,
+     "text": "and he sent out the raven. It went out and kept going back and forth{g} until the waters had dried up from the earth."
+    },
+    {
+     "v": 8,
+     "text": "Then he sent out the dove from him, to see whether the waters had gone down from the face of the ground."
+    },
+    {
+     "v": 9,
+     "text": "But the dove found no resting place{h} for the sole of its foot, and it returned to him into the ark, for there was water on the face of the whole earth. So he reached out his hand, took it, and brought it back to himself into the ark."
+    },
+    {
+     "v": 10,
+     "text": "He waited another seven days, and again he sent out the dove from the ark."
+    },
+    {
+     "v": 11,
+     "text": "The dove came back to him in the evening, and in its beak was a freshly plucked olive leaf. So Noah knew that the waters had gone down from the earth."
+    },
+    {
+     "v": 12,
+     "text": "He waited yet another seven days and sent out the dove, and it did not return to him again."
+    },
+    {
+     "v": 13,
+     "text": "In the six hundred and first year,{i} in the first month, on the first day of the month, the waters had dried from the earth. Noah removed the covering of the ark and looked, and the face of the ground was dry."
+    },
+    {
+     "v": 14,
+     "text": "In the second month, on the twenty-seventh day of the month, the earth was fully dry.{j}"
+    },
+    {
+     "v": 15,
+     "text": "Then God spoke to Noah, saying,"
+    },
+    {
+     "v": 16,
+     "text": "“Go out from the ark, you and your wife, and your sons and your sons’ wives with you."
+    },
+    {
+     "v": 17,
+     "text": "Bring out with you every living thing that is with you, of all flesh: birds, livestock, and every creeping thing that creeps on the earth, so that they may swarm on the earth and be fruitful and multiply on the earth.”"
+    },
+    {
+     "v": 18,
+     "text": "So Noah went out, and his sons and his wife and his sons’ wives with him."
+    },
+    {
+     "v": 19,
+     "text": "Every animal, every creeping thing, and every bird, everything that moves on the earth, went out of the ark by their families."
+    },
+    {
+     "v": 20,
+     "text": "Then Noah built an altar to the LORD, and he took some of every clean animal and of every clean bird and offered burnt offerings on the altar."
+    },
+    {
+     "v": 21,
+     "text": "The LORD smelled the soothing aroma,{k} and the LORD said in his heart, “I will never again curse the ground because of humankind, even though the inclination of the human heart is evil from youth.{l} Never again will I strike down every living thing, as I have done."
+    },
+    {
+     "v": 22,
+     "text": "As long as the earth remains,{m} sowing and harvest, cold and heat, summer and winter, day and night will not cease.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "Hebrew zakar. In the Bible, God “remembering” means acting on someone’s behalf, not recalling what was forgotten (compare Exodus 2:24). The verse is the turning point of the flood account."
+    },
+    {
+     "m": "b",
+     "ref": "8:1",
+     "text": "Hebrew ruach, as in 1:2. The flood account echoes creation: wind over the waters, dry land appearing, and living things told to be fruitful (8:17)."
+    },
+    {
+     "m": "c",
+     "ref": "8:3",
+     "text": "Literally “going and returning.”"
+    },
+    {
+     "m": "d",
+     "ref": "8:4",
+     "text": "The Septuagint reads “twenty-seventh day” (see 7:11)."
+    },
+    {
+     "m": "e",
+     "ref": "8:4",
+     "text": "Hebrew wattanach, from nuach, “rest,” the word behind Noah’s name (5:29)."
+    },
+    {
+     "m": "f",
+     "ref": "8:4",
+     "text": "Ararat is a region (Assyrian Urartu) in what is now eastern Turkey and Armenia. The text says “mountains,” not a single peak."
+    },
+    {
+     "m": "g",
+     "ref": "8:7",
+     "text": "Literally “going out and returning.” The Septuagint and Vulgate read that the raven “did not return.”"
+    },
+    {
+     "m": "h",
+     "ref": "8:9",
+     "text": "Hebrew manoach, again from nuach, “rest.”"
+    },
+    {
+     "m": "i",
+     "ref": "8:13",
+     "text": "The Septuagint reads “in the six hundred and first year of the life of Noah,” matching 7:11."
+    },
+    {
+     "m": "j",
+     "ref": "8:14",
+     "text": "In the Masoretic Text the flood lasts from 2/17 of Noah’s 600th year to 2/27 of his 601st: a lunar year of 354 days plus 11 days, which equals a solar year of 365 days. In the Septuagint (2/27 to 2/27) it lasts exactly one year."
+    },
+    {
+     "m": "k",
+     "ref": "8:21",
+     "text": "Hebrew reach ha-nichoach, “the restful (or soothing) aroma,” another play on Noah’s name (nuach, “rest”)."
+    },
+    {
+     "m": "l",
+     "ref": "8:21",
+     "text": "Or “for the inclination of the human heart is evil from youth.” The same diagnosis as 6:5 now leads to mercy rather than judgment."
+    },
+    {
+     "m": "m",
+     "ref": "8:22",
+     "text": "Literally “all the days of the earth.” The verse is a short poem of pairs."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    8,
+    12,
+    18,
+    20,
+    28
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "God blessed Noah and his sons, and said to them, “Be fruitful and multiply, and fill the earth."
+    },
+    {
+     "v": 2,
+     "text": "The fear of you and the dread of you will be on every animal of the earth and on every bird of the heavens, on everything that creeps on the ground and on all the fish of the sea. Into your hand they are given."
+    },
+    {
+     "v": 3,
+     "text": "Every moving thing that lives will be food for you. As I gave you the green plants, I now give you everything."
+    },
+    {
+     "v": 4,
+     "text": "But you must not eat flesh with its life, that is, its blood.{a}"
+    },
+    {
+     "v": 5,
+     "text": "And for your own lifeblood I will surely require a reckoning.{b} From every animal I will require it, and from humankind; from each person I will require the life of his fellow human.{c}"
+    },
+    {
+     "v": 6,
+     "text": "Whoever sheds the blood of a human, by a human{d} his blood will be shed, for in the image of God he made humankind."
+    },
+    {
+     "v": 7,
+     "text": "As for you, be fruitful and multiply; swarm on the earth and multiply on it.”{e}"
+    },
+    {
+     "v": 8,
+     "text": "Then God said to Noah and to his sons with him,"
+    },
+    {
+     "v": 9,
+     "text": "“As for me, I am establishing my covenant with you and with your offspring after you,"
+    },
+    {
+     "v": 10,
+     "text": "and with every living creature that is with you: the birds, the livestock, and every animal of the earth with you, all that came out of the ark, every animal of the earth."
+    },
+    {
+     "v": 11,
+     "text": "I will establish my covenant with you: never again will all flesh be cut off by the waters of a flood, and never again will there be a flood to destroy the earth.”"
+    },
+    {
+     "v": 12,
+     "text": "And God said, “This is the sign of the covenant that I am making between me and you and every living creature that is with you, for all future generations:"
+    },
+    {
+     "v": 13,
+     "text": "I have set my bow{f} in the cloud, and it will be the sign of the covenant between me and the earth."
+    },
+    {
+     "v": 14,
+     "text": "Whenever I bring clouds over the earth and the bow is seen in the cloud,"
+    },
+    {
+     "v": 15,
+     "text": "I will remember my covenant that is between me and you and every living creature of all flesh, and the waters will never again become a flood to destroy all flesh."
+    },
+    {
+     "v": 16,
+     "text": "When the bow is in the cloud, I will look at it and remember the everlasting covenant{g} between God and every living creature of all flesh that is on the earth.”"
+    },
+    {
+     "v": 17,
+     "text": "God said to Noah, “This is the sign of the covenant that I have established between me and all flesh that is on the earth.”"
+    },
+    {
+     "v": 18,
+     "text": "The sons of Noah who went out of the ark were Shem, Ham, and Japheth. Ham was the father of Canaan."
+    },
+    {
+     "v": 19,
+     "text": "These three were the sons of Noah, and from these the whole earth was populated.{h}"
+    },
+    {
+     "v": 20,
+     "text": "Noah, a man of the soil, was the first to plant a vineyard.{i}"
+    },
+    {
+     "v": 21,
+     "text": "He drank some of the wine and became drunk, and he lay uncovered inside his tent."
+    },
+    {
+     "v": 22,
+     "text": "Ham, the father of Canaan, saw his father’s nakedness{j} and told his two brothers outside."
+    },
+    {
+     "v": 23,
+     "text": "Then Shem and Japheth took a cloak, laid it on both their shoulders, walked in backward, and covered their father’s nakedness. Their faces were turned away, and they did not see their father’s nakedness."
+    },
+    {
+     "v": 24,
+     "text": "When Noah awoke from his wine and learned what his youngest son{k} had done to him,"
+    },
+    {
+     "v": 25,
+     "text": "he said, “Cursed be Canaan!{l} A servant of servants{m} he will be to his brothers.”"
+    },
+    {
+     "v": 26,
+     "text": "He also said, “Blessed be the LORD, the God of Shem!{n} And let Canaan be his servant."
+    },
+    {
+     "v": 27,
+     "text": "May God enlarge Japheth,{o} and may he dwell in the tents of Shem,{p} and let Canaan be his servant.”"
+    },
+    {
+     "v": 28,
+     "text": "Noah lived after the flood 350 years."
+    },
+    {
+     "v": 29,
+     "text": "So all the days of Noah were 950 years, and he died."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:4",
+     "text": "Literally “flesh with its life (nefesh), its blood.” Blood stands for life, which belongs to God (Leviticus 17:11, 14; compare Acts 15:20)."
+    },
+    {
+     "m": "b",
+     "ref": "9:5",
+     "text": "Hebrew darash, “seek” or “demand.”"
+    },
+    {
+     "m": "c",
+     "ref": "9:5",
+     "text": "Literally “from the hand of each man, his brother, I will require the life of the human.”"
+    },
+    {
+     "m": "d",
+     "ref": "9:6",
+     "text": "The Hebrew is a six-word mirror: shofekh dam ha-adam ba-adam damo yishshafekh, “sheds / blood / of the human // by the human / his blood / will be shed.” “By a human” may also mean “in exchange for the human”; the Septuagint reads “in return for his blood.” The reason given looks back to 1:27."
+    },
+    {
+     "m": "e",
+     "ref": "9:7",
+     "text": "The Septuagint reads “fill the earth and rule over it,” and some scholars suggest the second Hebrew “multiply” (urevu) was originally “rule” (uredu), as in 1:28."
+    },
+    {
+     "m": "f",
+     "ref": "9:13",
+     "text": "Hebrew qeshet, the ordinary word for a war bow. The image may be of God hanging up his weapon."
+    },
+    {
+     "m": "g",
+     "ref": "9:16",
+     "text": "Hebrew berit olam, “everlasting covenant” (compare Isaiah 24:5)."
+    },
+    {
+     "m": "h",
+     "ref": "9:19",
+     "text": "Literally “was spread out” (nafats), looking ahead to the scattering in 10:32 and 11:8–9."
+    },
+    {
+     "m": "i",
+     "ref": "9:20",
+     "text": "Thought for thought. Literally “Noah, the man of the ground, began and planted a vineyard.” “Man of the ground” (adamah) recalls 2:5, 15 and 5:29."
+    },
+    {
+     "m": "j",
+     "ref": "9:22",
+     "text": "What Ham did is debated. Some read it as more than looking, since “uncovering the nakedness” of a father is a sexual idiom in Leviticus 18:7–8; others take it as a public act of shame toward his father."
+    },
+    {
+     "m": "k",
+     "ref": "9:24",
+     "text": "Hebrew qatan, “small,” here “younger” or “youngest.” Ham is usually listed second (5:32; 10:1)."
+    },
+    {
+     "m": "l",
+     "ref": "9:25",
+     "text": "The curse falls on Canaan, not on Ham, and looks ahead to Israel’s later conflict with the Canaanites. This verse was misused for centuries to defend slavery and racism. The text names only Canaan, not Ham’s other descendants (Cush, Egypt, Put; 10:6), and says nothing about skin color or race."
+    },
+    {
+     "m": "m",
+     "ref": "9:25",
+     "text": "A Hebrew superlative: “the lowest of servants.”"
+    },
+    {
+     "m": "n",
+     "ref": "9:26",
+     "text": "Instead of blessing Shem directly, Noah blesses Shem’s God. Shem means “name,” and the God of Shem is the LORD, who will give Abram a great name (12:2)."
+    },
+    {
+     "m": "o",
+     "ref": "9:27",
+     "text": "Hebrew yaft, “may he enlarge,” sounds like Yefet, Japheth. The Septuagint reads “make room for.”"
+    },
+    {
+     "m": "p",
+     "ref": "9:27",
+     "text": "“He” may be Japheth, or God dwelling among the descendants of Shem (so the Targums)."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    2,
+    6,
+    15,
+    21,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "This is the account of the sons of Noah: Shem, Ham, and Japheth. Sons were born to them after the flood."
+    },
+    {
+     "v": 2,
+     "text": "The sons of Japheth:{a} Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+    },
+    {
+     "v": 3,
+     "text": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah."
+    },
+    {
+     "v": 4,
+     "text": "The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.{b}"
+    },
+    {
+     "v": 5,
+     "text": "From these the coastland peoples{c} spread out in their lands, each with its own language, by their clans, in their nations."
+    },
+    {
+     "v": 6,
+     "text": "The sons of Ham: Cush, Mizraim,{d} Put, and Canaan."
+    },
+    {
+     "v": 7,
+     "text": "The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan."
+    },
+    {
+     "v": 8,
+     "text": "Cush fathered Nimrod.{e} He was the first on the earth to become a mighty warrior."
+    },
+    {
+     "v": 9,
+     "text": "He was a mighty hunter before the LORD.{f} That is why it is said, “Like Nimrod, a mighty hunter before the LORD.”"
+    },
+    {
+     "v": 10,
+     "text": "The beginning of his kingdom was Babel, Erech, Accad, and Calneh,{g} in the land of Shinar.{h}"
+    },
+    {
+     "v": 11,
+     "text": "From that land he went out to Assyria{i} and built Nineveh, Rehoboth-ir,{j} Calah,"
+    },
+    {
+     "v": 12,
+     "text": "and Resen, between Nineveh and Calah; that is the great city."
+    },
+    {
+     "v": 13,
+     "text": "Mizraim fathered the Ludim, the Anamim, the Lehabim, the Naphtuhim,"
+    },
+    {
+     "v": 14,
+     "text": "the Pathrusim, the Casluhim (from whom the Philistines came),{k} and the Caphtorim."
+    },
+    {
+     "v": 15,
+     "text": "Canaan fathered Sidon his firstborn, and Heth,{l}"
+    },
+    {
+     "v": 16,
+     "text": "and the Jebusites, the Amorites, the Girgashites,"
+    },
+    {
+     "v": 17,
+     "text": "the Hivites, the Arkites, the Sinites,"
+    },
+    {
+     "v": 18,
+     "text": "the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites spread out."
+    },
+    {
+     "v": 19,
+     "text": "The territory of the Canaanites reached from Sidon toward Gerar as far as Gaza, and toward Sodom, Gomorrah, Admah, and Zeboiim as far as Lasha."
+    },
+    {
+     "v": 20,
+     "text": "These are the sons of Ham, by their clans, by their languages, in their lands, in their nations."
+    },
+    {
+     "v": 21,
+     "text": "To Shem also, the father of all the sons of Eber{m} and the older brother of Japheth,{n} children were born."
+    },
+    {
+     "v": 22,
+     "text": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.{o}"
+    },
+    {
+     "v": 23,
+     "text": "The sons of Aram: Uz, Hul, Gether, and Mash.{p}"
+    },
+    {
+     "v": 24,
+     "text": "Arpachshad fathered Shelah,{q} and Shelah fathered Eber."
+    },
+    {
+     "v": 25,
+     "text": "To Eber were born two sons. The name of the one was Peleg,{r} for in his days the earth was divided; and his brother’s name was Joktan."
+    },
+    {
+     "v": 26,
+     "text": "Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,"
+    },
+    {
+     "v": 27,
+     "text": "Hadoram, Uzal, Diklah,"
+    },
+    {
+     "v": 28,
+     "text": "Obal, Abimael, Sheba,"
+    },
+    {
+     "v": 29,
+     "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan."
+    },
+    {
+     "v": 30,
+     "text": "Their territory reached from Mesha toward Sephar, the hill country of the east."
+    },
+    {
+     "v": 31,
+     "text": "These are the sons of Shem, by their clans, by their languages, in their lands, in their nations."
+    },
+    {
+     "v": 32,
+     "text": "These are the clans of the sons of Noah, according to their generations, in their nations. From these the nations spread out over the earth after the flood.{s}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:2",
+     "text": "The names in this chapter are peoples and places as well as persons. Gomer is usually linked with the Cimmerians, Madai with the Medes, Javan with the Ionian Greeks, and Tubal and Meshech with peoples of Anatolia. The Septuagint adds Elisa to the sons of Japheth."
+    },
+    {
+     "m": "b",
+     "ref": "10:4",
+     "text": "The Samaritan Pentateuch, the Septuagint (“Rhodians”), and 1 Chronicles 1:7 read Rodanim, the people of Rhodes. In Hebrew script the letters d and r look very much alike."
+    },
+    {
+     "m": "c",
+     "ref": "10:5",
+     "text": "Literally “the coastlands of the nations,” the shores and islands of the Mediterranean. Many scholars think the words “These are the sons of Japheth” have dropped out here (compare 10:20, 31)."
+    },
+    {
+     "m": "d",
+     "ref": "10:6",
+     "text": "Mizraim is the Hebrew name for Egypt. Cush is the land south of Egypt; Put is probably Libya."
+    },
+    {
+     "m": "e",
+     "ref": "10:8",
+     "text": "Nimrod sounds like the Hebrew for “we will rebel” (marad). Jewish tradition made him the leader of the builders of Babel. “Mighty warrior” is gibbor, as in 6:4."
+    },
+    {
+     "m": "f",
+     "ref": "10:9",
+     "text": "“Before the LORD” may mean “in the LORD’s sight,” as a mark of greatness, or “in defiance of the LORD.”"
+    },
+    {
+     "m": "g",
+     "ref": "10:10",
+     "text": "With different vowels the Hebrew for “and Calneh” can be read “all of them”: “Babel, Erech, and Accad, all of them in the land of Shinar.”"
+    },
+    {
+     "m": "h",
+     "ref": "10:10",
+     "text": "Shinar is Babylonia, the land of Sumer and Akkad in southern Mesopotamia."
+    },
+    {
+     "m": "i",
+     "ref": "10:11",
+     "text": "Or “From that land Asshur went out.” The Hebrew can be read either way; the Septuagint takes Asshur (Assur) as the subject."
+    },
+    {
+     "m": "j",
+     "ref": "10:11",
+     "text": "Literally “the broad places of the city,” possibly a district of Nineveh rather than a separate city."
+    },
+    {
+     "m": "k",
+     "ref": "10:14",
+     "text": "Many scholars think this note belongs after “the Caphtorim,” since Amos 9:7 and Jeremiah 47:4 say the Philistines came from Caphtor (probably Crete)."
+    },
+    {
+     "m": "l",
+     "ref": "10:15",
+     "text": "Heth is the ancestor of the Hittites (see Genesis 23)."
+    },
+    {
+     "m": "m",
+     "ref": "10:21",
+     "text": "The name Eber is linked with the word “Hebrew” (ivri)."
+    },
+    {
+     "m": "n",
+     "ref": "10:21",
+     "text": "Or “the brother of Japheth the elder.” The Hebrew does not make clear which brother was older; the Septuagint reads the second way."
+    },
+    {
+     "m": "o",
+     "ref": "10:22",
+     "text": "The Septuagint adds Cainan to the sons of Shem."
+    },
+    {
+     "m": "p",
+     "ref": "10:23",
+     "text": "1 Chronicles 1:17 and the Septuagint read Meshech (Greek Mosoch)."
+    },
+    {
+     "m": "q",
+     "ref": "10:24",
+     "text": "The Septuagint reads “Arpachshad fathered Cainan, and Cainan fathered Shelah,” as in 11:12–13 and Luke 3:36."
+    },
+    {
+     "m": "r",
+     "ref": "10:25",
+     "text": "Peleg means “division,” from palag, “divide.” The division may be the scattering of peoples in 11:1–9, or the land divided by canals."
+    },
+    {
+     "m": "s",
+     "ref": "10:32",
+     "text": "The Masoretic Text names seventy peoples, a number of completeness (compare Deuteronomy 10:22). With its additions the Septuagint has more; Luke 10:1 has a similar variant, seventy or seventy-two sent out."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    10,
+    27
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now the whole earth had one language and the same words.{a}"
+    },
+    {
+     "v": 2,
+     "text": "As people journeyed from the east,{b} they found a plain in the land of Shinar and settled there."
+    },
+    {
+     "v": 3,
+     "text": "They said to one another, “Come, let us make bricks and bake them hard.”{c} They had brick for stone and bitumen for mortar."
+    },
+    {
+     "v": 4,
+     "text": "Then they said, “Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name{d} for ourselves, so that we will not be scattered over the face of the whole earth.”"
+    },
+    {
+     "v": 5,
+     "text": "The LORD came down to see the city and the tower that the children of humankind had built.{e}"
+    },
+    {
+     "v": 6,
+     "text": "And the LORD said, “Look, they are one people, and they all have one language, and this is only the beginning of what they will do. Now nothing that they plan to do will be beyond their reach."
+    },
+    {
+     "v": 7,
+     "text": "Come, let us go down and confuse their language{f} there, so that they will not understand one another’s speech.”"
+    },
+    {
+     "v": 8,
+     "text": "So the LORD scattered them from there over the face of the whole earth, and they stopped building the city."
+    },
+    {
+     "v": 9,
+     "text": "That is why it was named Babel,{g} because there the LORD confused the language of the whole earth, and from there the LORD scattered them over the face of the whole earth."
+    },
+    {
+     "v": 10,
+     "text": "This is the account of Shem.{h} When Shem was 100 years old, he fathered Arpachshad, two years after the flood."
+    },
+    {
+     "v": 11,
+     "text": "Shem lived after he fathered Arpachshad 500 years, and he fathered sons and daughters.{i}"
+    },
+    {
+     "v": 12,
+     "text": "When Arpachshad had lived 35 years, he fathered Shelah.{j}"
+    },
+    {
+     "v": 13,
+     "text": "Arpachshad lived after he fathered Shelah 403 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 14,
+     "text": "When Shelah had lived 30 years, he fathered Eber."
+    },
+    {
+     "v": 15,
+     "text": "Shelah lived after he fathered Eber 403 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 16,
+     "text": "When Eber had lived 34 years, he fathered Peleg."
+    },
+    {
+     "v": 17,
+     "text": "Eber lived after he fathered Peleg 430 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 18,
+     "text": "When Peleg had lived 30 years, he fathered Reu."
+    },
+    {
+     "v": 19,
+     "text": "Peleg lived after he fathered Reu 209 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 20,
+     "text": "When Reu had lived 32 years, he fathered Serug."
+    },
+    {
+     "v": 21,
+     "text": "Reu lived after he fathered Serug 207 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 22,
+     "text": "When Serug had lived 30 years, he fathered Nahor."
+    },
+    {
+     "v": 23,
+     "text": "Serug lived after he fathered Nahor 200 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 24,
+     "text": "When Nahor had lived 29 years, he fathered Terah."
+    },
+    {
+     "v": 25,
+     "text": "Nahor lived after he fathered Terah 119 years, and he fathered sons and daughters."
+    },
+    {
+     "v": 26,
+     "text": "When Terah had lived 70 years, he fathered Abram,{k} Nahor, and Haran."
+    },
+    {
+     "v": 27,
+     "text": "This is the account of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot."
+    },
+    {
+     "v": 28,
+     "text": "Haran died during the lifetime of{l} Terah his father, in the land of his birth, in Ur of the Chaldeans.{m}"
+    },
+    {
+     "v": 29,
+     "text": "Abram and Nahor took wives for themselves. The name of Abram’s wife was Sarai,{n} and the name of Nahor’s wife was Milcah, the daughter of Haran, who was the father of Milcah and Iscah."
+    },
+    {
+     "v": 30,
+     "text": "Now Sarai was barren; she had no child.{o}"
+    },
+    {
+     "v": 31,
+     "text": "Terah took Abram his son, Lot the son of Haran, his grandson, and Sarai his daughter-in-law, the wife of Abram his son, and they set out together{p} from Ur of the Chaldeans to go to the land of Canaan. But when they came to Haran,{q} they settled there."
+    },
+    {
+     "v": 32,
+     "text": "The days of Terah were 205 years,{r} and Terah died in Haran."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:1",
+     "text": "Literally “one lip and the same (or few) words.”"
+    },
+    {
+     "m": "b",
+     "ref": "11:2",
+     "text": "Or “journeyed eastward.” Movement east runs through these chapters, away from Eden (3:24; 4:16)."
+    },
+    {
+     "m": "c",
+     "ref": "11:3",
+     "text": "The Hebrew is full of sound play: nilbenah levenim, “let us brick bricks,” and nisrefah lisrefah, “let us burn them for burning”; chemar (bitumen) and chomer (mortar). Southern Mesopotamia had little stone, so people built with baked brick."
+    },
+    {
+     "m": "d",
+     "ref": "11:4",
+     "text": "Hebrew shem, “name.” The builders try to make a name for themselves; in 12:2 God promises to make a great name for Abram, a descendant of Shem (whose name means “name”)."
+    },
+    {
+     "m": "e",
+     "ref": "11:5",
+     "text": "The tower meant to reach the heavens is so small that the LORD must “come down” to see it."
+    },
+    {
+     "m": "f",
+     "ref": "11:7",
+     "text": "Literally “their lip.” “Let us confuse” is navlah, from balal. Its consonants (n-b-l) reverse those of “let us make bricks” (l-b-n) in 11:3: the builders’ plan is turned back on them. On “let us,” see 1:26."
+    },
+    {
+     "m": "g",
+     "ref": "11:9",
+     "text": "Babel (the Hebrew name for Babylon) sounds like balal, “confuse” or “mix.” In Akkadian the city’s name, Bab-ili, meant “gate of god”; Genesis answers with a pun: not the gate of God but the place of confusion. The Septuagint renders the name “Confusion.”"
+    },
+    {
+     "m": "h",
+     "ref": "11:10",
+     "text": "Another toledot heading. Ten generations from Shem to Abram mirror the ten from Adam to Noah in chapter 5."
+    },
+    {
+     "m": "i",
+     "ref": "11:11",
+     "text": "The Samaritan Pentateuch and the Septuagint add “and he died” after each person in this list, and the Samaritan also gives each total life span. Ages at fatherhood and years that follow differ. Masoretic: Arpachshad 35/403, Shelah 30/403, Eber 34/430, Peleg 30/209, Reu 32/207, Serug 30/200, Nahor 29/119. Samaritan: 135/303, 130/303, 134/270, 130/109, 132/107, 130/100, 79/69. Septuagint: 135/400 (Alexandrinus 430), then Cainan 130/330, Shelah 130/330, Eber 134/270 (Alexandrinus 370), Peleg 130/209, Reu 132/207, Serug 130/200, Nahor 179/125 (Alexandrinus 79/129). No Dead Sea Scroll preserves these numbers."
+    },
+    {
+     "m": "j",
+     "ref": "11:12",
+     "text": "The Septuagint has an extra generation here: Arpachshad fathers Cainan, and Cainan (130 years, then 330 more) fathers Shelah. Luke 3:36 includes this Cainan, and Jubilees 8 also knows him as Kainam. He is absent from the Masoretic Text, the Samaritan Pentateuch, and 1 Chronicles 1:18, 24."
+    },
+    {
+     "m": "k",
+     "ref": "11:26",
+     "text": "Abram means “exalted father”; in 17:5 he is renamed Abraham. He is named first but may not be the eldest: if Terah died at 205 (11:32) and Abram left Haran at 75 after his father’s death (12:4; Acts 7:4), Abram was born when Terah was 130."
+    },
+    {
+     "m": "l",
+     "ref": "11:28",
+     "text": "Literally “on the face of,” that is, while his father was still alive."
+    },
+    {
+     "m": "m",
+     "ref": "11:28",
+     "text": "Ur was a great city of southern Mesopotamia. “Of the Chaldeans” uses a later name for the region, updating it for readers. The Septuagint reads “in the land of the Chaldeans.”"
+    },
+    {
+     "m": "n",
+     "ref": "11:29",
+     "text": "Sarai probably means “princess”; in 17:15 she is renamed Sarah. Jewish tradition identifies Iscah with Sarai, but the text does not say so."
+    },
+    {
+     "m": "o",
+     "ref": "11:30",
+     "text": "The Hebrew says it twice (“barren; there was to her no child”), using a rare word for child (valad). The whole story of the promise to Abram begins from this emptiness."
+    },
+    {
+     "m": "p",
+     "ref": "11:31",
+     "text": "Literally “they went out with them.” The Septuagint and Vulgate read “he brought them out.”"
+    },
+    {
+     "m": "q",
+     "ref": "11:31",
+     "text": "The city Haran (Hebrew Charan) in northern Mesopotamia is spelled differently in Hebrew from the name of Terah’s son Haran."
+    },
+    {
+     "m": "r",
+     "ref": "11:32",
+     "text": "The Samaritan Pentateuch reads 145 years. By that number Terah died in the year Abram left Haran (11:26; 12:4), which matches Stephen’s words in Acts 7:4."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,807 @@
+{
+ "edition": "Draft 0.1",
+ "divisions": [
+  "Old Testament",
+  "Apocrypha",
+  "New Testament",
+  "Pseudepigrapha"
+ ],
+ "books": [
+  {
+   "id": "genesis",
+   "name": "Genesis",
+   "division": "Old Testament",
+   "chapterCount": "50",
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "file": "data/books/genesis.json"
+  },
+  {
+   "id": "exodus",
+   "name": "Exodus",
+   "division": "Old Testament",
+   "chapterCount": "40",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "leviticus",
+   "name": "Leviticus",
+   "division": "Old Testament",
+   "chapterCount": "27",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "numbers",
+   "name": "Numbers",
+   "division": "Old Testament",
+   "chapterCount": "36",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "deuteronomy",
+   "name": "Deuteronomy",
+   "division": "Old Testament",
+   "chapterCount": "34",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "joshua",
+   "name": "Joshua",
+   "division": "Old Testament",
+   "chapterCount": "24",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "judges",
+   "name": "Judges",
+   "division": "Old Testament",
+   "chapterCount": "21",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "ruth",
+   "name": "Ruth",
+   "division": "Old Testament",
+   "chapterCount": "4",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-samuel",
+   "name": "1 Samuel",
+   "division": "Old Testament",
+   "chapterCount": "31",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-samuel",
+   "name": "2 Samuel",
+   "division": "Old Testament",
+   "chapterCount": "24",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-kings",
+   "name": "1 Kings",
+   "division": "Old Testament",
+   "chapterCount": "22",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-kings",
+   "name": "2 Kings",
+   "division": "Old Testament",
+   "chapterCount": "25",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-chronicles",
+   "name": "1 Chronicles",
+   "division": "Old Testament",
+   "chapterCount": "29",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-chronicles",
+   "name": "2 Chronicles",
+   "division": "Old Testament",
+   "chapterCount": "36",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "ezra",
+   "name": "Ezra",
+   "division": "Old Testament",
+   "chapterCount": "10",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "nehemiah",
+   "name": "Nehemiah",
+   "division": "Old Testament",
+   "chapterCount": "13",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "esther",
+   "name": "Esther",
+   "division": "Old Testament",
+   "chapterCount": "10",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "job",
+   "name": "Job",
+   "division": "Old Testament",
+   "chapterCount": "42",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "psalms",
+   "name": "Psalms",
+   "division": "Old Testament",
+   "chapterCount": "150",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "proverbs",
+   "name": "Proverbs",
+   "division": "Old Testament",
+   "chapterCount": "31",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "ecclesiastes",
+   "name": "Ecclesiastes",
+   "division": "Old Testament",
+   "chapterCount": "12",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "song-of-songs",
+   "name": "Song of Songs",
+   "division": "Old Testament",
+   "chapterCount": "8",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "isaiah",
+   "name": "Isaiah",
+   "division": "Old Testament",
+   "chapterCount": "66",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "jeremiah",
+   "name": "Jeremiah",
+   "division": "Old Testament",
+   "chapterCount": "52",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "lamentations",
+   "name": "Lamentations",
+   "division": "Old Testament",
+   "chapterCount": "5",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "ezekiel",
+   "name": "Ezekiel",
+   "division": "Old Testament",
+   "chapterCount": "48",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "daniel",
+   "name": "Daniel",
+   "division": "Old Testament",
+   "chapterCount": "12",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "hosea",
+   "name": "Hosea",
+   "division": "Old Testament",
+   "chapterCount": "14",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "joel",
+   "name": "Joel",
+   "division": "Old Testament",
+   "chapterCount": "3",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "amos",
+   "name": "Amos",
+   "division": "Old Testament",
+   "chapterCount": "9",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "obadiah",
+   "name": "Obadiah",
+   "division": "Old Testament",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "jonah",
+   "name": "Jonah",
+   "division": "Old Testament",
+   "chapterCount": "4",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "micah",
+   "name": "Micah",
+   "division": "Old Testament",
+   "chapterCount": "7",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "nahum",
+   "name": "Nahum",
+   "division": "Old Testament",
+   "chapterCount": "3",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "habakkuk",
+   "name": "Habakkuk",
+   "division": "Old Testament",
+   "chapterCount": "3",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "zephaniah",
+   "name": "Zephaniah",
+   "division": "Old Testament",
+   "chapterCount": "3",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "haggai",
+   "name": "Haggai",
+   "division": "Old Testament",
+   "chapterCount": "2",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "zechariah",
+   "name": "Zechariah",
+   "division": "Old Testament",
+   "chapterCount": "14",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "malachi",
+   "name": "Malachi",
+   "division": "Old Testament",
+   "chapterCount": "4",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "tobit",
+   "name": "Tobit",
+   "division": "Apocrypha",
+   "chapterCount": "14",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "judith",
+   "name": "Judith",
+   "division": "Apocrypha",
+   "chapterCount": "16",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "additions-to-esther",
+   "name": "Additions to Esther",
+   "division": "Apocrypha",
+   "chapterCount": "6 additions",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "wisdom-of-solomon",
+   "name": "Wisdom of Solomon",
+   "division": "Apocrypha",
+   "chapterCount": "19",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "sirach-ben-sira",
+   "name": "Sirach (Ben Sira)",
+   "division": "Apocrypha",
+   "chapterCount": "51",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "baruch",
+   "name": "Baruch",
+   "division": "Apocrypha",
+   "chapterCount": "5",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "letter-of-jeremiah",
+   "name": "Letter of Jeremiah",
+   "division": "Apocrypha",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "additions-to-daniel-prayer-of-azariah-and-song-of-the-three",
+   "name": "Additions to Daniel: Prayer of Azariah and Song of the Three",
+   "division": "Apocrypha",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "additions-to-daniel-susanna",
+   "name": "Additions to Daniel: Susanna",
+   "division": "Apocrypha",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "additions-to-daniel-bel-and-the-dragon",
+   "name": "Additions to Daniel: Bel and the Dragon",
+   "division": "Apocrypha",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-maccabees",
+   "name": "1 Maccabees",
+   "division": "Apocrypha",
+   "chapterCount": "16",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-maccabees",
+   "name": "2 Maccabees",
+   "division": "Apocrypha",
+   "chapterCount": "15",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "3-maccabees",
+   "name": "3 Maccabees",
+   "division": "Apocrypha",
+   "chapterCount": "7",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "4-maccabees",
+   "name": "4 Maccabees",
+   "division": "Apocrypha",
+   "chapterCount": "18",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-esdras",
+   "name": "1 Esdras",
+   "division": "Apocrypha",
+   "chapterCount": "9",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-esdras",
+   "name": "2 Esdras",
+   "division": "Apocrypha",
+   "chapterCount": "16",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "prayer-of-manasseh",
+   "name": "Prayer of Manasseh",
+   "division": "Apocrypha",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "psalm-151",
+   "name": "Psalm 151",
+   "division": "Apocrypha",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "matthew",
+   "name": "Matthew",
+   "division": "New Testament",
+   "chapterCount": "28",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "mark",
+   "name": "Mark",
+   "division": "New Testament",
+   "chapterCount": "16",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "luke",
+   "name": "Luke",
+   "division": "New Testament",
+   "chapterCount": "24",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "john",
+   "name": "John",
+   "division": "New Testament",
+   "chapterCount": "21",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "acts",
+   "name": "Acts",
+   "division": "New Testament",
+   "chapterCount": "28",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "romans",
+   "name": "Romans",
+   "division": "New Testament",
+   "chapterCount": "16",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-corinthians",
+   "name": "1 Corinthians",
+   "division": "New Testament",
+   "chapterCount": "16",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-corinthians",
+   "name": "2 Corinthians",
+   "division": "New Testament",
+   "chapterCount": "13",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "galatians",
+   "name": "Galatians",
+   "division": "New Testament",
+   "chapterCount": "6",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "ephesians",
+   "name": "Ephesians",
+   "division": "New Testament",
+   "chapterCount": "6",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "philippians",
+   "name": "Philippians",
+   "division": "New Testament",
+   "chapterCount": "4",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "colossians",
+   "name": "Colossians",
+   "division": "New Testament",
+   "chapterCount": "4",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-thessalonians",
+   "name": "1 Thessalonians",
+   "division": "New Testament",
+   "chapterCount": "5",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-thessalonians",
+   "name": "2 Thessalonians",
+   "division": "New Testament",
+   "chapterCount": "3",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-timothy",
+   "name": "1 Timothy",
+   "division": "New Testament",
+   "chapterCount": "6",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-timothy",
+   "name": "2 Timothy",
+   "division": "New Testament",
+   "chapterCount": "4",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "titus",
+   "name": "Titus",
+   "division": "New Testament",
+   "chapterCount": "3",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "philemon",
+   "name": "Philemon",
+   "division": "New Testament",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "hebrews",
+   "name": "Hebrews",
+   "division": "New Testament",
+   "chapterCount": "13",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "james",
+   "name": "James",
+   "division": "New Testament",
+   "chapterCount": "5",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-peter",
+   "name": "1 Peter",
+   "division": "New Testament",
+   "chapterCount": "5",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-peter",
+   "name": "2 Peter",
+   "division": "New Testament",
+   "chapterCount": "3",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-john",
+   "name": "1 John",
+   "division": "New Testament",
+   "chapterCount": "5",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-john",
+   "name": "2 John",
+   "division": "New Testament",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "3-john",
+   "name": "3 John",
+   "division": "New Testament",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "jude",
+   "name": "Jude",
+   "division": "New Testament",
+   "chapterCount": "1",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "revelation",
+   "name": "Revelation",
+   "division": "New Testament",
+   "chapterCount": "22",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "1-enoch",
+   "name": "1 Enoch",
+   "division": "Pseudepigrapha",
+   "chapterCount": "108",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "jubilees",
+   "name": "Jubilees",
+   "division": "Pseudepigrapha",
+   "chapterCount": "50",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-enoch",
+   "name": "2 Enoch",
+   "division": "Pseudepigrapha",
+   "chapterCount": "68 to 73 (varies)",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "2-baruch",
+   "name": "2 Baruch",
+   "division": "Pseudepigrapha",
+   "chapterCount": "87",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "4-baruch",
+   "name": "4 Baruch",
+   "division": "Pseudepigrapha",
+   "chapterCount": "9",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "testaments-of-the-twelve-patriarchs",
+   "name": "Testaments of the Twelve Patriarchs",
+   "division": "Pseudepigrapha",
+   "chapterCount": "12 testaments",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "psalms-of-solomon",
+   "name": "Psalms of Solomon",
+   "division": "Pseudepigrapha",
+   "chapterCount": "18",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "psalms-152-to-155",
+   "name": "Psalms 152 to 155",
+   "division": "Pseudepigrapha",
+   "chapterCount": "4 psalms",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "odes-of-solomon",
+   "name": "Odes of Solomon",
+   "division": "Pseudepigrapha",
+   "chapterCount": "42",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "life-of-adam-and-eve",
+   "name": "Life of Adam and Eve",
+   "division": "Pseudepigrapha",
+   "chapterCount": "51 sections",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "joseph-and-aseneth",
+   "name": "Joseph and Aseneth",
+   "division": "Pseudepigrapha",
+   "chapterCount": "29",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "apocalypse-of-abraham",
+   "name": "Apocalypse of Abraham",
+   "division": "Pseudepigrapha",
+   "chapterCount": "32",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "ascension-of-isaiah",
+   "name": "Ascension of Isaiah",
+   "division": "Pseudepigrapha",
+   "chapterCount": "11",
+   "translated": [],
+   "file": null
+  },
+  {
+   "id": "letter-of-aristeas",
+   "name": "Letter of Aristeas",
+   "division": "Pseudepigrapha",
+   "chapterCount": "322 sections",
+   "translated": [],
+   "file": null
+  }
+ ]
+}

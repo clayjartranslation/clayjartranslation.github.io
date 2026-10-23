@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Clay Jar Translation™ (CJT)</title>
+  <meta name="description" content="Clay Jar Translation™: a new English Bible translated from the oldest available witnesses and dedicated to the public domain.">
+  <meta name="theme-color" content="#fff9eb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1d1410" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="icons/favicon-48.png" sizes="48x48" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="CJT Bible">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    // Apply saved reading settings before first paint (no flash of wrong theme).
+    (function () {
+      try {
+        var s = JSON.parse(localStorage.getItem('cjt-settings') || '{}');
+        var d = document.documentElement;
+        if (s.theme === 'dark' || s.theme === 'light') d.dataset.theme = s.theme;
+        if (s.size) d.style.setProperty('--read-size', s.size + 'px');
+        if (s.notes === false) d.classList.add('notes-off');
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="bar" id="bar">
+    <a class="brand" href="#/" aria-label="Home">
+      <img src="icons/emblem-96.png" alt="" width="30" height="30">
+      <span>CJT</span>
+    </a>
+    <button class="bar-title" id="barTitle" type="button" hidden></button>
+    <nav class="bar-actions">
+      <a class="icon-btn" href="#/books" aria-label="Books" title="Books">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5zM4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/></svg>
+      </a>
+      <a class="icon-btn" href="#/search" aria-label="Search" title="Search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      </a>
+      <button class="icon-btn" id="settingsBtn" type="button" aria-label="Reading settings" title="Reading settings" aria-expanded="false" aria-controls="settings">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg>
+      </button>
+    </nav>
+  </header>
+
+  <div class="settings" id="settings" hidden>
+    <div class="setting">
+      <span class="setting-label">Text size</span>
+      <div class="stepper">
+        <button type="button" id="sizeDown" aria-label="Smaller text">A−</button>
+        <output id="sizeOut">19</output>
+        <button type="button" id="sizeUp" aria-label="Larger text">A+</button>
+      </div>
+    </div>
+    <div class="setting">
+      <span class="setting-label">Appearance</span>
+      <div class="seg" role="radiogroup" aria-label="Appearance">
+        <button type="button" role="radio" data-theme-opt="auto">Auto</button>
+        <button type="button" role="radio" data-theme-opt="light">Light</button>
+        <button type="button" role="radio" data-theme-opt="dark">Dark</button>
+      </div>
+    </div>
+    <div class="setting">
+      <label class="switch" for="notesToggle">
+        <span class="setting-label">Footnotes</span>
+        <input type="checkbox" id="notesToggle" role="switch">
+        <span class="track" aria-hidden="true"></span>
+      </label>
+    </div>
+  </div>
+
+  <main id="main" tabindex="-1">
+    <p class="loading">Loading…</p>
+  </main>
+
+  <div class="sheet-backdrop" id="sheetBackdrop" hidden></div>
+  <aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetRef" hidden>
+    <div class="sheet-head">
+      <strong id="sheetRef"></strong>
+      <button type="button" class="icon-btn" id="sheetClose" aria-label="Close note">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+    <p id="sheetText"></p>
+  </aside>
+
+  <footer class="foot">
+    <p><strong>Clay Jar Translation™ (CJT)</strong>. The translation text is dedicated to the public domain. No one owns it. Copy, print, share, translate, or sell it freely, with no permission needed.</p>
+    <p class="foot-small">Draft 0.1, made with AI assistance and not yet reviewed by scholars. <a href="#/about/draft">Read the note on this draft</a>.</p>
+  </footer>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
