@@ -16,7 +16,7 @@ manifest.webmanifest    install-to-home-screen info and icons
 icons/                  logo and app icons, made from the CJT logo
 data/books.json         the canon: all 98 books in 4 collections, with which chapters are done
 data/front-matter.json  name, dedication, prayer, method, conventions, sources, draft note
-data/books/genesis.json Genesis 1-11: verses, paragraph starts, lettered footnotes
+data/books/genesis.json Genesis (chapters done so far): verses, paragraph starts, lettered footnotes
 tools/add-book.js       adds a new or updated book JSON (validates it, updates the catalog)
 tools/extract-from-canvas.js  re-extracts the text from the project Page's source
 ```

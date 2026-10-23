@@ -1,6 +1,6 @@
 {
- "title": "The Clay Jar Translation (CJT)",
- "summary": "A new English Bible, translated afresh from the oldest available witnesses and given freely to the public domain. This is the project home: the charter, the prayer, the sources, the canon tracker, and the translated text, beginning with Genesis 1 to 11.",
+ "title": "The Clay Jar Translation™ (CJT)",
+ "summary": "A new English Bible, translated afresh from the oldest available witnesses and given freely to the public domain. This is the project home: the charter, the prayer, the sources, the canon tracker, and the translated text, beginning with the complete book of Genesis.",
  "sections": [
   {
    "type": "section",
@@ -12,7 +12,7 @@
      "items": [
       {
        "label": "Name",
-       "value": "The Clay Jar Translation"
+       "value": "The Clay Jar Translation™ (CJT)"
       },
       {
        "label": "Abbreviation",
@@ -63,7 +63,11 @@
     },
     {
      "type": "text",
-     "text": "You may copy it, print it, read it aloud, record it, quote any amount of it, put it on a website or in an app, translate it into other languages, revise it, sell it, or give it away, all without asking anyone and without paying anyone. Credit is welcome but not required. We only ask, as a request and not a condition, that if you change the wording you do not present your changed text as the CJT, so readers can always find the original."
+     "text": "You may copy it, print it, read it aloud, record it, quote any amount of it, put it on a website or in an app, translate it into other languages, revise it, sell it, or give it away, all without asking anyone and without paying anyone. Credit is welcome but not required."
+    },
+    {
+     "type": "text",
+     "text": "The text itself is public domain. The name “Clay Jar Translation” and the CJT logo are trademarks of Jose Santiago. This protects only the name, not the words. If you copy the text without changing it, you may call it the Clay Jar Translation or the CJT. If you change the wording, you are free to do so, but please give your version a different name and do not use the CJT name or logo on it. That way readers can always tell the original from a changed version."
     },
     {
      "type": "text",
@@ -128,20 +132,36 @@
        ],
        "rows": [
         [
-         "the LORD",
-         "Capital letters stand for the divine name YHWH, following ancient Jewish and Christian practice of not pronouncing the name."
+         "Yahweh",
+         "The personal name of God, YHWH, printed wherever the Hebrew has it. Older English Bibles print it “the LORD.” See the note on Genesis 2:4."
         ],
         [
-         "the Lord",
-         "Hebrew adonai or Greek kyrios, “Lord, master.”"
+         "Lord",
+         "Hebrew adonai (or Greek kyrios) addressed to God, “Lord, master.” Lowercase “lord” is a courtesy title for a human."
         ],
         [
-         "Lord GOD",
-         "Hebrew adonai YHWH, used where the two appear together."
+         "Lord Yahweh",
+         "Hebrew adonai YHWH, where the two appear together (older Bibles: “Lord GOD”)."
+        ],
+        [
+         "Yahweh God",
+         "Hebrew YHWH Elohim, as in Genesis 2–3."
         ],
         [
          "God",
-         "Hebrew elohim or el; Greek theos."
+         "Hebrew elohim or el used of the true God; Greek theos. Elohim is a title, not a personal name."
+        ],
+        [
+         "Compound names",
+         "Names such as El Shaddai and El Elyon are transliterated, with the meaning in a footnote where each first appears. See the table below."
+        ],
+        [
+         "Personal names",
+         "Every person named in the Hebrew is named in the text, with the meaning of significant names in a footnote at first use (marked uncertain where it is). Hebrew ha-adam, “the human,” is rendered “Adam” from 2:7 where the one man is meant; “humankind” where it means the human race (1:26–27; 5:2). The woman is named Eve from 3:20."
+        ],
+        [
+         "Weights and measures",
+         "Given in rounded modern US amounts, with “about” where approximate. A footnote gives the Hebrew unit and number, the metric amount, and the standard assumed. Ages, years, days, and counts are left as they are. Units of unknown size are not converted. See the table below."
         ],
         [
          "Raised number",
@@ -168,6 +188,146 @@
          "Reserved for passages whose place in the earliest manuscripts is doubtful (for example, Mark 16:9–20 and John 7:53–8:11)."
         ]
        ]
+      },
+      {
+       "type": "table",
+       "columns": [
+        "Name in the text",
+        "Hebrew",
+        "Meaning",
+        "First in Genesis"
+       ],
+       "rows": [
+        [
+         "God",
+         "Elohim",
+         "God (a title)",
+         "1:1"
+        ],
+        [
+         "Yahweh",
+         "YHWH",
+         "The personal name; linked with “I am who I am” (Exodus 3:14–15)",
+         "2:4"
+        ],
+        [
+         "Yahweh God",
+         "YHWH Elohim",
+         "Yahweh, who is God",
+         "2:4"
+        ],
+        [
+         "El Elyon",
+         "El Elyon",
+         "God Most High",
+         "14:18"
+        ],
+        [
+         "Lord Yahweh",
+         "Adonai YHWH",
+         "My Lord Yahweh",
+         "15:2"
+        ],
+        [
+         "El Roi",
+         "El Roi",
+         "God who sees me",
+         "16:13"
+        ],
+        [
+         "El Shaddai",
+         "El Shaddai",
+         "Traditionally “God Almighty”; meaning uncertain",
+         "17:1"
+        ],
+        [
+         "El Olam",
+         "El Olam",
+         "The Everlasting God",
+         "21:33"
+        ],
+        [
+         "Yahweh Yireh",
+         "YHWH yir’eh",
+         "Yahweh will see, or will provide",
+         "22:14"
+        ],
+        [
+         "the Fear of Isaac",
+         "Pachad Yitschaq",
+         "The God whom Isaac feared",
+         "31:42"
+        ],
+        [
+         "El Elohe Israel",
+         "El Elohe Yisrael",
+         "God, the God of Israel",
+         "33:20"
+        ],
+        [
+         "El Bethel",
+         "El Beth-el",
+         "The God of Bethel",
+         "35:7"
+        ],
+        [
+         "the Mighty One of Jacob",
+         "Abir Yaakov",
+         "The Mighty One of Jacob",
+         "49:24"
+        ]
+       ]
+      },
+      {
+       "type": "table",
+       "columns": [
+        "Hebrew unit",
+        "Modern equivalent used",
+        "Metric",
+        "Examples in Genesis"
+       ],
+       "rows": [
+        [
+         "Cubit (ammah)",
+         "About 18 inches",
+         "About 45 cm",
+         "6:15–16; 7:20"
+        ],
+        [
+         "Shekel (sheqel), by weight; not yet a coin",
+         "About 0.4 ounce",
+         "About 11.5 g",
+         "20:16; 23:15–16; 24:22; 37:28; 45:22"
+        ],
+        [
+         "Beka (half shekel)",
+         "About a fifth of an ounce",
+         "About 5.7 g",
+         "24:22"
+        ],
+        [
+         "Seah (dry measure)",
+         "About 7 quarts (estimates vary widely)",
+         "About 7.3 liters",
+         "18:6"
+        ],
+        [
+         "Qesitah",
+         "Not converted; value unknown",
+         "Unknown",
+         "33:19"
+        ],
+        [
+         "Kivrat ha-arets (a stretch of land)",
+         "Not converted; length unknown",
+         "Unknown",
+         "35:16; 48:7"
+        ]
+       ]
+      },
+      {
+       "type": "text",
+       "text": "Ancient standards varied by place and period (a longer “royal” cubit of about 20.5 inches, or 52 cm, was also used), so all conversions are approximate."
       }
      ]
     }
@@ -423,7 +583,7 @@
    "blocks": [
     {
      "type": "text",
-     "text": "Status as of 23 October 2026: Genesis 1 to 11 is translated; every other book is planned. Books are grouped by tradition, not by authority. The Apocrypha are accepted as Scripture by Catholic and Orthodox churches; the Pseudepigrapha are included for study and for their place in ancient Jewish and Christian life. 1 Enoch and Jubilees are part of the Ethiopian Orthodox canon."
+     "text": "Status as of 23 October 2026: Genesis 1 to 37 is translated (chapters 38 to 50 are being added); every other book is planned. Books are grouped by tradition, not by authority. The Apocrypha are accepted as Scripture by Catholic and Orthodox churches; the Pseudepigrapha are included for study and for their place in ancient Jewish and Christian life. 1 Enoch and Jubilees are part of the Ethiopian Orthodox canon."
     }
    ]
   },
