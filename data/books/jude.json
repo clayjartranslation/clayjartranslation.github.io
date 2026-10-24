@@ -1,0 +1,199 @@
+{
+ "id": "jude",
+ "name": "Jude",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The writer names himself Jude (Greek *Ioudas*, Judah or Judas), “brother of James” (verse 1), traditionally understood as the brother of James of Jerusalem and of Jesus (Mark 6:3); some scholars regard the letter as written in his name. It draws on Jewish writings outside the Old Testament: verse 9 refers to a story that early writers (Clement of Alexandria, Origen) report from the *Assumption* (or *Testament*) *of Moses*, and verses 14–15 quote *1 Enoch* 1:9. Much of the letter is paralleled in 2 Peter 2. The chief early witnesses include the papyri P72 (3rd–4th century) and P78, and Codices Sinaiticus, Alexandrinus and Vaticanus.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    5,
+    8,
+    14,
+    17,
+    24
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Jude, a slave of Jesus Christ and brother of James, to those who are called, loved by God the Father and kept for Jesus Christ:{a}"
+    },
+    {
+     "v": 2,
+     "text": "Mercy, peace and love be yours in fullest measure."
+    },
+    {
+     "v": 3,
+     "text": "Dear friends, though I was fully intent on writing to you about the salvation we hold in common, I found I must write instead to urge you to fight hard for the faith that was entrusted once and for all to God’s holy people."
+    },
+    {
+     "v": 4,
+     "text": "For certain people have slipped in among you unnoticed, people whose sentence was written down long ago, ungodly people who turn the grace of our God into a license for debauchery and disown our only Master and Lord, Jesus Christ.{b}"
+    },
+    {
+     "v": 5,
+     "text": "Now I want to remind you, though you have known all this once for all, that the Lord saved a people out of the land of Egypt and afterward destroyed those who did not believe.{c}"
+    },
+    {
+     "v": 6,
+     "text": "And the angels who failed to hold on to their own domain and deserted the home that was theirs he is holding in everlasting bonds, beneath the gloom, until the judgment of the great day.{d}"
+    },
+    {
+     "v": 7,
+     "text": "In the same way Sodom and Gomorrah and the cities around them, which like these indulged in sexual immorality and went after other flesh, are set before us as an example in undergoing the penalty of eternal fire.{e}"
+    },
+    {
+     "v": 8,
+     "text": "In just the same way these people, lost in their dreams, pollute the flesh, set lordship aside and heap abuse on the glorious ones.{f}"
+    },
+    {
+     "v": 9,
+     "text": "But when Michael the archangel was contending with the devil and arguing over the body of Moses, he did not presume to pronounce a slanderous judgment on him, but said, “The Lord rebuke you!”{g}"
+    },
+    {
+     "v": 10,
+     "text": "But these people slander whatever they do not understand, and by the things they know by instinct, like irrational animals, they are destroyed."
+    },
+    {
+     "v": 11,
+     "text": "Woe to them! For they have walked in the way of Cain, they have rushed for profit into Balaam’s error, and they have perished in Korah’s rebellion.{h}"
+    },
+    {
+     "v": 12,
+     "text": "These people are hidden reefs in your love feasts, eating with you and fearing nothing, tending none but themselves; clouds with no water, carried off by the winds; trees in late autumn with no fruit, dead twice over, torn up by the roots;{i}"
+    },
+    {
+     "v": 13,
+     "text": "wild waves of the sea, foaming up their own shameful deeds; wandering stars, for whom the gloom of darkness has been kept forever.{j}"
+    },
+    {
+     "v": 14,
+     "text": "It was about these also that Enoch, the seventh from Adam, prophesied, saying, “See, the Lord came with his holy myriads,{k}"
+    },
+    {
+     "v": 15,
+     "text": "to execute judgment on all, and to convict all the ungodly of all their ungodly deeds that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him.”{l}"
+    },
+    {
+     "v": 16,
+     "text": "These people are grumblers, complainers, living by their own desires; their mouths speak arrogant words, and they flatter people for the sake of gain."
+    },
+    {
+     "v": 17,
+     "text": "But you, dear friends, remember the words spoken beforehand by the apostles of our Lord Jesus Christ."
+    },
+    {
+     "v": 18,
+     "text": "They told you, “In the last time there will be scoffers, living by their own ungodly desires.”"
+    },
+    {
+     "v": 19,
+     "text": "It is they who split you apart; they live on a merely natural level, without the Spirit.{m}"
+    },
+    {
+     "v": 20,
+     "text": "But you, dear friends, building yourselves up on your most holy faith and praying in the Holy Spirit,"
+    },
+    {
+     "v": 21,
+     "text": "keep yourselves in the love of God, as you wait for the mercy of our Lord Jesus Christ that leads to eternal life."
+    },
+    {
+     "v": 22,
+     "text": "Some, who are wavering, you must pity;{n}"
+    },
+    {
+     "v": 23,
+     "text": "save them, snatching them out of the fire; and others you must pity with fear, hating even the garment stained by the flesh."
+    },
+    {
+     "v": 24,
+     "text": "Now to him who is able to keep you from stumbling and to set you blameless and rejoicing before his glorious presence,"
+    },
+    {
+     "v": 25,
+     "text": "to the one and only God our Savior, through Jesus Christ our Lord, belong glory and greatness, might and authority, before every age, now, and through all the ages. Amen.{o}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Jude*: Greek *Ioudas*, from Hebrew *Yehudah* (Judah), “praised” (Gen 29:35). *James*: Greek *Iakōbos*, Jacob. *Loved*: later manuscripts read “sanctified.” *Kept for Jesus Christ*: or “kept by Jesus Christ.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:4",
+     "text": "Whose sentence was written down long ago: or “who were long ago marked out for this condemnation.” *Master*: Greek *despotēs*. Later manuscripts read “the only Master, God, and our Lord Jesus Christ.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:5",
+     "text": "The Lord: so Westcott and Hort in the text, with Sinaiticus as reported, while giving “Jesus” in the margin. “Jesus” is reported for Alexandrinus and Vaticanus and is printed in the Nestle–Aland edition; other manuscripts read “God,” and P72 is reported to read “God Christ.” *Known all this once for all*: some manuscripts place “once” with “saved.” Compare Num 14:26–35."
+    },
+    {
+     "m": "d",
+     "ref": "1:6",
+     "text": "Domain: Greek *archē*, “rule,” “position of authority.” Compare Gen 6:1–4 and 1 Enoch 10:4–6, 12."
+    },
+    {
+     "m": "e",
+     "ref": "1:7",
+     "text": "Gen 19. *Went after other flesh*: perhaps referring to the attempt on the angels in Gen 19:4–11."
+    },
+    {
+     "m": "f",
+     "ref": "1:8",
+     "text": "Glorious ones: Greek *doxai*, “glories,” probably angelic beings."
+    },
+    {
+     "m": "g",
+     "ref": "1:9",
+     "text": "*Michael*: “who is like God?” (compare Dan 10:13; 12:1). The story is reported by early writers from the *Assumption of Moses*, a Jewish work of which only part survives. *The Lord rebuke you*: compare Zech 3:2, where the Hebrew has *Yahweh*."
+    },
+    {
+     "m": "h",
+     "ref": "1:11",
+     "text": "*Cain*: Gen 4:1–16. *Balaam*: Num 22–24; 31:16. *Korah*: “bald”; Num 16:1–35."
+    },
+    {
+     "m": "i",
+     "ref": "1:12",
+     "text": "Hidden reefs: or “stains” (Greek *spilades*). *Love feasts*: Greek *agapai*, communal meals of the early church."
+    },
+    {
+     "m": "j",
+     "ref": "1:13",
+     "text": "Compare Isa 57:20. *Wandering stars*: compare 1 Enoch 18:13–16; 21:1–6."
+    },
+    {
+     "m": "k",
+     "ref": "1:14",
+     "text": "*Enoch*: perhaps “dedicated” (Gen 5:18–24). *Seventh from Adam*: counting Adam as the first (Gen 5:1–24; compare 1 Enoch 60:8). The quotation in verses 14–15 is from 1 Enoch 1:9, a Jewish work preserved complete only in Ethiopic, with Greek and Aramaic fragments. *Myriads*: tens of thousands."
+    },
+    {
+     "m": "l",
+     "ref": "1:15",
+     "text": "To convict all the ungodly: some manuscripts read “to convict every soul.”"
+    },
+    {
+     "m": "m",
+     "ref": "1:19",
+     "text": "Merely natural: Greek *psychikoi*, “natural,” “unspiritual.”"
+    },
+    {
+     "m": "n",
+     "ref": "1:22",
+     "text": "Verses 22–23 are textually uncertain. Westcott and Hort print a text that names two groups, and they suspected an early corruption. Other manuscripts name three groups: “Have mercy on some who waver; save others, snatching them out of the fire; to others show mercy with fear”; still others read “Rebuke some who waver.”"
+    },
+    {
+     "m": "o",
+     "ref": "1:25",
+     "text": "Through Jesus Christ our Lord: later manuscripts omit these words. *Before every age*: later manuscripts omit these words."
+    }
+   ]
+  }
+ ]
+}
