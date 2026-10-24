@@ -1,0 +1,756 @@
+{
+ "id": "philippians",
+ "name": "Philippians",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The oldest manuscripts of Philippians are the papyri P46 (about AD 200) and P16 (3rd–4th century), with Codex Sinaiticus and Codex Vaticanus (4th century); where their readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation or phrase, a note says so. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The hymn in 2:6–11 is set as poetry. Philippians is one of the seven letters whose authorship by Paul is accepted by nearly all scholars. It was written from prison, most often thought to be in Rome (about AD 60–62), though Ephesus (about AD 54–55) and Caesarea have also been proposed. Some scholars hold that the present letter combines two or three shorter letters (noting the sharp change of tone at 3:2); others defend its unity.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    12,
+    27
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "From Paul{a} and Timothy,{b} slaves{c} of Christ Jesus,{d} to all God’s holy people{e} in Christ Jesus who live in Philippi,{f} together with the overseers and helpers:{g}"
+    },
+    {
+     "v": 2,
+     "text": "grace and peace to you from God our Father and from the Lord Jesus Christ."
+    },
+    {
+     "v": 3,
+     "text": "Each time I call you to mind, I thank my God."
+    },
+    {
+     "v": 4,
+     "text": "In every prayer I offer for you all, my prayer is a joyful one,"
+    },
+    {
+     "v": 5,
+     "text": "because of your partnership in spreading the good news{h} from the very first day until now."
+    },
+    {
+     "v": 6,
+     "text": "I am confident of this very thing, that the one who began a good work in you will carry it through to its finish, right up to the day of Christ Jesus."
+    },
+    {
+     "v": 7,
+     "text": "And it is fitting that I should think this of you all, because you are in my heart.{i} All of you are partners with me in grace,{j} in my chains as well as in my defense and confirmation of the good news."
+    },
+    {
+     "v": 8,
+     "text": "God is my witness how I long for all of you with the deep affection{k} of Christ Jesus."
+    },
+    {
+     "v": 9,
+     "text": "And I pray this: that your love may grow richer and richer still in knowledge and in every kind of insight,"
+    },
+    {
+     "v": 10,
+     "text": "so that you can approve the things that really matter,{l} and be pure and free from fault on the day of Christ,"
+    },
+    {
+     "v": 11,
+     "text": "filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God."
+    },
+    {
+     "v": 12,
+     "text": "Brothers,{m} I want you to understand that what has happened to me has actually served to move the good news forward."
+    },
+    {
+     "v": 13,
+     "text": "The result is that the whole imperial guard{n} and all the rest have come to see that it is for Christ that I wear these chains."
+    },
+    {
+     "v": 14,
+     "text": "And most of the brothers, gaining confidence in the Lord from my imprisonment, are daring all the more to speak the word of God without fear.{o}"
+    },
+    {
+     "v": 15,
+     "text": "Some indeed preach Christ because they are envious and quarrelsome; but some do it from good will."
+    },
+    {
+     "v": 16,
+     "text": "These do it from love, knowing that I am placed here to defend the good news."
+    },
+    {
+     "v": 17,
+     "text": "The others announce Christ from selfish ambition, not with pure motives, supposing that they will make my chains harder to bear.{p}"
+    },
+    {
+     "v": 18,
+     "text": "What does it matter? Only that in every way, whether for show or in truth, Christ is proclaimed; and in that I rejoice. Yes, and I will go on rejoicing,"
+    },
+    {
+     "v": 19,
+     "text": "I know that this will turn out for my deliverance,{q} through your prayers and the support of the Spirit of Jesus Christ,"
+    },
+    {
+     "v": 20,
+     "text": "for I eagerly expect and hope that I will have nothing to be ashamed of, but that now, as always, with full courage, Christ will be made great in my body, whether I live or whether I die."
+    },
+    {
+     "v": 21,
+     "text": "For me, to live is Christ, and to die is gain."
+    },
+    {
+     "v": 22,
+     "text": "If I am to go on living in the body, that means fruitful work for me, and I do not know which I prefer.{r}"
+    },
+    {
+     "v": 23,
+     "text": "I am torn between the two: my desire is to depart and be with Christ, which is better by far,"
+    },
+    {
+     "v": 24,
+     "text": "but for your sake it is more necessary that I remain in the body.{s}"
+    },
+    {
+     "v": 25,
+     "text": "Convinced of this, I know that I will stay, and stay on with you all, for your progress and joy in the faith,"
+    },
+    {
+     "v": 26,
+     "text": "so that when I come to you once more, your pride in Christ Jesus may abound on my account."
+    },
+    {
+     "v": 27,
+     "text": "Only, live as citizens{t} worthy of Christ’s good news, so that whether I come and see you or am away and hear about you, I may learn that you are standing firm in a single spirit, contending together as one soul for the faith that the good news brings,"
+    },
+    {
+     "v": 28,
+     "text": "not frightened in any way by your opponents. To them this is a sign of their destruction, but of your salvation, and this comes from God."
+    },
+    {
+     "v": 29,
+     "text": "For it has been granted to you, for Christ’s sake, not only to believe in him but also to suffer for him,"
+    },
+    {
+     "v": 30,
+     "text": "for you have the same contest on your hands as you once saw me fight, and as you now hear I am fighting still.{u}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "*Timothy*: Greek *Timotheos*, “one who honors God,” Paul’s coworker, who had helped found the church at Philippi (Acts 16:1–12)."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Slaves: Greek *douloi*, slaves or bond-servants, wholly owned by their master."
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "*Jesus*: the Greek form of Hebrew *Yeshua* (Joshua), “Yahweh saves.” *Christ*: Greek *Christos*, “Anointed One,” equivalent to Hebrew *mashiach*, “Messiah.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:1",
+     "text": "God’s holy people: Greek *hagioi*, “holy ones,” traditionally “saints”; the believers as set apart for God."
+    },
+    {
+     "m": "f",
+     "ref": "1:1",
+     "text": "Philippi: a Roman colony in Macedonia (northern Greece), named after Philip II, father of Alexander the Great. Paul founded the church there about AD 49–50 (Acts 16:11–40); it was his first in Europe."
+    },
+    {
+     "m": "g",
+     "ref": "1:1",
+     "text": "Overseers and helpers: Greek *episkopoi* and *diakonoi*, traditionally “bishops and deacons,” here probably local leaders and those who served the congregation."
+    },
+    {
+     "m": "h",
+     "ref": "1:5",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel”; so throughout."
+    },
+    {
+     "m": "i",
+     "ref": "1:7",
+     "text": "Because you are in my heart: or “because you hold me in your heart”; the Greek can be read either way."
+    },
+    {
+     "m": "j",
+     "ref": "1:7",
+     "text": "Partners with me in grace: or “sharers in my grace,” perhaps meaning the privilege of suffering for Christ (1:29)."
+    },
+    {
+     "m": "k",
+     "ref": "1:8",
+     "text": "Deep affection: Greek *splanchna*, literally “inward parts,” the seat of the emotions; also in 2:1."
+    },
+    {
+     "m": "l",
+     "ref": "1:10",
+     "text": "Approve the things that really matter: or “test the things that differ.”"
+    },
+    {
+     "m": "m",
+     "ref": "1:12",
+     "text": "Brothers: Greek *adelphoi*, the usual term for fellow believers, including both men and women; so throughout."
+    },
+    {
+     "m": "n",
+     "ref": "1:13",
+     "text": "Imperial guard: Greek *praitōrion*, either the Praetorian Guard, the emperor’s bodyguard in Rome, or the governor’s headquarters in a provincial capital (as in Acts 23:35)."
+    },
+    {
+     "m": "o",
+     "ref": "1:14",
+     "text": "Of God: some manuscripts lack these words; others read “of the Lord.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:17",
+     "text": "Later manuscripts reverse the order of verses 16 and 17."
+    },
+    {
+     "m": "q",
+     "ref": "1:19",
+     "text": "This will turn out for my deliverance: the exact wording of Job 13:16 in the Greek Old Testament. *Deliverance* (Greek *sōtēria*) can also mean “salvation,” or vindication before God."
+    },
+    {
+     "m": "r",
+     "ref": "1:22",
+     "text": "The Greek of this verse is broken and can be punctuated in several ways."
+    },
+    {
+     "m": "s",
+     "ref": "1:24",
+     "text": "In the body: literally “in the flesh,” as also in verse 22."
+    },
+    {
+     "m": "t",
+     "ref": "1:27",
+     "text": "Live as citizens: Greek *politeuesthe*, a striking word in a letter to a Roman colony whose people prized their citizenship (compare 3:20)."
+    },
+    {
+     "m": "u",
+     "ref": "1:30",
+     "text": "Compare Acts 16:19–24; 1 Thess 2:2."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    6,
+    12,
+    14,
+    19,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "If, then, Christ gives you any encouragement, if love brings you any consolation, if you have any fellowship in the Spirit,{a} if you know any tenderness and pity,"
+    },
+    {
+     "v": 2,
+     "text": "then complete my joy by thinking alike, having the same love, being one in soul and one in mind."
+    },
+    {
+     "v": 3,
+     "text": "Do nothing out of rivalry or empty conceit; instead, in humility count others as better than yourselves."
+    },
+    {
+     "v": 4,
+     "text": "Each of you should keep an eye not just on what concerns yourself, but on what concerns others as well."
+    },
+    {
+     "v": 5,
+     "text": "Let this mind be in you that was also in Christ Jesus:{b}"
+    },
+    {
+     "v": 6,
+     "text": "Though he was in the form of God,{c}\nhe did not regard being equal with God\nas something to be grasped,{d}"
+    },
+    {
+     "v": 7,
+     "text": "but he emptied himself,{e}\ntaking the form of a slave,\nbeing made in human likeness.\nAnd when he was found in human shape,"
+    },
+    {
+     "v": 8,
+     "text": "he humbled himself\nand became obedient as far as death,\neven death on a cross."
+    },
+    {
+     "v": 9,
+     "text": "For this reason God raised him to the very highest\nand graciously gave him that name\nwhich is above all names,"
+    },
+    {
+     "v": 10,
+     "text": "so that at Jesus’ name\nevery knee may bow,\nof those in heaven, on earth, and beneath the earth,"
+    },
+    {
+     "v": 11,
+     "text": "and every tongue confess\nthat Jesus Christ is Lord,\nto the glory of God the Father.{f}"
+    },
+    {
+     "v": 12,
+     "text": "So, my dear friends, just as you have always obeyed, not only when I was present but much more now that I am absent, work out your own salvation with fear and trembling,"
+    },
+    {
+     "v": 13,
+     "text": "God is the one working in you, both the willing and the doing, for the sake of what pleases him."
+    },
+    {
+     "v": 14,
+     "text": "Do everything without grumbling or arguing,"
+    },
+    {
+     "v": 15,
+     "text": "so that you may be blameless and innocent, children of God without blemish in the midst of a crooked and twisted generation,{g} among whom you shine like stars in the world,{h}"
+    },
+    {
+     "v": 16,
+     "text": "holding fast{i} the word of life, so that I may have reason to boast on the day of Christ that I did not run in vain or toil in vain.{j}"
+    },
+    {
+     "v": 17,
+     "text": "But even if I am poured out as a drink offering{k} upon the sacrifice and service of your faith, I am glad and rejoice with you all."
+    },
+    {
+     "v": 18,
+     "text": "And in the same way you also should be glad and rejoice with me."
+    },
+    {
+     "v": 19,
+     "text": "I hope in the Lord Jesus to send Timothy to you soon, so that I also may be cheered by news of you."
+    },
+    {
+     "v": 20,
+     "text": "I have no one else like him, who will care with genuine concern for your welfare."
+    },
+    {
+     "v": 21,
+     "text": "Everyone else is seeking what is his own, not what is Jesus Christ’s."
+    },
+    {
+     "v": 22,
+     "text": "You know how he has proved himself: like a child alongside his father, he has slaved with me for the good news."
+    },
+    {
+     "v": 23,
+     "text": "So he is the one I hope to send, the moment I can see what will happen to me."
+    },
+    {
+     "v": 24,
+     "text": "and I trust in the Lord that I myself will also come soon."
+    },
+    {
+     "v": 25,
+     "text": "I have thought it necessary, though, to send back to you Epaphroditus,{l} my brother, fellow worker, and fellow soldier, whom you sent as your messenger{m} to minister to my needs."
+    },
+    {
+     "v": 26,
+     "text": "He has been homesick for you all, and upset that word of his sickness reached you."
+    },
+    {
+     "v": 27,
+     "text": "Indeed he was ill, near to death. But God had mercy on him, and not only on him but on me as well, so that I would not have sorrow upon sorrow."
+    },
+    {
+     "v": 28,
+     "text": "I am the more eager to send him, therefore, so that when you see him again you may rejoice, and I may be less anxious."
+    },
+    {
+     "v": 29,
+     "text": "So welcome him in the Lord with all joy, and hold people like him in honor,"
+    },
+    {
+     "v": 30,
+     "text": "for he nearly died for Christ’s work,{n} gambling with his life to complete the service you yourselves could not give me."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Fellowship in the Spirit: or “fellowship with the Spirit,” “a share in the Spirit.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:5",
+     "text": "Let this mind be in you …: or “Think among yourselves in the way that is fitting for those who are in Christ Jesus.” The Greek is compressed and can be read either way. Verses 6–11 are widely thought to be an early Christian hymn, either composed by Paul or quoted by him."
+    },
+    {
+     "m": "c",
+     "ref": "2:6",
+     "text": "Form: Greek *morphē*, the outward shape that expresses what something truly is; also in verse 7."
+    },
+    {
+     "m": "d",
+     "ref": "2:6",
+     "text": "Something to be grasped: Greek *harpagmos*, a rare word meaning either something seized or something to be clung to or exploited for one’s own advantage. Scholars are divided."
+    },
+    {
+     "m": "e",
+     "ref": "2:7",
+     "text": "Emptied himself: Greek *ekenōsen*, “made himself empty” or “poured himself out”; the following phrases explain how."
+    },
+    {
+     "m": "f",
+     "ref": "2:11",
+     "text": "Verses 10–11: Isa 45:23, where in the Hebrew it is Yahweh who says, “To me every knee shall bow, every tongue shall swear.” Here the homage due to Yahweh is given to Jesus, and the name above every name (verse 9) is probably *Lord* (*kyrios*), the Greek Old Testament’s rendering of the divine name. *Under the earth*: the realm of the dead."
+    },
+    {
+     "m": "g",
+     "ref": "2:15",
+     "text": "A crooked and twisted generation: from Deut 32:5 in the Greek Old Testament, where the phrase describes Israel in the wilderness, whose grumbling (verse 14) is a theme of the Exodus story."
+    },
+    {
+     "m": "h",
+     "ref": "2:15",
+     "text": "Stars: Greek *phōstēres*, “lights,” “luminaries,” the word used of the sun, moon and stars in Gen 1:14–16 and of the wise in Dan 12:3 in the Greek Old Testament."
+    },
+    {
+     "m": "i",
+     "ref": "2:16",
+     "text": "Holding fast: or “holding out”; Greek *epechō* can mean either."
+    },
+    {
+     "m": "j",
+     "ref": "2:16",
+     "text": "Compare Isa 49:4; 65:23."
+    },
+    {
+     "m": "k",
+     "ref": "2:17",
+     "text": "Poured out as a drink offering: Greek *spendomai*, used of wine poured out over or beside a sacrifice (Num 28:7); Paul speaks of his possible death."
+    },
+    {
+     "m": "l",
+     "ref": "2:25",
+     "text": "*Epaphroditus*: Greek, “charming” or “belonging to Aphrodite,” a common name. He is probably not the same person as Epaphras of Colossae (Col 1:7)."
+    },
+    {
+     "m": "m",
+     "ref": "2:25",
+     "text": "Messenger: Greek *apostolos*, “one sent,” here an envoy of the church, not an apostle in the narrower sense."
+    },
+    {
+     "m": "n",
+     "ref": "2:30",
+     "text": "Christ’s work: so the Westcott–Hort text, with Vaticanus; other manuscripts read “of the Lord,” and some have neither."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    2,
+    12,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Finally, my brothers, rejoice in the Lord. To write the same things to you is no trouble for me, and for you it is a safeguard."
+    },
+    {
+     "v": 2,
+     "text": "Beware the dogs! Beware the workers of evil! Beware the cutters!{a}"
+    },
+    {
+     "v": 3,
+     "text": "For we are the circumcision, we who worship by the Spirit of God{b} and boast in Christ Jesus and put no confidence in the flesh,"
+    },
+    {
+     "v": 4,
+     "text": "I could put confidence in the flesh myself, if I chose. Does someone else imagine he has reason to rely on the flesh? I have more:"
+    },
+    {
+     "v": 5,
+     "text": "I was circumcised when eight days old; I am an Israelite by race, a Benjaminite by tribe,{c} a Hebrew of Hebrew parents; regarding the law I was a Pharisee;"
+    },
+    {
+     "v": 6,
+     "text": "regarding zeal, I persecuted the church; regarding the righteousness that the law requires, I was faultless."
+    },
+    {
+     "v": 7,
+     "text": "Yet all that was profit to me, I have reckoned as loss for Christ’s sake."
+    },
+    {
+     "v": 8,
+     "text": "Indeed, I reckon everything a loss, compared with the supreme value of knowing Christ Jesus my Lord. For him I have lost everything, and I think of it all as garbage,{d} if only I may gain Christ"
+    },
+    {
+     "v": 9,
+     "text": "and be found in him, without any righteousness of my own based on the law, but having the righteousness that is through faith in Christ,{e} a righteousness from God, resting on faith."
+    },
+    {
+     "v": 10,
+     "text": "I want to know him and the power of his resurrection and the sharing of his sufferings, being shaped to share his death,"
+    },
+    {
+     "v": 11,
+     "text": "in hope that I may somehow arrive at the resurrection from among the dead."
+    },
+    {
+     "v": 12,
+     "text": "I do not say that I have already received it, or that I have already reached the goal; but I keep pursuing it, in the hope of taking hold of that for which Christ Jesus took hold of me."
+    },
+    {
+     "v": 13,
+     "text": "Brothers, I do not reckon that I have yet laid hold of it. Only this: I forget what is behind, I stretch out toward what is in front,"
+    },
+    {
+     "v": 14,
+     "text": "I press on toward the goal for the prize of the upward call of God in Christ Jesus.{f}"
+    },
+    {
+     "v": 15,
+     "text": "All of us who are mature should take this view; and if on any point you see things differently, God will make that clear to you as well."
+    },
+    {
+     "v": 16,
+     "text": "Only let us keep in line with what we have already attained.{g}"
+    },
+    {
+     "v": 17,
+     "text": "Brothers, join together in imitating me, and keep your eyes on those who live by the example you have in us."
+    },
+    {
+     "v": 18,
+     "text": "For many, as I have often told you before and now tell you weeping, walk as enemies of Christ’s cross."
+    },
+    {
+     "v": 19,
+     "text": "Destruction is where they will end. Their stomach is their god; they glory in what should shame them; earthly things fill their thoughts."
+    },
+    {
+     "v": 20,
+     "text": "But our citizenship{h} is in heaven, and from there we are eagerly awaiting a Savior, the Lord Jesus Christ."
+    },
+    {
+     "v": 21,
+     "text": "By the power with which he can make all things subject to himself, he will change the body of our humiliation and conform it to the body of his glory."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:2",
+     "text": "Dogs … cutters: harsh terms for those who insisted that Gentile believers be circumcised. *Dogs* was an insult some Jews used of Gentiles, here turned back on them; *cutters* (Greek *katatomē*, “mutilation,” “cutting up”) is a bitter play on *peritomē*, “circumcision” (verse 3)."
+    },
+    {
+     "m": "b",
+     "ref": "3:3",
+     "text": "By the Spirit of God: some manuscripts, including P46 as reported, read “worship God in the Spirit.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:5",
+     "text": "*Benjamin*: Hebrew, “son of the right hand” (Gen 35:18), the tribe of King Saul, after whom Paul was named. *Pharisee*: probably “separated one,” a member of the lay movement devoted to strict observance of the Law and its traditions."
+    },
+    {
+     "m": "d",
+     "ref": "3:8",
+     "text": "Garbage: Greek *skybala*, refuse or dung."
+    },
+    {
+     "m": "e",
+     "ref": "3:9",
+     "text": "Faith in Christ: or “the faithfulness of Christ.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:14",
+     "text": "Prize: Greek *brabeion*, the award given to the winner in the athletic games. *Upward call*: or “heavenly call.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:16",
+     "text": "Later manuscripts add “Let us be of the same mind” and similar words."
+    },
+    {
+     "m": "h",
+     "ref": "3:20",
+     "text": "Citizenship: Greek *politeuma*, the commonwealth or state to which one belongs; compare 1:27."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    2,
+    4,
+    8,
+    10,
+    21,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So then, my brothers, beloved and longed for, you who are my joy and my crown,{a} stand firm like this in the Lord, dear friends."
+    },
+    {
+     "v": 2,
+     "text": "I appeal to Euodia and I appeal to Syntyche{b} to agree with each other in the Lord."
+    },
+    {
+     "v": 3,
+     "text": "Yes, and I ask you too, my true companion,{c} help these women, for they have contended side by side with me in the work of the good news, together with Clement{d} and the rest of my fellow workers, whose names are in the book of life."
+    },
+    {
+     "v": 4,
+     "text": "Rejoice in the Lord always. Again I will say it: rejoice."
+    },
+    {
+     "v": 5,
+     "text": "Make your gentleness known to all people. The Lord is close at hand.{e}"
+    },
+    {
+     "v": 6,
+     "text": "Do not be anxious about anything, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God."
+    },
+    {
+     "v": 7,
+     "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+    },
+    {
+     "v": 8,
+     "text": "Finally, brothers, whatever things are true, worthy of respect, right, pure, lovable, well spoken of — if there is any virtue, any praise — let your thoughts dwell on these."
+    },
+    {
+     "v": 9,
+     "text": "Put into practice the things you learned from me and received, the things you heard from me and saw in me; and the God of peace will be with you."
+    },
+    {
+     "v": 10,
+     "text": "It gave me great joy in the Lord that your care for me has blossomed again at last. You were caring all along, of course, but you lacked the chance."
+    },
+    {
+     "v": 11,
+     "text": "I do not say this out of want; I have learned to be self-sufficient,{f} whatever my situation."
+    },
+    {
+     "v": 12,
+     "text": "I know what it is to be brought low, and I know what it is to have more than enough. In each and every case I have been initiated into the secret of being full and of being hungry, of abundance and of want."
+    },
+    {
+     "v": 13,
+     "text": "I can do all things through him who gives me strength.{g}"
+    },
+    {
+     "v": 14,
+     "text": "Yet you did well to share in my distress."
+    },
+    {
+     "v": 15,
+     "text": "And you Philippians know yourselves that in the early days of the good news, when I set out from Macedonia, no church shared with me in the matter of giving and receiving except you alone."
+    },
+    {
+     "v": 16,
+     "text": "for even when I was in Thessalonica{h} you sent me something for my need, once and then again."
+    },
+    {
+     "v": 17,
+     "text": "Not that I seek the gift, but I seek the profit that increases to your credit.{i}"
+    },
+    {
+     "v": 18,
+     "text": "I now have everything, and more than enough. I am amply provided for, having received from Epaphroditus what you sent: a fragrant aroma,{j} a sacrifice that God accepts and finds pleasing."
+    },
+    {
+     "v": 19,
+     "text": "And my God will supply every need of yours according to his riches in glory in Christ Jesus."
+    },
+    {
+     "v": 20,
+     "text": "To our God and Father be the glory for ever and ever. Amen."
+    },
+    {
+     "v": 21,
+     "text": "Greet every holy one in Christ Jesus. The brothers who are with me greet you."
+    },
+    {
+     "v": 22,
+     "text": "All the holy ones greet you, especially those of Caesar’s household.{k}"
+    },
+    {
+     "v": 23,
+     "text": "The grace of the Lord Jesus Christ be with your spirit.{l}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Crown: Greek *stephanos*, the wreath given to a victor in the games or to an honored guest at a feast."
+    },
+    {
+     "m": "b",
+     "ref": "4:2",
+     "text": "*Euodia*: Greek, “a good journey” or “fragrance.” *Syntyche*: Greek, “good fortune” or “companion.” Both were women who had worked with Paul (verse 3)."
+    },
+    {
+     "m": "c",
+     "ref": "4:3",
+     "text": "True companion: Greek *gnēsie syzyge*, “genuine yokefellow.” Some take *Syzygus* as a personal name, which would then mean “true to your name.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:3",
+     "text": "*Clement*: Latin *Clemens*, “merciful,” “gentle.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:5",
+     "text": "The Lord is close at hand: or “the Lord is near,” perhaps an echo of Ps 145:18 (144:18 in the Greek Old Testament), where “the Lord” is Yahweh in the Hebrew. The words may refer to the Lord’s nearness in place or to his coming in time."
+    },
+    {
+     "m": "f",
+     "ref": "4:11",
+     "text": "Self-sufficient: Greek *autarkēs*, “content,” “self-sufficient,” a key term of Stoic philosophy; Paul’s sufficiency comes from the one who strengthens him (verse 13)."
+    },
+    {
+     "m": "g",
+     "ref": "4:13",
+     "text": "Him: later manuscripts read “Christ.”"
+    },
+    {
+     "m": "h",
+     "ref": "4:16",
+     "text": "Thessalonica: the capital of the province of Macedonia, about 90 miles (150 km) west of Philippi (Acts 17:1–9)."
+    },
+    {
+     "m": "i",
+     "ref": "4:17",
+     "text": "Profit … to your credit: the language of bookkeeping, used throughout verses 15–18."
+    },
+    {
+     "m": "j",
+     "ref": "4:18",
+     "text": "A fragrant aroma: literally “an odor of fragrance,” the Greek Old Testament phrase for a sacrifice acceptable to God (Gen 8:21; Exod 29:18)."
+    },
+    {
+     "m": "k",
+     "ref": "4:22",
+     "text": "Caesar’s household: the slaves and freedmen in the service of the emperor, who worked in Rome and throughout the empire."
+    },
+    {
+     "m": "l",
+     "ref": "4:23",
+     "text": "Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}

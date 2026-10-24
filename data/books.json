@@ -1798,9 +1798,14 @@
    "id": "philippians",
    "name": "Philippians",
    "division": "New Testament",
-   "chapterCount": "4",
-   "translated": [],
-   "file": null
+   "chapterCount": 4,
+   "translated": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "file": "data/books/philippians.json"
   },
   {
    "id": "colossians",
