@@ -1315,8 +1315,25 @@
    "name": "Judith",
    "division": "Apocrypha",
    "chapterCount": 16,
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "file": "data/books/judith.json"
   },
   {
    "id": "additions-to-esther",

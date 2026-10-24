@@ -1,0 +1,1994 @@
+{
+ "id": "judith",
+ "name": "Judith",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of Judith in A. Rahlfs, *Septuaginta* (1935), checked against H. B. Swete, *The Old Testament in Greek according to the Septuagint* (1891–94; public domain), which prints Codex Vaticanus (B) with the variants of Alexandrinus (A) and Sinaiticus (ℵ). The book was probably composed in Hebrew in the 2nd or early 1st century BC, in the period of the Hasmoneans, but no Hebrew original survives; the later Hebrew retellings of the story are medieval. Judith is a deliberately stylized tale rather than a historical record: it makes Nebuchadnezzar king of the Assyrians at Nineveh (in fact he ruled Babylon, 605–562 BC, after Nineveh’s fall in 612 BC), places the action after the return from exile, and mixes Assyrian, Babylonian and Persian figures and details. These points are explained in the notes rather than corrected in the text. Jerome’s Latin Vulgate, made from an Aramaic version, is considerably shorter and differs in many details; it is not followed here. Verse numbering follows the Greek; the King James Apocrypha, which follows the Latin divisions, ends chapter 15 one verse earlier (its 16:1 is 15:14 here), so that its chapter 16 has 26 verses rather than 25. Some place names cannot be identified; where proposed identifications are mentioned they are marked “reported.” Greek *kyrios* is rendered “Lord” throughout; see the note at 4:2. Judith is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    7,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "It was the twelfth year of the reign of Nebuchadnezzar,{a} king of Assyria, whose seat was Nineveh, that mighty city. In those days Arphaxad{b} reigned over the Medes in Ecbatana.{c}"
+    },
+    {
+     "v": 2,
+     "text": "Around Ecbatana he built walls of hewn stones, each stone about four and a half feet thick and nine feet long.{d} He made the wall about a hundred five feet high and seventy-five feet thick."
+    },
+    {
+     "v": 3,
+     "text": "At its gates he set up towers about a hundred fifty feet high, laying their foundations ninety feet wide."
+    },
+    {
+     "v": 4,
+     "text": "He made its gates tall enough to rise about a hundred five feet, and sixty feet wide, so that his mighty army could march out through them and his infantry could parade in formation."
+    },
+    {
+     "v": 5,
+     "text": "In those days King Nebuchadnezzar waged war against King Arphaxad in the great plain, the plain that lies within the borders of Ragau.{e}"
+    },
+    {
+     "v": 6,
+     "text": "Rallying to Arphaxad’s side{f} came all the hill-dwellers, the peoples on the banks of the Euphrates, Tigris and Hydaspes,{g} and those of the plains ruled by Arioch king of the Elymaeans.{h} Many nations joined forces with the people of Cheleoud.{i}"
+    },
+    {
+     "v": 7,
+     "text": "Then Nebuchadnezzar king of the Assyrians dispatched messengers to every inhabitant of Persia and to every western people: to the inhabitants of Cilicia, of Damascus, of Lebanon and the Antilebanon, and of the whole seaboard,"
+    },
+    {
+     "v": 8,
+     "text": "to those among the nations of Carmel and Gilead, upper Galilee and the great plain of Esdraelon,{j}"
+    },
+    {
+     "v": 9,
+     "text": "to everyone in Samaria and the towns around it, to the land across the Jordan up to Jerusalem, Betane, Chelous and Kadesh, and the River of Egypt,{k} to Tahpanhes and Raamses, and throughout the land of Goshen,"
+    },
+    {
+     "v": 10,
+     "text": "even beyond Tanis and Memphis, and to every inhabitant of Egypt up to Ethiopia’s frontier."
+    },
+    {
+     "v": 11,
+     "text": "But the inhabitants of that entire region scorned the order of Assyria’s king Nebuchadnezzar and refused to go to war at his side. They had no fear of him; to them he was no more than a single man. They sent his envoys back empty-handed and in disgrace."
+    },
+    {
+     "v": 12,
+     "text": "Nebuchadnezzar’s anger blazed fiercely against all that land, and he took an oath by his throne and his royal power to avenge himself on all the territory of Cilicia, Damascus and Syria, and would slay with his sword the inhabitants of Moab, the Ammonites, all of Judea, and every soul in Egypt, up to the shores of the two seas.{l}"
+    },
+    {
+     "v": 13,
+     "text": "In the seventeenth year he drew up his forces against King Arphaxad and overpowered him in battle. He routed Arphaxad’s entire army, all his cavalry and all his chariots."
+    },
+    {
+     "v": 14,
+     "text": "He took possession of his cities and went on as far as Ecbatana. He seized its towers, plundered its marketplaces, and turned its splendor into shame."
+    },
+    {
+     "v": 15,
+     "text": "He captured Arphaxad in the mountains of Ragau, ran him through with his spears, and finished him off once and for all."
+    },
+    {
+     "v": 16,
+     "text": "Then he returned to Nineveh with his spoil, he and his whole combined army, an immense multitude of fighting men; and there he and his army took their ease and feasted for one hundred twenty days."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Nebuchadnezzar: Nebuchadnezzar II (reigned 605–562 BC) was in fact king of Babylon, not of Assyria, and Nineveh had been destroyed in 612 BC, before his reign began (see 2:28 and 5:18–19, where the return from exile is already past). The book’s combination of historical names from different periods is widely understood as deliberate: the story gathers the great enemies of Israel into a single figure, and the opening signals to the reader that this is an exemplary tale rather than a chronicle. Scholarly review recommended."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Arphaxad: not known from other sources. Suggested identifications (for example Phraortes, king of the Medes, about 675–653 BC, or Deioces, the founder of Ecbatana) are reported but uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Ecbatana: the Median capital, modern Hamadan in western Iran."
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "About four and a half feet thick and nine feet long: literally “three cubits in breadth and six cubits in length.” A cubit, the length from the elbow to the fingertip, was about 18 inches (45 cm), so the stones were about 1.4 m by 2.7 m. In verses 2–4, the wall was 70 cubits high (about 32 m) and 50 cubits thick (about 23 m); the towers were 100 cubits high (about 45 m) on foundations 60 cubits wide (about 27 m); and the gates were 70 cubits high (about 32 m) and 40 cubits wide (about 18 m). The dimensions are deliberately vast."
+    },
+    {
+     "m": "e",
+     "ref": "1:5",
+     "text": "Ragau: the same as Rages in Tobit (Rhagae), southeast of modern Tehran."
+    },
+    {
+     "m": "f",
+     "ref": "1:6",
+     "text": "Rallying to Arphaxad’s side: literally “there came together to him”; the Greek may also be read as gathering to Nebuchadnezzar."
+    },
+    {
+     "m": "g",
+     "ref": "1:6",
+     "text": "Hydaspes: a river in northwestern India (the Jhelum), far from the scene; the name may be a corruption of another river name, possibly the Choaspes near Susa."
+    },
+    {
+     "m": "h",
+     "ref": "1:6",
+     "text": "Elymaeans: the people of Elam, east of the lower Tigris."
+    },
+    {
+     "m": "i",
+     "ref": "1:6",
+     "text": "Cheleoud: unidentified; some identify it with the Chaldeans. Scholarly review recommended."
+    },
+    {
+     "m": "j",
+     "ref": "1:8",
+     "text": "Esdraelon: the Greek form of Jezreel, the broad valley between Galilee and Samaria."
+    },
+    {
+     "m": "k",
+     "ref": "1:9",
+     "text": "The River of Egypt: the Wadi el-Arish in northern Sinai, the traditional southern border of Canaan."
+    },
+    {
+     "m": "l",
+     "ref": "1:12",
+     "text": "The two seas: perhaps the Mediterranean and the Red Sea (or the Persian Gulf)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    14,
+    21,
+    28
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In year eighteen, on the first month’s twenty-second day (March–April),{a} word went forth in the house of Nebuchadnezzar, Assyria’s king, that he would take vengeance on all the earth, as he had declared."
+    },
+    {
+     "v": 2,
+     "text": "He summoned all his officials and all his nobles, laid before them his secret plan, and with his own lips pronounced utter ruin upon the region."
+    },
+    {
+     "v": 3,
+     "text": "They resolved to destroy everyone who had not heeded the command of his mouth."
+    },
+    {
+     "v": 4,
+     "text": "His plan complete, Nebuchadnezzar king of Assyria sent for Holofernes,{b} supreme commander of his forces and next in rank to the king, and told him,"
+    },
+    {
+     "v": 5,
+     "text": "“Thus says the great king, the lord of the whole earth: Go out from my presence, and take with you men who trust in their own strength, one hundred twenty thousand foot soldiers and a force of twelve thousand horses with their riders."
+    },
+    {
+     "v": 6,
+     "text": "March out against the whole land to the west, because they disobeyed the command of my mouth."
+    },
+    {
+     "v": 7,
+     "text": "Order them to prepare earth and water,{c} because I am coming out against them in my fury and will cover the whole face of the earth with the feet of my army, and I will hand them over to my troops to plunder."
+    },
+    {
+     "v": 8,
+     "text": "Their wounded will fill their ravines, and every stream and river will overflow, choked with their dead."
+    },
+    {
+     "v": 9,
+     "text": "Their captives I will carry off to the farthest limits of all the earth."
+    },
+    {
+     "v": 10,
+     "text": "Go, then, and seize all their territory for me in advance. If they surrender to you, you are to hold them for me until the day of their punishment."
+    },
+    {
+     "v": 11,
+     "text": "But as for those who resist, show them no pity; hand them over to slaughter and plunder throughout your whole territory."
+    },
+    {
+     "v": 12,
+     "text": "For as I live, and by the power of my kingdom, I have spoken, and I will accomplish this by my own hand."
+    },
+    {
+     "v": 13,
+     "text": "And you, do not transgress a single one of your lord’s commands, but carry them out to the letter, just as I have ordered you, and do not delay in doing them.”"
+    },
+    {
+     "v": 14,
+     "text": "So Holofernes went out from the presence of his lord and summoned all the princes, generals and officers of the Assyrian army."
+    },
+    {
+     "v": 15,
+     "text": "He mustered picked men for battle, as his lord had ordered him, one hundred twenty thousand of them, with twelve thousand mounted archers,"
+    },
+    {
+     "v": 16,
+     "text": "and he organized them as a great army is marshaled for war."
+    },
+    {
+     "v": 17,
+     "text": "He took along a huge number of camels, donkeys and mules to carry their baggage, and sheep, oxen and goats beyond counting for their provisions,"
+    },
+    {
+     "v": 18,
+     "text": "as well as ample rations for every man, and a great quantity of gold and silver from the royal treasury."
+    },
+    {
+     "v": 19,
+     "text": "Then he and his entire force took the road, to march in advance of King Nebuchadnezzar and to blanket the whole western face of the earth with their chariots, horsemen and choice foot soldiers."
+    },
+    {
+     "v": 20,
+     "text": "A vast motley crowd came out with them, as numerous as locusts or as the sand of the earth, for their multitude was beyond counting."
+    },
+    {
+     "v": 21,
+     "text": "They marched three days out of Nineveh to the edge of the plain of Bectileth,{d} and from Bectileth they made camp near the mountain that lies to the north{e} of upper Cilicia."
+    },
+    {
+     "v": 22,
+     "text": "From there he took his whole force, foot soldiers, horsemen and chariots, and moved off into the highlands."
+    },
+    {
+     "v": 23,
+     "text": "He cut his way through Put and Lud{f} and pillaged every one of the people of Rassis and the Ishmaelites who lived along the edge of the desert, south of the land of the Cheleans."
+    },
+    {
+     "v": 24,
+     "text": "Then he crossed the Euphrates, passed through Mesopotamia, and demolished every walled town by the Wadi Abron,{g} all the way to the sea."
+    },
+    {
+     "v": 25,
+     "text": "He seized the territory of Cilicia, cut down all who opposed him, and came to the borders of Japheth, which face Arabia to the south."
+    },
+    {
+     "v": 26,
+     "text": "He surrounded all the Midianites, set fire to their tents, and looted their sheepfolds."
+    },
+    {
+     "v": 27,
+     "text": "Descending into the Damascus plain while the wheat was being harvested, he set all their fields on fire, wiped out their flocks and herds, sacked their towns, laid waste their plains,{h} and cut down all their youths with the edge of the sword."
+    },
+    {
+     "v": 28,
+     "text": "Fear and dread of him fell upon all who lived along the coast, those in Sidon and Tyre, those who lived in Sur and Ocina, and all who lived in Jamnia. Those in Azotus and Ashkelon were terrified of him.{i}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "First month (March–April): the month Nisan, the first month of the spring new year."
+    },
+    {
+     "m": "b",
+     "ref": "2:4",
+     "text": "Holofernes: a Persian name (compare Orophernes, a Cappadocian prince of the 2nd century BC, and a Persian general of the 4th century BC named in Diodorus, as reported). Its use for an Assyrian commander is another sign of the book’s blending of periods."
+    },
+    {
+     "m": "c",
+     "ref": "2:7",
+     "text": "Earth and water: the traditional Persian demand for tokens of submission (Herodotus, Histories 6.48)."
+    },
+    {
+     "m": "d",
+     "ref": "2:21",
+     "text": "Bectileth: an unknown location; three days’ march from Nineveh would not reach Cilicia, and the geography of the campaign is schematic."
+    },
+    {
+     "m": "e",
+     "ref": "2:21",
+     "text": "To the north: Greek “on the left,” facing east."
+    },
+    {
+     "m": "f",
+     "ref": "2:23",
+     "text": "Put and Lud: peoples usually placed in Africa and Asia Minor (Genesis 10:6, 13, 22); here the names seem to be used freely. Rassis is unidentified (perhaps Rhosus in Cilicia, or Tarsus); the Cheleans are perhaps the Chaldeans or the people of Chaluus."
+    },
+    {
+     "m": "g",
+     "ref": "2:24",
+     "text": "Wadi Abron: unidentified; perhaps the Habor (Khabur), a tributary of the Euphrates, or a corruption of “Hebrews.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:27",
+     "text": "Laid waste their plains: literally “winnowed their plains,” scattering them like chaff."
+    },
+    {
+     "m": "i",
+     "ref": "2:28",
+     "text": "Azotus and Ashkelon: Philistine cities on the coast; Azotus is Ashdod, and Jamnia is Jabneh (Yavneh). Sur and Ocina are not certainly identified."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    6,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So they sent envoys to him with offers of peace, who said,"
+    },
+    {
+     "v": 2,
+     "text": "“Here we are, servants of the great king Nebuchadnezzar, bowing low in your presence. Deal with us however you see fit."
+    },
+    {
+     "v": 3,
+     "text": "Our farmsteads, all our lands, every wheat field, our flocks and herds, and all the sheepfolds of our encampments lie before you; do with them as you please."
+    },
+    {
+     "v": 4,
+     "text": "Our towns too, with their inhabitants, are your slaves. Come and treat them in whatever way seems good to you.”"
+    },
+    {
+     "v": 5,
+     "text": "The men came to Holofernes and reported to him in these words."
+    },
+    {
+     "v": 6,
+     "text": "Then he and his army went down to the coast. He stationed garrisons in the hilltop towns and took picked men from them as auxiliaries."
+    },
+    {
+     "v": 7,
+     "text": "These people and all the surrounding countryside welcomed him with garlands, dancing and tambourines."
+    },
+    {
+     "v": 8,
+     "text": "Yet he demolished all their shrines{a} and hacked down their sacred groves; for he had been commissioned to wipe out every god of the earth, so that every nation would worship Nebuchadnezzar alone, and people of every tongue and tribe would call upon him as god."
+    },
+    {
+     "v": 9,
+     "text": "Then he came toward Esdraelon, near Dothan,{b} which faces the great ridge{c} of Judea."
+    },
+    {
+     "v": 10,
+     "text": "His troops made camp between Geba and Scythopolis,{d} and he stayed there for a whole month in order to gather all the supplies for his army."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:8",
+     "text": "Shrines: so a probable reading; the Greek manuscripts read “borders” (horia), perhaps a confusion with “holy places” (hiera). Scholarly review recommended."
+    },
+    {
+     "m": "b",
+     "ref": "3:9",
+     "text": "Dothan: Greek Dōtaia, the Dothan of Genesis 37:17, north of Samaria."
+    },
+    {
+     "m": "c",
+     "ref": "3:9",
+     "text": "Ridge: Greek “saw,” evidently the jagged mountain ridge running north–south through the hill country (perhaps the Carmel range)."
+    },
+    {
+     "m": "d",
+     "ref": "3:10",
+     "text": "Scythopolis: the Greek name of Beth-shan, at the eastern end of the Jezreel valley. Geba here is perhaps Jaba, south of Dothan."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    6,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Israelites living in Judea heard of everything that Holofernes, commander-in-chief of Nebuchadnezzar king of the Assyrians, had done to the nations, and how he had stripped all their temples and given them over to destruction."
+    },
+    {
+     "v": 2,
+     "text": "They were utterly terrified at his approach and were deeply alarmed for Jerusalem and for the Temple of the Lord their God.{a}"
+    },
+    {
+     "v": 3,
+     "text": "For they had only lately come up from captivity; the people of Judea had only recently been gathered together, and the vessels, the altar and the house had just been consecrated anew after their profanation.{b}"
+    },
+    {
+     "v": 4,
+     "text": "They dispatched messengers throughout the territory of Samaria, to Kona and Beth-horon, Belmain and Jericho, Choba and Aesora, and the Salem valley.{c}"
+    },
+    {
+     "v": 5,
+     "text": "They occupied all the summits of the high mountains, fortified the villages on them, and laid in provisions in readiness for war, since their fields had just been harvested."
+    },
+    {
+     "v": 6,
+     "text": "Joakim, high priest{d} in Jerusalem in those days, sent a letter to the inhabitants of Bethulia{e} and Betomesthaim,{f} which faces Esdraelon across the plain near Dothan,"
+    },
+    {
+     "v": 7,
+     "text": "ordering them to hold the mountain passes, since through them lay the way into Judea. It would be easy to stop the enemy as they came up, for the approach was so narrow that only two men at a time could pass."
+    },
+    {
+     "v": 8,
+     "text": "The Israelites did as Joakim the high priest and the council of elders of all the people of Israel, sitting in Jerusalem, had commanded them."
+    },
+    {
+     "v": 9,
+     "text": "All the men of Israel called upon God most earnestly and abased themselves most earnestly,"
+    },
+    {
+     "v": 10,
+     "text": "they, their wives, their little children and their cattle; every resident alien, hired laborer and purchased slave among them wrapped sackcloth around their waists."
+    },
+    {
+     "v": 11,
+     "text": "All the men, women and children of Israel who lived in Jerusalem lay prostrate before the Temple, strewed ashes on their heads, and spread out their sackcloth before the Lord."
+    },
+    {
+     "v": 12,
+     "text": "They even draped the altar in sackcloth, and with one accord they called out earnestly to the God of Israel not to let their infants be carried off as plunder, their wives taken as spoil, the towns of their inheritance destroyed, and the sanctuary profaned and mocked, to the gloating of the nations."
+    },
+    {
+     "v": 13,
+     "text": "The Lord heard their voice and looked upon their distress. Throughout Judea and in Jerusalem the people fasted for many days before the sanctuary of the Lord Almighty.{g}"
+    },
+    {
+     "v": 14,
+     "text": "Joakim the high priest, and all the priests who stood before the Lord and ministered to the Lord, girded their waists with sackcloth as they offered the daily burnt offering, the votive offerings, and the freewill gifts of the people."
+    },
+    {
+     "v": 15,
+     "text": "There were ashes on their turbans, and with all their might they cried out to the Lord to look with favor on the whole house of Israel."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:2",
+     "text": "The Lord their God: in Judith, as elsewhere in the Greek scriptures, Greek kyrios (“Lord”) normally stands for the divine name YHWH of the Hebrew Bible, which this translation renders “Yahweh” in books translated from Hebrew. Because Judith survives only in Greek, kyrios is rendered “Lord” throughout. Scholarly review recommended."
+    },
+    {
+     "m": "b",
+     "ref": "4:3",
+     "text": "After their profanation: the setting presupposes the return from the Babylonian exile (after 538 BC) and the rebuilding of the Temple, although the king is called Nebuchadnezzar. Some see an echo of the rededication of the Temple under Judas Maccabeus in 164 BC (1 Maccabees 4:36–59)."
+    },
+    {
+     "m": "c",
+     "ref": "4:4",
+     "text": "Valley of Salem: most of these places are not certainly identified. Beth-horon lies northwest of Jerusalem; Kona, Belmain, Choba and Aesora are unknown, and Salem may be Salim near the Jordan (compare John 3:23)."
+    },
+    {
+     "m": "d",
+     "ref": "4:6",
+     "text": "Joakim the high priest: a high priest named Joiakim served after the return from exile (Nehemiah 12:10, 26), but the Joakim of Judith cannot be fixed historically."
+    },
+    {
+     "m": "e",
+     "ref": "4:6",
+     "text": "Bethulia: the town where most of the story takes place, otherwise unknown. Its name may be symbolic, suggesting Hebrew betulah, “virgin,” or bet-eloah, “house of God.” Its setting here, guarding the passes near Dothan, would place it in the hill country north of Samaria; sites such as Mithiliya and Sanur have been proposed (reported)."
+    },
+    {
+     "m": "f",
+     "ref": "4:6",
+     "text": "Betomesthaim: unidentified."
+    },
+    {
+     "m": "g",
+     "ref": "4:13",
+     "text": "The Lord Almighty: Greek kyrios pantokratōr, “Lord, ruler of all,” the usual Greek rendering of “Yahweh of hosts.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    5,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Word reached Holofernes, commander-in-chief of the Assyrian army, that the Israelites had made ready for war: they had shut off the passes through the hill country, walled in every summit of the high mountains, and laid obstacles across the plains."
+    },
+    {
+     "v": 2,
+     "text": "He was seized with violent anger, and he called together all the rulers of Moab, the generals of Ammon, and all the governors of the coast,"
+    },
+    {
+     "v": 3,
+     "text": "and said to them, “Now tell me, you Canaanites, who are these people that inhabit the hill country? What towns do they live in? How large is their army, and where does their power and strength lie? Who has set himself up as their king, to lead their forces?"
+    },
+    {
+     "v": 4,
+     "text": "And why, alone among all the peoples of the west, have they turned their backs and refused to come out and meet me?”"
+    },
+    {
+     "v": 5,
+     "text": "Then Achior,{a} chief of all the sons of Ammon, replied, “May my lord be pleased to hear a word spoken by your servant. I will give you a true account of this nation dwelling in the highlands close to your camp, and nothing false shall come from your servant’s mouth."
+    },
+    {
+     "v": 6,
+     "text": "These people are descended from the Chaldeans.{b}"
+    },
+    {
+     "v": 7,
+     "text": "At one time they lived as aliens in Mesopotamia, because they would not follow the gods of their forebears in the land of the Chaldeans."
+    },
+    {
+     "v": 8,
+     "text": "They forsook the ways of their ancestors and worshiped the God of heaven, the God they had come to know. So their kinsfolk drove them out from the presence of their gods, and they fled to Mesopotamia and dwelt there as aliens for a long time."
+    },
+    {
+     "v": 9,
+     "text": "Then their God told them to leave the place where they were staying and go to the land of Canaan. They settled there and grew rich in gold and silver and in great herds of livestock."
+    },
+    {
+     "v": 10,
+     "text": "But hunger overspread the face of Canaan, so they went down into Egypt and sojourned there while their food held out; and in that land they grew into a vast throng, a race too many to count."
+    },
+    {
+     "v": 11,
+     "text": "But the king of Egypt rose up against them and dealt craftily with them, forcing them to toil at brickmaking; they humiliated them and made them slaves."
+    },
+    {
+     "v": 12,
+     "text": "They raised a cry to their God, who smote all Egypt with incurable plagues; and so the Egyptians expelled them from their presence."
+    },
+    {
+     "v": 13,
+     "text": "Then God dried up the Red Sea before them,"
+    },
+    {
+     "v": 14,
+     "text": "and led them by the road to Sinai and Kadesh-barnea. They expelled all who lived in the wilderness,"
+    },
+    {
+     "v": 15,
+     "text": "and took up residence in the land of the Amorites. In their strength they wiped out all the people of Heshbon, and crossing the Jordan they took possession of the whole hill country."
+    },
+    {
+     "v": 16,
+     "text": "They dispossessed the Canaanite, the Perizzite, the Jebusite, the people of Shechem, and every Girgashite, and dwelt in that land for many days."
+    },
+    {
+     "v": 17,
+     "text": "As long as they did not sin before their God, prosperity was theirs, for the God who is with them hates wrongdoing."
+    },
+    {
+     "v": 18,
+     "text": "But when they turned aside from the way he had appointed for them, they were utterly destroyed in many wars and were led away captive to a land not their own. The temple of their God was razed to the ground, and their towns were seized by their enemies."
+    },
+    {
+     "v": 19,
+     "text": "Now, however, they have returned to their God and have come back from the places where they were scattered. They have taken possession of Jerusalem, where their sanctuary is, and have resettled the hill country, which had been left desolate.{c}"
+    },
+    {
+     "v": 20,
+     "text": "So now, my master and lord, if there is any error in this people, if they are sinning against their God, and if we find out that they have this offense among them, then we will go up and defeat them."
+    },
+    {
+     "v": 21,
+     "text": "But should their people be free of lawlessness, my lord had best leave them alone, lest their Lord and God shield them and we become a byword of disgrace in all the earth.”"
+    },
+    {
+     "v": 22,
+     "text": "When Achior stopped speaking, all the people standing around the tent began to grumble, and Holofernes’ officers and all those from the coast and from Moab said he ought to be cut to pieces."
+    },
+    {
+     "v": 23,
+     "text": "“We will not be afraid of the Israelites,” they said. “They are a people with neither the power nor the might to make a strong stand in battle."
+    },
+    {
+     "v": 24,
+     "text": "So let us go up, Lord Holofernes, and they will be swallowed up by your whole army.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:5",
+     "text": "Achior: a Hebrew-sounding name, perhaps “brother of light.” His later conversion (14:10) makes this Ammonite a notable figure, since Deuteronomy 23:3 excluded Ammonites from the assembly of Israel."
+    },
+    {
+     "m": "b",
+     "ref": "5:6",
+     "text": "Chaldeans: that is, from Ur of the Chaldeans (Genesis 11:31). Achior’s summary of Israel’s history follows Genesis through Kings."
+    },
+    {
+     "m": "c",
+     "ref": "5:19",
+     "text": "Left desolate: this presupposes the return from exile (after 538 BC), centuries after the historical Nebuchadnezzar of Assyria in the story. See the note at 1:1."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When the uproar among the men around the council had subsided, Holofernes, commander-in-chief of the Assyrian army, spoke to Achior in front of the whole crowd of foreigners and of all the Moabites:"
+    },
+    {
+     "v": 2,
+     "text": "“And who are you, Achior, you and these hirelings of Ephraim,{a} to play the prophet among us as you have done today, telling us not to make war on the race of Israel because their God will protect them? Who is god but Nebuchadnezzar? His power he will dispatch to wipe them from the earth’s face, and their God will not rescue them."
+    },
+    {
+     "v": 3,
+     "text": "We his servants will strike them down as if they were one man. They will not withstand the might of our cavalry."
+    },
+    {
+     "v": 4,
+     "text": "We will burn them up with it;{b} the blood of these people will make their hills drunk, and their corpses will fill their lowlands. Not even the print of their feet will stand against us; they will perish utterly. This is the word of King Nebuchadnezzar, master of all the earth; and when he speaks, not one thing he says will prove empty."
+    },
+    {
+     "v": 5,
+     "text": "As for you, Achior, you Ammonite hireling, who have uttered these words in your hour of wickedness, from this day you will not see my face again until I take vengeance on this race that came out of Egypt."
+    },
+    {
+     "v": 6,
+     "text": "Then the iron of my army and the spear{c} of my servants will run through your ribs, and you will drop down among their slain at my return."
+    },
+    {
+     "v": 7,
+     "text": "My slaves will now take you back into the hill country and leave you in one of the towns beside the passes."
+    },
+    {
+     "v": 8,
+     "text": "You will not die until you are destroyed along with them."
+    },
+    {
+     "v": 9,
+     "text": "And if in your heart you are so confident they will not be taken, why let your face fall? I have said it; no word of mine will come to nothing.”"
+    },
+    {
+     "v": 10,
+     "text": "Then Holofernes commanded the slaves who attended him in his tent to arrest Achior, conduct him back to Bethulia, and deliver him into Israelite hands."
+    },
+    {
+     "v": 11,
+     "text": "His slaves therefore seized him, marched him outside the camp onto the plain, and from the middle of the plain headed up into the highlands until they reached the springs beneath Bethulia."
+    },
+    {
+     "v": 12,
+     "text": "When the men of the town on the hilltop saw them, they took up their weapons and went out of the town to the top of the hill, and all the slingers kept them from coming up by pelting them with stones."
+    },
+    {
+     "v": 13,
+     "text": "So they slipped down under cover of the hill, bound Achior, left him lying at the foot of the hill, and went back to their lord."
+    },
+    {
+     "v": 14,
+     "text": "Coming down out of their town, the Israelites went over to him, loosed his bonds, brought him into Bethulia, and stood him before the magistrates of their town,"
+    },
+    {
+     "v": 15,
+     "text": "who in those days were these: Uzziah{d} the son of Micah, a Simeonite; Chabris the son of Gothoniel; and Charmis the son of Melchiel."
+    },
+    {
+     "v": 16,
+     "text": "These summoned every elder of the town; all the youths and the women came running to the gathering; and Achior was made to stand in the midst of the whole populace while Uzziah asked him what had occurred."
+    },
+    {
+     "v": 17,
+     "text": "He answered by telling them what had been said at Holofernes’ council, all that he himself had said in the presence of the Assyrian commanders, and all of Holofernes’ boasting against the house of Israel."
+    },
+    {
+     "v": 18,
+     "text": "Then the people bowed down in worship before God and called aloud,"
+    },
+    {
+     "v": 19,
+     "text": "“Lord God of heaven, look on their arrogance, and pity the humiliation of our race. Look with favor today on the faces of those who are consecrated to you.”"
+    },
+    {
+     "v": 20,
+     "text": "Then they reassured Achior and praised him highly."
+    },
+    {
+     "v": 21,
+     "text": "Uzziah brought him from the gathering to his house and held a drinking feast for the elders, and through the whole of that night they called upon Israel’s God to help them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Hirelings of Ephraim: a taunt, suggesting that Achior has been bought by the Israelites; Ephraim stands for Israel. Some manuscripts read “hireling of Ammon,” as in verse 5."
+    },
+    {
+     "m": "b",
+     "ref": "6:4",
+     "text": "With it: perhaps “with them,” that is, with our cavalry, or “in their own land.” The Greek is obscure."
+    },
+    {
+     "m": "c",
+     "ref": "6:6",
+     "text": "Spear: literally “people,” perhaps by confusion with a similar word; the parallel with “sword” suggests a weapon. Scholarly review recommended."
+    },
+    {
+     "m": "d",
+     "ref": "6:15",
+     "text": "Uzziah: “Yahweh is my strength.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    4,
+    6,
+    8,
+    16,
+    19,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the following day Holofernes gave orders to his whole army, and to all the peoples who had joined him as allies, to break camp and march against Bethulia, to seize beforehand the ascents into the hill country, and to open war on the Israelites."
+    },
+    {
+     "v": 2,
+     "text": "That day every fighting man among them set out. Their force of warriors numbered one hundred seventy thousand foot soldiers and twelve thousand horsemen,{a} not counting the baggage train and the men on foot who went with it, a vast host indeed."
+    },
+    {
+     "v": 3,
+     "text": "They pitched camp in the valley close to Bethulia, beside the spring. Their camp stretched in breadth toward Dothan as far as Belbaim, and in length from Bethulia to Cyamon,{b} which looks out over Esdraelon."
+    },
+    {
+     "v": 4,
+     "text": "When the Israelites caught sight of that multitude they were badly shaken, and each one said to his neighbor, “These men will now lick clean the whole face of the earth. Neither the high mountains nor the ravines nor the hills will bear their weight.”"
+    },
+    {
+     "v": 5,
+     "text": "Each man took up his weapons of war, and after kindling beacon fires on their towers they stood guard all that night."
+    },
+    {
+     "v": 6,
+     "text": "On the second day Holofernes paraded all his cavalry within sight of the Israelites in Bethulia."
+    },
+    {
+     "v": 7,
+     "text": "He inspected the approaches to their town and searched out its springs of water. These he took over, posting detachments of soldiers at them, and then went back to his own troops."
+    },
+    {
+     "v": 8,
+     "text": "Then all the chiefs of the descendants of Esau, all the leaders of the Moabite people, and the commanders of the coastland came to him and said,"
+    },
+    {
+     "v": 9,
+     "text": "“Will our master please listen to a word, so that no disaster strikes your army?"
+    },
+    {
+     "v": 10,
+     "text": "This people, the Israelites, put no trust in their spears; they rely on the heights of the mountains where they make their homes, for the summits of their mountains are hard to reach."
+    },
+    {
+     "v": 11,
+     "text": "So, master, do not fight them in regular battle formation, and not a single man of your troops will fall."
+    },
+    {
+     "v": 12,
+     "text": "Remain in your camp and keep every soldier of your army safe. Let your servants instead get control of the spring that flows from the foot of the mountain,"
+    },
+    {
+     "v": 13,
+     "text": "since that is where all the inhabitants of Bethulia draw their water. Thirst will destroy them and they will hand over their town. Meanwhile we and our people will climb the nearby mountain peaks and camp on them as an outpost, so that not one man gets out of the town."
+    },
+    {
+     "v": 14,
+     "text": "They, their wives and their children will waste away from hunger, and before the sword ever reaches them they will lie strewn in the streets where they live."
+    },
+    {
+     "v": 15,
+     "text": "In this way you will pay them back with an evil reward, because they rebelled and would not come out peaceably to meet you.”"
+    },
+    {
+     "v": 16,
+     "text": "Holofernes and all his attendants were pleased with this advice, and he ordered it carried out as proposed."
+    },
+    {
+     "v": 17,
+     "text": "Accordingly the Ammonite force broke camp, and five thousand Assyrian troops with them; pitching their tents along the valley, they took control of the Israelites’ waters and the fountains that fed them."
+    },
+    {
+     "v": 18,
+     "text": "Edom’s sons and Ammon’s sons, for their part, climbed up and made camp in the highlands facing Dothan, and detached some of their number to the south and east, toward Egrebel near Chus, on the Mochmur ravine.{c} The remainder of the Assyrian host took up position on the plain and blanketed the whole countryside; their tents and baggage were pitched in one enormous crowd, a host beyond measure."
+    },
+    {
+     "v": 19,
+     "text": "Then Israel’s people raised a cry to the Lord their God, since their courage had sunk; every foe of theirs ringed them about, and there was no slipping out from the midst of them."
+    },
+    {
+     "v": 20,
+     "text": "The whole Assyrian force, infantry, chariots and cavalry, kept them surrounded for thirty-four days, until every water jar belonging to the people of Bethulia was empty."
+    },
+    {
+     "v": 21,
+     "text": "Their cisterns were running dry, and there was not a single day on which they had water enough to drink, for it was doled out to them by measure."
+    },
+    {
+     "v": 22,
+     "text": "Their little ones lost heart, and the women and young men fainted from thirst and collapsed in the town squares and in the gateways; they had no strength left."
+    },
+    {
+     "v": 23,
+     "text": "Then the whole people, young men, women and children, thronged around Uzziah and the rulers of the town, and with loud cries they said before all the elders,"
+    },
+    {
+     "v": 24,
+     "text": "“God be judge between you and us! You have done us a grave wrong by not making terms of peace with the Assyrians."
+    },
+    {
+     "v": 25,
+     "text": "Now there is no one to help us. God has sold us into their power, to be thrown down before them in thirst and utter ruin."
+    },
+    {
+     "v": 26,
+     "text": "Summon them now and surrender the whole town to be plundered by the troops of Holofernes and all his army."
+    },
+    {
+     "v": 27,
+     "text": "It is better for us to become their prey; we will be slaves, but we will stay alive, and we will not have to watch our infants die before our eyes, or our wives and children breathing their last."
+    },
+    {
+     "v": 28,
+     "text": "Heaven and earth we summon as witnesses against you, and our God, Lord of our fathers, who is punishing us as our own sins and our fathers’ sins deserve: may he not act today according to these words!”"
+    },
+    {
+     "v": 29,
+     "text": "Then the entire assembly broke into loud weeping with one voice, and they cried out to the Lord God at the top of their voices."
+    },
+    {
+     "v": 30,
+     "text": "Uzziah said to them, “Courage, my brothers! Let us hold out five days more. In that time the Lord our God will turn his mercy toward us again, for he will not forsake us utterly."
+    },
+    {
+     "v": 31,
+     "text": "But if these days pass with no help reaching us, I will do as you say.”"
+    },
+    {
+     "v": 32,
+     "text": "Then he sent the people away, each to his own post. The men went off to the walls and towers of their town, and they sent the women and children home. And there was deep dejection throughout the town."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:2",
+     "text": "Twelve thousand horsemen: compare 2:15, where the force numbers 120,000 infantry and 12,000 mounted archers. The figures are those of the story, not of history."
+    },
+    {
+     "m": "b",
+     "ref": "7:3",
+     "text": "Cyamon: Belbaim (perhaps the Belmain of 4:4) and Cyamon are not certainly identified; Cyamon may be Tell Qaimun (Jokneam), at the western edge of the Jezreel valley (reported)."
+    },
+    {
+     "m": "c",
+     "ref": "7:18",
+     "text": "Wadi Mochmur: Egrebel may be Akrabbeh, southeast of Shechem; Chus and the Wadi Mochmur are unidentified (reported)."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    9,
+    18,
+    24,
+    28,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now in those days word of these things reached Judith.{a} She was Merari’s daughter, and her line ran back through Ox, Joseph, Oziel, Elkiah, Ananias, Gideon, Raphain, Ahitub, Elijah, Hilkiah, Eliab, Nathanael, Salamiel and Sarasadai, to Israel himself.{b}"
+    },
+    {
+     "v": 2,
+     "text": "Manasseh, her husband, a man from her tribe and family, had died at the time of the barley harvest (April–May).{c}"
+    },
+    {
+     "v": 3,
+     "text": "While he stood over the men binding sheaves in the field, the burning heat struck his head; he took to his bed and died in Bethulia, his own town, and was laid to rest beside his fathers in the countryside lying between Dothan and Balamon."
+    },
+    {
+     "v": 4,
+     "text": "For three years and four months now Judith had been living as a widow at home."
+    },
+    {
+     "v": 5,
+     "text": "On the roof of her house she had put up a tent for herself. She wore sackcloth around her waist and dressed in the garments of her widowhood."
+    },
+    {
+     "v": 6,
+     "text": "All the days of her widowhood she kept a fast, apart from sabbath eves and sabbaths, new-moon eves and new moons, and the feasts and joyful occasions of Israel’s house.{d}"
+    },
+    {
+     "v": 7,
+     "text": "She was lovely in form and very beautiful to look upon. Her husband Manasseh had left her gold and silver, male and female servants, livestock and fields, and she remained on her estate."
+    },
+    {
+     "v": 8,
+     "text": "No one spoke a word of ill against her, for she feared God greatly."
+    },
+    {
+     "v": 9,
+     "text": "When Judith learned of the bitter words the people had spoken against their ruler, disheartened as they were by the lack of water, and learned too of all that Uzziah had said to them, how he had sworn to hand the town over to the Assyrians after five days,"
+    },
+    {
+     "v": 10,
+     "text": "she sent her maid,{e} who managed all her property, to summon Chabris and Charmis, the elders of her town."
+    },
+    {
+     "v": 11,
+     "text": "When they arrived she said to them, “Hear me, you who govern Bethulia’s inhabitants! The word you spoke before the people today was not right. You have sworn this oath, pronounced between God and yourselves, pledging to give up the city to our foes if within those days the Lord does not turn to bring you aid."
+    },
+    {
+     "v": 12,
+     "text": "Who are you, then, to make trial of God this very day and to stand in God’s stead in the midst of mortals?"
+    },
+    {
+     "v": 13,
+     "text": "Now you are probing the Lord Almighty, yet you will never understand anything!"
+    },
+    {
+     "v": 14,
+     "text": "You cannot fathom the depths of the human heart or grasp what a person is thinking. How then can you search out God, who made all these things, or read his mind, or comprehend his reasoning? No, my brothers, do not provoke the Lord our God to anger."
+    },
+    {
+     "v": 15,
+     "text": "For if he does not choose to help us within five days, he still has power to protect us on any day he wishes, or else to destroy us before our enemies."
+    },
+    {
+     "v": 16,
+     "text": "Do not try to bind the Lord our God by pledges as to his plans. God is no man, that threats should move him, nor a son of man, to be brought to terms.{f}"
+    },
+    {
+     "v": 17,
+     "text": "So while we wait for the deliverance that comes from him, let us call on him to help us, and he will hear our voice if it pleases him."
+    },
+    {
+     "v": 18,
+     "text": "“For in our generations there has never arisen, nor is there now, any tribe or clan or district or town of ours that bows down to gods made by hands, as happened in former times."
+    },
+    {
+     "v": 19,
+     "text": "It was for this that our fathers were given up to the sword and to pillage and fell with a great fall in the sight of our foes."
+    },
+    {
+     "v": 20,
+     "text": "We, however, know no god other than him; and so we hope he will not look past us or past any of our race."
+    },
+    {
+     "v": 21,
+     "text": "For if we are taken, all Judea will be taken likewise, and our holy places will be plundered; and God will require of us, at the cost of our blood, their profanation."
+    },
+    {
+     "v": 22,
+     "text": "The killing of our kin, the land’s captivity, the laying waste of our inheritance, all this he will turn back upon our heads among whatever nations we come to serve; and we will become a thing to stumble over and to scorn in our owners’ sight."
+    },
+    {
+     "v": 23,
+     "text": "Our servitude will not end in goodwill; rather the Lord our God will make it a disgrace."
+    },
+    {
+     "v": 24,
+     "text": "“Therefore, brothers, let us show our kin what we are made of, since their very lives hang upon us, and on us rest the holy things, the house and the altar."
+    },
+    {
+     "v": 25,
+     "text": "In spite of everything, let us give thanks to the Lord our God, who is testing us just as he tested our ancestors."
+    },
+    {
+     "v": 26,
+     "text": "Call to mind his dealings with Abraham, his testing of Isaac, and what befell Jacob in Mesopotamia of Syria as he shepherded the flocks of Laban, his mother’s brother."
+    },
+    {
+     "v": 27,
+     "text": "He has not put us through the fire as he did them, to search out their hearts, nor has he exacted punishment from us; it is for warning that the Lord lashes those who come near him.”"
+    },
+    {
+     "v": 28,
+     "text": "Uzziah answered her, “All that you have said, you have spoken with a good heart, and there is no one who can stand against your words."
+    },
+    {
+     "v": 29,
+     "text": "This is not the first day your wisdom has come to light. Since your earliest days the whole people has known how discerning you are, because what your heart shapes is good."
+    },
+    {
+     "v": 30,
+     "text": "But the people were terribly thirsty, and they compelled us to act as we promised them and to bind ourselves by an oath that we cannot break."
+    },
+    {
+     "v": 31,
+     "text": "So now pray for us, for you are a devout woman, and the Lord will send rain to fill our cisterns, and we will no longer faint.”"
+    },
+    {
+     "v": 32,
+     "text": "Judith said to them, “Listen to me. I am going to do a deed that will be told to the children of our race from generation to generation."
+    },
+    {
+     "v": 33,
+     "text": "Stand at the town gate tonight, and I will go out with my maid. Within the days after which you promised to surrender the town to our enemies, the Lord will deliver Israel by my hand."
+    },
+    {
+     "v": 34,
+     "text": "But you are not to inquire into my doing. I will tell you nothing until the thing I am to do has been accomplished.”"
+    },
+    {
+     "v": 35,
+     "text": "Uzziah and the magistrates replied, “Depart in peace. The Lord God be ahead of you, to repay our enemies!”"
+    },
+    {
+     "v": 36,
+     "text": "Then they turned away from the tent and went back to their stations."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "Judith: Hebrew Yehudit, “Jewess” or “Judean woman,” the feminine of Judah. The name presents her as an embodiment of her people, much as her town Bethulia and her husband Manasseh may carry symbolic weight. Her long genealogy, the longest given for any woman in the Greek Bible, underlines her standing."
+    },
+    {
+     "m": "b",
+     "ref": "8:1",
+     "text": "Son of Israel: that is, son of Jacob. Several names in the list (Merari, Ox, Sarasadai) are uncertain, and the manuscripts differ; Latin and some Greek witnesses connect her with the tribe of Simeon (compare 9:2). Scholarly review recommended."
+    },
+    {
+     "m": "c",
+     "ref": "8:2",
+     "text": "Barley harvest: in Palestine the barley harvest fell in the spring, in the months of Nisan and Iyyar."
+    },
+    {
+     "m": "d",
+     "ref": "8:6",
+     "text": "Of the house of Israel: Judith exempts the days on which Jewish practice forbade fasting. The rules about the eves of sabbaths and new moons reflect later Jewish custom (compare Mishnah, Taanit)."
+    },
+    {
+     "m": "e",
+     "ref": "8:10",
+     "text": "Her maid: Greek habra, a favorite or personal maid, one who has charge of a household."
+    },
+    {
+     "m": "f",
+     "ref": "8:16",
+     "text": "Won over by bargaining: or “to be brought to terms”; the Greek speaks of submitting a case to arbitration."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    7,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Judith threw herself face down, sprinkled ash over her head, and laid bare the sackcloth she had on beneath. At that very hour in Jerusalem the evening incense{a} was being offered in God’s house, and Judith called aloud to the Lord, saying:"
+    },
+    {
+     "v": 2,
+     "text": "“Lord, God of Simeon my forefather, into whose hand you put a sword to take revenge on the foreigners who had loosened a virgin’s girdle to defile her, stripped her thigh to shame her, and polluted her womb to disgrace her{b}—for you had said, ‘This shall not be done,’ yet they did it—"
+    },
+    {
+     "v": 3,
+     "text": "for that deed you gave up their rulers to slaughter, and their bed, which blushed at their deceit, you made a bed deceived and bloodied.{c} You struck down slaves together with princes, and princes upon their thrones."
+    },
+    {
+     "v": 4,
+     "text": "Their wives you gave up as booty and their daughters to captivity, and all their spoils to be shared out among the sons you loved, who burned with zeal for you, who loathed the pollution of their blood and called on you to help them. O God, my God, hear me also, a widow."
+    },
+    {
+     "v": 5,
+     "text": "For it is you who brought about those events and what went before them and what came after. The present and the things yet to come you have planned, and what you had in mind has come to pass."
+    },
+    {
+     "v": 6,
+     "text": "What you intended stood by your side and answered, ‘Look, we are present!’ Every road of yours lies ready, and you judge with knowledge beforehand."
+    },
+    {
+     "v": 7,
+     "text": "“See, the Assyrians are swollen with their might. They exult in horse and rider; they glory in the strength of their infantry; their trust is in buckler and javelin, bow and sling, and they fail to recognize you as the Lord who crushes wars."
+    },
+    {
+     "v": 8,
+     "text": "Lord is your name.{d} Break their strength by your power; bring down their might in your anger. For they have resolved to defile your holy places, to pollute the tabernacle where your glorious name rests, and to hew down the horn of your altar with iron."
+    },
+    {
+     "v": 9,
+     "text": "Look upon their pride; send your fury on their heads. Give into my hand, a widow’s hand, strength for what I have planned."
+    },
+    {
+     "v": 10,
+     "text": "By the guile of my lips strike down slave together with master, and master together with servant. Shatter their arrogance by the hand of a woman."
+    },
+    {
+     "v": 11,
+     "text": "“For your strength does not lie in numbers, nor your sovereignty in the mighty. God of the humble you are, aid of the little ones, upholder of the feeble, shelter for the despairing, rescuer of the hopeless."
+    },
+    {
+     "v": 12,
+     "text": "Yes, O yes, my father’s God, God of Israel’s inheritance, master of the heavens and the earth, maker of the seas, sovereign over everything you have made: listen to my plea!"
+    },
+    {
+     "v": 13,
+     "text": "Make my words and my deceit a wound and a bruise to those who have plotted cruel things against your covenant, against your consecrated house, against the summit of Zion, and against the house your children possess."
+    },
+    {
+     "v": 14,
+     "text": "Let all your people and every tribe come to acknowledge and perceive that you are God, God of every power and strength, and that there is no other who shields the race of Israel but you alone!”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "The evening incense: incense was burned in the Temple every evening and morning (Exodus 30:7–8), and the evening offering became a customary hour of prayer (compare Psalm 141:2; Daniel 9:21)."
+    },
+    {
+     "m": "b",
+     "ref": "9:2",
+     "text": "To disgrace her: the rape of Dinah, avenged by her brothers Simeon and Levi (Genesis 34). Judith’s prayer approves the vengeance that Genesis 49:5–7 condemns."
+    },
+    {
+     "m": "c",
+     "ref": "9:3",
+     "text": "Deceived and bloodied: the Greek is compressed; the sense seems to be that the bed on which the Shechemites had acted deceitfully became the place where they were deceived and killed."
+    },
+    {
+     "m": "d",
+     "ref": "9:8",
+     "text": "Lord is your name: compare Exodus 15:3, “Yahweh is his name.” Here the Greek kyrios plainly stands for the divine name. See the note at 4:2."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    6,
+    11,
+    18,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When she had ceased crying out to the God of Israel and had brought all these words to a close,"
+    },
+    {
+     "v": 2,
+     "text": "she rose from where she lay prostrate, called her maid, and went down into the house where she used to spend her sabbaths and her feast days."
+    },
+    {
+     "v": 3,
+     "text": "She took off the sackcloth that clothed her and put aside her widow’s garments. She bathed her body in water and anointed herself with rich ointment, combed out the hair of her head and set a headband on it, and put on the festive clothes she used to wear while her husband Manasseh was alive."
+    },
+    {
+     "v": 4,
+     "text": "Sandals she bound on her feet, and she put on her ankle chains, bangles, finger rings, earrings and all her finery. Thus she adorned herself lavishly, so as to beguile the eyes of any men who might see her."
+    },
+    {
+     "v": 5,
+     "text": "She handed her maid a skin of wine and a flask of oil, filled a bag with roasted grain, cakes of dried figs and loaves of ritually pure bread,{a} wrapped up all her provisions, and gave them to her to carry."
+    },
+    {
+     "v": 6,
+     "text": "Then they went out to the gate of the town of Bethulia and found Uzziah standing there with the town elders, Chabris and Charmis."
+    },
+    {
+     "v": 7,
+     "text": "When these men saw her, her face transformed and her clothing changed, they were struck with exceeding wonder at her beauty and said to her,"
+    },
+    {
+     "v": 8,
+     "text": "“May the God of our fathers grant you favor and bring your undertakings to fulfillment, to the glory of Israel’s people and the exaltation of Jerusalem.”"
+    },
+    {
+     "v": 9,
+     "text": "She bowed in worship to God and said to them, “Give orders for the town gate to be opened for me, and I will go out and carry out the things you discussed with me.” So they directed the young men to open it for her, as she had asked."
+    },
+    {
+     "v": 10,
+     "text": "This they did. Judith went out, she and her servant girl with her, and the men of the town kept her in sight until she had gone down the mountain and crossed the valley; after that they could see her no longer."
+    },
+    {
+     "v": 11,
+     "text": "The two of them were walking straight ahead along the ravine when an Assyrian patrol met her."
+    },
+    {
+     "v": 12,
+     "text": "Taking her into custody, they questioned her: “Whose are you? Where do you come from, and where are you going?” She answered, “I am a daughter of the Hebrews,{b} and I am running away from them, since they are about to be given over to you to be devoured."
+    },
+    {
+     "v": 13,
+     "text": "I am on my way to Holofernes, the commander of your army, to give him a truthful report. I will show him a road he can take to make himself master of the whole hill country without losing one of his men, body or breath.”"
+    },
+    {
+     "v": 14,
+     "text": "As the men listened to her words and studied her face, she seemed to them marvelously beautiful, and they said to her,"
+    },
+    {
+     "v": 15,
+     "text": "“You have saved your life by hurrying down to our lord’s presence. Go now to his tent; some of us will escort you until they put you into his hands."
+    },
+    {
+     "v": 16,
+     "text": "And when you stand before him, have no fear in your heart. Report to him as you have spoken, and he will deal kindly with you.”"
+    },
+    {
+     "v": 17,
+     "text": "They chose a hundred of their men to accompany her and her maid, and these brought them to the tent of Holofernes."
+    },
+    {
+     "v": 18,
+     "text": "People came running from all over the camp, for the news of her arrival spread from tent to tent. They gathered in a ring about her where she stood in front of Holofernes’ tent until they had told him about her."
+    },
+    {
+     "v": 19,
+     "text": "They marveled at her beauty, and judged the Israelites by her. “Who could despise these people,” they said to one another, “when they have women like this among them? It would be a mistake to leave even one of their men alive, for if they were let go they would be able to outwit the whole world!”"
+    },
+    {
+     "v": 20,
+     "text": "Then out came those who slept near Holofernes,{c} together with every servant of his, and they led her inside."
+    },
+    {
+     "v": 21,
+     "text": "Holofernes was resting on his bed under the canopy,{d} which was woven of purple and gold, with emeralds and other precious stones."
+    },
+    {
+     "v": 22,
+     "text": "When they told him about her, he came out into the front part of the tent, with silver lamps carried before him."
+    },
+    {
+     "v": 23,
+     "text": "As Judith came before him and his attendants, they all marveled at the beauty of her face. She fell on her face and did obeisance to him, and his slaves raised her up."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:5",
+     "text": "Ritually pure bread: literally “pure loaves,” food prepared in keeping with the Jewish dietary laws, so that she would not have to eat the food of the Gentiles (compare 12:1–4). The Greek words for her containers do not imply fixed measures."
+    },
+    {
+     "m": "b",
+     "ref": "10:12",
+     "text": "Daughter of the Hebrews: that is, a Hebrew woman. “Hebrew” is the name Israelites typically used of themselves when speaking to foreigners."
+    },
+    {
+     "m": "c",
+     "ref": "10:20",
+     "text": "Those who slept near Holofernes: his personal attendants or bodyguards."
+    },
+    {
+     "m": "d",
+     "ref": "10:21",
+     "text": "Canopy: Greek kōnōpion, a net or curtain hung around a bed to keep off gnats and mosquitoes; the source of English “canopy.” It reappears at 13:9 and 16:19."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    5,
+    9,
+    16,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Holofernes spoke to her: “Be brave, lady; do not be afraid at heart. Never yet have I done hurt to any man who elected to be a servant of Nebuchadnezzar, sovereign of the whole earth."
+    },
+    {
+     "v": 2,
+     "text": "As for your nation up in the highlands, if they had not treated me with contempt I should not have raised a spear against them. It is their own doing."
+    },
+    {
+     "v": 3,
+     "text": "But tell me now, why did you run away from them and come over to us? You have come to safety. Courage! You will live through this night and through all the nights to follow."
+    },
+    {
+     "v": 4,
+     "text": "No one is going to wrong you; rather, you will be treated well, as the servants of my lord King Nebuchadnezzar are.”"
+    },
+    {
+     "v": 5,
+     "text": "Judith said in reply, “Receive what your bondwoman has to say, and allow your handmaid to address you face to face; not one lie will I speak to my lord{a} tonight."
+    },
+    {
+     "v": 6,
+     "text": "If you follow the advice of your servant girl, God will bring the matter to a full conclusion through you, and my lord will not fail in his designs."
+    },
+    {
+     "v": 7,
+     "text": "As surely as Nebuchadnezzar lives, king of all the earth, and as his power lives, who sent you to set every living being in order, not only do human beings serve him because of you, but through your strength the wild animals, the cattle and the birds of the sky will live for Nebuchadnezzar and all his house.{b}"
+    },
+    {
+     "v": 8,
+     "text": "We have heard of your wisdom and your clever designs. It is reported throughout the world that you alone are excellent in all the kingdom, mighty in knowledge, and wonderful in military strategy."
+    },
+    {
+     "v": 9,
+     "text": "“Now as for the speech Achior made at your council, we have heard what he said, for the men of Bethulia spared him, and he told them all that he had declared before you."
+    },
+    {
+     "v": 10,
+     "text": "Therefore, my master and lord, do not dismiss what he said but keep it in mind, for it is true. Our race cannot be punished, nor can the sword prevail against them, unless they sin against their God."
+    },
+    {
+     "v": 11,
+     "text": "“But now, so that my lord may not be thwarted and his purpose fail, death is about to fall upon them. A sin has taken hold of them by which they will anger their God whenever they commit this outrage."
+    },
+    {
+     "v": 12,
+     "text": "Since their food is giving out and their water is almost gone, they have decided to lay hands on their livestock, and they have resolved to consume everything that God by his laws forbade them to eat."
+    },
+    {
+     "v": 13,
+     "text": "The firstlings of the grain, too, and the tenths of wine and oil, which they had hallowed and kept back for the priests who stand before our God’s face in Jerusalem, they now mean to devour entirely, holy things that none of the common people is permitted even to handle.{c}"
+    },
+    {
+     "v": 14,
+     "text": "They have sent men to Jerusalem to bring back permission from the council of elders, because even the people living there have done this."
+    },
+    {
+     "v": 15,
+     "text": "Once word reaches them and they carry it out, that same day they will be surrendered to you to be wiped out."
+    },
+    {
+     "v": 16,
+     "text": "“Because of this, once your bondwoman knew all these things, I made my escape from them; and God has dispatched me to do deeds together with you that will leave the world astonished, everyone who comes to hear them."
+    },
+    {
+     "v": 17,
+     "text": "For your slave is a God-fearing woman who worships the God of heaven night and day. Now, my lord, I will remain with you, but every night your slave will go out into the ravine and pray to God, and he will tell me when they have committed their sins."
+    },
+    {
+     "v": 18,
+     "text": "Then I will return and let you know, and you will sally forth at the head of all your forces, and none of them will be able to withstand you."
+    },
+    {
+     "v": 19,
+     "text": "I will lead you through the middle of Judea until you come to Jerusalem, and I will set your seat{d} in its midst. You will drive them like sheep without a shepherd, and not even a dog will so much as growl at you.{e} These things were told me through my foreknowledge; they were revealed to me, and I have been sent to announce them to you.”"
+    },
+    {
+     "v": 20,
+     "text": "Holofernes and his whole retinue were delighted with what she said; her wisdom amazed them, and they exclaimed,"
+    },
+    {
+     "v": 21,
+     "text": "“From one end of the earth to the other there is no woman like her for beauty of face and wisdom of speech!”"
+    },
+    {
+     "v": 22,
+     "text": "Holofernes told her, “God did well in sending you on before your people, so that strength might come into our hands, and ruin upon those who have slighted my lord."
+    },
+    {
+     "v": 23,
+     "text": "Charming you are to look upon, and fine in what you say. Should you carry out what you have promised, your God will be my God,{f} and in King Nebuchadnezzar’s house you will have a place, and your name will be famous across the earth.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:5",
+     "text": "My lord: Judith’s speech is full of double meanings. “My lord” (Greek kyrios) can refer to Holofernes or to God, and much of what she says (verses 6, 16, 19) is true in a sense Holofernes does not perceive."
+    },
+    {
+     "m": "b",
+     "ref": "11:7",
+     "text": "All his house: the language echoes Jeremiah 27:6, where God gives even the wild animals to serve Nebuchadnezzar."
+    },
+    {
+     "m": "c",
+     "ref": "11:13",
+     "text": "With his hands: first fruits and tithes belonged to the priests (Numbers 18:12–13, 21–32; Deuteronomy 18:4). Eating them was a grave offense for anyone else."
+    },
+    {
+     "m": "d",
+     "ref": "11:19",
+     "text": "Seat: Greek diphros, a seat or chair, here the chair of state or chariot seat of a conqueror."
+    },
+    {
+     "m": "e",
+     "ref": "11:19",
+     "text": "Growl at you: compare Exodus 11:7. “Like sheep without a shepherd” echoes 1 Kings 22:17."
+    },
+    {
+     "m": "f",
+     "ref": "11:23",
+     "text": "Your God shall be my God: an ironic echo of Ruth 1:16."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    5,
+    10,
+    13,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then he ordered her to be brought into the place where his silver dinnerware was kept, and gave instructions that a table be laid for her with some of his own delicacies and that she be served his own wine to drink."
+    },
+    {
+     "v": 2,
+     "text": "But Judith said, “I will not eat any of it, lest it become a cause of offense.{a} I will be supplied from the things I have brought with me.”"
+    },
+    {
+     "v": 3,
+     "text": "Holofernes said to her, “But if what you have with you runs out, where can we get you more of the same? None of your race is here with us.”"
+    },
+    {
+     "v": 4,
+     "text": "Judith replied, “By your life, my lord, before your bondwoman has used up the supplies I carry, the Lord will have accomplished through my hand the thing he has resolved.”"
+    },
+    {
+     "v": 5,
+     "text": "Then Holofernes’ attendants brought her into the tent, and she slept on into the middle of the night. Toward the morning watch{b} she got up"
+    },
+    {
+     "v": 6,
+     "text": "and sent a message to Holofernes: “My lord, kindly command that your bondwoman be let out for prayer.”"
+    },
+    {
+     "v": 7,
+     "text": "Holofernes commanded his bodyguards not to hinder her. She remained in the camp three days. Each night she went out to the ravine of Bethulia and bathed at the spring in the camp.{c}"
+    },
+    {
+     "v": 8,
+     "text": "When she came up from it, she would beg the Lord God of Israel to direct her way for the raising up of her people."
+    },
+    {
+     "v": 9,
+     "text": "Then she would return purified and remain in the tent until she ate her food toward evening."
+    },
+    {
+     "v": 10,
+     "text": "When the fourth day came, Holofernes gave a drinking party for his personal servants alone and summoned none of those on duty."
+    },
+    {
+     "v": 11,
+     "text": "To Bagoas,{d} the eunuch who had charge of everything that was his, he said, “Go now and coax this Hebrew woman staying with you to come and share our food and drink."
+    },
+    {
+     "v": 12,
+     "text": "It would be a disgrace to us if we let such a woman go without enjoying her company. If we do not win her over, she will laugh at us.”"
+    },
+    {
+     "v": 13,
+     "text": "So Bagoas left Holofernes’ presence and went to her. “Let not this fair girl be reluctant,” he said, “to come before my lord, to be honored in his sight, to join us in drinking wine for gladness, and this day to become like one of the daughters of Assyria who wait upon Nebuchadnezzar in his palace.”"
+    },
+    {
+     "v": 14,
+     "text": "Judith answered, “And who am I to say no to my lord? Anything that seems good in his eyes I will hurry to do, and it will be my delight till the day I die.”{e}"
+    },
+    {
+     "v": 15,
+     "text": "So she arose and arrayed herself in her clothing and all her woman’s finery. Her maid went ahead and spread on the ground for her, opposite Holofernes, the fleeces she had received from Bagoas for her daily use, so that she might recline on them to eat."
+    },
+    {
+     "v": 16,
+     "text": "Judith came in and lay down. At the sight of her Holofernes was beside himself; he was shaken to the soul and gripped by a fierce longing to have her, for ever since the day he first set eyes on her he had been watching for a chance to beguile her."
+    },
+    {
+     "v": 17,
+     "text": "“Come, drink!” Holofernes urged her. “Share our merriment!”"
+    },
+    {
+     "v": 18,
+     "text": "Judith answered, “Indeed I will drink, my lord, for today my life means more to me than in all the days since I was born.”"
+    },
+    {
+     "v": 19,
+     "text": "Then she took what her maid had prepared and ate and drank in his presence."
+    },
+    {
+     "v": 20,
+     "text": "Holofernes took such pleasure in her that he poured down wine in vast amounts, more than he had ever drunk in a single day in all his life."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:2",
+     "text": "Offense: Greek skandalon, a stumbling block; that is, a violation of the Jewish dietary laws (compare Daniel 1:8; Tobit 1:10–11)."
+    },
+    {
+     "m": "b",
+     "ref": "12:5",
+     "text": "The morning watch: the last watch of the night, before dawn."
+    },
+    {
+     "m": "c",
+     "ref": "12:7",
+     "text": "At the spring in the camp: she bathes for ritual purity before prayer. Some manuscripts omit “in the camp.”"
+    },
+    {
+     "m": "d",
+     "ref": "12:11",
+     "text": "Bagoas: a Persian name, borne by the powerful eunuch who served Artaxerxes III in the fourth century BC (Diodorus 16.47; reported). Its use here is another of the book’s Persian-period touches."
+    },
+    {
+     "m": "e",
+     "ref": "12:14",
+     "text": "The day of my death: like 11:5, an answer that Holofernes hears as submission, but which the reader hears as loyalty to the Lord."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1,
+    11,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As evening came on, his slaves made haste to withdraw. Bagoas shut the tent from outside, closing off the attendants from his master’s presence, and they went off to their beds; all of them were worn out, because the drinking had gone on so long."
+    },
+    {
+     "v": 2,
+     "text": "Judith was left by herself in the tent, with Holofernes sprawled across his bed, for he was sodden with wine."
+    },
+    {
+     "v": 3,
+     "text": "Judith had told her maid to wait outside her bedchamber and watch for her to come out, as on other days, since she said she would be going out to pray; and she had spoken to Bagoas in the same terms."
+    },
+    {
+     "v": 4,
+     "text": "So everyone went out of his presence, and no one, small or great, was left in the bedchamber. Then Judith, standing by his bed, prayed silently: “Lord, God of all power, look in this hour on what my hands are about to do for the exaltation of Jerusalem."
+    },
+    {
+     "v": 5,
+     "text": "For now is the moment to come to the aid of your heritage and to carry out my design for the shattering of the enemies who have risen up against us.”"
+    },
+    {
+     "v": 6,
+     "text": "Stepping to the post of the bed that stood at Holofernes’ head, she unhooked his short sword{a} that hung there."
+    },
+    {
+     "v": 7,
+     "text": "Drawing close to the bed, she grasped the hair of his head and said, “Lord God of Israel, give me strength this day!”"
+    },
+    {
+     "v": 8,
+     "text": "Then with all her might she struck at his neck twice and cut off his head."
+    },
+    {
+     "v": 9,
+     "text": "She rolled his body off the bedding and pulled the canopy down from the posts. A moment later she went out and handed Holofernes’ head to her maid,"
+    },
+    {
+     "v": 10,
+     "text": "who put it into her food bag. Then the two of them went out together, as was their habit, to pray. They passed through the camp, skirted that ravine, climbed the mountain to Bethulia and came to its gates."
+    },
+    {
+     "v": 11,
+     "text": "From a distance Judith hailed the sentries at the gates: “Open up, open the gate! God is with us, our God, still working might in Israel and power over our foes, as he has today!”"
+    },
+    {
+     "v": 12,
+     "text": "When the men of her town heard her voice, they hurried down to the gate of their town and summoned the elders."
+    },
+    {
+     "v": 13,
+     "text": "Everyone, from the least to the greatest, came running, for it seemed past belief that she had returned. They opened the gate and let the women in, then lit a fire to see by and crowded around them."
+    },
+    {
+     "v": 14,
+     "text": "In a ringing voice she called out to them, “Give praise to God, give praise! Praise the God who has not taken away his kindness from Israel’s house, but by my hand has broken our foes tonight!”"
+    },
+    {
+     "v": 15,
+     "text": "Then she drew the head out of the bag, held it up, and said to them, “Here is the head of Holofernes, commander-in-chief of the Assyrian army, and here is the canopy under which he lay in his drunkenness. The Lord has struck him down by the hand of a woman.{b}"
+    },
+    {
+     "v": 16,
+     "text": "As the Lord lives, who protected me on the way I went, it was my face that seduced him to his destruction; yet he committed no sin with me to defile and shame me.”"
+    },
+    {
+     "v": 17,
+     "text": "Astonishment seized the whole people; they bent low in worship of God and said together, “Blessed be you, our God, who today have made nothing of your people’s enemies!”"
+    },
+    {
+     "v": 18,
+     "text": "Uzziah then said to her, “My daughter, the Most High God has blessed you beyond every woman upon the earth;{c} and blessed be the Lord God, maker of heaven and earth, who directed you to wound the head of the chief of our enemies."
+    },
+    {
+     "v": 19,
+     "text": "Never shall the hope you showed{d} fade from the hearts of people as they remember God’s might, for all ages."
+    },
+    {
+     "v": 20,
+     "text": "God grant that this be an everlasting glory to you, and may he visit you with blessings, since you did not hold back your own life when our people were humbled, but went out to meet our fall, walking a straight road before our God.” And all the people said, “Amen! Amen!”{e}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:6",
+     "text": "Short sword: Greek akinakēs, the Persian short sword or dagger, another Persian-period detail."
+    },
+    {
+     "m": "b",
+     "ref": "13:15",
+     "text": "The hand of a woman: compare Judges 4:9, 21 (Jael and Sisera) and 9:53–54 (Abimelech). The phrase answers Judith’s prayer at 9:10."
+    },
+    {
+     "m": "c",
+     "ref": "13:18",
+     "text": "Above all the women on earth: compare the blessing on Jael in Judges 5:24, and on Mary in Luke 1:42."
+    },
+    {
+     "m": "d",
+     "ref": "13:19",
+     "text": "Your hope: some manuscripts read “your praise.”"
+    },
+    {
+     "m": "e",
+     "ref": "13:20",
+     "text": "Amen! Amen!: Greek genoito, genoito, “so be it, so be it,” the usual Greek rendering of Hebrew amen."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    6,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Judith told them, “Brothers, hear me. Take this head and fasten it up on the battlements of your wall."
+    },
+    {
+     "v": 2,
+     "text": "When dawn lights the sky and the sun comes up over the land, each of you is to take his gear of war, and every strong man is to march out of the town. Put a leader at their head, as though you meant to go down into the plain upon the Assyrian outpost; only do not go down."
+    },
+    {
+     "v": 3,
+     "text": "Then they will seize their arms and hurry to their camp and rouse the officers of the Assyrian army. These will rush to the tent of Holofernes and will not find him. Panic will fall on them, and they will flee before you."
+    },
+    {
+     "v": 4,
+     "text": "Then you, and everyone who dwells anywhere in Israel’s territory, must follow on their heels and strike them down along their roads."
+    },
+    {
+     "v": 5,
+     "text": "But first, before any of this, call Achior the Ammonite to me, that he may look on and know the man who held Israel’s house in contempt and packed him off to us as though to die.”"
+    },
+    {
+     "v": 6,
+     "text": "They therefore sent for Achior from Uzziah’s house. When he arrived and beheld Holofernes’ head in a man’s hand amid the gathered people, he fell forward on his face and his senses left him."
+    },
+    {
+     "v": 7,
+     "text": "Once they had lifted him up, he dropped at Judith’s feet and bowed down before her, saying, “May you be blessed in all Judah’s dwellings, and among all nations! Whoever hears your name will tremble."
+    },
+    {
+     "v": 8,
+     "text": "So now, relate to me everything you have done during these days.” Judith then recounted to him before all the people everything she had done from the day she left until the hour she spoke with them."
+    },
+    {
+     "v": 9,
+     "text": "When she finished speaking, the people raised a great shout, and their town rang with joyful noise."
+    },
+    {
+     "v": 10,
+     "text": "When Achior saw all that the God of Israel had done, he believed in God firmly. He was circumcised, and was joined to the house of Israel, remaining so to this day.{a}"
+    },
+    {
+     "v": 11,
+     "text": "As soon as day broke, they hung the head of Holofernes from the wall. Every man took up his weapons, and they went out by companies to the passes in the mountains."
+    },
+    {
+     "v": 12,
+     "text": "When the Assyrians saw them, they sent word to their commanders, who went to the generals, the captains of thousands and all their other officers."
+    },
+    {
+     "v": 13,
+     "text": "They came to Holofernes’ tent and said to the steward of all his household, “Wake our lord, for the slaves have dared to come down against us to give battle, to their own utter destruction.”"
+    },
+    {
+     "v": 14,
+     "text": "So Bagoas went in and knocked at the entrance of the tent,{b} for he supposed that Holofernes was sleeping with Judith."
+    },
+    {
+     "v": 15,
+     "text": "When no one answered, he opened it and went into the bedchamber and found him sprawled dead on the platform,{c} with his head cut off and gone."
+    },
+    {
+     "v": 16,
+     "text": "He cried out with a loud voice, weeping and groaning and shouting, and tore his clothes."
+    },
+    {
+     "v": 17,
+     "text": "Then he went into the tent where Judith had been lodging; finding her gone, he leaped out among the troops and cried,"
+    },
+    {
+     "v": 18,
+     "text": "“The slaves have broken faith! A single Hebrew woman has put shame on King Nebuchadnezzar’s house. See: Holofernes on the ground, and no head on him!”"
+    },
+    {
+     "v": 19,
+     "text": "On hearing these words the Assyrian army’s chiefs ripped their tunics, their spirits were thrown into turmoil, and a mighty cry and clamor went up in the midst of the camp."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:10",
+     "text": "To this day: Deuteronomy 23:3 forbade Ammonites to enter the assembly of the LORD. Achior’s full acceptance into Israel by circumcision is one of the book’s striking features; later rabbinic discussion debated how such a rule applied (reported). Scholarly review recommended."
+    },
+    {
+     "m": "b",
+     "ref": "14:14",
+     "text": "The entrance of the tent: literally “the curtain of the tent,” perhaps clapping his hands before it, since one could not knock on a curtain."
+    },
+    {
+     "m": "c",
+     "ref": "14:15",
+     "text": "Platform: Greek chelōnis, literally “tortoise,” apparently the low step or footboard of a couch. The sense is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1,
+    8,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When those still in their tents heard it, they were dumbfounded at what had happened."
+    },
+    {
+     "v": 2,
+     "text": "Fear and trembling fell upon them; no man held his place beside his comrade any longer, but streaming out all together they fled along every track across the plain and through the hill country."
+    },
+    {
+     "v": 3,
+     "text": "Those who had camped in the hills around Bethulia were routed as well. Then the Israelites, every fighting man among them, poured out against them."
+    },
+    {
+     "v": 4,
+     "text": "Uzziah sent messengers to Betomasthaim, Bebai, Choba and Kola,{a} and throughout Israel’s territory, to report what had been accomplished and to urge all of them to pour out upon the enemy and destroy them."
+    },
+    {
+     "v": 5,
+     "text": "On hearing this, the Israelites with one accord fell upon them and cut them down as far as Choba. Men came also from Jerusalem and from all the hill country, for word had reached them of what had befallen the enemy’s camp. Those in Gilead and in Galilee outflanked them and inflicted heavy losses, until they had passed Damascus and its borders."
+    },
+    {
+     "v": 6,
+     "text": "The remaining people of Bethulia swept down on the Assyrian camp, plundered it, and became very rich."
+    },
+    {
+     "v": 7,
+     "text": "The Israelites, returning from the slaughter, took possession of what was left; and the villages and farmsteads of the hill country and the plain seized a great deal of booty, for there was an immense quantity of it."
+    },
+    {
+     "v": 8,
+     "text": "Then the high priest Joakim, together with the council of elders of Israel resident in Jerusalem, arrived to view the benefits the Lord had wrought for Israel, to see Judith with their own eyes, and to wish her peace."
+    },
+    {
+     "v": 9,
+     "text": "When they came to her, they all blessed her with one voice and said to her, “You are Jerusalem’s pride, Israel’s great glory, the great boast of our race!"
+    },
+    {
+     "v": 10,
+     "text": "“All this your hand has achieved; you have wrought blessing for Israel, and God has been pleased with them. May the Lord Almighty bless you for ever and ever!” And all the people said, “Amen!”"
+    },
+    {
+     "v": 11,
+     "text": "For thirty days the whole people stripped the camp of spoil. To Judith they presented Holofernes’ tent, every piece of his silver plate, his couches and drinking bowls, and all his gear. She accepted these, packed her mule, yoked her wagons, and piled everything onto them."
+    },
+    {
+     "v": 12,
+     "text": "Every woman in Israel hurried to see her; they called down blessings on her, and a band of them formed a dance for her. In her hands she took leafy wands,{b} and passed them to the women about her;"
+    },
+    {
+     "v": 13,
+     "text": "and she and those with her crowned themselves with olive leaves. Then she went ahead of all the people in the dance, leading all the women, while all the men of Israel followed, under arms and wearing garlands, with songs upon their lips."
+    },
+    {
+     "v": 14,
+     "text": "Judith began this song of thanksgiving before all Israel, and all the people loudly sang this hymn of praise after her.{c}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:4",
+     "text": "Kola: Betomasthaim is probably the Betomesthaim of 4:6. Bebai, Choba (compare 4:4) and Kola are unidentified."
+    },
+    {
+     "m": "b",
+     "ref": "15:12",
+     "text": "Leafy wands: Greek thyrsoi, the leafy staffs carried in processions in honor of Dionysus. Here they are simply festive emblems (compare 2 Maccabees 10:7)."
+    },
+    {
+     "m": "c",
+     "ref": "15:14",
+     "text": "After her: this verse is 16:1 in the Latin-based numbering of the KJV Apocrypha, where chapter 15 has 13 verses and chapter 16 has 26. This translation follows the Greek numbering (14 and 25 verses)."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paras": [
+    1,
+    18,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Judith said:\nLead off for my God with tambourines,\nsing to the Lord with cymbals;\nweave for him a psalm and a song of praise;\nexalt him, and call upon his name."
+    },
+    {
+     "v": 2,
+     "text": "For the Lord is a God who crushes wars;{a}\nhe set his camp in the midst of his people\nand snatched me from the hand of my pursuers."
+    },
+    {
+     "v": 3,
+     "text": "Out of the northern hills Asshur came marching,\ntens of thousands strong in his might;\ntheir host stopped up the torrent beds,\nand their horsemen blanketed the hills."
+    },
+    {
+     "v": 4,
+     "text": "He vowed to set my borders ablaze,\nto slay my young men with the sword,\nto dash my nursing infants to the ground,\nto seize my little ones as plunder\nand make my maidens his spoil."
+    },
+    {
+     "v": 5,
+     "text": "The Lord Almighty has thwarted them\nby a woman’s hand."
+    },
+    {
+     "v": 6,
+     "text": "For their champion did not fall by young men’s blows,\nnor did sons of Titans{b} strike him down,\nnor towering giants attack him;\nbut Judith, Merari’s daughter,\nundid him by the beauty of her face."
+    },
+    {
+     "v": 7,
+     "text": "She stripped off her widow’s robe\nfor the lifting up of Israel’s sufferers.\nWith fragrant oil she smoothed her face,"
+    },
+    {
+     "v": 8,
+     "text": "bound up her hair with a headband,\nand put on a linen gown to lead him astray."
+    },
+    {
+     "v": 9,
+     "text": "Her sandal ravished his eye,\nher beauty took his soul captive,\nand the sword went through his neck!"
+    },
+    {
+     "v": 10,
+     "text": "Persians shuddered at her daring,\nand Medes were dismayed at her boldness.{c}"
+    },
+    {
+     "v": 11,
+     "text": "Then my lowly ones shouted for joy,\nand my weak ones cried aloud, and the enemy cowered;{d}\nthey lifted their voices, and the enemy was routed."
+    },
+    {
+     "v": 12,
+     "text": "Sons of slave girls pierced them through;\nthey wounded them like the children of deserters.\nThey perished before the battle line of my Lord."
+    },
+    {
+     "v": 13,
+     "text": "To my God I will raise a fresh hymn:\nLord, great are you, and full of glory,\nwonderful in strength, unconquerable."
+    },
+    {
+     "v": 14,
+     "text": "Let all your creation serve you,\nfor you spoke, and they came to be.\nYou sent out your spirit, and it built them;\nthere is none who can withstand your voice."
+    },
+    {
+     "v": 15,
+     "text": "For the mountains will be shaken to their foundations, and the waters with them;\nbefore your face the rocks will melt like wax.\nBut to those who fear you\nyou will still show mercy."
+    },
+    {
+     "v": 16,
+     "text": "For every sacrifice as a fragrant aroma is a small thing,\nand all the fat for burnt offerings to you a very little thing;\nbut the one who reveres the Lord stands great for all time."
+    },
+    {
+     "v": 17,
+     "text": "Woe to the nations that rise up against my race!\nOn judgment day the Lord Almighty will repay them,\ngiving their bodies over to fire and worm,\nand they will weep in pain forever.{e}"
+    },
+    {
+     "v": 18,
+     "text": "When they reached Jerusalem, they worshiped God. As soon as the people were purified, they offered their burnt offerings, their freewill offerings and their gifts."
+    },
+    {
+     "v": 19,
+     "text": "Every article of Holofernes that the people had bestowed on her Judith consecrated to God; the canopy too, which she had carried off for herself from his sleeping quarters, she presented to God as a dedicated gift."
+    },
+    {
+     "v": 20,
+     "text": "For three months the people continued feasting in Jerusalem before the sanctuary, and Judith stayed with them."
+    },
+    {
+     "v": 21,
+     "text": "After this they all returned home, each to his own inheritance. Judith went back to Bethulia and lived on her estate, and in her time she was honored throughout the whole country."
+    },
+    {
+     "v": 22,
+     "text": "Many longed to wed her, yet from the day her husband Manasseh died and was joined to his people, she never lay with a man as long as she lived."
+    },
+    {
+     "v": 23,
+     "text": "Her fame went on increasing, and she grew old in the house of her husband until she was a hundred and five. Her maid she released into freedom. At Bethulia she died, and they laid her in the tomb-cave of Manasseh her husband."
+    },
+    {
+     "v": 24,
+     "text": "For seven days Israel’s house lamented her. While still living she had shared out her goods among all the near kin of Manasseh her husband and among her own closest relations."
+    },
+    {
+     "v": 25,
+     "text": "In Judith’s lifetime, and for many days after she died, there was no one to make the Israelites afraid again.{f}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:2",
+     "text": "A God who crushes wars: so Exodus 15:3 in the Greek, “the Lord who shatters wars.” The song draws on the Song of the Sea (Exodus 15) and the Song of Deborah (Judges 5)."
+    },
+    {
+     "m": "b",
+     "ref": "16:6",
+     "text": "Titans: in Greek myth the Titans were the older race of gods; in the Greek Bible the word can render Hebrew Rephaim, the legendary giants (as in 2 Samuel 5:18, 22 in some Greek manuscripts)."
+    },
+    {
+     "m": "c",
+     "ref": "16:10",
+     "text": "Boldness: the mention of Persians and Medes, rather than Assyrians, is one of the book’s anachronisms (see the note at 1:1)."
+    },
+    {
+     "m": "d",
+     "ref": "16:11",
+     "text": "Cowered: the subjects of the verbs in this verse are ambiguous in the Greek; the translation supplies “the enemy” where the sense seems to require it. Scholarly review recommended."
+    },
+    {
+     "m": "e",
+     "ref": "16:17",
+     "text": "Weep in pain forever: compare Isaiah 66:24; Sirach 7:17. This is one of the earliest expressions of eternal punishment for the wicked."
+    },
+    {
+     "m": "f",
+     "ref": "16:25",
+     "text": "Long time after her death: the Vulgate adds that the day of Judith’s victory was celebrated as a festival among the Jews; this is not in the Greek."
+    }
+   ],
+   "heading": "The Song of Judith"
+  }
+ ]
+}
