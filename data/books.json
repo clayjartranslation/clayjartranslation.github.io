@@ -1765,9 +1765,16 @@
    "id": "ephesians",
    "name": "Ephesians",
    "division": "New Testament",
-   "chapterCount": "6",
-   "translated": [],
-   "file": null
+   "chapterCount": 6,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "file": "data/books/ephesians.json"
   },
   {
    "id": "philippians",
