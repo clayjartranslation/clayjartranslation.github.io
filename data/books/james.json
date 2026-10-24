@@ -1,0 +1,734 @@
+{
+ "id": "james",
+ "name": "James",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The letter names its author as James (Greek *Iakōbos*, the Greek form of the Hebrew name Jacob). Early tradition identifies him with James the brother of Jesus, leader of the church in Jerusalem (Gal 1:19; Acts 15:13; 21:18); some scholars hold that it was written later in his name. The chief early witnesses include the papyri P20, P23 and P74 and Codices Sinaiticus, Alexandrinus and Vaticanus. The letter uses no units of measure or coins; its sums are left general.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    5,
+    9,
+    12,
+    16,
+    19,
+    22,
+    26
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "James,{a} a slave of God and of the Lord Jesus Christ, to the twelve tribes living scattered abroad: greetings.{b}"
+    },
+    {
+     "v": 2,
+     "text": "Count it nothing but joy, my brothers,{c} whenever you run into trials of many kinds,"
+    },
+    {
+     "v": 3,
+     "text": "since you know that the testing of your faith produces staying power."
+    },
+    {
+     "v": 4,
+     "text": "Let staying power finish its work, so that you may be mature and whole, lacking in nothing.{d}"
+    },
+    {
+     "v": 5,
+     "text": "If any of you is short of wisdom, let him ask God, who gives to everyone freely and without reproach, and it will be given him."
+    },
+    {
+     "v": 6,
+     "text": "But let him ask in faith, with no doubting, for the doubter is like a wave of the sea, blown and tossed by the wind."
+    },
+    {
+     "v": 7,
+     "text": "Such a person must not suppose that he will get anything from the Lord;"
+    },
+    {
+     "v": 8,
+     "text": "he is a man of two minds, unsteady in all his ways.{e}"
+    },
+    {
+     "v": 9,
+     "text": "Let the brother of low standing take pride in being raised up,"
+    },
+    {
+     "v": 10,
+     "text": "and the rich in being brought low, because like a flower of the grass he will pass away."
+    },
+    {
+     "v": 11,
+     "text": "For the sun comes up with its scorching heat and withers the grass; its flower drops, and the beauty of its look is lost. So too the rich man will fade away in the middle of his pursuits.{f}"
+    },
+    {
+     "v": 12,
+     "text": "Happy the man who holds out under trial, because once he has stood the test he will receive the crown of life, which he promised to those who love him.{g}"
+    },
+    {
+     "v": 13,
+     "text": "Let no one say when tempted, “God is tempting me.” For God cannot be tempted by evil, and he himself tempts no one.{h}"
+    },
+    {
+     "v": 14,
+     "text": "Each person is tempted by being dragged off and lured by his own desire."
+    },
+    {
+     "v": 15,
+     "text": "Then desire, having conceived, gives birth to sin, and sin, once full grown, brings forth death."
+    },
+    {
+     "v": 16,
+     "text": "Do not be misled, my dear brothers."
+    },
+    {
+     "v": 17,
+     "text": "Every good gift and every perfect present is from above, coming down from the Father of lights, in whom there is no variation or shadow cast by turning.{i}"
+    },
+    {
+     "v": 18,
+     "text": "By his own choice he brought us to birth through the word of truth, so that we should be a kind of firstfruits of his creatures."
+    },
+    {
+     "v": 19,
+     "text": "Know this, my dear brothers: everyone should be swift to hear, unhurried to speak, unhurried to grow angry;{j}"
+    },
+    {
+     "v": 20,
+     "text": "for human anger does not accomplish the justice that God requires."
+    },
+    {
+     "v": 21,
+     "text": "Therefore put away all filth and the excess of malice, and with gentleness accept the word planted in you, which is able to save your souls."
+    },
+    {
+     "v": 22,
+     "text": "Be people who do the word, and not only hearers who deceive themselves."
+    },
+    {
+     "v": 23,
+     "text": "For anyone who hears the word and does not do it is like a man who looks at the face he was born with in a mirror;"
+    },
+    {
+     "v": 24,
+     "text": "he takes a look at himself, walks off, and straightaway forgets what sort of man he was."
+    },
+    {
+     "v": 25,
+     "text": "But the one who has looked closely into the perfect law, the law of freedom, and stays with it, proving to be no forgetful hearer but a doer who acts, will be happy in what he does."
+    },
+    {
+     "v": 26,
+     "text": "If anyone thinks he is religious and does not put a bridle on his tongue, but deceives his own heart, his religion is worthless."
+    },
+    {
+     "v": 27,
+     "text": "Religion that is pure and unstained before God the Father is this: to look after orphans and widows in their trouble, and to keep oneself unspotted by the world."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*James*: Greek *Iakōbos*, from the Hebrew *Yaʿaqov* (Jacob), traditionally explained as “he takes the heel” or “he supplants” (Gen 25:26; 27:36)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Slave: Greek *doulos*, “slave,” “servant.” *Living scattered abroad*: literally “in the dispersion” (Greek *diaspora*), the term for Jews living outside the land of Israel, here applied to believers."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Brothers: Greek *adelphoi*, which includes sisters; so throughout the letter."
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "Mature: Greek *teleios*, “complete,” “perfect.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:8",
+     "text": "Of two minds: Greek *dipsychos*, literally “double-souled.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:11",
+     "text": "Scorching heat: or “the scorching wind” (Greek *kausōn*). Compare Isa 40:6–8."
+    },
+    {
+     "m": "g",
+     "ref": "1:12",
+     "text": "Happy: or “blessed.” *He promised*: later manuscripts read “the Lord promised.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:13",
+     "text": "Tempted: the same Greek word as “trial” in verse 12; it means both testing and temptation."
+    },
+    {
+     "m": "i",
+     "ref": "1:17",
+     "text": "Father of lights: that is, the Creator of the heavenly lights. *Shadow cast by turning*: the image is of the shifting shadows of the heavenly bodies."
+    },
+    {
+     "m": "j",
+     "ref": "1:19",
+     "text": "Know this: or “You know this.” Later manuscripts read “So then.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    5,
+    14,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "My brothers, do not hold the faith of our Lord Jesus Christ, the Lord of glory, while showing favoritism.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Suppose a man comes into your assembly wearing gold rings and splendid clothes, and a poor man also comes in, in shabby clothes,{b}"
+    },
+    {
+     "v": 3,
+     "text": "and you pay attention to the one in the splendid clothes and say, “Sit here in this good place,” while to the poor man you say, “You stand there,” or, “Sit down on the floor by my footstool.”"
+    },
+    {
+     "v": 4,
+     "text": "Have you not made distinctions among yourselves and become judges with evil reasoning?"
+    },
+    {
+     "v": 5,
+     "text": "Listen, my dear brothers. Has not God chosen those who are poor in the world’s eyes to be rich in faith and heirs of the kingdom he promised to those who love him?"
+    },
+    {
+     "v": 6,
+     "text": "But you have treated the poor man with contempt. Are the rich not the ones who lord it over you, and the very ones who drag you before the courts?"
+    },
+    {
+     "v": 7,
+     "text": "Is it not they who slander the honorable name that was called over you?{c}"
+    },
+    {
+     "v": 8,
+     "text": "If indeed you carry out the royal law according to the scripture, “You shall love your neighbor as yourself,” you are doing well.{d}"
+    },
+    {
+     "v": 9,
+     "text": "But if you show favoritism, you commit sin, and the law convicts you as transgressors."
+    },
+    {
+     "v": 10,
+     "text": "For whoever keeps the whole law but stumbles on a single point has become guilty of all of it."
+    },
+    {
+     "v": 11,
+     "text": "For the one who said, “Do not commit adultery,” also said, “Do not murder.” If you do not commit adultery but do murder, you have become a transgressor of the law.{e}"
+    },
+    {
+     "v": 12,
+     "text": "Speak and act as people who are going to be judged by the law of freedom."
+    },
+    {
+     "v": 13,
+     "text": "For judgment is merciless to the one who has shown no mercy; mercy triumphs over judgment."
+    },
+    {
+     "v": 14,
+     "text": "What good is it, my brothers, if someone claims to have faith but has no deeds? Can that faith save him?{f}"
+    },
+    {
+     "v": 15,
+     "text": "If a brother or sister is without clothes and short of daily food,"
+    },
+    {
+     "v": 16,
+     "text": "and one of you tells them, “Go in peace; stay warm and be well fed,” yet does not supply what their bodies need, what is the use of that?"
+    },
+    {
+     "v": 17,
+     "text": "So it is with faith: on its own, without deeds, it is a dead thing."
+    },
+    {
+     "v": 18,
+     "text": "But someone will say, “You have faith, and I have deeds.” Show me your faith apart from deeds, and I will show you my faith by my deeds.{g}"
+    },
+    {
+     "v": 19,
+     "text": "You believe that God is one; good for you. Even the demons believe that, and they shudder.{h}"
+    },
+    {
+     "v": 20,
+     "text": "Do you want to be shown, you empty fellow, that faith without deeds is useless?{i}"
+    },
+    {
+     "v": 21,
+     "text": "Was not Abraham our father declared righteous by deeds, when he offered his son Isaac on the altar?{j}"
+    },
+    {
+     "v": 22,
+     "text": "You see that faith was working along with his deeds, and by the deeds faith was brought to completion,"
+    },
+    {
+     "v": 23,
+     "text": "and the scripture was fulfilled which says, “Abraham trusted God, and this was reckoned to him as righteousness”; and he came to be called the friend of God.{k}"
+    },
+    {
+     "v": 24,
+     "text": "You see that a person is declared righteous by deeds and not by faith alone."
+    },
+    {
+     "v": 25,
+     "text": "And in the same way, was not Rahab the prostitute also declared righteous by deeds, when she took in the messengers and sent them off by a different road?{l}"
+    },
+    {
+     "v": 26,
+     "text": "For as the body without the spirit is dead, so faith without deeds is dead."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "The Lord of glory: literally “our Lord Jesus Christ of glory”; or “our glorious Lord Jesus Christ.” The Greek may also be read as a question."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "Assembly: Greek *synagōgē*, “gathering,” “synagogue.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:7",
+     "text": "The honorable name that was called over you: that is, the name of Christ, invoked over believers, perhaps at baptism."
+    },
+    {
+     "m": "d",
+     "ref": "2:8",
+     "text": "Lev 19:18."
+    },
+    {
+     "m": "e",
+     "ref": "2:11",
+     "text": "Exod 20:13–14; Deut 5:17–18."
+    },
+    {
+     "m": "f",
+     "ref": "2:14",
+     "text": "Deeds: Greek *erga*, “works”; so throughout this passage."
+    },
+    {
+     "m": "g",
+     "ref": "2:18",
+     "text": "The extent of the objector’s words is uncertain; the quotation may continue further."
+    },
+    {
+     "m": "h",
+     "ref": "2:19",
+     "text": "God is one: compare Deut 6:4. Some manuscripts read “there is one God.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:20",
+     "text": "Useless: Greek *argē*, “idle,” “unproductive.” Later manuscripts read “dead.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:21",
+     "text": "Gen 22:9–12. *Abraham*: “father of a multitude” (Gen 17:5). *Isaac*: “he laughs.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:23",
+     "text": "Gen 15:6; compare Isa 41:8; 2 Chr 20:7."
+    },
+    {
+     "m": "l",
+     "ref": "2:25",
+     "text": "Josh 2:1–21. *Rahab*: “broad,” “wide.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Do not let many of you become teachers, my brothers; you are aware that those of us who teach will face a stricter judgment."
+    },
+    {
+     "v": 2,
+     "text": "Every one of us trips up in many respects. Whoever never trips up in speech is a mature man, one able to keep the whole body in check as well."
+    },
+    {
+     "v": 3,
+     "text": "When we put bits into horses’ mouths to make them obey us, we steer their whole body too.{a}"
+    },
+    {
+     "v": 4,
+     "text": "Look at ships as well: large as they are, and driven by strong winds, they are steered by a very small rudder wherever the pilot’s impulse wants to go."
+    },
+    {
+     "v": 5,
+     "text": "Just so the tongue is a little member, yet its boasts are grand."
+    },
+    {
+     "v": 6,
+     "text": "And the tongue is a fire. The tongue is placed among our members as a world of wrongdoing; it stains the whole body, sets on fire the wheel of existence, and is itself set on fire by Gehenna.{b}"
+    },
+    {
+     "v": 7,
+     "text": "Every species of wild animal and bird, of reptile and sea creature, is tamed and has been tamed by humankind,"
+    },
+    {
+     "v": 8,
+     "text": "but no human being can tame the tongue. It is a restless evil, full of deadly poison.{c}"
+    },
+    {
+     "v": 9,
+     "text": "With it we bless the Lord and Father, and with it we curse human beings, who are made in the likeness of God.{d}"
+    },
+    {
+     "v": 10,
+     "text": "From the same mouth come blessing and curse. My brothers, it should not be this way."
+    },
+    {
+     "v": 11,
+     "text": "Does a spring gush both fresh and bitter water from the same opening?"
+    },
+    {
+     "v": 12,
+     "text": "Can a fig tree, my brothers, yield olives, or a vine yield figs? Neither can salt water give fresh.{e}"
+    },
+    {
+     "v": 13,
+     "text": "Who among you is wise and understanding? Let him show his deeds by a good way of life, in the gentleness that comes from wisdom."
+    },
+    {
+     "v": 14,
+     "text": "But if you have bitter jealousy and selfish ambition in your hearts, do not boast and lie against the truth."
+    },
+    {
+     "v": 15,
+     "text": "Such wisdom does not descend from above; it belongs to the earth, to the merely natural, to demons.{f}"
+    },
+    {
+     "v": 16,
+     "text": "For where jealousy and selfish ambition are, there you find disorder and every vile practice."
+    },
+    {
+     "v": 17,
+     "text": "The wisdom that comes from above, on the other hand, is pure first and foremost, then peace-loving, considerate, willing to yield, brimming with mercy and with good fruit, free of partiality and of pretense."
+    },
+    {
+     "v": 18,
+     "text": "And the fruit of righteousness is sown in peace by those who make peace."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:3",
+     "text": "When: later manuscripts read “Look.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:6",
+     "text": "World of wrongdoing: the Greek of this verse is difficult and its punctuation uncertain. *Wheel of existence*: or “the course of life,” literally “the wheel of birth.” *Gehenna*: the Valley of Hinnom outside Jerusalem, used as a name for the place of final punishment."
+    },
+    {
+     "m": "c",
+     "ref": "3:8",
+     "text": "Restless: some manuscripts read “uncontrollable.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:9",
+     "text": "Gen 1:26–27."
+    },
+    {
+     "m": "e",
+     "ref": "3:12",
+     "text": "Neither can salt water give fresh: later manuscripts read “So no spring yields both salt water and fresh.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:15",
+     "text": "Merely natural: Greek *psychikē*, “natural,” “belonging to the soul” as opposed to the Spirit."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    7,
+    11,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Where do the fights and quarrels among you come from? Do they not come from your pleasures that wage war in your members?{a}"
+    },
+    {
+     "v": 2,
+     "text": "You crave and go without, so you commit murder. You burn with envy and cannot get what you want, so you battle and wrangle. You go without because you do not ask.{b}"
+    },
+    {
+     "v": 3,
+     "text": "You ask and do not receive, because you ask with wrong motives, to spend it on your pleasures."
+    },
+    {
+     "v": 4,
+     "text": "Adulteresses! Do you not know that friendship with the world is hostility toward God? So whoever chooses to be a friend of the world makes himself God’s enemy.{c}"
+    },
+    {
+     "v": 5,
+     "text": "Or do you think the scripture speaks to no purpose? Does the spirit he made to dwell in us long with envy?{d}"
+    },
+    {
+     "v": 6,
+     "text": "But he gives greater grace. That is why it says,\n“God opposes the proud,\nbut gives grace to the humble.”{e}"
+    },
+    {
+     "v": 7,
+     "text": "So submit yourselves to God. Stand against the devil, and he will flee from you."
+    },
+    {
+     "v": 8,
+     "text": "Come close to God, and he will come close to you. Cleanse your hands, sinners; purify your hearts, you who are double-minded."
+    },
+    {
+     "v": 9,
+     "text": "Be wretched, mourn and weep. Let your laughter be turned into mourning and your joy into gloom."
+    },
+    {
+     "v": 10,
+     "text": "Humble yourselves before the Lord, and he will lift you up."
+    },
+    {
+     "v": 11,
+     "text": "Do not speak against one another, brothers. Whoever speaks against a brother or judges his brother speaks against the law and judges the law. And if you judge the law, you are not a doer of the law but its judge."
+    },
+    {
+     "v": 12,
+     "text": "There is one lawgiver and judge, the one able to save and to destroy. But you, who are you to judge your neighbor?{f}"
+    },
+    {
+     "v": 13,
+     "text": "Come now, you who say, “Today or tomorrow we will go into such and such a city, spend a year there, do business and make money,”"
+    },
+    {
+     "v": 14,
+     "text": "you who do not know what tomorrow will bring. What is your life? You are a mist that shows itself for a little while and then vanishes.{g}"
+    },
+    {
+     "v": 15,
+     "text": "Instead you ought to say, “If the Lord wills, we will live and do this or that.”"
+    },
+    {
+     "v": 16,
+     "text": "But now you take pride in your boastful schemes. All boasting of that kind is wicked."
+    },
+    {
+     "v": 17,
+     "text": "Anyone, then, who knows what is good and does not do it is guilty of sin."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Pleasures: Greek *hēdonai*, “desires for pleasure”; so in verse 3."
+    },
+    {
+     "m": "b",
+     "ref": "4:2",
+     "text": "Commit murder: some propose the reading “you are jealous” (Greek *phthoneite* for *phoneuete*), but no manuscript is reported to have it."
+    },
+    {
+     "m": "c",
+     "ref": "4:4",
+     "text": "Adulteresses: the image is of unfaithfulness to God as unfaithfulness in marriage, as in the prophets. Later manuscripts read “Adulterers and adulteresses.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:5",
+     "text": "The Greek of this verse is difficult, and no Old Testament passage matches it. Other possible renderings: “The spirit that he made to dwell in us yearns jealously,” or “He yearns jealously for the spirit that he made to dwell in us.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:6",
+     "text": "Prov 3:34 in the Greek Old Testament."
+    },
+    {
+     "m": "f",
+     "ref": "4:12",
+     "text": "One lawgiver and judge: later manuscripts lack “and judge.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:14",
+     "text": "What tomorrow will bring: the Greek is variously read and punctuated in the manuscripts. *You are a mist*: later manuscripts read “It is a mist.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    7,
+    12,
+    13,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Come now, you rich, weep and howl over the miseries that are coming upon you."
+    },
+    {
+     "v": 2,
+     "text": "Your wealth has rotted, and your clothes have become moth-eaten."
+    },
+    {
+     "v": 3,
+     "text": "Your gold and silver have corroded, and their corrosion will be evidence against you and will eat your flesh like fire. You have piled up treasure in the last days."
+    },
+    {
+     "v": 4,
+     "text": "Listen! The pay you cheated from the workers who harvested your fields cries out against you, and the shouts of the reapers have come to the ears of the Lord of Armies.{a}"
+    },
+    {
+     "v": 5,
+     "text": "You have lived soft lives on earth and indulged yourselves; you have fattened your hearts for the day of slaughter."
+    },
+    {
+     "v": 6,
+     "text": "You have condemned and murdered the righteous one; he does not resist you.{b}"
+    },
+    {
+     "v": 7,
+     "text": "Be patient, then, brothers, until the coming of the Lord. See how the farmer waits for the precious crop from the ground, being patient over it until it receives the early and the late rains.{c}"
+    },
+    {
+     "v": 8,
+     "text": "You also be patient. Make your hearts firm, for the coming of the Lord is near."
+    },
+    {
+     "v": 9,
+     "text": "Brothers, do not complain about one another, or you may be judged. The judge stands at the door already!"
+    },
+    {
+     "v": 10,
+     "text": "Brothers, for a pattern of patient endurance under hardship, look to the prophets who spoke in the Lord’s name."
+    },
+    {
+     "v": 11,
+     "text": "We call those who held out happy. You have heard of the endurance of Job, and you have seen the outcome the Lord brought about: the Lord is full of compassion and mercy.{d}"
+    },
+    {
+     "v": 12,
+     "text": "Above all, my brothers, do not swear oaths, either by heaven or by the earth or with any other oath. Let your “yes” be yes and your “no” be no, so that you do not fall under judgment.{e}"
+    },
+    {
+     "v": 13,
+     "text": "Is one of you in trouble? Let him pray. Is one in good spirits? Let him sing songs of praise."
+    },
+    {
+     "v": 14,
+     "text": "Is anyone among you sick? He should call for the elders of the church, and they should pray over him, anointing him with oil in the name of the Lord.{f}"
+    },
+    {
+     "v": 15,
+     "text": "And the prayer offered in faith will rescue the sick person, and the Lord will raise him up; and if he has committed sins, he will be forgiven."
+    },
+    {
+     "v": 16,
+     "text": "So confess your sins to one another and pray for one another, so that you may be healed. The prayer of a righteous person has great power as it does its work.{g}"
+    },
+    {
+     "v": 17,
+     "text": "Elijah was a human being with feelings like ours, and he prayed earnestly that it would not rain, and it did not rain on the land for three years and six months.{h}"
+    },
+    {
+     "v": 18,
+     "text": "Then he prayed again, and the sky gave rain and the land produced its crop.{i}"
+    },
+    {
+     "v": 19,
+     "text": "My brothers, if any one of you wanders from the truth and someone turns him back,"
+    },
+    {
+     "v": 20,
+     "text": "let him know that whoever turns a sinner back from the error of his way will save his soul from death and will cover a multitude of sins.{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:4",
+     "text": "Lord of Armies: Greek *kyrios sabaōth*, from the Hebrew *Yahweh tsevaʾot*, “Yahweh of Armies” (traditionally “Lord of hosts”); compare Isa 5:9. The wages were due at the end of each working day (Deut 24:14–15)."
+    },
+    {
+     "m": "b",
+     "ref": "5:6",
+     "text": "He does not resist you: or, as a question, “Does he not resist you?”"
+    },
+    {
+     "m": "c",
+     "ref": "5:7",
+     "text": "The early and the late rains: in the land of Israel, the autumn rains after sowing and the spring rains before harvest (Deut 11:14). Westcott and Hort have only “the early and the late”; later manuscripts add “rain,” and some add “fruit.”"
+    },
+    {
+     "m": "d",
+     "ref": "5:11",
+     "text": "Happy: or “blessed.” *Job*: the meaning of the name is uncertain; it has been explained as “where is the father?” *Full of compassion and mercy*: compare Ps 103:8; Exod 34:6, where the Hebrew has *Yahweh*."
+    },
+    {
+     "m": "e",
+     "ref": "5:12",
+     "text": "Compare Matt 5:34–37. *Under judgment*: later manuscripts read “into hypocrisy.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:14",
+     "text": "Of the Lord: Westcott and Hort bracket these words; Vaticanus is reported to lack “the Lord.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:16",
+     "text": "As it does its work: or “when it is set in motion.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:17",
+     "text": "1 Kgs 17:1; 18:1; compare Luke 4:25. *Elijah*: “my God is Yahweh.”"
+    },
+    {
+     "m": "i",
+     "ref": "5:18",
+     "text": "1 Kgs 18:41–45."
+    },
+    {
+     "m": "j",
+     "ref": "5:20",
+     "text": "Let him know: some manuscripts read “know” (plural). *His soul*: that is, probably the sinner’s soul; Westcott and Hort place “his” in the margin, and some manuscripts lack it. Compare Prov 10:12."
+    }
+   ]
+  }
+ ]
+}
