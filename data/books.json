@@ -1776,9 +1776,17 @@
    "id": "acts",
    "name": "Acts",
    "division": "New Testament",
-   "chapterCount": "28",
-   "translated": [],
-   "file": null
+   "chapterCount": 28,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "file": "data/books/acts.json"
   },
   {
    "id": "romans",

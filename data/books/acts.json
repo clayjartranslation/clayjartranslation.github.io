@@ -1,0 +1,1516 @@
+{
+ "id": "acts",
+ "name": "Acts",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), in the public-domain electronic edition of Maurice A. Robinson, with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The earliest manuscripts of Acts are the papyri P45 (3rd century), which preserves parts of chapters 4–17, P74 (7th century), which preserves much of the book, and a few smaller fragments; where they are cited in the notes, their readings are reported from the standard editions and have not been verified against the manuscripts. Acts survives in two main forms. The text translated here is the shorter one, found in the earliest Alexandrian witnesses (Sinaiticus, Vaticanus, Alexandrinus) and followed by all modern critical editions. The “Western” text, represented above all by Codex Bezae (5th century) and supported in part by Old Latin and Syriac witnesses, is nearly a tenth longer, with many added details, explanations, and expansions; the more significant of these are described in general terms in the notes. Verses found only in later or Western manuscripts (8:37; 15:34; 24:7; 28:29) keep their traditional verse numbers, and their text is given in the notes. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation or phrase, a note says so. Old Testament quotations are translated afresh from the Greek of Acts, with the source given in a note. Money, measures and times of day are given in modern terms in the text, with the original term in a note. The book is anonymous but is addressed to the same Theophilus as the Gospel of Luke (Luke 1:3; Acts 1:1); from the second century it has been attributed to Luke, Paul’s companion, whose presence some readers find in the “we” passages (16:10–17; 20:5–21:18; 27:1–28:16). Most scholars date it about AD 80–90; others date it in the early 60s.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    6,
+    12,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In my former book, Theophilus,{a} I gave an account of all that Jesus began to do and to teach,"
+    },
+    {
+     "v": 2,
+     "text": "until the day on which he was taken up, having by the Holy Spirit laid his commands upon the apostles whom he had chosen."
+    },
+    {
+     "v": 3,
+     "text": "To them also, after his suffering, he presented himself alive by many convincing proofs, appearing to them over a period of forty days and speaking about the kingdom of God."
+    },
+    {
+     "v": 4,
+     "text": "And while he was at table with them,{b} he directed them that they were not to depart from Jerusalem, but to remain there awaiting the Father’s promise, “of which,” he said, “you have heard me speak;"
+    },
+    {
+     "v": 5,
+     "text": "for John baptized with water, but you will be baptized in the Holy Spirit not many days from now.”"
+    },
+    {
+     "v": 6,
+     "text": "So those who had gathered asked him again and again, “Lord, is it now, at this time, that you will give back the kingdom to Israel?”"
+    },
+    {
+     "v": 7,
+     "text": "He told them, “It is not for you to know times or seasons that the Father has fixed by his own authority."
+    },
+    {
+     "v": 8,
+     "text": "But power will be yours when the Holy Spirit comes upon you, and in Jerusalem, in all Judea and Samaria, and as far as the end of the earth, you shall be witnesses for me.”"
+    },
+    {
+     "v": 9,
+     "text": "And having said these things, he was raised up while they watched, and a cloud received him and hid him from their eyes."
+    },
+    {
+     "v": 10,
+     "text": "While they were gazing intently toward heaven as he went, all at once two men in white garments stood beside them,"
+    },
+    {
+     "v": 11,
+     "text": "who said, “Men of Galilee, why do you stand looking up into the sky? This Jesus, who has been taken up from you into heaven, will come in the same way as you saw him going into heaven.”"
+    },
+    {
+     "v": 12,
+     "text": "Then they went back to Jerusalem from the hill called the Mount of Olives, which is near Jerusalem, about half a mile away.{c}"
+    },
+    {
+     "v": 13,
+     "text": "On entering the city they went up to the upstairs room where they were lodging: Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, Simon the Zealot,{d} and Judas son of James."
+    },
+    {
+     "v": 14,
+     "text": "With one mind all these were devoting themselves to prayer, together with the women, and Mary the mother of Jesus, and his brothers."
+    },
+    {
+     "v": 15,
+     "text": "In those days Peter stood up among the brothers and sisters{e} (a crowd of about a hundred and twenty persons was gathered together) and said,"
+    },
+    {
+     "v": 16,
+     "text": "“Brothers, it was necessary that the Scripture be fulfilled, which the Holy Spirit foretold by the mouth of David concerning Judas, who became guide to those who arrested Jesus."
+    },
+    {
+     "v": 17,
+     "text": "For he was counted as one of us and was allotted his share in this ministry.”"
+    },
+    {
+     "v": 18,
+     "text": "(This man, then, got himself a piece of land out of the reward of his crime; and falling headlong,{f} he split open in his midsection, and his inward parts all poured out."
+    },
+    {
+     "v": 19,
+     "text": "And it came to be known by everyone living in Jerusalem, so that the plot was called in their language Akeldama, that is, Field of Blood.){g}"
+    },
+    {
+     "v": 20,
+     "text": "“For it is written in the book of Psalms,\n‘Let his homestead become desolate,\nand let there be no one to dwell in it,’{h}\nand,\n‘Let another take his office.’{i}"
+    },
+    {
+     "v": 21,
+     "text": "So of the men who have accompanied us during all the time that the Lord Jesus went in and out among us,"
+    },
+    {
+     "v": 22,
+     "text": "beginning from the baptism of John until the day when he was taken up from us — one of these must become with us a witness to his resurrection.”"
+    },
+    {
+     "v": 23,
+     "text": "They put forward two: Joseph called Barsabbas,{j} who was surnamed Justus, and Matthias.{k}"
+    },
+    {
+     "v": 24,
+     "text": "And they prayed and said, “You, Lord, who know the hearts of all, show which one of these two you have chosen"
+    },
+    {
+     "v": 25,
+     "text": "to take the place in this ministry and apostleship from which Judas turned aside to go to his own place.”"
+    },
+    {
+     "v": 26,
+     "text": "And they gave lots for them, and the lot fell upon Matthias; and he was reckoned along with the eleven apostles."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Theophilus: “friend of God” or “dear to God”; compare Luke 1:3."
+    },
+    {
+     "m": "b",
+     "ref": "1:4",
+     "text": "At table with them: Greek *synalizomenos*, of uncertain meaning, perhaps “eating salt with them,” or “gathering them together,” or (if from a different verb) “staying with them.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:12",
+     "text": "About half a mile away: literally “a sabbath day’s journey away,” the distance a person was permitted to walk on the sabbath, about 2,000 cubits, roughly 3/5 mile (1 kilometer)."
+    },
+    {
+     "m": "d",
+     "ref": "1:13",
+     "text": "Zealot: Greek *zēlōtēs*, “zealous one,” perhaps a member of the party opposed to Roman rule, or simply one zealous for the Law."
+    },
+    {
+     "m": "e",
+     "ref": "1:15",
+     "text": "Brothers and sisters: Greek *adelphoi*, used of the whole community of believers; in 1:16 Peter addresses the men (*andres adelphoi*)."
+    },
+    {
+     "m": "f",
+     "ref": "1:18",
+     "text": "Falling headlong: Greek *prēnēs genomenos*; some interpret it as “swelling up.” Compare Matt 27:3–10."
+    },
+    {
+     "m": "g",
+     "ref": "1:19",
+     "text": "Akeldama: Aramaic *ḥaqel dema*, “field of blood.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:20",
+     "text": "Ps 69:25 (Greek Ps 68:26)."
+    },
+    {
+     "m": "i",
+     "ref": "1:20",
+     "text": "Ps 109:8 (Greek Ps 108:8)."
+    },
+    {
+     "m": "j",
+     "ref": "1:23",
+     "text": "Barsabbas: Aramaic, probably “son of the sabbath.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:23",
+     "text": "Matthias: a shortened form of Mattathias, “gift of Yahweh.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    5,
+    14,
+    22,
+    37,
+    42
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When the day of Pentecost{a} had fully come, they were all together in one place."
+    },
+    {
+     "v": 2,
+     "text": "And suddenly out of heaven there came a sound like a violent wind rushing along, and it filled the whole house where they sat."
+    },
+    {
+     "v": 3,
+     "text": "And tongues as if of fire appeared to them, being distributed, and one settled upon each of them."
+    },
+    {
+     "v": 4,
+     "text": "They were all filled with the Holy Spirit and began to speak in other tongues,{b} as the Spirit was giving them to utter."
+    },
+    {
+     "v": 5,
+     "text": "Now there were Jews dwelling in Jerusalem, devout men from every nation under heaven."
+    },
+    {
+     "v": 6,
+     "text": "And when this sound arose, the multitude gathered, and confusion seized them, since every one of them heard the speakers in his own dialect."
+    },
+    {
+     "v": 7,
+     "text": "Amazed and astonished, they said, “Look, are not all these who are speaking Galileans?"
+    },
+    {
+     "v": 8,
+     "text": "How then is it that each of us hears them in the very language we were born to?"
+    },
+    {
+     "v": 9,
+     "text": "Parthians and Medes and Elamites, and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia,{c}"
+    },
+    {
+     "v": 10,
+     "text": "Phrygia and Pamphylia, Egypt and the districts of Libya around Cyrene, and visitors from Rome, both Jews and proselytes,{d}"
+    },
+    {
+     "v": 11,
+     "text": "Cretans and Arabs — we hear them telling in our own tongues the mighty works of God.”"
+    },
+    {
+     "v": 12,
+     "text": "All were amazed and perplexed, saying one to another, “What can this mean?”"
+    },
+    {
+     "v": 13,
+     "text": "But others mocked and said, “They have had too much new wine.”"
+    },
+    {
+     "v": 14,
+     "text": "But Peter, standing with the Eleven, raised his voice and declared to them: “Men of Judea and all you who live in Jerusalem, let this be known to you, and give ear to my words."
+    },
+    {
+     "v": 15,
+     "text": "For these men are not drunk, as you suppose, since it is only nine o’clock in the morning.{e}"
+    },
+    {
+     "v": 16,
+     "text": "Rather, here is the thing foretold by Joel the prophet:"
+    },
+    {
+     "v": 17,
+     "text": "‘And it shall be in the last days, says God,\nthat I will pour out some of my Spirit on all flesh;\nand your sons and your daughters shall prophesy,\nand your young men shall see visions,\nand your old men shall dream dreams;"
+    },
+    {
+     "v": 18,
+     "text": "yes, even on my male slaves and on my female slaves\nin those days I will pour out some of my Spirit,\nand they shall prophesy."
+    },
+    {
+     "v": 19,
+     "text": "And I will give wonders in the heaven above\nand signs on the earth beneath,\nblood and fire and a vapor of smoke;"
+    },
+    {
+     "v": 20,
+     "text": "the sun shall be changed into darkness\nand the moon into blood,\nbefore the coming of the great and glorious day of the Lord."
+    },
+    {
+     "v": 21,
+     "text": "And it shall be that everyone who calls upon the name of the Lord shall be saved.’{f}"
+    },
+    {
+     "v": 22,
+     "text": "“Men of Israel, hear these words: Jesus the Nazarene, a man attested to you by God with deeds of power and wonders and signs that God did through him in your midst, as you yourselves know —"
+    },
+    {
+     "v": 23,
+     "text": "this man, given up by the set purpose and foreknowledge of God, you nailed up by the hands of lawless men and killed."
+    },
+    {
+     "v": 24,
+     "text": "God raised him up, having loosed the pangs of death,{g} because it was not possible for him to be held in its grip."
+    },
+    {
+     "v": 25,
+     "text": "For David says concerning him,\n‘I saw the Lord always before me,\nfor he is at my right hand so that I may not be shaken;"
+    },
+    {
+     "v": 26,
+     "text": "therefore my heart was glad and my tongue rejoiced;\nmoreover my flesh also will dwell in hope."
+    },
+    {
+     "v": 27,
+     "text": "For you will not leave my soul behind in Hades,{h}\nnor give over your Holy One to see decay."
+    },
+    {
+     "v": 28,
+     "text": "The ways of life you have shown to me;\nwith joy before your face you will fill me full.’{i}"
+    },
+    {
+     "v": 29,
+     "text": "“Brothers, it is permitted to speak freely to you about the patriarch David: he died and was buried, and his grave is among us even to this day."
+    },
+    {
+     "v": 30,
+     "text": "So, since he was a prophet and knew God had sworn an oath to him that from the fruit of his body{j} one would be set upon his throne,"
+    },
+    {
+     "v": 31,
+     "text": "he looked ahead and spoke of the Messiah’s resurrection, that neither was he left behind in Hades, nor did his flesh see decay."
+    },
+    {
+     "v": 32,
+     "text": "This Jesus God raised up, and of that we are all witnesses."
+    },
+    {
+     "v": 33,
+     "text": "Exalted therefore to{k} the right hand of God, and having received from the Father the promised Holy Spirit, he has poured out this which you both see and hear."
+    },
+    {
+     "v": 34,
+     "text": "For it was not David who went up into heaven; yet he says,\n‘The Lord said to my Lord,\n“Take your seat at my right,"
+    },
+    {
+     "v": 35,
+     "text": "until I make your enemies a footstool for your feet.”’{l}"
+    },
+    {
+     "v": 36,
+     "text": "Let all the house of Israel therefore know for certain that God has made him both Lord and Messiah, this Jesus whom you crucified.”"
+    },
+    {
+     "v": 37,
+     "text": "When they heard this they were stabbed to the heart, and said to Peter and the rest of the apostles, “Brothers, what are we to do?”"
+    },
+    {
+     "v": 38,
+     "text": "Peter said to them, “Repent, and be baptized, each one of you, in the name of Jesus Christ for the forgiveness of your sins; and you will receive the gift of the Holy Spirit."
+    },
+    {
+     "v": 39,
+     "text": "For to you is the promise, and to your children, and to all who are far off, as many as the Lord our God shall call to himself.”"
+    },
+    {
+     "v": 40,
+     "text": "And with many other words he bore witness and kept urging them, saying, “Be saved from this crooked generation.”"
+    },
+    {
+     "v": 41,
+     "text": "So those who welcomed his word were baptized, and that day about three thousand souls were added."
+    },
+    {
+     "v": 42,
+     "text": "And they were steadfast in what the apostles taught and in the fellowship,{m} in the breaking of the bread and in the prayers."
+    },
+    {
+     "v": 43,
+     "text": "Awe came upon every soul, and many wonders and signs were being done through the apostles.{n}"
+    },
+    {
+     "v": 44,
+     "text": "All who believed were together and held everything in common;"
+    },
+    {
+     "v": 45,
+     "text": "they would sell their properties and possessions and distribute the proceeds to all, as anyone had need."
+    },
+    {
+     "v": 46,
+     "text": "Day by day, continuing with one mind in the temple and breaking bread from house to house, they shared their food with glad and simple hearts,"
+    },
+    {
+     "v": 47,
+     "text": "praising God and having favor with all the people. And day by day the Lord was adding to their number{o} those who were being saved."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Pentecost: Greek *pentēkostē*, “fiftieth,” the Feast of Weeks, held fifty days after Passover (Lev 23:15–21)."
+    },
+    {
+     "m": "b",
+     "ref": "2:4",
+     "text": "Tongues: or “languages”; the same Greek word (*glōssa*) is used in 2:3, 4, 11."
+    },
+    {
+     "m": "c",
+     "ref": "2:9",
+     "text": "Asia: the Roman province in western Asia Minor, not the continent."
+    },
+    {
+     "m": "d",
+     "ref": "2:10",
+     "text": "Proselytes: Gentile converts to Judaism."
+    },
+    {
+     "m": "e",
+     "ref": "2:15",
+     "text": "Nine o’clock in the morning: literally “the third hour of the day.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:21",
+     "text": "Joel 2:28–32 (Greek and Hebrew 3:1–5), with “in the last days” (for “afterward”) and “says God” added. In the Hebrew text, “the Lord” in 2:20 and 2:21 is Yahweh."
+    },
+    {
+     "m": "g",
+     "ref": "2:24",
+     "text": "Pangs of death: literally “the birth pains of death”; the phrase may reflect a Hebrew idiom meaning “the cords of death” (Ps 18:4–5)."
+    },
+    {
+     "m": "h",
+     "ref": "2:27",
+     "text": "Hades: Greek *hadēs*, the realm of the dead, rendering Hebrew *Sheol*."
+    },
+    {
+     "m": "i",
+     "ref": "2:28",
+     "text": "Ps 16:8–11 (Greek Ps 15:8–11). In the Hebrew text, “the Lord” in 2:25 is Yahweh."
+    },
+    {
+     "m": "j",
+     "ref": "2:30",
+     "text": "From the fruit of his body: literally “from the fruit of his loins,” that is, one of his descendants; compare Ps 132:11. Many later manuscripts add “according to the flesh, to raise up the Messiah.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:33",
+     "text": "To: or “by.”"
+    },
+    {
+     "m": "l",
+     "ref": "2:35",
+     "text": "Ps 110:1 (Greek Ps 109:1). In the Hebrew, “The Lord said” is “Yahweh said”; “my Lord” is *adoni*, “my master.”"
+    },
+    {
+     "m": "m",
+     "ref": "2:42",
+     "text": "Fellowship: Greek *koinōnia*, “sharing, partnership, communion.”"
+    },
+    {
+     "m": "n",
+     "ref": "2:43",
+     "text": "Through the apostles: many manuscripts add “in Jerusalem, and great fear was upon all.”"
+    },
+    {
+     "m": "o",
+     "ref": "2:47",
+     "text": "To their number: literally “together” (*epi to auto*). Many later manuscripts add “to the church.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    11,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now Peter and John were going up to the temple at the hour of prayer, at three in the afternoon.{a}"
+    },
+    {
+     "v": 2,
+     "text": "And a certain man, lame since birth, was being carried there; every day people would lay him at that temple gate which is called Beautiful, so he could ask alms from those entering the temple."
+    },
+    {
+     "v": 3,
+     "text": "Seeing Peter and John about to go into the temple, he began asking to receive alms."
+    },
+    {
+     "v": 4,
+     "text": "Peter, fixing his eyes upon him together with John, said, “Look at us.”"
+    },
+    {
+     "v": 5,
+     "text": "So he held his gaze on them, looking to receive some gift from them."
+    },
+    {
+     "v": 6,
+     "text": "But Peter said, “Silver and gold are not mine to give, but what is mine I give to you: in the name of Jesus Christ the Nazarene, walk!”"
+    },
+    {
+     "v": 7,
+     "text": "And seizing him by the right hand he raised him up; and immediately the soles of his feet and his ankles grew firm."
+    },
+    {
+     "v": 8,
+     "text": "Leaping up, he stood and began to walk, and he went with them into the temple, walking and leaping and praising God."
+    },
+    {
+     "v": 9,
+     "text": "All the people saw him walking and praising God,"
+    },
+    {
+     "v": 10,
+     "text": "and they recognized him as the one who used to sit begging for alms at the Beautiful Gate of the temple; and they were filled with wonder and amazement at what had happened to him."
+    },
+    {
+     "v": 11,
+     "text": "While he clung to Peter and John, all the people ran together to them in the colonnade{b} called Solomon’s, utterly astonished."
+    },
+    {
+     "v": 12,
+     "text": "Seeing this, Peter addressed the people: “Men of Israel, why do you marvel at this, or why stare at us, as though by our own power or godliness we had made him walk?"
+    },
+    {
+     "v": 13,
+     "text": "The God of Abraham and of Isaac and of Jacob, the God of our fathers, has glorified his servant{c} Jesus, whom you handed over and disowned in the presence of Pilate, when he had decided to release him."
+    },
+    {
+     "v": 14,
+     "text": "But you disowned the Holy and Righteous One and asked for a murderer to be granted to you,"
+    },
+    {
+     "v": 15,
+     "text": "and the Author{d} of life you put to death — whom God has raised out from among the dead, of which we are witnesses."
+    },
+    {
+     "v": 16,
+     "text": "And by faith in his name, his name has made strong this man whom you see and know; and the faith that comes through Jesus has given him this perfect health in the presence of you all."
+    },
+    {
+     "v": 17,
+     "text": "“And now, brothers, I am aware that it was out of ignorance that you did it, just as your rulers did."
+    },
+    {
+     "v": 18,
+     "text": "But what God foretold by the mouth of all the prophets, that his Messiah would suffer, he has thus fulfilled."
+    },
+    {
+     "v": 19,
+     "text": "Repent therefore, and turn back, so that your sins may be wiped away, that times of refreshing may come from the presence of the Lord,{e}"
+    },
+    {
+     "v": 20,
+     "text": "and that he may send the Messiah appointed for you, Jesus,"
+    },
+    {
+     "v": 21,
+     "text": "whom heaven must receive until the times of the restoration of all things, of which God spoke by the mouth of his holy prophets from of old."
+    },
+    {
+     "v": 22,
+     "text": "For Moses said, ‘A prophet like me the Lord your God will raise up for you out of your brothers; you are to hear him in everything he may speak to you."
+    },
+    {
+     "v": 23,
+     "text": "And it shall be that every soul that does not listen to that prophet shall be utterly destroyed from among the people.’{f}"
+    },
+    {
+     "v": 24,
+     "text": "And all the prophets too, from Samuel and those who came after him, as many as have spoken, also announced these days."
+    },
+    {
+     "v": 25,
+     "text": "You are heirs of the prophets and of the covenant God made with your fathers, when he said to Abraham, ‘In your offspring{g} all the families of the earth shall be blessed.’{h}"
+    },
+    {
+     "v": 26,
+     "text": "God, having raised up his servant, sent him to you first, to bless you by turning every one of you from your wicked ways.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "At three in the afternoon: literally “the ninth hour,” the time of the afternoon sacrifice and prayer."
+    },
+    {
+     "m": "b",
+     "ref": "3:11",
+     "text": "Colonnade: Greek *stoa*, a roofed portico along the eastern side of the temple court."
+    },
+    {
+     "m": "c",
+     "ref": "3:13",
+     "text": "Servant: Greek *pais*, “servant” or “child”; compare Isa 52:13 (Greek), “my servant shall be glorified.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:15",
+     "text": "Author: Greek *archēgos*, “founder, originator, leader, pioneer.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:19",
+     "text": "From the presence of the Lord: some editions begin verse 20 with “that times of refreshing may come,” following a different verse division."
+    },
+    {
+     "m": "f",
+     "ref": "3:23",
+     "text": "Deut 18:15–19, with Lev 23:29. In the Hebrew text, “the Lord” in 3:22 is Yahweh."
+    },
+    {
+     "m": "g",
+     "ref": "3:25",
+     "text": "Offspring: literally “seed.”"
+    },
+    {
+     "m": "h",
+     "ref": "3:25",
+     "text": "Gen 22:18; 26:4."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5,
+    13,
+    23,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As they were speaking to the people, the priests{a} and the captain of the temple and the Sadducees came upon them,"
+    },
+    {
+     "v": 2,
+     "text": "annoyed because they were instructing the people and proclaiming, in the case of Jesus, the resurrection from among the dead."
+    },
+    {
+     "v": 3,
+     "text": "They laid hands on them and put them in custody until the next day, since evening had already come."
+    },
+    {
+     "v": 4,
+     "text": "But many who heard the word came to believe, and the men among them numbered about five thousand."
+    },
+    {
+     "v": 5,
+     "text": "On the following day it happened that their rulers and elders and scribes were gathered together in Jerusalem,"
+    },
+    {
+     "v": 6,
+     "text": "with Annas the high priest, and Caiaphas, John,{b} Alexander, and all who belonged to the high-priestly family."
+    },
+    {
+     "v": 7,
+     "text": "Having made the two stand in their midst, they began to inquire: “By what sort of power, or in what sort of name, have such men as you done this?”"
+    },
+    {
+     "v": 8,
+     "text": "Then Peter, filled with the Holy Spirit, said to them, “Rulers of the people and elders,"
+    },
+    {
+     "v": 9,
+     "text": "since today we are on trial concerning a good deed to a man who was ill — by what means he has been restored —"
+    },
+    {
+     "v": 10,
+     "text": "be it known to all of you and to all the people of Israel that it is in the name of Jesus Christ the Nazarene, whom you crucified, whom God raised from the dead — by him{c} this man stands here before you in good health."
+    },
+    {
+     "v": 11,
+     "text": "He is\n‘the stone that was treated with contempt by you, the builders,\nwhich has become the head of the corner.’{d}"
+    },
+    {
+     "v": 12,
+     "text": "And salvation is in no one else; for under heaven there is no other name given among human beings by which we must be saved.”"
+    },
+    {
+     "v": 13,
+     "text": "When they observed how boldly Peter and John spoke, and grasped that they were uneducated men without special training,{e} they were amazed; and they took note that these had been with Jesus."
+    },
+    {
+     "v": 14,
+     "text": "And seeing the man who had been healed standing there with them, they had nothing to say against it."
+    },
+    {
+     "v": 15,
+     "text": "So, ordering them to go out of the council,{f} they conferred among themselves,"
+    },
+    {
+     "v": 16,
+     "text": "saying, “What are we to do about these men? For it is evident to all the inhabitants of Jerusalem that a remarkable sign has come about by their means, and denying it is beyond us."
+    },
+    {
+     "v": 17,
+     "text": "Still, to keep this from spreading further among the people, let us threaten them so they no longer speak in this name to any person at all.”"
+    },
+    {
+     "v": 18,
+     "text": "So they called them and commanded them not to utter a sound or teach at all in the name of Jesus."
+    },
+    {
+     "v": 19,
+     "text": "But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, you must judge;"
+    },
+    {
+     "v": 20,
+     "text": "for as for us, we cannot help speaking of what we have seen and heard.”"
+    },
+    {
+     "v": 21,
+     "text": "After threatening them further they let them go, finding no way to punish them because of the people, for all were glorifying God for what had taken place."
+    },
+    {
+     "v": 22,
+     "text": "For he was a man of over forty years, the one on whom this healing sign had come about."
+    },
+    {
+     "v": 23,
+     "text": "Once set free, they came to their companions and told them everything the chief priests and elders had said."
+    },
+    {
+     "v": 24,
+     "text": "Hearing it, they lifted their voices to God with one mind and said, “Sovereign Lord, you who made the heaven and the earth and the sea and everything in them,"
+    },
+    {
+     "v": 25,
+     "text": "who through the Holy Spirit, by the mouth of our father David your servant, said:{g}\n‘Why did the nations rage,\nand the peoples plot vain things?"
+    },
+    {
+     "v": 26,
+     "text": "The kings of the earth took their stand,\nand the rulers were gathered together,\nagainst the Lord and against his Anointed.’{h}"
+    },
+    {
+     "v": 27,
+     "text": "For truly in this city there were gathered together against your holy servant Jesus, whom you anointed, both Herod and Pontius Pilate, with the nations and the peoples of Israel,"
+    },
+    {
+     "v": 28,
+     "text": "to do whatever your hand and your purpose had decided beforehand should happen."
+    },
+    {
+     "v": 29,
+     "text": "And now, Lord, look upon their threats, and grant your slaves to speak your word with all boldness,"
+    },
+    {
+     "v": 30,
+     "text": "as you reach out your hand for healing, and as signs and wonders come about by the name of your holy servant Jesus.”"
+    },
+    {
+     "v": 31,
+     "text": "And when they had prayed, the place where they were gathered was shaken, and they were all filled with the Holy Spirit and went on speaking the word of God with boldness."
+    },
+    {
+     "v": 32,
+     "text": "Now the whole company of those who had believed were of one heart and soul, and not one of them said that any of his possessions was his own, but they had everything in common."
+    },
+    {
+     "v": 33,
+     "text": "With great power the apostles kept giving their testimony to the resurrection of the Lord Jesus, and great grace was upon them all."
+    },
+    {
+     "v": 34,
+     "text": "For there was not a needy person among them, since as many as were owners of lands or houses would sell them and bring the proceeds of what was sold"
+    },
+    {
+     "v": 35,
+     "text": "and they would put it down at the feet of the apostles; and distribution was made to each according to his need."
+    },
+    {
+     "v": 36,
+     "text": "Thus Joseph, who was called by the apostles Barnabas{i} (which translated means “son of encouragement”), a Levite, a native of Cyprus,"
+    },
+    {
+     "v": 37,
+     "text": "he had a field, and selling it he brought the proceeds and set them down at the feet of the apostles."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Priests: so the Westcott–Hort text, with Sinaiticus and most manuscripts; Vaticanus and Alexandrinus read “chief priests.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:6",
+     "text": "John: Codex Bezae and some other witnesses read “Jonathan,” the name of a son of Annas who was high priest in AD 36–37."
+    },
+    {
+     "m": "c",
+     "ref": "4:10",
+     "text": "By him: or “in this name.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:11",
+     "text": "Ps 118:22 (Greek Ps 117:22)."
+    },
+    {
+     "m": "e",
+     "ref": "4:13",
+     "text": "Without special training: Greek *idiōtai*, “laymen, ordinary people,” here those without formal training in the Law."
+    },
+    {
+     "m": "f",
+     "ref": "4:15",
+     "text": "Council: Greek *synedrion*, the Sanhedrin, the Jewish high council in Jerusalem."
+    },
+    {
+     "m": "g",
+     "ref": "4:25",
+     "text": "The Greek of this verse is unusually difficult and may have suffered early corruption; it reads literally, “who of our father through the Holy Spirit mouth of David your servant saying.” Many later manuscripts read more simply, “who by the mouth of your servant David said.”"
+    },
+    {
+     "m": "h",
+     "ref": "4:26",
+     "text": "Ps 2:1–2. In the Hebrew text, “the Lord” is Yahweh; “his Anointed” is “his messiah.”"
+    },
+    {
+     "m": "i",
+     "ref": "4:36",
+     "text": "Barnabas: the explanation given, “son of encouragement” (or “of exhortation”), is not an exact etymology; the name may derive from Aramaic *bar nebuʾah*, “son of prophecy,” or from a name meaning “son of Nebo.” The meaning is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    7,
+    12,
+    17,
+    27,
+    33
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now a man by the name of Ananias,{a} together with Sapphira{b} his wife, sold some land,"
+    },
+    {
+     "v": 2,
+     "text": "and holding back for himself some of the price, with his wife also aware of it, he brought a part only and set it down at the feet of the apostles."
+    },
+    {
+     "v": 3,
+     "text": "But Peter said, “Ananias, how is it that Satan has filled your heart so that you lied to the Holy Spirit and held back for yourself some of the price of the field?"
+    },
+    {
+     "v": 4,
+     "text": "As long as it was kept, was it not still yours to keep? And once sold, did not the money lie within your own power? How did you come to plan such a thing in your heart? It is not to people that you have lied, but to God.”"
+    },
+    {
+     "v": 5,
+     "text": "And on hearing these words Ananias fell and expired; and a great fear seized everyone who heard."
+    },
+    {
+     "v": 6,
+     "text": "The young men rose and wrapped him up, and carried him out and buried him."
+    },
+    {
+     "v": 7,
+     "text": "Some three hours passed, and then his wife entered, unaware of what had taken place."
+    },
+    {
+     "v": 8,
+     "text": "Peter said to her, “Tell me whether you sold the land for so much.” And she said, “Yes, for so much.”"
+    },
+    {
+     "v": 9,
+     "text": "Peter said to her, “Why did the two of you agree to try the Spirit of the Lord? Listen — at the door are the feet of the men who buried your husband, and they will carry you out too.”"
+    },
+    {
+     "v": 10,
+     "text": "And at once she dropped at his feet and expired. The young men came in, found her lying dead, and carried her out and buried her next to her husband."
+    },
+    {
+     "v": 11,
+     "text": "And great fear came upon the whole church{c} and upon all who heard of these things."
+    },
+    {
+     "v": 12,
+     "text": "Through the hands of the apostles many signs and wonders were taking place among the people; and they were all together with one mind in Solomon’s Colonnade."
+    },
+    {
+     "v": 13,
+     "text": "None of the rest dared to join them, though the people held them in high esteem."
+    },
+    {
+     "v": 14,
+     "text": "Yet more and more those who believed in the Lord were added, multitudes of both men and women,"
+    },
+    {
+     "v": 15,
+     "text": "The result was that people would bring the sick out even into the broad streets and put them on cots and pallets, so that as Peter passed, his shadow at any rate might overshadow one of them.{d}"
+    },
+    {
+     "v": 16,
+     "text": "And a multitude also came together from the cities surrounding Jerusalem, carrying those who were ill and those tormented by unclean spirits, and every one of them was cured."
+    },
+    {
+     "v": 17,
+     "text": "Then the high priest stood up, with all his associates — the sect of the Sadducees, as it then was — and they were filled with jealousy,"
+    },
+    {
+     "v": 18,
+     "text": "they laid hands on the apostles and put them in the public prison."
+    },
+    {
+     "v": 19,
+     "text": "But during the night an angel of the Lord opened the doors of the prison, brought them out, and said,"
+    },
+    {
+     "v": 20,
+     "text": "“Go, take your stand in the temple, and tell the people every word of this Life.”"
+    },
+    {
+     "v": 21,
+     "text": "When they heard this, they went into the temple near dawn and taught. Meanwhile the high priest arrived with his associates, and they convened the council and the whole body of the elders of the sons of Israel, and sent to the prison to have the apostles brought in."
+    },
+    {
+     "v": 22,
+     "text": "But when the officers came, they did not find them in the prison, and they returned and reported,"
+    },
+    {
+     "v": 23,
+     "text": "“We found the jail locked up with all security and the guards standing at the doors, but when we opened them we found no one inside.”"
+    },
+    {
+     "v": 24,
+     "text": "Now when the captain of the temple and the chief priests heard these words, they were perplexed about them, wondering what would come of this."
+    },
+    {
+     "v": 25,
+     "text": "Then someone arrived and reported to them, “Look! The men you put in the prison are standing in the temple and teaching the people.”"
+    },
+    {
+     "v": 26,
+     "text": "Then the captain went with the officers and fetched them, though without violence, because they feared the people might stone them."
+    },
+    {
+     "v": 27,
+     "text": "When they had brought them, they set them before the council. And the high priest questioned them,"
+    },
+    {
+     "v": 28,
+     "text": "saying, “We gave you strict orders not to teach in this name, and look, you have filled Jerusalem with your teaching and you intend to bring this man’s blood upon us.”"
+    },
+    {
+     "v": 29,
+     "text": "But Peter and the apostles answered, “We must obey God rather than human beings."
+    },
+    {
+     "v": 30,
+     "text": "The God of our fathers raised up Jesus, whom you killed by hanging him on a tree.{e}"
+    },
+    {
+     "v": 31,
+     "text": "Him God has lifted up to his right hand as Leader and Savior, to grant Israel repentance and the forgiveness of sins."
+    },
+    {
+     "v": 32,
+     "text": "And we are witnesses of these things,{f} and so is the Holy Spirit, whom God has given to those who obey him.”"
+    },
+    {
+     "v": 33,
+     "text": "On hearing this they were enraged{g} and were determined to do away with them."
+    },
+    {
+     "v": 34,
+     "text": "But a member of the council stood up, a Pharisee named Gamaliel,{h} a teacher of the Law honored by the whole people, and gave orders that the men be taken outside for a short time."
+    },
+    {
+     "v": 35,
+     "text": "Then he spoke to the council: “Men of Israel, consider well what you intend to do to these men."
+    },
+    {
+     "v": 36,
+     "text": "For before these days Theudas appeared, saying that he was someone important, and around four hundred men attached themselves to him. He was slain, and all his followers were broken up and reduced to nothing."
+    },
+    {
+     "v": 37,
+     "text": "After this man Judas the Galilean appeared at the time of the census{i} and led a following away after him; he likewise perished, and his followers were all scattered abroad."
+    },
+    {
+     "v": 38,
+     "text": "So now I say to you, stand back from these men and leave them be; for if this counsel or this work comes from human beings, it will be brought to ruin;"
+    },
+    {
+     "v": 39,
+     "text": "but if it is from God, you will not be able to overthrow them. You might even be found fighting against God!” So they were persuaded by him,"
+    },
+    {
+     "v": 40,
+     "text": "and when they had called in the apostles, they beat them{j} and ordered them not to speak in the name of Jesus, and let them go."
+    },
+    {
+     "v": 41,
+     "text": "They went out from the presence of the council rejoicing that they had been counted worthy to suffer dishonor for the sake of the Name."
+    },
+    {
+     "v": 42,
+     "text": "And every day, in the temple and from house to house, they did not cease teaching and proclaiming the good news that the Messiah is Jesus."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Ananias: Hebrew *Ḥananyah*, “Yahweh has been gracious.”"
+    },
+    {
+     "m": "b",
+     "ref": "5:1",
+     "text": "Sapphira: probably Aramaic, “beautiful,” or from the word for “sapphire.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:11",
+     "text": "Church: Greek *ekklēsia*, “assembly, congregation”; this is the first use of the word in Acts."
+    },
+    {
+     "m": "d",
+     "ref": "5:15",
+     "text": "Some of them: Codex Bezae and some other witnesses add, “for they were set free from every sickness that each of them had.”"
+    },
+    {
+     "m": "e",
+     "ref": "5:30",
+     "text": "Tree: or “cross”; literally “wood.” Compare Deut 21:22–23."
+    },
+    {
+     "m": "f",
+     "ref": "5:32",
+     "text": "Of these things: literally “of these words.” Some manuscripts add “his witnesses” or “in him.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:33",
+     "text": "Furious: literally “sawn through,” that is, cut to the quick."
+    },
+    {
+     "m": "h",
+     "ref": "5:34",
+     "text": "Gamaliel: Hebrew, “God is my reward”; the grandson (or son) of Hillel and teacher of Paul (22:3)."
+    },
+    {
+     "m": "i",
+     "ref": "5:37",
+     "text": "Census: the registration under Quirinius in AD 6 (compare Luke 2:2), which provoked Judas’s revolt."
+    },
+    {
+     "m": "j",
+     "ref": "5:40",
+     "text": "Beat them: that is, had them flogged, probably with the thirty-nine lashes (Deut 25:3; 2 Cor 11:24)."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In those days, as the disciples were growing in number, a complaint arose from the Hellenists{a} against the Hebrews, because their widows were being passed over in the daily distribution.{b}"
+    },
+    {
+     "v": 2,
+     "text": "So the Twelve called the whole body of the disciples together and said, “It would not be fitting for us to leave the word of God behind in order to wait on tables."
+    },
+    {
+     "v": 3,
+     "text": "Instead, brothers, pick out from among you seven men of good report, full of the Spirit and of wisdom, whom we will put in charge of this need."
+    },
+    {
+     "v": 4,
+     "text": "As for us, we will hold fast to prayer and to the ministry of the word.”"
+    },
+    {
+     "v": 5,
+     "text": "What they said pleased the entire gathering, and they chose Stephen,{c} a man full of faith and of the Holy Spirit, along with Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a proselyte from Antioch."
+    },
+    {
+     "v": 6,
+     "text": "These men they set in front of the apostles, and after praying, the apostles placed their hands on them."
+    },
+    {
+     "v": 7,
+     "text": "And the word of God kept spreading, and in Jerusalem the number of the disciples multiplied greatly, and a large company of the priests became obedient to the faith."
+    },
+    {
+     "v": 8,
+     "text": "And Stephen, a man full of grace{d} and power, did great signs and wonders among the people."
+    },
+    {
+     "v": 9,
+     "text": "But some men stood up from the synagogue called that of the Freedmen{e} (made up of Cyrenians and Alexandrians, and of people from Cilicia and Asia) and began to dispute with Stephen;"
+    },
+    {
+     "v": 10,
+     "text": "and they had not the strength to stand up against the wisdom and the Spirit with which he was speaking."
+    },
+    {
+     "v": 11,
+     "text": "Then they secretly put forward men who said, “We have heard this man utter blasphemous words against Moses and against God.”"
+    },
+    {
+     "v": 12,
+     "text": "So they stirred up the people and the elders and the scribes, and coming upon him they seized him and led him to the council."
+    },
+    {
+     "v": 13,
+     "text": "They set up false witnesses, who said, “This man never stops speaking words against this holy place and the Law;"
+    },
+    {
+     "v": 14,
+     "text": "for we have heard him say that this Jesus the Nazarene will tear down this place and alter the customs that Moses handed down to us.”"
+    },
+    {
+     "v": 15,
+     "text": "And everyone seated in the council stared at him, and they saw his face, as it were an angel’s face."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "Hellenists: Greek-speaking Jews, probably from outside the land of Israel; “the Hebrews” were those whose language was Aramaic (or Hebrew)."
+    },
+    {
+     "m": "b",
+     "ref": "6:1",
+     "text": "Distribution: literally “service” (*diakonia*), here the daily provision of food."
+    },
+    {
+     "m": "c",
+     "ref": "6:5",
+     "text": "Stephen: Greek *Stephanos*, “crown, wreath.”"
+    },
+    {
+     "m": "d",
+     "ref": "6:8",
+     "text": "Grace: many later manuscripts read “faith.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:9",
+     "text": "Freedmen: Greek *Libertinoi*, from Latin *libertini*, Jews who had been slaves (or whose ancestors had been) and were set free. The Greek may describe one synagogue or several."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    9,
+    17,
+    30,
+    44,
+    51,
+    54
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "And the high priest said, “Are these things so?”"
+    },
+    {
+     "v": 2,
+     "text": "Stephen replied: “Brothers and fathers, listen. The God of glory appeared to our father Abraham while he was in Mesopotamia, before he settled in Haran,{a}"
+    },
+    {
+     "v": 3,
+     "text": "and told him, ‘Leave your country and your relatives, and come to the land that I will show you.’{b}"
+    },
+    {
+     "v": 4,
+     "text": "So he left the country of the Chaldeans and lived in Haran; and from there, once his father had died, God moved him to this land where you are living today."
+    },
+    {
+     "v": 5,
+     "text": "Yet he gave him no inheritance in it, not even room to set his foot, though he promised to give it to him as a possession, and to his descendants after him, at a time when he had no child."
+    },
+    {
+     "v": 6,
+     "text": "This is what God said: that his offspring would live as sojourners in a foreign country, and its people would make slaves of them and treat them harshly for four hundred years."
+    },
+    {
+     "v": 7,
+     "text": "‘But I will judge the nation whom they serve,’ said God, ‘and afterward they will go out and serve me in this place.’{c}"
+    },
+    {
+     "v": 8,
+     "text": "And he gave him the covenant of circumcision. So Abraham became the father of Isaac, and circumcised him on the eighth day; and Isaac became the father of Jacob, and Jacob of the twelve patriarchs."
+    },
+    {
+     "v": 9,
+     "text": "“The patriarchs, envious of Joseph, sold him into Egypt; but God was with him,"
+    },
+    {
+     "v": 10,
+     "text": "and rescued him out of all his afflictions, and gave him favor and wisdom before Pharaoh king of Egypt, who appointed him governor over Egypt and over his whole household."
+    },
+    {
+     "v": 11,
+     "text": "Then a famine came over all of Egypt and Canaan, with great affliction, and our fathers could find no food."
+    },
+    {
+     "v": 12,
+     "text": "But when Jacob heard there was grain in Egypt, he sent our fathers out on their first visit."
+    },
+    {
+     "v": 13,
+     "text": "And at the second time Joseph was recognized by his brothers, and Pharaoh learned of Joseph’s family."
+    },
+    {
+     "v": 14,
+     "text": "Then Joseph sent and summoned Jacob his father and all his kindred, seventy-five persons{d} in all;"
+    },
+    {
+     "v": 15,
+     "text": "and Jacob went down [into Egypt]. There he died, he and our fathers,"
+    },
+    {
+     "v": 16,
+     "text": "And they were brought over to Shechem and placed in the grave which Abraham had purchased with silver money from the sons of Hamor in Shechem.{e}"
+    },
+    {
+     "v": 17,
+     "text": "“But as the time drew near for the promise that God had granted to Abraham, the people grew and multiplied in Egypt,"
+    },
+    {
+     "v": 18,
+     "text": "until there arose over Egypt another king, one who did not know Joseph."
+    },
+    {
+     "v": 19,
+     "text": "He dealt craftily with our race and mistreated our fathers, forcing them to abandon their infants so that they would not survive."
+    },
+    {
+     "v": 20,
+     "text": "At this time Moses was born, and he was beautiful in God’s sight.{f} For three months he was brought up in his father’s house;"
+    },
+    {
+     "v": 21,
+     "text": "and when he was put out, Pharaoh’s daughter adopted him and raised him as her own son."
+    },
+    {
+     "v": 22,
+     "text": "And Moses was trained in all the wisdom of the Egyptians, and was mighty in his words and deeds."
+    },
+    {
+     "v": 23,
+     "text": "“When he was turning forty years old, it came into his heart to visit his brothers, the sons of Israel."
+    },
+    {
+     "v": 24,
+     "text": "And seeing one of them being wronged, he came to his defense and avenged the oppressed man by striking down the Egyptian."
+    },
+    {
+     "v": 25,
+     "text": "He thought his brothers would see that through his hand God was giving them rescue; but they did not see it."
+    },
+    {
+     "v": 26,
+     "text": "The following day he came upon two of them in a fight, and he sought to make peace between them: ‘Men, brothers you are! Why are you harming each other?’"
+    },
+    {
+     "v": 27,
+     "text": "But the one who was wronging his neighbor pushed him aside, saying, ‘Who appointed you ruler and judge over us?"
+    },
+    {
+     "v": 28,
+     "text": "Do you want to do away with me as you did away with the Egyptian yesterday?’{g}"
+    },
+    {
+     "v": 29,
+     "text": "At this word Moses fled and became a resident alien in the land of Midian, where he became the father of two sons."
+    },
+    {
+     "v": 30,
+     "text": "“And after forty years were completed, in the wilderness of Mount Sinai an angel appeared to him in a flaming fire in a thornbush."
+    },
+    {
+     "v": 31,
+     "text": "When Moses saw it, he marveled at the sight; and as he drew near to look, the voice of the Lord came:"
+    },
+    {
+     "v": 32,
+     "text": "‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ And Moses, all trembling, did not venture to look closer."
+    },
+    {
+     "v": 33,
+     "text": "And the Lord said to him, ‘Untie your sandals from your feet, because holy ground is the place on which you stand."
+    },
+    {
+     "v": 34,
+     "text": "I have seen, I have seen the suffering of my people who are in Egypt, I have heard their groans, and I have come down to deliver them. And now come — I will send you to Egypt.’{h}"
+    },
+    {
+     "v": 35,
+     "text": "“This Moses, whom they rejected, saying, ‘Who appointed you ruler and judge?’ — this one God sent as both ruler and redeemer, with the help of the angel who appeared to him in the bush."
+    },
+    {
+     "v": 36,
+     "text": "He it was who led them out, performing wonders and signs in Egypt and at the Red Sea{i} and in the desert for forty years."
+    },
+    {
+     "v": 37,
+     "text": "This is that Moses who told the sons of Israel, ‘A prophet like me God will raise up for you out of your brothers.’{j}"
+    },
+    {
+     "v": 38,
+     "text": "This is the one who was in the assembly{k} in the desert with the angel who spoke to him on Mount Sinai, and with our fathers; he received living oracles to give to you.{l}"
+    },
+    {
+     "v": 39,
+     "text": "To him our fathers refused to be obedient; they pushed him away, and their hearts turned back toward Egypt,"
+    },
+    {
+     "v": 40,
+     "text": "saying to Aaron, ‘Make us gods who will go before us; for as for this Moses who led us out from the land of Egypt, we do not know what has become of him.’{m}"
+    },
+    {
+     "v": 41,
+     "text": "In those days they made a calf, and brought a sacrifice to the idol, and were rejoicing in the works of their hands."
+    },
+    {
+     "v": 42,
+     "text": "But God turned away and handed them over to worship the host of heaven, as it is written in the book of the Prophets:\n‘Did you offer me slain beasts and sacrifices\nforty years in the desert, O house of Israel?"
+    },
+    {
+     "v": 43,
+     "text": "No, you took up the tent of Moloch\nand the star of your god Rompha,{n}\nthe images you made to worship;\nand I will remove you beyond Babylon.’{o}"
+    },
+    {
+     "v": 44,
+     "text": "“Our fathers had the tent of testimony in the desert, just as he who spoke to Moses directed him to make it, according to the pattern he had seen."
+    },
+    {
+     "v": 45,
+     "text": "This tent our fathers, receiving it in their turn, brought in with Joshua{p} when they took possession of the nations whom God thrust out before our fathers’ faces; and it remained until the time of David,"
+    },
+    {
+     "v": 46,
+     "text": "who won favor before God and asked leave to find a dwelling for the God of Jacob.{q}"
+    },
+    {
+     "v": 47,
+     "text": "Yet a house for him was built by Solomon."
+    },
+    {
+     "v": 48,
+     "text": "But the Most High does not live in what is made by hands; as the prophet says,"
+    },
+    {
+     "v": 49,
+     "text": "‘Heaven is my throne,\nand the earth is the footstool for my feet.\nWhat kind of house will you build for me, says the Lord,\nor what is the place of my rest?"
+    },
+    {
+     "v": 50,
+     "text": "Did not my hand make all these things?’{r}"
+    },
+    {
+     "v": 51,
+     "text": "“You stiff-necked people, uncircumcised in heart and ears, you are always resisting the Holy Spirit; as your fathers did, so do you."
+    },
+    {
+     "v": 52,
+     "text": "Was there a prophet your fathers did not hound? They put to death those who foretold the Righteous One’s coming, of whom you have now become the betrayers and murderers —"
+    },
+    {
+     "v": 53,
+     "text": "you who received the Law as ordained by angels,{s} and did not keep it.”"
+    },
+    {
+     "v": 54,
+     "text": "When they heard these things they were cut to the heart,{t} and they ground their teeth at him."
+    },
+    {
+     "v": 55,
+     "text": "But he, full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God,"
+    },
+    {
+     "v": 56,
+     "text": "and he said, “Look, I see the heavens opened, and the Son of Man standing at the right hand of God.”"
+    },
+    {
+     "v": 57,
+     "text": "But they cried out with a loud voice, stopped their ears, and rushed at him with one accord."
+    },
+    {
+     "v": 58,
+     "text": "They cast him out of the city and began to stone him; and the witnesses laid down their garments at the feet of a young man named Saul.{u}"
+    },
+    {
+     "v": 59,
+     "text": "And they went on stoning Stephen as he called out, “Lord Jesus, receive my spirit.”"
+    },
+    {
+     "v": 60,
+     "text": "And kneeling down, he called out in a great voice, “Lord, do not count this sin against them.” And with these words he fell asleep.{v}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:2",
+     "text": "Haran: in northern Mesopotamia; compare Gen 11:31–12:4."
+    },
+    {
+     "m": "b",
+     "ref": "7:3",
+     "text": "Gen 12:1."
+    },
+    {
+     "m": "c",
+     "ref": "7:7",
+     "text": "Gen 15:13–14, with Exod 3:12."
+    },
+    {
+     "m": "d",
+     "ref": "7:14",
+     "text": "Seventy-five persons: so the Greek Old Testament of Gen 46:27 and Exod 1:5; the Hebrew text has seventy."
+    },
+    {
+     "m": "e",
+     "ref": "7:16",
+     "text": "The account combines Abraham’s purchase at Hebron (Gen 23:16–20) with Jacob’s purchase at Shechem from the sons of Hamor (Gen 33:19; Josh 24:32)."
+    },
+    {
+     "m": "f",
+     "ref": "7:20",
+     "text": "Beautiful in God’s sight: or “exceedingly fair”; compare Exod 2:2."
+    },
+    {
+     "m": "g",
+     "ref": "7:28",
+     "text": "Exod 2:14."
+    },
+    {
+     "m": "h",
+     "ref": "7:34",
+     "text": "Exod 3:5–10. In the Hebrew text, “the Lord” in 7:31 and 7:33 is Yahweh."
+    },
+    {
+     "m": "i",
+     "ref": "7:36",
+     "text": "Red Sea: Greek *erythra thalassa*; the Hebrew is *yam suph*, “Sea of Reeds.”"
+    },
+    {
+     "m": "j",
+     "ref": "7:37",
+     "text": "Deut 18:15. Many later manuscripts add “the Lord” before “God” and “listen to him” at the end."
+    },
+    {
+     "m": "k",
+     "ref": "7:38",
+     "text": "Assembly: Greek *ekklēsia*, the word rendered “church” elsewhere."
+    },
+    {
+     "m": "l",
+     "ref": "7:38",
+     "text": "To you: many manuscripts read “to us.”"
+    },
+    {
+     "m": "m",
+     "ref": "7:40",
+     "text": "Exod 32:1, 23."
+    },
+    {
+     "m": "n",
+     "ref": "7:43",
+     "text": "Rompha: so the Westcott–Hort text; other manuscripts spell the name Rephan, Remphan, or Raiphan. It renders, in the Greek Old Testament, the Hebrew *Kiyyun* (probably the planet Saturn) of Amos 5:26. The name’s origin is uncertain."
+    },
+    {
+     "m": "o",
+     "ref": "7:43",
+     "text": "Amos 5:25–27 (Greek), with “Babylon” in place of “Damascus.”"
+    },
+    {
+     "m": "p",
+     "ref": "7:45",
+     "text": "Joshua: Greek *Iēsous*, the Greek form of the Hebrew name Joshua, “Yahweh saves.”"
+    },
+    {
+     "m": "q",
+     "ref": "7:46",
+     "text": "God of Jacob: so the Westcott–Hort text, with Alexandrinus and many others; Sinaiticus, Vaticanus, and Codex Bezae read “house of Jacob,” which NA and SBLGNT print. Compare Ps 132:5."
+    },
+    {
+     "m": "r",
+     "ref": "7:50",
+     "text": "Isa 66:1–2. In the Hebrew text, “the Lord” is Yahweh."
+    },
+    {
+     "m": "s",
+     "ref": "7:53",
+     "text": "As ordained by angels: or “by the directions of angels”; compare Gal 3:19; Heb 2:2."
+    },
+    {
+     "m": "t",
+     "ref": "7:54",
+     "text": "Cut to the heart: literally “sawn through in their hearts,” as in 5:33."
+    },
+    {
+     "m": "u",
+     "ref": "7:58",
+     "text": "Saul: Hebrew *Shaʾul*, “asked for.”"
+    },
+    {
+     "m": "v",
+     "ref": "7:60",
+     "text": "Fell asleep: that is, died."
+    }
+   ]
+  }
+ ]
+}
