@@ -1,0 +1,1339 @@
+{
+ "id": "2-kings",
+ "name": "2 Kings",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex. The Septuagint (Old Greek) of 2 Kings stays closer to the Hebrew than it does in 1 Kings, but it has some additions, notably a summary of Jehoram of Israel’s reign after 1:18 (numbered 1:18a–d), and differences in some names and numbers. The major differences are given in the footnotes. Septuagint readings were checked against Brenton’s public-domain English translation. Verse numbers follow the standard English Bible; where the Hebrew numbering differs (English 11:21 = Hebrew 12:1, so chapter 12 is one verse higher in Hebrew), this is noted. The regnal years and the synchronisms between the kings of Judah and Israel are translated as they stand, without harmonization. Measurements are given in modern US units, and calendar dates with their modern-month equivalents, with the originals and metric figures in the footnotes. The Hebrew tsara‘at, traditionally “leprosy,” is rendered “a serious skin disease,” since it covered various conditions and not only Hansen’s disease. Personal and place names whose meaning is known or likely have a note at their first appearance.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    9,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After the death of Ahab, Moab{a} rebelled against Israel."
+    },
+    {
+     "v": 2,
+     "text": "Ahaziah had fallen through the latticework of his roof chamber in Samaria and been hurt. He sent off messengers with orders: “Go, inquire of Baal-zebub,{b} the god of Ekron,{c} whether I will recover from this injury.”"
+    },
+    {
+     "v": 3,
+     "text": "But the angel of Yahweh said to Elijah the Tishbite, “Get up, go up to meet the messengers of the king of Samaria, and say to them, ‘Is it because there is no God in Israel that you are going to inquire of Baal-zebub, the god of Ekron?"
+    },
+    {
+     "v": 4,
+     "text": "Therefore this is what Yahweh says: You will not come down from the bed you have gone up to. You will surely die.’ ” And Elijah went on his way."
+    },
+    {
+     "v": 5,
+     "text": "The messengers returned to the king, and he asked them, “Why have you come back?”"
+    },
+    {
+     "v": 6,
+     "text": "They told him, “A man came up to meet us and said to us, ‘Go back to the king who sent you and tell him, “This is what Yahweh says: Is it because there is no God in Israel that you are sending to inquire of Baal-zebub, the god of Ekron? Therefore you will not come down from the bed you have gone up to. You will surely die.” ’ ”"
+    },
+    {
+     "v": 7,
+     "text": "He asked them, “What sort of man was he who came up to meet you and told you these things?”"
+    },
+    {
+     "v": 8,
+     "text": "They answered him, “A hairy man,{d} with a leather belt tied around his waist.” He said, “It is Elijah the Tishbite.”"
+    },
+    {
+     "v": 9,
+     "text": "Then the king sent a captain of fifty with his fifty men to him. He went up to Elijah, who was sitting on top of a hill, and said to him, “Man of God, the king says, ‘Come down.’ ”"
+    },
+    {
+     "v": 10,
+     "text": "Elijah answered the captain of fifty, “If I am a man of God, let fire come down from heaven and consume you and your fifty.” Then fire came down from heaven and consumed him and his fifty."
+    },
+    {
+     "v": 11,
+     "text": "Again the king sent to him another captain of fifty with his fifty. He spoke up and said to him, “Man of God, the king commands you to come down at once.”"
+    },
+    {
+     "v": 12,
+     "text": "Elijah answered them, “If I am a man of God, let fire come down from heaven and consume you and your fifty.” Then the fire of God came down from heaven and consumed him and his fifty."
+    },
+    {
+     "v": 13,
+     "text": "Again the king sent a third captain of fifty with his fifty. The third captain of fifty went up, came and knelt before Elijah, and pleaded with him: “Man of God, I beg you, value my life and the lives of these fifty men who serve you."
+    },
+    {
+     "v": 14,
+     "text": "Fire has come down from heaven and consumed the first two captains of fifty with their fifties. But now let my life be precious in your sight.”"
+    },
+    {
+     "v": 15,
+     "text": "Then the angel of Yahweh told Elijah, “Go down with him. Have no fear of him.” So Elijah rose and accompanied him down to the king."
+    },
+    {
+     "v": 16,
+     "text": "He said to the king, “This is what Yahweh says: ‘Because you sent messengers to inquire of Baal-zebub, the god of Ekron, as though there were no God in Israel whose word you could seek, you will not come down from the bed you have gone up to. You will surely die.’ ”"
+    },
+    {
+     "v": 17,
+     "text": "So he died according to the word of Yahweh that Elijah had spoken. Jehoram{e} reigned in his place, in the second year of Jehoram son of Jehoshaphat king of Judah, because he had no son.{f}"
+    },
+    {
+     "v": 18,
+     "text": "The rest of the acts of Ahaziah, what he did, are they not written in the Book of the Annals of the Kings of Israel?{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Moab, the land east of the Dead Sea. The name was popularly explained as “from father” (Genesis 19:37)."
+    },
+    {
+     "m": "b",
+     "ref": "1:2",
+     "text": "Baal-zebub means “lord of flies,” probably a mocking alteration of Baal-zebul, “Baal the prince.” The Septuagint has “Baal Fly.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Ekron, one of the five Philistine cities, means “uprooting” or “barren place.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:8",
+     "text": "Or “a man with a garment of hair.” Hebrew “a lord of hair.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:17",
+     "text": "Jehoram (also spelled Joram) means “Yahweh is exalted.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:17",
+     "text": "The Septuagint lacks everything in this verse after “Elijah had spoken.” Compare 3:1, which dates Jehoram of Israel’s accession to the eighteenth year of Jehoshaphat."
+    },
+    {
+     "m": "g",
+     "ref": "1:18",
+     "text": "The Septuagint adds a summary of Jehoram’s reign (1:18a–d): he reigned twelve years from the eighteenth year of Jehoshaphat, did evil but not like his mother, removed the pillars of Baal, yet kept to the sins of Jeroboam; “and Yahweh was very angry with the house of Ahab.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    9,
+    13,
+    19,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Yahweh was about to carry Elijah up into heaven by a whirlwind, Elijah was setting out from Gilgal{a} with Elisha."
+    },
+    {
+     "v": 2,
+     "text": "Elijah said to Elisha, “Stay here, please, for Yahweh has sent me as far as Bethel.”{b} But Elisha said, “As Yahweh lives, and as you yourself live, I will not leave you.” So they went down to Bethel."
+    },
+    {
+     "v": 3,
+     "text": "The sons of the prophets who were at Bethel came out to Elisha and said to him, “Do you know that today Yahweh is going to take your master from over you?”{c} He said, “Yes, I know. Keep quiet.”"
+    },
+    {
+     "v": 4,
+     "text": "Elijah said to him, “Elisha, stay here, please, for Yahweh has sent me to Jericho.” But he said, “As Yahweh lives, and as you yourself live, I will not leave you.” So they came to Jericho."
+    },
+    {
+     "v": 5,
+     "text": "The sons of the prophets who were at Jericho approached Elisha and said to him, “Do you know that today Yahweh is going to take your master from over you?” He answered, “Yes, I know. Keep quiet.”"
+    },
+    {
+     "v": 6,
+     "text": "Then Elijah said to him, “Stay here, please, for Yahweh has sent me to the Jordan.” But he said, “As Yahweh lives, and as you yourself live, I will not leave you.” So the pair of them walked on."
+    },
+    {
+     "v": 7,
+     "text": "Fifty men of the sons of the prophets also went and stood at a distance, facing them, while the two of them stood by the Jordan."
+    },
+    {
+     "v": 8,
+     "text": "Then Elijah took his cloak, rolled it up, and struck the water. The water parted to one side and the other, and the two of them crossed over on dry ground."
+    },
+    {
+     "v": 9,
+     "text": "When they had crossed, Elijah said to Elisha, “Before I am taken from you, say what you would have me do for you.” Elisha said, “Let a double share{d} of your spirit come to me, I pray.”"
+    },
+    {
+     "v": 10,
+     "text": "He said, “What you ask is difficult. But if you see me while I am being taken from you, you shall have it; if you do not, you shall not.”"
+    },
+    {
+     "v": 11,
+     "text": "As they went on, walking and talking, suddenly a chariot of fire and horses of fire came between the two of them, and Elijah went up in the whirlwind into heaven."
+    },
+    {
+     "v": 12,
+     "text": "Elisha was watching, and he kept crying out, “My father, my father! The chariots of Israel and its horsemen!” Then he saw him no more. He took hold of his own clothes and tore them in two."
+    },
+    {
+     "v": 13,
+     "text": "He lifted Elijah’s cloak, which had dropped from him, and went back and stood on the Jordan’s bank."
+    },
+    {
+     "v": 14,
+     "text": "He took the cloak of Elijah that had fallen from him, struck the water, and said, “Where is Yahweh, the God of Elijah?” When he too had struck the water, it parted to one side and the other, and Elisha crossed over.{e}"
+    },
+    {
+     "v": 15,
+     "text": "When the sons of the prophets who were at Jericho saw him from across the river,{f} they said, “The spirit of Elijah rests on Elisha.” They came to meet him and bowed to the ground before him."
+    },
+    {
+     "v": 16,
+     "text": "They said to him, “Look, your servants have fifty capable men with them. Please let them go and search for your master. It may be that Yahweh’s Spirit has lifted him and dropped him on a mountain somewhere or in a valley.” He said, “Do not send them.”"
+    },
+    {
+     "v": 17,
+     "text": "But they kept pressing him until he was ashamed to refuse, and he said, “Send them.” They sent fifty men, and for three days they searched for him without finding him."
+    },
+    {
+     "v": 18,
+     "text": "They came back to him while he was staying at Jericho, and he said to them, “Did I not tell you not to go?”"
+    },
+    {
+     "v": 19,
+     "text": "The men of the city said to Elisha, “Look, the city is well situated, as my lord can see, but the water is bad and the land causes miscarriages.”{g}"
+    },
+    {
+     "v": 20,
+     "text": "He said, “Fetch me a new bowl with salt in it.” And they fetched it for him."
+    },
+    {
+     "v": 21,
+     "text": "He went out to the spring and threw the salt into it and said, “This is what Yahweh says: ‘I have healed this water. From now on it will no longer cause death or miscarriage.’ ”"
+    },
+    {
+     "v": 22,
+     "text": "So the water has stayed wholesome to this day, according to the word that Elisha spoke."
+    },
+    {
+     "v": 23,
+     "text": "From there he went up to Bethel. While he was going up the road, some young boys{h} came out of the town and jeered at him, saying, “Go on up, baldhead! Go on up, baldhead!”"
+    },
+    {
+     "v": 24,
+     "text": "He turned around, looked at them, and cursed them in the name of Yahweh. Then two she-bears came out of the woods and mauled forty-two of the boys."
+    },
+    {
+     "v": 25,
+     "text": "From there he went on to Mount Carmel, and from there he returned to Samaria."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Gilgal means “circle (of stones).” This Gilgal was probably in the hills north of Bethel, not the one near Jericho."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "Bethel means “house of God.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:3",
+     "text": "Hebrew “from over your head,” that is, from being your master; likewise in verse 5."
+    },
+    {
+     "m": "d",
+     "ref": "2:9",
+     "text": "Hebrew “a mouth of two,” the firstborn son’s portion of an inheritance (Deuteronomy 21:17)."
+    },
+    {
+     "m": "e",
+     "ref": "2:14",
+     "text": "Hebrew ’aph-hu’, “he too.” Some take it with the preceding question: “Where is Yahweh, the God of Elijah, indeed?”"
+    },
+    {
+     "m": "f",
+     "ref": "2:15",
+     "text": "Hebrew “from opposite.”"
+    },
+    {
+     "m": "g",
+     "ref": "2:19",
+     "text": "Or “is barren.” Hebrew meshakkalet, “bereaving”; likewise in verse 21."
+    },
+    {
+     "m": "h",
+     "ref": "2:23",
+     "text": "Hebrew ne‘arim qetannim, “small youths”; the term can cover boys or young men."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    4,
+    9,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the eighteenth year of Jehoshaphat king of Judah, Jehoram son of Ahab began to reign over Israel in Samaria, and he reigned twelve years."
+    },
+    {
+     "v": 2,
+     "text": "He did what was evil in the sight of Yahweh, though not like his father and mother. He removed the sacred pillar of Baal that his father had made."
+    },
+    {
+     "v": 3,
+     "text": "Yet he clung to the sins of Jeroboam son of Nebat, by which he had made Israel sin; he did not turn from them."
+    },
+    {
+     "v": 4,
+     "text": "Mesha{a} king of Moab raised sheep, and as tribute he delivered to Israel’s king a hundred thousand lambs and the wool of a hundred thousand rams."
+    },
+    {
+     "v": 5,
+     "text": "But when Ahab died, the king of Moab rebelled against the king of Israel."
+    },
+    {
+     "v": 6,
+     "text": "So King Jehoram marched out of Samaria at that time and mustered all Israel."
+    },
+    {
+     "v": 7,
+     "text": "He also sent this message to Jehoshaphat, Judah’s king: “Moab’s king has revolted against me. Will you join me in war against Moab?” He replied, “I will go up. You and I are one; my people are yours, and my horses are yours.”"
+    },
+    {
+     "v": 8,
+     "text": "He asked, “By which road shall we go up?” Jehoram answered, “By the road through the wilderness of Edom.”{b}"
+    },
+    {
+     "v": 9,
+     "text": "So the king of Israel set out with the king of Judah and the king of Edom. They made a circuit of seven days’ march, and then the troops and the pack animals with them had no water left."
+    },
+    {
+     "v": 10,
+     "text": "The king of Israel said, “Alas! Yahweh has called these three kings together only to hand them over to Moab.”"
+    },
+    {
+     "v": 11,
+     "text": "But Jehoshaphat said, “Is there no prophet of Yahweh here, through whom we may inquire of Yahweh?” One of the servants of the king of Israel answered, “Elisha son of Shaphat is here, who used to pour water on the hands of Elijah.”"
+    },
+    {
+     "v": 12,
+     "text": "Jehoshaphat said, “The word of Yahweh is with him.” So the king of Israel and Jehoshaphat and the king of Edom went down to him."
+    },
+    {
+     "v": 13,
+     "text": "Elisha said to the king of Israel, “What have I to do with you?{c} Take yourself to the prophets of your father and your mother.” The king of Israel replied, “Do not say that. Yahweh has called these three kings together to hand them over to Moab.”"
+    },
+    {
+     "v": 14,
+     "text": "Elisha said, “As Yahweh of hosts lives, before whom I stand, if I did not have regard for Jehoshaphat king of Judah, I would not look at you or even see you."
+    },
+    {
+     "v": 15,
+     "text": "But now bring me a musician.” And while the musician played, the hand of Yahweh came on him."
+    },
+    {
+     "v": 16,
+     "text": "He said, “This is what Yahweh says: ‘Make this wadi full of pools.’{d}"
+    },
+    {
+     "v": 17,
+     "text": "For this is what Yahweh says: ‘You will see no wind and you will see no rain, yet this wadi will be filled with water, and you will drink, you, your cattle, and your animals.’"
+    },
+    {
+     "v": 18,
+     "text": "This is only a small thing in the sight of Yahweh; he will also give Moab into your hand."
+    },
+    {
+     "v": 19,
+     "text": "You will strike every fortified city and every choice city. You will fell every good tree, stop up all the springs of water, and ruin every good field with stones.”"
+    },
+    {
+     "v": 20,
+     "text": "The next morning, about the time of the grain offering,{e} water suddenly came from the direction of Edom, and the land was filled with water."
+    },
+    {
+     "v": 21,
+     "text": "When all the Moabites heard that the kings had come up to fight against them, everyone old enough to put on armor, and older, was called out and stationed at the border."
+    },
+    {
+     "v": 22,
+     "text": "They got up at dawn, and as the sun rose over the water, the Moabites looked across and saw the water red like blood."
+    },
+    {
+     "v": 23,
+     "text": "“Blood!” they said. “The kings must have turned their swords on each other{f} and slaughtered one another. On to the spoil, Moab!”"
+    },
+    {
+     "v": 24,
+     "text": "But when they came to the camp of Israel, the Israelites rose up and struck the Moabites, who fled before them. They pressed on into the land, striking Moab as they went.{g}"
+    },
+    {
+     "v": 25,
+     "text": "They tore down the towns. On every good field each man threw a stone, until it was covered. They stopped up every spring and felled every good tree, until only the stones of Kir-hareseth{h} were left, and the slingers surrounded it and attacked it."
+    },
+    {
+     "v": 26,
+     "text": "When Moab’s king saw that the fighting was too strong for him, he took seven hundred men who could wield the sword and tried to break through toward the king of Edom, but they failed."
+    },
+    {
+     "v": 27,
+     "text": "Then he took his firstborn son, who was to reign after him, and sacrificed him as a burnt offering on the wall. Great wrath{i} fell on Israel, and they pulled back from him and went home to their land."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:4",
+     "text": "Mesha may mean “salvation.” His own inscription, the Moabite Stone (about 840 B.C.), tells of Moab’s revolt from the Moabite side."
+    },
+    {
+     "m": "b",
+     "ref": "3:8",
+     "text": "Edom, “red,” the land south of the Dead Sea."
+    },
+    {
+     "m": "c",
+     "ref": "3:13",
+     "text": "Hebrew “What to me and to you?”"
+    },
+    {
+     "m": "d",
+     "ref": "3:16",
+     "text": "Or “trenches.” Hebrew “Make this wadi pits, pits.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:20",
+     "text": "Hebrew “at the going up of the minchah,” the morning grain offering."
+    },
+    {
+     "m": "f",
+     "ref": "3:23",
+     "text": "Hebrew uncertain; perhaps “have surely put each other to the sword.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:24",
+     "text": "The meaning of the Hebrew is uncertain; some ancient witnesses read “they went on striking.”"
+    },
+    {
+     "m": "h",
+     "ref": "3:25",
+     "text": "Kir-hareseth means “city of potsherds” or “wall of potsherds.” It is probably modern Kerak in Jordan."
+    },
+    {
+     "m": "i",
+     "ref": "3:27",
+     "text": "Hebrew qetseph, “wrath, fury.” Whose wrath is not stated."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    8,
+    11,
+    18,
+    32,
+    38,
+    42
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant my husband is dead, and you know that your servant feared Yahweh. But now the creditor has come to take my two children as his slaves.”"
+    },
+    {
+     "v": 2,
+     "text": "Elisha said to her, “What can I do for you? Tell me, what do you have in the house?” She said, “Your servant has nothing in the house except a flask of oil.”"
+    },
+    {
+     "v": 3,
+     "text": "He said, “Go around to your neighbors and borrow jars from all of them, empty ones, as many as you can."
+    },
+    {
+     "v": 4,
+     "text": "Then go in and shut the door behind you and your sons, and pour oil into all these vessels. As each is filled, set it aside.”"
+    },
+    {
+     "v": 5,
+     "text": "So she went from him and closed the door on herself and her sons. While they brought her the jars, she went on pouring."
+    },
+    {
+     "v": 6,
+     "text": "When the vessels were full, she said to her son, “Bring me another vessel.” He said to her, “There are no more.” Then the oil stopped flowing."
+    },
+    {
+     "v": 7,
+     "text": "She came and told the man of God, and he said, “Go, sell the oil and pay your debt, and you and your sons can live on the rest.”"
+    },
+    {
+     "v": 8,
+     "text": "One day Elisha passed through Shunem,{a} where a wealthy woman lived, and she urged him to eat a meal. After that, every time he came by, he stopped there for a meal."
+    },
+    {
+     "v": 9,
+     "text": "She told her husband, “I can tell that the man who regularly comes by here is a holy man of God."
+    },
+    {
+     "v": 10,
+     "text": "Let us make a small walled room on the roof and put a bed, a table, a chair, and a lamp there for him. Then whenever he comes to us, he can stay there.”"
+    },
+    {
+     "v": 11,
+     "text": "One day he arrived, went up into the roof room, and lay down to rest."
+    },
+    {
+     "v": 12,
+     "text": "He said to his servant Gehazi,{b} “Call this Shunammite woman.” He called her, and she stood before him."
+    },
+    {
+     "v": 13,
+     "text": "He said to Gehazi, “Say to her, ‘You have gone to all this trouble for us. What may we do in return? Would you like a word put in for you with the king or the army commander?’ ” She answered, “I live among my own people.”"
+    },
+    {
+     "v": 14,
+     "text": "He said, “What then can be done for her?” Gehazi answered, “Well, she has no son, and her husband is old.”"
+    },
+    {
+     "v": 15,
+     "text": "He said, “Call her.” When he had called her, she stood in the doorway."
+    },
+    {
+     "v": 16,
+     "text": "He said, “At this season, when the time comes round, you will be holding a son in your arms.” She said, “No, my lord, man of God, do not deceive your servant.”"
+    },
+    {
+     "v": 17,
+     "text": "But the woman conceived and bore a son at that season, when the time came round, as Elisha had told her."
+    },
+    {
+     "v": 18,
+     "text": "The child grew, and one day he went out to join his father, who was with the reapers."
+    },
+    {
+     "v": 19,
+     "text": "He said to his father, “My head, my head!” His father said to a servant, “Carry him to his mother.”"
+    },
+    {
+     "v": 20,
+     "text": "He picked him up and brought him to his mother. The boy lay on her knees till midday, and then he died."
+    },
+    {
+     "v": 21,
+     "text": "She went up, laid him on the bed of the man of God, shut the door on him, and went out."
+    },
+    {
+     "v": 22,
+     "text": "Then she called to her husband and said, “Please send me one of the servants and one of the donkeys, so that I may hurry to the man of God and come back.”"
+    },
+    {
+     "v": 23,
+     "text": "He said, “Why are you going to him today? It is neither new moon nor Sabbath.” She said, “It is all right.”{c}"
+    },
+    {
+     "v": 24,
+     "text": "Then she saddled the donkey and said to her servant, “Drive on, go! Do not slow down for me unless I tell you.”"
+    },
+    {
+     "v": 25,
+     "text": "So she set out and came to the man of God at Mount Carmel. When the man of God caught sight of her far off, he told Gehazi his servant, “There is the Shunammite woman."
+    },
+    {
+     "v": 26,
+     "text": "Run now to meet her and ask her, ‘Are you well? Is your husband well? Is the child well?’ ” She answered, “All is well.”"
+    },
+    {
+     "v": 27,
+     "text": "But when she came to the man of God on the mountain, she caught hold of his feet. Gehazi came to push her away, but the man of God said, “Leave her alone, for she is in bitter distress, and Yahweh has hidden it from me and has not told me.”"
+    },
+    {
+     "v": 28,
+     "text": "Then she said, “Was it I who asked my lord for a son? Did I not tell you, ‘Do not raise my hopes’?”{d}"
+    },
+    {
+     "v": 29,
+     "text": "He said to Gehazi, “Tuck up your robe, take my staff, and be off. Greet no one you meet, and answer no one who greets you. Lay my staff on the boy’s face.”"
+    },
+    {
+     "v": 30,
+     "text": "But the child’s mother said, “As Yahweh lives, and as you yourself live, I will not leave you.” So Elisha rose and went with her."
+    },
+    {
+     "v": 31,
+     "text": "Gehazi hurried on ahead and set the staff on the boy’s face, yet there was no voice and no sign of life. So he turned back to meet Elisha and reported, “The child did not wake up.”"
+    },
+    {
+     "v": 32,
+     "text": "When Elisha came into the house, there was the boy, dead, lying on his bed."
+    },
+    {
+     "v": 33,
+     "text": "He went in and closed the door behind the two of them, and he prayed to Yahweh."
+    },
+    {
+     "v": 34,
+     "text": "Then he got up on the bed and lay on the child, putting his mouth on his mouth, his eyes on his eyes, and his hands on his hands. As he stretched himself over him, the child’s body grew warm."
+    },
+    {
+     "v": 35,
+     "text": "Then he got down and paced to and fro in the house once, then went up and stretched himself over him again. Seven times the boy sneezed, and then his eyes opened."
+    },
+    {
+     "v": 36,
+     "text": "Elisha called Gehazi and said, “Call this Shunammite woman.” So he called her. When she came in, Elisha said, “Here is your son. Take him.”"
+    },
+    {
+     "v": 37,
+     "text": "She came and fell at his feet, bowing to the ground. Then she picked up her son and went out."
+    },
+    {
+     "v": 38,
+     "text": "Elisha returned to Gilgal while there was a famine in the land. As the sons of the prophets were sitting before him, he said to his servant, “Put the large pot on and boil a stew for the sons of the prophets.”"
+    },
+    {
+     "v": 39,
+     "text": "One of them went out into the field to gather herbs. He found a wild vine and picked from it a lapful of wild gourds.{e} He came and cut them up into the pot of stew, not knowing what they were."
+    },
+    {
+     "v": 40,
+     "text": "They poured it out for the men to eat. But as soon as they tasted the stew, they cried out, “Man of God, there is death in the pot!” And they could not eat it."
+    },
+    {
+     "v": 41,
+     "text": "Elisha said, “Bring me flour,” and he tossed it into the pot. “Pour it out for the people to eat,” he said. And there was nothing harmful in the pot."
+    },
+    {
+     "v": 42,
+     "text": "A man came from Baal-shalishah,{f} bringing the man of God bread from the first fruits: twenty loaves of barley bread, and fresh ears of grain in his sack.{g} Elisha said, “Give it to the people, and let them eat.”"
+    },
+    {
+     "v": 43,
+     "text": "But his servant said, “How can I set this before a hundred men?” He said, “Give it to the people, and let them eat, for this is what Yahweh says: ‘They will eat and have some left over.’ ”"
+    },
+    {
+     "v": 44,
+     "text": "So he set it before them, and they ate and had some left over, according to the word of Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:8",
+     "text": "Shunem, in the Jezreel Valley, near modern Sulam; the meaning of the name is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "4:12",
+     "text": "Gehazi may mean “valley of vision.”"
+    },
+    {
+     "m": "c",
+     "ref": "4:23",
+     "text": "Hebrew “Shalom,” “peace”; likewise in verse 26."
+    },
+    {
+     "m": "d",
+     "ref": "4:28",
+     "text": "Or “Do not deceive me.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:39",
+     "text": "Probably colocynth, a bitter and purgative wild gourd."
+    },
+    {
+     "m": "f",
+     "ref": "4:42",
+     "text": "Baal-shalishah means “lord of Shalishah,” “the third.” It lay near Gilgal in the hill country of Ephraim."
+    },
+    {
+     "m": "g",
+     "ref": "4:42",
+     "text": "The meaning of the Hebrew word translated “in his sack” is uncertain. The Septuagint reads “and cakes of figs.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    8,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Naaman,{a} commander of the army of the king of Aram, was a great man in his master’s eyes and highly regarded, because through him Yahweh had given victory to Aram. He was a mighty warrior, but he had a serious skin disease.{b}"
+    },
+    {
+     "v": 2,
+     "text": "Now the Arameans had gone out on raids and had taken captive a young girl from the land of Israel, and she served Naaman’s wife."
+    },
+    {
+     "v": 3,
+     "text": "She told her mistress, “I wish my master could go to the prophet in Samaria. He would rid him of his skin disease.”"
+    },
+    {
+     "v": 4,
+     "text": "So Naaman went in and told his lord, “This is what the girl from the land of Israel said.”"
+    },
+    {
+     "v": 5,
+     "text": "The king of Aram said, “Go now, and I will send a letter to the king of Israel.” So he went, taking with him about 750 pounds of silver,{c} about 150 pounds of gold,{d} and ten sets of clothing."
+    },
+    {
+     "v": 6,
+     "text": "The letter he delivered to Israel’s king said: “Along with this letter comes my servant Naaman, whom I have sent so that you may rid him of his skin disease.”"
+    },
+    {
+     "v": 7,
+     "text": "When the king of Israel read the letter, he tore his clothes and said, “Am I God, to kill and to make alive, that this man sends me word to cure someone of his skin disease? Just look and see how he is seeking a quarrel with me.”"
+    },
+    {
+     "v": 8,
+     "text": "When Elisha the man of God heard that the king of Israel had torn his clothes, he sent word to the king: “Why have you torn your clothes? Let him come to me, and he will learn that there is a prophet in Israel.”"
+    },
+    {
+     "v": 9,
+     "text": "So Naaman came with his horses and chariots and halted at the door of Elisha’s house."
+    },
+    {
+     "v": 10,
+     "text": "Elisha sent a messenger out to him, saying, “Go, bathe in the Jordan seven times. Then your flesh will become sound again, and you will be clean.”"
+    },
+    {
+     "v": 11,
+     "text": "But Naaman grew angry and went away, saying, “I thought that surely he would come out to me, stand and call on the name of Yahweh his God, wave his hand over the place, and cure the disease."
+    },
+    {
+     "v": 12,
+     "text": "Are not Abana{e} and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?” So he turned and went off in a rage."
+    },
+    {
+     "v": 13,
+     "text": "But his servants came near and said to him, “My father,{f} had the prophet ordered some hard thing, you would have done it, would you not? All the more, then, since all he says is, ‘Bathe and be clean.’ ”"
+    },
+    {
+     "v": 14,
+     "text": "So he went down and dipped himself seven times in the Jordan, according to the word of the man of God, and his flesh was restored like the flesh of a young boy, and he was clean."
+    },
+    {
+     "v": 15,
+     "text": "Then he returned to the man of God, he and all his company. He came and stood before him and said, “Now I know that there is no God in all the earth except in Israel. So please accept a gift{g} from your servant.”"
+    },
+    {
+     "v": 16,
+     "text": "But he said, “As Yahweh lives, before whom I stand, I will accept nothing.” Naaman urged him to accept, but he refused."
+    },
+    {
+     "v": 17,
+     "text": "Then Naaman said, “If not, then please let your servant have two mule-loads of soil,{h} because from now on your servant will offer burnt offering or sacrifice to no other god but Yahweh."
+    },
+    {
+     "v": 18,
+     "text": "But in this one matter may Yahweh pardon your servant: when my master enters Rimmon’s{i} temple to worship there and leans on my arm, and so I bow down in Rimmon’s temple too, when I bow there, may Yahweh pardon your servant in this matter.”"
+    },
+    {
+     "v": 19,
+     "text": "He said to him, “Go in peace.” And when Naaman had gone some distance{j} from him,"
+    },
+    {
+     "v": 20,
+     "text": "Gehazi, the servant of Elisha the man of God, said to himself, “See how my master has spared Naaman, this Aramean, by not taking what he offered. As Yahweh lives, I will run after him and get something from him.”"
+    },
+    {
+     "v": 21,
+     "text": "So Gehazi hurried after Naaman. Naaman, seeing a man running to catch up with him, stepped down from his chariot to meet him. “Is all well?” he asked."
+    },
+    {
+     "v": 22,
+     "text": "He said, “Everything is all right. My master has sent me to say, ‘Just now two young men of the sons of the prophets have come to me from the hill country of Ephraim. Please give them about 75 pounds of silver{k} and two sets of clothing.’ ”"
+    },
+    {
+     "v": 23,
+     "text": "Naaman said, “Please, take about 150 pounds.”{l} He urged him and tied up the silver in two bags with two sets of clothing, and handed them to two of his own servants to carry ahead of Gehazi."
+    },
+    {
+     "v": 24,
+     "text": "When he came to the hill,{m} he took them from their hands and stored them in the house. Then he sent the men away, and they left."
+    },
+    {
+     "v": 25,
+     "text": "He went in and stood before his master, and Elisha said to him, “Where have you been, Gehazi?” He said, “Your servant has not gone anywhere.”"
+    },
+    {
+     "v": 26,
+     "text": "But Elisha said, “Was my spirit not there with you when the man stepped down from his chariot to greet you? Is this the time to take money, or clothes, or olive groves and vineyards, sheep and cattle, male and female servants?"
+    },
+    {
+     "v": 27,
+     "text": "Therefore the skin disease of Naaman will cling to you and to your descendants forever.” So he went out from his presence with a skin disease, white as snow."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Naaman means “pleasant.”"
+    },
+    {
+     "m": "b",
+     "ref": "5:1",
+     "text": "Hebrew metsora‘, from tsara‘at, traditionally translated “leprosy.” The term covered a range of skin conditions, not only Hansen’s disease; likewise throughout this chapter."
+    },
+    {
+     "m": "c",
+     "ref": "5:5",
+     "text": "Hebrew “ten talents of silver.” A talent weighed about 75 pounds (34 kilograms), so about 340 kilograms."
+    },
+    {
+     "m": "d",
+     "ref": "5:5",
+     "text": "Hebrew “six thousand of gold,” probably shekels. A shekel weighed about 0.4 ounce (11.5 grams), so about 69 kilograms. The Septuagint reads “six thousand pieces of gold.”"
+    },
+    {
+     "m": "e",
+     "ref": "5:12",
+     "text": "So the Ketiv; the Qere reads Amanah. Abana may mean “stony”; Pharpar may mean “swift.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:13",
+     "text": "Hebrew ’avi, “my father,” a respectful address. Some interpreters read the consonants instead as “if.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:15",
+     "text": "Hebrew berakah, “blessing.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:17",
+     "text": "Hebrew “a load of a pair of mules.” The Septuagint adds “of the red earth.”"
+    },
+    {
+     "m": "i",
+     "ref": "5:18",
+     "text": "Rimmon, the Aramean storm god Hadad-Rimmon. The name may mean “thunderer”; Hebrew rimmon also means “pomegranate.”"
+    },
+    {
+     "m": "j",
+     "ref": "5:19",
+     "text": "Hebrew “a stretch of land,” an uncertain distance."
+    },
+    {
+     "m": "k",
+     "ref": "5:22",
+     "text": "Hebrew “a talent of silver.” A talent weighed about 75 pounds (34 kilograms)."
+    },
+    {
+     "m": "l",
+     "ref": "5:23",
+     "text": "Hebrew “two talents,” about 68 kilograms."
+    },
+    {
+     "m": "m",
+     "ref": "5:24",
+     "text": "Hebrew ‘ophel, “the hill” or “the citadel.” The Septuagint reads “a secret place.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    8,
+    15,
+    20,
+    24,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The sons of the prophets said to Elisha, “Look, the place where we live under your charge is too cramped for us."
+    },
+    {
+     "v": 2,
+     "text": "Let us go to the Jordan, where each of us can cut a beam, and let us build ourselves a place to live there.” He said, “Go.”"
+    },
+    {
+     "v": 3,
+     "text": "Then one of them said, “Please be willing to come with your servants.” He answered, “I will come.”"
+    },
+    {
+     "v": 4,
+     "text": "So he went with them. When they reached the Jordan, they began cutting down trees."
+    },
+    {
+     "v": 5,
+     "text": "But as one of them was felling a beam, the iron ax head fell into the water. He cried out, “Oh no, my master! It was borrowed!”{a}"
+    },
+    {
+     "v": 6,
+     "text": "The man of God asked, “Where did it fall?” When he showed him the place, Elisha cut off a stick, threw it in there, and made the iron float."
+    },
+    {
+     "v": 7,
+     "text": "“Lift it out,” he said. And the man stretched out his hand and grabbed it."
+    },
+    {
+     "v": 8,
+     "text": "Once, while Aram’s king was fighting against Israel, he conferred with his officers and said, “My camp will be at such and such a place.”"
+    },
+    {
+     "v": 9,
+     "text": "But the man of God sent this warning to Israel’s king: “Be careful to avoid that place, because the Arameans are going down there.”"
+    },
+    {
+     "v": 10,
+     "text": "The king of Israel sent men to the place the man of God had told him about. Time and again he warned the king, so that he was on guard there, more than once or twice."
+    },
+    {
+     "v": 11,
+     "text": "The mind of the king of Aram was greatly troubled over this. He summoned his officers and demanded, “Which one of us is siding with Israel’s king? Tell me!”"
+    },
+    {
+     "v": 12,
+     "text": "One of his servants said, “None of us, my lord the king. Elisha, the prophet in Israel, reports to Israel’s king even what you say in your bedroom.”"
+    },
+    {
+     "v": 13,
+     "text": "He said, “Go and find out where he is, so that I may send and seize him.” He was told, “He is in Dothan.”{b}"
+    },
+    {
+     "v": 14,
+     "text": "So he sent horses and chariots there and a strong force. They came by night and surrounded the city."
+    },
+    {
+     "v": 15,
+     "text": "When the servant of the man of God rose early and went out, an army with horses and chariots was surrounding the city. His servant said to him, “Oh no, my master! What shall we do?”"
+    },
+    {
+     "v": 16,
+     "text": "He answered, “Do not be afraid, for those who are with us are more than those who are with them.”"
+    },
+    {
+     "v": 17,
+     "text": "Then Elisha prayed, “Yahweh, please open his eyes so that he may see.” Yahweh opened the servant’s eyes, and he saw the mountain full of horses and chariots of fire all around Elisha."
+    },
+    {
+     "v": 18,
+     "text": "When the Arameans came down against him, Elisha prayed to Yahweh, “Strike this people with blindness.”{c} And he struck them with blindness, as Elisha had asked."
+    },
+    {
+     "v": 19,
+     "text": "Elisha told them, “You are on the wrong road, and this is the wrong city. Come after me, and I will lead you to the man you seek.” And he took them to Samaria."
+    },
+    {
+     "v": 20,
+     "text": "As soon as they had entered Samaria, Elisha said, “Yahweh, open the eyes of these men so that they may see.” Yahweh opened their eyes, and they saw that they were inside Samaria."
+    },
+    {
+     "v": 21,
+     "text": "When the king of Israel saw them, he said to Elisha, “Shall I strike them down, my father? Shall I strike them down?”"
+    },
+    {
+     "v": 22,
+     "text": "He answered, “Do not strike them down. Would you strike down those you have taken captive with your sword and your bow?{d} Give them bread and water to eat and drink, and then let them go home to their master.”"
+    },
+    {
+     "v": 23,
+     "text": "So he prepared a great feast for them. When they had eaten and drunk, he sent them away, and they went to their master. And the Aramean raiding bands stopped coming into the land of Israel."
+    },
+    {
+     "v": 24,
+     "text": "Some time later Ben-hadad king of Aram mustered his whole army, went up, and laid siege to Samaria."
+    },
+    {
+     "v": 25,
+     "text": "There was a great famine in Samaria. The siege went on until a donkey’s head sold for about 2 pounds of silver,{e} and half a pint of dove’s dung{f} for about 2 ounces of silver.{g}"
+    },
+    {
+     "v": 26,
+     "text": "As the king of Israel was walking along the city wall, a woman called out to him, “Save me, my lord the king!”"
+    },
+    {
+     "v": 27,
+     "text": "He said, “If Yahweh will not save you, where am I to get help for you? From the threshing floor? From the winepress?”"
+    },
+    {
+     "v": 28,
+     "text": "Then the king asked her, “What is the matter?” She answered, “This woman said to me, ‘Hand over your son so we can eat him today; tomorrow we will eat mine.’"
+    },
+    {
+     "v": 29,
+     "text": "So we cooked my son and ate him. On the following day I told her, ‘Now it is your son’s turn to be eaten,’ but she has hidden him away.”"
+    },
+    {
+     "v": 30,
+     "text": "When the king heard the woman’s words, he tore his clothes. As he was walking along the wall, the people looked, and there was sackcloth underneath, on his body."
+    },
+    {
+     "v": 31,
+     "text": "He said, “May God do so to me and more also, if the head of Elisha son of Shaphat stays on his shoulders today.”"
+    },
+    {
+     "v": 32,
+     "text": "Elisha was sitting in his house, and the elders were sitting with him. The king had sent a man ahead of him, but before the messenger arrived, Elisha said to the elders, “Do you see how this son of a murderer has sent someone to take off my head? Look, when the messenger comes, shut the door and hold it shut against him. Is not the sound of his master’s footsteps behind him?”"
+    },
+    {
+     "v": 33,
+     "text": "While he was still speaking with them, the messenger{h} came down to him and said, “This disaster is from Yahweh. Why should I wait for Yahweh any longer?”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:5",
+     "text": "The Septuagint reads “and it was hidden.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:13",
+     "text": "Dothan means “two wells.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:18",
+     "text": "Hebrew sanwerim, a rare word for a dazzling or confusing blindness (compare Genesis 19:11)."
+    },
+    {
+     "m": "d",
+     "ref": "6:22",
+     "text": "Or “Do you strike down those you have taken captive with your sword and bow?” that is, even prisoners of war are not killed."
+    },
+    {
+     "m": "e",
+     "ref": "6:25",
+     "text": "Hebrew “eighty of silver,” probably shekels. A shekel weighed about 0.4 ounce (11.5 grams), so about 920 grams. The Septuagint reads “fifty pieces of silver.”"
+    },
+    {
+     "m": "f",
+     "ref": "6:25",
+     "text": "Hebrew “a quarter of a kab.” A kab was about 1 1/4 quarts (1.2 liters), so about a third of a liter. “Dove’s dung” may be a popular name for a cheap food such as carob pods or wild bulbs."
+    },
+    {
+     "m": "g",
+     "ref": "6:25",
+     "text": "Hebrew “five of silver,” probably shekels, about 57 grams."
+    },
+    {
+     "m": "h",
+     "ref": "6:33",
+     "text": "So the Hebrew and the Septuagint. Many interpreters read “the king,” since the king seems to be speaking (compare 7:2, 17)."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    3,
+    9,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Elisha said, “Hear the word of Yahweh. This is what Yahweh says: ‘About this time tomorrow, at the gate of Samaria, 7 quarts of fine flour will sell for about 2/5 ounce of silver, and 14 quarts of barley for 2/5 ounce.’ ”{a}"
+    },
+    {
+     "v": 2,
+     "text": "The officer on whose arm the king leaned answered the man of God, “Even if Yahweh were to make windows in the sky, could this happen?” Elisha said, “Your own eyes will see it happen, but not a bite of it will you eat.”"
+    },
+    {
+     "v": 3,
+     "text": "Now there were four men with a serious skin disease{b} at the entrance to the gate. They said to one another, “Why are we sitting here until we die?"
+    },
+    {
+     "v": 4,
+     "text": "If we decide to go into the city, we will die there, since famine is inside. If we keep sitting here, we die all the same. So come, let us desert to the Aramean camp. Should they let us live, we live; and if they kill us, we will only die.”"
+    },
+    {
+     "v": 5,
+     "text": "So at dusk they got up and headed for the Arameans’ camp. Yet when they reached its outskirts, not a soul was to be found."
+    },
+    {
+     "v": 6,
+     "text": "For the Lord{c} had caused the Aramean army to hear what sounded like chariots, horses, and a vast army, and they told each other, “Israel’s king must have paid the Hittite kings and the Egyptian{d} kings to come against us!”"
+    },
+    {
+     "v": 7,
+     "text": "So at dusk they had run off, leaving behind tents, horses, and donkeys, the whole camp as it stood, to save their lives."
+    },
+    {
+     "v": 8,
+     "text": "When these men with skin disease came to the edge of the camp, they went into one tent, ate and drank, and carried off silver, gold, and clothing, and went and hid them. Then they came back, went into another tent, carried things off from it, and went and hid them."
+    },
+    {
+     "v": 9,
+     "text": "Then they said to one another, “We are not doing right. This is a day of good news, and we are keeping quiet. If we wait until morning light, punishment will overtake us. Come, let us go and tell the king’s household.”"
+    },
+    {
+     "v": 10,
+     "text": "So they went and shouted up to the city’s gatekeepers, “We have been to the Arameans’ camp, and there was no one there, not a human voice, only the horses tied up, the donkeys tied up, and the tents just as they were.”"
+    },
+    {
+     "v": 11,
+     "text": "The gatekeepers called out, and the news was told inside the king’s household."
+    },
+    {
+     "v": 12,
+     "text": "The king rose in the night and told his officers, “I will explain to you what the Arameans are up to. They are aware that we are starving. So they have slipped out of their camp and are hiding out in the fields, expecting that we will come out of the city, so that they can capture us alive and get inside.”"
+    },
+    {
+     "v": 13,
+     "text": "One of his servants answered, “Let some men take five of the remaining horses, those left here in the city. Their fate will be no worse than that of all the multitude of Israel who are left here, or of all the Israelites who have already perished.{e} Let us send them and see.”"
+    },
+    {
+     "v": 14,
+     "text": "So they took two chariots with horses, and the king sent them after the Aramean army, saying, “Go and see.”"
+    },
+    {
+     "v": 15,
+     "text": "They followed them as far as the Jordan, and the whole road was littered with clothing and equipment that the Arameans had thrown away in their haste. The messengers returned and told the king."
+    },
+    {
+     "v": 16,
+     "text": "Then the people went out and plundered the Aramean camp. So 7 quarts of fine flour sold for 2/5 ounce of silver, and 14 quarts of barley for 2/5 ounce, according to the word of Yahweh."
+    },
+    {
+     "v": 17,
+     "text": "Now the king had appointed the officer whose arm he leaned on to take charge of the gate. The crowd trampled him there in the gate, and he died, as the man of God had said when the king came down to him."
+    },
+    {
+     "v": 18,
+     "text": "For when the man of God had said to the king, “About this time tomorrow, at the gate of Samaria, 14 quarts of barley will sell for 2/5 ounce of silver, and 7 quarts of fine flour for 2/5 ounce,”"
+    },
+    {
+     "v": 19,
+     "text": "the officer had answered the man of God, “Even if Yahweh opened windows in heaven, could this come about?” And Elisha had told him, “Your own eyes will see it happen, but not a bite of it will you eat.”"
+    },
+    {
+     "v": 20,
+     "text": "That is just what happened to him: the people trampled him in the gateway, and he died."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "Hebrew “a seah of fine flour for a shekel, and two seahs of barley for a shekel.” A seah was about 7 quarts (about 7.3 liters); a shekel weighed about 0.4 ounce (11.5 grams). These were low prices compared with 6:25. Likewise in verses 16 and 18."
+    },
+    {
+     "m": "b",
+     "ref": "7:3",
+     "text": "Hebrew metsora‘im; see the note at 5:1."
+    },
+    {
+     "m": "c",
+     "ref": "7:6",
+     "text": "Hebrew Adonai."
+    },
+    {
+     "m": "d",
+     "ref": "7:6",
+     "text": "Some interpreters take Hebrew Mitsrayim, “Egypt,” as Musri, a land in Anatolia, alongside the Hittite kings of northern Syria."
+    },
+    {
+     "m": "e",
+     "ref": "7:13",
+     "text": "The Hebrew of this verse is repetitive and somewhat uncertain."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    7,
+    16,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Elisha had said to the woman whose son he had restored to life, “Get up and go, you and your household, and stay wherever you can, for Yahweh has called for a famine, and it will come on the land for seven years.”"
+    },
+    {
+     "v": 2,
+     "text": "So the woman got up and did as the man of God had said. She went with her household and stayed seven years in the land of the Philistines."
+    },
+    {
+     "v": 3,
+     "text": "At the end of the seven years the woman returned from the land of the Philistines, and she went out to appeal to the king for her house and her field."
+    },
+    {
+     "v": 4,
+     "text": "The king was talking with Gehazi, the servant of the man of God, saying, “Tell me all the great things Elisha has done.”"
+    },
+    {
+     "v": 5,
+     "text": "Just as Gehazi was recounting to the king how Elisha had brought a dead boy back to life, in came the woman whose son it was, appealing to the king for her house and her field. Gehazi said, “My lord the king, this is the woman, and this is her son whom Elisha restored to life.”"
+    },
+    {
+     "v": 6,
+     "text": "When the king questioned the woman, she told him. So the king assigned an official to her, saying, “Give back everything that was hers, along with all the produce of the field from the day she left the land until now.”"
+    },
+    {
+     "v": 7,
+     "text": "Elisha came to Damascus at a time when Ben-hadad, Aram’s king, was sick. When the king heard, “The man of God has arrived here,”"
+    },
+    {
+     "v": 8,
+     "text": "he said to Hazael, “Take a gift with you and go to meet the man of God. Inquire of Yahweh through him, asking, ‘Will I recover from this illness?’ ”"
+    },
+    {
+     "v": 9,
+     "text": "So Hazael went to meet him, taking a gift with him, all kinds of fine goods of Damascus, forty camel loads. He came and stood before him and said, “Your son Ben-hadad king of Aram has sent me to you to ask, ‘Will I recover from this illness?’ ”"
+    },
+    {
+     "v": 10,
+     "text": "Elisha said to him, “Go and say to him,{a} ‘You will certainly recover.’ But Yahweh has shown me that he will certainly die.”"
+    },
+    {
+     "v": 11,
+     "text": "He fixed his gaze on him and stared until he was ashamed.{b} Then the man of God wept."
+    },
+    {
+     "v": 12,
+     "text": "Hazael asked, “Why is my lord weeping?” He answered, “Because I know the harm you will do to the Israelites. You will set their fortresses on fire, kill their young men with the sword, dash their little ones to pieces, and rip open their pregnant women.”"
+    },
+    {
+     "v": 13,
+     "text": "Hazael said, “What is your servant, a mere dog, that he should do this great thing?” Elisha answered, “Yahweh has shown me that you will be king over Aram.”"
+    },
+    {
+     "v": 14,
+     "text": "Then Hazael left Elisha and returned to his master, who asked, “What did Elisha tell you?” He answered, “He told me you would certainly recover.”"
+    },
+    {
+     "v": 15,
+     "text": "But the next day Hazael took the bed cover, dipped it in water, and spread it over the king’s face, and he died. And Hazael reigned in his place."
+    },
+    {
+     "v": 16,
+     "text": "In the fifth year of Joram son of Ahab king of Israel, while Jehoshaphat was king of Judah,{c} Jehoram son of Jehoshaphat king of Judah began to reign."
+    },
+    {
+     "v": 17,
+     "text": "He was thirty-two years old when he became king, and he reigned eight years in Jerusalem."
+    },
+    {
+     "v": 18,
+     "text": "He followed the path of Israel’s kings, just as Ahab’s house did, since he had married a daughter of Ahab. He did evil in Yahweh’s sight."
+    },
+    {
+     "v": 19,
+     "text": "Yet Yahweh was unwilling to destroy Judah, for the sake of his servant David, because he had pledged to keep a lamp burning for David and his descendants forever."
+    },
+    {
+     "v": 20,
+     "text": "In his days Edom revolted against Judah’s rule and set up a king of their own."
+    },
+    {
+     "v": 21,
+     "text": "Then Joram crossed over to Zair{d} with all his chariots. He rose by night and struck the Edomites who had surrounded him and his chariot commanders, but his army fled to their tents.{e}"
+    },
+    {
+     "v": 22,
+     "text": "So Edom has been in revolt against Judah’s rule to this day. At that same time Libnah{f} revolted too."
+    },
+    {
+     "v": 23,
+     "text": "The rest of the acts of Joram and all that he did, are they not written in the Book of the Annals of the Kings of Judah?"
+    },
+    {
+     "v": 24,
+     "text": "Joram slept with his fathers and was buried with his fathers in David’s city, and Ahaziah his son reigned in his place."
+    },
+    {
+     "v": 25,
+     "text": "In the twelfth year of Joram son of Ahab king of Israel, Ahaziah son of Jehoram king of Judah began to reign."
+    },
+    {
+     "v": 26,
+     "text": "Ahaziah was twenty-two years old when he began to reign, and he reigned one year in Jerusalem. His mother’s name was Athaliah,{g} a granddaughter{h} of Omri king of Israel."
+    },
+    {
+     "v": 27,
+     "text": "He walked in the way of Ahab’s house and did evil in Yahweh’s sight just as Ahab’s house had, for he was related by marriage to Ahab’s house."
+    },
+    {
+     "v": 28,
+     "text": "He went with Joram son of Ahab to war against Hazael king of Aram at Ramoth-gilead, and the Arameans wounded Joram."
+    },
+    {
+     "v": 29,
+     "text": "King Joram went back to Jezreel to be healed of the wounds that the Arameans had given him at Ramah,{i} when he fought against Hazael king of Aram. And Ahaziah son of Jehoram king of Judah went down to see Joram son of Ahab in Jezreel, because he was wounded."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:10",
+     "text": "So the Qere and many ancient witnesses; the Ketiv reads “Go and say, ‘You will certainly not recover.’ ”"
+    },
+    {
+     "m": "b",
+     "ref": "8:11",
+     "text": "The subject is unclear. Either Elisha stared at Hazael until Hazael was embarrassed, or the reverse."
+    },
+    {
+     "m": "c",
+     "ref": "8:16",
+     "text": "The clause “while Jehoshaphat was king of Judah” is in both the Hebrew and the Septuagint, but many interpreters regard it as an accidental repetition from the end of the verse."
+    },
+    {
+     "m": "d",
+     "ref": "8:21",
+     "text": "The location of Zair is unknown; 2 Chronicles 21:9 lacks it."
+    },
+    {
+     "m": "e",
+     "ref": "8:21",
+     "text": "The Hebrew of this verse is difficult, and the outcome of the battle is unclear."
+    },
+    {
+     "m": "f",
+     "ref": "8:22",
+     "text": "Libnah means “whiteness.” It was a town in the Shephelah of Judah."
+    },
+    {
+     "m": "g",
+     "ref": "8:26",
+     "text": "Athaliah may mean “Yahweh is exalted.”"
+    },
+    {
+     "m": "h",
+     "ref": "8:26",
+     "text": "Hebrew “daughter,” here in the sense of female descendant; she was Ahab’s daughter (verse 18)."
+    },
+    {
+     "m": "i",
+     "ref": "8:29",
+     "text": "That is, Ramoth-gilead."
+    }
+   ]
+  }
+ ]
+}
