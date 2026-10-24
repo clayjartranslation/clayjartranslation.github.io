@@ -1,0 +1,450 @@
+{
+ "id": "2-peter",
+ "name": "2 Peter",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. Authorship: the letter names its author as Simon Peter (1:1), who recalls the transfiguration (1:16–18) and refers to an earlier letter (3:1). Its authorship was questioned in the early church (Origen and Eusebius report doubts), and many modern scholars regard it as written in Peter’s name after his death, while others defend it as Peter’s own; this translation takes no position. Much of chapter 2 closely parallels the letter of Jude. The chief early witnesses include the papyrus P72 (3rd–4th century) and Codices Sinaiticus, Alexandrinus and Vaticanus.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    12,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Simon Peter, a slave and apostle of Jesus Christ, to those who have obtained a faith of equal standing with ours through the righteousness of our God and Savior Jesus Christ:{a}"
+    },
+    {
+     "v": 2,
+     "text": "grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord."
+    },
+    {
+     "v": 3,
+     "text": "His divine power has bestowed on us everything needed for life and godliness, through the knowledge of the one who called us by his own glory and excellence.{b}"
+    },
+    {
+     "v": 4,
+     "text": "By these means he has given us promises of great value and greatness, so that by them you might become partakers of the divine nature, having fled the decay that lust has spread through the world."
+    },
+    {
+     "v": 5,
+     "text": "For this very reason, make every effort to add excellence to your faith, and knowledge to excellence,"
+    },
+    {
+     "v": 6,
+     "text": "and self-control to knowledge, and endurance to self-control, and godliness to endurance,"
+    },
+    {
+     "v": 7,
+     "text": "and affection for the brothers to godliness, and love to affection for the brothers.{c}"
+    },
+    {
+     "v": 8,
+     "text": "If these qualities are yours and keep increasing, they keep you from being idle or fruitless in the knowledge of our Lord Jesus Christ."
+    },
+    {
+     "v": 9,
+     "text": "Whoever lacks them is blind, shortsighted, having forgotten that he was cleansed from his past sins."
+    },
+    {
+     "v": 10,
+     "text": "So, brothers, be all the more eager to make your calling and election secure; for if you do these things, you will never stumble."
+    },
+    {
+     "v": 11,
+     "text": "For in this way entry into the eternal kingdom of our Lord and Savior Jesus Christ will be richly furnished for you."
+    },
+    {
+     "v": 12,
+     "text": "That is why I mean to keep reminding you of these things, though you know them and are established in the truth you now have."
+    },
+    {
+     "v": 13,
+     "text": "I think it right, as long as I am in this tent, to stir you up by way of reminder,{d}"
+    },
+    {
+     "v": 14,
+     "text": "since I know that the putting off of my tent will come soon, as our Lord Jesus Christ also made clear to me.{e}"
+    },
+    {
+     "v": 15,
+     "text": "And I will be diligent to make sure that, once I have gone, you can call these things to mind whenever you need.{f}"
+    },
+    {
+     "v": 16,
+     "text": "For it was not cleverly invented myths that we followed when we made known to you the power and coming of our Lord Jesus Christ; we were eyewitnesses of his majesty."
+    },
+    {
+     "v": 17,
+     "text": "For he received honor and glory from God the Father when a voice was carried to him by the Majestic Glory, saying, “This is my Son, my beloved, in whom I am well pleased.”{g}"
+    },
+    {
+     "v": 18,
+     "text": "We ourselves heard this voice carried from heaven when we were with him on the holy mountain."
+    },
+    {
+     "v": 19,
+     "text": "And we have the prophetic word made more certain, and you do well to pay attention to it as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts.{h}"
+    },
+    {
+     "v": 20,
+     "text": "Know this first of all, that no prophecy of scripture comes from one’s own interpretation."
+    },
+    {
+     "v": 21,
+     "text": "No prophecy ever came about because a human being willed it; rather, borne along by the Holy Spirit, human beings spoke as messengers from God.{i}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Simon*: Greek form of the Hebrew *Shimʿon*, “he has heard.” Some manuscripts read *Symeōn*, “Simeon,” the form closer to the Hebrew. *Peter*: “rock.” *Our God and Savior Jesus Christ*: or “our God and the Savior Jesus Christ.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:3",
+     "text": "By his own glory and excellence: some manuscripts read “to glory and excellence.” *Excellence*: Greek *aretē*, “virtue,” “moral excellence.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:7",
+     "text": "Brothers: Greek *adelphoi*, here in the compound *philadelphia*, which includes sisters."
+    },
+    {
+     "m": "d",
+     "ref": "1:13",
+     "text": "Tent: that is, the body; compare 2 Cor 5:1, 4."
+    },
+    {
+     "m": "e",
+     "ref": "1:14",
+     "text": "Compare John 21:18–19."
+    },
+    {
+     "m": "f",
+     "ref": "1:15",
+     "text": "Gone: Greek *exodos*, “departure,” “exodus,” here meaning death."
+    },
+    {
+     "m": "g",
+     "ref": "1:17",
+     "text": "Compare Matt 17:5; Mark 9:7; Luke 9:35. *Majestic Glory*: a reverent way of referring to God."
+    },
+    {
+     "m": "h",
+     "ref": "1:19",
+     "text": "Morning star: Greek *phōsphoros*, “light-bringer,” the planet Venus seen before dawn."
+    },
+    {
+     "m": "i",
+     "ref": "1:21",
+     "text": "Human beings spoke as messengers from God: some manuscripts read “holy people of God spoke.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    4,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yet false prophets also arose among the people of Israel, and in the same way false teachers will appear among you. They will smuggle in ruinous heresies, disowning even the Master who purchased them, and so will draw on themselves a sudden ruin.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Many will take up their licentious ways, and through them the way of the truth will be brought into disrepute."
+    },
+    {
+     "v": 3,
+     "text": "In their greed they will exploit you with fabricated words. Their condemnation, pronounced long ago, is not idle, and their destruction is not asleep."
+    },
+    {
+     "v": 4,
+     "text": "For if God did not spare angels when they sinned, but cast them into Tartarus and committed them to pits of gloom to be kept until the judgment;{b}"
+    },
+    {
+     "v": 5,
+     "text": "if he did not hold back from punishing the world of old, but kept Noah safe, a preacher of righteousness, together with seven others, when he let loose the flood upon a godless world;{c}"
+    },
+    {
+     "v": 6,
+     "text": "if by reducing the cities of Sodom and Gomorrah to ashes he condemned them, making them an example of what is coming for the ungodly;{d}"
+    },
+    {
+     "v": 7,
+     "text": "and if he rescued righteous Lot, who was worn down by the debauched conduct of lawless people{e}"
+    },
+    {
+     "v": 8,
+     "text": "(that good man, dwelling in their midst, was in anguish of soul from day to day at the lawless acts he witnessed and heard of),"
+    },
+    {
+     "v": 9,
+     "text": "then the Lord is well able to deliver the devout out of testing and to hold the wicked in custody for punishment on the day of judgment,"
+    },
+    {
+     "v": 10,
+     "text": "and above all those who chase after the flesh with polluted craving and treat lordship with contempt. ¶Insolent and headstrong, they have no fear in reviling the glorious ones,{f}"
+    },
+    {
+     "v": 11,
+     "text": "whereas angels, though greater in strength and power, do not bring a blasphemous judgment against them before the Lord.{g}"
+    },
+    {
+     "v": 12,
+     "text": "These people, though, are like brute beasts, mere creatures of nature, born to be trapped and killed; they rail at what they know nothing about, and like those beasts they will perish in their corruption,"
+    },
+    {
+     "v": 13,
+     "text": "being wronged as the reward of their own wrong. Indulgence in broad daylight is their idea of pleasure. They are spots and disgraces, luxuriating in their deceits even as they share your table.{h}"
+    },
+    {
+     "v": 14,
+     "text": "Their eyes are full of an adulteress and never stop sinning. They lure the unsteady. Their hearts are well practiced in greed. Children under a curse!"
+    },
+    {
+     "v": 15,
+     "text": "Forsaking the straight road, they have gone astray, following the road of Balaam son of Beor, who loved the wages of wrongdoing,{i}"
+    },
+    {
+     "v": 16,
+     "text": "but he was taken to task for his offense: a dumb beast of burden spoke in a man’s voice and checked the prophet’s folly."
+    },
+    {
+     "v": 17,
+     "text": "These people are waterless springs and mists driven by a storm. For them the gloom of darkness has been reserved.{j}"
+    },
+    {
+     "v": 18,
+     "text": "For, uttering loud boasts of folly, they entice by sensual desires of the flesh those who are barely escaping from people who live in error."
+    },
+    {
+     "v": 19,
+     "text": "Freedom is what they offer, while they are themselves in bondage to decay; for a person is the slave of whatever has mastered him."
+    },
+    {
+     "v": 20,
+     "text": "For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first.{k}"
+    },
+    {
+     "v": 21,
+     "text": "Better for them never to have come to know the road of righteousness than to know it and then turn their backs on the holy command handed down to them."
+    },
+    {
+     "v": 22,
+     "text": "In them the true proverb has come to pass: “The dog has gone back to what it threw up,” and, “The washed pig has gone back to roll in the mud.”{l}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Heresies: or “factions.” *Master*: Greek *despotēs*."
+    },
+    {
+     "m": "b",
+     "ref": "2:4",
+     "text": "Tartarus: in Greek myth, the deepest part of the underworld, where rebellious powers were confined; compare 1 Enoch 10:4–6; 20:2. *Pits*: Westcott and Hort read *sirois*, “pits,” with Sinaiticus, Alexandrinus and Vaticanus as reported; other manuscripts read *seirais*, “chains.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:5",
+     "text": "Gen 6–8. *Noah*: “rest.” *With seven others*: literally “as the eighth.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:6",
+     "text": "Gen 19:24–28. *Sodom* and *Gomorrah*: the meanings of the names are uncertain. *Of what is coming for the ungodly*: some manuscripts read “to those who would live ungodly lives.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:7",
+     "text": "*Lot*: perhaps “covering.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:10",
+     "text": "Glorious ones: Greek *doxai*, “glories,” probably angelic beings."
+    },
+    {
+     "m": "g",
+     "ref": "2:11",
+     "text": "Before the Lord: Westcott and Hort bracket these words; some manuscripts lack them. Compare Jude 9."
+    },
+    {
+     "m": "h",
+     "ref": "2:13",
+     "text": "Being wronged: Westcott and Hort read *adikoumenoi* with P72 and Vaticanus as reported; many manuscripts read *komioumenoi*, “receiving.” *Deceptions*: some manuscripts read “love feasts,” as in Jude 12."
+    },
+    {
+     "m": "i",
+     "ref": "2:15",
+     "text": "Num 22–24. *Balaam*: of uncertain meaning, perhaps “devourer.” *Beor*: perhaps “burning.” Some manuscripts read *Bosor*."
+    },
+    {
+     "m": "j",
+     "ref": "2:17",
+     "text": "Later manuscripts add “forever.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:20",
+     "text": "Compare Matt 12:45; Luke 11:26."
+    },
+    {
+     "m": "l",
+     "ref": "2:22",
+     "text": "Prov 26:11. The second saying is not from the Old Testament; a similar proverb appears in the story of Ahiqar."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    8,
+    11,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Dear friends, this is already my second letter to you, and in each I aim to rouse your pure minds by reminding you,{a}"
+    },
+    {
+     "v": 2,
+     "text": "so that you remember the words spoken beforehand by the holy prophets and the commandment of the Lord and Savior given through your apostles."
+    },
+    {
+     "v": 3,
+     "text": "Know this first of all, that in the last days scoffers will come with scoffing, following their own desires,"
+    },
+    {
+     "v": 4,
+     "text": "and saying, “Where is the promise of his coming? Since the fathers fell asleep, everything goes on as it has since the beginning of creation.”{b}"
+    },
+    {
+     "v": 5,
+     "text": "For they deliberately overlook this fact, that long ago the heavens existed and the earth was formed out of water and through water by the word of God,{c}"
+    },
+    {
+     "v": 6,
+     "text": "and that through these the world of that time was flooded with water and perished."
+    },
+    {
+     "v": 7,
+     "text": "But by the same word the present heavens and earth are being stored up for fire, kept until the day of judgment and destruction of the ungodly."
+    },
+    {
+     "v": 8,
+     "text": "Dear friends, do not let this one thing escape your notice: with the Lord a single day is as a thousand years, and a thousand years as a single day.{d}"
+    },
+    {
+     "v": 9,
+     "text": "The Lord is not slow to keep his promise, as some reckon slowness. He is patient toward you, not wanting anyone to be lost, but wanting all to find their way to repentance.{e}"
+    },
+    {
+     "v": 10,
+     "text": "But the day of the Lord will come like a thief, and on it the heavens will pass away with a roar, and the elements will be dissolved with burning heat, and the earth and the works in it will be found.{f}"
+    },
+    {
+     "v": 11,
+     "text": "Seeing that all these things are thus to be broken up, what kind of people must you be, living holy and godly lives,{g}"
+    },
+    {
+     "v": 12,
+     "text": "as you look for the day of God and speed its coming! On account of that day the heavens will be destroyed by fire, and the elements will melt away in the blaze.{h}"
+    },
+    {
+     "v": 13,
+     "text": "But according to his promise we are waiting for new heavens and a new earth, in which righteousness is at home.{i}"
+    },
+    {
+     "v": 14,
+     "text": "So, dear friends, since you are waiting for these things, be eager to be found by him without spot or blemish, at peace."
+    },
+    {
+     "v": 15,
+     "text": "Regard our Lord’s patience as your opportunity for salvation, as Paul too, our dear brother, has written to you with the wisdom granted to him,{j}"
+    },
+    {
+     "v": 16,
+     "text": "speaking of these matters as he does in every one of his letters. Some points in them are difficult to grasp, and untaught and unsteady people distort them, as they distort the rest of the scriptures, to their own ruin."
+    },
+    {
+     "v": 17,
+     "text": "Since you have been forewarned, then, dear friends, watch yourselves, lest you be swept off by the error of the lawless and fall from your own secure position."
+    },
+    {
+     "v": 18,
+     "text": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity.{k}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Second letter: perhaps referring to 1 Peter."
+    },
+    {
+     "m": "b",
+     "ref": "3:4",
+     "text": "The fathers: perhaps the ancestors of Israel, or the first generation of believers. *Fell asleep*: that is, died."
+    },
+    {
+     "m": "c",
+     "ref": "3:5",
+     "text": "Gen 1:2, 6–9."
+    },
+    {
+     "m": "d",
+     "ref": "3:8",
+     "text": "Ps 90:4 (Greek Old Testament 89:4)."
+    },
+    {
+     "m": "e",
+     "ref": "3:9",
+     "text": "Toward you: some manuscripts read “for your sake,” and later manuscripts “toward us.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:10",
+     "text": "Like a thief: compare Matt 24:43; 1 Thess 5:2. *Will be found*: Westcott and Hort read *heurethēsetai* with Sinaiticus and Vaticanus as reported, perhaps meaning “will be laid bare” before God’s judgment; they suspected an early error. Later manuscripts read “will be burned up”; others have “will not be found” or “will vanish.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:11",
+     "text": "You: Westcott and Hort bracket this word."
+    },
+    {
+     "m": "h",
+     "ref": "3:12",
+     "text": "Speed its coming: or “earnestly desire its coming.”"
+    },
+    {
+     "m": "i",
+     "ref": "3:13",
+     "text": "Isa 65:17; 66:22."
+    },
+    {
+     "m": "j",
+     "ref": "3:15",
+     "text": "*Paul*: Latin *Paulus*, “small.”"
+    },
+    {
+     "m": "k",
+     "ref": "3:18",
+     "text": "Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}
