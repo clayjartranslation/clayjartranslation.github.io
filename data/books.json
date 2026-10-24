@@ -789,8 +789,21 @@
    "name": "Isaiah",
    "division": "Old Testament",
    "chapterCount": "66",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "file": "data/books/isaiah.json"
   },
   {
    "id": "jeremiah",
