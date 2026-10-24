@@ -1,0 +1,1731 @@
+{
+ "id": "jeremiah",
+ "name": "Jeremiah",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex (the Masoretic Text, MT), checked against the Septuagint (LXX) through Brenton’s public-domain English translation. Jeremiah survives in two editions. The Old Greek is about one-eighth shorter than the Hebrew (commonly estimated at some 2,700 fewer words), and it arranges the book differently: the oracles against the nations (Hebrew chapters 46–51) stand in the middle of the book, after 25:13, as Greek chapters 25:14–31:44 (often cited as LXX chs. 26–51), in a different order of nations (Elam, Egypt, Babylon, Philistia, Edom, Ammon, Kedar, Damascus, Moab), and the rest of the book is renumbered. Among the Dead Sea Scrolls, two Cave 4 manuscripts (4QJer-b and 4QJer-d) are reported to agree with the shorter, LXX-type text, while 4QJer-a and 4QJer-c support the longer Masoretic edition; so both editions existed in Hebrew, and many scholars regard the shorter one as the earlier. This translation follows the Hebrew, in its order and verse numbering. Whole verses that Brenton’s Septuagint lacks are footnoted where they occur (for example 10:6–8, 10; 17:1–4; 33:14–26; 39:4–13; 52:28–30); smaller Greek minuses (repeated titles such as “says Yahweh,” “of Armies,” and doublets) are too many to list and are described in general terms. Where the Greek order differs, the note gives the Greek location as numbered in Brenton. Qumran readings are stated in general terms (“is reported to”) until checked against the critical edition. Much of Jeremiah is poetry and is printed line by line; prose narrative and sermons are printed as paragraphs. Calendar months are given with their modern equivalents and footnoted. The Hebrew name of God, YHWH, is written “Yahweh”; “Yahweh of Armies” renders YHWH Sabaoth (see the note at 2:19).",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    4,
+    9,
+    11,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The words of Jeremiah{a} the son of Hilkiah,{b} of the priests who were in Anathoth{c} in the land of Benjamin,"
+    },
+    {
+     "v": 2,
+     "text": "to whom the word of Yahweh came in the days of Josiah{d} the son of Amon, king of Judah, in the thirteenth year of his reign.{e}"
+    },
+    {
+     "v": 3,
+     "text": "It came also in the days of Jehoiakim{f} the son of Josiah, king of Judah, until the end of the eleventh year of Zedekiah{g} the son of Josiah, king of Judah, until the carrying away of Jerusalem into exile in the fifth month (in July–August).{h}"
+    },
+    {
+     "v": 4,
+     "text": "Now the word of Yahweh came to me, saying,"
+    },
+    {
+     "v": 5,
+     "text": "“Before I formed you in the belly I knew you,\nand before you came out from the womb I set you apart;\na prophet to the nations I appointed you.”"
+    },
+    {
+     "v": 6,
+     "text": "Then I said, “Ah, Lord Yahweh!{i} See, I do not know how to speak,\nfor I am a youth.”"
+    },
+    {
+     "v": 7,
+     "text": "Yet Yahweh answered me,\n“Say not, ‘A youth am I’;\nfor wherever I send you, there you must go,\nand whatever I bid you, that you must speak."
+    },
+    {
+     "v": 8,
+     "text": "Be not afraid of their faces,\nfor with you am I to deliver you,” declares Yahweh."
+    },
+    {
+     "v": 9,
+     "text": "Then Yahweh put forth his hand and touched my mouth, and Yahweh said to me,\n“See, I have put my words in your mouth."
+    },
+    {
+     "v": 10,
+     "text": "See, I have set you this day over the nations and over the kingdoms,\nto pluck up and to pull down,\nto destroy and to overthrow,\nto build and to plant.”"
+    },
+    {
+     "v": 11,
+     "text": "And the word of Yahweh came to me, saying, “What do you see, Jeremiah?” And I said, “A branch of an almond tree{j} I see.”"
+    },
+    {
+     "v": 12,
+     "text": "Then Yahweh said to me, “You have seen well, for I am watching{k} over my word to perform it.”"
+    },
+    {
+     "v": 13,
+     "text": "And the word of Yahweh came to me a second time, saying, “What do you see?” And I said, “A boiling pot I see, and its face is turned away from the north.”{l}"
+    },
+    {
+     "v": 14,
+     "text": "Then Yahweh said to me, “Out of the north disaster shall break loose upon all the inhabitants of the land."
+    },
+    {
+     "v": 15,
+     "text": "For see, I am calling all the clans of the kingdoms of the north,” declares Yahweh, “and they shall come, and each shall set his throne at the entrance of the gates of Jerusalem, against all its walls round about, and against all the cities of Judah."
+    },
+    {
+     "v": 16,
+     "text": "And I will speak my judgments against them for all their evil, in that they have forsaken me and have burned incense{m} to other gods and bowed down to the works of their own hands."
+    },
+    {
+     "v": 17,
+     "text": "But you, gird up your loins; arise and speak to them all that I command you. Be not dismayed before them, lest I dismay you before them."
+    },
+    {
+     "v": 18,
+     "text": "And I—see, I have made you this day a fortified city, and a pillar of iron, and walls of bronze against the whole land, against the kings of Judah, against its princes, against its priests, and against the people of the land."
+    },
+    {
+     "v": 19,
+     "text": "And they will fight against you, but they shall not prevail against you, for with you am I,” declares Yahweh, “to deliver you.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Jeremiah (Hebrew Yirmeyahu) probably means “Yahweh exalts” or “Yahweh founds”; the meaning is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Hilkiah means “My portion is Yahweh.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Anathoth, a priestly town about 3 miles (5 kilometers) northeast of Jerusalem (Joshua 21:18); Abiathar the priest was banished there (1 Kings 2:26)."
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Josiah probably means “Yahweh supports” or “Yahweh heals”; uncertain."
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "That is, about 627 B.C."
+    },
+    {
+     "m": "f",
+     "ref": "1:3",
+     "text": "Jehoiakim means “Yahweh raises up.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:3",
+     "text": "Zedekiah means “Yahweh is righteousness.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:3",
+     "text": "Hebrew “the fifth month,” Av, counted from the spring new year; that is, in 586 B.C. (see 52:12). The modern equivalent is approximate, since the Hebrew year was lunar."
+    },
+    {
+     "m": "i",
+     "ref": "1:6",
+     "text": "Hebrew Adonai Yahweh. The Septuagint reads “O Lord, you that are supreme Lord” (Brenton, modernized)."
+    },
+    {
+     "m": "j",
+     "ref": "1:11",
+     "text": "Hebrew shaqed, “almond tree,” sounds like shoqed, “watching” (verse 12). The almond was called “the watcher” or “the wakeful tree” because it blossoms first in the year."
+    },
+    {
+     "m": "k",
+     "ref": "1:12",
+     "text": "Hebrew shoqed; see the note at verse 11. The Septuagint reads “I have watched over my words to perform them” (Brenton)."
+    },
+    {
+     "m": "l",
+     "ref": "1:13",
+     "text": "Or “tilted away from the north,” that is, about to pour out toward the south."
+    },
+    {
+     "m": "m",
+     "ref": "1:16",
+     "text": "Or “made offerings go up in smoke.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    4,
+    9,
+    14,
+    20,
+    26,
+    29,
+    33
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "And the word of Yahweh came to me, saying,{a}"
+    },
+    {
+     "v": 2,
+     "text": "“Go and cry in the ears of Jerusalem, saying, ‘Thus says Yahweh:\nI remember for you the devotion{b} of your youth,\nthe love of your bridal days,\nyour going after me in the wilderness,\nin a land not sown."
+    },
+    {
+     "v": 3,
+     "text": "Holy was Israel to Yahweh,\nthe firstfruits of his harvest;\nall who devoured him were held guilty;\ndisaster came upon them,’ declares Yahweh.”"
+    },
+    {
+     "v": 4,
+     "text": "Hear the word of Yahweh, O house of Jacob,\nand all the clans of the house of Israel."
+    },
+    {
+     "v": 5,
+     "text": "Thus has Yahweh spoken:\n“What fault did your forefathers detect in me,\nthat far from me they strayed,\npursued what is vapor,{c} and turned to vapor?"
+    },
+    {
+     "v": 6,
+     "text": "And they did not say, ‘Where is Yahweh,\nwho brought us up from the land of Egypt,\nwho led us in the wilderness,\nin a land of deserts and pits,\nin a land of drought and deep darkness,\nin a land through which no man passed\nand where no human being dwelt?’"
+    },
+    {
+     "v": 7,
+     "text": "And I brought you into a land of orchards,{d}\nto eat its fruit and its good things;\nbut you came in and defiled my land,\nand my heritage you made an abomination."
+    },
+    {
+     "v": 8,
+     "text": "The priests never asked, ‘Where is Yahweh?’\nThose who wield the law knew me not;\nthe shepherds{e} rebelled against me;\nthe prophets spoke by Baal{f}\nand pursued what brings no gain."
+    },
+    {
+     "v": 9,
+     "text": "“Therefore I will yet contend with you,” declares Yahweh,\n“and with your children’s children I will contend."
+    },
+    {
+     "v": 10,
+     "text": "For cross over to the coasts of Kittim{g} and see,\nand send to Kedar{h} and consider diligently,\nand see if there has been such a thing as this."
+    },
+    {
+     "v": 11,
+     "text": "Has a nation exchanged its gods,\neven though they are no gods?\nYet my people have exchanged their glory{i}\nfor that which does not profit."
+    },
+    {
+     "v": 12,
+     "text": "Be appalled, O heavens, at this;\nshudder, be utterly desolate,” declares Yahweh,"
+    },
+    {
+     "v": 13,
+     "text": "“for two evils my people have committed:\nme they have forsaken,\nthe fountain of living waters,\nto hew out for themselves cisterns,\nbroken cisterns, which cannot hold water."
+    },
+    {
+     "v": 14,
+     "text": "“Is Israel a bondman? Or one born in the household?\nWhy then has he become spoil?"
+    },
+    {
+     "v": 15,
+     "text": "Over him the young lions have roared;\nthey have lifted up their voice.\nThey have made his land a waste;\nhis cities are burned, without inhabitant."
+    },
+    {
+     "v": 16,
+     "text": "Also the men of Noph{j} and Tahpanhes{k}\nhave grazed{l} the crown of your head."
+    },
+    {
+     "v": 17,
+     "text": "Is not this your own doing,\nin abandoning Yahweh your God\nwhen he guided you on the road?"
+    },
+    {
+     "v": 18,
+     "text": "And now, what have you to do with the road to Egypt,\nto drink the waters of the Shihor?{m}\nOr what have you to do with the road to Assyria,\nto drink the waters of the River?{n}"
+    },
+    {
+     "v": 19,
+     "text": "Your own evil will discipline you,\nand your turnings away will rebuke you.\nKnow then and see that it is evil and bitter\nfor you to forsake Yahweh your God;\nthe dread of me is not in you,”\ndeclares the Lord Yahweh of Armies.{o}"
+    },
+    {
+     "v": 20,
+     "text": "“For long ago you broke your yoke\nand tore off your bonds,\nand you said, ‘I will not serve.’\nFor on every high hill\nand under every green tree\nyou sprawled as a harlot."
+    },
+    {
+     "v": 21,
+     "text": "Yet I had planted you a choice vine,\nwholly of true seed.\nHow then have you turned yourself into\nthe degenerate shoots of a foreign vine before me?"
+    },
+    {
+     "v": 22,
+     "text": "For though you wash with lye\nand use for yourself much soap,\nthe stain of your iniquity is before me,”\ndeclares the Lord Yahweh."
+    },
+    {
+     "v": 23,
+     "text": "“How can you say, ‘I am not defiled;\nafter the Baals I have not gone’?\nSee your way in the valley;{p}\nknow what you have done—\na swift young she-camel\nrunning crisscross on her paths,"
+    },
+    {
+     "v": 24,
+     "text": "a wild donkey used to the wilderness,\nin the lust of her soul sniffing the wind!\nIn her heat who can turn her back?\nAll who seek her need not weary themselves;\nin her month they will find her."
+    },
+    {
+     "v": 25,
+     "text": "Keep your foot from going unshod\nand your throat from thirst.\nBut you said, ‘It is hopeless!\nNo, for I have loved strangers,\nand after them I will go.’"
+    },
+    {
+     "v": 26,
+     "text": "“As a thief is shamed when he is caught,\nso the house of Israel is shamed—\nthey, their kings, their princes,\ntheir priests, and their prophets—"
+    },
+    {
+     "v": 27,
+     "text": "who say to a tree, ‘You are my father,’\nand to a stone, ‘You gave birth to me.’\nFor they have turned to me their back, and not their face;\nbut in the time of their trouble they say,\n‘Arise and save us!’"
+    },
+    {
+     "v": 28,
+     "text": "Where then are those gods you made for yourself?\nUp with them, if they can rescue you\nwhen trouble comes;\nfor your gods have grown as many\nas your towns, O Judah.{q}"
+    },
+    {
+     "v": 29,
+     "text": "“Why do you contend with me?\nAll of you have transgressed against me,” declares Yahweh."
+    },
+    {
+     "v": 30,
+     "text": "“To no purpose I smote your sons;\ncorrection they would not receive.\nYour sword consumed your prophets\nlike a ravaging lion."
+    },
+    {
+     "v": 31,
+     "text": "O generation, you—see the word of Yahweh!\nHave I been a wilderness to Israel,\nor a land of thick darkness?{r}\nWhy do my people say, ‘We roam free;\nwe will come to you no more’?"
+    },
+    {
+     "v": 32,
+     "text": "Can a virgin forget her ornaments,\nor a bride her sash?\nYet my people have forgotten me\ndays without number."
+    },
+    {
+     "v": 33,
+     "text": "“How well you direct your way to seek love!\nTherefore even the wicked women\nyou have taught your ways."
+    },
+    {
+     "v": 34,
+     "text": "Even in your skirts is found\nthe blood of the guiltless poor;\nnot as housebreakers did you find them.{s}\nYet in spite of all this"
+    },
+    {
+     "v": 35,
+     "text": "you say, ‘I am innocent;\nsurely his anger has turned from me.’\nSee, I will enter into judgment with you\nbecause you say, ‘I have not sinned.’"
+    },
+    {
+     "v": 36,
+     "text": "How lightly you go about,\nchanging your way!\nBy Egypt also you shall be put to shame,\nas you were put to shame by Assyria."
+    },
+    {
+     "v": 37,
+     "text": "From there also you shall go out\nwith your hands upon your head;{t}\nfor Yahweh has rejected those in whom you trust,\nand you shall not prosper through them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "The Septuagint lacks verse 1 and the opening words of verse 2, reading simply “And he said, Thus says the Lord” (Brenton, modernized)."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "Hebrew ḥesed, loyal love or covenant faithfulness."
+    },
+    {
+     "m": "c",
+     "ref": "2:5",
+     "text": "Hebrew hevel, “vapor” or “breath,” often used of idols; the verb that follows plays on it."
+    },
+    {
+     "m": "d",
+     "ref": "2:7",
+     "text": "Hebrew “a land of the Carmel,” that is, a garden land."
+    },
+    {
+     "m": "e",
+     "ref": "2:8",
+     "text": "That is, the rulers."
+    },
+    {
+     "m": "f",
+     "ref": "2:8",
+     "text": "Baal, “lord” or “master,” the Canaanite storm god."
+    },
+    {
+     "m": "g",
+     "ref": "2:10",
+     "text": "Kittim, originally Kition on Cyprus; here the western islands and coastlands generally."
+    },
+    {
+     "m": "h",
+     "ref": "2:10",
+     "text": "Kedar, a tribe of the Arabian desert to the east; so the verse means “search from west to east.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:11",
+     "text": "An ancient Jewish tradition counts this as one of the “corrections of the scribes,” the original reading being “my glory.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:16",
+     "text": "Noph is Memphis, the ancient capital of Lower Egypt."
+    },
+    {
+     "m": "k",
+     "ref": "2:16",
+     "text": "Tahpanhes, an Egyptian frontier fortress in the eastern Nile Delta; see 43:7–9."
+    },
+    {
+     "m": "l",
+     "ref": "2:16",
+     "text": "Or “have shaved” or “have broken”; the Hebrew is uncertain."
+    },
+    {
+     "m": "m",
+     "ref": "2:18",
+     "text": "Shihor, a branch of the Nile, or the Nile itself; the Septuagint has “Geon” (Brenton)."
+    },
+    {
+     "m": "n",
+     "ref": "2:18",
+     "text": "That is, the Euphrates."
+    },
+    {
+     "m": "o",
+     "ref": "2:19",
+     "text": "Hebrew Adonai YHWH Tsevaʾot. “Yahweh of Armies” (traditionally “the LORD of hosts”) presents God as commander of the heavenly armies and of Israel’s forces. This title occurs more than 80 times in the Hebrew of Jeremiah; the Septuagint very often lacks “of Armies,” and here reads “says the Lord your God” (Brenton, modernized)."
+    },
+    {
+     "m": "p",
+     "ref": "2:23",
+     "text": "Probably the Valley of Ben-hinnom (see 7:31); the Septuagint reads “the burial-ground” (Brenton)."
+    },
+    {
+     "m": "q",
+     "ref": "2:28",
+     "text": "The Septuagint adds, “and according to the number of the streets of Jerusalem they sacrificed to Baal” (Brenton); compare 11:13."
+    },
+    {
+     "m": "r",
+     "ref": "2:31",
+     "text": "Or “a land of deep gloom,” Hebrew maʾpelyah, found only here."
+    },
+    {
+     "m": "s",
+     "ref": "2:34",
+     "text": "That is, they were not burglars caught in the act, whom it would have been lawful to kill (Exodus 22:2)."
+    },
+    {
+     "m": "t",
+     "ref": "2:37",
+     "text": "A gesture of grief and shame (2 Samuel 13:19)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    6,
+    11,
+    19,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“If a man sends away his wife,{a}\nand she goes from him\nand becomes another man’s,\nwill he return to her again?\nWould not that land be greatly polluted?\nBut you have played the harlot with many lovers;\nand would you return to me?” declares Yahweh."
+    },
+    {
+     "v": 2,
+     "text": "“Lift up your eyes to the bare heights{b} and see:\nwhere have you not been lain with?\nBeside the roads you have sat waiting for them,\nlike an Arab{c} in the wilderness,\nand you have polluted the land\nwith your harlotries and your wickedness."
+    },
+    {
+     "v": 3,
+     "text": "Therefore the showers have been withheld,\nand the spring rain{d} has not come.\nYet the forehead of a harlot woman was yours;\nyou refused to be ashamed."
+    },
+    {
+     "v": 4,
+     "text": "Have you not just now cried to me,\n‘My father, the companion of my youth are you!"
+    },
+    {
+     "v": 5,
+     "text": "Will he keep his anger forever?\nWill he guard it to the end?’\nSee, so you have spoken,\nyet you have done all the evil that you could.”"
+    },
+    {
+     "v": 6,
+     "text": "And Yahweh said to me in the days of Josiah the king, “Have you seen what she did, faithless Israel?{e} She went up on every high mountain and under every green tree, and there played the harlot."
+    },
+    {
+     "v": 7,
+     "text": "And I said, after she had done all these things, ‘To me she will return’; but she did not return. And her treacherous sister Judah saw it."
+    },
+    {
+     "v": 8,
+     "text": "And I saw that, because faithless Israel had committed adultery, I had dismissed her and handed her a writ of divorce; yet Judah her treacherous sister felt no fear, but went off and played the harlot as well."
+    },
+    {
+     "v": 9,
+     "text": "And through the lightness of her harlotry she polluted the land, committing adultery with stone and with tree."
+    },
+    {
+     "v": 10,
+     "text": "And yet for all this her treacherous sister Judah did not return to me with her whole heart, but in falsehood,” declares Yahweh."
+    },
+    {
+     "v": 11,
+     "text": "Then Yahweh said to me, “Faithless Israel has shown herself more righteous than treacherous Judah."
+    },
+    {
+     "v": 12,
+     "text": "Go and proclaim these words toward the north, and say,\n‘Return, faithless Israel,’ declares Yahweh;\n‘I will not let my face fall upon you in anger,\nfor faithful am I,’ declares Yahweh;\n‘I will not keep anger forever."
+    },
+    {
+     "v": 13,
+     "text": "Only acknowledge your iniquity,\nthat against Yahweh your God you have transgressed,\nand have scattered your ways to strangers\nunder every green tree,\nand my voice you have not obeyed,’ declares Yahweh."
+    },
+    {
+     "v": 14,
+     "text": "Return, O faithless children,” declares Yahweh, “for I am your husband;{f} and I will take you, one from a city and two from a clan, and I will bring you to Zion."
+    },
+    {
+     "v": 15,
+     "text": "And I will grant you shepherds suited to my heart, who will pasture you with knowledge and insight."
+    },
+    {
+     "v": 16,
+     "text": "And when you have increased and borne fruit in the land, in those days,” declares Yahweh, “men will speak no more of ‘the ark of Yahweh’s covenant.’ It will not rise in the mind; they will neither recall it nor miss it, nor will another be made."
+    },
+    {
+     "v": 17,
+     "text": "At that time they shall call Jerusalem ‘The Throne of Yahweh,’ and all the nations shall be gathered to it, to the name of Yahweh, to Jerusalem; and they shall walk no more after the stubbornness of their evil heart."
+    },
+    {
+     "v": 18,
+     "text": "In those days Judah’s house shall walk alongside Israel’s house, and together they shall come out of the northern land into the land that I bestowed on your fathers as a possession."
+    },
+    {
+     "v": 19,
+     "text": "“And I had thought,\n‘How gladly would I place you with my sons,\nand grant you a delightful land,\nthe loveliest inheritance among the nations!’\nAnd I thought you would call me ‘My Father,’\nand never turn back from following me."
+    },
+    {
+     "v": 20,
+     "text": "Surely, as a wife treacherously leaves her companion,\nso have you dealt treacherously with me, O house of Israel,” declares Yahweh."
+    },
+    {
+     "v": 21,
+     "text": "On the bare heights a cry is heard,\nIsrael’s sons weeping and entreating,\nfor they have twisted their way;\nYahweh their God they have forgotten."
+    },
+    {
+     "v": 22,
+     "text": "“Return, O faithless sons;\nI will heal your faithlessness.”\n“See, we have come to you,\nfor you are Yahweh our God."
+    },
+    {
+     "v": 23,
+     "text": "Truly, a delusion are the hills,\nthe tumult on the mountains;\ntruly in Yahweh our God\nis the salvation of Israel."
+    },
+    {
+     "v": 24,
+     "text": "But the shameful thing{g} has devoured\nthe labor of our fathers from our youth,\ntheir flocks and their herds,\ntheir sons and their daughters."
+    },
+    {
+     "v": 25,
+     "text": "Let us lie down in our shame,\nand let our disgrace cover us;\nfor against Yahweh our God we have sinned,\nwe and our fathers,\nfrom our youth even to this day,\nand we have not obeyed the voice of Yahweh our God.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Hebrew begins “Saying,” perhaps a fragment of a lost introduction. The law of Deuteronomy 24:1–4 forbids a man to take back a divorced wife who has married another."
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "Hebrew shefayim, bare hills, places of pagan worship; also in verse 21."
+    },
+    {
+     "m": "c",
+     "ref": "3:2",
+     "text": "That is, a desert nomad lying in wait to rob travelers."
+    },
+    {
+     "m": "d",
+     "ref": "3:3",
+     "text": "Hebrew malqosh, the spring rain of March–April that ripens the grain."
+    },
+    {
+     "m": "e",
+     "ref": "3:6",
+     "text": "Hebrew meshuvah yisraʾel, literally “turning-away Israel,” the northern kingdom, exiled by Assyria in 722 B.C. Jeremiah plays repeatedly on shuv, “turn, return” (verses 12, 14, 22)."
+    },
+    {
+     "m": "f",
+     "ref": "3:14",
+     "text": "Or “I am your master”; Hebrew baʿalti, a play on Baal."
+    },
+    {
+     "m": "g",
+     "ref": "3:24",
+     "text": "Hebrew habbosheth, “the Shame,” a contemptuous substitute for Baal (compare 11:13)."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    3,
+    5,
+    11,
+    19,
+    23,
+    27,
+    29
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“If you return, O Israel,” declares Yahweh,\n“to me you should return.\nIf you put away your abominations from before me,\nand do not waver,"
+    },
+    {
+     "v": 2,
+     "text": "and if you swear, ‘As Yahweh lives,’\nin truth, in justice, and in righteousness,\nthen nations shall bless themselves in him,\nand in him shall they glory.”"
+    },
+    {
+     "v": 3,
+     "text": "For thus says Yahweh to the men of Judah and to Jerusalem:\n“Break up your fallow ground,\nand do not sow among thorns."
+    },
+    {
+     "v": 4,
+     "text": "Circumcise yourselves to Yahweh;\nremove the foreskins of your hearts,\nO men of Judah and inhabitants of Jerusalem,\nlest my wrath go forth like fire\nand burn with none to quench it,\nbecause of the evil of your deeds.”"
+    },
+    {
+     "v": 5,
+     "text": "Declare in Judah, and in Jerusalem proclaim, and say,\n“Blow the ram’s horn in the land;\ncry aloud and say,\n‘Assemble, and let us go\ninto the fortified cities!’"
+    },
+    {
+     "v": 6,
+     "text": "Raise a signal toward Zion;\nflee for safety; do not stand still,\nfor I am bringing disaster from the north,\nand a great destruction."
+    },
+    {
+     "v": 7,
+     "text": "Up from his thicket the lion has gone,\nthe ravager of nations is on the march;\nout from his place he has come\nto turn your land into a waste;\nyour towns shall lie in ruins, empty of people."
+    },
+    {
+     "v": 8,
+     "text": "For this gird on sackcloth;\nlament and wail,\nfor the fierce anger of Yahweh\nhas not turned back from us.”"
+    },
+    {
+     "v": 9,
+     "text": "“And it shall come to pass in that day,” declares Yahweh, “that the heart of the king shall fail, and the heart of the princes; the priests shall be appalled, and the prophets astounded.”"
+    },
+    {
+     "v": 10,
+     "text": "Then I said, “Ah, Lord Yahweh! Surely you have utterly deceived this people and Jerusalem, saying, ‘Peace shall be yours,’ whereas the sword has reached to the very life.”{a}"
+    },
+    {
+     "v": 11,
+     "text": "At that time it shall be said to this people and to Jerusalem,\n“A scorching wind from the bare heights in the wilderness\ncomes toward the daughter of my people,\nnot to winnow nor to cleanse,"
+    },
+    {
+     "v": 12,
+     "text": "a wind too strong for these comes at my bidding.\nNow I also will speak judgments against them.”"
+    },
+    {
+     "v": 13,
+     "text": "See, like clouds he comes up,\nand like the whirlwind his chariots;\nswifter than eagles are his horses.\nWoe to us, for we are ruined!"
+    },
+    {
+     "v": 14,
+     "text": "Wash your heart from wickedness, O Jerusalem,\nthat you may be saved.\nHow long shall your wicked thoughts\nlodge within you?"
+    },
+    {
+     "v": 15,
+     "text": "For hark, one tells it from Dan,\nand announces evil from the hills of Ephraim:{b}"
+    },
+    {
+     "v": 16,
+     "text": "“Warn the nations, see!\nProclaim against Jerusalem:\nbesiegers{c} come from a distant land;\nthey lift their voice against the cities of Judah."
+    },
+    {
+     "v": 17,
+     "text": "Like keepers of a field they are against her round about,\nbecause against me she has rebelled,” declares Yahweh."
+    },
+    {
+     "v": 18,
+     "text": "“Your way and your deeds\nhave brought these things upon you.\nThis is your evil; how bitter it is!\nHow it reaches to your heart!”"
+    },
+    {
+     "v": 19,
+     "text": "My bowels, my bowels!{d} I writhe in pain!\nO the walls of my heart!\nMy heart moans within me;\nI cannot keep silent,\nfor the sound of the ram’s horn you have heard, O my soul,\nthe alarm of war."
+    },
+    {
+     "v": 20,
+     "text": "Disaster upon disaster is proclaimed,\nfor the whole land is laid waste.\nSuddenly my tents are laid waste,\nin a moment my curtains."
+    },
+    {
+     "v": 21,
+     "text": "How long must I see the signal\nand hear the sound of the ram’s horn?"
+    },
+    {
+     "v": 22,
+     "text": "“For my people are foolish;\nme they do not know.\nSenseless children are they,\nand they have no understanding.\nWise are they to do evil,\nbut to do good they know not.”"
+    },
+    {
+     "v": 23,
+     "text": "I looked on the earth, and see, it was formless and void;{e}\nand to the heavens, and their light was gone."
+    },
+    {
+     "v": 24,
+     "text": "I looked on the mountains, and see, they were quaking,\nand all the hills moved to and fro."
+    },
+    {
+     "v": 25,
+     "text": "I looked, and see, there was no man,\nand all the birds of the heavens had fled."
+    },
+    {
+     "v": 26,
+     "text": "I looked, and see, the garden land{f} was a wilderness,\nand all its cities were broken down\nbefore Yahweh, before his fierce anger."
+    },
+    {
+     "v": 27,
+     "text": "For thus says Yahweh:\n“A desolation shall the whole land be;\nyet a full end I will not make."
+    },
+    {
+     "v": 28,
+     "text": "Because of this the land shall mourn,\nand the sky above grow black;\nfor I have spoken it, I have determined it;\nI will not relent, nor will I draw back.”"
+    },
+    {
+     "v": 29,
+     "text": "At the noise of horseman and archer\nevery city flees;\nthey go into thickets;\nthey climb among the rocks;\nevery city is forsaken,\nand no man dwells in them."
+    },
+    {
+     "v": 30,
+     "text": "And you, O desolate one, what will you do?\nThough you clothe yourself in scarlet,\nthough you adorn yourself with ornaments of gold,\nthough you enlarge your eyes with paint,{g}\nin vain you make yourself beautiful.\nYour lovers despise you;\nthey seek your life."
+    },
+    {
+     "v": 31,
+     "text": "For I hear a cry as of one in travail,\ndistress as of one bringing forth her firstborn,\nthe cry of Zion’s daughter, panting,\nspreading her hands:\n“Ah me! My life is failing\nbefore the slayers.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:10",
+     "text": "The Septuagint reads “And I said, O sovereign Lord, truly you have greatly deceived this people” (Brenton, modernized); some ancient witnesses read “And they shall say,” making the words those of the priests and prophets."
+    },
+    {
+     "m": "b",
+     "ref": "4:15",
+     "text": "Dan is at the far north of the land; the hill country of Ephraim lies just north of Jerusalem: the invader draws nearer."
+    },
+    {
+     "m": "c",
+     "ref": "4:16",
+     "text": "Hebrew notsrim, “watchers” or “besiegers”; a slight change of vowels gives “enemies.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:19",
+     "text": "Hebrew “My inward parts,” regarded as the seat of the emotions."
+    },
+    {
+     "m": "e",
+     "ref": "4:23",
+     "text": "Hebrew tohu wavohu, the words of Genesis 1:2."
+    },
+    {
+     "m": "f",
+     "ref": "4:26",
+     "text": "Hebrew “the Carmel,” the fruitful land."
+    },
+    {
+     "m": "g",
+     "ref": "4:30",
+     "text": "Hebrew puk, a black eye-paint made of antimony or galena."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    7,
+    10,
+    14,
+    18,
+    20,
+    30
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Run to and fro through Jerusalem’s streets,\nand look, I pray, and take note;\nsearch through her open squares,\nwhether you can find a man,\nwhether there is one who does justice,\nwho seeks faithfulness,\nthat I may pardon her."
+    },
+    {
+     "v": 2,
+     "text": "Though they say, “As Yahweh lives,”\nyet falsely do they swear."
+    },
+    {
+     "v": 3,
+     "text": "O Yahweh, do not your eyes look for faithfulness?\nYou struck them, but they felt no grief;\nyou consumed them, but they refused to accept correction.\nHarder than rock they made their faces;\nthey refused to turn back."
+    },
+    {
+     "v": 4,
+     "text": "Then I said, “Surely these are only the poor;\nthey act foolishly,\nfor they know not Yahweh’s way,\nthe judgment of their God."
+    },
+    {
+     "v": 5,
+     "text": "I will get me to the great ones\nand speak with them,\nfor they know Yahweh’s way,\nthe judgment of their God.”\nBut these too had all alike shattered the yoke;\nthey had snapped the bonds."
+    },
+    {
+     "v": 6,
+     "text": "Therefore a lion from the forest shall slay them;\na wolf of the desert plains shall ravage them;\na leopard keeps watch over their towns;\nwhoever goes out of them shall be torn in pieces,\nbecause their transgressions are many,\nmighty their acts of turning away."
+    },
+    {
+     "v": 7,
+     "text": "“Why should I pardon you for this?\nYour sons have forsaken me\nand sworn by what are no gods.\nWhen I fed them to the full, they committed adultery\nand trooped to the harlot’s house."
+    },
+    {
+     "v": 8,
+     "text": "Well-fed stallions, lusty,{a} they have become;\neach neighs after his neighbor’s wife."
+    },
+    {
+     "v": 9,
+     "text": "Shall I not punish them for these things?” declares Yahweh;\n“and on a nation such as this\nshall my soul not take vengeance?"
+    },
+    {
+     "v": 10,
+     "text": "“Go up among her terraced vines and ruin them,\nyet do not finish her off;\nlop away her tendrils,\nfor they belong not to Yahweh."
+    },
+    {
+     "v": 11,
+     "text": "For utterly faithless to me have they been,\nthe house of Israel and the house of Judah,” declares Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "They have lied about Yahweh\nand said, “It is not he;{b}\nno harm shall come upon us,\nnor shall we see sword or famine."
+    },
+    {
+     "v": 13,
+     "text": "The prophets shall turn to wind;\nthe word is not in them.\nSo be it done to them!”"
+    },
+    {
+     "v": 14,
+     "text": "Therefore thus says Yahweh, the God of Armies:\n“Because you have spoken this word,\nsee, I am making my words in your mouth a fire,\nand this people wood, and it shall consume them."
+    },
+    {
+     "v": 15,
+     "text": "See, I am bringing upon you a nation from afar, O house of Israel,” declares Yahweh.\n“It is an enduring nation;\nit is an ancient nation,\na nation whose tongue you know not,\nnor can you understand what they say."
+    },
+    {
+     "v": 16,
+     "text": "Their quiver is a gaping tomb;\nwarriors, every one of them.{c}"
+    },
+    {
+     "v": 17,
+     "text": "Your crops and your bread they will devour;\nyour sons and daughters they will devour;\nyour sheep and cattle they will devour;\nyour vine and fig they will devour;\nthe walled towns you rely on\nthey will batter down with the sword."
+    },
+    {
+     "v": 18,
+     "text": "“Yet even in those days,” declares Yahweh, “I will not make a full end of you."
+    },
+    {
+     "v": 19,
+     "text": "And when they say, ‘For what reason has Yahweh our God done all these things to us?’ you shall say to them, ‘Just as you abandoned me and served foreign gods in your own land, so shall you serve strangers in a land not your own.’"
+    },
+    {
+     "v": 20,
+     "text": "“Announce this among Jacob’s house;\nmake it heard in Judah, and say:"
+    },
+    {
+     "v": 21,
+     "text": "‘Hear now this, O foolish and heartless people,\nwho have eyes, yet see not,\nwho have ears, yet hear not."
+    },
+    {
+     "v": 22,
+     "text": "Will you not fear me?’ declares Yahweh.\n‘Before me will you not tremble?\nI placed the sand as the bound of the sea,\na perpetual decree it cannot pass;\nthough its waves toss, they cannot prevail;\nthough they roar, they cannot pass over it."
+    },
+    {
+     "v": 23,
+     "text": "But this people has a heart both obstinate and defiant;\nthey have veered off and departed."
+    },
+    {
+     "v": 24,
+     "text": "Never do they say within themselves,\n“Come, let us fear Yahweh our God,\nwho sends rain at its proper time,\nthe early and the later showers,{d}\nwho guards for our sake\nthe fixed weeks of reaping.”"
+    },
+    {
+     "v": 25,
+     "text": "Your iniquities have turned these away,\nand your sins have withheld the good from you."
+    },
+    {
+     "v": 26,
+     "text": "For among my people are found wicked men;\nthey watch like fowlers who crouch;{e}\nthey set a trap;\nmen they catch."
+    },
+    {
+     "v": 27,
+     "text": "Like a cage full of birds,\nso are their houses full of deceit;\ntherefore they have become great and grown rich."
+    },
+    {
+     "v": 28,
+     "text": "They have grown fat and sleek;\nthey also overpass in deeds of evil;\nthey plead not the cause, the cause of the fatherless, that they may prosper,\nand the right of the needy they do not defend."
+    },
+    {
+     "v": 29,
+     "text": "Shall I not punish them for these things?’ declares Yahweh;\n‘and on a nation such as this\nshall my soul not take vengeance?’"
+    },
+    {
+     "v": 30,
+     "text": "“A horrible and appalling thing\nhas come to pass in the land:"
+    },
+    {
+     "v": 31,
+     "text": "the prophets prophesy falsely,\nand the priests rule at their direction;{f}\nand my people love it so.\nBut what will you do at its end?”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:8",
+     "text": "Hebrew meshakim, of uncertain meaning; perhaps “well-equipped” or “lusty.”"
+    },
+    {
+     "m": "b",
+     "ref": "5:12",
+     "text": "Or “He will do nothing.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:16",
+     "text": "The Septuagint lacks “Their quiver is like an open grave,” reading only “They are all mighty men” (Brenton, modernized)."
+    },
+    {
+     "m": "d",
+     "ref": "5:24",
+     "text": "Hebrew yoreh, the autumn rain (October–November), and malqosh, the spring rain (March–April)."
+    },
+    {
+     "m": "e",
+     "ref": "5:26",
+     "text": "The Hebrew of this line is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "5:31",
+     "text": "Or “rule by their own authority”; Hebrew “by their hands.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    6,
+    9,
+    10,
+    16,
+    22,
+    27
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Flee for safety, O sons of Benjamin,\nout of the midst of Jerusalem!\nIn Tekoa{a} blow the ram’s horn,\nand over Beth-haccherem{b} raise a signal,\nfor disaster looms out of the north,\nand great destruction."
+    },
+    {
+     "v": 2,
+     "text": "The comely and delicate one,\nthe daughter of Zion, I will destroy.{c}"
+    },
+    {
+     "v": 3,
+     "text": "Herdsmen with their flocks will march on her;\nround about her they will pitch their tents;\neach will crop his own patch."
+    },
+    {
+     "v": 4,
+     "text": "‘Consecrate war against her!{d}\nArise, and let us go up at noon!\nWoe to us, for the day declines,\nfor the shadows of evening stretch out!"
+    },
+    {
+     "v": 5,
+     "text": "Arise, and let us go up by night\nand destroy her palaces!’”"
+    },
+    {
+     "v": 6,
+     "text": "For thus says Yahweh of Armies:\n“Hew down her trees;\ncast up a siege mound against Jerusalem.\nThis is the city to be punished;\noppression is all within her."
+    },
+    {
+     "v": 7,
+     "text": "As a cistern keeps its water cool,\nso she keeps her evil cool and fresh;\noutrage and havoc echo in her;\nsickness and blows are before my face continually."
+    },
+    {
+     "v": 8,
+     "text": "Be warned, O Jerusalem,\nlest my soul be torn from you,\nlest I make you a desolation,\na land uninhabited.”"
+    },
+    {
+     "v": 9,
+     "text": "Thus says Yahweh of Armies:\n“They shall glean thoroughly as a vine\nthe remnant of Israel;\npass your hand again, like a grape gatherer,\nover the branches.”"
+    },
+    {
+     "v": 10,
+     "text": "To whom shall I speak and give warning,\nthat they may hear?\nSee, their ear is uncircumcised,\nand they cannot hearken.\nSee, the word of Yahweh has become to them a reproach;\nthey take no delight in it."
+    },
+    {
+     "v": 11,
+     "text": "But I am full of the wrath of Yahweh;\nI am weary of holding it in.\n“Pour it out upon the child in the street,\nand upon the gathering of young men together;\nfor husband with wife shall be taken,\nthe elder with him who is full of days."
+    },
+    {
+     "v": 12,
+     "text": "Their houses shall pass over to others,\nfields and wives together,\nfor I will stretch out my hand\nagainst the inhabitants of the land,” declares Yahweh."
+    },
+    {
+     "v": 13,
+     "text": "“For from the least of them to the greatest of them,\nevery one is greedy for unjust gain;\nand from prophet to priest,\nevery one deals falsely."
+    },
+    {
+     "v": 14,
+     "text": "The fracture of my people they have patched up carelessly,\ndeclaring, ‘All is well, all is well,’\nwhen nothing is well."
+    },
+    {
+     "v": 15,
+     "text": "Did they feel shame for the loathsome things they did?\nNot the least shame did they feel;\nblushing they never learned.\nSo they will go down with the fallen;\nwhen I call them to account they will be overthrown,” Yahweh has said."
+    },
+    {
+     "v": 16,
+     "text": "Thus has Yahweh spoken:\n“Halt at the crossroads and look about;\ninquire about the age-old tracks,\nwhich is the good road, and travel on it,\nand you will find repose for your souls.\nBut they replied, ‘We refuse to travel it.’"
+    },
+    {
+     "v": 17,
+     "text": "I set watchmen over you, saying,\n‘Hearken to the sound of the ram’s horn!’\nBut they said, ‘We will not hearken.’"
+    },
+    {
+     "v": 18,
+     "text": "Therefore hear, O nations,\nand know, O congregation, what is among them.{e}"
+    },
+    {
+     "v": 19,
+     "text": "Hear, O earth:\nsee, I am bringing disaster upon this people,\nthe fruit of their schemes,\nbecause to my words they have not hearkened,\nand my law—they have rejected it."
+    },
+    {
+     "v": 20,
+     "text": "What use to me is incense arriving from Sheba,\nor fragrant cane{f} from a far country?\nYour whole offerings win no favor,\nand your sacrifices give me no pleasure.”"
+    },
+    {
+     "v": 21,
+     "text": "Therefore thus says Yahweh:\n“See, I am laying before this people stumbling blocks,\nand fathers and sons together shall stumble on them;\nneighbor and friend shall perish.”"
+    },
+    {
+     "v": 22,
+     "text": "Thus says Yahweh:\n“See, a people comes from the land of the north;\na great nation is stirred up from the farthest parts of the earth."
+    },
+    {
+     "v": 23,
+     "text": "Bow and javelin they grip;\ncruel are they, and show no mercy;\ntheir voice roars like the sea;\nupon horses they ride,\narrayed as a man for battle\nagainst you, O daughter of Zion.”"
+    },
+    {
+     "v": 24,
+     "text": "We have heard the report of it;\nour hands hang limp;\nanguish has seized us,\npain as of a woman in labor."
+    },
+    {
+     "v": 25,
+     "text": "Venture not into the countryside,\nnor travel the highway,\nfor the foe bears a sword;\ndread surrounds on all sides.{g}"
+    },
+    {
+     "v": 26,
+     "text": "Daughter of my people, wrap yourself in sackcloth\nand wallow in the ashes;\nmourn as one mourns an only son,\na wailing most bitter,\nfor in an instant the ravager\nwill fall upon us."
+    },
+    {
+     "v": 27,
+     "text": "“I have made you an assayer and a tester{h} among my people,\nthat you may know and assay their way."
+    },
+    {
+     "v": 28,
+     "text": "They are all stubborn rebels,\ngoing about with slander;\nbronze and iron are they;\nall of them deal corruptly."
+    },
+    {
+     "v": 29,
+     "text": "The bellows blow fiercely;\nthe lead is consumed by the fire;{i}\nin vain the refiner refines,\nfor the wicked are not drawn off."
+    },
+    {
+     "v": 30,
+     "text": "Rejected silver they are called,\nfor Yahweh has rejected them.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "Tekoa, a town about 10 miles (16 kilometers) south of Jerusalem; its name sounds like the verb “blow” (tiqʿu)."
+    },
+    {
+     "m": "b",
+     "ref": "6:1",
+     "text": "Beth-haccherem, “house of the vineyard,” probably Ramat Rahel, between Jerusalem and Bethlehem."
+    },
+    {
+     "m": "c",
+     "ref": "6:2",
+     "text": "Or “The daughter of Zion is like a lovely pasture”; the Hebrew is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "6:4",
+     "text": "Warfare was begun with religious rites."
+    },
+    {
+     "m": "e",
+     "ref": "6:18",
+     "text": "The Hebrew of this line is obscure."
+    },
+    {
+     "m": "f",
+     "ref": "6:20",
+     "text": "Hebrew qaneh, an aromatic reed, perhaps calamus."
+    },
+    {
+     "m": "g",
+     "ref": "6:25",
+     "text": "Hebrew magor missaviv, a favorite phrase of Jeremiah (20:3, 10; 46:5; 49:29)."
+    },
+    {
+     "m": "h",
+     "ref": "6:27",
+     "text": "Or “a fortress”; Hebrew mivtsar, perhaps a scribal note. The image is of refining silver from ore, using lead to carry off impurities."
+    },
+    {
+     "m": "i",
+     "ref": "6:29",
+     "text": "So the Hebrew consonants read as “by fire the lead is consumed” (qere); the written text (ketiv) may be read “by their fire.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    8,
+    12,
+    16,
+    21,
+    27,
+    29,
+    30
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The word that came to Jeremiah from Yahweh, saying:{a}"
+    },
+    {
+     "v": 2,
+     "text": "“Take your stand in the gate of Yahweh’s house, and proclaim there this word, and say, ‘Hear the word of Yahweh, all you of Judah who enter these gates to bow down before Yahweh."
+    },
+    {
+     "v": 3,
+     "text": "This is what Yahweh of Armies, Israel’s God, says: Reform your conduct and your actions, and I will let you dwell{b} in this place."
+    },
+    {
+     "v": 4,
+     "text": "Put not your trust in lying words, saying, “The temple of Yahweh, the temple of Yahweh, the temple of Yahweh are these!”{c}"
+    },
+    {
+     "v": 5,
+     "text": "For only if you thoroughly reform your conduct and your actions, if you deal out true justice between one man and another,"
+    },
+    {
+     "v": 6,
+     "text": "if the sojourner, the fatherless, and the widow you do not oppress, and innocent blood you do not shed in this place, and after other gods you do not walk to your own harm,"
+    },
+    {
+     "v": 7,
+     "text": "then I will let you dwell in this place, in the land that I gave to your fathers from of old even for evermore."
+    },
+    {
+     "v": 8,
+     "text": "“‘See, you are trusting in lying words that cannot profit."
+    },
+    {
+     "v": 9,
+     "text": "Will you steal, murder, commit adultery, swear falsely, burn incense to Baal, and walk after other gods whom you have not known,"
+    },
+    {
+     "v": 10,
+     "text": "and then come and stand before me in this house, which is called by my name, and say, “We are delivered!”—only to go on doing all these abominations?"
+    },
+    {
+     "v": 11,
+     "text": "Has this house, which is called by my name, become a den of robbers in your eyes? I too, see, I have seen it,’ declares Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "“‘For go now to my place that was in Shiloh,{d} where I made my name dwell at the first, and see what I did to it because of the wickedness of my people Israel."
+    },
+    {
+     "v": 13,
+     "text": "And now, because you have done all these deeds,’ declares Yahweh, ‘and I spoke to you, rising early and speaking, yet you did not hear, and I called you, yet you did not answer,"
+    },
+    {
+     "v": 14,
+     "text": "therefore I will do to the house that is called by my name, in which you trust, and to the place that I gave to you and to your fathers, as I did to Shiloh."
+    },
+    {
+     "v": 15,
+     "text": "And I will cast you out from my sight, as I cast out all your brothers, the whole offspring of Ephraim.’"
+    },
+    {
+     "v": 16,
+     "text": "“As for you, do not pray for this people, nor lift up a cry or a prayer for them, nor intercede with me, for I will not hear you."
+    },
+    {
+     "v": 17,
+     "text": "Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem?"
+    },
+    {
+     "v": 18,
+     "text": "Sons collect sticks, fathers light the fire, and wives work the dough, to bake cakes for the Queen of Heaven;{e} and they pour libations to other gods to stir up my anger."
+    },
+    {
+     "v": 19,
+     "text": "Is it I whom they provoke?” declares Yahweh. “Is it not themselves, to the shame of their own faces?”"
+    },
+    {
+     "v": 20,
+     "text": "Therefore thus says the Lord Yahweh: “See, my anger and my wrath will be poured out on this place, upon man and upon beast, upon the trees of the field and upon the fruit of the ground; it will burn and not be quenched.”"
+    },
+    {
+     "v": 21,
+     "text": "Thus says Yahweh of Armies, the God of Israel: “Add your burnt offerings to your sacrifices, and eat flesh.{f}"
+    },
+    {
+     "v": 22,
+     "text": "For I did not speak to your fathers, nor command them, in the day that I brought them out of the land of Egypt, concerning burnt offerings and sacrifices."
+    },
+    {
+     "v": 23,
+     "text": "But this thing I commanded them: ‘Obey my voice, and I will be your God, and you shall be my people; and walk in all the way that I command you, that it may be well with you.’"
+    },
+    {
+     "v": 24,
+     "text": "But they did not obey or incline their ear, but walked in their own counsels, in the stubbornness of their evil heart, and went backward and not forward."
+    },
+    {
+     "v": 25,
+     "text": "From the day that your fathers came out of the land of Egypt until this day, I have sent to you all my servants the prophets, daily rising early and sending them."
+    },
+    {
+     "v": 26,
+     "text": "Still they paid me no heed and bent no ear, but hardened their necks; they behaved worse than their ancestors."
+    },
+    {
+     "v": 27,
+     "text": "“So you shall speak all these words to them, but they will not listen to you; and you shall call to them, but they will not answer you.{g}"
+    },
+    {
+     "v": 28,
+     "text": "And you shall say to them, ‘This is the nation that did not obey the voice of Yahweh its God and did not accept correction; faithfulness has perished; it is cut off from their mouth.’"
+    },
+    {
+     "v": 29,
+     "text": "“Shear off your hair{h} and cast it away;\nraise a lament on the bare heights,\nfor Yahweh has rejected and forsaken\nthe generation of his wrath.”"
+    },
+    {
+     "v": 30,
+     "text": "“For Judah’s sons have done what is evil before me,” declares Yahweh. “Their loathsome idols they have placed in the house that bears my name, and so defiled it."
+    },
+    {
+     "v": 31,
+     "text": "And they have built the high places of Topheth,{i} which is in the Valley of Ben-hinnom,{j} to burn their sons and their daughters in the fire, which I did not command, nor did it come into my mind."
+    },
+    {
+     "v": 32,
+     "text": "Therefore, mark this: days are approaching,” declares Yahweh, “when it will no longer be named Topheth or the Valley of Ben-hinnom, but the Valley of Killing; for they will bury in Topheth till no space is left."
+    },
+    {
+     "v": 33,
+     "text": "And the corpses of this people will be food for the birds of the heavens and for the beasts of the earth, and none will frighten them away."
+    },
+    {
+     "v": 34,
+     "text": "And I will make to cease from the cities of Judah and from the streets of Jerusalem the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, for the land shall become a ruin."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "The Septuagint lacks verse 1 and the first half of verse 2; its text begins, “Hear the word of the Lord, all Judea” (Brenton). The same sermon is summarized in chapter 26."
+    },
+    {
+     "m": "b",
+     "ref": "7:3",
+     "text": "Or, with a change of vowels, “and I will dwell with you”; so also in verse 7."
+    },
+    {
+     "m": "c",
+     "ref": "7:4",
+     "text": "The Septuagint has the phrase twice: “It is the temple of the Lord, the temple of the Lord” (Brenton)."
+    },
+    {
+     "m": "d",
+     "ref": "7:12",
+     "text": "Shiloh, where the tabernacle stood in the days of Eli (1 Samuel 1–4), was evidently destroyed after the Philistines captured the ark."
+    },
+    {
+     "m": "e",
+     "ref": "7:18",
+     "text": "Probably Ishtar (Astarte), the Mesopotamian goddess of love and war, worshiped as “Queen of Heaven”; see also 44:17–25. The Septuagint reads “to make cakes to the host of heaven” (Brenton)."
+    },
+    {
+     "m": "f",
+     "ref": "7:21",
+     "text": "That is, eat even the burnt offerings, which were wholly burned; Yahweh no longer values them."
+    },
+    {
+     "m": "g",
+     "ref": "7:27",
+     "text": "The Septuagint lacks this verse except for its opening words: “Therefore you shall speak this word to them” (Brenton, modernized)."
+    },
+    {
+     "m": "h",
+     "ref": "7:29",
+     "text": "Hebrew “your crown” (nezer), as a sign of mourning; the word is addressed to Jerusalem as a woman."
+    },
+    {
+     "m": "i",
+     "ref": "7:31",
+     "text": "Topheth, the place in the valley where children were burned as offerings; the name may mean “fireplace,” with its vowels perhaps changed to suggest boshet, “shame.”"
+    },
+    {
+     "m": "j",
+     "ref": "7:31",
+     "text": "Ben-hinnom, “son of Hinnom,” the valley south and west of Jerusalem; its later name Gehinnom gave rise to “Gehenna.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    4,
+    8,
+    14,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“At that time,” declares Yahweh, “they shall bring out the bones of the kings of Judah, the bones of its princes, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem out of their tombs;"
+    },
+    {
+     "v": 2,
+     "text": "and they shall spread them before the sun and the moon and all the host of the heavens, which they have loved and served, and after which they have walked, and which they have sought and worshiped. They shall not be gathered or buried; they shall be dung on the face of the ground."
+    },
+    {
+     "v": 3,
+     "text": "And death shall be chosen rather than life by all the remnant that remains of this evil family, in all the places where I have driven them,” declares Yahweh of Armies."
+    },
+    {
+     "v": 4,
+     "text": "“Tell them this also, ‘This is what Yahweh says:\nDoes a man who falls not get up?\nDoes one who strays not come back?"
+    },
+    {
+     "v": 5,
+     "text": "Why then has this people turned away,\nJerusalem, in a perpetual turning away?\nThey hold fast to deceit;\nthey refuse to return."
+    },
+    {
+     "v": 6,
+     "text": "I listened and heard,\nbut they do not speak what is right;\nno man repents of his evil,\nsaying, “What have I done?”\nEach one turns to his own course,\nlike a horse plunging into battle."
+    },
+    {
+     "v": 7,
+     "text": "Even the stork in the heavens\nknows her appointed seasons,\nand the turtledove, the swift,{a} and the crane\nkeep the time of their coming;\nbut my people know not\nthe judgment of Yahweh."
+    },
+    {
+     "v": 8,
+     "text": "“‘How can you say, “We are wise,\nand the law of Yahweh is with us”?\nBut see, the lying pen of the scribes\nhas made it into a lie."
+    },
+    {
+     "v": 9,
+     "text": "The wise men are put to shame;\nthey are dismayed and caught;\nsee, they have rejected the word of Yahweh,\nso what wisdom is in them?"
+    },
+    {
+     "v": 10,
+     "text": "Therefore I will give their wives to others,\ntheir fields to new owners;\nfor from the least to the greatest\nevery one is greedy for unjust gain;\nfrom prophet to priest\nevery one deals falsely."
+    },
+    {
+     "v": 11,
+     "text": "They have healed the wound of the daughter of my people lightly,\nsaying, “Peace, peace,”\nwhen there is no peace.{b}"
+    },
+    {
+     "v": 12,
+     "text": "Were they ashamed when they committed abomination?\nNo, they were not at all ashamed;\nthey knew not how to blush.\nTherefore they shall fall among those who fall;\nin the time of their punishment they shall stumble,’ says Yahweh."
+    },
+    {
+     "v": 13,
+     "text": "‘I will surely gather them in,’{c} declares Yahweh;\n‘there are no grapes on the vine,\nnor figs on the fig tree;\neven the leaf has withered,\nand what I gave them passes away from them.’”{d}"
+    },
+    {
+     "v": 14,
+     "text": "Why are we sitting here?\nAssemble! Let us enter the walled towns\nand meet our end there;\nfor Yahweh our God has sentenced us to die\nand made us drink water laced with poison,{e}\nsince against Yahweh we have sinned."
+    },
+    {
+     "v": 15,
+     "text": "We looked for peace, but no good came;\nfor a time of healing, but see, terror."
+    },
+    {
+     "v": 16,
+     "text": "The snorting of his horses is heard from Dan;\nat the noise of his chargers’ neighing\nall the land trembles.\nThey arrive and eat up the land and everything in it,\nthe town and its people."
+    },
+    {
+     "v": 17,
+     "text": "“For look, I am letting loose snakes among you,\nvipers against which no charm avails,\nand they will bite you,” declares Yahweh."
+    },
+    {
+     "v": 18,
+     "text": "Past all cure is my sorrow;{f}\nfaint within me is my heart."
+    },
+    {
+     "v": 19,
+     "text": "Listen, the cry of the daughter of my people\nfrom a land far and wide:\n“Is Yahweh not in Zion?\nIs her King not in her?”\n“Why have they provoked me to anger with their carved images,\nwith foreign vanities?”"
+    },
+    {
+     "v": 20,
+     "text": "“The harvest is past, the summer is ended,\nand we are not saved.”"
+    },
+    {
+     "v": 21,
+     "text": "For the wound of the daughter of my people I am wounded;\nI mourn; dismay has taken hold of me."
+    },
+    {
+     "v": 22,
+     "text": "Is there no balm{g} in Gilead?\nIs there no physician there?\nWhy then has the healing of the daughter of my people\nnot gone up?{h}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:7",
+     "text": "The identification of these birds is uncertain; Hebrew sus or sis may be the swift or the swallow."
+    },
+    {
+     "m": "b",
+     "ref": "8:11",
+     "text": "The Septuagint lacks verses 11–12 (Brenton), which repeat 6:14–15."
+    },
+    {
+     "m": "c",
+     "ref": "8:13",
+     "text": "Or “I will make an end of them”; the Hebrew is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "8:13",
+     "text": "The Hebrew of this line is obscure; the Septuagint lacks it (Brenton)."
+    },
+    {
+     "m": "e",
+     "ref": "8:14",
+     "text": "Hebrew “water of rosh,” a poisonous plant, perhaps hemlock or poppy."
+    },
+    {
+     "m": "f",
+     "ref": "8:18",
+     "text": "The Hebrew of this line is uncertain."
+    },
+    {
+     "m": "g",
+     "ref": "8:22",
+     "text": "Hebrew tsori, an aromatic resin used as medicine, for which Gilead, east of the Jordan, was famous (Genesis 37:25). The plant is uncertain; suggestions include mastic and the balsam tree."
+    },
+    {
+     "m": "h",
+     "ref": "8:22",
+     "text": "That is, the new flesh has not grown over the wound. In Hebrew, 9:1 is numbered 8:23."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    2,
+    7,
+    10,
+    12,
+    17,
+    23,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Oh that my head were waters,\nand my eyes a fountain of tears,\nthat I might weep day and night\nfor the slain of the daughter of my people!{a}"
+    },
+    {
+     "v": 2,
+     "text": "Oh that I had in the wilderness\na lodging place for wayfarers,\nthat I might leave my people\nand go away from them!\nFor they are all adulterers,\na company of traitors."
+    },
+    {
+     "v": 3,
+     "text": "They bend their tongue like their bow;\nfalsehood and not faithfulness has grown strong in the land;\nfor they proceed from evil to evil,\nand me they do not know, declares Yahweh."
+    },
+    {
+     "v": 4,
+     "text": "Guard yourselves, each against his friend,\nand rely on no brother;\nfor each brother is a heel-grabber,{b}\nand each friend peddles slander."
+    },
+    {
+     "v": 5,
+     "text": "Each one deceives his neighbor,\nand no one speaks the truth;\nthey have taught their tongue to speak lies;\nthey weary themselves committing iniquity."
+    },
+    {
+     "v": 6,
+     "text": "Your dwelling is in the midst of deceit;\nthrough deceit they refuse to know me, declares Yahweh."
+    },
+    {
+     "v": 7,
+     "text": "Therefore thus says Yahweh of Armies:\n“See, I will refine them and test them,\nfor what else can I do, because of the daughter of my people?"
+    },
+    {
+     "v": 8,
+     "text": "A death-dealing arrow is their tongue;\ntreachery is its speech;\nwith his lips a man greets his friend with “Peace,”\nbut inwardly he plots to waylay him."
+    },
+    {
+     "v": 9,
+     "text": "Shall I not punish them for these things?” declares Yahweh,\n“and on a nation such as this\nshall my soul not take vengeance?”"
+    },
+    {
+     "v": 10,
+     "text": "Over the hills I will lift up weeping and lament,\nand over the wilderness grazing lands a dirge,\nfor they are scorched, with none passing through,\nand no sound of cattle is heard;\nthe birds of the sky as well as the beasts\nhave fled away and gone."
+    },
+    {
+     "v": 11,
+     "text": "“Jerusalem I will turn into rubble heaps,\na haunt of jackals,\nand Judah’s towns into a waste\nwhere no one lives.”"
+    },
+    {
+     "v": 12,
+     "text": "What man is wise enough to grasp this? To whom has Yahweh’s mouth spoken, so that he can explain it? For what cause has the land perished, scorched like the desert, with none passing through?"
+    },
+    {
+     "v": 13,
+     "text": "And Yahweh said, “Because they have forsaken my law that I set before them, and have not obeyed my voice or walked in it,"
+    },
+    {
+     "v": 14,
+     "text": "but have walked after the stubbornness of their own hearts and after the Baals, as their fathers taught them."
+    },
+    {
+     "v": 15,
+     "text": "Therefore thus says Yahweh of Armies, the God of Israel: See, I will feed this people with wormwood, and give them poisoned water to drink."
+    },
+    {
+     "v": 16,
+     "text": "I will scatter them among the nations whom neither they nor their fathers have known, and I will send the sword after them, until I have consumed them.”"
+    },
+    {
+     "v": 17,
+     "text": "Thus says Yahweh of Armies:\n“Consider, and call for the mourning women to come;\nsend for the skillful women to come;"
+    },
+    {
+     "v": 18,
+     "text": "let them hurry and lift a dirge over us,\ntill our eyes stream with tears\nand our lashes drip with water."
+    },
+    {
+     "v": 19,
+     "text": "For a sound of wailing is heard from Zion:\n‘How we are ruined!\nWe are utterly ashamed,\nbecause we have left the land,\nbecause they have cast down our dwellings.’”"
+    },
+    {
+     "v": 20,
+     "text": "Hear, O women, the word of Yahweh,\nand let your ear receive the word of his mouth;\nteach your daughters a lament,\nand each her neighbor a dirge."
+    },
+    {
+     "v": 21,
+     "text": "For death has climbed in through our windows;\nit has come into our strongholds,\ncutting down the little ones in the street\nand the youths in the public squares."
+    },
+    {
+     "v": 22,
+     "text": "Say this: “So declares Yahweh:\n‘Human corpses will lie\nlike manure across the open field,\nlike swaths of grain behind the harvester,\nwith no one to gather them up.’”"
+    },
+    {
+     "v": 23,
+     "text": "This is what Yahweh says:\n“The sage must not glory in his wisdom,\nnor the strong man glory in his strength,\nnor the wealthy man glory in his wealth;"
+    },
+    {
+     "v": 24,
+     "text": "rather, if anyone would glory, let him glory in this:\nthat he has insight and knows me,\nthat I am Yahweh, who acts with steadfast love,\nwith justice and with righteousness on the earth.\nFor in these I take pleasure,” declares Yahweh."
+    },
+    {
+     "v": 25,
+     "text": "“See, days are coming,” declares Yahweh, “when I will punish all those who are circumcised merely in the flesh:"
+    },
+    {
+     "v": 26,
+     "text": "Egypt, Judah, Edom, the sons of Ammon, Moab, and all who clip the corners of their hair,{c} who dwell in the wilderness; for all these nations are uncircumcised, and all the house of Israel is uncircumcised in heart.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "In Hebrew, verse 1 is numbered 8:23, and verses 2–26 are numbered 9:1–25."
+    },
+    {
+     "m": "b",
+     "ref": "9:4",
+     "text": "Hebrew ʿaqov yaʿqov, “supplanting he supplants,” a play on the name Jacob (Genesis 27:36)."
+    },
+    {
+     "m": "c",
+     "ref": "9:26",
+     "text": "Or “who dwell in the desert with clipped temples,” a custom of certain Arab tribes; compare Leviticus 19:27."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    6,
+    11,
+    12,
+    17,
+    19,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear the word that Yahweh speaks to you, O house of Israel."
+    },
+    {
+     "v": 2,
+     "text": "Thus says Yahweh:\n“Learn not the way of the nations,\nnor be dismayed at the signs of the heavens,\nbecause the nations are dismayed at them;"
+    },
+    {
+     "v": 3,
+     "text": "for the practices of the peoples are mere vapor.\nSomeone fells a tree in the woods,\nand a carver shapes it with his chisel."
+    },
+    {
+     "v": 4,
+     "text": "They adorn it with silver and with gold;\nthey fasten it with nails and hammers\nso that it cannot move."
+    },
+    {
+     "v": 5,
+     "text": "They are like a scarecrow in a melon patch,{a}\nmute and unable to talk;\nthey must be hauled about,\nhaving no power to walk.\nHave no fear of them,\nfor harm is beyond them,\nand good is beyond them too.”"
+    },
+    {
+     "v": 6,
+     "text": "There is none like you, O Yahweh;{b}\nyou are great, and your name is great in might."
+    },
+    {
+     "v": 7,
+     "text": "Who could fail to fear you, King of the nations?\nFor to you it rightly belongs;\nfor among all the sages of the nations\nand throughout their realms\nnone can compare with you."
+    },
+    {
+     "v": 8,
+     "text": "They are altogether stupid and foolish;\nthe instruction of idols is but wood."
+    },
+    {
+     "v": 9,
+     "text": "Beaten silver is brought from Tarshish,\nand gold from Uphaz,{c}\nthe work of the craftsman and of the hands of the goldsmith;\ntheir clothing is blue and purple;\nthey are all the work of skilled men."
+    },
+    {
+     "v": 10,
+     "text": "But Yahweh is God in truth;\nhe is the living God, the King for all ages.\nWhen he is angry the earth shakes,\nand the nations cannot withstand his fury."
+    },
+    {
+     "v": 11,
+     "text": "This is what you are to tell them:{d} “The gods that never made heaven and earth will vanish from the earth and from beneath these skies.”"
+    },
+    {
+     "v": 12,
+     "text": "He made the earth by his power;\nhe established the world by his wisdom,\nand by his understanding stretched out the heavens."
+    },
+    {
+     "v": 13,
+     "text": "At the sound of his voice the waters in the skies roar,\nand he lifts the clouds from the far edges of the earth.\nHe fashions lightning to go with the rain,\nand draws the wind out of his treasuries."
+    },
+    {
+     "v": 14,
+     "text": "Every man is stupid, without knowledge;\nevery goldsmith is put to shame by his idol,\nfor his molten images are falsehood,\nand there is no breath in them."
+    },
+    {
+     "v": 15,
+     "text": "They are vapor, a work of mockery;\nin the time of their punishment they shall perish."
+    },
+    {
+     "v": 16,
+     "text": "Not like these is the Portion of Jacob,{e}\nfor he is the Maker of all things,\nand Israel is the tribe of his inheritance;\nYahweh of Armies is his name."
+    },
+    {
+     "v": 17,
+     "text": "Pick up your pack from the ground,\nyou who live under siege!"
+    },
+    {
+     "v": 18,
+     "text": "For thus says Yahweh:\n“See, I am slinging out the inhabitants of the land\nat this time,\nand I will bring distress on them,\nthat they may feel it.”{f}"
+    },
+    {
+     "v": 19,
+     "text": "Woe is me because of my hurt!\nMy wound is grievous.\nBut I said, “Truly this is an affliction,\nand I must bear it.”"
+    },
+    {
+     "v": 20,
+     "text": "My tent is destroyed,\nand all my cords are broken;\nmy children have gone from me,\nand they are not;\nthere is no one to spread my tent again\nand to set up my curtains."
+    },
+    {
+     "v": 21,
+     "text": "For the shepherds are stupid\nand do not inquire of Yahweh;\ntherefore they have not prospered,\nand all their flock is scattered."
+    },
+    {
+     "v": 22,
+     "text": "Listen, a rumor! See, it comes—\na great commotion out of the north country,\nto make the cities of Judah a desolation,\na lair of jackals."
+    },
+    {
+     "v": 23,
+     "text": "I know, O Yahweh, that the way of man is not in himself;\nit is not in man who walks to direct his steps."
+    },
+    {
+     "v": 24,
+     "text": "Correct me, O Yahweh, but in just measure;\nnot in your anger, lest you bring me to nothing."
+    },
+    {
+     "v": 25,
+     "text": "Empty your fury on the nations that do not acknowledge you,\nand on the clans that never invoke your name,\nfor they have eaten up Jacob;\nthey have eaten him and finished him off,\nand made his pasture a waste."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:5",
+     "text": "The Septuagint arranges verses 5 and 9 differently, placing the substance of verse 9 within verse 5."
+    },
+    {
+     "m": "b",
+     "ref": "10:6",
+     "text": "The Septuagint lacks verses 6–8 and 10 (Brenton). A Hebrew manuscript from Qumran (4QJer-b) is reported to share this shorter form of the chapter."
+    },
+    {
+     "m": "c",
+     "ref": "10:9",
+     "text": "Uphaz, an unknown place; some ancient witnesses read Ophir."
+    },
+    {
+     "m": "d",
+     "ref": "10:11",
+     "text": "Verse 11 is in Aramaic, the only Aramaic verse in Jeremiah, and it contains a wordplay: the gods who did not “make” (ʿavadu) the heavens shall “perish” (yevadu)."
+    },
+    {
+     "m": "e",
+     "ref": "10:16",
+     "text": "That is, Yahweh, the one who belongs to Jacob as his share."
+    },
+    {
+     "m": "f",
+     "ref": "10:18",
+     "text": "Or “that they may be found”; the Hebrew is uncertain."
+    }
+   ]
+  }
+ ]
+}
