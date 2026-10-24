@@ -1,0 +1,787 @@
+{
+ "id": "colossians",
+ "name": "Colossians",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The oldest manuscript of Colossians is the papyrus P46 (about AD 200), with Codex Sinaiticus and Codex Vaticanus (4th century); where their readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord.” *Christos* is rendered “Christ” where it functions as part of Jesus’ name. Authorship: the letter names Paul and Timothy as its senders (1:1) and closes with Paul’s own signature (4:18). Its personal greetings closely match those of Philemon. Many modern scholars, pointing to differences of vocabulary, style and thought from the undisputed letters, think it was written by a disciple or coworker of Paul, perhaps Timothy, either late in Paul’s life or soon after his death; others hold that Paul wrote it during his imprisonment, about AD 55–62. The question remains open. Colossae was a small town in the Lycus valley of Phrygia (in modern Turkey), near Laodicea and Hierapolis; the church there was founded not by Paul but by Epaphras (1:7; 2:1).",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    9,
+    15,
+    21,
+    24
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Paul,{a} by the will of God an apostle{b} of Christ Jesus,{c} and our brother Timothy,{d}"
+    },
+    {
+     "v": 2,
+     "text": "to the holy and faithful brothers{e} in Christ at Colossae: grace to you and peace from God our Father.{f}"
+    },
+    {
+     "v": 3,
+     "text": "Whenever we pray for you, we give thanks to God, the Father of our Lord Jesus Christ,"
+    },
+    {
+     "v": 4,
+     "text": "since word has reached us of your faith in Christ Jesus and of the love you hold for all God’s holy people.{g}"
+    },
+    {
+     "v": 5,
+     "text": "This springs from the hope stored up for you in heaven. You heard of it before, in the message of truth, the good news{h}"
+    },
+    {
+     "v": 6,
+     "text": "that has come to you. All over the world that good news is bearing fruit and spreading, just as it has done among you since the day you heard it and came to know God’s grace as it truly is."
+    },
+    {
+     "v": 7,
+     "text": "You learned it from Epaphras,{i} our dear fellow slave, who serves Christ faithfully on our behalf.{j}"
+    },
+    {
+     "v": 8,
+     "text": "It was he who told us of your love in the Spirit."
+    },
+    {
+     "v": 9,
+     "text": "For this reason, from the day we heard, we have not ceased praying for you. We ask that you may be filled with the knowledge of what God wills, with all the wisdom and understanding the Spirit gives,"
+    },
+    {
+     "v": 10,
+     "text": "so that you may walk worthily of the Lord, pleasing him in all respects, fruitful in good work of every kind, and growing in your knowledge of God;"
+    },
+    {
+     "v": 11,
+     "text": "made strong with all strength, as his glorious might supplies, so that you may endure everything and be patient, with joy;"
+    },
+    {
+     "v": 12,
+     "text": "and thanking the Father, who has made you fit{k} to share the lot of the holy ones in the light.{l}"
+    },
+    {
+     "v": 13,
+     "text": "He rescued us from the dominion of darkness and moved us into the kingdom of the Son he loves.{m}"
+    },
+    {
+     "v": 14,
+     "text": "It is in him that we are redeemed and our sins are forgiven.{n}"
+    },
+    {
+     "v": 15,
+     "text": "He is the image of the invisible God, firstborn before all creation,{o}"
+    },
+    {
+     "v": 16,
+     "text": "since in him all things were created, in the heavens and on the earth, what can be seen and what cannot, whether thrones or lordships or rulers or authorities.{p} Everything has been created through him and for him."
+    },
+    {
+     "v": 17,
+     "text": "He exists before everything, and in him everything holds together."
+    },
+    {
+     "v": 18,
+     "text": "He is also the head of the body, the church. He is the beginning, firstborn from among the dead, so that in all things he himself might come to hold first place."
+    },
+    {
+     "v": 19,
+     "text": "For in him all the fullness was pleased to dwell,{q}"
+    },
+    {
+     "v": 20,
+     "text": "and through him to reconcile all things to him, making peace through the blood of his cross{r} — whether things on earth or things in heaven."
+    },
+    {
+     "v": 21,
+     "text": "You were once estranged from God and his enemies in your thinking, as shown by the wicked things you did;"
+    },
+    {
+     "v": 22,
+     "text": "he has now reconciled{s} in his body of flesh through his death, so as to bring you into his presence holy, spotless and free from any charge,"
+    },
+    {
+     "v": 23,
+     "text": "provided you continue in the faith, grounded and steady and not shifted from the hope held out in the good news you heard. That good news has been proclaimed to every creature under heaven, and I, Paul, became its servant.{t}"
+    },
+    {
+     "v": 24,
+     "text": "I am glad now to suffer for you. In my own flesh I am completing what remains of Christ’s afflictions,{u} for the sake of his body, the church."
+    },
+    {
+     "v": 25,
+     "text": "I became the church’s servant by the commission{v} God gave me for your benefit: to bring God’s word to its full completion,"
+    },
+    {
+     "v": 26,
+     "text": "the secret{w} that was kept hidden through ages and generations but has now been revealed to his holy ones."
+    },
+    {
+     "v": 27,
+     "text": "To them God chose to make known how rich and glorious this secret is among the Gentiles:{x} it is Christ in you, the hope of glory."
+    },
+    {
+     "v": 28,
+     "text": "He is the one we announce. We warn and instruct everyone, with all the wisdom we have, so that we may present{y} each one mature in Christ."
+    },
+    {
+     "v": 29,
+     "text": "To this end I toil and strive, with all the energy he so powerfully works in me."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Apostle: Greek *apostolos*, “one who is sent,” a messenger with the authority of the sender."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "*Jesus*: the Greek form of Hebrew *Yeshua* (Joshua), “Yahweh saves.” *Christ*: Greek *Christos*, “Anointed One,” equivalent to Hebrew *mashiach*, “Messiah.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "*Timothy*: Greek *Timotheos*, “one who honors God.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Brothers: Greek *adelphoi*, the usual term for fellow believers, including both men and women; so throughout."
+    },
+    {
+     "m": "f",
+     "ref": "1:2",
+     "text": "God our Father: later manuscripts add “and the Lord Jesus Christ.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:4",
+     "text": "God’s holy people: Greek *hagioi*, “holy ones,” traditionally “saints”; so throughout."
+    },
+    {
+     "m": "h",
+     "ref": "1:5",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel”; so throughout."
+    },
+    {
+     "m": "i",
+     "ref": "1:7",
+     "text": "*Epaphras*: a short form of *Epaphroditus*, “charming.” He was a native of Colossae (4:12) who evidently founded the church there; he was later in prison with Paul (Phlm 23)."
+    },
+    {
+     "m": "j",
+     "ref": "1:7",
+     "text": "On our behalf: so the Westcott–Hort text, with P46, Sinaiticus and Vaticanus as reported; many manuscripts read “on your behalf.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:12",
+     "text": "You: some manuscripts read “us.”"
+    },
+    {
+     "m": "l",
+     "ref": "1:12",
+     "text": "The lot: Greek *klēros*, a portion assigned by lot, as Canaan was shared out among the tribes of Israel (Josh 14:1–2)."
+    },
+    {
+     "m": "m",
+     "ref": "1:13",
+     "text": "The Son he loves: literally “the Son of his love.”"
+    },
+    {
+     "m": "n",
+     "ref": "1:14",
+     "text": "Later manuscripts add “through his blood,” from Eph 1:7."
+    },
+    {
+     "m": "o",
+     "ref": "1:15",
+     "text": "Firstborn: Greek *prōtotokos*, a title of rank and preeminence as well as of priority in time (compare Ps 89:27). Verses 15–20 are widely thought to be an early Christian hymn."
+    },
+    {
+     "m": "p",
+     "ref": "1:16",
+     "text": "Thrones … authorities: ranks of spiritual powers, as in Eph 1:21."
+    },
+    {
+     "m": "q",
+     "ref": "1:19",
+     "text": "All the fullness was pleased: or “God was pleased that all the fullness should dwell”; compare 2:9."
+    },
+    {
+     "m": "r",
+     "ref": "1:20",
+     "text": "Of his cross: the Westcott–Hort text adds “through him” in brackets."
+    },
+    {
+     "m": "s",
+     "ref": "1:22",
+     "text": "He has now reconciled: Vaticanus and P46 as reported read “you have now been reconciled.”"
+    },
+    {
+     "m": "t",
+     "ref": "1:23",
+     "text": "Servant: Greek *diakonos*, “servant” or “minister”; also in verse 25."
+    },
+    {
+     "m": "u",
+     "ref": "1:24",
+     "text": "What remains of Christ’s afflictions: literally “what is lacking of the afflictions of Christ”; not a deficiency in Christ’s saving death, but probably the sufferings that Christ’s people must bear, in which Christ shares (compare Acts 9:4), or the trials expected before the end."
+    },
+    {
+     "m": "v",
+     "ref": "1:25",
+     "text": "Commission: Greek *oikonomia*, “stewardship,” the task given to a household manager."
+    },
+    {
+     "m": "w",
+     "ref": "1:26",
+     "text": "Secret: Greek *mystērion*, traditionally “mystery,” not a puzzle but God’s purpose once hidden and now disclosed; so throughout."
+    },
+    {
+     "m": "x",
+     "ref": "1:27",
+     "text": "Gentiles: Greek *ethnē*, “nations,” the non-Jewish peoples."
+    },
+    {
+     "m": "y",
+     "ref": "1:28",
+     "text": "Present: that is, present before God."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    6,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I want you to know how hard I struggle for you, for those at Laodicea,{a} and for everyone who has not seen me face to face.{b}"
+    },
+    {
+     "v": 2,
+     "text": "My aim is that their hearts may be encouraged as they are knit together in love, and that they may have all the riches of assured understanding and may come to know God’s secret, which is Christ.{c}"
+    },
+    {
+     "v": 3,
+     "text": "In him lie hidden all the treasures of wisdom and knowledge."
+    },
+    {
+     "v": 4,
+     "text": "I say this so that no one may mislead you with persuasive talk."
+    },
+    {
+     "v": 5,
+     "text": "For though I am absent in body, I am with you in spirit, and I am delighted to see how orderly you are and how firm your faith in Christ is.{d}"
+    },
+    {
+     "v": 6,
+     "text": "Therefore, as you received Christ Jesus the Lord, so go on living in him,{e}"
+    },
+    {
+     "v": 7,
+     "text": "rooted in him and built up in him, made firm in the faith as you were taught, and brimming over with thanksgiving."
+    },
+    {
+     "v": 8,
+     "text": "See to it that no one carries you off as plunder by means of philosophy, by hollow deception that follows the traditions of men and the elemental forces of the world,{f} and does not follow Christ."
+    },
+    {
+     "v": 9,
+     "text": "For in him the whole fullness of deity lives in bodily form,"
+    },
+    {
+     "v": 10,
+     "text": "and it is in him, the head of every ruler and power, that you have been made full."
+    },
+    {
+     "v": 11,
+     "text": "In him you were also circumcised, with a circumcision not done by hands, by stripping off the body of the flesh,{g} in the circumcision of Christ."
+    },
+    {
+     "v": 12,
+     "text": "You were buried with him in baptism, and with him you were also raised through faith in the working of God, who raised him from the dead."
+    },
+    {
+     "v": 13,
+     "text": "And when you were dead in your wrongdoings and in the uncircumcision of your flesh, God made you alive together with him. He forgave us all our wrongdoings,{h}"
+    },
+    {
+     "v": 14,
+     "text": "He wiped out the bond that was written against us, with its decrees that opposed us.{i} He has taken it out of the way, fastening it with nails to the cross."
+    },
+    {
+     "v": 15,
+     "text": "He stripped the rulers and authorities,{j} put them on open display, and led them along in his triumphal procession by means of the cross."
+    },
+    {
+     "v": 16,
+     "text": "So do not let anyone pass judgment on you over food or drink, or in the matter of a festival or new moon or sabbath."
+    },
+    {
+     "v": 17,
+     "text": "They are only a shadow of things that were coming; the body that casts it is Christ’s.{k}"
+    },
+    {
+     "v": 18,
+     "text": "Let no one disqualify you,{l} insisting on self-abasement and the worship of angels,{m} going on about what he has seen,{n} puffed up without reason by his fleshly mind,"
+    },
+    {
+     "v": 19,
+     "text": "and not holding fast to the head. From him the whole body, supported and held together by its joints and ligaments, grows with a growth that comes from God."
+    },
+    {
+     "v": 20,
+     "text": "If with Christ you died to the elemental forces of the world, why do you submit to regulations as though you still lived in the world:"
+    },
+    {
+     "v": 21,
+     "text": "“Hands off! Taste nothing! Touch nothing!”"
+    },
+    {
+     "v": 22,
+     "text": "All these things perish as they are used. They are based on human commands and teachings.{o}"
+    },
+    {
+     "v": 23,
+     "text": "These rules do appear wise, with their invented religion, their humility, their harsh handling of the body; but they are worth nothing at all in checking the indulgence of the flesh.{p}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Laodicea: a prosperous city about 10 miles (16 km) west of Colossae (compare Rev 3:14–22)."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "Face to face: literally “my face in the flesh.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:2",
+     "text": "God’s secret, which is Christ: so the Westcott–Hort text (literally “the secret of God, Christ”), reported for P46 and Vaticanus. Few passages have so many variant readings; others include “of God,” “of Christ,” “of God, which is Christ,” “of God the Father of Christ,” and “of God and of the Father and of Christ.” The many forms probably arose as scribes tried to clarify the short reading."
+    },
+    {
+     "m": "d",
+     "ref": "2:5",
+     "text": "Orderly … firm: military terms, *taxis* (“ranks,” “order”) and *stereōma* (“solid front”)."
+    },
+    {
+     "m": "e",
+     "ref": "2:6",
+     "text": "Living: literally “walking,” a Hebrew idiom for one’s conduct; so throughout."
+    },
+    {
+     "m": "f",
+     "ref": "2:8",
+     "text": "Elemental forces: Greek *stoicheia*, the basic elements or principles; also in verse 20 (see the note on Gal 4:3)."
+    },
+    {
+     "m": "g",
+     "ref": "2:11",
+     "text": "Later manuscripts add “of sins.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:13",
+     "text": "Us: some manuscripts read “you.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:14",
+     "text": "Bond: Greek *cheirographon*, a handwritten certificate of debt signed by the debtor."
+    },
+    {
+     "m": "j",
+     "ref": "2:15",
+     "text": "Stripped: or “disarmed.” *Triumphal procession*: as a victorious Roman general paraded his captives through the city. *By means of the cross*: literally “in it”; or “in him.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:17",
+     "text": "The body that casts it: literally “the body,” the reality in contrast to the shadow."
+    },
+    {
+     "m": "l",
+     "ref": "2:18",
+     "text": "Disqualify: Greek *katabrabeuō*, to rule against someone, as an umpire might deny an athlete the prize."
+    },
+    {
+     "m": "m",
+     "ref": "2:18",
+     "text": "Worship of angels: either worship offered to angels, or the worship angels offer, which some claimed to share in visions."
+    },
+    {
+     "m": "n",
+     "ref": "2:18",
+     "text": "Going on about what he has seen: the Greek is obscure. *Embateuō* may mean “enter into,” perhaps a term from initiation rites. Later manuscripts read “what he has not seen.”"
+    },
+    {
+     "m": "o",
+     "ref": "2:22",
+     "text": "Compare Isa 29:13."
+    },
+    {
+     "m": "p",
+     "ref": "2:23",
+     "text": "The Greek of this verse is difficult, and its last clause can also be understood as “they serve only to indulge the flesh.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    5,
+    12,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Since, then, you were raised together with Christ, aim for what is above, where Christ sits at God’s right hand.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Set your minds on things above, not on earthly things."
+    },
+    {
+     "v": 3,
+     "text": "For you have died, and your life is hidden with Christ in God."
+    },
+    {
+     "v": 4,
+     "text": "When Christ appears, he who is our life,{b} you too will appear with him, in glory."
+    },
+    {
+     "v": 5,
+     "text": "So put to death whatever in you belongs to the earth:{c} sexual immorality, impurity, passion, evil desire, and greed, which is idolatry."
+    },
+    {
+     "v": 6,
+     "text": "Because of these things the wrath of God is coming.{d}"
+    },
+    {
+     "v": 7,
+     "text": "You too once followed these ways, when you lived among them."
+    },
+    {
+     "v": 8,
+     "text": "But now you must put all of them away: anger, rage, malice, slander, and foul language from your mouths."
+    },
+    {
+     "v": 9,
+     "text": "Stop lying to each other. You have taken off the old self{e} and its ways of acting,"
+    },
+    {
+     "v": 10,
+     "text": "and clothed yourselves with the new, which is constantly made new, so as to know God fully, after the likeness of the one who created it.{f}"
+    },
+    {
+     "v": 11,
+     "text": "In this new life it makes no difference whether one is Greek or Jew, circumcised or not, barbarian or Scythian,{g} slave or free. Christ is everything, and he is in everyone."
+    },
+    {
+     "v": 12,
+     "text": "So then, since God has chosen you, made you holy, and loved you, put on heartfelt compassion, kindness, humility, gentleness, and patience as your clothing."
+    },
+    {
+     "v": 13,
+     "text": "Put up with each other; and if one of you has reason to blame another, be gracious and forgive. The Lord{h} has forgiven you; you must do likewise."
+    },
+    {
+     "v": 14,
+     "text": "Over all these clothe yourselves with love, the bond that holds all perfection together.{i}"
+    },
+    {
+     "v": 15,
+     "text": "Let the peace of Christ rule{j} in your hearts, since you were called to it as members of one body. And be thankful."
+    },
+    {
+     "v": 16,
+     "text": "Let the word of Christ dwell in you richly. In all wisdom teach and admonish one another with psalms, hymns and spiritual songs, singing to God with gratitude in your hearts."
+    },
+    {
+     "v": 17,
+     "text": "And whatever you do, in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him."
+    },
+    {
+     "v": 18,
+     "text": "Wives, be subject to your husbands, as is fitting in the Lord."
+    },
+    {
+     "v": 19,
+     "text": "Husbands, love your wives, and never treat them bitterly."
+    },
+    {
+     "v": 20,
+     "text": "Children, obey your parents in all things, for in the Lord this is pleasing."
+    },
+    {
+     "v": 21,
+     "text": "Fathers, do not exasperate your children, so that they do not become discouraged."
+    },
+    {
+     "v": 22,
+     "text": "Slaves,{k} obey your earthly masters{l} in everything, not only when they are watching, as people-pleasers, but with sincerity of heart, fearing the Lord."
+    },
+    {
+     "v": 23,
+     "text": "Whatever you do, work at it wholeheartedly, as for the Lord and not for people,"
+    },
+    {
+     "v": 24,
+     "text": "since you know that you will receive the inheritance from the Lord as your reward. You are serving the Lord Christ."
+    },
+    {
+     "v": 25,
+     "text": "Whoever does wrong will get back the wrong he did, and no partiality will be shown.{m}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Sits at God’s right hand: an echo of Ps 110:1 (109:1 in the Greek Old Testament)."
+    },
+    {
+     "m": "b",
+     "ref": "3:4",
+     "text": "Our: some manuscripts read “your.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:5",
+     "text": "Whatever in you belongs to the earth: literally “the members that are on the earth.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:6",
+     "text": "Many manuscripts add “on the children of disobedience,” from Eph 5:6; the Westcott–Hort text, with P46 and Vaticanus as reported, lacks it."
+    },
+    {
+     "m": "e",
+     "ref": "3:9",
+     "text": "Self: literally “man” (Greek *anthrōpos*, “human being”)."
+    },
+    {
+     "m": "f",
+     "ref": "3:10",
+     "text": "Compare Gen 1:26–27."
+    },
+    {
+     "m": "g",
+     "ref": "3:11",
+     "text": "Barbarian: one who did not speak Greek. *Scythian*: a people north of the Black Sea, regarded by Greeks as the most uncivilized of barbarians."
+    },
+    {
+     "m": "h",
+     "ref": "3:13",
+     "text": "The Lord: some manuscripts read “Christ,” others “God.”"
+    },
+    {
+     "m": "i",
+     "ref": "3:14",
+     "text": "The bond that holds all perfection together: literally “the bond of perfection,” or “of completeness.”"
+    },
+    {
+     "m": "j",
+     "ref": "3:15",
+     "text": "Rule: Greek *brabeuō*, to act as umpire."
+    },
+    {
+     "m": "k",
+     "ref": "3:22",
+     "text": "Slaves: Greek *douloi*, slaves or bond-servants. Slavery was widespread in the Roman world, and many members of the early churches were slaves; compare Philemon."
+    },
+    {
+     "m": "l",
+     "ref": "3:22",
+     "text": "Masters: Greek *kyrioi*, “lords,” the same word as “Lord” throughout verses 22–24; *earthly* is literally “according to the flesh.”"
+    },
+    {
+     "m": "m",
+     "ref": "3:25",
+     "text": "Partiality: literally “receiving of faces,” a Hebrew idiom for partiality."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    2,
+    7,
+    10,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Masters, treat your slaves justly and fairly, knowing that you also have a Master in heaven."
+    },
+    {
+     "v": 2,
+     "text": "Keep at prayer, staying alert in it with thanksgiving."
+    },
+    {
+     "v": 3,
+     "text": "And pray for us at the same time, asking God to open up a door for the word, that we may speak of Christ’s secret, the reason I am bound,"
+    },
+    {
+     "v": 4,
+     "text": "and that I may make it clear, as I ought to speak."
+    },
+    {
+     "v": 5,
+     "text": "Walk in wisdom toward outsiders, making the most of the time.{a}"
+    },
+    {
+     "v": 6,
+     "text": "Your words should always be full of grace and flavored with salt, so that you will know what answer to give to each one."
+    },
+    {
+     "v": 7,
+     "text": "Tychicus{b} will tell you all about my affairs. He is a dear brother, a faithful servant and a fellow slave in the Lord."
+    },
+    {
+     "v": 8,
+     "text": "That is the very reason I have sent him to you: to let you know our situation,{c} and to bring comfort to your hearts."
+    },
+    {
+     "v": 9,
+     "text": "He comes with Onesimus,{d} our faithful and dear brother, who is one of you. They will tell you about everything here."
+    },
+    {
+     "v": 10,
+     "text": "Greetings from Aristarchus,{e} who is in prison with me, and from Mark, Barnabas’s cousin.{f} You have had orders concerning Mark: make him welcome if he comes to you."
+    },
+    {
+     "v": 11,
+     "text": "Greetings, too, from Jesus called Justus.{g} Of the circumcised, these three alone are working with me for God’s kingdom, and they have proved a great comfort to me."
+    },
+    {
+     "v": 12,
+     "text": "Epaphras, who is one of you, a slave of Christ Jesus, sends greetings. He is always wrestling in his prayers on your behalf, that you may stand mature and fully assured in all the will of God."
+    },
+    {
+     "v": 13,
+     "text": "For I testify that he has worked hard for you and for those in Laodicea and in Hierapolis.{h}"
+    },
+    {
+     "v": 14,
+     "text": "Luke,{i} the beloved physician, greets you, and so does Demas.{j}"
+    },
+    {
+     "v": 15,
+     "text": "Greet the brothers at Laodicea, and also Nympha, with the church that meets in her house.{k}"
+    },
+    {
+     "v": 16,
+     "text": "And when this letter has been read among you, see that it is also read in the church of the Laodiceans, and that you in turn read the letter from Laodicea.{l}"
+    },
+    {
+     "v": 17,
+     "text": "And tell Archippus,{m} “See that you complete the ministry you have received in the Lord.”"
+    },
+    {
+     "v": 18,
+     "text": "I, Paul, write this greeting with my own hand.{n} Remember my chains. Grace be with you.{o}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:5",
+     "text": "Making the most of the time: literally “buying up the opportunity.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:7",
+     "text": "*Tychicus*: from Greek *tychē*, “fortune,” “fortunate.” He was from the province of Asia (Acts 20:4; Eph 6:21–22)."
+    },
+    {
+     "m": "c",
+     "ref": "4:8",
+     "text": "Our situation: literally “the things concerning us”; so the Westcott–Hort text; many manuscripts read “that he may know your situation.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:9",
+     "text": "*Onesimus*: Greek, “useful,” a common name for slaves. He is the runaway slave of the letter to Philemon (Phlm 10)."
+    },
+    {
+     "m": "e",
+     "ref": "4:10",
+     "text": "*Aristarchus*: Greek, “best ruler.” He was from Thessalonica and traveled with Paul (Acts 19:29; 20:4; 27:2)."
+    },
+    {
+     "m": "f",
+     "ref": "4:10",
+     "text": "*Mark*: Latin *Marcus*, a common Roman name; the John Mark of Acts 12:12, 25; 15:37–39. *Barnabas*: interpreted in Acts 4:36 as “son of encouragement.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:11",
+     "text": "*Jesus*: a common Jewish name, the Greek form of Joshua. *Justus*: Latin, “just,” “righteous,” a name often taken by Jews."
+    },
+    {
+     "m": "h",
+     "ref": "4:13",
+     "text": "Hierapolis: a city about 6 miles (10 km) north of Laodicea, famous for its hot springs."
+    },
+    {
+     "m": "i",
+     "ref": "4:14",
+     "text": "*Luke*: Latin *Lucas*, perhaps short for *Lucanus* or *Lucius*. By tradition he is the author of the Gospel of Luke and Acts."
+    },
+    {
+     "m": "j",
+     "ref": "4:14",
+     "text": "*Demas*: probably a short form of *Demetrius*, “belonging to Demeter.” He later deserted Paul (2 Tim 4:10)."
+    },
+    {
+     "m": "k",
+     "ref": "4:15",
+     "text": "*Nympha*: Greek, “bride,” a woman’s name. Some manuscripts read the man’s name *Nymphas* and “his house”; others read “their house.”"
+    },
+    {
+     "m": "l",
+     "ref": "4:16",
+     "text": "The letter from Laodicea: a letter otherwise unknown, unless it is the letter now called Ephesians (see the note on Eph 1:1) or Philemon. A later forged “Letter to the Laodiceans” survives in Latin."
+    },
+    {
+     "m": "m",
+     "ref": "4:17",
+     "text": "*Archippus*: Greek, “master of horses.” He is also greeted in Phlm 2."
+    },
+    {
+     "m": "n",
+     "ref": "4:18",
+     "text": "Paul usually dictated his letters to a scribe and added a closing in his own handwriting (2 Thess 3:17)."
+    },
+    {
+     "m": "o",
+     "ref": "4:18",
+     "text": "Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}

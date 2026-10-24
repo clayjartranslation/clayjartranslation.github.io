@@ -1811,9 +1811,14 @@
    "id": "colossians",
    "name": "Colossians",
    "division": "New Testament",
-   "chapterCount": "4",
-   "translated": [],
-   "file": null
+   "chapterCount": 4,
+   "translated": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "file": "data/books/colossians.json"
   },
   {
    "id": "1-thessalonians",
