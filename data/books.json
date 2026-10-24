@@ -1581,9 +1581,26 @@
    "id": "2-esdras",
    "name": "2 Esdras",
    "division": "Apocrypha",
-   "chapterCount": "16",
-   "translated": [],
-   "file": null
+   "chapterCount": 16,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "file": "data/books/2-esdras.json"
   },
   {
    "id": "prayer-of-manasseh",
