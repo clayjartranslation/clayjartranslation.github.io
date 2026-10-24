@@ -1917,9 +1917,13 @@
    "id": "titus",
    "name": "Titus",
    "division": "New Testament",
-   "chapterCount": "3",
-   "translated": [],
-   "file": null
+   "chapterCount": 3,
+   "translated": [
+    1,
+    2,
+    3
+   ],
+   "file": "data/books/titus.json"
   },
   {
    "id": "philemon",

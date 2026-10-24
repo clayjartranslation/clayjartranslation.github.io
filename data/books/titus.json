@@ -1,0 +1,362 @@
+{
+ "id": "titus",
+ "name": "Titus",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The chief early manuscripts are Codex Sinaiticus, Codex Alexandrinus and Codex Ephraemi (4th–5th century), with a small fragment in the papyrus P32 (about AD 200); Codex Vaticanus lacks this letter. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. Authorship: the letter names Paul as its author, writing to his coworker Titus, whom he had left on the island of Crete. As with 1 and 2 Timothy, the traditional view holds that Paul wrote it, perhaps after a release from the imprisonment described in Acts 28; many modern scholars think it was written by a follower of Paul in his name, perhaps around AD 80–110. The question remains open.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    5,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Paul,{a} a servant{b} of God and an apostle{c} of Jesus Christ, sent to further the faith of God’s chosen ones and their grasp of the truth that leads to godliness,{d}"
+    },
+    {
+     "v": 2,
+     "text": "resting on the hope of eternal life, which God, who never lies, pledged before time began,{e}"
+    },
+    {
+     "v": 3,
+     "text": "and at the proper season he brought his word to light in the proclamation with which I have been entrusted by order of God our Savior,"
+    },
+    {
+     "v": 4,
+     "text": "to Titus,{f} my true son in the faith we share: grace and peace{g} from God the Father and Christ Jesus our Savior."
+    },
+    {
+     "v": 5,
+     "text": "The reason I left you behind in Crete{h} was so that you would set in order what still needed doing and appoint elders{i} in each town, as I instructed you."
+    },
+    {
+     "v": 6,
+     "text": "An elder must be blameless, the husband of one wife,{j} with children who are believers{k} and are not open to the charge of wild living or disobedience."
+    },
+    {
+     "v": 7,
+     "text": "For an overseer,{l} as God’s steward, has to be beyond reproach: not headstrong, not hot-tempered, not a drunkard, not violent, not grasping for gain,"
+    },
+    {
+     "v": 8,
+     "text": "but hospitable, a lover of goodness, sensible, just, devout and self-controlled."
+    },
+    {
+     "v": 9,
+     "text": "He must hold firmly to the trustworthy message as it was taught, so that he can both encourage others with healthy teaching and refute those who speak against it."
+    },
+    {
+     "v": 10,
+     "text": "For there are many who will not submit to authority, empty talkers and deceivers, especially those of the circumcision party.{m}"
+    },
+    {
+     "v": 11,
+     "text": "They have to be silenced, for they are turning whole families upside down by teaching for the sake of dishonest profit what they have no business teaching."
+    },
+    {
+     "v": 12,
+     "text": "One of them, a prophet of their own, has said, “Cretans are liars forever, savage beasts, idle bellies.”{n}"
+    },
+    {
+     "v": 13,
+     "text": "That testimony is true. So reprove them sharply, so that they may be healthy in the faith,"
+    },
+    {
+     "v": 14,
+     "text": "paying no attention to Jewish myths or to the commands of people who reject the truth."
+    },
+    {
+     "v": 15,
+     "text": "To the pure all things are pure, but to the defiled and unbelieving nothing is pure; their very minds and consciences are defiled."
+    },
+    {
+     "v": 16,
+     "text": "They profess to know God, yet their conduct disowns him; they are abhorrent and rebellious, and worthless for anything good."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Servant: Greek *doulos*, “slave.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Apostle: Greek *apostolos*, “one sent,” a messenger or envoy."
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "*Jesus*: the Greek form of Hebrew *Yeshua* (Joshua), “Yahweh saves.” *Christ*: Greek *Christos*, “Anointed One,” equivalent to Hebrew *mashiach*, “Messiah.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Before time began: literally “before eternal times.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:4",
+     "text": "*Titus*: Latin, of uncertain meaning. Titus was a Greek convert who worked closely with Paul (Gal 2:1–3; 2 Cor 8:23)."
+    },
+    {
+     "m": "g",
+     "ref": "1:4",
+     "text": "Grace and peace: later manuscripts read “grace, mercy and peace.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:5",
+     "text": "Crete: the large island south of Greece in the Mediterranean Sea."
+    },
+    {
+     "m": "i",
+     "ref": "1:5",
+     "text": "Elders: Greek *presbyteroi*, the leaders of a congregation; in verse 7 the same people are called “overseers.”"
+    },
+    {
+     "m": "j",
+     "ref": "1:6",
+     "text": "The husband of one wife: literally “a man of one woman”; compare 1 Tim 3:2. The precise sense is debated."
+    },
+    {
+     "m": "k",
+     "ref": "1:6",
+     "text": "Who are believers: or “who are faithful,” that is, trustworthy."
+    },
+    {
+     "m": "l",
+     "ref": "1:7",
+     "text": "Overseer: Greek *episkopos*, “one who watches over,” traditionally “bishop.”"
+    },
+    {
+     "m": "m",
+     "ref": "1:10",
+     "text": "Those of the circumcision party: literally “those of the circumcision,” probably Jewish believers who insisted that Gentile converts be circumcised and keep the law."
+    },
+    {
+     "m": "n",
+     "ref": "1:12",
+     "text": "Cretans are liars forever …: a line traditionally attributed to the Cretan poet and seer Epimenides (about 600 BC). The first words, “Cretans always lie,” also appear in a hymn of Callimachus (3rd century BC)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But as for you, speak what fits healthy teaching."
+    },
+    {
+     "v": 2,
+     "text": "Older men are to be sober-minded, dignified, sensible, sound in faith, in love and in endurance."
+    },
+    {
+     "v": 3,
+     "text": "In the same way, the older women should behave as befits the holy, not spreading slander and not in bondage to drink. They should be teachers of what is right,"
+    },
+    {
+     "v": 4,
+     "text": "and so train the young women to love their husbands and their children,"
+    },
+    {
+     "v": 5,
+     "text": "to be sensible, chaste, good managers of their homes,{a} kind, and submissive to their own husbands, so that the word of God may not be maligned."
+    },
+    {
+     "v": 6,
+     "text": "Urge the younger men, too, to be sensible."
+    },
+    {
+     "v": 7,
+     "text": "In every respect show yourself a model of good works; in your teaching show integrity and seriousness,"
+    },
+    {
+     "v": 8,
+     "text": "and sound words beyond criticism, so that whoever stands against us may be put to shame for lack of anything evil to say of us.{b}"
+    },
+    {
+     "v": 9,
+     "text": "Slaves are to be submissive to their own masters in everything, to give satisfaction, not talking back,"
+    },
+    {
+     "v": 10,
+     "text": "not pilfering, but showing complete and genuine reliability, so that in every way they may adorn the teaching about God our Savior."
+    },
+    {
+     "v": 11,
+     "text": "For the grace of God has appeared, bringing salvation to all people,"
+    },
+    {
+     "v": 12,
+     "text": "It schools us to say no to impiety and to the cravings of this world, and to live with self-control, justice and devotion in the age that now is,"
+    },
+    {
+     "v": 13,
+     "text": "as we wait for the blessed hope, the appearing of the glory of our great God and Savior, Christ Jesus.{c}"
+    },
+    {
+     "v": 14,
+     "text": "He gave himself for us to set us free from all lawlessness and to cleanse for himself a people who would be his own treasure, eager to do good works.{d}"
+    },
+    {
+     "v": 15,
+     "text": "Speak about these things; urge and correct with full authority. Let no one disregard you."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:5",
+     "text": "Good managers of their homes: Greek *oikourgous*, “workers at home”; later manuscripts read *oikourous*, “keepers at home.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:8",
+     "text": "Us: later manuscripts read “you.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:13",
+     "text": "Our great God and Savior, Christ Jesus: or “the great God and our Savior Christ Jesus.” In Greek a single article governs both nouns (“the great God and Savior of us”), and by the rule known as Granville Sharp’s (after the English scholar who described it in 1798), two singular personal nouns joined by “and” under one article refer to the same person. On that reading Jesus is here called “God.” Others take the phrase to name two persons, God and Jesus, or render “the appearing of the glory of our great God and Savior, which is Christ Jesus.” *Appearing*: Greek *epiphaneia*, “appearance,” “manifestation.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:14",
+     "text": "To set us free … his own treasure: echoing Ps 130:8 and Ezek 37:23, and the phrase “a people for his own possession” in Exod 19:5 and Deut 7:6; 14:2 in the Greek Old Testament."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    12,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Remind them to be subject to rulers and authorities, to be obedient, to be ready for every good work,"
+    },
+    {
+     "v": 2,
+     "text": "to slander no one, to avoid quarrels, to be gentle, and to show every courtesy to all people."
+    },
+    {
+     "v": 3,
+     "text": "For we too were once foolish, disobedient and led astray, slaves to all sorts of passions and pleasures, spending our days in malice and envy, hateful and hating one another."
+    },
+    {
+     "v": 4,
+     "text": "But when the kindness and the love for humankind{a} of God our Savior appeared,"
+    },
+    {
+     "v": 5,
+     "text": "he saved us, not because of any righteous deeds we had done, but because of his own mercy, through the washing of rebirth and renewal by the Holy Spirit,{b}"
+    },
+    {
+     "v": 6,
+     "text": "whom he poured out on us richly through Jesus Christ our Savior,"
+    },
+    {
+     "v": 7,
+     "text": "so that, made righteous by his grace, we might become heirs with the hope of eternal life."
+    },
+    {
+     "v": 8,
+     "text": "Here is a trustworthy saying.{c} On these matters I want you to speak with confidence, so that those who have put their trust in God may be intent on devoting themselves to good works.{d} These things are excellent and of benefit to everyone."
+    },
+    {
+     "v": 9,
+     "text": "But avoid foolish controversies and genealogies, dissensions and quarrels about the law, for they are unprofitable and futile."
+    },
+    {
+     "v": 10,
+     "text": "Give one warning, then a second, to anyone who stirs up division,{e} and after that have no more to do with him;"
+    },
+    {
+     "v": 11,
+     "text": "you may be sure that a man like that has turned aside and goes on sinning, condemned by his own verdict."
+    },
+    {
+     "v": 12,
+     "text": "As soon as I send Artemas to you, or Tychicus,{f} make every effort to join me at Nicopolis,{g} since that is where I have resolved to pass the winter."
+    },
+    {
+     "v": 13,
+     "text": "Do all you can to help Zenas the lawyer and Apollos on their way, and see that they lack nothing.{h}"
+    },
+    {
+     "v": 14,
+     "text": "And let our own people also learn to devote themselves to good works, to meet pressing needs, so that they will not be unfruitful."
+    },
+    {
+     "v": 15,
+     "text": "All who are with me send you greetings. Greet those who love us in the faith. Grace be with you all.{i}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:4",
+     "text": "Love for humankind: Greek *philanthrōpia*, from which English “philanthropy” comes."
+    },
+    {
+     "m": "b",
+     "ref": "3:5",
+     "text": "Rebirth: Greek *palingenesia*, “new beginning,” “regeneration.” *Washing of rebirth and renewal by the Holy Spirit*: or “the washing of rebirth, and renewal by the Holy Spirit.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:8",
+     "text": "Here is a trustworthy saying: literally “faithful is the word”; compare 1 Tim 1:15. It probably refers to verses 4–7."
+    },
+    {
+     "m": "d",
+     "ref": "3:8",
+     "text": "Devoting themselves to good works: or “taking the lead in honest occupations”; so also in verse 14."
+    },
+    {
+     "m": "e",
+     "ref": "3:10",
+     "text": "Stirs up division: Greek *hairetikos*, “factious,” from which English “heretic” comes."
+    },
+    {
+     "m": "f",
+     "ref": "3:12",
+     "text": "*Artemas*: Greek, short for *Artemidoros*, “gift of Artemis.” *Tychicus*: Greek, “fortunate”; compare 2 Tim 4:12."
+    },
+    {
+     "m": "g",
+     "ref": "3:12",
+     "text": "Nicopolis: Greek, “city of victory”; probably the city of that name in Epirus, on the western coast of Greece."
+    },
+    {
+     "m": "h",
+     "ref": "3:13",
+     "text": "*Zenas*: Greek, short for *Zenodoros*, “gift of Zeus.” *Lawyer*: either an expert in the Jewish law or a Roman jurist. *Apollos*: Greek, short for *Apollonios*, “belonging to Apollo”; compare Acts 18:24; 1 Cor 3:6."
+    },
+    {
+     "m": "i",
+     "ref": "3:15",
+     "text": "With you all: the “you” is plural. Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}
