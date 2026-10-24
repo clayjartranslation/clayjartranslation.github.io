@@ -1479,9 +1479,17 @@
    "id": "3-maccabees",
    "name": "3 Maccabees",
    "division": "Apocrypha",
-   "chapterCount": "7",
-   "translated": [],
-   "file": null
+   "chapterCount": 7,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "file": "data/books/3-maccabees.json"
   },
   {
    "id": "4-maccabees",
