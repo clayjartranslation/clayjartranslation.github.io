@@ -1,0 +1,3047 @@
+{
+ "id": "2-maccabees",
+ "name": "2 Maccabees",
+ "division": "Apocrypha",
+ "sourceNote": "Translated fresh from the Greek text of 2 Maccabees in H. B. Swete's edition of the Septuagint (Cambridge, 1909; public domain), with Brenton's public-domain English version consulted as a check. The book was composed in Greek; after two prefaced letters to the Jews of Egypt (1:1–2:18), it presents itself as an abridgment of a five-volume history by Jason of Cyrene. Dates are given by the Seleucid era; each is converted in the text to its year BC, with the modern month span for any named month, and the original reckoning is in a footnote. Converted years may be off by one, since the era was reckoned from autumn 312 BC in some sources and from spring 311 BC in others. Weights and sums of money are given in approximate modern US units, with the original units and metric figures in the footnotes; ancient standards varied. Greek kyrios is translated \"Lord\" and theos \"God.\" Verse numbers follow the standard English versification. This is a draft awaiting scholarly review.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    7,
+    18,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "To their kindred, the Jews throughout Egypt, greetings from their kindred, the Jews in Jerusalem and in the land of Judea: true peace."
+    },
+    {
+     "v": 2,
+     "text": "May God do you good, and may he remember his covenant with Abraham, Isaac, and Jacob, his faithful servants."
+    },
+    {
+     "v": 3,
+     "text": "May he give all of you a heart to worship him and to carry out his will with a great heart and a willing spirit."
+    },
+    {
+     "v": 4,
+     "text": "May he open your heart to his law and his commandments, and may he bring about peace."
+    },
+    {
+     "v": 5,
+     "text": "May he hear your prayers and be reconciled to you, and may he not forsake you in a time of evil."
+    },
+    {
+     "v": 6,
+     "text": "Here and now we are praying for you."
+    },
+    {
+     "v": 7,
+     "text": "In the reign of Demetrius, in the year 143 BC,{a} we Jews wrote to you: \"In the affliction and the crisis that came upon us in those years after Jason and his followers turned traitor against the holy land and the kingdom,{b}"
+    },
+    {
+     "v": 8,
+     "text": "they set fire to the gateway and shed innocent blood. Then we pleaded with the Lord and were heard; we offered sacrifice and fine flour, we lit the lamps, and we set out the loaves.\""
+    },
+    {
+     "v": 9,
+     "text": "And now see that you keep the days of Booths in the month of Chislev (in November–December).{c}"
+    },
+    {
+     "v": 10,
+     "text": "Written in the year 124 BC.{d} From those in Jerusalem and Judea, the senate, and Judas, to Aristobulus, who is of the stock of the anointed priests and tutor to King Ptolemy, and to the Jews of Egypt: greeting, and health.{e}"
+    },
+    {
+     "v": 11,
+     "text": "Having been rescued by God from grave dangers, we give him great thanks, as men who stood in battle array against a king."
+    },
+    {
+     "v": 12,
+     "text": "For it was he who hurled out those who drew up for battle against the holy city."
+    },
+    {
+     "v": 13,
+     "text": "When the leader reached Persia with an army that seemed irresistible, they were cut to pieces in the temple of Nanea through a trick employed by Nanea's priests.{f}"
+    },
+    {
+     "v": 14,
+     "text": "On the pretext of marrying the goddess, Antiochus came to the place with his Friends, meaning to take its great riches as a dowry."
+    },
+    {
+     "v": 15,
+     "text": "When the priests of Nanea had set the treasures out and he had gone with a few men inside the wall of the sacred precinct, they shut the temple as soon as Antiochus entered."
+    },
+    {
+     "v": 16,
+     "text": "Opening a secret door in the paneled ceiling, they hurled stones and struck down the leader as if with thunderbolts; then they cut the bodies in pieces and threw the heads to those outside."
+    },
+    {
+     "v": 17,
+     "text": "Our God be praised in all things, he who gave up the impious to judgment!"
+    },
+    {
+     "v": 18,
+     "text": "We are about to keep the cleansing of the sanctuary on the twenty-fifth of Chislev (in November–December), and so we judged it needful to make this known to you, that you also may observe a feast of Booths and of the fire which appeared when Nehemiah, the builder of the sanctuary and altar, brought up sacrifices.{g}"
+    },
+    {
+     "v": 19,
+     "text": "For when our ancestors were being led away to Persia, devout priests of that time secretly took some of the fire from the altar and hid it in the hollow of a dry cistern, where they made it secure, so that the place was unknown to anyone."
+    },
+    {
+     "v": 20,
+     "text": "After many years had passed, when it pleased God, Nehemiah, sent by the king of Persia, dispatched the descendants of the priests who had hidden the fire to recover it."
+    },
+    {
+     "v": 21,
+     "text": "When they reported to us that they had found no fire but only a thick liquid, he ordered them to draw some out and bring it. When the materials for the sacrifices had been placed on the altar, Nehemiah ordered the priests to sprinkle the liquid on the wood and on what lay upon it."
+    },
+    {
+     "v": 22,
+     "text": "When this was done and some time had passed, and the sun, which had been behind clouds, shone out, a great blaze flared up, so that everyone marveled."
+    },
+    {
+     "v": 23,
+     "text": "And as the offering burned, the priests made prayer, both priests and all the rest, Jonathan beginning and the others answering, as Nehemiah did."
+    },
+    {
+     "v": 24,
+     "text": "The prayer went like this: \"O Lord, Lord God, Creator of all things, awe-inspiring and strong, just and merciful, you alone are King and kind,"
+    },
+    {
+     "v": 25,
+     "text": "you alone are bountiful, you alone are just, almighty, and eternal. You rescue Israel from every evil; you made our ancestors your chosen ones and consecrated them."
+    },
+    {
+     "v": 26,
+     "text": "Receive the offering for the whole of Israel your people; keep safe your inheritance and sanctify it."
+    },
+    {
+     "v": 27,
+     "text": "Bring our dispersion together again; free those in bondage among the Gentiles; regard the scorned and abhorred; and so let the Gentiles learn that you are our God."
+    },
+    {
+     "v": 28,
+     "text": "Punish those who oppress us and insolently abuse us in their arrogance."
+    },
+    {
+     "v": 29,
+     "text": "Plant your people in your holy place, as Moses said.\""
+    },
+    {
+     "v": 30,
+     "text": "Then the priests sang the hymns."
+    },
+    {
+     "v": 31,
+     "text": "Once the sacrifice was burned up, Nehemiah gave orders to pour what remained of the liquid upon some large stones."
+    },
+    {
+     "v": 32,
+     "text": "When this was done, a flame blazed up, but it was consumed by the light that shone back from the altar.{h}"
+    },
+    {
+     "v": 33,
+     "text": "Once the affair came to light, the Persian king was told that where the priests carried into exile had concealed the fire, liquid had been found, and that Nehemiah's company had used it to purify the offerings."
+    },
+    {
+     "v": 34,
+     "text": "The king fenced off the place and made it sacred, after investigating the matter."
+    },
+    {
+     "v": 35,
+     "text": "And to those on whom the king bestowed favor, he gave a share of the many gifts he received.{i}"
+    },
+    {
+     "v": 36,
+     "text": "Nehemiah's company gave this the name nephthar, interpreted as \"cleansing\"; but among most it goes by the name naphtha.{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:7",
+     "text": "Greek: in the 169th year (Seleucid era). The Seleucid era is the reckoning used in the books of Maccabees, counted from the founding of the Seleucid kingdom in autumn 312 BC or spring 311 BC; converted years may be off by one. Demetrius is Demetrius II."
+    },
+    {
+     "m": "b",
+     "ref": "1:7",
+     "text": "Jason the high priest; see 4:7–26 and 5:5–10."
+    },
+    {
+     "m": "c",
+     "ref": "1:9",
+     "text": "Literally \"the days of Booths of the month of Chislev,\" that is, the festival of the temple's rededication (Hanukkah), kept for eight days in the manner of Booths; see 10:6. Chislev is the ninth month, November–December."
+    },
+    {
+     "m": "d",
+     "ref": "1:10",
+     "text": "Greek: in the 188th year (Seleucid era; see note on 1:7). Many interpreters attach this date to the first letter; others take it as the opening of the second letter."
+    },
+    {
+     "m": "e",
+     "ref": "1:10",
+     "text": "Aristobulus was a Jewish philosopher of Alexandria; the king is probably Ptolemy VI Philometor. The second letter (1:10–2:18) claims to come from Judas Maccabeus and so would date from about 164 BC."
+    },
+    {
+     "m": "f",
+     "ref": "1:13",
+     "text": "Nanea (Nanaia) was a goddess worshiped in Persia and Mesopotamia. This account of the death of Antiochus differs from 1 Macc 6:1–16 and 2 Macc 9; it may reflect the death of Antiochus III in 187 BC, who died plundering a temple in Elymais."
+    },
+    {
+     "m": "g",
+     "ref": "1:18",
+     "text": "Chislev is the ninth month, November–December. The traditional reconstruction of the temple was by Zerubbabel and Joshua (Ezra 3–6); this tradition credits Nehemiah."
+    },
+    {
+     "m": "h",
+     "ref": "1:32",
+     "text": "The sense of this verse is uncertain."
+    },
+    {
+     "m": "i",
+     "ref": "1:35",
+     "text": "Or \"the king took many gifts and gave a share to them\"; the Greek is obscure."
+    },
+    {
+     "m": "j",
+     "ref": "1:36",
+     "text": "Nephthar is of uncertain origin and meaning; the explanation \"purification\" is the author's. Naphtha is a flammable petroleum liquid."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    13,
+    16,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "It is found in the records that Jeremiah the prophet ordered those being deported to take some of the fire, as has been told,"
+    },
+    {
+     "v": 2,
+     "text": "and that the prophet, having handed them the law, charged the deportees not to forget the Lord's ordinances, nor to be led astray in their thoughts on seeing images of gold and silver and their finery."
+    },
+    {
+     "v": 3,
+     "text": "With other such words he exhorted them never to let the law depart from their hearts."
+    },
+    {
+     "v": 4,
+     "text": "The writing also told how the prophet, warned by an oracle, ordered the tent and the ark to go along with him, and how he went out to the mountain that Moses had climbed to view God's inheritance.{a}"
+    },
+    {
+     "v": 5,
+     "text": "Arriving there, Jeremiah found a cave-like dwelling, and into it he carried the tent, the ark, and the altar of incense; then he blocked up the entrance."
+    },
+    {
+     "v": 6,
+     "text": "Some of his companions came up afterward meaning to mark the way, but they could not find it."
+    },
+    {
+     "v": 7,
+     "text": "When Jeremiah learned of this, he rebuked them: \"Unknown that place will be, until God brings his people together in one assembly and mercy comes."
+    },
+    {
+     "v": 8,
+     "text": "Then the Lord will bring these things to light, and the glory of the Lord and the cloud will be seen, as they were shown in the days of Moses, and as when Solomon prayed that the place might be gloriously hallowed.\""
+    },
+    {
+     "v": 9,
+     "text": "It was also made clear how Solomon, being endowed with wisdom, offered a sacrifice for the dedication and completion of the sanctuary."
+    },
+    {
+     "v": 10,
+     "text": "Just as Moses prayed to the Lord and fire came down from heaven and devoured the sacrifices, so too Solomon prayed, and the fire descended and consumed the whole burnt offerings."
+    },
+    {
+     "v": 11,
+     "text": "And Moses said, \"Because the sin offering had not been eaten, it was consumed.\"{b}"
+    },
+    {
+     "v": 12,
+     "text": "Likewise Solomon too kept the eight days.{c}"
+    },
+    {
+     "v": 13,
+     "text": "These same things are reported also in the records and in the memoirs of Nehemiah, and also how he founded a library and collected the books about the kings and prophets, and the writings of David, and letters of kings about votive offerings.{d}"
+    },
+    {
+     "v": 14,
+     "text": "In the same way Judas also gathered up all the books that had been scattered because of the war that befell us, and we have them in our possession."
+    },
+    {
+     "v": 15,
+     "text": "So if you need any of them, send people to fetch them for you."
+    },
+    {
+     "v": 16,
+     "text": "Since, then, we are about to celebrate the purification, we write to you. You will do well, therefore, to keep these days."
+    },
+    {
+     "v": 17,
+     "text": "It is God who has saved all his people and has given back to all the inheritance, the kingship, the priesthood, and the consecration,"
+    },
+    {
+     "v": 18,
+     "text": "as he pledged in the law. Our hope rests on God, that he will be quick to pity us and to gather us from everywhere under heaven into the holy place; for out of great evils he delivered us, and he cleansed the place."
+    },
+    {
+     "v": 19,
+     "text": "The story of Judas Maccabeus and his brothers,{e} and the purification of the greatest of temples, and the dedication of the altar,"
+    },
+    {
+     "v": 20,
+     "text": "and further the wars against Antiochus Epiphanes and his son Eupator,{f}"
+    },
+    {
+     "v": 21,
+     "text": "and the manifestations from heaven granted to those who strove valiantly, with honor, on behalf of Judaism,{g} so that, few as they were, they overran the whole land and chased off the barbarian multitudes,"
+    },
+    {
+     "v": 22,
+     "text": "and won back the temple renowned throughout the inhabited world, and set the city free, and reestablished the laws then on the verge of being overthrown, the Lord in all his gentleness being merciful toward them,"
+    },
+    {
+     "v": 23,
+     "text": "all this, made known by Jason the Cyrenian in five books, we will try to shorten into one composition."
+    },
+    {
+     "v": 24,
+     "text": "For we saw the flood of figures, and the difficulty that the sheer mass of material poses for anyone wishing to plunge into the narratives of the history,"
+    },
+    {
+     "v": 25,
+     "text": "and we have aimed to bring delight to those who wish to read, ease to those inclined to commit things to memory, and benefit to all who come upon the work."
+    },
+    {
+     "v": 26,
+     "text": "For us who have taken on the toil of abridging, the task is no easy one; it is a matter of sweat and sleepless nights,"
+    },
+    {
+     "v": 27,
+     "text": "just as it is no light thing for one preparing a banquet who seeks the enjoyment of others. Even so, for the sake of the gratitude of many, we shall gladly endure the toil,"
+    },
+    {
+     "v": 28,
+     "text": "leaving to the original author the precise treatment of every detail, while we exert ourselves to follow the outlines of an abridgment."
+    },
+    {
+     "v": 29,
+     "text": "For as the master builder of a new house must concern himself with the entire structure, while the one who undertakes to paint and decorate it must look into what is suitable for adornment, so I judge it to be in our case."
+    },
+    {
+     "v": 30,
+     "text": "To enter into the subject, to range over it in discussion, and to busy oneself with particulars is the task of the first compiler of the history;"
+    },
+    {
+     "v": 31,
+     "text": "but the one who recasts it must be allowed to aim at brevity of expression and to forgo exhaustive treatment."
+    },
+    {
+     "v": 32,
+     "text": "Here, then, let us begin our narrative, adding only this much to what has already been said; for it is foolish to be lavish before the history and then cut short the history itself."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:4",
+     "text": "Mount Nebo; see Deut 32:49; 34:1–4."
+    },
+    {
+     "m": "b",
+     "ref": "2:11",
+     "text": "See Lev 10:16–20."
+    },
+    {
+     "m": "c",
+     "ref": "2:12",
+     "text": "See 1 Kings 8:65–66; 2 Chr 7:8–10."
+    },
+    {
+     "m": "d",
+     "ref": "2:13",
+     "text": "\"Votive offerings\": gifts dedicated to the temple."
+    },
+    {
+     "m": "e",
+     "ref": "2:19",
+     "text": "Maccabeus, the surname of Judas, perhaps means \"hammer\" (Aramaic maqqaba), but the meaning is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "2:20",
+     "text": "Antiochus IV Epiphanes (\"God manifest\") and his son Antiochus V Eupator (\"of a noble father\")."
+    },
+    {
+     "m": "g",
+     "ref": "2:21",
+     "text": "This is the earliest known use of the Greek word \"Judaism,\" the name for the Jewish way of life; compare 8:1; 14:38."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    4,
+    14,
+    22,
+    31,
+    37
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "While the holy city was inhabited in unbroken peace and the laws were kept most faithfully, because of the piety of Onias the high priest and his hatred of wickedness,{a}"
+    },
+    {
+     "v": 2,
+     "text": "it came about that the kings themselves honored the place and glorified the temple with the finest gifts,"
+    },
+    {
+     "v": 3,
+     "text": "so that even Seleucus, king of Asia, met from his own revenues all the costs connected with the service of the sacrifices.{b}"
+    },
+    {
+     "v": 4,
+     "text": "But a certain Simon, of the tribe of Benjamin,{c} who had been appointed captain of the temple, fell into a dispute with the high priest about the regulation of the city market."
+    },
+    {
+     "v": 5,
+     "text": "Unable to prevail over Onias, he went to Apollonius son of Thraseas, who at that time was governor of Coelesyria and Phoenicia,{d}"
+    },
+    {
+     "v": 6,
+     "text": "and reported to him that the treasury in Jerusalem was crammed with untold sums of money, so that the quantity of funds could not be counted, and that they did not belong to the account of the sacrifices, but that it was possible for them to fall under the king's control."
+    },
+    {
+     "v": 7,
+     "text": "When Apollonius met the king, he told him of the money that had been disclosed to him. The king chose Heliodorus, his chief minister, and sent him with orders to carry off the reported wealth.{e}"
+    },
+    {
+     "v": 8,
+     "text": "Heliodorus at once took the road, in appearance to visit the towns of Coelesyria and Phoenicia, but in reality to accomplish what the king intended."
+    },
+    {
+     "v": 9,
+     "text": "On arriving at Jerusalem and being kindly welcomed by the high priest of the city, he laid before him the information that had been given and made plain why he had come, and he asked whether these things were really so."
+    },
+    {
+     "v": 10,
+     "text": "The high priest explained that there were deposits belonging to widows and orphans,"
+    },
+    {
+     "v": 11,
+     "text": "and that some belonged to Hyrcanus son of Tobias, a man holding a very eminent place. So far was it from what Simon, that ungodly man, alleged. The whole came to fifteen tons of silver and seven and a half tons of gold.{f}"
+    },
+    {
+     "v": 12,
+     "text": "To wrong those who had trusted in the holiness of the place, and in the sanctity and inviolability of the temple honored throughout the whole world, was utterly impossible."
+    },
+    {
+     "v": 13,
+     "text": "But Heliodorus, because of the orders he had from the king, said that in any case this money must be confiscated for the royal treasury."
+    },
+    {
+     "v": 14,
+     "text": "Fixing a day, he went in to manage the examination of these funds, and anguish of no small degree gripped the entire city."
+    },
+    {
+     "v": 15,
+     "text": "The priests flung themselves down before the altar in their priestly robes and cried out to Heaven, to the one who had laid down the law concerning deposits, asking him to preserve these intact for those who had placed them there."
+    },
+    {
+     "v": 16,
+     "text": "Whoever looked on the high priest's countenance was pierced in mind, for his appearance and his altered complexion revealed the agony within his soul."
+    },
+    {
+     "v": 17,
+     "text": "Fear and a shuddering of the body had spread over him, and by these the grief settled in his heart was made evident to the onlookers."
+    },
+    {
+     "v": 18,
+     "text": "People also rushed out of their houses in crowds to make a general supplication, because the place was about to be brought into contempt."
+    },
+    {
+     "v": 19,
+     "text": "The women, with sackcloth bound beneath their breasts, filled the roadways in great numbers; and of the virgins kept in seclusion, some ran to the gateways, some to the walls, and some leaned out to look through the windows."
+    },
+    {
+     "v": 20,
+     "text": "And all of them, stretching out their hands toward heaven, made their entreaty."
+    },
+    {
+     "v": 21,
+     "text": "It was pitiable to see the multitude prostrate in a mixed throng, and the anxious expectation of the high priest in his great anguish."
+    },
+    {
+     "v": 22,
+     "text": "While they were calling upon the almighty Lord to keep the things entrusted safe and secure for those who had entrusted them,"
+    },
+    {
+     "v": 23,
+     "text": "Heliodorus went on with what had been decided."
+    },
+    {
+     "v": 24,
+     "text": "But when he was already present at the treasury with his guards, the Ruler over spirits and every power made a great appearing, so that all who had dared to come along were struck with dismay at God's might and gave way to weakness and fear."
+    },
+    {
+     "v": 25,
+     "text": "For a horse appeared to them, carrying a terrifying rider and decked with the most beautiful harness; charging violently, it lashed at Heliodorus with its forefeet, and the one mounted on it seemed to wear a full suit of golden armor."
+    },
+    {
+     "v": 26,
+     "text": "Two other young men also appeared to him, remarkably strong, splendid in beauty, and gorgeously dressed; they stood on either side of him and flogged him without pause, inflicting many blows on him."
+    },
+    {
+     "v": 27,
+     "text": "When he had suddenly fallen to the ground and was enveloped in deep darkness, they picked him up, put him on a stretcher,"
+    },
+    {
+     "v": 28,
+     "text": "and carried away the man who had just entered that treasury with a great retinue and all his bodyguard, now helpless; and they plainly recognized the sovereign power of God."
+    },
+    {
+     "v": 29,
+     "text": "So he, by God's working, lay cast down, voiceless and bereft of every hope of rescue,"
+    },
+    {
+     "v": 30,
+     "text": "while they blessed the Lord who had wondrously glorified his own place; and the sanctuary, so lately brimming with dread and confusion, was now full of joy and rejoicing, since the almighty Lord had shown himself."
+    },
+    {
+     "v": 31,
+     "text": "Soon certain of Heliodorus's intimates asked Onias to call on the Most High and grant life to the man who lay at his very last gasp."
+    },
+    {
+     "v": 32,
+     "text": "The high priest, fearing that the king might suspect that some foul play had been done to Heliodorus by the Jews, offered a sacrifice for the man's recovery."
+    },
+    {
+     "v": 33,
+     "text": "As the high priest was offering the sacrifice of atonement, those same youths, clad in the same garments, once more appeared to Heliodorus. Standing there, they said, \"Owe Onias the high priest much thanks; on his account the Lord has granted you life."
+    },
+    {
+     "v": 34,
+     "text": "As for you, scourged from heaven, proclaim to everyone God's mighty strength.\" When they had said this, they were seen no more."
+    },
+    {
+     "v": 35,
+     "text": "Then Heliodorus offered sacrifice to the Lord and made very great vows to the one who had saved his life, and having bidden Onias farewell, he marched back with his forces to the king."
+    },
+    {
+     "v": 36,
+     "text": "He bore testimony to everyone of the deeds of the supreme God that he had seen with his own eyes."
+    },
+    {
+     "v": 37,
+     "text": "The king asked Heliodorus who might be a fit man to dispatch once again to Jerusalem, and he answered:"
+    },
+    {
+     "v": 38,
+     "text": "\"Should you have some foe or someone scheming against the state, dispatch him there, and you will receive him back well scourged, if indeed he comes through alive; for truly a power of God surrounds that place."
+    },
+    {
+     "v": 39,
+     "text": "The one whose abode is in heaven is himself its overseer and helper, and those who arrive there to do it harm he smites and destroys.\""
+    },
+    {
+     "v": 40,
+     "text": "This was the outcome of the affair of Heliodorus and the protection of the treasury."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Onias III, high priest about 196–175 BC."
+    },
+    {
+     "m": "b",
+     "ref": "3:3",
+     "text": "Seleucus IV Philopator, king 187–175 BC."
+    },
+    {
+     "m": "c",
+     "ref": "3:4",
+     "text": "Some ancient witnesses read \"of Bilgah,\" a priestly family (Neh 12:5, 18)."
+    },
+    {
+     "m": "d",
+     "ref": "3:5",
+     "text": "Coelesyria (\"Hollow Syria\") was the region between the Lebanon ranges, extending in official usage to Palestine."
+    },
+    {
+     "m": "e",
+     "ref": "3:7",
+     "text": "Literally \"the one in charge of affairs.\""
+    },
+    {
+     "m": "f",
+     "ref": "3:11",
+     "text": "Greek: four hundred talents of silver and two hundred talents of gold. A talent was about 75 pounds (34 kg)."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    7,
+    18,
+    21,
+    23,
+    30,
+    39,
+    43
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But the aforesaid Simon, who had turned informer against the funds and against his own homeland, went about slandering Onias, as if it were Onias who had stirred Heliodorus up and had been the author of these evils."
+    },
+    {
+     "v": 2,
+     "text": "He dared to call the city's benefactor, the protector of his fellow countrymen and zealous upholder of the laws, a conspirator against the state."
+    },
+    {
+     "v": 3,
+     "text": "When the enmity advanced so far that even murders were carried out by one of Simon's trusted agents,"
+    },
+    {
+     "v": 4,
+     "text": "Onias saw how dangerous the rivalry was, and that Apollonius son of Menestheus, governor of Coelesyria and Phoenicia, was fanning Simon's malice.{a}"
+    },
+    {
+     "v": 5,
+     "text": "So he betook himself to the king, not as an accuser of his fellow citizens but with an eye to the welfare, both public and private, of all the people."
+    },
+    {
+     "v": 6,
+     "text": "For he saw that without the king's attention it was impossible for public affairs to find peace, and that Simon would not cease from his folly."
+    },
+    {
+     "v": 7,
+     "text": "When Seleucus had departed this life and Antiochus, who was called Epiphanes, received the kingdom, Jason the brother of Onias obtained the high priesthood by corruption,{b}"
+    },
+    {
+     "v": 8,
+     "text": "promising the king in a petition about thirteen and a half tons of silver, and from some other revenue about three tons more.{c}"
+    },
+    {
+     "v": 9,
+     "text": "Besides this he engaged to pay in writing about five and a half tons further, if leave were given him by the king's authority to found a gymnasium and a training corps of youths, and to register the people of Jerusalem as citizens of Antioch.{d}"
+    },
+    {
+     "v": 10,
+     "text": "The king gave his assent; and Jason, as soon as he had seized the office, at once shifted his countrymen over to the Greek way of life."
+    },
+    {
+     "v": 11,
+     "text": "He set aside the royal privileges granted to the Jews, obtained through John the father of Eupolemus, who had gone on the embassy to the Romans for friendship and alliance;{e} and abolishing the lawful ways of life, he brought in new customs contrary to the law."
+    },
+    {
+     "v": 12,
+     "text": "With relish he founded a gymnasium right below the citadel, and he made the noblest of the young men submit to wearing the broad-brimmed hat.{f}"
+    },
+    {
+     "v": 13,
+     "text": "Thus Hellenism reached its height and the adoption of alien customs advanced, through the boundless profanity of Jason, an impious man and in no way a high priest,"
+    },
+    {
+     "v": 14,
+     "text": "that the priests were no longer eager for the services of the altar. Despising the sanctuary and neglecting the sacrifices, they hastened, once the gong summoned for the discus, to take part in the unlawful exercises provided in the wrestling school.{g}"
+    },
+    {
+     "v": 15,
+     "text": "Counting their ancestral honors as nothing, they prized Greek distinctions above all."
+    },
+    {
+     "v": 16,
+     "text": "For this reason a grievous calamity overtook them, and the very people whose ways they envied and wished to resemble in every respect became their enemies and punishers."
+    },
+    {
+     "v": 17,
+     "text": "For to act impiously against the divine laws is no light matter, as the period that follows will show."
+    },
+    {
+     "v": 18,
+     "text": "When the games held every fifth year were being celebrated at Tyre, and the king was present,{h}"
+    },
+    {
+     "v": 19,
+     "text": "the polluted Jason sent official delegates, purporting to be Antiochenes from Jerusalem, conveying nearly three pounds of silver for the sacrifice to Heracles.{i} But the bearers themselves thought it unfitting to spend it on a sacrifice,"
+    },
+    {
+     "v": 20,
+     "text": "and so, on account of those bringing it, it went to the construction of warships.{j}"
+    },
+    {
+     "v": 21,
+     "text": "Apollonius son of Menestheus was dispatched to Egypt for the enthronement of King Philometor,{k} and Antiochus, discovering that Philometor had turned unfriendly toward his interests, looked to his own safety. So he went to Joppa and from there came down to Jerusalem."
+    },
+    {
+     "v": 22,
+     "text": "He was received in grand style by Jason and the city and was ushered in with torchlight and shouting. After that he marched his army into Phoenicia."
+    },
+    {
+     "v": 23,
+     "text": "After a period of three years Jason sent Menelaus, the brother of the Simon mentioned above, to carry the money to the king and to complete records on urgent business.{l}"
+    },
+    {
+     "v": 24,
+     "text": "But Menelaus, once presented to the king, flattered him with the bearing of a man of power and so drew the high priesthood to himself, outbidding Jason by about eleven tons of silver.{m}"
+    },
+    {
+     "v": 25,
+     "text": "After receiving the king's commission he returned, bringing nothing worthy of the high priesthood but having the passions of a cruel tyrant and the rage of a savage beast."
+    },
+    {
+     "v": 26,
+     "text": "So Jason, who had undermined his own brother, was undermined in turn by another and was driven as a fugitive into the land of Ammon."
+    },
+    {
+     "v": 27,
+     "text": "Menelaus kept firm hold of the office, but of the money promised to the king he paid nothing in due order."
+    },
+    {
+     "v": 28,
+     "text": "Sostratus, the citadel's commandant, pressed for payment, for the collecting of the dues belonged to him; and on this account both men were called before the king."
+    },
+    {
+     "v": 29,
+     "text": "Menelaus left his own brother Lysimachus as deputy in the high priesthood, and Sostratus left Crates, the commander of the Cypriots.{n}"
+    },
+    {
+     "v": 30,
+     "text": "Matters standing thus, the citizens of Tarsus and Mallus rose in revolt, since their towns had been handed over as a gift to Antiochis, a concubine of the king."
+    },
+    {
+     "v": 31,
+     "text": "So the king went off in haste to settle matters, leaving as his deputy Andronicus, a man of high rank."
+    },
+    {
+     "v": 32,
+     "text": "Menelaus, supposing a favorable moment had come, purloined certain golden vessels belonging to the sanctuary and made a present of them to Andronicus; others he had already sold off in Tyre and the neighboring towns."
+    },
+    {
+     "v": 33,
+     "text": "When Onias had clear knowledge of this, he exposed him publicly, having withdrawn to a place of sanctuary at Daphne near Antioch.{o}"
+    },
+    {
+     "v": 34,
+     "text": "Therefore Menelaus, taking Andronicus aside, urged him to kill Onias. Andronicus went to Onias, and resorting to treachery, gave him his right hand with oaths. Though still suspected, he persuaded Onias to come out from the sanctuary, and at once he shut him away and killed him, with no regard for justice.{p}"
+    },
+    {
+     "v": 35,
+     "text": "For this reason not only Jews but many people of other nations too were indignant and displeased at the unjust murder of the man."
+    },
+    {
+     "v": 36,
+     "text": "On the king's return from the districts of Cilicia, the city's Jews appealed to him, joined by Greeks who shared their loathing of wrongdoing, concerning the senseless slaying of Onias."
+    },
+    {
+     "v": 37,
+     "text": "Antiochus was grieved at heart and moved to pity, and he wept because of the moderation and great good conduct of the deceased."
+    },
+    {
+     "v": 38,
+     "text": "Inflamed with anger, he at once stripped Andronicus of his purple robe, tore off his garments, and led him about through the whole city to the very place where he had committed the outrage against Onias; and there he put the murderer out of the world, the Lord repaying him with the punishment he deserved."
+    },
+    {
+     "v": 39,
+     "text": "When many sacrileges had been committed in the city by Lysimachus with the connivance of Menelaus, and the report had spread abroad, the populace gathered against Lysimachus, for many of the gold vessels had already been carried off."
+    },
+    {
+     "v": 40,
+     "text": "As the crowds were rising and becoming filled with rage, Lysimachus armed about three thousand men and began unjust violence, with a certain Auranus leading, a man advanced in years and no less in folly."
+    },
+    {
+     "v": 41,
+     "text": "When the people saw the attack of Lysimachus, some seized stones, some thick pieces of wood, and others grabbed handfuls of the ashes lying near, and they hurled them in wild confusion at Lysimachus and his men."
+    },
+    {
+     "v": 42,
+     "text": "As a result they wounded many of them, struck down some, and put all of them to flight; and the temple robber himself they killed beside the treasury."
+    },
+    {
+     "v": 43,
+     "text": "A charge was brought against Menelaus over these matters."
+    },
+    {
+     "v": 44,
+     "text": "When the king came to Tyre, the three men sent by the council of elders presented the case before him."
+    },
+    {
+     "v": 45,
+     "text": "But Menelaus, already losing, offered Ptolemy son of Dorymenes a substantial sum if he would bring the king round."
+    },
+    {
+     "v": 46,
+     "text": "So Ptolemy, taking the king aside into a colonnade as if for fresh air, induced him to change his mind."
+    },
+    {
+     "v": 47,
+     "text": "Menelaus, the cause of all the evil, he acquitted of the charges, while the unfortunate men, who would have been freed as innocent even if they had pleaded before Scythians, he sentenced to death.{q}"
+    },
+    {
+     "v": 48,
+     "text": "So those who had pleaded on behalf of the city, the country districts, and the sacred vessels swiftly underwent that undeserved punishment."
+    },
+    {
+     "v": 49,
+     "text": "For this cause Tyrians too, out of abhorrence of the wickedness, bore the cost of their funeral with great generosity."
+    },
+    {
+     "v": 50,
+     "text": "Yet Menelaus kept his office through the covetousness of the powerful, ever thriving in wickedness, set up as the great traitor to his fellow citizens."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:4",
+     "text": "In 3:5 the governor is called Apollonius son of Thraseas; the relation of the two names is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "4:7",
+     "text": "Antiochus IV Epiphanes became king in 175 BC."
+    },
+    {
+     "m": "c",
+     "ref": "4:8",
+     "text": "Greek: three hundred sixty talents of silver, and eighty talents. A talent was about 75 pounds (34 kg)."
+    },
+    {
+     "m": "d",
+     "ref": "4:9",
+     "text": "Greek: one hundred fifty talents (see note on 4:8). Or \"to register the Antiochenes in Jerusalem\"; the Greek may refer to a citizen body of Antioch formed within Jerusalem."
+    },
+    {
+     "m": "e",
+     "ref": "4:11",
+     "text": "See 1 Macc 8:17."
+    },
+    {
+     "m": "f",
+     "ref": "4:12",
+     "text": "The petasos, a broad-brimmed hat associated with Hermes, patron of athletics, was worn by youths in the gymnasium."
+    },
+    {
+     "m": "g",
+     "ref": "4:14",
+     "text": "Or \"after the signal for the discus\"; the Greek is uncertain."
+    },
+    {
+     "m": "h",
+     "ref": "4:18",
+     "text": "Games in honor of Heracles (Melqart) held at Tyre every four years (counted inclusively as the fifth)."
+    },
+    {
+     "m": "i",
+     "ref": "4:19",
+     "text": "Greek: three hundred drachmas. The drachma, a silver coin, weighed about 0.15 ounce (4.3 g). Heracles was identified with Melqart, god of Tyre. Some ancient witnesses read \"three thousand three hundred.\""
+    },
+    {
+     "m": "j",
+     "ref": "4:20",
+     "text": "Literally \"on account of those present\"; the sense is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "4:21",
+     "text": "Greek protoklisia, apparently the enthronement of Ptolemy VI Philometor, about 172 BC."
+    },
+    {
+     "m": "l",
+     "ref": "4:23",
+     "text": "About 172 BC."
+    },
+    {
+     "m": "m",
+     "ref": "4:24",
+     "text": "Greek: three hundred talents (see note on 4:8)."
+    },
+    {
+     "m": "n",
+     "ref": "4:29",
+     "text": "Mercenaries from Cyprus."
+    },
+    {
+     "m": "o",
+     "ref": "4:33",
+     "text": "Daphne, a suburb of Antioch, had a famous sanctuary of Apollo and Artemis with right of asylum."
+    },
+    {
+     "m": "p",
+     "ref": "4:34",
+     "text": "Onias III was killed about 170 BC."
+    },
+    {
+     "m": "q",
+     "ref": "4:47",
+     "text": "The Scythians, from north of the Black Sea, were proverbial for barbarity."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    5,
+    11,
+    15,
+    21,
+    27
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "About this time Antiochus made his second expedition into Egypt.{a}"
+    },
+    {
+     "v": 2,
+     "text": "And it came about that over the whole city, for nearly forty days, there appeared horsemen racing through the air, clad in garments woven with gold, armed with lances in companies,"
+    },
+    {
+     "v": 3,
+     "text": "swords drawn, troops of cavalry drawn up in order, charges and countercharges on either side, shields brandished, a forest of spears, missiles flying, the flash of golden ornaments, and armor of every kind."
+    },
+    {
+     "v": 4,
+     "text": "So everyone prayed that the apparition might prove a good omen."
+    },
+    {
+     "v": 5,
+     "text": "When a false rumor arose that Antiochus had departed this life, Jason took no fewer than a thousand men and made a sudden assault on the city. The defenders on the wall were driven back, and when at last the city was being taken, Menelaus fled for refuge into the citadel."
+    },
+    {
+     "v": 6,
+     "text": "But Jason went on slaughtering his own fellow citizens without mercy, not perceiving that success against one's own kindred is the greatest failure, but imagining that he was setting up trophies over enemies and not over his own nation."
+    },
+    {
+     "v": 7,
+     "text": "He did not win the office; in the end he gained only shame from his plot and passed again as a fugitive into the land of Ammon."
+    },
+    {
+     "v": 8,
+     "text": "So at last he met a wretched end. Held prisoner before Aretas the ruler of the Arabs,{b} fleeing from city to city, hunted by all, hated as a rebel against the laws and abhorred as the butcher of his country and his countrymen, he was cast ashore in Egypt."
+    },
+    {
+     "v": 9,
+     "text": "He who had driven many from their own land into exile died in exile, having sailed off to the Lacedaemonians in hope of finding shelter there on account of kinship.{c}"
+    },
+    {
+     "v": 10,
+     "text": "He who had thrown out multitudes to lie unburied went unmourned himself, and had no funeral of any kind, nor any place in an ancestral tomb."
+    },
+    {
+     "v": 11,
+     "text": "When news of what had happened reached the king, he concluded that Judea was in revolt. So, setting out from Egypt raging like a wild beast, he took the city by storm."
+    },
+    {
+     "v": 12,
+     "text": "He commanded his soldiers to cut down without mercy those they met, and to slay those who went up onto the housetops."
+    },
+    {
+     "v": 13,
+     "text": "There was killing of young and old, destruction of boys, women, and children, slaughter of virgins and infants."
+    },
+    {
+     "v": 14,
+     "text": "Within the space of three days eighty thousand were lost, forty thousand in hand-to-hand fighting, and as many again were sold as slaves as were slain."
+    },
+    {
+     "v": 15,
+     "text": "Not satisfied with this, he made bold to go into the sanctuary holiest on all the earth, with Menelaus as his guide, that betrayer of the laws and of his native land."
+    },
+    {
+     "v": 16,
+     "text": "With polluted hands he seized the holy vessels, and with profane hands he swept away the offerings that other kings had set up to enhance the glory and honor of the place."
+    },
+    {
+     "v": 17,
+     "text": "Antiochus grew haughty in mind, failing to see that the Master's anger had been roused briefly over the sins of the city's inhabitants, and that this accounted for his neglect of the place."
+    },
+    {
+     "v": 18,
+     "text": "But had they not happened to be entangled in many sins, this man too, like Heliodorus whom King Seleucus sent to inspect the treasury, would have been flogged as soon as he came forward and turned back from his rash act."
+    },
+    {
+     "v": 19,
+     "text": "Yet it was not for the place's sake that the Lord chose the people; rather, he chose the place for the people's sake."
+    },
+    {
+     "v": 20,
+     "text": "So the place itself, having partaken in the calamities that came upon the people, later had its part in their blessings; abandoned when the Almighty was angry, it was set up again with all splendor once the great Master was reconciled."
+    },
+    {
+     "v": 21,
+     "text": "So Antiochus took away about sixty-eight tons from the sanctuary{d} and hastened off to Antioch, supposing in his pride that he could sail upon dry land and march across the open sea, such was the loftiness of his heart."
+    },
+    {
+     "v": 22,
+     "text": "He left governors to afflict the people: at Jerusalem, Philip, by race a Phrygian and in character more barbarous than the man who appointed him;"
+    },
+    {
+     "v": 23,
+     "text": "and at Gerizim, Andronicus; and besides these Menelaus, who lorded it over his fellow citizens worse than the others, having a malignant disposition toward the Jewish citizens.{e}"
+    },
+    {
+     "v": 24,
+     "text": "He sent Apollonius, the Mysian commander,{f} with an army of twenty-two thousand, ordering him to slay all the grown men and to sell the women and the younger ones."
+    },
+    {
+     "v": 25,
+     "text": "When this man arrived in Jerusalem, he feigned peaceful intent and waited until the holy day of the sabbath; then, finding the Jews at rest, he ordered his troops to parade under arms."
+    },
+    {
+     "v": 26,
+     "text": "All who came out to watch he put to the sword, and rushing into the city with his armed men he killed great numbers."
+    },
+    {
+     "v": 27,
+     "text": "But Judas Maccabeus, with about nine others, withdrew into the wilderness and lived like wild animals in the mountains with his companions; they continued to eat what grew wild, so as not to share in the defilement.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "About 168 BC. Some historians count this as the king's second campaign, others as his third."
+    },
+    {
+     "m": "b",
+     "ref": "5:8",
+     "text": "Aretas I, king of the Nabateans. Greek tyrannos here means \"ruler,\" not necessarily \"tyrant.\""
+    },
+    {
+     "m": "c",
+     "ref": "5:9",
+     "text": "The Spartans claimed kinship with the Jews; see 1 Macc 12:6–23."
+    },
+    {
+     "m": "d",
+     "ref": "5:21",
+     "text": "A talent was about 75 pounds (34 kg)."
+    },
+    {
+     "m": "e",
+     "ref": "5:23",
+     "text": "Or \"having a hostile disposition toward the citizens, being Jews\"; the Greek is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "5:24",
+     "text": "Greek mysarchēs, perhaps \"commander of the Mysians\" (mercenaries from Asia Minor), or a pun meaning \"chief of the abominable\"; compare 1 Macc 1:29."
+    },
+    {
+     "m": "g",
+     "ref": "5:27",
+     "text": "Literally \"being himself about the tenth.\" See 1 Macc 2:28."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    12,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Not long afterward the king sent out an old Athenian{a} to force the Jews to abandon their ancestral laws and to cease living by the laws of God,"
+    },
+    {
+     "v": 2,
+     "text": "and also to defile the sanctuary in Jerusalem and name it after Olympian Zeus, and the one at Gerizim after Zeus the Protector of Strangers, in keeping with the character of those who dwelt in that place.{b}"
+    },
+    {
+     "v": 3,
+     "text": "Harsh and hard for everyone to bear was the onset of this evil."
+    },
+    {
+     "v": 4,
+     "text": "For the sanctuary was filled with debauchery and reveling by Gentiles who idled with prostitutes and had intercourse with women within the sacred courts, and who moreover carried in things that were forbidden."
+    },
+    {
+     "v": 5,
+     "text": "The altar was heaped with abominable offerings, prohibited by the laws."
+    },
+    {
+     "v": 6,
+     "text": "One could neither keep the sabbath nor observe the ancestral feasts, nor so much as confess oneself to be a Jew."
+    },
+    {
+     "v": 7,
+     "text": "On the king's birthday each month they were led, under bitter compulsion, to partake of the sacrificial entrails;{c} and when the festival of Dionysus came round, they were compelled to walk in the procession for Dionysus wearing wreaths of ivy."
+    },
+    {
+     "v": 8,
+     "text": "By a motion of Ptolemy,{d} an edict was published to the Greek towns round about, directing them to treat the Jews in the same fashion and make them eat of the sacrifices,"
+    },
+    {
+     "v": 9,
+     "text": "and should put to death those who did not choose to go over to Greek ways. So one could see the misery that had come."
+    },
+    {
+     "v": 10,
+     "text": "For instance, two women were brought in for having circumcised their children. They hung the babies at their mothers' breasts, paraded the women publicly about the city, and flung them headlong from the wall."
+    },
+    {
+     "v": 11,
+     "text": "Others, who had gathered nearby in caves in order to keep the seventh day in secret, were betrayed to Philip and were all burned together, because their reverence for that most holy day kept them from defending themselves."
+    },
+    {
+     "v": 12,
+     "text": "Now I urge those who come upon this book not to lose heart because of these calamities, but to consider that these punishments were meant not for the destruction of our race but for its discipline."
+    },
+    {
+     "v": 13,
+     "text": "Indeed, not to let the ungodly alone for long, but to bring retribution on them swiftly, is a sign of great kindness."
+    },
+    {
+     "v": 14,
+     "text": "For with the other nations the Lord waits patiently to punish them until they have reached the full measure of their sins; but he did not decide to deal with us in this way,"
+    },
+    {
+     "v": 15,
+     "text": "lest he should take vengeance on us afterward, when our sins have come to their full height."
+    },
+    {
+     "v": 16,
+     "text": "Therefore he never withdraws his mercy from us. Though he disciplines with calamity, he does not abandon his own people."
+    },
+    {
+     "v": 17,
+     "text": "But let this much be said by way of reminder; after these few words we must come back to the narrative."
+    },
+    {
+     "v": 18,
+     "text": "Eleazar, one of the foremost scribes, a man already advanced in age and of most noble bearing, was being forced to open his mouth to eat swine's flesh."
+    },
+    {
+     "v": 19,
+     "text": "But he, preferring death with honor to life with defilement, spat it out{e} and went of his own accord to the rack,"
+    },
+    {
+     "v": 20,
+     "text": "as men ought to come forward who have the courage to refuse what it is not lawful to taste, even out of love of life."
+    },
+    {
+     "v": 21,
+     "text": "The overseers of that lawless feast of sacrifice, since they had known the man from long ago, drew him aside in private and pressed him to have meat brought that he himself had prepared and that he was allowed to eat, and to make a show of eating the portions of sacrificial flesh commanded by the king,"
+    },
+    {
+     "v": 22,
+     "text": "so that by doing this he might be released from death and, for the sake of his old friendship with them, be treated kindly."
+    },
+    {
+     "v": 23,
+     "text": "But he formed a lofty judgment, one that befitted his age, the eminence of his advanced years, the gray hair he had won to his honor, his blameless manner of life from boyhood, and still more the holy legislation established by God; and he made answer accordingly, bidding them dispatch him to Hades without delay.{f}"
+    },
+    {
+     "v": 24,
+     "text": "\"It does not befit our time of life to pretend,\" he said, \"lest many of the young suppose that Eleazar at ninety years has gone over to an alien religion,"
+    },
+    {
+     "v": 25,
+     "text": "and through my pretense, for the sake of a brief moment of life, they be led astray because of me, while I bring defilement and disgrace upon my old age."
+    },
+    {
+     "v": 26,
+     "text": "For even if for the present I should escape the punishment of mortals, yet whether I live or die I shall not escape the hands of the Almighty."
+    },
+    {
+     "v": 27,
+     "text": "Therefore, by bravely giving up my life now, I will show myself worthy of my old age,"
+    },
+    {
+     "v": 28,
+     "text": "bequeathing to the young a noble pattern, so that they may meet a good death eagerly and gallantly on behalf of the sacred and holy laws.\" When he had said so much, he went straightway to the rack."
+    },
+    {
+     "v": 29,
+     "text": "Those who led him, who a little before had been kindly disposed toward him, now turned hostile, because the words he had just spoken were in their opinion sheer madness."
+    },
+    {
+     "v": 30,
+     "text": "When he was about to die under the blows, he groaned aloud and said, \"To the Lord, who has holy knowledge, it is plain that although I could have been freed from death, I endure cruel pains in my body from this flogging; but in my soul I suffer these things gladly, because I fear him.\""
+    },
+    {
+     "v": 31,
+     "text": "Such was the manner of his death; and to the young, and to most of his people as well, he left behind his dying as a pattern of high courage and a remembrance of virtue."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "Or \"Geron the Athenian\"; Greek gerōn means \"old man\" and may also be a proper name. Some ancient witnesses read \"an Antiochian.\""
+    },
+    {
+     "m": "b",
+     "ref": "6:2",
+     "text": "Zeus Xenios, protector of strangers. The phrase \"in keeping with the character of those who dwelt in that place\" may refer to the Samaritans' hospitality or, ironically, to their being of foreign origin; the Greek is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "6:7",
+     "text": "Or \"to the monthly sacrifice\" on the king's birthday."
+    },
+    {
+     "m": "d",
+     "ref": "6:8",
+     "text": "Probably Ptolemy son of Dorymenes (4:45); compare 8:8."
+    },
+    {
+     "m": "e",
+     "ref": "6:19",
+     "text": "Or \"led himself to it\"; the Greek of vv. 19–20 is compressed."
+    },
+    {
+     "m": "f",
+     "ref": "6:23",
+     "text": "Hades, the abode of the dead."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    7,
+    10,
+    13,
+    15,
+    18,
+    20,
+    24,
+    30,
+    39,
+    42
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "It happened also that seven brothers were arrested along with their mother, and the king tried to compel them, by torturing them with whips and thongs, to touch the forbidden pig's flesh."
+    },
+    {
+     "v": 2,
+     "text": "One of them, acting as spokesman, said, \"What do you intend to ask us and learn from us? We stand ready to die sooner than transgress the laws of our fathers.\""
+    },
+    {
+     "v": 3,
+     "text": "In a fury the king commanded pans and caldrons to be heated red-hot."
+    },
+    {
+     "v": 4,
+     "text": "As soon as they were heated, he ordered the tongue of their spokesman to be cut out, the skin of his head to be torn away in the Scythian manner, and his hands and feet to be lopped off, while his remaining brothers and his mother looked on."
+    },
+    {
+     "v": 5,
+     "text": "When he had been made entirely useless, the king gave orders for him to be brought, still breathing, to the fire and fried. As the fumes spread far and wide from the pan, the brothers and their mother kept urging one another to die nobly, and they spoke thus:"
+    },
+    {
+     "v": 6,
+     "text": "\"The Lord God is watching over us and truly has compassion on us, just as Moses made clear in the song that bears witness against the people to their faces, when he said, 'And he will have compassion on his servants.'\"{a}"
+    },
+    {
+     "v": 7,
+     "text": "When the first had died in this way, they brought forward the second to be made sport of. They tore off the skin of his head along with the hair and asked him, \"Will you eat, before your body is punished limb by limb?\""
+    },
+    {
+     "v": 8,
+     "text": "He answered in the language of his ancestors{b} and told them, \"No.\" So he too underwent the tortures in turn, as the first had done."
+    },
+    {
+     "v": 9,
+     "text": "And at his final gasp he said, \"Fiend that you are, you set us free from life here and now; but since we die on behalf of his laws, the King of the world will raise us to an eternal return to life.\""
+    },
+    {
+     "v": 10,
+     "text": "After him the third was made a mockery. When they demanded his tongue, he quickly thrust it out, and he courageously stretched forth his hands,"
+    },
+    {
+     "v": 11,
+     "text": "and nobly said, \"From Heaven I received these, and for the sake of his laws I count them as nothing, and from him I hope to receive them back again.\""
+    },
+    {
+     "v": 12,
+     "text": "so that the king and his company were amazed at the youth's courage, since he treated the pains as of no account."
+    },
+    {
+     "v": 13,
+     "text": "When this one too had died, they mistreated and tortured the fourth in the same way."
+    },
+    {
+     "v": 14,
+     "text": "Close to death, he spoke these words: \"Better it is for those who pass away at human hands to look for the hopes that come from God, that they will be raised by him once more. For you, though, there will be no rising again to life.\""
+    },
+    {
+     "v": 15,
+     "text": "Next they led forward the fifth and abused him."
+    },
+    {
+     "v": 16,
+     "text": "Looking at the king, he said, \"You hold authority among mortals, though you yourself are perishable, and you do what you please. But do not imagine that God has forsaken our race."
+    },
+    {
+     "v": 17,
+     "text": "Only wait, and you will behold his mighty power, how he will torment you and your descendants.\""
+    },
+    {
+     "v": 18,
+     "text": "After him they brought the sixth. On the point of dying, he said, \"Do not be led astray to no purpose. We suffer these things on our own account, for we sinned against our own God; that is why such marvels have come about."
+    },
+    {
+     "v": 19,
+     "text": "But you, do not think you will go unpunished, now that you have undertaken to fight against God.\""
+    },
+    {
+     "v": 20,
+     "text": "Most wonderful of all, and worthy of honored remembrance, was the mother. Though she saw her seven sons perish within the span of a single day, she bore it with good courage because of her hope in the Lord."
+    },
+    {
+     "v": 21,
+     "text": "In the language of her ancestors she encouraged each of them, filled with a noble spirit; rousing her woman's reasoning with a man's courage, she said to them,"
+    },
+    {
+     "v": 22,
+     "text": "\"How you appeared within my womb I cannot tell. Not I bestowed on you spirit and life; not I arranged in order the elements that compose each one of you."
+    },
+    {
+     "v": 23,
+     "text": "It is the world's Creator, then, who formed humanity at its birth and found out how all things come to be, who will give spirit and life back to you again in mercy, since now you hold yourselves of no account on behalf of his laws.\""
+    },
+    {
+     "v": 24,
+     "text": "Antiochus felt himself scorned, and he suspected that her words were a reproach. The youngest was still alive, and the king not only appealed to him in words but also assured him with oaths that he would make him rich and enviable if he would turn from the ways of his fathers, and that he would take him for his Friend and entrust him with high office."
+    },
+    {
+     "v": 25,
+     "text": "Since the young man would pay no heed at all, the king called the mother to him and urged her to advise the youth to save himself."
+    },
+    {
+     "v": 26,
+     "text": "After he had urged her at length, she undertook to persuade her son."
+    },
+    {
+     "v": 27,
+     "text": "But leaning close to him, she mocked the cruel tyrant and spoke thus in the language of her ancestors: \"My son, have pity on me. I carried you nine months in my womb, nursed you for three years, and reared you and brought you up to this age, and took care of you."
+    },
+    {
+     "v": 28,
+     "text": "Child, I ask you to lift your eyes to the sky and the earth, to look at all that is in them, and to understand that God made them from what did not exist.{c} So it is too that the human race comes to be."
+    },
+    {
+     "v": 29,
+     "text": "Do not fear this butcher, but prove worthy of your brothers and accept death, so that in God's mercy I may receive you back along with your brothers.\""
+    },
+    {
+     "v": 30,
+     "text": "She was still speaking when the young man said, \"For whom are you waiting? To the king's decree I do not listen; I heed the decree of the law given through Moses to our fathers."
+    },
+    {
+     "v": 31,
+     "text": "But you, who have contrived every sort of evil against the Hebrews, will certainly not escape the hands of God."
+    },
+    {
+     "v": 32,
+     "text": "For we are suffering because of our own sins."
+    },
+    {
+     "v": 33,
+     "text": "And if, for the sake of rebuke and discipline, our living Lord is angry with us for a little while, he will be reconciled again with his own servants."
+    },
+    {
+     "v": 34,
+     "text": "But you, impious man, foulest of all mortals, do not soar up idly, swelling with hopes that have no ground, as you lift your hand against Heaven's children."
+    },
+    {
+     "v": 35,
+     "text": "You have not yet escaped the judgment of the almighty, all-seeing God."
+    },
+    {
+     "v": 36,
+     "text": "For our brothers, after enduring brief pain, have now fallen under God's covenant of ever-flowing life;{d} but you, by the judgment of God, will bear the just penalty for your arrogance."
+    },
+    {
+     "v": 37,
+     "text": "Like my brothers, I surrender body and soul for our ancestral laws, and I call upon God to be quickly gracious to the nation, and through afflictions and scourges to bring you to acknowledge that he and he alone is God,"
+    },
+    {
+     "v": 38,
+     "text": "and that in me and my brothers the Almighty's anger, rightly kindled against all our race, may be stayed.\""
+    },
+    {
+     "v": 39,
+     "text": "Enraged, the king treated this one more savagely than the rest, taking the mockery bitterly."
+    },
+    {
+     "v": 40,
+     "text": "So he too died in purity, putting his whole trust in the Lord."
+    },
+    {
+     "v": 41,
+     "text": "Last of all, after her sons, the mother died."
+    },
+    {
+     "v": 42,
+     "text": "Concerning the sacrificial meals and the surpassing cruelties, then, so much has been shown."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:6",
+     "text": "Deut 32:36; the \"song\" is the Song of Moses, Deut 32:1–43 (see Deut 31:19–21)."
+    },
+    {
+     "m": "b",
+     "ref": "7:8",
+     "text": "That is, probably Aramaic, or Hebrew."
+    },
+    {
+     "m": "c",
+     "ref": "7:28",
+     "text": "Or \"out of things that were not\"; this is often cited as an early statement of creation from nothing."
+    },
+    {
+     "m": "d",
+     "ref": "7:36",
+     "text": "Or \"have fallen, under God's covenant, into everlasting life.\" In Swete's edition verses 35 and 36 are printed together, and the following verses are numbered one lower; the standard numbering is followed here."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    5,
+    8,
+    12,
+    16,
+    30,
+    34
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Meanwhile Judas, also called Maccabeus, and those with him slipped secretly into the villages and summoned their kinsfolk; and enlisting those who had held fast to Judaism, they gathered about six thousand."
+    },
+    {
+     "v": 2,
+     "text": "They called on the Lord to look upon the people oppressed by all, and to take pity on the sanctuary profaned by the godless,"
+    },
+    {
+     "v": 3,
+     "text": "to have mercy too on the city being ruined and about to be leveled to the ground, and to give ear to the blood that cried out to him,"
+    },
+    {
+     "v": 4,
+     "text": "to remember also the lawless slaughter of the innocent babes and the blasphemies uttered against his name, and to show his hatred of evil."
+    },
+    {
+     "v": 5,
+     "text": "Once Maccabeus had his company organized, the Gentiles could no longer withstand him, for the wrath of the Lord had turned to mercy."
+    },
+    {
+     "v": 6,
+     "text": "Arriving unlooked for, he would burn towns and villages; he took the favorable positions and put to flight no small number of the enemy,"
+    },
+    {
+     "v": 7,
+     "text": "choosing the nights especially as his allies for such raids. And talk of his valor resounded everywhere."
+    },
+    {
+     "v": 8,
+     "text": "Philip, perceiving that the man was making headway by degrees and advancing more and more often in success, wrote to Ptolemy, governor of Coelesyria and Phoenicia, to come and reinforce the king's cause.{a}"
+    },
+    {
+     "v": 9,
+     "text": "Ptolemy promptly appointed Nicanor son of Patroclus, one of the King's First Friends,{b} and sent him at the head of no fewer than twenty thousand troops of mixed nations to wipe out the whole race of Judea. With him he associated Gorgias, a general experienced in the business of war."
+    },
+    {
+     "v": 10,
+     "text": "Nicanor resolved to make up, by the sale of Jewish captives, the tribute of about seventy-five tons of silver that the king owed the Romans.{c}"
+    },
+    {
+     "v": 11,
+     "text": "He sent at once to the towns along the seacoast, calling buyers to come for Jewish slaves and undertaking to hand over ninety head for each seventy-five pounds of silver, never anticipating the justice of the Almighty which was soon to dog his steps."
+    },
+    {
+     "v": 12,
+     "text": "Word reached Judas of Nicanor's advance; and when he told his companions that the army was near,"
+    },
+    {
+     "v": 13,
+     "text": "those who were cowardly and had no faith in God's justice ran off and took themselves elsewhere."
+    },
+    {
+     "v": 14,
+     "text": "The rest sold all they had left, while at the same time they begged the Lord to rescue those whom the impious Nicanor had sold before he had even met them in battle,"
+    },
+    {
+     "v": 15,
+     "text": "and this, though not for their own merits, at least because of the covenants made with their fathers, and since his revered and glorious name was invoked over them."
+    },
+    {
+     "v": 16,
+     "text": "Maccabeus assembled his men, about six thousand in number, and exhorted them not to be panic-stricken before the enemy nor to fear the vast host of Gentiles coming wrongfully against them, but to fight nobly,"
+    },
+    {
+     "v": 17,
+     "text": "keeping before their eyes the outrage those men had lawlessly committed against the holy place, the torment inflicted on the humiliated city, and moreover the overthrow of their ancestral way of life."
+    },
+    {
+     "v": 18,
+     "text": "\"They trust in weapons and daring,\" he said, \"but we trust in the almighty God, who with a single nod can strike down those coming against us and even the whole world.\""
+    },
+    {
+     "v": 19,
+     "text": "Moreover he recounted to them the times when help had come to their forefathers: how in the days of Sennacherib a hundred eighty-five thousand perished,{d}"
+    },
+    {
+     "v": 20,
+     "text": "and the clash in Babylonia against the Galatians, when the whole force that went into action was eight thousand together with four thousand Macedonians; the Macedonians being at a loss, the six thousand destroyed a hundred and twenty thousand through help sent them from heaven, and took much booty.{e}"
+    },
+    {
+     "v": 21,
+     "text": "Having made them bold by these words and willing to die on behalf of the laws and the homeland, he formed the army into four companies."
+    },
+    {
+     "v": 22,
+     "text": "He set his brothers, Simon, Joseph, and Jonathan, each at the head of a division, putting fifteen hundred men under each."
+    },
+    {
+     "v": 23,
+     "text": "Besides these, he appointed Eleazar to read aloud from the holy book;{f} and giving the watchword \"The help of God,\" he himself led the first division and joined battle with Nicanor."
+    },
+    {
+     "v": 24,
+     "text": "The Almighty fighting on their side, they cut down upward of nine thousand of the foe, wounded and crippled most of Nicanor's host, and drove the whole of it to flight."
+    },
+    {
+     "v": 25,
+     "text": "The money of those who had come to purchase them fell into their hands. When they had chased the enemy a good way, they turned back, being hemmed in by the time."
+    },
+    {
+     "v": 26,
+     "text": "It was the day before the sabbath, and for that reason they did not prolong the pursuit."
+    },
+    {
+     "v": 27,
+     "text": "When they had collected the enemy's arms and stripped them of their spoils, they turned to keeping the sabbath, giving abundant praise and thanks to the Lord, who had preserved them for that day and had allotted it to them as the beginning of mercy."
+    },
+    {
+     "v": 28,
+     "text": "After the sabbath they gave a portion of the booty to the victims of torture, the widows, and the orphans, and shared out what remained among themselves and their little ones."
+    },
+    {
+     "v": 29,
+     "text": "When they had done this, they made a common supplication and implored the merciful Lord to be wholly reconciled with his servants."
+    },
+    {
+     "v": 30,
+     "text": "In encounters with the forces of Timothy and Bacchides they killed more than twenty thousand of them and got possession of some exceedingly high strongholds. They divided a great quantity of plunder, giving equal shares to those who had been tortured, to the orphans and widows, and also to the aged.{g}"
+    },
+    {
+     "v": 31,
+     "text": "They gathered up the enemy's weapons and stored them all carefully in strategic places; the rest of the spoils they carried to Jerusalem."
+    },
+    {
+     "v": 32,
+     "text": "They killed the commander of Timothy's forces,{h} a most unholy man who had caused the Jews much grief."
+    },
+    {
+     "v": 33,
+     "text": "While celebrating the victory in their homeland, they burned those who had set fire to the sacred gates, including Callisthenes, who had fled into a little house; so he received the reward his impiety deserved."
+    },
+    {
+     "v": 34,
+     "text": "The thrice-accursed Nicanor, {i} who had brought along three thousand merchants to buy the Jews,"
+    },
+    {
+     "v": 35,
+     "text": "was humbled, with the Lord's help, by those whom he had regarded as the least of all. He threw off his splendid uniform and made his way alone across the country like a runaway slave until he reached Antioch, having been eminently successful in the destruction of his own army."
+    },
+    {
+     "v": 36,
+     "text": "And he who had taken it upon himself to pay the Romans their tribute out of the captives of Jerusalem announced that the Jews had a Champion fighting for them, and for that reason were invulnerable, since they kept the laws he had ordained."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:8",
+     "text": "See 1 Macc 3:38–4:25 for another account of this campaign. Philip was the governor left in Jerusalem (5:22)."
+    },
+    {
+     "m": "b",
+     "ref": "8:9",
+     "text": "\"First Friends\" was an honorary rank at the Seleucid court."
+    },
+    {
+     "m": "c",
+     "ref": "8:10",
+     "text": "Greek: two thousand talents. A talent was about 75 pounds (34 kg). The tribute was imposed on Antiochus III by the Peace of Apamea (188 BC)."
+    },
+    {
+     "m": "d",
+     "ref": "8:19",
+     "text": "See 2 Kings 19:35; Isa 37:36."
+    },
+    {
+     "m": "e",
+     "ref": "8:20",
+     "text": "This battle is otherwise unknown. The figures are as given in the Greek; how the six thousand relate to the eight thousand is unclear."
+    },
+    {
+     "m": "f",
+     "ref": "8:23",
+     "text": "Swete's text reads \"and Eleazar\" without a verb; the sense of the clause is uncertain."
+    },
+    {
+     "m": "g",
+     "ref": "8:30",
+     "text": "Some interpreters place this verse after 10:38, since the campaigns against Timothy and Bacchides are described later."
+    },
+    {
+     "m": "h",
+     "ref": "8:32",
+     "text": "Greek phylarchēs, \"commander of a tribe\" or \"cavalry commander.\""
+    },
+    {
+     "m": "i",
+     "ref": "8:34",
+     "text": "Literally \"thrice-sinful\" or \"thrice-wicked\"; compare 15:3."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    5,
+    11,
+    18,
+    28
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "About that season it happened that Antiochus had withdrawn in disorder from the regions around Persia."
+    },
+    {
+     "v": 2,
+     "text": "For he had entered the city called Persepolis{a} and attempted to rob the temples and to take control of the city. Whereupon the populace rushed to the defense with arms, and Antiochus, put to rout by the inhabitants, ended up making a shameful retreat."
+    },
+    {
+     "v": 3,
+     "text": "While he was at Ecbatana,{b} news reached him of what had befallen Nicanor and the forces of Timothy."
+    },
+    {
+     "v": 4,
+     "text": "Swollen with rage, he thought to fasten on the Jews the injury done by those who had put him to flight; so he ordered his charioteer to drive without a pause until the journey was finished. Yet the judgment from heaven rode along with him! For in his arrogance he had said, \"When I get there, I will make Jerusalem a common graveyard of Jews.\""
+    },
+    {
+     "v": 5,
+     "text": "But the all-seeing Lord, the God of Israel, struck him with a blow incurable and unseen. No sooner had he finished the words than an unrelenting pain of the bowels seized him, with bitter torments of the inward parts,"
+    },
+    {
+     "v": 6,
+     "text": "most justly, since he had tormented the bowels of others with many strange miseries."
+    },
+    {
+     "v": 7,
+     "text": "Yet in no way did he cease from his insolence; still brimming with arrogance, breathing fire in his fury against the Jews, he gave orders to speed the journey. And it came about that he fell from the chariot as it rushed along, and the fall was so violent that every limb of his body was racked."
+    },
+    {
+     "v": 8,
+     "text": "He who but now, in pride beyond what is human, fancied he could give orders to the billows of the sea and set the mountain heights upon the scales, came down to the ground and was borne along on a stretcher, showing openly to all the power of God."
+    },
+    {
+     "v": 9,
+     "text": "So it was that worms swarmed out of the body of the impious man, and while he still lived, in anguish and pains, his flesh rotted away, and the whole army was burdened by the stench of his decay."
+    },
+    {
+     "v": 10,
+     "text": "The man who shortly before had seemed to touch the stars of heaven, no one could bear to carry, because of the intolerable weight of the stench."
+    },
+    {
+     "v": 11,
+     "text": "Then at last, broken in spirit, he began to lay aside the greater part of his arrogance and to come to knowledge under the scourge of God, his pains increasing moment by moment."
+    },
+    {
+     "v": 12,
+     "text": "And when he could no longer bear even his own stench, he said this: \"It is just to submit to God, and that one who is mortal should not have arrogant thoughts.\""
+    },
+    {
+     "v": 13,
+     "text": "And the defiled wretch made a vow to the Master, who would no longer have mercy on him, speaking thus:"
+    },
+    {
+     "v": 14,
+     "text": "that the holy city, which he had been hurrying to level to the ground and turn into a common graveyard, he would declare free;"
+    },
+    {
+     "v": 15,
+     "text": "that the Jews, whom he had judged unworthy even of burial and fit only to be thrown out with their infants as prey for birds and beasts, he would make, all of them, equal to citizens of Athens;"
+    },
+    {
+     "v": 16,
+     "text": "the holy sanctuary that he had earlier stripped he would deck with the most beautiful offerings, and he would restore all the sacred vessels many times multiplied, and from his own revenues he would furnish the allowances due for the sacrifices;"
+    },
+    {
+     "v": 17,
+     "text": "and besides all this, that he would become a Jew and travel through every inhabited place proclaiming the might of God."
+    },
+    {
+     "v": 18,
+     "text": "But when his sufferings did not in any way abate, for the righteous judgment of God had come upon him, he gave up all hope for himself and wrote to the Jews the letter set down below, in the form of a supplication. It ran as follows:"
+    },
+    {
+     "v": 19,
+     "text": "\"To the worthy Jews, the citizens: King Antiochus, the general, wishes much joy, health, and well-being."
+    },
+    {
+     "v": 20,
+     "text": "If you fare well, and your children, and your private affairs go according to your mind, [I give great thanks to God,]{c} having my hope in heaven."
+    },
+    {
+     "v": 21,
+     "text": "[For my part, I have been sick,] and I remembered fondly your honor and good will. Returning from the districts of Persia I met with a sickness hard to bear, and I thought it needful to provide for the common safety of you all."
+    },
+    {
+     "v": 22,
+     "text": "I do not despair of my condition; on the contrary, I have good hope of recovering from the illness."
+    },
+    {
+     "v": 23,
+     "text": "But I observed that my father too, on the occasions when he marched into the upper countries, appointed his successor,"
+    },
+    {
+     "v": 24,
+     "text": "so that, if anything unexpected should occur or any unwelcome news be reported, the people throughout the realm would not be troubled, knowing to whom the government had been left."
+    },
+    {
+     "v": 25,
+     "text": "Moreover, I take note of the princes along our borders and neighbors to the kingdom, who are watching for their opportunity and waiting to see what will happen. I have therefore appointed my son Antiochus as king. I often entrusted and commended him to most of you when I hastened off to the upper provinces. I have written to him what is written below."
+    },
+    {
+     "v": 26,
+     "text": "I appeal to you, then, and ask, mindful of the kindnesses done you both in common and individually, that each one preserve the good will he now holds toward me and my son."
+    },
+    {
+     "v": 27,
+     "text": "For I am persuaded that he, following my policy, will treat you with moderation and kindness.\""
+    },
+    {
+     "v": 28,
+     "text": "And so the slayer and blasphemer, having suffered the worst, even as he had dealt with others, ended his days on foreign soil in the mountains by a most wretched doom."
+    },
+    {
+     "v": 29,
+     "text": "Philip, one of his courtiers,{d} carried his body home; then, fearing Antiochus's son, he went over to Ptolemy Philometor in Egypt."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:2",
+     "text": "Persepolis, the old capital of Persia. 1 Macc 6:1 names Elymais."
+    },
+    {
+     "m": "b",
+     "ref": "9:3",
+     "text": "Ecbatana, in Media (modern Hamadan, Iran)."
+    },
+    {
+     "m": "c",
+     "ref": "9:20",
+     "text": "The Greek of vv. 20–21 appears defective; the bracketed words are supplied from the sense."
+    },
+    {
+     "m": "d",
+     "ref": "9:29",
+     "text": "Greek syntrophos, literally \"one brought up with him,\" a court title, \"foster brother\" or \"intimate companion.\""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    9,
+    14,
+    24,
+    29,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now Maccabeus and those with him, the Lord leading them on, recovered the sanctuary and the city."
+    },
+    {
+     "v": 2,
+     "text": "The altars erected in the marketplace by the foreigners they tore down, and the sacred precincts as well."
+    },
+    {
+     "v": 3,
+     "text": "Having cleansed the shrine, they made another altar of sacrifice; and striking fire from flints and taking fire from them, they offered sacrifices after a lapse of two years, and incense and lamps, and they set out the loaves of the Presence.{a}"
+    },
+    {
+     "v": 4,
+     "text": "When they had done these things they fell prostrate and entreated the Lord that they might fall no more into such calamities; rather, if ever they did sin, that they be chastened by him gently and not given up to Gentiles who blaspheme and are savage."
+    },
+    {
+     "v": 5,
+     "text": "It so fell out that on the very day the shrine had been profaned by foreigners, on that same day the purification of the sanctuary took place, the twenty-fifth of that same month, which is Chislev (in November–December).{b}"
+    },
+    {
+     "v": 6,
+     "text": "And with gladness they kept eight days in the manner of the festival of Booths, remembering how not long before, during the festival of Booths, they had been roaming in the mountains and in the caves like wild beasts.{c}"
+    },
+    {
+     "v": 7,
+     "text": "Therefore, holding ivy-wreathed wands and fair branches and palm fronds too, they offered hymns of thanks to him who had brought to good success the cleansing of his own place."
+    },
+    {
+     "v": 8,
+     "text": "And by public ordinance and vote they decreed for the whole nation of the Jews that they should keep these days every year.{d}"
+    },
+    {
+     "v": 9,
+     "text": "Such then was the end of Antiochus, the one called Epiphanes."
+    },
+    {
+     "v": 10,
+     "text": "Now we will set forth what took place under Antiochus Eupator, who was the son of that godless man, cutting short the account of the chief evils of the wars."
+    },
+    {
+     "v": 11,
+     "text": "For this man, when he came to the throne, put one Lysias in charge of the government, and made him chief governor of Coelesyria and Phoenicia."
+    },
+    {
+     "v": 12,
+     "text": "For Ptolemy, who was called Macron,{e} had taken the lead in dealing justly with the Jews because of the wrong that had been done them, and tried to manage affairs with them peaceably."
+    },
+    {
+     "v": 13,
+     "text": "So he was denounced to Eupator by the Friends and heard himself named a traitor on every hand, since he had deserted Cyprus, put in his trust by Philometor, and withdrawn to Antiochus Epiphanes; and holding his authority without honor,{f} he poisoned himself and departed this life."
+    },
+    {
+     "v": 14,
+     "text": "When Gorgias became governor of the region, he maintained a force of mercenaries and at every opportunity kept up war against the Jews."
+    },
+    {
+     "v": 15,
+     "text": "Together with him the Idumeans also, who held strongholds well placed, harassed the Jews; and receiving those who had been banished from Jerusalem, they set about keeping the war alive."
+    },
+    {
+     "v": 16,
+     "text": "Maccabeus and those about him, having held a litany and asked God to be their ally, charged against the fortresses of the Idumeans."
+    },
+    {
+     "v": 17,
+     "text": "Attacking them vigorously, they took possession of the places, beat off all who fought upon the wall, and slaughtered those who fell into their hands, killing no fewer than twenty thousand."
+    },
+    {
+     "v": 18,
+     "text": "When at least nine thousand had fled together into two very strong towers, well furnished with everything for withstanding a siege,"
+    },
+    {
+     "v": 19,
+     "text": "Maccabeus left Simon and Joseph, and Zacchaeus also and his men, enough to besiege them, and went off himself to places where he was more urgently needed."
+    },
+    {
+     "v": 20,
+     "text": "But those around Simon, out of love of silver, were won over with money by some of those in the towers; they took about six hundred sixty pounds of silver{g} and allowed some to escape."
+    },
+    {
+     "v": 21,
+     "text": "When word of what had happened was brought to Maccabeus, he gathered the leaders of the people and accused these men of having sold their kindred for money by setting their enemies free against them."
+    },
+    {
+     "v": 22,
+     "text": "Then he put these men to death as traitors, and forthwith captured the two towers."
+    },
+    {
+     "v": 23,
+     "text": "Prospering in every undertaking of arms that he took in hand, he destroyed more than twenty thousand in the two strongholds."
+    },
+    {
+     "v": 24,
+     "text": "Now Timothy, who had been defeated by the Jews before, gathered foreign forces in vast numbers and collected not a few of the cavalry from Asia, and came on, intending to take Judea by the spear."
+    },
+    {
+     "v": 25,
+     "text": "As he drew near, Maccabeus and his men turned to supplication of God, sprinkling earth on their heads and girding their loins with sackcloth."
+    },
+    {
+     "v": 26,
+     "text": "Prostrating themselves on the platform facing the altar, they asked that he become merciful to them and be hostile to those hostile to them and oppose those who opposed them, as the law makes plain.{h}"
+    },
+    {
+     "v": 27,
+     "text": "Having finished the petition, they took up their weapons and went forth farther from the city, and when they had come close to the foe, they kept to themselves."
+    },
+    {
+     "v": 28,
+     "text": "Just as dawn was spreading, the two sides joined battle, the one having as pledge of success and victory not only their valor but their refuge in the Lord, the other making their own fury the leader of the fight."
+    },
+    {
+     "v": 29,
+     "text": "As the fighting grew hard, five splendid men appeared from the sky to the adversaries, mounted on gold-bridled horses, two of whom were at the head of the Jews;"
+    },
+    {
+     "v": 30,
+     "text": "took Maccabeus between them, and shielding him with their own armor, kept him from being wounded. And they hurled arrows and thunderbolts at the enemy, so that, confused and blinded, they were cut to pieces, full of disorder."
+    },
+    {
+     "v": 31,
+     "text": "There fell slain twenty thousand and five hundred, and six hundred of the cavalry."
+    },
+    {
+     "v": 32,
+     "text": "Timothy for his part took refuge in Gazara,{i} as the stronghold is called, a fortress exceedingly strong, under the command of Chaereas."
+    },
+    {
+     "v": 33,
+     "text": "Then Maccabeus and his men, in high spirits, besieged the fortress for forty days."
+    },
+    {
+     "v": 34,
+     "text": "The men within, trusting in the steepness of the site, poured out blasphemy beyond measure and spoke lawless words."
+    },
+    {
+     "v": 35,
+     "text": "But as the twenty-fifth day was dawning,{j} young men among the followers of Maccabeus, set aflame in their hearts by the blasphemies, assaulted the wall manfully, and with the fury of wild beasts hewed down whoever came in their way."
+    },
+    {
+     "v": 36,
+     "text": "Others likewise climbed up by a diversion against those within; they set the towers on fire, and kindling fires burned the blasphemers alive. Others broke open the gates, let in the rest of the force, and occupied the city."
+    },
+    {
+     "v": 37,
+     "text": "They slew Timothy, who was hidden in a cistern, and his brother Chaereas, and Apollophanes."
+    },
+    {
+     "v": 38,
+     "text": "Having carried these things through, they blessed the Lord with hymns and confession of praise, for he does great good to Israel and grants them the triumph."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:3",
+     "text": "See Exod 25:30; Lev 24:5–9. 1 Macc 4:52–54 gives three years since the profanation; on Hanukkah see also 1:9, 18 and 1 Macc 4:52–59."
+    },
+    {
+     "m": "b",
+     "ref": "10:5",
+     "text": "Chislev, the ninth month (in November–December). This was the twenty-fifth of Chislev, 148 of the Seleucid era (see note on 1:7), that is, December 164 BC; compare 1 Macc 4:52. This is the origin of Hanukkah (\"Dedication\"); compare John 10:22."
+    },
+    {
+     "m": "c",
+     "ref": "10:6",
+     "text": "Booths (Tabernacles) was celebrated for eight days in the seventh month (Lev 23:33–43). Hence the feast of Dedication is called \"Booths of Chislev\" in 1:9."
+    },
+    {
+     "m": "d",
+     "ref": "10:8",
+     "text": "Swete's Greek reads \"the tenth days,\" probably a scribal error for \"these days.\""
+    },
+    {
+     "m": "e",
+     "ref": "10:12",
+     "text": "Ptolemy Macron; compare 1 Macc 3:38, where a Ptolemy son of Dorymenes is named."
+    },
+    {
+     "m": "f",
+     "ref": "10:13",
+     "text": "Literally \"not ennobling his noble office.\" The Greek is obscure."
+    },
+    {
+     "m": "g",
+     "ref": "10:20",
+     "text": "Greek: seventy thousand drachmas. A drachma was about 0.15 ounce (4.3 g) of silver."
+    },
+    {
+     "m": "h",
+     "ref": "10:26",
+     "text": "See Exod 23:22."
+    },
+    {
+     "m": "i",
+     "ref": "10:32",
+     "text": "Gazara (Gezer), west of Jerusalem. Some identify the place in this story with Jazer east of the Jordan (1 Macc 5:8)."
+    },
+    {
+     "m": "j",
+     "ref": "10:35",
+     "text": "Greek \"the fifth and twentieth day,\" apparently counted from the start of the forty-day siege (v. 33)."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    5,
+    13,
+    16,
+    22,
+    27,
+    34
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After a very short interval of time, Lysias, the king's steward and kinsman and head of affairs, bearing it very heavily over what had come to pass,"
+    },
+    {
+     "v": 2,
+     "text": "gathered about eighty thousand men and all his cavalry and came against the Jews, reckoning that he would make the city a dwelling place for Greeks,"
+    },
+    {
+     "v": 3,
+     "text": "levy silver from the sanctuary as from the other sacred precincts of the nations, and put up the high priesthood for sale every year."
+    },
+    {
+     "v": 4,
+     "text": "He took no account whatever of the might of God, but was puffed up by his tens of thousands of foot soldiers, his thousands of horsemen, and his eighty elephants."
+    },
+    {
+     "v": 5,
+     "text": "Entering Judea, he drew near to Beth-zur, a fortified place about twenty miles from Jerusalem,{a} and pressed it hard."
+    },
+    {
+     "v": 6,
+     "text": "When Maccabeus and his men learned that he was besieging the strongholds, they and the throngs with them, with lamentations and tears, besought the Lord to send a good angel to deliver Israel."
+    },
+    {
+     "v": 7,
+     "text": "Maccabeus was first of all to seize his weapons, and he called on the rest to share the danger with him in coming to the help of their brothers; and together, with ready hearts, they sallied forth."
+    },
+    {
+     "v": 8,
+     "text": "Right there, close by Jerusalem, a rider on horseback was seen going before them in a white garment, shaking a panoply of gold."
+    },
+    {
+     "v": 9,
+     "text": "Together they all blessed the merciful God and were strengthened in their souls, ready to pierce not only men but the fiercest beasts and walls of iron."
+    },
+    {
+     "v": 10,
+     "text": "They advanced in battle array, having their Ally from heaven, for the Lord had shown them mercy."
+    },
+    {
+     "v": 11,
+     "text": "Hurling themselves like lions on the enemy, they laid low eleven thousand of them and sixteen hundred horsemen, and forced all the rest to flee."
+    },
+    {
+     "v": 12,
+     "text": "Most of them got away wounded and stripped of their arms, and Lysias himself escaped only by shameful flight."
+    },
+    {
+     "v": 13,
+     "text": "Being no fool, he weighed within himself the defeat he had suffered, and perceived that the Hebrews could not be conquered, because the mighty God fought on their side. So he sent to them"
+    },
+    {
+     "v": 14,
+     "text": "and persuaded them to come to a settlement on all just terms, promising that he would persuade the king also, constraining him to become their friend."
+    },
+    {
+     "v": 15,
+     "text": "Maccabeus, mindful of what was advantageous, nodded assent to everything for which Lysias appealed; for all that Maccabeus handed to Lysias in writing on behalf of the Jews, the king conceded."
+    },
+    {
+     "v": 16,
+     "text": "The letters written to the Jews were as follows. That from Lysias ran thus:\n\"Lysias to the people of the Jews, greeting."
+    },
+    {
+     "v": 17,
+     "text": "John and Absalom, who were sent by you, delivered the communication written below and asked about the matters it set forth."
+    },
+    {
+     "v": 18,
+     "text": "Whatever needed to be referred to the king as well, I have made known to him, and what was possible he has granted."
+    },
+    {
+     "v": 19,
+     "text": "If, then, you maintain your good will toward the government, I will try in the future also to be a cause of good things for you."
+    },
+    {
+     "v": 20,
+     "text": "On the details I have ordered these men and my own representatives to confer with you."
+    },
+    {
+     "v": 21,
+     "text": "Farewell. In the year one hundred forty-eight, on the twenty-fourth of Dioscorinthius.\"{b}"
+    },
+    {
+     "v": 22,
+     "text": "The letter of the king contained the following: \"King Antiochus to Lysias his brother, greeting."
+    },
+    {
+     "v": 23,
+     "text": "Since our father has been translated to the gods, it is our will that those of the realm be left untroubled to care for what is theirs."
+    },
+    {
+     "v": 24,
+     "text": "We have heard that the Jews will not agree to our father's transfer of them to Hellenic ways, but, choosing their own manner of life, request that their lawful customs be conceded to them."
+    },
+    {
+     "v": 25,
+     "text": "Choosing, therefore, that this nation too should be free from disturbance, we decide that their sanctuary be restored to them and that they live according to the customs of their ancestors."
+    },
+    {
+     "v": 26,
+     "text": "Therefore you will do well to send word to them and give them right hands,{c} so that, knowing our purpose, they may be in good heart and pass their days gladly in caring for their own concerns.\""
+    },
+    {
+     "v": 27,
+     "text": "To the nation the king's letter was as follows:\n\"King Antiochus to the council of elders of the Jews and to the other Jews, greeting."
+    },
+    {
+     "v": 28,
+     "text": "If you are well, it would be as we wish; we too are in good health."
+    },
+    {
+     "v": 29,
+     "text": "Menelaus has made it plain to us that you desire to come down and be about your private business."
+    },
+    {
+     "v": 30,
+     "text": "To those, then, who come down before the thirtieth day of Xanthicus there shall be a right hand of peace, with freedom from fear,{d}"
+    },
+    {
+     "v": 31,
+     "text": "that the Jews may enjoy their own provisions and laws, as also before; and no one of them in any manner shall be troubled over the things done unwittingly."
+    },
+    {
+     "v": 32,
+     "text": "I have also sent Menelaus to encourage you."
+    },
+    {
+     "v": 33,
+     "text": "Farewell. In the year one hundred forty-eight, on the fifteenth of Xanthicus\" (in March–April).{e}"
+    },
+    {
+     "v": 34,
+     "text": "There was also sent to them a letter from the Romans, worded thus: \"Quintus Memmius, Titus Manius, legates of the Romans, to the populace of the Jews, greeting.{f}"
+    },
+    {
+     "v": 35,
+     "text": "Concerning the things that Lysias, kinsman of the king, conceded to you, we also are in accord."
+    },
+    {
+     "v": 36,
+     "text": "Yet regarding what he judged must be laid before the king, examine them and send someone at once, that we may present the matter in a fitting way for you; for we are going on toward Antioch."
+    },
+    {
+     "v": 37,
+     "text": "Therefore make haste and send some men, so that we too may know what your mind is."
+    },
+    {
+     "v": 38,
+     "text": "Fare well. In the year one hundred forty-eight, on the fifteenth of Xanthicus.\""
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:5",
+     "text": "Greek \"about five schoinoi.\" The schoinos was a measure of distance of varying length. Beth-zur lay about 18 miles (29 km) south of Jerusalem."
+    },
+    {
+     "m": "b",
+     "ref": "11:21",
+     "text": "The month Dioscorinthius is otherwise unknown. The year is 148 of the Seleucid era (see note on 1:7), that is, 165/164 BC."
+    },
+    {
+     "m": "c",
+     "ref": "11:26",
+     "text": "Literally \"right hands.\""
+    },
+    {
+     "m": "d",
+     "ref": "11:30",
+     "text": "Swete's Greek prints vv. 29 and 30 as one verse; standard English numbering is followed here."
+    },
+    {
+     "m": "e",
+     "ref": "11:33",
+     "text": "Xanthicus, a Macedonian month (in March–April). The year is 148 of the Seleucid era (see note on 1:7), that is, spring 164 BC. Since Antiochus IV was apparently still alive at this date, the letter may belong to his reign rather than to that of his son."
+    },
+    {
+     "m": "f",
+     "ref": "11:34",
+     "text": "These Roman envoys are otherwise unknown."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    3,
+    10,
+    13,
+    17,
+    26,
+    32,
+    38
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "These agreements having been made, Lysias went off to the king, and the Jews went about their farming."
+    },
+    {
+     "v": 2,
+     "text": "But among the commanders in those parts, Timothy and Apollonius the son of Gennaeus, Hieronymus also and Demophon, and with these Nicanor the Cypriarch,{a} would not allow them to be settled and enjoy quiet."
+    },
+    {
+     "v": 3,
+     "text": "And the people of Joppa carried out an impiety of this magnitude: they invited the Jews dwelling among them to go aboard boats which they had set ready, with wives and children, as though no ill will existed toward them."
+    },
+    {
+     "v": 4,
+     "text": "This being by public vote of the city, and the Jews accepting, as men wishing to live peaceably and suspecting nothing, the Joppans took them out to sea and sank them, no fewer than two hundred."
+    },
+    {
+     "v": 5,
+     "text": "When Judas got word of the savagery done to his countrymen, he gave orders to the men with him,"
+    },
+    {
+     "v": 6,
+     "text": "and calling on God, the righteous Judge, he came against the murderers of his brothers. By night he set the harbor ablaze, burned up the boats, and put to the sword those who had fled there."
+    },
+    {
+     "v": 7,
+     "text": "Then, because the place was shut tight, he withdrew, intending to come again and root out the whole commonwealth of Joppa."
+    },
+    {
+     "v": 8,
+     "text": "Learning that the people in Jamnia{b} too wished to deal in the same manner with the Jews who lived among them,"
+    },
+    {
+     "v": 9,
+     "text": "he fell upon the Jamnites by night and set fire to the harbor with the fleet, so that the glow of the light was visible in Jerusalem, twenty-seven miles distant.{c}"
+    },
+    {
+     "v": 10,
+     "text": "When they had drawn off from there about a mile,{d} on their march against Timothy, Arabs attacked him, no fewer than five thousand, and five hundred horsemen."
+    },
+    {
+     "v": 11,
+     "text": "A hard battle followed, and those with Judas, through help from God, won the day; and the nomads, getting the worst of it, asked Judas to give them his right hand, promising to give him livestock and to be of service to his men in other ways."
+    },
+    {
+     "v": 12,
+     "text": "Judas, supposing that they would indeed be useful in many things, consented to keep peace with them; and receiving pledges, they went off to their tents."
+    },
+    {
+     "v": 13,
+     "text": "He also attacked a certain city, strong, fortified with bridges{e} and surrounded by walls, inhabited by Gentiles of every kind; its name was Caspin."
+    },
+    {
+     "v": 14,
+     "text": "Those within, trusting in the strength of the walls and their store of provisions, behaved with insolence toward Judas and his men, railing at them, and blaspheming besides, and speaking what is not lawful."
+    },
+    {
+     "v": 15,
+     "text": "But Judas and his men, calling upon the great Sovereign of the world, who without battering rams or engines of war hurled down Jericho in the days of Joshua, rushed savagely upon the wall."
+    },
+    {
+     "v": 16,
+     "text": "They took the city by the will of God and made slaughter past telling, so that the adjoining lake, a quarter of a mile broad,{f} appeared to be filled with the blood that ran into it."
+    },
+    {
+     "v": 17,
+     "text": "Withdrawing from there about eighty-six miles,{g} they came through to Charax, to the Jews called Tubiani.{h}"
+    },
+    {
+     "v": 18,
+     "text": "Timothy they did not find in those places, for he had by then left the district without achieving anything, though in one place he had left a garrison, a very strong one."
+    },
+    {
+     "v": 19,
+     "text": "Dositheus and Sosipater, two of Maccabeus's captains, marched out and destroyed those Timothy had left in the stronghold, more than ten thousand men."
+    },
+    {
+     "v": 20,
+     "text": "Maccabeus, arranging the army about him in cohorts, set these men over the cohorts and hastened against Timothy, who had with him a hundred twenty thousand foot soldiers and nine thousand{i} horsemen."
+    },
+    {
+     "v": 21,
+     "text": "When Timothy learned of the approach of Judas, he sent the women and the children and the rest of the baggage ahead to the place called Carnaim,{j} for the site was hard to besiege and hard to approach because of the narrowness of all the passes."
+    },
+    {
+     "v": 22,
+     "text": "But when Judas's first cohort appeared, terror came upon the enemy, and fear, at the manifestation of him who looks upon all things; and they rushed headlong in flight, swept this way and that, so that often they were hurt by their own men and run through by the points of their swords."
+    },
+    {
+     "v": 23,
+     "text": "Judas pressed the pursuit with greater vigor, stabbing the sinners, and destroyed as many as thirty thousand men."
+    },
+    {
+     "v": 24,
+     "text": "Timothy himself fell into the hands of Dositheus's and Sosipater's men. With much deceit he begged them to let him go safe, since he held the parents of many of them and the brothers of some, who would otherwise be shown no regard."
+    },
+    {
+     "v": 25,
+     "text": "After he had given his word many times over, binding himself to send those people back unhurt, they released him, for their brothers' safety."
+    },
+    {
+     "v": 26,
+     "text": "Then Judas went out to Carnaim and the Atergateion,{k} and slaughtered twenty-five thousand persons."
+    },
+    {
+     "v": 27,
+     "text": "Following the rout and ruin of these, he took the field against Ephron as well, a strong city in which multitudes from all peoples lived; vigorous youths, posted before the ramparts, fought stoutly in its defense, and supplies of engines and darts in plenty were laid up there."
+    },
+    {
+     "v": 28,
+     "text": "But calling upon the Sovereign who with might shatters the strength of enemies, they got the town into their hands and laid low about twenty-five thousand of those within."
+    },
+    {
+     "v": 29,
+     "text": "Setting out from there, they hastened to Scythopolis,{l} which is about sixty-nine miles{m} from Jerusalem."
+    },
+    {
+     "v": 30,
+     "text": "The Jews settled there, however, testified to the kindness the Scythopolitans had held toward them and to their gentle dealing in seasons of ill fortune;"
+    },
+    {
+     "v": 31,
+     "text": "so they gave thanks and further urged them to be kindly to the race in days to come, and arrived at Jerusalem with the feast of Weeks drawing near."
+    },
+    {
+     "v": 32,
+     "text": "After the festival called Pentecost{n} they hastened against Gorgias, the governor of Idumea,"
+    },
+    {
+     "v": 33,
+     "text": "He marched forth with three thousand infantry and four hundred cavalry."
+    },
+    {
+     "v": 34,
+     "text": "When they had joined battle, it happened that a few of the Jews fell."
+    },
+    {
+     "v": 35,
+     "text": "One Dositheus, of Bacenor's company, a strong man on horseback, laid hold of Gorgias; seizing his military cloak he was hauling him off forcibly, eager to capture the cursed man living, but a horseman of the Thracians rushed upon him and severed his shoulder, and Gorgias fled away to Marisa.{o}"
+    },
+    {
+     "v": 36,
+     "text": "As Esdris and his men had been fighting a long while and were worn out, Judas called upon the Lord to show himself their ally and leader in the battle."
+    },
+    {
+     "v": 37,
+     "text": "Raising in the ancestral language the battle cry with hymns, he charged unexpectedly upon Gorgias's troops and put them to flight."
+    },
+    {
+     "v": 38,
+     "text": "Then Judas assembled his army and went to the town of Adullam. As the seventh day was coming on, they purified themselves according to the custom and kept the sabbath there."
+    },
+    {
+     "v": 39,
+     "text": "On the next day, as by then it had become necessary, Judas and his men went to take up the bodies of the fallen and to bring them back with their kinsmen to the graves of their fathers."
+    },
+    {
+     "v": 40,
+     "text": "Beneath the tunics of each of the slain they discovered consecrated amulets of the Jamnian idols, from which the law keeps the Jews away; and it was evident to everyone that this was why these had fallen."
+    },
+    {
+     "v": 41,
+     "text": "All of them therefore blessed the ways of the Lord, the righteous Judge, who makes hidden things manifest,"
+    },
+    {
+     "v": 42,
+     "text": "and they turned to supplication, praying that the sin that had been committed might be wholly blotted out. And the noble Judas exhorted the people to keep themselves free from sin, since they had seen before their eyes what had happened because of the sin of the fallen."
+    },
+    {
+     "v": 43,
+     "text": "Then he made a collection, man by man, amounting to about nineteen pounds of silver,{p} and dispatched it to Jerusalem to bring forward a sin offering, doing a most fine and seemly thing in having the resurrection in view."
+    },
+    {
+     "v": 44,
+     "text": "For had he not looked for those who had fallen to stand up again, praying on behalf of the dead would be needless and silly."
+    },
+    {
+     "v": 45,
+     "text": "If instead he had his eye on the most beautiful gift of grace stored up for those who lie down to sleep with piety, the thought was holy and godly. Hence he made the propitiation for the dead, that they might be loosed from the sin."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:2",
+     "text": "\"Cypriarch,\" governor of Cyprus."
+    },
+    {
+     "m": "b",
+     "ref": "12:8",
+     "text": "Jamnia (Hebrew Jabneh, modern Yavne), near the coast south of Joppa."
+    },
+    {
+     "m": "c",
+     "ref": "12:9",
+     "text": "Greek: two hundred forty stadia. A stadion was about 607 feet (185 m)."
+    },
+    {
+     "m": "d",
+     "ref": "12:10",
+     "text": "Greek: nine stadia."
+    },
+    {
+     "m": "e",
+     "ref": "12:13",
+     "text": "Greek gephyroun, perhaps \"to bridge\" or \"with earthworks\"; the meaning is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "12:16",
+     "text": "Greek: two stadia."
+    },
+    {
+     "m": "g",
+     "ref": "12:17",
+     "text": "Greek: seven hundred fifty stadia."
+    },
+    {
+     "m": "h",
+     "ref": "12:17",
+     "text": "Charax, \"palisade\" or \"stockade,\" an unidentified place. The Tubiani are the Jews of Tob or Tobias (compare 1 Macc 5:13)."
+    },
+    {
+     "m": "i",
+     "ref": "12:20",
+     "text": "Greek \"two thousand and in addition seven thousand.\""
+    },
+    {
+     "m": "j",
+     "ref": "12:21",
+     "text": "Carnaim (Karnaim), in Gilead; compare 1 Macc 5:43–44."
+    },
+    {
+     "m": "k",
+     "ref": "12:26",
+     "text": "The Atergateion, a temple of the Syrian goddess Atargatis at Carnaim."
+    },
+    {
+     "m": "l",
+     "ref": "12:29",
+     "text": "Scythopolis, \"city of the Scythians,\" the Greek name of Beth-shan."
+    },
+    {
+     "m": "m",
+     "ref": "12:29",
+     "text": "Greek: six hundred stadia."
+    },
+    {
+     "m": "n",
+     "ref": "12:32",
+     "text": "Weeks, called Pentecost (\"fiftieth\") because it fell fifty days after Passover (Lev 23:15–21; Deut 16:9–10)."
+    },
+    {
+     "m": "o",
+     "ref": "12:35",
+     "text": "Marisa (Mareshah), in Idumea."
+    },
+    {
+     "m": "p",
+     "ref": "12:43",
+     "text": "Greek: two thousand drachmas."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1,
+    3,
+    9,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the hundred and forty-ninth year{a} news fell upon Judas's company that Antiochus Eupator was coming with hosts upon Judea,"
+    },
+    {
+     "v": 2,
+     "text": "and with him Lysias, his guardian and head of the government, each having a Greek force of a hundred ten thousand foot, five thousand three hundred horse, twenty-two elephants, and three hundred chariots fitted with scythes."
+    },
+    {
+     "v": 3,
+     "text": "Menelaus too joined himself to them, and with much dissembling urged Antiochus on, not for the deliverance of his homeland, but supposing that he would be set up in office."
+    },
+    {
+     "v": 4,
+     "text": "But the King of kings stirred up the wrath of Antiochus against the wicked man; and when Lysias pointed out to him that this man was to blame for all the evils, he gave orders to bring him to Beroea{b} and put him to death there in the manner of that place."
+    },
+    {
+     "v": 5,
+     "text": "For there is a tower in that place, seventy-five feet high,{c} full of ashes, and it has a device that turns round, falling sheer on every side into the ashes."
+    },
+    {
+     "v": 6,
+     "text": "There anyone guilty of sacrilege, or who has gone to extremes in any other evil deeds, is pushed by everyone to his destruction."
+    },
+    {
+     "v": 7,
+     "text": "By such a doom it fell to the lawbreaker Menelaus to die, without even receiving burial in the earth,"
+    },
+    {
+     "v": 8,
+     "text": "and most justly; for since he had committed many sins against the altar, whose fire and ashes were holy, in ashes he received his death."
+    },
+    {
+     "v": 9,
+     "text": "The king came on, his mind fiercely set on showing the Jews worse things than any done in his father's time."
+    },
+    {
+     "v": 10,
+     "text": "When Judas learned of this, he ordered the people to call upon the Lord day and night, that now, if ever before, he would come to the help"
+    },
+    {
+     "v": 11,
+     "text": "of those about to be robbed of the law, their homeland, and the holy sanctuary, and not allow the people who had just begun to revive a little to fall into the hands of the blasphemous Gentiles."
+    },
+    {
+     "v": 12,
+     "text": "When they had all done this together, beseeching the merciful Lord with weeping and fasting and lying prostrate for three days without ceasing, Judas exhorted them and ordered them to stand ready."
+    },
+    {
+     "v": 13,
+     "text": "After a private meeting with the elders, he resolved that before the king's army could invade Judea and become masters of the city, they would go out and decide the matter by the help of God."
+    },
+    {
+     "v": 14,
+     "text": "So, handing over the outcome to the world's Lord and calling on those with him to strive nobly even to death on behalf of laws, sanctuary, city, homeland, and polity, he encamped by Modein."
+    },
+    {
+     "v": 15,
+     "text": "Giving his men the watchword \"God's victory,\" with a picked force of the bravest young men he fell by night upon the king's pavilion and slew as many as two thousand men in the camp. He also stabbed the leading elephant together with its mahout.{d}"
+    },
+    {
+     "v": 16,
+     "text": "At last they had filled the encampment with dread and tumult, and they got away with success."
+    },
+    {
+     "v": 17,
+     "text": "Day was already breaking when this was done, owing to the shelter of the Lord that aided him."
+    },
+    {
+     "v": 18,
+     "text": "The king, having had a taste of the daring of the Jews, tried by stratagems to take their positions."
+    },
+    {
+     "v": 19,
+     "text": "He advanced against Beth-zur, a strong fortress of the Jews; he was turned back; he attacked again; he was beaten."
+    },
+    {
+     "v": 20,
+     "text": "Judas sent in to those within what they needed."
+    },
+    {
+     "v": 21,
+     "text": "But Rhodocus, a man from the Jewish ranks, disclosed the secrets to the enemy; he was sought out, caught, and put in prison."
+    },
+    {
+     "v": 22,
+     "text": "The king parleyed a second time with the people in Beth-zur; he gave pledges, received theirs, withdrew,"
+    },
+    {
+     "v": 23,
+     "text": "he fell upon Judas's forces, was overcome; he learned that Philip, left behind at Antioch over affairs, had gone mad;{e} he was confounded; he called on the Jews, gave way, and swore to all just terms; he was reconciled and brought a sacrifice, honored the shrine and the place, and acted kindly."
+    },
+    {
+     "v": 24,
+     "text": "He received Maccabeus, and left Hegemonides as governor from Ptolemais to the territory of the Gerrenians.{f}"
+    },
+    {
+     "v": 25,
+     "text": "He went to Ptolemais. The people of Ptolemais were displeased with the treaty, for they were exceedingly indignant; they wanted to annul its provisions."
+    },
+    {
+     "v": 26,
+     "text": "Lysias took the public platform, made the best defense that was possible, persuaded them, calmed them, won them over, and set out for Antioch. Such was the course of the king's attack and withdrawal."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:1",
+     "text": "That is, 149 of the Seleucid era (see note on 1:7), 164/163 BC."
+    },
+    {
+     "m": "b",
+     "ref": "13:4",
+     "text": "Beroea, the Greek name of Aleppo in Syria."
+    },
+    {
+     "m": "c",
+     "ref": "13:5",
+     "text": "Greek: fifty cubits. A cubit was about 18 inches (45 cm)."
+    },
+    {
+     "m": "d",
+     "ref": "13:15",
+     "text": "Literally \"the one in the house,\" apparently the driver in the howdah."
+    },
+    {
+     "m": "e",
+     "ref": "13:23",
+     "text": "Greek apenenoēsthai, \"had lost his senses\" or \"had grown desperate,\" that is, had rebelled."
+    },
+    {
+     "m": "f",
+     "ref": "13:24",
+     "text": "Swete's Greek has \"Gennerans.\" The place is uncertain; it may be Gerar, south of Gaza."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    3,
+    15,
+    23,
+    26,
+    31,
+    37
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Three years' time having passed, it came to the knowledge of those around Judas that Demetrius the son of Seleucus{a} had put in by way of the port at Tripolis with a powerful host and ships,"
+    },
+    {
+     "v": 2,
+     "text": "and had taken possession of the country, having made away with Antiochus and his guardian Lysias."
+    },
+    {
+     "v": 3,
+     "text": "A certain Alcimus, high priest before, who had of his own will polluted himself in the days of the non-mingling,{b} understanding that in no way at all was there deliverance for him, nor any longer approach to the holy altar,"
+    },
+    {
+     "v": 4,
+     "text": "came to King Demetrius in about the one hundred fifty-first year,{c} bringing him a crown of gold and a palm, and besides these some of the customary olive branches from the sanctuary; and that day he kept quiet."
+    },
+    {
+     "v": 5,
+     "text": "But finding an occasion to further his own folly, when he was called into council by Demetrius and asked in what disposition and purpose the Jews stood, he answered:"
+    },
+    {
+     "v": 6,
+     "text": "\"The ones among the Jews named Hasideans,{d} at whose head goes Judas the Maccabee, nourish war and make faction, not permitting the realm to enjoy settled order."
+    },
+    {
+     "v": 7,
+     "text": "Therefore I, deprived of my ancestral glory, I mean the high priesthood, have now come here,"
+    },
+    {
+     "v": 8,
+     "text": "in the first place out of true-hearted care for what belongs to the king, and in the second with an eye also to my own citizens; for by the folly of the men just mentioned our entire race suffers no small ill fortune."
+    },
+    {
+     "v": 9,
+     "text": "Since you are acquainted with each of these matters, O king, take thought for our country and our hard-pressed race, in keeping with the gracious kindness you show to all."
+    },
+    {
+     "v": 10,
+     "text": "For as long as Judas lives, it is impossible for the state to find peace.\""
+    },
+    {
+     "v": 11,
+     "text": "Upon his speaking thus, the other Friends, being ill-disposed toward Judas, all the faster fanned Demetrius into a blaze."
+    },
+    {
+     "v": 12,
+     "text": "Promptly selecting Nicanor, once elephant-master, and proclaiming him commander over Judea, he dispatched him,"
+    },
+    {
+     "v": 13,
+     "text": "with orders to make away with Judas himself, to scatter those with him, and to install Alcimus as high priest of the greatest sanctuary."
+    },
+    {
+     "v": 14,
+     "text": "And the Gentiles of Judea, those who had been put to flight by Judas, came mingling with Nicanor in herds, supposing that the ill fortunes and disasters of the Jews would turn out to be their own good fortune."
+    },
+    {
+     "v": 15,
+     "text": "When the Jews heard of Nicanor's coming and the onset of the Gentiles, they sprinkled earth upon themselves and prayed to him who established his own people forever and who always upholds his own portion by manifesting himself."
+    },
+    {
+     "v": 16,
+     "text": "At the command of their leader, they set out at once from there and engaged them at a village called Dessau.{e}"
+    },
+    {
+     "v": 17,
+     "text": "Simon, the brother of Judas, had encountered Nicanor, but had been checked for a while because of the sudden consternation caused by the enemy.{f}"
+    },
+    {
+     "v": 18,
+     "text": "Even so, Nicanor, hearing of the manly prowess of Judas's company and the high heart they had in contests for the homeland, was somewhat wary of making the decision through blood."
+    },
+    {
+     "v": 19,
+     "text": "Therefore he sent Posidonius, Theodotus, and Mattathias to give and receive pledges of friendship."
+    },
+    {
+     "v": 20,
+     "text": "When the terms had been fully considered, and the leader had laid them before the people, and it was apparent that they were of one mind, they agreed to the covenant."
+    },
+    {
+     "v": 21,
+     "text": "They appointed a day on which they would come together privately; and from either side a chariot went forward, and seats were placed."
+    },
+    {
+     "v": 22,
+     "text": "Judas posted armed men in readiness at strategic points, lest the enemy should suddenly commit some treachery; they held the proper conference."
+    },
+    {
+     "v": 23,
+     "text": "Nicanor stayed on in Jerusalem and did nothing out of place, but dismissed the flocks of people that had gathered."
+    },
+    {
+     "v": 24,
+     "text": "Judas he had before his face continually; in his soul he had grown fond of the man."
+    },
+    {
+     "v": 25,
+     "text": "He exhorted him to wed and beget children; he wed, lived settled, partook of life."
+    },
+    {
+     "v": 26,
+     "text": "Alcimus, however, observing the good will they bore each other, took the articles of agreement and arrived at Demetrius's court, saying that Nicanor held views foreign to the state's interest, for he had designated Judas, the plotter against the kingdom, as his deputy."
+    },
+    {
+     "v": 27,
+     "text": "The king, flying into a passion and goaded by the slanders of the all-wicked man, wrote to Nicanor declaring that he took the agreement hard, and ordering that the Maccabee be dispatched in bonds to Antioch with speed."
+    },
+    {
+     "v": 28,
+     "text": "When this message came to Nicanor, he was troubled and grieved at the thought of annulling their agreement when the man had done no wrong."
+    },
+    {
+     "v": 29,
+     "text": "But because there was no acting against the king, he kept watch for a favorable time to carry it out through some ruse."
+    },
+    {
+     "v": 30,
+     "text": "The Maccabee, seeing Nicanor managing matters with him more harshly and having turned boorish in his wonted manner of meeting, perceived that the harshness came not from the best intent; and drawing together no small number of those around him, he kept himself hidden from Nicanor."
+    },
+    {
+     "v": 31,
+     "text": "Recognizing that the other had nobly outgeneraled him, the man arrived at the greatest and holy temple as the priests were bringing forward the fitting sacrifices, and ordered them to surrender the man."
+    },
+    {
+     "v": 32,
+     "text": "And when with oaths they protested that they had no knowledge of where the one sought might be,"
+    },
+    {
+     "v": 33,
+     "text": "he held out his right hand toward the shrine and swore thus: \"Unless you deliver Judas to me bound, I will make this enclosure of God a plain, dig up the altar, and set up on this spot a conspicuous temple to Dionysus.\""
+    },
+    {
+     "v": 34,
+     "text": "With so much said he departed. And the priests, holding out their hands to the sky, invoked the One who at all times fights in defense of our nation, saying this:"
+    },
+    {
+     "v": 35,
+     "text": "\"You, O Lord, who have need of nothing, were pleased that there should be a sanctuary for your dwelling among us."
+    },
+    {
+     "v": 36,
+     "text": "Now, holy Lord of all that is hallowed, guard undefiled for ever this house, just lately cleansed.\""
+    },
+    {
+     "v": 37,
+     "text": "One Razis, of the elders from Jerusalem, was informed against before Nicanor, a lover of his fellow citizens and one of excellent report, named for his kindliness father of the Jews."
+    },
+    {
+     "v": 38,
+     "text": "For in former times, when there was no mingling with the Gentiles, he had been accused of Judaism, and he had with all zeal risked body and life for Judaism."
+    },
+    {
+     "v": 39,
+     "text": "Nicanor, wishing to make plain the ill will he had toward the Jews, sent more than five hundred soldiers to arrest him;"
+    },
+    {
+     "v": 40,
+     "text": "He reckoned that by seizing that man he would work disaster upon them."
+    },
+    {
+     "v": 41,
+     "text": "As the throngs were on the verge of taking the tower and were forcing the courtyard gate and calling to bring fire and kindle the doors, he, being hemmed in on all sides, set the sword beneath himself,"
+    },
+    {
+     "v": 42,
+     "text": "nobly choosing to die sooner than come under the hands of the sinful and be insulted in a way unworthy of his own high birth."
+    },
+    {
+     "v": 43,
+     "text": "But missing the true stroke, through the haste of the struggle, and with the throngs bursting inside the doorways, he ran up bravely onto the wall and flung himself down like a man upon the throngs."
+    },
+    {
+     "v": 44,
+     "text": "They hastily stepping back and a gap being made, he came down in the middle of the open place."
+    },
+    {
+     "v": 45,
+     "text": "Breath was yet in him, and burning in his spirit he got up, his blood pouring out in streams and his wounds grievous, ran through the throngs, and took his stand on a sheer rock;"
+    },
+    {
+     "v": 46,
+     "text": "already all but bloodless, he flung out his bowels, and seizing them in both hands he hurled them upon the throngs; and appealing to the Ruler of life and breath to give these same back to him once more, in this way he passed from life."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:1",
+     "text": "Demetrius I Soter (reigned 162–150 BC), son of Seleucus IV; compare 1 Macc 7:1–4."
+    },
+    {
+     "m": "b",
+     "ref": "14:3",
+     "text": "Greek amixia, \"non-mixing,\" that is, the time when Jews refused to mingle with Gentiles; also in v. 38."
+    },
+    {
+     "m": "c",
+     "ref": "14:4",
+     "text": "That is, 151 of the Seleucid era (see note on 1:7), 162/161 BC."
+    },
+    {
+     "m": "d",
+     "ref": "14:6",
+     "text": "Hasideans, from Hebrew ḥasidim, \"faithful ones\" or \"pious ones\"; compare 1 Macc 2:42; 7:13."
+    },
+    {
+     "m": "e",
+     "ref": "14:16",
+     "text": "Swete's Greek reads \"Lessau\"; the place is otherwise unknown."
+    },
+    {
+     "m": "f",
+     "ref": "14:17",
+     "text": "The Greek of this verse is obscure; \"consternation\" renders aphasia, literally \"speechlessness.\""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1,
+    6,
+    12,
+    17,
+    20,
+    25,
+    28,
+    37
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Nicanor, getting word that Judas's company were in the districts around Samaria, made up his mind to fall upon them, with complete safety, on the day of rest."
+    },
+    {
+     "v": 2,
+     "text": "And when the Jews who were following him under compulsion said, \"By no means destroy them so fiercely and barbarously, but give glory to the day honored in holiness above others by him who watches over all things,\""
+    },
+    {
+     "v": 3,
+     "text": "the thrice-wicked man asked whether there was a Sovereign in heaven who had ordered the keeping of the sabbath day."
+    },
+    {
+     "v": 4,
+     "text": "When they declared, \"It is the living Lord himself, Sovereign in heaven, who bade us observe the seventh day,\""
+    },
+    {
+     "v": 5,
+     "text": "the other said, \"And I am sovereign upon earth, and I command you to take up arms and carry out the king's business.\" Nevertheless he did not succeed in carrying out his cruel design."
+    },
+    {
+     "v": 6,
+     "text": "So Nicanor, holding his neck high in all his boastfulness, had resolved to set up a public monument of victory over Judas's company."
+    },
+    {
+     "v": 7,
+     "text": "But Maccabeus did not cease to trust, with all hope, that he would obtain help from the Lord."
+    },
+    {
+     "v": 8,
+     "text": "He exhorted those with him not to dread the onset of the Gentiles, but to keep in mind the aids that had come to them before from heaven, and now to look for the victory that would be theirs from the Almighty."
+    },
+    {
+     "v": 9,
+     "text": "Encouraging them from the Law and the Prophets, and reminding them also of the contests they had already won, he made them more eager."
+    },
+    {
+     "v": 10,
+     "text": "And having roused their spirits, he gave his orders, at the same time pointing out the faithlessness of the Gentiles and their violation of oaths."
+    },
+    {
+     "v": 11,
+     "text": "He armed each of them not so much with the security of shields and spears as with the heartening of good words; and he cheered them all by relating a dream worthy of belief, a sort of waking vision.{a}"
+    },
+    {
+     "v": 12,
+     "text": "What he saw was this: Onias, who had been high priest, a noble and good man, modest in bearing and gentle in manner, fitting in his speech and trained from childhood in all that belongs to excellence, was stretching out his hands and praying for the whole body of the Jews."
+    },
+    {
+     "v": 13,
+     "text": "After this in the same way there appeared a man surpassing in white hair and glory, and the eminence surrounding him was a thing of wonder and utmost majesty."
+    },
+    {
+     "v": 14,
+     "text": "And Onias spoke, saying, \"This is a lover of the brothers, who prays much for the people and the holy city, Jeremiah the prophet of God.\""
+    },
+    {
+     "v": 15,
+     "text": "Jeremiah stretched out his right hand and gave to Judas a sword of gold, and as he gave it he addressed him thus:"
+    },
+    {
+     "v": 16,
+     "text": "\"Take this holy sword, a gift from God, with which you will shatter the adversaries.\""
+    },
+    {
+     "v": 17,
+     "text": "Encouraged by the words of Judas, so noble and able to rouse to valor and to make the souls of the young manly, they resolved not to stay in camp{b} but to charge gallantly and, closing with the enemy with all courage, to decide the matter, because the city and the holy things and the sanctuary were in danger."
+    },
+    {
+     "v": 18,
+     "text": "Their fear for wives and children, and also for brothers and kindred, lay with them in the lesser place; greatest and first was the fear for the consecrated shrine."
+    },
+    {
+     "v": 19,
+     "text": "And those left behind in the city felt no slight anguish, troubled over the encounter in the open country."
+    },
+    {
+     "v": 20,
+     "text": "When all were now awaiting the coming decision, and the enemy had already drawn near, with the army drawn up for battle, the beasts stationed at a convenient post, and the horsemen ranged on the wings,"
+    },
+    {
+     "v": 21,
+     "text": "Maccabeus, seeing the presence of the multitudes, the varied equipment of arms, and the savagery of the beasts, stretched up his hands toward heaven and called upon the Lord who works wonders, knowing that it is not through arms but, as he decides, that he wins the victory for those who are worthy."
+    },
+    {
+     "v": 22,
+     "text": "And calling upon him he spoke in this manner: \"You, O Master, sent your angel in the time of Hezekiah king of Judea, and he slew of Sennacherib's camp as many as a hundred eighty-five thousand.{c}"
+    },
+    {
+     "v": 23,
+     "text": "So now, O Sovereign of the heavens, send a good angel before us to bring dread and trembling."
+    },
+    {
+     "v": 24,
+     "text": "By the greatness of your arm may those who come against your holy people with blasphemy be struck down.\" With these words he ended."
+    },
+    {
+     "v": 25,
+     "text": "Nicanor's men advanced with trumpets and war songs,"
+    },
+    {
+     "v": 26,
+     "text": "but Judas's men met the enemy with invocation and prayers."
+    },
+    {
+     "v": 27,
+     "text": "So, fighting with their hands and praying to God with their hearts, they laid low no fewer than thirty-five thousand, and were greatly gladdened by God's manifestation."
+    },
+    {
+     "v": 28,
+     "text": "When the action was over and they were returning with joy, they recognized Nicanor lying dead in his full armor."
+    },
+    {
+     "v": 29,
+     "text": "Then there was shouting and tumult, and they blessed the Sovereign in their ancestral language."
+    },
+    {
+     "v": 30,
+     "text": "And he who was ever in body and soul the foremost champion of his fellow citizens, he who kept the goodwill of his youth toward his countrymen, ordered them to cut off Nicanor's head and his arm with the shoulder and carry them to Jerusalem."
+    },
+    {
+     "v": 31,
+     "text": "When he arrived there and had called his countrymen together and stationed the priests before the altar, he sent for those in the citadel."
+    },
+    {
+     "v": 32,
+     "text": "He showed them the head of the vile Nicanor and the hand of the blasphemer, which he had stretched out boastfully against the holy house of the Almighty."
+    },
+    {
+     "v": 33,
+     "text": "And cutting out the tongue of the ungodly Nicanor, he said he would give it piecemeal to the birds, and hang up the wages of his folly opposite the sanctuary."
+    },
+    {
+     "v": 34,
+     "text": "And they all, looking to heaven, blessed the Lord who had manifested himself, saying, \"Blessed be he who has kept his own place undefiled!\""
+    },
+    {
+     "v": 35,
+     "text": "He hung Nicanor's head from the citadel, a clear and conspicuous sign to all of the help of the Lord."
+    },
+    {
+     "v": 36,
+     "text": "With one common vote they all ordained that this day must on no account be let pass without distinction, but be held as a notable day, the thirteenth of the twelfth month, which in the Syrian tongue is called Adar (in February–March), one day before the day of Mordecai.{d}"
+    },
+    {
+     "v": 37,
+     "text": "This, then, is how matters turned out with Nicanor; and from those times the city has been held by the Hebrews. So I too will here end my account."
+    },
+    {
+     "v": 38,
+     "text": "If it is well and aptly composed, that is what I myself desired; if it is poor and mediocre, that was the best I could do."
+    },
+    {
+     "v": 39,
+     "text": "It is hurtful to drink wine by itself, and again water likewise; but as wine blended with water makes a pleasing and charming delight, so also the fashioning of the narrative gladdens the hearing of those who come upon the composition. And here shall be the close."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:11",
+     "text": "Greek hypar, a waking vision as opposed to a dream; the phrase is obscure."
+    },
+    {
+     "m": "b",
+     "ref": "15:17",
+     "text": "Or \"not to wage a campaign,\" that is, not to wait in a fortified camp."
+    },
+    {
+     "m": "c",
+     "ref": "15:22",
+     "text": "See 2 Kings 19:35; compare 8:19."
+    },
+    {
+     "m": "d",
+     "ref": "15:36",
+     "text": "Adar, the twelfth month (in February–March). \"The Syrian tongue\" is Aramaic. The victory over Nicanor fell in 161 BC; compare 1 Macc 7:43–49. \"Mordecai's day\" is Purim (Esth 9:17–22). Swete prints this verse as v. 36 with the bracketed number (37); standard English numbering is followed here."
+    }
+   ]
+  }
+ ]
+}
