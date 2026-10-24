@@ -1,0 +1,1490 @@
+{
+ "id": "hosea",
+ "name": "Hosea",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew Masoretic Text as given in the Westminster Leningrad Codex (Open Scriptures Hebrew Bible edition). Hosea’s Hebrew is among the most difficult in the Old Testament, perhaps reflecting a northern dialect as well as damage in transmission, and many lines are uncertain; significant difficulties are footnoted. The Septuagint (Old Greek) has been consulted throughout. Hosea is the first of the Twelve Prophets (the “Minor Prophets”), which were copied together on a single scroll in antiquity. Among the Dead Sea Scrolls, as reported in the published editions, the Hebrew manuscripts of the Twelve from Qumran (including 4QXII-a, one of the oldest, and 4QXII-c, d, and g, which preserve parts of Hosea) and the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr), a Jewish revision of the Septuagint toward the Hebrew, generally support the Masoretic Text. Verse numbers follow the standard English numbering, which differs from the Hebrew in three places: English 1:10–11 is Hebrew 2:1–2, so English 2:1–23 is Hebrew 2:3–25; English 11:12 is Hebrew 12:1, so English 12:1–14 is Hebrew 12:2–15; and English 13:16 is Hebrew 14:1, so English 14:1–9 is Hebrew 14:2–10.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    6,
+    8,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The word of Yahweh that came to Hosea{a} son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash,{b} king of Israel."
+    },
+    {
+     "v": 2,
+     "text": "When Yahweh first spoke through Hosea, Yahweh said to Hosea, “Go, take for yourself a wife of whoredom and have children of whoredom,{c} for the land commits great whoredom by turning away from Yahweh.”"
+    },
+    {
+     "v": 3,
+     "text": "So he went and took Gomer daughter of Diblaim, and she conceived and bore him a son."
+    },
+    {
+     "v": 4,
+     "text": "Yahweh said to him, “Name him Jezreel,{d} because a little while more and I will avenge the blood of Jezreel upon the house of Jehu, and I will bring the kingdom of the house of Israel to an end."
+    },
+    {
+     "v": 5,
+     "text": "On that day I will break the bow of Israel in the Valley of Jezreel.”"
+    },
+    {
+     "v": 6,
+     "text": "She conceived again and bore a daughter, and he said to him, “Call her name Lo-ruhamah,{e} for I will no longer show compassion to the house of Israel, that I should in any way forgive them."
+    },
+    {
+     "v": 7,
+     "text": "But to the house of Judah I will show compassion, and I will save them by Yahweh their God; I will not save them by bow or sword or warfare, by horses or horsemen.”"
+    },
+    {
+     "v": 8,
+     "text": "When she had weaned Lo-ruhamah, she conceived and bore a son."
+    },
+    {
+     "v": 9,
+     "text": "And he said, “Call his name Lo-ammi,{f} for you are not my people, and I am not your I AM.”{g}"
+    },
+    {
+     "v": 10,
+     "text": "Yet the number of the children of Israel{h} shall be like sand by the sea, which no one can measure or count; and in the very place where they were told, “You are not my people,” they shall be called, “Children of the living God.”{i}"
+    },
+    {
+     "v": 11,
+     "text": "And the people of Judah and the people of Israel will be gathered together, and they will appoint for themselves one head, and they will go up from the land, for great will be the day of Jezreel."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "The name means “salvation” or “he has saved,” from the same root as Joshua and Isaiah."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Hebrew Yoʾash, a variant spelling of Jehoash. Jeroboam II reigned about 786–746 BC; Hosea’s ministry began in his last years and continued after the fall of his dynasty (compare 1:4)."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Hebrew zenunim, “promiscuity, fornication,” used throughout Hosea as a figure for Israel’s worship of other gods (especially Baal) and for its political alliances. Whether Gomer was unfaithful before the marriage or only afterward (looking back from its outcome) is debated."
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "The name means “God sows.” Jezreel was the town and valley where Jehu wiped out the house of Ahab (2 Kings 9–10). Jehu’s dynasty ended when his great-great-grandson Zechariah, son of Jeroboam II, was assassinated in about 746 BC (2 Kings 15:8–12). In 2:22–23 the name is turned to promise: God will “sow” Israel in the land."
+    },
+    {
+     "m": "e",
+     "ref": "1:6",
+     "text": "The name means “not pitied” or “shown no compassion.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:9",
+     "text": "The name means “not my people.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:9",
+     "text": "Hebrew loʾ-ʾehyeh lakem, “I am not ‘I AM’ to you,” echoing the divine name revealed in Exodus 3:14 (“I AM WHO I AM”). Most translations render “I am not your God,” following the sense."
+    },
+    {
+     "m": "h",
+     "ref": "1:10",
+     "text": "Verses 10–11 are 2:1–2 in the Hebrew text."
+    },
+    {
+     "m": "i",
+     "ref": "1:10",
+     "text": "Quoted in Romans 9:26."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    2,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Say to your brothers, “Ammi,”{a} and to your sisters, “Ruhamah.”"
+    },
+    {
+     "v": 2,
+     "text": "“Contend with your mother, contend—\nfor she is no wife of mine,\nand I am no husband of hers—\nand let her remove her harlotry from her face,\nher adulteries from between her breasts,"
+    },
+    {
+     "v": 3,
+     "text": "lest I strip her bare\nand set her out as on the day of her birth,\nmake her like the wilderness,\nleave her like a land of drought,\nand let her die of thirst."
+    },
+    {
+     "v": 4,
+     "text": "Upon her children also I will have no compassion,\nbecause they are children of whoredom."
+    },
+    {
+     "v": 5,
+     "text": "For their mother has played the whore;\nshe who conceived them has acted shamefully.\nFor she said, ‘I will go after my lovers,\nwho give me my bread and my water,\nmy wool and my flax, my oil and my drinks.’"
+    },
+    {
+     "v": 6,
+     "text": "Therefore I am going to hedge up her{b} way with thorns,\nand I will build a wall against her,\nso that she cannot find her paths."
+    },
+    {
+     "v": 7,
+     "text": "She will pursue her lovers but not overtake them;\nshe will search for them but not find them.\nThen she will say, ‘Let me go back to my first husband,\nfor it was better with me then than it is now.’"
+    },
+    {
+     "v": 8,
+     "text": "She did not acknowledge that it was I who gave her\nthe grain, the new wine, and the oil,\nand lavished on her silver,\nand gold that they made into Baal.{c}"
+    },
+    {
+     "v": 9,
+     "text": "Therefore I will take back my grain in its time,\nand my new wine in its season;\nI will snatch away my wool and my flax,\nwhich were to cover her nakedness."
+    },
+    {
+     "v": 10,
+     "text": "Now I will uncover her shame{d} in the sight of her lovers,\nand no one will rescue her out of my hand."
+    },
+    {
+     "v": 11,
+     "text": "I will make all her merriment cease,\nher feasts, her new moons, and her Sabbaths,\nevery one of her appointed times."
+    },
+    {
+     "v": 12,
+     "text": "I will lay waste her vines and her fig trees,\nof which she said, ‘These are my wages,\nwhich my lovers have given me.’\nI will make them a thicket,\nand the beasts of the field will devour them."
+    },
+    {
+     "v": 13,
+     "text": "I will call her to account for the days of the Baals,\nwhen she offered incense to them,\ndecked herself with her ring and her necklace,\nand went after her lovers,\nbut forgot me,” declares Yahweh."
+    },
+    {
+     "v": 14,
+     "text": "“Therefore, look, I am going to allure her\nand lead her into the wilderness,\nand speak to her heart."
+    },
+    {
+     "v": 15,
+     "text": "From there I will give back her vineyards to her,\nand make the Valley of Achor{e} a doorway of hope.\nAnd there she shall respond as in the days of her youth,\nas in the day when she came up out of the land of Egypt."
+    },
+    {
+     "v": 16,
+     "text": "“On that day,” declares Yahweh,\n“you will call me ‘My husband,’\nand no longer will you call me ‘My Baal.’{f}"
+    },
+    {
+     "v": 17,
+     "text": "For I will remove the names of the Baals from her mouth,\nand they will be remembered by name no more."
+    },
+    {
+     "v": 18,
+     "text": "On that day I will make a covenant for them\nwith the beasts of the field, the birds of the heavens,\nand the creeping things of the ground.\nBow and sword and war I will break and banish from the land,\nand I will make them lie down in safety."
+    },
+    {
+     "v": 19,
+     "text": "I will betroth you to me forever;\nI will betroth you to me in righteousness and in justice,\nin steadfast love and in compassion."
+    },
+    {
+     "v": 20,
+     "text": "I will betroth you to me in faithfulness,\nand you will know Yahweh."
+    },
+    {
+     "v": 21,
+     "text": "“On that day I will answer,” declares Yahweh,\n“I will answer the heavens,\nand they will answer the earth;"
+    },
+    {
+     "v": 22,
+     "text": "the earth will answer the grain, the new wine, and the oil,\nand they will answer Jezreel.{g}"
+    },
+    {
+     "v": 23,
+     "text": "I will sow her for myself in the land;\non Lo-ruhamah I will have mercy,\nand to Lo-ammi I will say, ‘You are my people’;\nand he shall say, ‘My God.’ ”{h}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "That is, “my people” and “pitied.” Verses 1–23 are 2:3–25 in the Hebrew text."
+    },
+    {
+     "m": "b",
+     "ref": "2:6",
+     "text": "Hebrew “your”; the Septuagint and Syriac read “her.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:8",
+     "text": "Or “that they used for Baal.” Baal was the Canaanite storm god, believed to give rain and fertility."
+    },
+    {
+     "m": "d",
+     "ref": "2:10",
+     "text": "Hebrew naḇluth, a rare word, perhaps “lewdness” or “genitals.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:15",
+     "text": "The name means “trouble,” recalling the sin of Achan (Joshua 7:24–26)."
+    },
+    {
+     "m": "f",
+     "ref": "2:16",
+     "text": "Hebrew ʾishi, “my man, my husband,” and baʿli, “my master, my husband,” a word identical with the name of the god Baal."
+    },
+    {
+     "m": "g",
+     "ref": "2:22",
+     "text": "Here the name keeps its meaning, “God sows.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:23",
+     "text": "Quoted in Romans 9:25 and echoed in 1 Peter 2:10."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh said to me, “Go once more and love a woman, loved by a lover{a} and committing adultery, even as Yahweh loves the children of Israel, though they look to other gods and love raisin cakes.”{b}"
+    },
+    {
+     "v": 2,
+     "text": "So I bought her for myself for fifteen pieces of silver and about nine bushels of barley.{c}"
+    },
+    {
+     "v": 3,
+     "text": "And I said to her, “You are to dwell as mine for many days. You shall not play the whore or belong to another man; and I also will be toward you.”{d}"
+    },
+    {
+     "v": 4,
+     "text": "For many days the children of Israel shall remain with no king and no prince, with no sacrifice and no pillar, with no ephod and no household gods.{e}"
+    },
+    {
+     "v": 5,
+     "text": "Afterward the people of Israel will return and seek Yahweh their God and David their king, and they will come trembling to Yahweh and to his goodness in the latter days."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Or “loved by a husband” or “loves a companion.” Most take the woman to be Gomer; some think she is another woman."
+    },
+    {
+     "m": "b",
+     "ref": "3:1",
+     "text": "Probably offerings used in pagan worship (compare Jeremiah 7:18; 44:19)."
+    },
+    {
+     "m": "c",
+     "ref": "3:2",
+     "text": "Hebrew “a homer of barley and a lethech of barley,” a homer and a half-homer (about 330 liters). The silver was probably fifteen shekels (about 6 ounces or 170 grams). The Septuagint has “a homer of barley and a skin of wine.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:3",
+     "text": "The Hebrew is terse; it may mean “so will I also be to you” or “and I too will not come to you.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:4",
+     "text": "Hebrew teraphim. The pillar (matsseḇah) was a standing stone used in worship; the ephod was a priestly garment used to seek oracles."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    4,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear the word of Yahweh, children of Israel,\nfor Yahweh has a dispute{a} with those who live in the land:\nno truth is there, no steadfast love,\nno knowledge of God in the land."
+    },
+    {
+     "v": 2,
+     "text": "Swearing and deceiving, killing and theft and adultery—they burst all bounds,\nand blood touches blood."
+    },
+    {
+     "v": 3,
+     "text": "Therefore the land mourns,\nand all who dwell in it languish,\nalong with the beasts of the field and the birds of the heavens;\neven the fish of the sea are swept away."
+    },
+    {
+     "v": 4,
+     "text": "Yet let no one bring a charge,\nlet no one rebuke;\nfor with you is my contention, O priest.{b}"
+    },
+    {
+     "v": 5,
+     "text": "By day you shall stumble,\nand by night the prophet shall stumble beside you,\nand I will make your mother perish."
+    },
+    {
+     "v": 6,
+     "text": "My people perish for want of knowledge.\nSince you have spurned knowledge,\nI spurn you from serving me as priest;\nsince you forgot your God’s instruction,\nyour sons I too will forget."
+    },
+    {
+     "v": 7,
+     "text": "The more they increased, the more they sinned against me;\nI will change their glory into disgrace.{c}"
+    },
+    {
+     "v": 8,
+     "text": "On my people’s sin they feed,\nand to their iniquity they lift up their appetite."
+    },
+    {
+     "v": 9,
+     "text": "And it will be: like people, like priest.\nI will punish them for their ways\nand repay them for their deeds."
+    },
+    {
+     "v": 10,
+     "text": "They will eat, but not be satisfied;\nthey will play the whore, but not multiply;\nfor they have abandoned Yahweh\nto devote themselves"
+    },
+    {
+     "v": 11,
+     "text": "to whoredom.\nWine and new wine take away the understanding.{d}"
+    },
+    {
+     "v": 12,
+     "text": "My people ask advice of their wooden thing,\nand their rod answers them;\nfor a spirit of harlotry has misled them,\nand they have played the harlot out from under their God."
+    },
+    {
+     "v": 13,
+     "text": "On the tops of the mountains they sacrifice,\nand on the hills they burn offerings,\nunder oak, poplar, and terebinth,\nbecause their shade is good.\nTherefore your daughters play the whore,\nand your daughters-in-law commit adultery."
+    },
+    {
+     "v": 14,
+     "text": "I will not punish your daughters for their harlotry,\nor your daughters-in-law for their adulteries;\nfor the men themselves go off with harlots\nand offer sacrifices with the shrine women;{e}\nso a people that does not discern is thrown down."
+    },
+    {
+     "v": 15,
+     "text": "Though you, Israel, play the harlot,\ndo not let Judah incur guilt.\nDo not come to Gilgal;\ndo not go up to Beth-aven;{f}\ndo not swear, “As Yahweh lives.”"
+    },
+    {
+     "v": 16,
+     "text": "For like a stubborn heifer,\nIsrael is stubborn;\ncan Yahweh now pasture them\nlike a lamb in a broad meadow?"
+    },
+    {
+     "v": 17,
+     "text": "Ephraim is joined to idols;\nleave him alone."
+    },
+    {
+     "v": 18,
+     "text": "When their drinking is over,{g} they give themselves to whoring;\nher rulers dearly love shame."
+    },
+    {
+     "v": 19,
+     "text": "A wind has wrapped them{h} in its wings,\nand they will be ashamed because of their sacrifices."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Hebrew riḇ, a legal dispute or lawsuit."
+    },
+    {
+     "m": "b",
+     "ref": "4:4",
+     "text": "The Hebrew is difficult; literally “and your people are like those who contend with a priest.”"
+    },
+    {
+     "m": "c",
+     "ref": "4:7",
+     "text": "An ancient scribal tradition (one of the “corrections of the scribes”) says the original read “they exchanged my glory for disgrace.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:11",
+     "text": "Hebrew “the heart,” the seat of thought."
+    },
+    {
+     "m": "e",
+     "ref": "4:14",
+     "text": "Hebrew qedeshot, “consecrated women,” probably women attached to a shrine; the exact nature of their role is debated."
+    },
+    {
+     "m": "f",
+     "ref": "4:15",
+     "text": "Beth-aven, “house of wickedness,” is a mocking name for Bethel, “house of God” (compare 5:8; 10:5; Amos 5:5)."
+    },
+    {
+     "m": "g",
+     "ref": "4:18",
+     "text": "Or “Their liquor is gone” or “Their drink has turned sour.” The Hebrew of verse 18 is very uncertain."
+    },
+    {
+     "m": "h",
+     "ref": "4:19",
+     "text": "Hebrew “her.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear this, you priests!\nPay heed, house of Israel!\nGive ear, house of the king!\nFor the judgment concerns you;\nfor you have been a snare at Mizpah,\nand a net spread out upon Tabor."
+    },
+    {
+     "v": 2,
+     "text": "Rebels have gone deep into slaughter,{a}\nbut I am a rebuke to them all."
+    },
+    {
+     "v": 3,
+     "text": "I know Ephraim,{b}\nand Israel is not hidden from me;\nfor now, Ephraim, you have played the harlot;\nIsrael is defiled."
+    },
+    {
+     "v": 4,
+     "text": "Their deeds do not allow them\nto return to their God;\nfor a spirit of harlotry is within them,\nand Yahweh they do not know."
+    },
+    {
+     "v": 5,
+     "text": "The pride of Israel testifies to his face;\nIsrael and Ephraim shall stumble in their iniquity;\nJudah also shall stumble with them."
+    },
+    {
+     "v": 6,
+     "text": "With their flocks and their herds they shall go\nto seek Yahweh, but they shall not find him;\nhe has withdrawn from them."
+    },
+    {
+     "v": 7,
+     "text": "Toward Yahweh they have been treacherous,\nfor they have fathered children of strangers.\nNow a new moon will eat them up, them and their portions.{c}"
+    },
+    {
+     "v": 8,
+     "text": "Blow the horn in Gibeah,\nthe trumpet in Ramah!\nRaise the cry at Beth-aven:\n“Behind you, Benjamin!”{d}"
+    },
+    {
+     "v": 9,
+     "text": "Ephraim shall be a desolation\nin the day of rebuke;\namong the tribes of Israel\nI make known what is sure."
+    },
+    {
+     "v": 10,
+     "text": "The princes of Judah have become\nlike those who shift the boundary stone;\non them I will pour out my wrath like water."
+    },
+    {
+     "v": 11,
+     "text": "Ephraim is crushed and oppressed, broken by judgment,\nfor he willingly walked after filth.{e}"
+    },
+    {
+     "v": 12,
+     "text": "So I am like a moth to Ephraim,\nand like rot to the house of Judah."
+    },
+    {
+     "v": 13,
+     "text": "When Ephraim saw his sickness,\nand Judah his wound,\nEphraim went to Assyria\nand sent to the great king.{f}\nBut he is not able to heal you\nor cure you of your wound."
+    },
+    {
+     "v": 14,
+     "text": "For I will be like a lion to Ephraim,\nand like a young lion to the house of Judah.\nI, even I, will tear and go away;\nI will carry off, and none shall rescue."
+    },
+    {
+     "v": 15,
+     "text": "I will go back to my place\nuntil they acknowledge their guilt and seek my face;\nin their distress they will search for me earnestly."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:2",
+     "text": "The Hebrew of this line is obscure; some, with a change of letters, read “they have made deep the pit of Shittim.”"
+    },
+    {
+     "m": "b",
+     "ref": "5:3",
+     "text": "Ephraim, the largest tribe of the north, is Hosea’s usual name for the northern kingdom of Israel."
+    },
+    {
+     "m": "c",
+     "ref": "5:7",
+     "text": "Or “a month shall devour them with their portions.” The meaning is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "5:8",
+     "text": "Verses 8–14 probably reflect the Syro-Ephraimite war of about 734–732 BC (2 Kings 16:5–9; Isaiah 7)."
+    },
+    {
+     "m": "e",
+     "ref": "5:11",
+     "text": "Hebrew tsaw, of uncertain meaning; perhaps “a command” or a mocking word for idols. The Septuagint reads “vanities.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:13",
+     "text": "Hebrew melek yareḇ, traditionally “King Jareb.” With a different division of the letters, malki raḇ, it is the Assyrian royal title “the great king.” Likewise at 10:6."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    4
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Come, let us return to Yahweh;\nfor he has torn, and he will heal us;\nhe has struck, and he will bind us up."
+    },
+    {
+     "v": 2,
+     "text": "After two days he will revive us;\non the third day he will raise us up,{a}\nthat we may live before him."
+    },
+    {
+     "v": 3,
+     "text": "Let us know, let us press on to know Yahweh;\nhis going out is as certain as the dawn;\nhe will come to us like the showers,\nlike the spring rain that waters the earth.”"
+    },
+    {
+     "v": 4,
+     "text": "Ephraim, what am I to do with you?\nJudah, what am I to do with you?\nYour loyalty is like mist at morning,\nlike dew that vanishes early."
+    },
+    {
+     "v": 5,
+     "text": "Therefore I have hewn them by the prophets;\nI have slain them by the words of my mouth,\nand my judgment goes out like light.{b}"
+    },
+    {
+     "v": 6,
+     "text": "For I delight in steadfast love{c} and not sacrifice,\nin the knowledge of God rather than burnt offerings."
+    },
+    {
+     "v": 7,
+     "text": "But they, like Adam,{d} broke the covenant;\nthere they betrayed me."
+    },
+    {
+     "v": 8,
+     "text": "Gilead is a town of evildoers,\ntracked with blood."
+    },
+    {
+     "v": 9,
+     "text": "As robbers lie in wait for a man,\nso a band of priests murders on the road to Shechem;\nindeed they commit villainy."
+    },
+    {
+     "v": 10,
+     "text": "In the house of Israel I have seen a horrible thing;\nEphraim’s harlotry is there; Israel is defiled."
+    },
+    {
+     "v": 11,
+     "text": "For you also, Judah, a harvest is appointed,\nwhen I restore the fortunes of my people."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "A poetic way of saying “very soon.” Early Christian writers saw here a foreshadowing of the resurrection of Christ on the third day (compare 1 Corinthians 15:4)."
+    },
+    {
+     "m": "b",
+     "ref": "6:5",
+     "text": "So the Septuagint and Syriac, by a different division of the letters; the Hebrew reads “and your judgments are light that goes out.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:6",
+     "text": "Hebrew ḥeseḏ, loyal, covenant love. The Septuagint has “mercy”; Jesus quotes this verse in Matthew 9:13 and 12:7."
+    },
+    {
+     "m": "d",
+     "ref": "6:7",
+     "text": "Or “like mortals” or (with a change of one letter) “at Adam,” a town in the Jordan valley (Joshua 3:16), which would suit “there.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When I would bring healing to Israel,\nthen Ephraim’s guilt comes to light,\nand Samaria’s wicked acts;\nfor they deal in falsehood;\nthieves break in,\nand raiders plunder in the streets."
+    },
+    {
+     "v": 2,
+     "text": "But they do not say in their hearts\nthat I remember all their wickedness.\nNow their deeds surround them;\nthey are before my face."
+    },
+    {
+     "v": 3,
+     "text": "With their wickedness they make the king glad,\nand the princes with their lies."
+    },
+    {
+     "v": 4,
+     "text": "They are all adulterers;\nthey are like an oven heated by the baker,\nwho ceases to stir the fire\nfrom the kneading of the dough until it is leavened."
+    },
+    {
+     "v": 5,
+     "text": "On the day of our king the princes made themselves sick with the heat of wine;\nhe stretched out his hand with scoffers."
+    },
+    {
+     "v": 6,
+     "text": "For they draw near; their heart is like an oven in their ambush;\nall night their anger{a} sleeps;\nin the morning it blazes like a flaming fire."
+    },
+    {
+     "v": 7,
+     "text": "Every one of them is hot like an oven;\nthey consume those who judge them.{b}\nTheir kings fall, one after another,\nand not one among them calls to me."
+    },
+    {
+     "v": 8,
+     "text": "Ephraim mixes himself among the peoples;\nEphraim is a flat cake not turned."
+    },
+    {
+     "v": 9,
+     "text": "Strangers devour his strength,\nand he does not know it;\ngray hairs are sprinkled upon him,\nand he does not know it."
+    },
+    {
+     "v": 10,
+     "text": "The pride of Israel testifies to his face;\nyet they do not return to Yahweh their God,\nnor seek him for all this."
+    },
+    {
+     "v": 11,
+     "text": "Ephraim has become like a dove,\ngullible and senseless;\nto Egypt they call, to Assyria they go."
+    },
+    {
+     "v": 12,
+     "text": "Wherever they go I will cast my net upon them;\nlike birds of the sky I will pull them down;\nI will chasten them as their congregation has heard.{c}"
+    },
+    {
+     "v": 13,
+     "text": "Woe to them, for they have wandered away from me!\nRuin upon them, for they have revolted against me!\nI would ransom them,\nyet they tell lies about me."
+    },
+    {
+     "v": 14,
+     "text": "They do not call to me with their heart\nwhen they howl on their beds;\nfor the sake of grain and wine they slash themselves;{d}\nthey turn their backs on me."
+    },
+    {
+     "v": 15,
+     "text": "Though I trained and strengthened their arms,\nyet against me they devise evil."
+    },
+    {
+     "v": 16,
+     "text": "They turn, but not upward;{e}\nthey are like a slack bow.\nTheir princes shall fall by the sword\nbecause of the insolence of their tongue.\nThis shall be their derision in the land of Egypt."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:6",
+     "text": "So the Syriac and Targum; the Hebrew reads “their baker.”"
+    },
+    {
+     "m": "b",
+     "ref": "7:7",
+     "text": "Hebrew “their judges.” In the last years of the northern kingdom four of its six kings were assassinated (2 Kings 15)."
+    },
+    {
+     "m": "c",
+     "ref": "7:12",
+     "text": "The Hebrew of this line is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "7:14",
+     "text": "So some Hebrew manuscripts and the Septuagint; most manuscripts read “they gather themselves together.” Gashing the body was a rite of Baal worship (1 Kings 18:28)."
+    },
+    {
+     "m": "e",
+     "ref": "7:16",
+     "text": "Hebrew loʾ ʿal, “not up,” obscure; perhaps “not to the Most High” or “to what does not profit.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Set the horn to your mouth!\nLike a vulture{a} one comes upon Yahweh’s house,\nsince they have broken my covenant\nand defied my instruction."
+    },
+    {
+     "v": 2,
+     "text": "To me they cry,\n“My God, we—Israel—know you.”"
+    },
+    {
+     "v": 3,
+     "text": "Israel has spurned what is good;\nthe enemy shall pursue him."
+    },
+    {
+     "v": 4,
+     "text": "They have crowned kings, but not by my will;\nthey have appointed princes, but without my knowledge.\nOf their silver and gold they have fashioned idols\nto their own cutting off."
+    },
+    {
+     "v": 5,
+     "text": "Your calf is rejected, Samaria;{b}\nmy anger burns against them.\nHow long will they be incapable of innocence?"
+    },
+    {
+     "v": 6,
+     "text": "For this thing too is out of Israel;\na workman fashioned it,\nand it is not God.\nSamaria’s calf\nwill be smashed to pieces."
+    },
+    {
+     "v": 7,
+     "text": "For they sow the wind,\nand they shall reap the whirlwind.\nThe standing grain has no head;\nit shall yield no flour;\nand if it should yield,\nstrangers would devour it."
+    },
+    {
+     "v": 8,
+     "text": "Israel is swallowed up;\nalready they are among the nations\nlike a vessel no one wants."
+    },
+    {
+     "v": 9,
+     "text": "For they have gone up to Assyria,\na wild donkey wandering alone;\nEphraim has hired lovers."
+    },
+    {
+     "v": 10,
+     "text": "Though they hire them among the nations,\nnow I will gather them up.\nAnd they shall soon writhe\nunder the burden of the king of princes.{c}"
+    },
+    {
+     "v": 11,
+     "text": "Ephraim made many altars to take away sin,\nbut they became altars for committing sin."
+    },
+    {
+     "v": 12,
+     "text": "Though I write for him my laws by the ten thousand,\nthey are regarded as a strange thing."
+    },
+    {
+     "v": 13,
+     "text": "As for my sacrificial gifts,\nthey sacrifice meat and eat it;\nYahweh does not accept them.\nNow he will remember their iniquity\nand punish their sins;\nthey shall return to Egypt."
+    },
+    {
+     "v": 14,
+     "text": "For Israel has forgotten his Maker\nand built palaces,\nand Judah has multiplied fortified cities;\nbut I will send a fire upon his cities,\nand it shall devour her strongholds."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "Or “eagle.” “The house of Yahweh” here may mean the land or people of Israel."
+    },
+    {
+     "m": "b",
+     "ref": "8:5",
+     "text": "The golden calf set up by Jeroboam I at Bethel (1 Kings 12:28–30). The Hebrew may also be read as a command: “Reject your calf, Samaria.”"
+    },
+    {
+     "m": "c",
+     "ref": "8:10",
+     "text": "Probably the Assyrian king. The Septuagint reads “they shall cease for a little while from anointing a king and princes.”"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    7,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Rejoice not, Israel,\nexult not like the peoples;\nfor you have played the harlot, forsaking your God.\nYou have loved a harlot’s wages\non all the threshing floors of grain."
+    },
+    {
+     "v": 2,
+     "text": "Threshing floor and winepress shall not feed them,\nand the new wine shall fail her."
+    },
+    {
+     "v": 3,
+     "text": "They will not stay on Yahweh’s land;\nEphraim will go back to Egypt,\nand eat what is unclean in Assyria."
+    },
+    {
+     "v": 4,
+     "text": "They shall not pour out wine to Yahweh,\nand their sacrifices shall not please him.\nIt shall be to them like mourners’ bread;\nall who eat of it shall be defiled;\nfor their bread shall be for their hunger only;\nit shall not come into the house of Yahweh."
+    },
+    {
+     "v": 5,
+     "text": "What will you do on the solemn day,\nthe day of Yahweh’s festival?"
+    },
+    {
+     "v": 6,
+     "text": "For look, they have gone, fleeing from ruin;\nEgypt will gather them up,\nMemphis{a} will bury them.\nTheir treasures of silver will be overrun by nettles;\nbrambles will grow in their tents."
+    },
+    {
+     "v": 7,
+     "text": "The days of reckoning have come,\nthe days of payment are here;\nlet Israel know it!\n“The prophet is a fool,\nthe man of the spirit is out of his mind!”—\nso great is your iniquity,\nso great your hostility."
+    },
+    {
+     "v": 8,
+     "text": "Ephraim is a watchman with my God—the prophet;\nyet a bird-catcher’s trap lies on all his paths,\nand enmity in the house of his God."
+    },
+    {
+     "v": 9,
+     "text": "They have deeply corrupted themselves\nas in the days of Gibeah;{b}\nhe will remember their iniquity;\nhe will punish their sins."
+    },
+    {
+     "v": 10,
+     "text": "I found Israel\nlike grapes in the desert;\nlike the early fruit on a fig tree\nat its first bearing\nI looked on your ancestors.\nBut they went to Baal-peor{c}\nand dedicated themselves to the Shameful Thing,\nand they became as loathsome as the thing they loved."
+    },
+    {
+     "v": 11,
+     "text": "Like a bird Ephraim’s glory will fly off—\nno childbirth, no womb, no conceiving!"
+    },
+    {
+     "v": 12,
+     "text": "Though they raise sons,\nI will rob them of them until not one remains.\nWoe to them indeed\nwhen I turn away from them!"
+    },
+    {
+     "v": 13,
+     "text": "Ephraim, as I have seen, was like Tyre,{d} planted in a meadow;\nbut Ephraim must lead out his children to slaughter."
+    },
+    {
+     "v": 14,
+     "text": "Give them, Yahweh—\nwhat will you give?\nGive them a miscarrying womb\nand dry breasts."
+    },
+    {
+     "v": 15,
+     "text": "All their evil is at Gilgal;{e}\nthere I came to hate them.\nBecause of the wickedness of their deeds\nI will drive them out of my house.\nI will love them no more;\nall their princes are rebels."
+    },
+    {
+     "v": 16,
+     "text": "Ephraim is stricken;\ntheir root is dried up;\nthey shall bear no fruit.\nEven though they give birth,\nI will put to death their cherished offspring."
+    },
+    {
+     "v": 17,
+     "text": "My God will cast them off,\nfor they have not obeyed him,\nand among the nations they will be wanderers."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:6",
+     "text": "Hebrew Moph, the ancient capital of Lower Egypt, near modern Cairo, famous for its necropolis."
+    },
+    {
+     "m": "b",
+     "ref": "9:9",
+     "text": "See Judges 19–21."
+    },
+    {
+     "m": "c",
+     "ref": "9:10",
+     "text": "See Numbers 25:1–5. “The Shameful Thing” (Hebrew bosheth) is a common substitute for the name Baal."
+    },
+    {
+     "m": "d",
+     "ref": "9:13",
+     "text": "The Hebrew of this line is uncertain."
+    },
+    {
+     "m": "e",
+     "ref": "9:15",
+     "text": "Gilgal was a major sanctuary (4:15; 12:11; Amos 4:4) and the place where Saul was made king (1 Samuel 11:15)."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Israel is a rambling vine{a}\nthat puts forth fruit for itself.\nAs his fruit grew plentiful,\nso he added altars;\nas his land grew good,\nso he made his pillars handsome."
+    },
+    {
+     "v": 2,
+     "text": "Their heart is false;{b}\nnow they must bear their guilt.\nHe himself will break down their altars\nand wreck their pillars."
+    },
+    {
+     "v": 3,
+     "text": "For soon they will say,\n“We have no king,\nbecause we did not fear Yahweh;\nand a king—what could he do for us?”"
+    },
+    {
+     "v": 4,
+     "text": "They speak mere words;\nwith empty oaths they cut covenants;\nso judgment springs up like poisonous weeds\nin the furrows of the field."
+    },
+    {
+     "v": 5,
+     "text": "For the calf{c} of Beth-aven\nthe people of Samaria tremble.\nIts people mourn over it,\nand its idol-priests{d} writhe over it,\nover its glory, because it has departed from them into exile."
+    },
+    {
+     "v": 6,
+     "text": "The thing itself will be carried to Assyria\nas tribute to the great king.{e}\nEphraim will be put to shame,\nand Israel will be disgraced for his counsel."
+    },
+    {
+     "v": 7,
+     "text": "Samaria and her king are swept off{f}\nlike a chip on the face of the waters."
+    },
+    {
+     "v": 8,
+     "text": "The high places of Aven,{g} the sin of Israel,\nwill be wiped out.\nThorn and thistle will climb over their altars,\nand they will say to the mountains, “Cover us,”\nand to the hills, “Fall on us.”{h}"
+    },
+    {
+     "v": 9,
+     "text": "Since the days of Gibeah you have sinned, Israel;\nthere they have stood fast.{i}\nWill not war overtake them in Gibeah,\nagainst the children of injustice?"
+    },
+    {
+     "v": 10,
+     "text": "When I please, I will chasten them,\nand peoples will be gathered against them\nwhen they are bound for their double iniquity.{j}"
+    },
+    {
+     "v": 11,
+     "text": "Ephraim was a heifer well taught,\nfond of threshing,\nand I passed over her fair neck;{k}\nbut now I will harness Ephraim;\nJudah shall drag the plow;\nJacob shall break the clods for himself."
+    },
+    {
+     "v": 12,
+     "text": "Sow for yourselves righteousness;\nreap the fruit of steadfast love;\nbreak up your untilled ground,\nfor it is time to seek Yahweh,\nuntil he comes\nand rains righteousness upon you.{l}"
+    },
+    {
+     "v": 13,
+     "text": "You have plowed wickedness;\nyou have reaped injustice;\nyou have eaten falsehood’s fruit.\nSince you relied on your own way,{m}\non your multitude of warriors,"
+    },
+    {
+     "v": 14,
+     "text": "the din of war shall rise against your people,\nand every fortress of yours shall be ruined,\nas Shalman{n} ruined Beth-arbel in the day of battle,\nwhen the mother was dashed to pieces upon her children."
+    },
+    {
+     "v": 15,
+     "text": "So it shall be done to you, Bethel,\nbecause of your utter wickedness.\nAt daybreak the king of Israel\nwill be cut off completely."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:1",
+     "text": "Or “a luxuriant vine”; the Hebrew boqeq can also mean “empty” or “ravaged.”"
+    },
+    {
+     "m": "b",
+     "ref": "10:2",
+     "text": "Or “divided” or “slippery.”"
+    },
+    {
+     "m": "c",
+     "ref": "10:5",
+     "text": "So the Septuagint; the Hebrew has the feminine plural, “calves,” perhaps in mockery."
+    },
+    {
+     "m": "d",
+     "ref": "10:5",
+     "text": "Hebrew kemarim, a word used only of priests of false gods (2 Kings 23:5; Zephaniah 1:4)."
+    },
+    {
+     "m": "e",
+     "ref": "10:6",
+     "text": "See the note at 5:13."
+    },
+    {
+     "m": "f",
+     "ref": "10:7",
+     "text": "Or “Samaria’s king is destroyed.”"
+    },
+    {
+     "m": "g",
+     "ref": "10:8",
+     "text": "That is, Beth-aven (Bethel); aven means “wickedness.”"
+    },
+    {
+     "m": "h",
+     "ref": "10:8",
+     "text": "Quoted in Luke 23:30 and echoed in Revelation 6:16."
+    },
+    {
+     "m": "i",
+     "ref": "10:9",
+     "text": "The Hebrew of this line is obscure."
+    },
+    {
+     "m": "j",
+     "ref": "10:10",
+     "text": "So a Hebrew reading (Qere); the written text (Kethiv) may mean “their two springs” or “their two eyes.”"
+    },
+    {
+     "m": "k",
+     "ref": "10:11",
+     "text": "Hebrew “I passed over the goodness of her neck.” Threshing was light work, and the ox was free to eat while it worked (Deuteronomy 25:4)."
+    },
+    {
+     "m": "l",
+     "ref": "10:12",
+     "text": "Or “teaches you righteousness”; the Hebrew verb yarah can mean both “to rain” and “to teach.” The Septuagint reads “until the fruits of righteousness come to you.”"
+    },
+    {
+     "m": "m",
+     "ref": "10:13",
+     "text": "So the Hebrew; the Septuagint reads “in your chariots.”"
+    },
+    {
+     "m": "n",
+     "ref": "10:14",
+     "text": "Perhaps Shalmaneser V of Assyria (727–722 BC) or Salamanu, a king of Moab mentioned in Assyrian records. Neither the event nor the location of Beth-arbel is otherwise known."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    8,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Israel was a youth, I loved him,\nand from Egypt I summoned my son.{a}"
+    },
+    {
+     "v": 2,
+     "text": "The more they{b} called them,\nthe farther they went from them;{c}\nthey kept sacrificing to the Baals\nand burning offerings to carved images."
+    },
+    {
+     "v": 3,
+     "text": "But I myself taught Ephraim to walk,\nlifting them in my{d} arms;\nyet they never knew that it was I who healed them."
+    },
+    {
+     "v": 4,
+     "text": "With human cords I led them,\nwith ropes of love;\nI was to them as one who eases the yoke on their jaws,{e}\nand I bent down to them and fed them."
+    },
+    {
+     "v": 5,
+     "text": "They will not{f} return to the land of Egypt;\nbut Assyria will be their king,\nbecause they refuse to turn back."
+    },
+    {
+     "v": 6,
+     "text": "The sword will whirl through their cities;\nit will make an end of their gate bars{g}\nand devour them because of their schemes."
+    },
+    {
+     "v": 7,
+     "text": "My people are bent on turning from me;\nthough they call to the Most High,{h}\nhe will by no means raise them up."
+    },
+    {
+     "v": 8,
+     "text": "How can I give you up, Ephraim?\nHow can I hand you over, Israel?\nHow can I make you like Admah?\nHow can I treat you like Zeboiim?{i}\nMy heart turns over within me;\nall my compassion grows warm and tender."
+    },
+    {
+     "v": 9,
+     "text": "I will not act on my burning anger;\nI will not turn back to destroy Ephraim;\nfor I am God and not a man,\nthe Holy One in your midst,\nand I will not come in wrath.{j}"
+    },
+    {
+     "v": 10,
+     "text": "They will walk after Yahweh;\nhe will roar like a lion;\nwhen he roars,\nhis children will come trembling from the west."
+    },
+    {
+     "v": 11,
+     "text": "Like birds they will come trembling out of Egypt,\nand like doves from the land of Assyria;\nand I will settle them in their homes, declares Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "Ephraim has surrounded me with lies,{k}\nand the house of Israel with deceit;\nbut Judah still wanders with God,{l}\nand is faithful to the Holy One.{m}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:1",
+     "text": "Israel as God’s son recalls Exodus 4:22–23. The Septuagint reads “I called his children.” Matthew 2:15 quotes the line, following the Hebrew, of the return of the child Jesus from Egypt, seeing in Jesus the one who sums up and fulfills Israel’s history."
+    },
+    {
+     "m": "b",
+     "ref": "11:2",
+     "text": "The Septuagint reads “I.”"
+    },
+    {
+     "m": "c",
+     "ref": "11:2",
+     "text": "The Septuagint reads “from me.”"
+    },
+    {
+     "m": "d",
+     "ref": "11:3",
+     "text": "So the Septuagint, Syriac, and Vulgate; the Hebrew reads “his.”"
+    },
+    {
+     "m": "e",
+     "ref": "11:4",
+     "text": "Or, with different vowels, “as those who lift an infant to their cheeks.”"
+    },
+    {
+     "m": "f",
+     "ref": "11:5",
+     "text": "Or, joining the word to verse 4, “to him. They will return…”"
+    },
+    {
+     "m": "g",
+     "ref": "11:6",
+     "text": "Or “their boasters” or “their oracle-priests”; Hebrew baddim."
+    },
+    {
+     "m": "h",
+     "ref": "11:7",
+     "text": "Or “they are called to the yoke”; the Hebrew of this line is uncertain."
+    },
+    {
+     "m": "i",
+     "ref": "11:8",
+     "text": "Two cities destroyed together with Sodom and Gomorrah (Deuteronomy 29:23)."
+    },
+    {
+     "m": "j",
+     "ref": "11:9",
+     "text": "Or “I will not come into the city.”"
+    },
+    {
+     "m": "k",
+     "ref": "11:12",
+     "text": "Verse 12 is 12:1 in the Hebrew text."
+    },
+    {
+     "m": "l",
+     "ref": "11:12",
+     "text": "Or “roams unruly against God.” The Hebrew verb is uncertain."
+    },
+    {
+     "m": "m",
+     "ref": "11:12",
+     "text": "Or “holy ones.”"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    7
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Ephraim grazes on the wind,{a}\nand chases the east wind all day long;\nhe multiplies falsehood and violence;\nthey make a treaty with Assyria,\nand oil is carried to Egypt."
+    },
+    {
+     "v": 2,
+     "text": "Yahweh has a dispute with Judah too;\nhe will punish Jacob for his conduct\nand pay him back for what he has done."
+    },
+    {
+     "v": 3,
+     "text": "In the womb he grabbed his brother’s heel,{b}\nand in his manhood he strove with God."
+    },
+    {
+     "v": 4,
+     "text": "He strove with the angel and prevailed;\nhe wept and sought his favor.\nAt Bethel he found him,{c}\nand there he spoke with us{d}—"
+    },
+    {
+     "v": 5,
+     "text": "Yahweh, the God of Armies,{e}\nYahweh is his name!{f}"
+    },
+    {
+     "v": 6,
+     "text": "As for you, return to your God;\nkeep steadfast love and justice,\nand wait on your God continually."
+    },
+    {
+     "v": 7,
+     "text": "A trader, with false scales in his hand,\nhe loves to defraud.{g}"
+    },
+    {
+     "v": 8,
+     "text": "Ephraim has said, “Ah, but I have grown rich;\nI have gained wealth for myself;\nin all my labors they will find in me\nno iniquity that is sin.”"
+    },
+    {
+     "v": 9,
+     "text": "I am Yahweh your God\nsince the land of Egypt;\nonce more I will make you dwell in tents,\nas in the days of the festival.{h}"
+    },
+    {
+     "v": 10,
+     "text": "I spoke through the prophets;\nI gave vision upon vision,\nand through the prophets I spoke in likenesses."
+    },
+    {
+     "v": 11,
+     "text": "If Gilead is wickedness,\nthey are surely worthless;\nin Gilgal they sacrifice bulls;\ntheir altars also will be like stone heaps\non the furrows of the field.{i}"
+    },
+    {
+     "v": 12,
+     "text": "Jacob fled to the open country of Aram;{j}\nthere Israel served for a wife,\nand for a wife he kept sheep."
+    },
+    {
+     "v": 13,
+     "text": "By a prophet Yahweh brought Israel up from Egypt,\nand by a prophet he was kept.{k}"
+    },
+    {
+     "v": 14,
+     "text": "Ephraim has given bitter provocation;\ntherefore his Lord will let his blood remain upon him\nand pay him back for his contempt."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:1",
+     "text": "Verses 1–14 are 12:2–15 in the Hebrew text."
+    },
+    {
+     "m": "b",
+     "ref": "12:3",
+     "text": "The name Jacob sounds like the Hebrew word for “heel” (Genesis 25:26). For the struggle with God, see Genesis 32:22–32; the name Israel was explained as “he strives with God.”"
+    },
+    {
+     "m": "c",
+     "ref": "12:4",
+     "text": "Or “He found him at Bethel” (Genesis 28:10–22; 35:1–15)."
+    },
+    {
+     "m": "d",
+     "ref": "12:4",
+     "text": "So the Hebrew; the Septuagint and Syriac read “with him.”"
+    },
+    {
+     "m": "e",
+     "ref": "12:5",
+     "text": "Hebrew YHWH ʾelohe hatstseḇaʾoth, traditionally “the LORD God of hosts,” the God who commands the armies of heaven and of Israel."
+    },
+    {
+     "m": "f",
+     "ref": "12:5",
+     "text": "Hebrew zikro, “his memorial,” the name by which he is to be remembered (Exodus 3:15)."
+    },
+    {
+     "m": "g",
+     "ref": "12:7",
+     "text": "Hebrew kenaʿan, “Canaan,” which also means “merchant.”"
+    },
+    {
+     "m": "h",
+     "ref": "12:9",
+     "text": "Probably the Feast of Booths, when Israel lived in temporary shelters (Leviticus 23:42–43)."
+    },
+    {
+     "m": "i",
+     "ref": "12:11",
+     "text": "There are wordplays in Hebrew between Gilead, Gilgal, and gallim, “heaps.”"
+    },
+    {
+     "m": "j",
+     "ref": "12:12",
+     "text": "See Genesis 28:5; 29:1–30."
+    },
+    {
+     "m": "k",
+     "ref": "12:13",
+     "text": "That is, Moses (Deuteronomy 18:15; 34:10)."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Once when Ephraim spoke, men trembled;\nhe was lifted high in Israel;\nbut he became guilty through Baal, and he died."
+    },
+    {
+     "v": 2,
+     "text": "Now they sin more and more;\nthey make themselves cast images,\nidols from their silver according to their skill,\nevery one a craftsman’s product.\nOf these they say,\n“Men who sacrifice kiss calves!”{a}"
+    },
+    {
+     "v": 3,
+     "text": "Therefore they will be like the morning mist,\nlike dew that soon passes away,\nlike chaff swirled from the threshing floor,\nlike smoke from a window.{b}"
+    },
+    {
+     "v": 4,
+     "text": "But I am Yahweh your God\nfrom the land of Egypt;\nyou know no God but me,\nand besides me there is no savior.{c}"
+    },
+    {
+     "v": 5,
+     "text": "It was I who knew you{d} in the wilderness,\nin the land of burning drought."
+    },
+    {
+     "v": 6,
+     "text": "As they grazed, they were sated;\nsated, their hearts grew proud;\nand so they forgot me."
+    },
+    {
+     "v": 7,
+     "text": "So to them I am become a lion;\nI will watch by the way like a leopard."
+    },
+    {
+     "v": 8,
+     "text": "Like a bear bereft of her young I will meet them\nand rip apart the covering of their heart;{e}\nthere like a lioness I will consume them;\nthe beast of the field shall tear them."
+    },
+    {
+     "v": 9,
+     "text": "It is your destruction, Israel,\nthat you are against me, against your help.{f}"
+    },
+    {
+     "v": 10,
+     "text": "Where now is your king, to save you in all your cities?\nWhere are your rulers{g}\nof whom you said,\n“Give me a king and princes”?"
+    },
+    {
+     "v": 11,
+     "text": "I keep giving you a king in my anger\nand taking him away in my fury."
+    },
+    {
+     "v": 12,
+     "text": "The iniquity of Ephraim is tied up in a bundle;\nhis sin is stored away."
+    },
+    {
+     "v": 13,
+     "text": "Labor pains are coming upon him,\nyet he is a son without wisdom,\nfor at the right time he does not come forth\nto the place where children are born."
+    },
+    {
+     "v": 14,
+     "text": "Shall I ransom them from the power of Sheol?{h}\nShall I redeem them from Death?\nO Death, where are your plagues?\nO Sheol, where is your sting?{i}\nCompassion is hidden from my eyes."
+    },
+    {
+     "v": 15,
+     "text": "Though he flourishes among his brothers,{j}\nan east wind will come,\nthe wind of Yahweh rising from the desert,\nand his spring will dry up,\nhis fountain run dry;\nit will plunder his treasury\nof every precious thing."
+    },
+    {
+     "v": 16,
+     "text": "Samaria will bear her guilt,{k}\nbecause she has rebelled against her God;\nthey will fall by the sword;\ntheir little ones will be dashed in pieces,\nand their pregnant women ripped open."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:2",
+     "text": "Or “They say to them, ‘Sacrifice!’ Men kiss calves.” The Hebrew is uncertain; kissing an idol was an act of homage (1 Kings 19:18)."
+    },
+    {
+     "m": "b",
+     "ref": "13:3",
+     "text": "That is, from an opening in the roof or wall through which smoke escaped."
+    },
+    {
+     "m": "c",
+     "ref": "13:4",
+     "text": "The Septuagint here adds a long passage on God as creator of heaven and earth."
+    },
+    {
+     "m": "d",
+     "ref": "13:5",
+     "text": "The Septuagint and Syriac read “who fed you,” a difference of one letter."
+    },
+    {
+     "m": "e",
+     "ref": "13:8",
+     "text": "Hebrew “the enclosure of their heart.”"
+    },
+    {
+     "m": "f",
+     "ref": "13:9",
+     "text": "The Hebrew is uncertain. The Septuagint and Syriac read “I will destroy you, Israel; who will help you?”"
+    },
+    {
+     "m": "g",
+     "ref": "13:10",
+     "text": "Hebrew “your judges.” For the request, see 1 Samuel 8:5–6."
+    },
+    {
+     "m": "h",
+     "ref": "13:14",
+     "text": "The realm of the dead. The first two lines may also be read as statements: “I will ransom them … I will redeem them.”"
+    },
+    {
+     "m": "i",
+     "ref": "13:14",
+     "text": "Paul quotes these lines, following the Septuagint, in 1 Corinthians 15:55: “O death, where is your victory? O death, where is your sting?”"
+    },
+    {
+     "m": "j",
+     "ref": "13:15",
+     "text": "There is a wordplay between yaphriʾ, “flourishes,” and the name Ephraim."
+    },
+    {
+     "m": "k",
+     "ref": "13:16",
+     "text": "Verse 16 is 14:1 in the Hebrew text. Samaria fell to the Assyrians in 722 BC (2 Kings 17:5–6)."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    4,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Return, Israel, to Yahweh your God,{a}\nfor your iniquity has made you stumble."
+    },
+    {
+     "v": 2,
+     "text": "Bring words with you\nas you return to Yahweh.\nSay to him:\n“Take every iniquity away,\nreceive us graciously,\nand we will offer the fruit of our lips.{b}"
+    },
+    {
+     "v": 3,
+     "text": "Assyria will not save us;\nwe will not ride on horses;\nand we will no more say ‘Our God’\nto the work of our hands.\nIn you the orphan finds mercy.”"
+    },
+    {
+     "v": 4,
+     "text": "I will heal their faithlessness;\nI will love them freely,\nfor my anger has turned away from them."
+    },
+    {
+     "v": 5,
+     "text": "I will be like the dew to Israel;\nhe will blossom like the lily\nand strike root like the trees of Lebanon.{c}"
+    },
+    {
+     "v": 6,
+     "text": "His shoots will spread;\nhis splendor will be like the olive,\nand his fragrance like Lebanon."
+    },
+    {
+     "v": 7,
+     "text": "Those who live in his shade will return;\nthey will grow grain{d}\nand blossom like the vine;\ntheir renown will be like the wine of Lebanon."
+    },
+    {
+     "v": 8,
+     "text": "Ephraim, what have I to do with idols anymore?{e}\nI answer him, I look after him.\nI am like an evergreen cypress;\nyour fruit is found from me."
+    },
+    {
+     "v": 9,
+     "text": "Who is wise? Let him grasp these things.\nWho is discerning? Let him know them.\nFor straight are the ways of Yahweh;\nthe righteous walk in them,\nbut in them transgressors stumble."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:1",
+     "text": "Verses 1–9 are 14:2–10 in the Hebrew text."
+    },
+    {
+     "m": "b",
+     "ref": "14:2",
+     "text": "So the Septuagint and Syriac; the Hebrew reads “we will pay bulls, our lips,” meaning that praise will take the place of sacrifices (compare Hebrews 13:15)."
+    },
+    {
+     "m": "c",
+     "ref": "14:5",
+     "text": "Hebrew “like Lebanon”; likewise in verses 6 and 7."
+    },
+    {
+     "m": "d",
+     "ref": "14:7",
+     "text": "Or “they will revive like grain.”"
+    },
+    {
+     "m": "e",
+     "ref": "14:8",
+     "text": "Or “Ephraim will say, ‘What more have I to do with idols?’ ”"
+    }
+   ]
+  }
+ ]
+}
