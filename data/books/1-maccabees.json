@@ -1,0 +1,5207 @@
+{
+ "id": "1-maccabees",
+ "name": "1 Maccabees",
+ "division": "Apocrypha",
+ "sourceNote": "Translated fresh from the Greek text of 1 Maccabees in H. B. Swete's edition of the Septuagint (Cambridge, 1909; public domain), with Brenton's public-domain English version consulted as a check. The book survives only in Greek, though it was almost certainly written in Hebrew in the late second century BC. Dates are given in the book by the Seleucid era (\"the kingdom of the Greeks\"); each is converted in the text to its year BC, with the modern month span for any named month, and the original reckoning is in a footnote. 1 Maccabees appears to count most years from spring 311 BC, but some dates seem to follow the autumn 312 BC reckoning, so converted years may be off by one. Weights and sums of money are given in approximate modern US units, with the original units and metric figures in the footnotes; ancient standards varied. Greek kyrios is translated \"Lord\" and theos \"God\"; the book usually avoids naming God and speaks of \"Heaven.\" Verse numbers follow the standard English versification. This is a draft awaiting scholarly review.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    5,
+    10,
+    11,
+    16,
+    20,
+    29,
+    41,
+    51,
+    54
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After Alexander son of Philip, the Macedonian,{a} who had come out of the land of the Kittim,{b} had defeated Darius, king of the Persians and the Medes, he became king in his place, having first ruled over Greece.{c}"
+    },
+    {
+     "v": 2,
+     "text": "He fought many wars, seized fortresses, and put kings to death."
+    },
+    {
+     "v": 3,
+     "text": "He pushed on to the far ends of the earth and plundered a host of nations. When the earth fell silent before him, he grew proud, and his heart swelled with arrogance."
+    },
+    {
+     "v": 4,
+     "text": "He assembled an immensely powerful army and ruled over countries, nations, and princes, and they paid him tribute."
+    },
+    {
+     "v": 5,
+     "text": "After this he took to his bed and knew that he was dying."
+    },
+    {
+     "v": 6,
+     "text": "So he summoned his officers, the nobles who had been brought up with him from his youth, and divided his kingdom among them while he was still alive."
+    },
+    {
+     "v": 7,
+     "text": "Alexander had reigned twelve years when he died.{d}"
+    },
+    {
+     "v": 8,
+     "text": "Then his officers took control, each in his own territory."
+    },
+    {
+     "v": 9,
+     "text": "After his death they all put on royal crowns, and so did their sons after them for many years, and they brought many evils on the earth."
+    },
+    {
+     "v": 10,
+     "text": "From them sprang a sinful shoot: Antiochus Epiphanes,{e} King Antiochus's son, who had once been held hostage at Rome. He took the throne in the year 137 of the kingdom of the Greeks (175 BC).{f}"
+    },
+    {
+     "v": 11,
+     "text": "In those days some renegades came out of Israel and persuaded many, saying, \"Come, let us make a treaty with the nations around us, for ever since we kept ourselves apart from them, many troubles have overtaken us.\""
+    },
+    {
+     "v": 12,
+     "text": "The proposal pleased them,"
+    },
+    {
+     "v": 13,
+     "text": "and some of the people eagerly went to the king. He authorized them to follow the practices of the nations."
+    },
+    {
+     "v": 14,
+     "text": "So they built a gymnasium{g} in Jerusalem in keeping with Gentile custom,"
+    },
+    {
+     "v": 15,
+     "text": "disguised their circumcision,{h} and abandoned the holy covenant. They joined themselves to the Gentiles and sold themselves to do evil."
+    },
+    {
+     "v": 16,
+     "text": "When Antiochus saw that his rule was secure, he set his mind on becoming king of the land of Egypt as well, so that he might rule over both kingdoms."
+    },
+    {
+     "v": 17,
+     "text": "He invaded Egypt with a massive force, with chariots, elephants, cavalry, and a large fleet."
+    },
+    {
+     "v": 18,
+     "text": "He waged war against Ptolemy king of Egypt,{i} and Ptolemy turned back before him and fled, and many fell wounded."
+    },
+    {
+     "v": 19,
+     "text": "They captured the fortified cities in the land of Egypt, and he carried off the plunder of the land."
+    },
+    {
+     "v": 20,
+     "text": "After his conquest of Egypt, Antiochus turned back in the year 143 (169 BC).{j} He marched against Israel, coming up to Jerusalem with a massive force."
+    },
+    {
+     "v": 21,
+     "text": "In his arrogance he entered the sanctuary and took the golden altar,{k} the lampstand for the light with all its utensils,"
+    },
+    {
+     "v": 22,
+     "text": "the table for the bread of the Presence,{l} the libation cups and bowls, the gold censers, the curtain, and the crowns; and he peeled away all the gilded decoration from the temple's facade."
+    },
+    {
+     "v": 23,
+     "text": "He took the silver and the gold and the precious vessels, and he took whatever hidden treasures he found."
+    },
+    {
+     "v": 24,
+     "text": "Gathering everything up, he went back to his own land. He had committed murder and had spoken with great arrogance."
+    },
+    {
+     "v": 25,
+     "text": "Deep grief came over Israel in every place where they lived."
+    },
+    {
+     "v": 26,
+     "text": "Leaders and elders groaned; girls and youths lost their strength; the women's beauty faded."
+    },
+    {
+     "v": 27,
+     "text": "Every bridegroom took up a lament, and the bride sitting in her chamber went into mourning."
+    },
+    {
+     "v": 28,
+     "text": "The land quaked for those who lived in it, and the whole house of Jacob was clothed in shame."
+    },
+    {
+     "v": 29,
+     "text": "Two years later the king sent a chief tax collector{m} to the cities of Judah, and he came to Jerusalem with a massive force."
+    },
+    {
+     "v": 30,
+     "text": "He spoke to them with peaceful words, but deceitfully, and they believed him. Then he fell on the city without warning, dealt it a heavy blow, and killed many people of Israel."
+    },
+    {
+     "v": 31,
+     "text": "He plundered the city, set it on fire, and tore down its houses and the walls around it."
+    },
+    {
+     "v": 32,
+     "text": "Women and children they carried away as captives, and the cattle they took for themselves."
+    },
+    {
+     "v": 33,
+     "text": "Then they fortified the City of David with a great, strong wall and mighty towers, and it served them as a citadel.{n}"
+    },
+    {
+     "v": 34,
+     "text": "They stationed a sinful people there, lawless men, and these entrenched themselves in it."
+    },
+    {
+     "v": 35,
+     "text": "They stocked it with weapons and provisions, and they collected the spoils of Jerusalem and stored them there. It became a dangerous snare,"
+    },
+    {
+     "v": 36,
+     "text": "an ambush against the sanctuary, an evil adversary{o} to Israel at all times."
+    },
+    {
+     "v": 37,
+     "text": "Around the sanctuary they shed innocent blood, and they defiled the sanctuary."
+    },
+    {
+     "v": 38,
+     "text": "Because of them the people of Jerusalem fled. The city became a home for foreigners; it became foreign to its own offspring, and its children abandoned it."
+    },
+    {
+     "v": 39,
+     "text": "Her sanctuary was laid waste like a wilderness; her feasts were turned into mourning, her sabbaths into a reproach, her honor into contempt."
+    },
+    {
+     "v": 40,
+     "text": "Her disgrace became as great as her glory had been, and her exaltation was turned into mourning."
+    },
+    {
+     "v": 41,
+     "text": "Then the king wrote to his whole kingdom that all should be one people"
+    },
+    {
+     "v": 42,
+     "text": "and that each should give up their own customs. All the nations accepted the king's command."
+    },
+    {
+     "v": 43,
+     "text": "Many Israelites, too, were content with his cult: they offered sacrifices to idols and desecrated the sabbath."
+    },
+    {
+     "v": 44,
+     "text": "The king also sent letters by messengers to Jerusalem and the cities of Judah, ordering them to follow customs foreign to the land:"
+    },
+    {
+     "v": 45,
+     "text": "to stop whole burnt offerings, sacrifices, and drink offerings in the sanctuary, to profane sabbaths and feasts,"
+    },
+    {
+     "v": 46,
+     "text": "to defile the sanctuary and those who were holy,"
+    },
+    {
+     "v": 47,
+     "text": "to build altars, sacred precincts, and idol shrines, to sacrifice pigs and other unclean animals,"
+    },
+    {
+     "v": 48,
+     "text": "and to leave their sons uncircumcised. They were to make themselves abhorrent with every kind of impurity and profanation,"
+    },
+    {
+     "v": 49,
+     "text": "so that they would forget the law and change all its ordinances."
+    },
+    {
+     "v": 50,
+     "text": "Whoever did not obey the king's command was to die."
+    },
+    {
+     "v": 51,
+     "text": "In words like these he wrote to his whole kingdom. He appointed inspectors over all the people and ordered the cities of Judah to offer sacrifice, city by city."
+    },
+    {
+     "v": 52,
+     "text": "Many of the people flocked to them, all who were deserting the law, and they wrought evil in the land."
+    },
+    {
+     "v": 53,
+     "text": "They drove Israel into hiding in every place where they could take refuge."
+    },
+    {
+     "v": 54,
+     "text": "On the fifteenth day of Kislev (in November–December), in the year 145 (167 BC),{p} they set up a desolating abomination{q} on the altar of burnt offering, and they built altars in the towns all around Judah."
+    },
+    {
+     "v": 55,
+     "text": "They burned incense at the doors of houses and in the streets."
+    },
+    {
+     "v": 56,
+     "text": "Any books of the law they found, they tore up and burned."
+    },
+    {
+     "v": 57,
+     "text": "Anyone found possessing a book of the covenant, and anyone who kept to the law, was put to death by the king's decree."
+    },
+    {
+     "v": 58,
+     "text": "Month after month they used their power against the Israelites who were found in the towns."
+    },
+    {
+     "v": 59,
+     "text": "On the twenty-fifth day of the month they offered sacrifice on the pagan altar that stood on the altar of burnt offering.{r}"
+    },
+    {
+     "v": 60,
+     "text": "As the decree required, they executed women who had circumcised their children,"
+    },
+    {
+     "v": 61,
+     "text": "and they hung the infants from their mothers' necks; they also killed their families and those who had circumcised them."
+    },
+    {
+     "v": 62,
+     "text": "Yet many in Israel held firm and made up their minds that they would not eat anything unclean."
+    },
+    {
+     "v": 63,
+     "text": "They chose to die rather than be defiled by food or profane the holy covenant, and they died."
+    },
+    {
+     "v": 64,
+     "text": "Very great wrath came upon Israel.{s}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Alexander the Great (356–323 BC), son of Philip II of Macedon. The name Alexander means \"defender of men.\""
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Greek Chettiim. The Kittim were originally the people of Kition in Cyprus; the name came to be used for the peoples of the west across the sea, here the Macedonians and Greeks."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Or \"he became king in his place, the first to rule over Greece.\" The sense of the Greek is uncertain; Alexander ruled Greece before defeating Darius III of Persia (331 BC)."
+    },
+    {
+     "m": "d",
+     "ref": "1:7",
+     "text": "Alexander reigned 336–323 BC."
+    },
+    {
+     "m": "e",
+     "ref": "1:10",
+     "text": "Antiochus IV (reigned 175–164 BC). Epiphanes means \"manifest,\" a title claiming that a god was made visible in him."
+    },
+    {
+     "m": "f",
+     "ref": "1:10",
+     "text": "Greek: in the 137th year of the kingdom of the Greeks, that is, the Seleucid era, which began with Seleucus I. 1 Maccabees generally counts its years from the spring of 311 BC, so year 137 ran from spring 175 to spring 174 BC. Some of its dates appear to use the reckoning from autumn 312 BC, and dates converted here may be a year off."
+    },
+    {
+     "m": "g",
+     "ref": "1:14",
+     "text": "A Greek athletic and educational center, where men exercised naked."
+    },
+    {
+     "m": "h",
+     "ref": "1:15",
+     "text": "Literally \"made foreskins for themselves,\" that is, they underwent a procedure to hide their circumcision."
+    },
+    {
+     "m": "i",
+     "ref": "1:18",
+     "text": "Ptolemy VI Philometor (reigned 180–145 BC)."
+    },
+    {
+     "m": "j",
+     "ref": "1:20",
+     "text": "Greek: in the 143rd year (Seleucid era; see note on 1:10)."
+    },
+    {
+     "m": "k",
+     "ref": "1:21",
+     "text": "The altar of incense, overlaid with gold (Exodus 30:1–10)."
+    },
+    {
+     "m": "l",
+     "ref": "1:22",
+     "text": "Literally \"the table of the setting out,\" the table for the sacred loaves (Exodus 25:23–30)."
+    },
+    {
+     "m": "m",
+     "ref": "1:29",
+     "text": "Literally \"a ruler of tribute.\" 2 Maccabees 5:24 names him Apollonius, the commander of the Mysians."
+    },
+    {
+     "m": "n",
+     "ref": "1:33",
+     "text": "Greek akra. The Akra was a fortress near the temple held by Seleucid troops until Simon captured it in 141 BC (13:49–51). Its exact location is debated."
+    },
+    {
+     "m": "o",
+     "ref": "1:36",
+     "text": "Greek diabolos, \"slanderer\" or \"adversary.\""
+    },
+    {
+     "m": "p",
+     "ref": "1:54",
+     "text": "Greek: the fifteenth day of Chaseleu (the Hebrew month Kislev, the ninth month), in the 145th year of the Seleucid era (see note on 1:10). The year ran from spring 167 to spring 166 BC, so this was December 167 BC."
+    },
+    {
+     "m": "q",
+     "ref": "1:54",
+     "text": "Greek bdelygma erēmōseōs, the \"abomination of desolation\" of Daniel 9:27; 11:31; 12:11 (compare Matthew 24:15; Mark 13:14). It was probably a pagan altar or sacred object set on top of the altar of burnt offering (see 1:59; 6:7). 2 Maccabees 6:2 says the temple was rededicated to Olympian Zeus. The Hebrew phrase in Daniel (shiqquts shomem) may be a mocking wordplay on Baal Shamem, \"lord of heaven.\""
+    },
+    {
+     "m": "r",
+     "ref": "1:59",
+     "text": "That is, on the twenty-fifth of Kislev, December 167 BC. Exactly three years later the temple was rededicated on the same day (4:52–54)."
+    },
+    {
+     "m": "s",
+     "ref": "1:64",
+     "text": "Or \"Very great wrath was upon Israel.\" The wrath may be God's or the persecutor's."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    6,
+    15,
+    23,
+    27,
+    29,
+    39,
+    42,
+    49,
+    65,
+    69
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "At that time Mattathias{a} son of John, son of Simeon, a priest descended from Joarib,{b} left Jerusalem and made his home at Modein.{c}"
+    },
+    {
+     "v": 2,
+     "text": "He had five sons: John, called Gaddi;"
+    },
+    {
+     "v": 3,
+     "text": "Simon, called Thassi;"
+    },
+    {
+     "v": 4,
+     "text": "Judas, called Maccabeus;{d}"
+    },
+    {
+     "v": 5,
+     "text": "Eleazar, called Avaran; and Jonathan, called Apphus.{e}"
+    },
+    {
+     "v": 6,
+     "text": "He saw the blasphemous things being done in Judah and in Jerusalem,"
+    },
+    {
+     "v": 7,
+     "text": "and he said, \"Alas! Why was I born to see the ruin of my people and the ruin of the holy city, and to sit here while it is handed over to enemies and the sanctuary to foreigners?"
+    },
+    {
+     "v": 8,
+     "text": "Her temple has become like a man disgraced;{f}"
+    },
+    {
+     "v": 9,
+     "text": "the vessels that were her glory have been carried off as captives. Her infants have been killed in her streets, her young men by the enemy's sword."
+    },
+    {
+     "v": 10,
+     "text": "What nation has not taken a share of her royal possessions{g} and not seized her plunder?"
+    },
+    {
+     "v": 11,
+     "text": "All her ornaments have been stripped away; she was free, and now she is a slave."
+    },
+    {
+     "v": 12,
+     "text": "Look! Our holy place, our beauty, and our glory have been laid waste, and the Gentiles have profaned them."
+    },
+    {
+     "v": 13,
+     "text": "Why should we go on living?\""
+    },
+    {
+     "v": 14,
+     "text": "Then Mattathias and his sons tore their clothes, put on sackcloth, and mourned bitterly."
+    },
+    {
+     "v": 15,
+     "text": "The king's officers who were forcing the people to abandon their religion came to the town of Modein to make them offer sacrifice."
+    },
+    {
+     "v": 16,
+     "text": "Many from Israel went over to them, but Mattathias and his sons gathered together."
+    },
+    {
+     "v": 17,
+     "text": "Then the king's officers spoke to Mattathias and said, \"You are a leader in this town, honored and great, and supported by sons and brothers."
+    },
+    {
+     "v": 18,
+     "text": "So step up first and do as the king has ordered, just as every nation has done, and the men of Judah's leadership, and those who remain in Jerusalem. Then you and your household will rank among the Friends of the King,{h} and you and your sons will be rewarded with silver, gold, and many gifts.\""
+    },
+    {
+     "v": 19,
+     "text": "But Mattathias answered in a loud voice, \"Even if all the nations within the king's realm obey him, each of them forsaking the worship of their ancestors and choosing to follow his commands,"
+    },
+    {
+     "v": 20,
+     "text": "still I, my sons, and my brothers will walk in our ancestors' covenant."
+    },
+    {
+     "v": 21,
+     "text": "Heaven forbid that we should abandon the law and its ordinances!"
+    },
+    {
+     "v": 22,
+     "text": "The king's words we will not heed, nor will we swerve from our worship to the right or to the left.\""
+    },
+    {
+     "v": 23,
+     "text": "When he had finished speaking these words, a Jew came forward in the sight of all to offer sacrifice on the altar in Modein, as the king had commanded."
+    },
+    {
+     "v": 24,
+     "text": "Mattathias saw it and was fired with zeal; he trembled to his depths{i} and let his rightful anger rise. Running forward, he cut the man down on the altar."
+    },
+    {
+     "v": 25,
+     "text": "He also killed the royal officer who was forcing people to sacrifice, then and there, and he pulled the altar down."
+    },
+    {
+     "v": 26,
+     "text": "So he showed his zeal for the law, as Phinehas had done to Zimri son of Salu.{j}"
+    },
+    {
+     "v": 27,
+     "text": "Then Mattathias cried out in the town with a loud voice, \"Everyone who is zealous for the law and upholds the covenant, come out and follow me!\""
+    },
+    {
+     "v": 28,
+     "text": "He and his sons fled to the hills, leaving behind everything they owned in the town."
+    },
+    {
+     "v": 29,
+     "text": "Then many who sought righteousness and justice went down into the desert to make their homes there,"
+    },
+    {
+     "v": 30,
+     "text": "they and their sons, their wives, and their livestock, because hardships pressed hard on them."
+    },
+    {
+     "v": 31,
+     "text": "It was reported to the king's officers and to the troops in Jerusalem, the City of David, that men who had defied the king's order had gone down to hiding places in the wilderness."
+    },
+    {
+     "v": 32,
+     "text": "Many hurried after them, overtook them, and camped opposite them. They prepared to attack them on the sabbath day."
+    },
+    {
+     "v": 33,
+     "text": "\"Enough!\" they told them. \"Come out, obey the king's word, and live.\""
+    },
+    {
+     "v": 34,
+     "text": "\"We will not come out,\" they replied, \"and we will not obey the king's word and desecrate the sabbath day.\""
+    },
+    {
+     "v": 35,
+     "text": "Then the enemy quickly attacked them."
+    },
+    {
+     "v": 36,
+     "text": "But they did not answer them; they did not hurl a stone at them or block up their hiding places."
+    },
+    {
+     "v": 37,
+     "text": "They said, \"Let us all die in our innocence. Heaven and earth testify for us that you are destroying us unjustly.\""
+    },
+    {
+     "v": 38,
+     "text": "So the enemy attacked them on the sabbath, and they died, with their wives, their children, and their livestock, about a thousand people."
+    },
+    {
+     "v": 39,
+     "text": "When Mattathias and his friends learned of it, they grieved deeply for them."
+    },
+    {
+     "v": 40,
+     "text": "And they said to one another, \"If we all do as our brothers have done and refuse to fight the Gentiles for our lives and our ordinances, they will soon wipe us off the earth.\""
+    },
+    {
+     "v": 41,
+     "text": "So that day they resolved, \"If anyone comes to attack us on the sabbath day, let us fight against him, so that we do not all die as our brothers died in their hiding places.\""
+    },
+    {
+     "v": 42,
+     "text": "Then a band of Hasideans{k} joined them, strong fighters from Israel, every one of them devoted to the law of his own free will."
+    },
+    {
+     "v": 43,
+     "text": "Everyone who had fled from the troubles joined them and strengthened them."
+    },
+    {
+     "v": 44,
+     "text": "They organized an army and struck down sinners in their anger and lawless men in their wrath; the rest fled to the Gentiles for safety."
+    },
+    {
+     "v": 45,
+     "text": "Mattathias and his sons went around and tore down the altars,"
+    },
+    {
+     "v": 46,
+     "text": "and every uncircumcised boy they came upon inside Israel's territory they circumcised by force."
+    },
+    {
+     "v": 47,
+     "text": "They hunted down the arrogant, and the work prospered in their hands."
+    },
+    {
+     "v": 48,
+     "text": "They rescued the law from the power of the Gentiles and of kings, and they did not let the sinner triumph.{l}"
+    },
+    {
+     "v": 49,
+     "text": "As the days of Mattathias's death drew near, he told his sons, \"Now arrogance and rebuke have taken firm hold; it is a season of overthrow and blazing wrath."
+    },
+    {
+     "v": 50,
+     "text": "Now, my children, be zealous for the law, and give your lives for the covenant of our ancestors."
+    },
+    {
+     "v": 51,
+     "text": "Remember the deeds our ancestors did in their generations, and you will win great honor and an everlasting name."
+    },
+    {
+     "v": 52,
+     "text": "Was not Abraham found faithful when he was tested, and it was credited to him as righteousness?{m}"
+    },
+    {
+     "v": 53,
+     "text": "Joseph kept the commandment in his time of distress and became lord of Egypt."
+    },
+    {
+     "v": 54,
+     "text": "Phinehas our forefather, for his burning zeal, was granted the covenant of an everlasting priesthood.{n}"
+    },
+    {
+     "v": 55,
+     "text": "Joshua,{o} because he carried out the command, became a judge in Israel."
+    },
+    {
+     "v": 56,
+     "text": "Caleb, for testifying before the congregation, was given land as his heritage."
+    },
+    {
+     "v": 57,
+     "text": "David, for his mercy, inherited a royal throne forever."
+    },
+    {
+     "v": 58,
+     "text": "Elijah, because of his great zeal for the law, was taken up into heaven."
+    },
+    {
+     "v": 59,
+     "text": "Hananiah, Azariah, and Mishael believed and were saved from the flame.{p}"
+    },
+    {
+     "v": 60,
+     "text": "Daniel, because of his innocence, was rescued from the mouth of the lions."
+    },
+    {
+     "v": 61,
+     "text": "So consider this, generation after generation: none who hope in him will lack strength."
+    },
+    {
+     "v": 62,
+     "text": "Do not fear the words of a sinner, for his glory will end in dung and worms."
+    },
+    {
+     "v": 63,
+     "text": "Today he is exalted, but tomorrow he will not be found, because he has returned to the dust, and his schemes have come to nothing."
+    },
+    {
+     "v": 64,
+     "text": "My children, be strong and courageous for the law, for by it you will gain glory."
+    },
+    {
+     "v": 65,
+     "text": "\"Here is your brother Simeon.{q} I know he is a man of good counsel; always listen to him. He will be a father to you."
+    },
+    {
+     "v": 66,
+     "text": "Judas Maccabeus, strong and mighty since boyhood, shall lead your army and wage the war against the peoples.{r}"
+    },
+    {
+     "v": 67,
+     "text": "Gather around you all who observe the law, and avenge the wrongs done to your people."
+    },
+    {
+     "v": 68,
+     "text": "Pay back the Gentiles in full, and hold fast to the commands of the law.\""
+    },
+    {
+     "v": 69,
+     "text": "Then he blessed them and was gathered to his ancestors."
+    },
+    {
+     "v": 70,
+     "text": "He died in the year 146 (166 BC),{s} and his sons buried him in his ancestors' tomb at Modein. All Israel mourned him deeply."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Mattathias (Hebrew Mattithyahu) means \"gift of Yahweh.\" His family is known as the Hasmoneans, after an ancestor named Hasmon (Josephus, Antiquities 12.265)."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "Joarib is the priestly family of Jehoiarib (1 Chronicles 24:7), the first of the twenty-four priestly divisions. Joarib means \"Yahweh contends.\""
+    },
+    {
+     "m": "c",
+     "ref": "2:1",
+     "text": "Modein was a village about 17 miles (27 km) northwest of Jerusalem."
+    },
+    {
+     "m": "d",
+     "ref": "2:4",
+     "text": "Maccabeus is usually explained as \"the hammer\" (from Hebrew or Aramaic maqqabah), but the meaning is uncertain; other proposals include \"designated by Yahweh.\" The meanings of the other sons' nicknames (Gaddi, Thassi, Avaran, Apphus) are unknown. The sons' names: John means \"Yahweh is gracious,\" Simon \"he has heard,\" Judas (Judah) \"praised,\" Eleazar \"God has helped,\" Jonathan \"Yahweh has given.\""
+    },
+    {
+     "m": "e",
+     "ref": "2:5",
+     "text": "Avaran may mean \"the piercer,\" and Apphus \"the wary one,\" but these meanings are uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "2:8",
+     "text": "The Greek text reads \"like a man of honor,\" which does not fit the context; many editors read \"like a man without honor\" (adoxos for endoxos), followed here."
+    },
+    {
+     "m": "g",
+     "ref": "2:10",
+     "text": "Or \"her palaces\"; the Greek basileia can mean either."
+    },
+    {
+     "m": "h",
+     "ref": "2:18",
+     "text": "A formal rank at the Seleucid court, bestowing honors and privileges."
+    },
+    {
+     "m": "i",
+     "ref": "2:24",
+     "text": "Literally \"his kidneys trembled,\" the kidneys being thought the seat of deep emotion."
+    },
+    {
+     "m": "j",
+     "ref": "2:26",
+     "text": "Numbers 25:6–15. Salu (Greek Salom) was Zimri's father."
+    },
+    {
+     "m": "k",
+     "ref": "2:42",
+     "text": "Greek Asidaioi, from Hebrew hasidim, \"the devout\" or \"the loyal ones,\" a group devoted to strict observance of the law."
+    },
+    {
+     "m": "l",
+     "ref": "2:48",
+     "text": "Literally \"did not give a horn to the sinner.\" The horn is a symbol of strength."
+    },
+    {
+     "m": "m",
+     "ref": "2:52",
+     "text": "Genesis 15:6; 22:1–18."
+    },
+    {
+     "m": "n",
+     "ref": "2:54",
+     "text": "Numbers 25:13."
+    },
+    {
+     "m": "o",
+     "ref": "2:55",
+     "text": "Greek Iēsous, the Greek form of Joshua. Joshua means \"Yahweh saves.\""
+    },
+    {
+     "m": "p",
+     "ref": "2:59",
+     "text": "Daniel 3, where they are known by their Babylonian names Shadrach, Meshach, and Abednego."
+    },
+    {
+     "m": "q",
+     "ref": "2:65",
+     "text": "That is, Simon (2:3); Simeon is the fuller form of the name."
+    },
+    {
+     "m": "r",
+     "ref": "2:66",
+     "text": "Or \"fight the people's battle.\" The Greek is ambiguous."
+    },
+    {
+     "m": "s",
+     "ref": "2:70",
+     "text": "Greek: in the 146th year (Seleucid era; see note on 1:10), from spring 166 to spring 165 BC."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    10,
+    13,
+    23,
+    27,
+    32,
+    38,
+    42,
+    45,
+    46,
+    55
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then his son Judas, who was called Maccabeus, rose up to take his place."
+    },
+    {
+     "v": 2,
+     "text": "All his brothers stood by him, as did all who had attached themselves to his father, and they fought Israel's battle gladly."
+    },
+    {
+     "v": 3,
+     "text": "He spread his people's glory far and wide. Like a giant he put on his breastplate; he strapped on his weapons of war and fought battle after battle, guarding the camp with his sword."
+    },
+    {
+     "v": 4,
+     "text": "In his exploits he was like a lion, like a lion's whelp roaring over its prey."
+    },
+    {
+     "v": 5,
+     "text": "He tracked down the lawless and hunted them out, and he gave to the flames those who troubled his people."
+    },
+    {
+     "v": 6,
+     "text": "The lawless shrank back in fear of him, all who practiced lawlessness were thrown into confusion, and deliverance prospered by his hand."
+    },
+    {
+     "v": 7,
+     "text": "He made many kings bitter, but he made Jacob glad by his deeds, and his memory will be a blessing forever."
+    },
+    {
+     "v": 8,
+     "text": "He went through the towns of Judah and wiped out the ungodly from the land,{a} and so he turned wrath away from Israel."
+    },
+    {
+     "v": 9,
+     "text": "His fame reached to the ends of the earth; he gathered together those who were perishing."
+    },
+    {
+     "v": 10,
+     "text": "Apollonius{b} then mustered Gentiles, along with a large force from Samaria, to make war on Israel."
+    },
+    {
+     "v": 11,
+     "text": "When Judas learned of it, he went out to meet him, defeated him, and killed him. Many fell slain, and the remainder ran away."
+    },
+    {
+     "v": 12,
+     "text": "Then they stripped the dead. Judas kept Apollonius's sword for himself, and he fought with it all his days."
+    },
+    {
+     "v": 13,
+     "text": "Seron, commander of the Syrian army, heard that Judas had gathered a large band around him, an assembly of faithful men who were ready for war."
+    },
+    {
+     "v": 14,
+     "text": "He said, \"I will make myself a name and gain glory in the kingdom by fighting Judas and those with him, who treat the king's command with contempt.\""
+    },
+    {
+     "v": 15,
+     "text": "A strong army of the ungodly once more marched up with him to help him take vengeance on the Israelites."
+    },
+    {
+     "v": 16,
+     "text": "As he neared the pass that climbs to Beth-horon,{c} Judas came out against him with a handful of men."
+    },
+    {
+     "v": 17,
+     "text": "But when they saw the army coming against them, they asked Judas, \"How can so few of us fight against so great a horde? We are worn out, having had nothing to eat all day.\""
+    },
+    {
+     "v": 18,
+     "text": "Judas answered, \"It is easy for many to be delivered into the hands of a few. In the sight of Heaven{d} it makes no difference whether it saves by many or by few."
+    },
+    {
+     "v": 19,
+     "text": "Victory in battle does not depend on the size of an army; strength comes from Heaven."
+    },
+    {
+     "v": 20,
+     "text": "These men are coming at us full of insolence and lawlessness, to wipe out us, our wives, and our children, and to plunder us."
+    },
+    {
+     "v": 21,
+     "text": "But we are fighting for our lives and our laws."
+    },
+    {
+     "v": 22,
+     "text": "He himself will crush them before our eyes. As for you, have no fear of them.\""
+    },
+    {
+     "v": 23,
+     "text": "When he stopped speaking, he charged at them suddenly, and Seron and his army were crushed before him."
+    },
+    {
+     "v": 24,
+     "text": "They pursued them down the slope of Beth-horon to the plain. Some eight hundred of the enemy fell, while the rest escaped into Philistine country."
+    },
+    {
+     "v": 25,
+     "text": "Then Judas and his brothers began to be dreaded, and alarm fell on the nations around them."
+    },
+    {
+     "v": 26,
+     "text": "His fame reached the king, and every nation talked of the battles Judas fought."
+    },
+    {
+     "v": 27,
+     "text": "When King Antiochus heard these reports, he was enraged. He sent orders and assembled all the forces of his kingdom, a very powerful army."
+    },
+    {
+     "v": 28,
+     "text": "He opened his treasury and paid his troops for a year, ordering them to be prepared for any need."
+    },
+    {
+     "v": 29,
+     "text": "Then he found that the money in his treasury had run short and that the revenues from the province were small, because of the strife and disaster he had brought on the land by abolishing the laws that had been in force from ancient times."
+    },
+    {
+     "v": 30,
+     "text": "He was afraid that he would not have enough, as had happened more than once, for the expenses and the gifts that he used to hand out lavishly, more freely than the kings before him.{e}"
+    },
+    {
+     "v": 31,
+     "text": "Greatly perplexed, he determined to go to Persia, collect the revenues of those regions, and raise a large sum of money."
+    },
+    {
+     "v": 32,
+     "text": "Lysias, a nobleman of the royal family, he left behind to manage the realm's affairs from the Euphrates River all the way to Egypt's frontier,"
+    },
+    {
+     "v": 33,
+     "text": "and to bring up his son Antiochus{f} until he returned."
+    },
+    {
+     "v": 34,
+     "text": "To him he entrusted half the army and the elephants and gave instructions on all his plans, including what to do about the people living in Judea and Jerusalem:"
+    },
+    {
+     "v": 35,
+     "text": "Lysias was to send an army against them to break and destroy the strength of Israel and the remnant of Jerusalem, and blot out all memory of them from the place,"
+    },
+    {
+     "v": 36,
+     "text": "and settle foreigners throughout their territory and parcel out their land."
+    },
+    {
+     "v": 37,
+     "text": "Then the king took the remaining half of his troops and set out from Antioch, his royal capital, in the year 147 (165 BC).{g} He crossed the river Euphrates and marched through the upper provinces.{h}"
+    },
+    {
+     "v": 38,
+     "text": "Lysias chose Ptolemy son of Dorymenes, together with Nicanor and Gorgias, powerful men among the Friends of the King,"
+    },
+    {
+     "v": 39,
+     "text": "and sent with them forty thousand foot soldiers and seven thousand horsemen to go into the land of Judah and ravage it, as the king had commanded."
+    },
+    {
+     "v": 40,
+     "text": "So they set out with their whole army, and when they arrived they pitched camp near Emmaus{i} in the lowland."
+    },
+    {
+     "v": 41,
+     "text": "When the traders of the region heard the report of them, they took a great deal of silver and gold, and chains,{j} and came to the camp to buy the Israelites as slaves. Forces from Syria and from the land of the Philistines joined them."
+    },
+    {
+     "v": 42,
+     "text": "Judas and his brothers saw that their troubles had multiplied and that the armies were camped within their borders. They also learned what the king had ordered to be done to the people: total destruction."
+    },
+    {
+     "v": 43,
+     "text": "So they said to one another, \"Let us raise up our people and the holy place from their ruin.\"{k}"
+    },
+    {
+     "v": 44,
+     "text": "So the congregation assembled to make ready for war, and to pray and plead for mercy and pity."
+    },
+    {
+     "v": 45,
+     "text": "Jerusalem lay empty, like a wilderness;\nnone of her children went in or out.\nThe sanctuary was trampled down,\nand foreigners held the citadel;\nit had become a lodging place for the Gentiles.\nJoy was taken away from Jacob;\nthe flute and the lyre fell silent."
+    },
+    {
+     "v": 46,
+     "text": "They gathered and came to Mizpah,{l} opposite Jerusalem, because Israel had formerly had a place of prayer at Mizpah."
+    },
+    {
+     "v": 47,
+     "text": "That day they fasted, put on sackcloth, sprinkled ashes on their heads, and tore their clothes."
+    },
+    {
+     "v": 48,
+     "text": "They unrolled the book of the law to inquire into matters about which the Gentiles consulted the images of their idols.{m}"
+    },
+    {
+     "v": 49,
+     "text": "They brought the priests' vestments, the firstfruits, and the tithes, and they presented the Nazirites whose days were fulfilled.{n}"
+    },
+    {
+     "v": 50,
+     "text": "With loud voices they cried to Heaven: \"What are we to do with these people? Where can we take them?"
+    },
+    {
+     "v": 51,
+     "text": "Your holy place has been trampled and profaned, and your priests mourn in humiliation."
+    },
+    {
+     "v": 52,
+     "text": "See, the Gentiles have gathered against us to destroy us. You know what they are plotting against us."
+    },
+    {
+     "v": 53,
+     "text": "How can we stand before them unless you help us?\""
+    },
+    {
+     "v": 54,
+     "text": "Then the trumpets were blown, and a mighty cry went up."
+    },
+    {
+     "v": 55,
+     "text": "After this Judas appointed officers over the people, commanders of thousands, of hundreds, of fifties, and of tens."
+    },
+    {
+     "v": 56,
+     "text": "Those who were building houses, or were engaged to be married, or were planting vineyards, or were afraid, he told to go back home, each of them, as the law directs.{o}"
+    },
+    {
+     "v": 57,
+     "text": "Then the army moved out and camped south of Emmaus."
+    },
+    {
+     "v": 58,
+     "text": "Judas said, \"Arm yourselves and be brave. Be ready early in the morning to fight these Gentiles who have assembled against us to destroy us and our holy place."
+    },
+    {
+     "v": 59,
+     "text": "It is better for us to die in battle than to look on while evils befall our nation and the holy place."
+    },
+    {
+     "v": 60,
+     "text": "But whatever Heaven wills, so it will do.\""
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:8",
+     "text": "Literally \"from it,\" probably meaning the land of Judah."
+    },
+    {
+     "m": "b",
+     "ref": "3:10",
+     "text": "Probably the Apollonius of 1:29 (see the note there), governor of Samaria. Apollonius means \"belonging to Apollo.\""
+    },
+    {
+     "m": "c",
+     "ref": "3:16",
+     "text": "The road from the coastal plain climbed into the hills through Lower and Upper Beth-horon, about 12 miles (19 km) northwest of Jerusalem. Beth-horon means \"house of Horon,\" a Canaanite god."
+    },
+    {
+     "m": "d",
+     "ref": "3:18",
+     "text": "Here and often in 1 Maccabees, \"Heaven\" is a reverent way of referring to God."
+    },
+    {
+     "m": "e",
+     "ref": "3:30",
+     "text": "The Greek of this verse is difficult; literally \"as once and twice, for the expenses and gifts which he used to give before with a generous hand, and he surpassed the kings before him.\""
+    },
+    {
+     "m": "f",
+     "ref": "3:33",
+     "text": "Antiochus V Eupator, then a boy of about nine."
+    },
+    {
+     "m": "g",
+     "ref": "3:37",
+     "text": "Greek: in the 147th year (Seleucid era; see note on 1:10), spring 165 to spring 164 BC."
+    },
+    {
+     "m": "h",
+     "ref": "3:37",
+     "text": "That is, the regions east of the Euphrates."
+    },
+    {
+     "m": "i",
+     "ref": "3:40",
+     "text": "Emmaus (later Nicopolis) lay at the edge of the hill country about 19 miles (31 km) west of Jerusalem."
+    },
+    {
+     "m": "j",
+     "ref": "3:41",
+     "text": "Swete's Greek text has \"servants\" (paidas); many editors read \"fetters\" (pedas), a change of one vowel that suits the context."
+    },
+    {
+     "m": "k",
+     "ref": "3:43",
+     "text": "Literally \"Let us raise up the overthrow of our people and of the holy things,\" that is, reverse their ruin."
+    },
+    {
+     "m": "l",
+     "ref": "3:46",
+     "text": "Mizpah (Greek Massēpha), about 8 miles (13 km) north of Jerusalem, was an ancient place of assembly and prayer (Judges 20:1; 1 Samuel 7:5–6). Its name means \"watchtower.\""
+    },
+    {
+     "m": "m",
+     "ref": "3:48",
+     "text": "The meaning is uncertain. The sense may be that they searched the law for the guidance that pagans sought from their idols, or that the Gentiles had painted images of their idols on the scrolls."
+    },
+    {
+     "m": "n",
+     "ref": "3:49",
+     "text": "Nazirites who had completed their vow had to offer sacrifices at the temple (Numbers 6:13–21), which was now impossible."
+    },
+    {
+     "m": "o",
+     "ref": "3:56",
+     "text": "Deuteronomy 20:5–8."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    12,
+    16,
+    26,
+    34,
+    36,
+    41,
+    52,
+    60
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Gorgias took a force of five thousand foot soldiers and a thousand choice horsemen, and the detachment set off by night"
+    },
+    {
+     "v": 2,
+     "text": "to fall on the Jewish camp and strike them unexpectedly. Men from the citadel served as his guides."
+    },
+    {
+     "v": 3,
+     "text": "Judas got word of it, and with his fighting men he set out to attack the royal army at Emmaus"
+    },
+    {
+     "v": 4,
+     "text": "while its forces were still dispersed away from the camp."
+    },
+    {
+     "v": 5,
+     "text": "When Gorgias reached Judas's camp by night, he found no one there. So he went looking for them in the hills, telling himself, \"These men are running away from us.\""
+    },
+    {
+     "v": 6,
+     "text": "At daybreak Judas appeared in the plain with three thousand men, though they lacked the armor and swords they would have wished for."
+    },
+    {
+     "v": 7,
+     "text": "They saw the Gentile camp, strong and fortified, with cavalry ringing it, and these were men trained for war."
+    },
+    {
+     "v": 8,
+     "text": "But Judas told the men with him, \"Do not fear their numbers, and do not be shaken by their attack."
+    },
+    {
+     "v": 9,
+     "text": "Think how our forefathers were rescued at the Red Sea when Pharaoh chased after them with his army."
+    },
+    {
+     "v": 10,
+     "text": "And now let us cry out to Heaven to see whether he will favor us, remember the covenant with our ancestors, and shatter this army before us today."
+    },
+    {
+     "v": 11,
+     "text": "Then all the nations will know that there is one who redeems and saves Israel.\""
+    },
+    {
+     "v": 12,
+     "text": "The foreigners raised their eyes, saw them marching toward them,"
+    },
+    {
+     "v": 13,
+     "text": "they came out of their camp to fight. Judas's men sounded the trumpets"
+    },
+    {
+     "v": 14,
+     "text": "and the armies clashed. The Gentiles broke and ran into the plain,"
+    },
+    {
+     "v": 15,
+     "text": "and all those in the rear fell by the sword. They pursued them as far as Gazara{a} and the plains of Idumea,{b} Azotus, and Jamnia,{c} and about three thousand of them fell."
+    },
+    {
+     "v": 16,
+     "text": "Returning from the chase, Judas and his troops came back,"
+    },
+    {
+     "v": 17,
+     "text": "and he said to the people, \"Do not covet the spoils, because more fighting lies before us."
+    },
+    {
+     "v": 18,
+     "text": "Gorgias and his army are in the hills near us. Stand firm now against our enemies and fight them; after that you may boldly take the plunder.\""
+    },
+    {
+     "v": 19,
+     "text": "Judas had hardly finished speaking when a detachment appeared, peering down from the hills."
+    },
+    {
+     "v": 20,
+     "text": "They saw that their army had been routed and that the camp was being burned, for the smoke they could see made plain what had happened."
+    },
+    {
+     "v": 21,
+     "text": "Grasping this, they were terrified, and when they also saw Judas's army in the plain ready for battle,"
+    },
+    {
+     "v": 22,
+     "text": "they all fled into the land of the foreigners."
+    },
+    {
+     "v": 23,
+     "text": "Then Judas went back to plunder the camp, and they seized a great deal of gold and silver, cloth dyed blue and sea purple,{d} and great riches."
+    },
+    {
+     "v": 24,
+     "text": "On their return they sang hymns and praised Heaven: \"For he is good; his mercy endures forever.\"{e}"
+    },
+    {
+     "v": 25,
+     "text": "So Israel had a great deliverance that day."
+    },
+    {
+     "v": 26,
+     "text": "The foreigners who got away came to Lysias with a report of everything that had taken place."
+    },
+    {
+     "v": 27,
+     "text": "When he heard it, he was confounded and disheartened, because things had not turned out for Israel as he intended, nor as the king had commanded him."
+    },
+    {
+     "v": 28,
+     "text": "So in the following year he gathered sixty thousand chosen foot soldiers and five thousand horsemen to crush them."
+    },
+    {
+     "v": 29,
+     "text": "They entered Idumea and encamped at Beth-zur,{f} and Judas confronted them with ten thousand men."
+    },
+    {
+     "v": 30,
+     "text": "When he saw how strong the army was, he prayed, saying, \"Blessed are you, Savior of Israel, who crushed the mighty warrior's attack by the hand of your servant David, and who gave the Philistine army into the hands of Jonathan son of Saul and of the man who carried his armor.{g}"
+    },
+    {
+     "v": 31,
+     "text": "Shut this army in by the hands of Israel your people, and put them to shame for all their soldiers and horsemen."
+    },
+    {
+     "v": 32,
+     "text": "Make cowards of them; dissolve their bold strength; make them reel in their downfall."
+    },
+    {
+     "v": 33,
+     "text": "Strike them down with the sword of those who love you, and let all who know your name praise you with hymns.\""
+    },
+    {
+     "v": 34,
+     "text": "Then both sides engaged, and about five thousand of Lysias's army fell; they fell before them in close combat."
+    },
+    {
+     "v": 35,
+     "text": "When Lysias saw his ranks routed and the boldness that Judas's men had shown, and how ready they were either to live or to die nobly, he withdrew to Antioch. There he hired mercenaries, intending to invade Judea again with an even larger army."
+    },
+    {
+     "v": 36,
+     "text": "Then Judas and his brothers said, \"Look, our enemies have been crushed. Let us go up to cleanse the sanctuary and dedicate it.\""
+    },
+    {
+     "v": 37,
+     "text": "Then all the army gathered and climbed up to Mount Zion."
+    },
+    {
+     "v": 38,
+     "text": "There they saw the sanctuary desolate, the altar profaned, the gates burned, bushes sprung up in the courts as in a thicket or on a mountainside, and the priests' chambers torn down."
+    },
+    {
+     "v": 39,
+     "text": "They tore their clothes and mourned with loud lament; they sprinkled ashes on their heads"
+    },
+    {
+     "v": 40,
+     "text": "and fell face down on the ground. They sounded the signal trumpets and cried out to Heaven."
+    },
+    {
+     "v": 41,
+     "text": "Then Judas detailed men to fight against those in the citadel until he had cleansed the sanctuary."
+    },
+    {
+     "v": 42,
+     "text": "He chose blameless priests devoted to the law,"
+    },
+    {
+     "v": 43,
+     "text": "and they cleansed the sanctuary and carried the stones that had defiled it to an unclean place."
+    },
+    {
+     "v": 44,
+     "text": "They deliberated about what to do with the altar of burnt offering, which had been profaned."
+    },
+    {
+     "v": 45,
+     "text": "A good counsel came to them: they would pull it down, so that it should not stand as a reproach to them, because the Gentiles had polluted it. So they demolished the altar"
+    },
+    {
+     "v": 46,
+     "text": "and stored its stones on the temple mount in a suitable place until a prophet should arise to decide what to do with them."
+    },
+    {
+     "v": 47,
+     "text": "Then they took uncut stones, as the law requires,{h} and built a new altar on the model of the former one."
+    },
+    {
+     "v": 48,
+     "text": "They built anew the holy place and the inside of the house, and they sanctified the courts."
+    },
+    {
+     "v": 49,
+     "text": "They made new holy vessels, and they brought the lampstand, the altar of incense, and the table into the temple.{i}"
+    },
+    {
+     "v": 50,
+     "text": "They burned incense upon the altar and kindled the lamps of the lampstand, and the temple was filled with light."
+    },
+    {
+     "v": 51,
+     "text": "They placed bread on the table and spread out the curtains; and so all the work they had begun was complete."
+    },
+    {
+     "v": 52,
+     "text": "Early in the morning on the twenty-fifth day of the ninth month, the month of Kislev (in November–December), in the year 148 (164 BC),{j}"
+    },
+    {
+     "v": 53,
+     "text": "they arose and made the sacrifice the law requires on the altar for burnt offerings that they had newly made."
+    },
+    {
+     "v": 54,
+     "text": "In the same season and on the same day on which the Gentiles had defiled it, the altar was dedicated anew, with songs, harps, lyres, and cymbals.{k}"
+    },
+    {
+     "v": 55,
+     "text": "All the people fell on their faces and worshiped and praised Heaven, who had given them success."
+    },
+    {
+     "v": 56,
+     "text": "For eight days they celebrated the dedication of the altar. They joyfully offered burnt offerings and sacrificed offerings of deliverance and of praise.{l}"
+    },
+    {
+     "v": 57,
+     "text": "They adorned the temple's facade with crowns of gold and little shields, renewed the gates and the chambers of the priests, and hung doors on them."
+    },
+    {
+     "v": 58,
+     "text": "The people's joy was immense, and the shame the Gentiles had heaped on them was taken away."
+    },
+    {
+     "v": 59,
+     "text": "Then Judas and his brothers and the whole assembly of Israel decreed that the days of the altar's dedication should be observed with joy and gladness at their season every year for eight days, beginning on the twenty-fifth day of the month of Kislev.{m}"
+    },
+    {
+     "v": 60,
+     "text": "At that time they fortified Mount Zion with high walls and strong towers all around, so that the Gentiles could not come and trample it down as they had done before."
+    },
+    {
+     "v": 61,
+     "text": "He posted troops there to keep it, and he fortified Beth-zur as well,{n} giving the people a stronghold that faced Idumea."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:15",
+     "text": "Gazara is Gezer, about 20 miles (32 km) west-northwest of Jerusalem."
+    },
+    {
+     "m": "b",
+     "ref": "4:15",
+     "text": "So Swete's Greek text, though Idumea lies to the south; many editors read \"Judea.\""
+    },
+    {
+     "m": "c",
+     "ref": "4:15",
+     "text": "Azotus is the old Philistine city of Ashdod, and Jamnia is Jabneh (Yavneh), both near the coast."
+    },
+    {
+     "m": "d",
+     "ref": "4:23",
+     "text": "Greek hyakinthos and porphyra thalassia, costly cloth colored with dyes made from sea snails."
+    },
+    {
+     "m": "e",
+     "ref": "4:24",
+     "text": "Psalm 118:1; 136:1."
+    },
+    {
+     "m": "f",
+     "ref": "4:29",
+     "text": "Beth-zur, about 18 miles (29 km) south of Jerusalem, on the border with Idumea. The name means \"house of the rock.\""
+    },
+    {
+     "m": "g",
+     "ref": "4:30",
+     "text": "1 Samuel 17 (David and Goliath) and 1 Samuel 14:1–23 (Jonathan and his armor-bearer)."
+    },
+    {
+     "m": "h",
+     "ref": "4:47",
+     "text": "Exodus 20:25; Deuteronomy 27:5–6."
+    },
+    {
+     "m": "i",
+     "ref": "4:49",
+     "text": "Literally \"the altar of burnt offerings and of incense\"; the context indicates the incense altar. The table is the table for the sacred loaves."
+    },
+    {
+     "m": "j",
+     "ref": "4:52",
+     "text": "Greek: on the twenty-fifth of the ninth month, that is, the month of Chaseleu (Hebrew Kislev), in the 148th year of the Seleucid era (see note on 1:10), December 164 BC."
+    },
+    {
+     "m": "k",
+     "ref": "4:54",
+     "text": "The rededication took place three years to the day after the profanation (1:54, 59). 2 Maccabees 10:3 gives two years."
+    },
+    {
+     "m": "l",
+     "ref": "4:56",
+     "text": "Or \"offerings of well-being\"; Greek \"sacrifice of salvation and of praise.\""
+    },
+    {
+     "m": "m",
+     "ref": "4:59",
+     "text": "This is the origin of Hanukkah (Hebrew \"dedication\"), the Feast of Dedication (compare John 10:22), still observed for eight days from the twenty-fifth of Kislev. 2 Maccabees 1:9, 18; 10:6–8 link the eight days to the Festival of Booths. The later custom of lighting lamps is not mentioned in 1 Maccabees; Josephus calls the feast \"Lights\" (Antiquities 12.325)."
+    },
+    {
+     "m": "n",
+     "ref": "4:61",
+     "text": "Swete's Greek text has \"to guard it\" twice; the repetition may be a copying error."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    9,
+    14,
+    21,
+    24,
+    28,
+    35,
+    37,
+    45,
+    55,
+    63,
+    65
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The surrounding nations learned that the altar had been rebuilt and the sanctuary dedicated as before, and they grew furious."
+    },
+    {
+     "v": 2,
+     "text": "They resolved to wipe out the descendants of Jacob living among them, and they began killing and destroying among the people."
+    },
+    {
+     "v": 3,
+     "text": "Judas made war on the descendants of Esau in Idumea, at Akrabattene,{a} because they kept Israel under siege. He dealt them a crushing blow, humbled them, and took their spoil."
+    },
+    {
+     "v": 4,
+     "text": "He also remembered the wickedness of the sons of Baean,{b} who had been a trap and a stumbling block to the people by lying in ambush for them along the roads."
+    },
+    {
+     "v": 5,
+     "text": "He shut them up in their towers, laid siege to them, and devoted them to destruction.{c} Then he set fire to her towers{d} and burned them with everyone inside."
+    },
+    {
+     "v": 6,
+     "text": "Next he crossed over against the Ammonites, where he found a powerful band and many people, led by Timothy.{e}"
+    },
+    {
+     "v": 7,
+     "text": "He fought battle after battle with them; they were shattered before him, and he struck them down."
+    },
+    {
+     "v": 8,
+     "text": "He also took Jazer{f} and its villages and then returned to Judea."
+    },
+    {
+     "v": 9,
+     "text": "Now the Gentiles in Gilead banded together against the Israelites who lived in their territory, to destroy them. These fled to the stronghold of Dathema{g}"
+    },
+    {
+     "v": 10,
+     "text": "and sent a letter to Judas and his brothers that said: \"The Gentiles around us have joined forces against us to wipe us out."
+    },
+    {
+     "v": 11,
+     "text": "They are preparing to come and seize the stronghold where we have taken refuge, and Timothy is at the head of their army."
+    },
+    {
+     "v": 12,
+     "text": "So come now and rescue us from their grasp, for many of us have already fallen."
+    },
+    {
+     "v": 13,
+     "text": "All our kinsmen in the land of Tob{h} have been killed; their wives, their children, and their goods have been carried off, and about a thousand men have perished there.\""
+    },
+    {
+     "v": 14,
+     "text": "The letter was still being read when other messengers arrived from Galilee with their clothes torn and gave this report:"
+    },
+    {
+     "v": 15,
+     "text": "\"From Ptolemais,{i} Tyre, and Sidon, and from all Galilee of the Gentiles,{j} they have mustered against us to annihilate us.\""
+    },
+    {
+     "v": 16,
+     "text": "When Judas and the people heard this news, a great assembly met to decide what to do for their kinsmen who were in distress and under attack.{k}"
+    },
+    {
+     "v": 17,
+     "text": "Judas said to his brother Simon, \"Pick your men and go rescue your kinsmen in Galilee. My brother Jonathan and I will go to Gilead.\""
+    },
+    {
+     "v": 18,
+     "text": "He left Joseph son of Zechariah and Azariah, leaders of the people, with the rest of the army in Judea to guard it,"
+    },
+    {
+     "v": 19,
+     "text": "and gave them this order: \"Take charge of these people, but join no battle with the Gentiles before our return.\""
+    },
+    {
+     "v": 20,
+     "text": "Three thousand men were allotted to Simon for the march into Galilee, and eight thousand to Judas for Gilead."
+    },
+    {
+     "v": 21,
+     "text": "So Simon went to Galilee and fought many battles against the Gentiles, and they were crushed before him."
+    },
+    {
+     "v": 22,
+     "text": "He chased them right to the gate of Ptolemais. About three thousand of the Gentiles fell, and he took their spoil."
+    },
+    {
+     "v": 23,
+     "text": "Then he took with him the Jews of Galilee and Arbatta,{l} with their wives and children and all their possessions, and brought them to Judea with great rejoicing."
+    },
+    {
+     "v": 24,
+     "text": "Judas Maccabeus, with Jonathan his brother, went over the Jordan and marched three days into the desert."
+    },
+    {
+     "v": 25,
+     "text": "There they came upon the Nabateans,{m} who met them peaceably and told them everything that had befallen their kinsmen in Gilead:"
+    },
+    {
+     "v": 26,
+     "text": "\"Many of them are held captive in Bozrah and Bosor, in Alema, Chaspho, Maked, and Carnaim,{n} all large, fortified towns."
+    },
+    {
+     "v": 27,
+     "text": "Others are shut up in the rest of the towns of Gilead. The enemy plans to attack the strongholds tomorrow, take them, and destroy all of them in a single day.\""
+    },
+    {
+     "v": 28,
+     "text": "Judas and his army swiftly turned back by the desert road to Bosor. He took the town, put every male to the sword, seized all its spoil, and burned it to the ground."
+    },
+    {
+     "v": 29,
+     "text": "From there he set off by night and marched to the stronghold.{o}"
+    },
+    {
+     "v": 30,
+     "text": "At dawn they looked up, and there was a countless host carrying ladders and siege engines to capture the stronghold, and the attack was under way."
+    },
+    {
+     "v": 31,
+     "text": "Judas saw that the battle had begun and that the cry of the town was going up to heaven, with trumpets and loud shouting."
+    },
+    {
+     "v": 32,
+     "text": "He told the men of his army, \"Fight today for our kinsmen!\""
+    },
+    {
+     "v": 33,
+     "text": "He came up behind the enemy in three columns; they sounded the trumpets and cried out in prayer."
+    },
+    {
+     "v": 34,
+     "text": "When Timothy's army realized that it was Maccabeus, they fled from him, and he dealt them a heavy defeat. That day about eight thousand of them fell."
+    },
+    {
+     "v": 35,
+     "text": "Then he turned aside to Alema,{p} attacked and captured it, killed all its males, plundered it, and burned it."
+    },
+    {
+     "v": 36,
+     "text": "Moving on from there, he captured Chaspho, Maked, and Bosor, and the remaining towns of Gilead."
+    },
+    {
+     "v": 37,
+     "text": "After these events Timothy gathered another army and camped opposite Raphon, on the far side of the stream.{q}"
+    },
+    {
+     "v": 38,
+     "text": "Judas sent scouts to look over the camp, and they brought him word: \"Every Gentile nation round about has rallied to him, a very large force."
+    },
+    {
+     "v": 39,
+     "text": "They have also hired Arabs to help them, and they are camped across the stream, ready to come and attack you.\" So Judas went to meet them."
+    },
+    {
+     "v": 40,
+     "text": "As Judas and his army approached the stream, Timothy told the officers of his army, \"If he crosses over to us first, we will not be able to withstand him, for he will certainly prevail against us."
+    },
+    {
+     "v": 41,
+     "text": "But if he loses his nerve and camps on the other side of the river, we will cross over to him and beat him.\""
+    },
+    {
+     "v": 42,
+     "text": "When Judas reached the stream, he posted the officers{r} of the people beside it and commanded them, \"Let no one pitch camp! Everyone must go into battle.\""
+    },
+    {
+     "v": 43,
+     "text": "Then he crossed over against them first, with the whole army following, and all the Gentiles were crushed before him. They threw away their weapons and fled to the sacred precinct at Carnaim."
+    },
+    {
+     "v": 44,
+     "text": "But the Jews took the town and burned the precinct with all who were in it. So Carnaim was overthrown, and the enemy could no longer stand against Judas."
+    },
+    {
+     "v": 45,
+     "text": "Then Judas gathered all the Israelites in Gilead, small and great, with their wives, their children, and their goods, a huge throng, to lead them home to Judah's land."
+    },
+    {
+     "v": 46,
+     "text": "They came as far as Ephron,{s} a large and strongly fortified town on the road. There was no way around it to the right or the left; they had to go straight through it."
+    },
+    {
+     "v": 47,
+     "text": "But the townspeople shut them out and blocked the gates with stones."
+    },
+    {
+     "v": 48,
+     "text": "Judas sent them a friendly message: \"Let us pass through your land to reach our own. Nobody will be harmed; on foot we will merely pass along.\" But they refused to open to him."
+    },
+    {
+     "v": 49,
+     "text": "So Judas had it proclaimed throughout the army that each man should take up position where he was."
+    },
+    {
+     "v": 50,
+     "text": "The soldiers took up their positions, and he attacked the town all that day and all night, until the town fell into his hands."
+    },
+    {
+     "v": 51,
+     "text": "Every male he put to the sword; the town he leveled; he stripped it, and he passed through it over the bodies of the slain."
+    },
+    {
+     "v": 52,
+     "text": "Then they crossed the Jordan into the great plain facing Beth-shan.{t}"
+    },
+    {
+     "v": 53,
+     "text": "Judas kept rounding up the stragglers and encouraging the people the whole way until he reached the land of Judah."
+    },
+    {
+     "v": 54,
+     "text": "They went up to Mount Zion with joy and gladness and offered burnt offerings, because not one of them had fallen before they returned safely."
+    },
+    {
+     "v": 55,
+     "text": "In the days when Judas and Jonathan were away in Gilead, and Simon their brother in Galilee facing Ptolemais,"
+    },
+    {
+     "v": 56,
+     "text": "Joseph son of Zechariah and Azariah, the army commanders, heard about their brave deeds and the battles they had fought."
+    },
+    {
+     "v": 57,
+     "text": "\"Let us also make a name for ourselves,\" they said. \"Let us go and fight the Gentiles around us.\""
+    },
+    {
+     "v": 58,
+     "text": "So they gave orders to the troops under them and marched against Jamnia."
+    },
+    {
+     "v": 59,
+     "text": "Gorgias and his men marched out of the town to give them battle."
+    },
+    {
+     "v": 60,
+     "text": "Joseph and Azariah were routed and chased as far as the borders of Judea; about two thousand of the people of Israel fell that day."
+    },
+    {
+     "v": 61,
+     "text": "The people suffered a great defeat because they did not listen to Judas and his brothers but thought they would do some brave deed."
+    },
+    {
+     "v": 62,
+     "text": "These men were not of the line of those by whose hand deliverance came to Israel."
+    },
+    {
+     "v": 63,
+     "text": "But the warrior Judas and his brothers were greatly honored in the sight of all Israel and of all the Gentiles wherever their name was heard,"
+    },
+    {
+     "v": 64,
+     "text": "and people crowded around them to acclaim them."
+    },
+    {
+     "v": 65,
+     "text": "Then Judas went out with his brothers and made war on Esau's descendants in the southern country. He struck Hebron and its villages, tore down its fortifications, and burned its towers all around."
+    },
+    {
+     "v": 66,
+     "text": "Then he set out for the land of the Philistines and passed through Samaria.{u}"
+    },
+    {
+     "v": 67,
+     "text": "On that day some priests who wanted to prove their courage fell in battle, for they had gone out to fight without thinking it through."
+    },
+    {
+     "v": 68,
+     "text": "Judas turned aside to Azotus in the land of the Philistines. He tore down their altars, burned the carved images of their gods, plundered the towns, and returned to Judea."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:3",
+     "text": "Akrabattene was probably a district near the Scorpion Pass (Akrabbim, \"scorpions\") on Judea's southern border; Swete's text has \"in Judea,\" which editors often correct to \"in Idumea.\" The descendants of Esau are the Edomites, here the Idumeans."
+    },
+    {
+     "m": "b",
+     "ref": "5:4",
+     "text": "The sons of Baean are otherwise unknown; perhaps a tribe in Transjordan (compare Numbers 32:3, Beon)."
+    },
+    {
+     "m": "c",
+     "ref": "5:5",
+     "text": "Greek anathematizō, the \"devoting\" of a defeated enemy to God by total destruction (Hebrew herem)."
+    },
+    {
+     "m": "d",
+     "ref": "5:5",
+     "text": "The Greek has \"her towers,\" perhaps referring to a town not named."
+    },
+    {
+     "m": "e",
+     "ref": "5:6",
+     "text": "Timothy means \"honoring God.\" This Timothy is probably not the same as the one in 2 Maccabees 8:30–33; 10:24–37."
+    },
+    {
+     "m": "f",
+     "ref": "5:8",
+     "text": "Jazer was a town in Ammonite territory east of the Jordan."
+    },
+    {
+     "m": "g",
+     "ref": "5:9",
+     "text": "The site of Dathema is unknown."
+    },
+    {
+     "m": "h",
+     "ref": "5:13",
+     "text": "Greek \"the region of Toubias,\" probably Tob in Transjordan (Judges 11:3–5), or possibly the land of the Tobiad family."
+    },
+    {
+     "m": "i",
+     "ref": "5:15",
+     "text": "Ptolemais is the coastal city of Acco."
+    },
+    {
+     "m": "j",
+     "ref": "5:15",
+     "text": "Isaiah 9:1."
+    },
+    {
+     "m": "k",
+     "ref": "5:16",
+     "text": "Swete's Greek has \"attacked by him,\" perhaps meaning Timothy."
+    },
+    {
+     "m": "l",
+     "ref": "5:23",
+     "text": "Arbatta was probably a district in western Galilee or near the coastal plain; its location is uncertain."
+    },
+    {
+     "m": "m",
+     "ref": "5:25",
+     "text": "The Nabateans were an Arab people whose kingdom lay southeast of the Dead Sea, with its capital at Petra."
+    },
+    {
+     "m": "n",
+     "ref": "5:26",
+     "text": "These towns lay east of the Jordan in the region of the Hauran. Carnaim (Karnaim) is the old Ashteroth-karnaim, \"Astarte of the two horns.\""
+    },
+    {
+     "m": "o",
+     "ref": "5:29",
+     "text": "Probably Dathema (5:9)."
+    },
+    {
+     "m": "p",
+     "ref": "5:35",
+     "text": "Swete's Greek reads \"Maapha,\" probably a copyist's slip for Alema (5:26)."
+    },
+    {
+     "m": "q",
+     "ref": "5:37",
+     "text": "Greek cheimarrous, a stream that flows in the rainy season (a wadi). Raphon was in the Hauran."
+    },
+    {
+     "m": "r",
+     "ref": "5:42",
+     "text": "Or \"the scribes\"; the Greek grammateis can denote officers who kept the muster rolls (Deuteronomy 20:5)."
+    },
+    {
+     "m": "s",
+     "ref": "5:46",
+     "text": "Ephron was east of the Jordan, perhaps about 9 miles (14 km) east of Beth-shan."
+    },
+    {
+     "m": "t",
+     "ref": "5:52",
+     "text": "Beth-shan (Scythopolis), in the Jordan valley south of the Sea of Galilee."
+    },
+    {
+     "m": "u",
+     "ref": "5:66",
+     "text": "So Swete's Greek text, though Samaria lies far to the north; many editors read \"Marisa\" (Mareshah), which lay between Hebron and the Philistine coast (compare 2 Maccabees 12:35)."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    5,
+    14,
+    18,
+    28,
+    32,
+    42,
+    48,
+    55,
+    60
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "King Antiochus, meanwhile, was marching through the upper provinces. He heard that in Persia there was a city, Elymais,{a} renowned for its wealth in silver and gold,"
+    },
+    {
+     "v": 2,
+     "text": "and that its temple was extremely rich, holding golden armor,{b} breastplates, and weapons left there by Alexander son of Philip, the Macedonian king who first reigned over the Greeks."
+    },
+    {
+     "v": 3,
+     "text": "So he went and tried to capture the city and loot it, but he could not, because the citizens had learned of his plan."
+    },
+    {
+     "v": 4,
+     "text": "They rose up to fight him, and he fled and left there in deep dismay to return to Babylon."
+    },
+    {
+     "v": 5,
+     "text": "Then someone came to him in Persia with news that the armies sent into Judah's land had been put to flight;"
+    },
+    {
+     "v": 6,
+     "text": "that Lysias had gone at the head of a strong force but had been driven back before the Jews; that they had grown strong from the weapons, supplies, and abundant spoils they had taken from the armies they had cut down;"
+    },
+    {
+     "v": 7,
+     "text": "that they had torn down the abomination{c} he had erected on the altar in Jerusalem; and that they had surrounded the sanctuary with high walls as before, and also Beth-zur, his town."
+    },
+    {
+     "v": 8,
+     "text": "When the king heard these reports, he was astounded and badly shaken. He took to his bed, sick with grief because things had not turned out as he planned."
+    },
+    {
+     "v": 9,
+     "text": "He lay there for many days, for his deep grief kept breaking out afresh, and he concluded that he was dying."
+    },
+    {
+     "v": 10,
+     "text": "So he called all his Friends and told them, \"Sleep has left my eyes, and my heart sinks under my cares."
+    },
+    {
+     "v": 11,
+     "text": "I said to myself, 'To what distress I have come, and what a great flood of trouble I am in now! Yet I was kind and well loved while I held power.'"
+    },
+    {
+     "v": 12,
+     "text": "But now I remember the wrongs I did in Jerusalem. I seized all her silver and gold vessels, and I sent forces to wipe out the inhabitants of Judah without cause."
+    },
+    {
+     "v": 13,
+     "text": "Now I know: for this cause these evils have found me out. Here I am, dying of bitter grief in a foreign land.\""
+    },
+    {
+     "v": 14,
+     "text": "Then he summoned Philip, one of his Friends, and set him over all his kingdom."
+    },
+    {
+     "v": 15,
+     "text": "He gave him his crown, his robe, and his signet ring, so that he might bring up his son Antiochus and train him to be king."
+    },
+    {
+     "v": 16,
+     "text": "There King Antiochus died, in the year 149 (164 BC).{d}"
+    },
+    {
+     "v": 17,
+     "text": "When Lysias learned that the king was dead, he set up as king the son, Antiochus, whom he had brought up from boyhood, and named him Eupator.{e}"
+    },
+    {
+     "v": 18,
+     "text": "Now the men in the citadel kept hemming Israel in around the sanctuary. They were always seeking to harm them and to strengthen the Gentiles."
+    },
+    {
+     "v": 19,
+     "text": "So Judas resolved to destroy them, and he called all the people together to besiege them."
+    },
+    {
+     "v": 20,
+     "text": "They gathered and laid siege to the citadel in the year 150 (163/162 BC),{f} and he built siege platforms and engines."
+    },
+    {
+     "v": 21,
+     "text": "But some of the besieged escaped, and some ungodly Israelites joined them."
+    },
+    {
+     "v": 22,
+     "text": "They went to the king and said, \"How long will you fail to do justice and avenge our kinsmen?"
+    },
+    {
+     "v": 23,
+     "text": "We were glad to serve your father, to walk by his word, and to keep to his decrees."
+    },
+    {
+     "v": 24,
+     "text": "For this reason our own people have turned against us. They have killed as many of us as they could catch and plundered our inheritances."
+    },
+    {
+     "v": 25,
+     "text": "And they have not only struck at us; they have attacked all the lands on their borders."
+    },
+    {
+     "v": 26,
+     "text": "Look, today they have laid siege to the citadel in Jerusalem to take it, and they have fortified the sanctuary and Beth-zur."
+    },
+    {
+     "v": 27,
+     "text": "Unless you move quickly to stop them, they will go on to greater things, and you will have no power to hold them back.\""
+    },
+    {
+     "v": 28,
+     "text": "At this news the king flew into a rage. He called together all his Friends, his army's commanders, and those in charge of the cavalry.{g}"
+    },
+    {
+     "v": 29,
+     "text": "Mercenary forces came to him from other kingdoms and from the islands of the seas."
+    },
+    {
+     "v": 30,
+     "text": "His army numbered a hundred thousand foot soldiers, twenty thousand horsemen, and thirty-two elephants trained for war."
+    },
+    {
+     "v": 31,
+     "text": "By way of Idumea they came and pitched camp against Beth-zur. For many days they attacked it and built siege engines, but the defenders sallied out, burned the engines, and fought bravely."
+    },
+    {
+     "v": 32,
+     "text": "Then Judas moved away from the citadel and camped at Beth-zechariah,{h} opposite the king's camp."
+    },
+    {
+     "v": 33,
+     "text": "Early in the morning the king rose and drove his army at full speed along the road to Beth-zechariah. His troops formed up for battle and sounded the trumpets."
+    },
+    {
+     "v": 34,
+     "text": "They showed the elephants the juice{i} of grapes and mulberries to rouse them for battle."
+    },
+    {
+     "v": 35,
+     "text": "They divided the beasts among the phalanxes. Beside each elephant they stationed a thousand men in chain mail, with bronze helmets on their heads, and five hundred picked horsemen were assigned to each beast."
+    },
+    {
+     "v": 36,
+     "text": "These took their places beforehand wherever the beast was; wherever it went they went with it, never leaving it."
+    },
+    {
+     "v": 37,
+     "text": "On each beast was a strong wooden tower, covered over and fastened to it with special harness, and on each were four{j} fighting men who fought from there, as well as its Indian driver."
+    },
+    {
+     "v": 38,
+     "text": "The rest of the cavalry he stationed on either flank of the army, to harass the enemy and to shield the phalanxes."
+    },
+    {
+     "v": 39,
+     "text": "When the sun shone on the gold and bronze shields,{k} the hills gleamed with their light and blazed like flaming torches."
+    },
+    {
+     "v": 40,
+     "text": "Part of the king's army spread out over the high hills and part over the low ground, and they advanced steadily and in good order."
+    },
+    {
+     "v": 41,
+     "text": "All who heard the noise of their multitude, the tramp of the marching host, and the clash of arms trembled, for the army was very large and strong."
+    },
+    {
+     "v": 42,
+     "text": "Judas and his army advanced to battle, and six hundred men of the king's army fell."
+    },
+    {
+     "v": 43,
+     "text": "Eleazar, called Avaran,{l} saw that one of the beasts was armored with royal armor and stood above all the rest, and he judged that the king must be riding it."
+    },
+    {
+     "v": 44,
+     "text": "So he gave himself up to save his people and to gain an everlasting name."
+    },
+    {
+     "v": 45,
+     "text": "Boldly he ran at it into the middle of the phalanx, killing right and left, and they parted before him on both sides."
+    },
+    {
+     "v": 46,
+     "text": "He slipped in under the elephant, stabbed it from beneath, and killed it. It fell to the ground on top of him, and he died there."
+    },
+    {
+     "v": 47,
+     "text": "When the Jews saw the strength of the royal army and the fury of its troops, they withdrew from them."
+    },
+    {
+     "v": 48,
+     "text": "The king's army went up to Jerusalem to meet them, and the king encamped against Judea and Mount Zion."
+    },
+    {
+     "v": 49,
+     "text": "He made peace with the men of Beth-zur, and they left the town because they had no food there to withstand a siege, since it was a sabbath year for the land.{m}"
+    },
+    {
+     "v": 50,
+     "text": "So the king captured Beth-zur and left a garrison there to keep it."
+    },
+    {
+     "v": 51,
+     "text": "Then he besieged the sanctuary for many days. He set up siege platforms and engines there, fire-throwers and stone-throwers, and scorpions{n} for shooting arrows and slings."
+    },
+    {
+     "v": 52,
+     "text": "The Jews also built engines to counter theirs, and they fought for many days."
+    },
+    {
+     "v": 53,
+     "text": "But there was no food in the storerooms, because it was the seventh year, and those who had taken refuge in Judea from the Gentiles had eaten up the last of the stores."
+    },
+    {
+     "v": 54,
+     "text": "Only a few men were left in the sanctuary, because the famine had overwhelmed them; the rest scattered, each to his own home."
+    },
+    {
+     "v": 55,
+     "text": "Then Lysias heard that Philip, whom King Antiochus while still alive had appointed to bring up his son Antiochus to be king,"
+    },
+    {
+     "v": 56,
+     "text": "had returned from Persia and Media, and with him the troops that had gone with the king, and that he was trying to seize control of the government."
+    },
+    {
+     "v": 57,
+     "text": "So he hastily gave orders to withdraw. He said to the king, to the commanders of the army, and to the troops, \"We grow weaker every day, our food is running low, the place we are besieging is strong, and the affairs of the kingdom press upon us."
+    },
+    {
+     "v": 58,
+     "text": "So let us now offer these men terms{o} and make peace with them and with their whole nation."
+    },
+    {
+     "v": 59,
+     "text": "Let us agree that they may live by their own laws as they did before. It was over those laws, which we did away with, that they grew angry and did all this.\""
+    },
+    {
+     "v": 60,
+     "text": "The proposal pleased the king and the commanders. He sent to the Jews to offer peace, and they accepted."
+    },
+    {
+     "v": 61,
+     "text": "The king and the commanders swore an oath to them on these terms, and on that basis the Jews came out of the stronghold."
+    },
+    {
+     "v": 62,
+     "text": "But when the king entered Mount Zion and saw how strong the place was, he went back on the oath he had sworn and ordered the surrounding wall pulled down."
+    },
+    {
+     "v": 63,
+     "text": "Then he hurried off and went back to Antioch, where he found Philip master of the city. He fought against him and took the city by force."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "So Swete's Greek text, \"in Elymais in Persia, a city\"; Elymais was properly a region (Elam) at the head of the Persian Gulf. 2 Maccabees 9:2 names the city Persepolis."
+    },
+    {
+     "m": "b",
+     "ref": "6:2",
+     "text": "Or \"golden shields\"; Greek kalymmata, \"coverings.\""
+    },
+    {
+     "m": "c",
+     "ref": "6:7",
+     "text": "Greek bdelygma; see note on 1:54."
+    },
+    {
+     "m": "d",
+     "ref": "6:16",
+     "text": "Greek: in the 149th year (Seleucid era; see note on 1:10). Antiochus IV died late in 164 BC, which fits a year counted from autumn 312 BC. For other accounts of his death see 2 Maccabees 1:13–17; 9:1–29."
+    },
+    {
+     "m": "e",
+     "ref": "6:17",
+     "text": "Eupator means \"of a noble father.\" Antiochus V was about nine years old."
+    },
+    {
+     "m": "f",
+     "ref": "6:20",
+     "text": "Greek: in the 150th year (Seleucid era; see note on 1:10)."
+    },
+    {
+     "m": "g",
+     "ref": "6:28",
+     "text": "Literally \"those over the reins.\""
+    },
+    {
+     "m": "h",
+     "ref": "6:32",
+     "text": "Beth-zechariah lay about 6 miles (10 km) north of Beth-zur, on the road to Jerusalem."
+    },
+    {
+     "m": "i",
+     "ref": "6:34",
+     "text": "Literally \"blood,\" a poetic term for red juice."
+    },
+    {
+     "m": "j",
+     "ref": "6:37",
+     "text": "Swete's Greek has \"thirty-two,\" which cannot be right for a tower on an elephant; many editors read \"four\" (perhaps from a misread numeral or from v. 30), followed here."
+    },
+    {
+     "m": "k",
+     "ref": "6:39",
+     "text": "So some ancient witnesses; Swete's Greek text has only \"golden shields.\""
+    },
+    {
+     "m": "l",
+     "ref": "6:43",
+     "text": "Swete's Greek reads \"Eleazar Savaran\"; see 2:5."
+    },
+    {
+     "m": "m",
+     "ref": "6:49",
+     "text": "The seventh year, when the land lay fallow (Leviticus 25:1–7)."
+    },
+    {
+     "m": "n",
+     "ref": "6:51",
+     "text": "Scorpions were small catapults for arrows."
+    },
+    {
+     "m": "o",
+     "ref": "6:58",
+     "text": "Literally \"give the right hand to these men.\""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    5,
+    8,
+    19,
+    26,
+    33,
+    39,
+    43
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the year 151 (162 BC){a} Demetrius son of Seleucus{b} slipped away from Rome, sailed with a few men to a town on the coast, and there made himself king."
+    },
+    {
+     "v": 2,
+     "text": "Just as he was going into his forefathers' royal residence, the troops arrested Antiochus and Lysias to hand them over to him."
+    },
+    {
+     "v": 3,
+     "text": "When he was told of it, he said, \"Do not let me look upon their faces.\""
+    },
+    {
+     "v": 4,
+     "text": "So the soldiers put them to death, and Demetrius took his seat upon the throne of his kingdom."
+    },
+    {
+     "v": 5,
+     "text": "Then all the lawless and ungodly men of Israel came to him, with Alcimus{c} at their head, who wanted to be high priest."
+    },
+    {
+     "v": 6,
+     "text": "They brought charges against the people before the king: \"Judas and his brothers have destroyed all your Friends and driven us out of our land."
+    },
+    {
+     "v": 7,
+     "text": "So send now a man you trust. Let him go and see the whole ruin Judas has brought on us and on the king's territory, and let him punish them and all who give them help.\""
+    },
+    {
+     "v": 8,
+     "text": "The king chose Bacchides,{d} one of the king's Friends, governor of the province Beyond the River,{e} a great man in the kingdom and loyal to the king."
+    },
+    {
+     "v": 9,
+     "text": "He sent him, along with the ungodly Alcimus, whom he confirmed in the priesthood, and he charged him to take vengeance on the Israelites."
+    },
+    {
+     "v": 10,
+     "text": "They set out and entered Judah's land with a large force. Bacchides sent envoys to Judas and his brothers with peaceful words, but treachery was behind them."
+    },
+    {
+     "v": 11,
+     "text": "These paid no heed to their words, for they saw that they had come with a large force."
+    },
+    {
+     "v": 12,
+     "text": "But a group of scribes did gather before Alcimus and Bacchides, seeking fair terms."
+    },
+    {
+     "v": 13,
+     "text": "Among the Israelites the Hasideans{f} were first to ask them for peace,"
+    },
+    {
+     "v": 14,
+     "text": "for they reasoned, \"A priest of Aaron's line has come with the army; he will do us no wrong.\""
+    },
+    {
+     "v": 15,
+     "text": "Alcimus spoke peaceably to them and gave them his oath: \"We will seek no harm against you or your friends.\""
+    },
+    {
+     "v": 16,
+     "text": "They believed him. But he seized sixty of them and killed them in one day, as the word that he{g} wrote says:"
+    },
+    {
+     "v": 17,
+     "text": "\"The flesh of your devoted ones they scattered,\nand around Jerusalem they spilled their blood,\nand none was there to bury them.\"{h}"
+    },
+    {
+     "v": 18,
+     "text": "Then fear and dread of them fell on all the people, for they said, \"There is no truth or justice in them; they have broken the agreement and the oath they swore.\""
+    },
+    {
+     "v": 19,
+     "text": "Bacchides left Jerusalem and camped at Beth-zaith.{i} He had many of the deserters who had come over to him arrested, along with certain of the people, and he slaughtered them and threw them into the great cistern."
+    },
+    {
+     "v": 20,
+     "text": "He put the province in Alcimus's charge and left troops with him to support him; then Bacchides went back to the king."
+    },
+    {
+     "v": 21,
+     "text": "Alcimus struggled hard to hold the high priesthood,"
+    },
+    {
+     "v": 22,
+     "text": "and all who were troubling their own people rallied to him. They gained control of Judah's land and did great harm in Israel."
+    },
+    {
+     "v": 23,
+     "text": "Judas saw all the evil that Alcimus and his followers had done among the Israelites, worse than the Gentiles had done."
+    },
+    {
+     "v": 24,
+     "text": "So he went out through all the territory of Judea round about and took vengeance on the men who had deserted, and they were kept from going out into the countryside."
+    },
+    {
+     "v": 25,
+     "text": "When Alcimus saw that Judas and his men had grown strong, and knew that he could not withstand them, he went back to the king and accused them of wicked crimes."
+    },
+    {
+     "v": 26,
+     "text": "Then the king sent Nicanor,{j} one of his distinguished commanders, a man who hated Israel and was its enemy, with orders to destroy the people."
+    },
+    {
+     "v": 27,
+     "text": "Nicanor arrived in Jerusalem with a large force and sent a friendly but deceitful message to Judas and his brothers:"
+    },
+    {
+     "v": 28,
+     "text": "\"Let there be no fighting between you and me. I will come with a few men to meet you face to face in peace.\""
+    },
+    {
+     "v": 29,
+     "text": "So he came to Judas, and they greeted each other peaceably; but the enemy stood ready to carry Judas off."
+    },
+    {
+     "v": 30,
+     "text": "Word reached Judas that Nicanor had come to him with treachery, so he grew wary of him and would not meet him again."
+    },
+    {
+     "v": 31,
+     "text": "When Nicanor saw that his plot was discovered, he marched out to meet Judas in battle near Caphar-salama.{k}"
+    },
+    {
+     "v": 32,
+     "text": "About five thousand of Nicanor's men fell, and the rest fled into the City of David."
+    },
+    {
+     "v": 33,
+     "text": "After this Nicanor went up to Mount Zion. Some of the priests came out from the sanctuary, with some elders of the people, to greet him peaceably and to show him the burnt offering being offered for the king."
+    },
+    {
+     "v": 34,
+     "text": "But he mocked them and laughed them to scorn; he defiled them{l} and spoke arrogantly."
+    },
+    {
+     "v": 35,
+     "text": "In a rage he swore, \"Unless Judas and his army are handed over to me at once, then, if I come back safely, I will burn this house down!\" And he went out in great anger."
+    },
+    {
+     "v": 36,
+     "text": "The priests went in and stood before the altar and the temple, weeping, and they said,"
+    },
+    {
+     "v": 37,
+     "text": "\"You chose this house to be called by your name,\nto be a house of prayer and supplication for your people."
+    },
+    {
+     "v": 38,
+     "text": "Take vengeance on this man and on his army,\nand let them fall by the sword.\nRemember their blasphemies,\nand let them not remain.\""
+    },
+    {
+     "v": 39,
+     "text": "Nicanor left Jerusalem and camped at Beth-horon, where an army from Syria joined him."
+    },
+    {
+     "v": 40,
+     "text": "Judas camped at Adasa{m} with three thousand men. And Judas prayed:"
+    },
+    {
+     "v": 41,
+     "text": "\"When the king's messengers blasphemed,{n} your angel went forth and struck down a hundred eighty-five thousand of them."
+    },
+    {
+     "v": 42,
+     "text": "Crush this army before us in the same way today, so that the rest may learn that he has spoken wickedly against your sanctuary. Judge him according to his wickedness.\""
+    },
+    {
+     "v": 43,
+     "text": "The armies met in battle on the thirteenth day of the month Adar (in February–March),{o} and Nicanor's army was crushed; he himself was the first to fall in the battle."
+    },
+    {
+     "v": 44,
+     "text": "When his troops saw that Nicanor had fallen, they flung down their weapons and fled."
+    },
+    {
+     "v": 45,
+     "text": "The Jews pursued them a day's journey, from Adasa as far as Gazara,{p} sounding the signal trumpets behind them."
+    },
+    {
+     "v": 46,
+     "text": "People came out of all the villages of Judea round about and outflanked them, turning them back on their pursuers, and all of them fell by the sword; not even one was left."
+    },
+    {
+     "v": 47,
+     "text": "They took the spoil and the plunder. Nicanor's head they cut off, along with the right hand he had so proudly stretched out, and they brought them and displayed them just outside Jerusalem."
+    },
+    {
+     "v": 48,
+     "text": "The people rejoiced greatly and kept that day as a day of great gladness."
+    },
+    {
+     "v": 49,
+     "text": "They decreed that this day should be celebrated every year on the thirteenth of Adar.{q}"
+    },
+    {
+     "v": 50,
+     "text": "So the land of Judah had rest for a short time."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "Greek: in the 151st year (Seleucid era; see note on 1:10). Demetrius I reached Syria in the autumn of 162 BC."
+    },
+    {
+     "m": "b",
+     "ref": "7:1",
+     "text": "Demetrius I Soter, son of Seleucus IV, had been held as a hostage in Rome since his youth."
+    },
+    {
+     "m": "c",
+     "ref": "7:5",
+     "text": "Alcimus is a Greek name, \"valiant\"; his Hebrew name was Yakim (Eliakim, \"God raises up\"), according to Josephus."
+    },
+    {
+     "m": "d",
+     "ref": "7:8",
+     "text": "Bacchides (perhaps \"son of Bacchus\") was a senior Seleucid official."
+    },
+    {
+     "m": "e",
+     "ref": "7:8",
+     "text": "That is, west of the Euphrates (Syria and Palestine)."
+    },
+    {
+     "m": "f",
+     "ref": "7:13",
+     "text": "The Hasideans (Hebrew hasidim, \"the pious\"); see 2:42."
+    },
+    {
+     "m": "g",
+     "ref": "7:16",
+     "text": "Or \"the word that was written\"; the Greek \"he wrote\" may refer to the psalmist."
+    },
+    {
+     "m": "h",
+     "ref": "7:17",
+     "text": "Psalm 79:2–3 (Septuagint 78:2–3)."
+    },
+    {
+     "m": "i",
+     "ref": "7:19",
+     "text": "Beth-zaith, a village about 4 miles (6 km) north of Beth-zur; Swete's Greek spells it \"Bezeth.\""
+    },
+    {
+     "m": "j",
+     "ref": "7:26",
+     "text": "Nicanor, \"victorious.\""
+    },
+    {
+     "m": "k",
+     "ref": "7:31",
+     "text": "Caphar-salama (\"village of peace\"), of uncertain location, perhaps northwest of Jerusalem. Swete's Greek spells it \"Charpharsarama.\""
+    },
+    {
+     "m": "l",
+     "ref": "7:34",
+     "text": "Perhaps by spitting on them or touching them, making them ritually unclean."
+    },
+    {
+     "m": "m",
+     "ref": "7:40",
+     "text": "Adasa was a village near Beth-horon, about 7 miles (11 km) north of Jerusalem."
+    },
+    {
+     "m": "n",
+     "ref": "7:41",
+     "text": "2 Kings 18:17–19:35."
+    },
+    {
+     "m": "o",
+     "ref": "7:43",
+     "text": "Greek Adar, the twelfth month (Hebrew Adar). The battle took place in 161 BC. See also 2 Maccabees 15:36, which calls the date \"the day before Mordecai's day.\""
+    },
+    {
+     "m": "p",
+     "ref": "7:45",
+     "text": "Gazara is Gezer, about 20 miles (32 km) west of Jerusalem."
+    },
+    {
+     "m": "q",
+     "ref": "7:49",
+     "text": "This was Nicanor's Day, a festival later observed by Jews for several centuries."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    17,
+    22,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now Judas heard of the fame of the Romans: that they were very mighty, that they looked with favor on all who sided with them, that they established friendship with any who came to them,"
+    },
+    {
+     "v": 2,
+     "text": "and that their strength was great. He was told of their wars and the brave deeds they performed among the Gauls,{a} how they had conquered them and made them pay tribute,"
+    },
+    {
+     "v": 3,
+     "text": "and what they had done in the land of Spain to win control of the silver and gold mines there,"
+    },
+    {
+     "v": 4,
+     "text": "and how by their planning and perseverance they had subdued the whole region, even though it lay very far from them. He heard too of the kings who came against them from the ends of the earth, how they had shattered them and struck them a heavy blow, so that the rest paid them tribute every year."
+    },
+    {
+     "v": 5,
+     "text": "Philip, and Perseus king of the Kittim,{b} and others who rose up against them, they crushed in battle and subdued."
+    },
+    {
+     "v": 6,
+     "text": "Antiochus the Great,{c} king of Asia, who marched to war against them with a hundred twenty elephants, cavalry, chariots, and a vast army, was defeated by them."
+    },
+    {
+     "v": 7,
+     "text": "They took him alive{d} and required him and those who would reign after him to pay a heavy tribute, to give hostages, and to surrender"
+    },
+    {
+     "v": 8,
+     "text": "the lands of India,{e} Media, and Lydia, some of their finest provinces, which they took from him and gave to King Eumenes.{f}"
+    },
+    {
+     "v": 9,
+     "text": "When the Greeks{g} planned to come and destroy them,"
+    },
+    {
+     "v": 10,
+     "text": "the Romans learned of it and sent one general against them. They made war on them, and many of the Greeks fell wounded. The Romans carried off their wives and children as captives, plundered them, took possession of their land, tore down their strongholds, and made them slaves, as they remain to this day."
+    },
+    {
+     "v": 11,
+     "text": "The other kingdoms and the islands, whoever at any time opposed them, they destroyed and enslaved."
+    },
+    {
+     "v": 12,
+     "text": "But with their friends and those who relied on them they kept faith. They have subdued kings near and far, and all who hear their name fear them."
+    },
+    {
+     "v": 13,
+     "text": "Those whom they choose to help to a throne do reign, and those whom they choose they depose; so they have been raised very high."
+    },
+    {
+     "v": 14,
+     "text": "For all that, none of them has ever worn a crown or wrapped himself in purple to make a show of greatness."
+    },
+    {
+     "v": 15,
+     "text": "They have built themselves a council chamber, and every day three hundred twenty councilors{h} deliberate, constantly taking counsel for the people, so that they may be well governed."
+    },
+    {
+     "v": 16,
+     "text": "Each year they entrust their government and the rule of all their land to one man,{i} and all obey that one, and there is no envy or jealousy among them."
+    },
+    {
+     "v": 17,
+     "text": "So Judas chose Eupolemus son of John, son of Accos,{j} and Jason son of Eleazar, and sent them to Rome to make friendship and an alliance with them,"
+    },
+    {
+     "v": 18,
+     "text": "and to lift the yoke from the Jews, for they saw that the kingdom of the Greeks was reducing Israel to slavery."
+    },
+    {
+     "v": 19,
+     "text": "After a very long journey they reached Rome, went into the council chamber, and spoke these words:"
+    },
+    {
+     "v": 20,
+     "text": "\"Judas, who is called Maccabeus, together with his brothers and the people of the Jews, has dispatched us to you to make a pact of alliance and peace, and to be enrolled as your allies and friends.\""
+    },
+    {
+     "v": 21,
+     "text": "The proposal pleased the Romans."
+    },
+    {
+     "v": 22,
+     "text": "Here is a copy of the letter they engraved on tablets of bronze and dispatched to Jerusalem, to be kept there by the Jews as a memorial of the peace and the alliance:"
+    },
+    {
+     "v": 23,
+     "text": "\"Good fortune to the Romans and to the Jewish nation on sea and land forever, and may sword and enemy be far from them."
+    },
+    {
+     "v": 24,
+     "text": "But if war comes first on Rome or on any of its allies throughout its dominion,"
+    },
+    {
+     "v": 25,
+     "text": "the Jewish nation shall fight as their ally wholeheartedly, as the occasion may require of them."
+    },
+    {
+     "v": 26,
+     "text": "To those who make war on them the Jews shall not give or supply grain, weapons, silver, or ships, as Rome has resolved; and they shall honor these commitments without receiving anything."
+    },
+    {
+     "v": 27,
+     "text": "In the same way, if war comes first on the Jewish nation, the Romans shall gladly fight as their allies, as the occasion may require of them."
+    },
+    {
+     "v": 28,
+     "text": "To those who fight alongside the enemy there shall be given no grain, weapons, silver, or ships, as Rome has resolved; and they shall honor these commitments without deceit."
+    },
+    {
+     "v": 29,
+     "text": "Such are the terms by which the Romans have bound themselves in treaty to the Jewish people."
+    },
+    {
+     "v": 30,
+     "text": "If after this either party wishes to add or delete anything, they may do so by mutual agreement,{k} and whatever they add or delete shall be binding."
+    },
+    {
+     "v": 31,
+     "text": "\"As for the wrongs that King Demetrius is doing to them, we have written to him as follows: 'Why have you made your yoke heavy on our friends and allies the Jews?"
+    },
+    {
+     "v": 32,
+     "text": "If they appeal to us again against you, we will uphold their cause and make war on you by sea and on land.'\""
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:2",
+     "text": "The Greek Galatai may mean the Celts of northern Italy and Gaul, or the Galatians of Asia Minor."
+    },
+    {
+     "m": "b",
+     "ref": "8:5",
+     "text": "Philip V of Macedon was defeated by Rome in 197 BC, and his son Perseus in 168 BC. \"Kittim\" here means Macedonia (see 1:1)."
+    },
+    {
+     "m": "c",
+     "ref": "8:6",
+     "text": "Antiochus III (reigned 223–187 BC), defeated by Rome at Magnesia in 190 BC."
+    },
+    {
+     "m": "d",
+     "ref": "8:7",
+     "text": "Antiochus III was not in fact taken captive; this is the writer's report of what Judas heard."
+    },
+    {
+     "m": "e",
+     "ref": "8:8",
+     "text": "\"India\" is hard to explain here; some suggest Ionia was meant. Media also seems out of place, since the treaty of Apamea concerned lands in Asia Minor."
+    },
+    {
+     "m": "f",
+     "ref": "8:8",
+     "text": "Eumenes II, king of Pergamum (197–159 BC)."
+    },
+    {
+     "m": "g",
+     "ref": "8:9",
+     "text": "Probably the Achaean League, defeated by Rome in 146 BC; if so, the report reflects later events."
+    },
+    {
+     "m": "h",
+     "ref": "8:15",
+     "text": "The Roman Senate actually numbered about three hundred."
+    },
+    {
+     "m": "i",
+     "ref": "8:16",
+     "text": "In fact Rome elected two consuls each year."
+    },
+    {
+     "m": "j",
+     "ref": "8:17",
+     "text": "Eupolemus, \"good at war,\" was perhaps the Jewish historian of that name. Accos (Hakkoz) was a priestly family (1 Chronicles 24:10; Ezra 2:61)."
+    },
+    {
+     "m": "k",
+     "ref": "8:30",
+     "text": "Literally \"by their choice.\""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    5,
+    11,
+    19,
+    23,
+    28,
+    32,
+    35,
+    43,
+    50,
+    54,
+    58,
+    62,
+    70
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Demetrius heard that Nicanor and his army had fallen in battle, he sent Bacchides and Alcimus into Judah's land a second time, and with them the right wing of his army.{a}"
+    },
+    {
+     "v": 2,
+     "text": "They took the road to Gilgal{b} and laid siege to Mesaloth in Arbela;{c} they captured it and took many lives."
+    },
+    {
+     "v": 3,
+     "text": "In the first month of the year 152 (in March–April, 160 BC){d} they pitched camp against Jerusalem."
+    },
+    {
+     "v": 4,
+     "text": "Then they moved off and marched to Berea{e} with twenty thousand foot soldiers and two thousand horsemen."
+    },
+    {
+     "v": 5,
+     "text": "Judas lay encamped at Elasa,{f} with three thousand picked men beside him."
+    },
+    {
+     "v": 6,
+     "text": "When they saw how huge the enemy force was, they were terrified. Many slipped away from the camp, until no more than eight hundred of them remained."
+    },
+    {
+     "v": 7,
+     "text": "Judas saw his army melting away while the battle bore down on him. His heart sank, for he had no time to gather them again."
+    },
+    {
+     "v": 8,
+     "text": "Faint as he was, he said to those who were left, \"Up! Let us advance on our adversaries; perhaps we can still fight them.\""
+    },
+    {
+     "v": 9,
+     "text": "But they tried to turn him from it: \"We cannot. Let us save our own lives for now, and come back later with our kinsmen to fight them. We are too few.\""
+    },
+    {
+     "v": 10,
+     "text": "Judas answered, \"Far be it from me to do such a thing as run from them! If our hour has come, let us die bravely for our kinsmen and leave no stain on our honor.\""
+    },
+    {
+     "v": 11,
+     "text": "Then the enemy army marched out of camp and took its stand to meet them. The cavalry was split into two divisions; slingers and archers went ahead of the army, and the front ranks were all men of valor."
+    },
+    {
+     "v": 12,
+     "text": "Bacchides was on the right wing. The phalanx came on from both sides with trumpets sounding, and Judas's men too blew their trumpets."
+    },
+    {
+     "v": 13,
+     "text": "The earth shook with the din of the armies, and the battle raged from morning until evening."
+    },
+    {
+     "v": 14,
+     "text": "Judas saw that Bacchides and the strength of his army were on the right. All the stouthearted rallied to him,"
+    },
+    {
+     "v": 15,
+     "text": "and they broke the right wing and chased it as far as Mount Azotus.{g}"
+    },
+    {
+     "v": 16,
+     "text": "When those on the left wing saw that the right wing was broken, they wheeled around and came after Judas and his men from behind."
+    },
+    {
+     "v": 17,
+     "text": "The fighting grew fierce, and many fell wounded on both sides."
+    },
+    {
+     "v": 18,
+     "text": "Judas also fell, and the rest fled."
+    },
+    {
+     "v": 19,
+     "text": "Jonathan and Simon took up their brother Judas and buried him in the tomb of his ancestors at Modein."
+    },
+    {
+     "v": 20,
+     "text": "They wept for him, and all Israel made great lamentation for him. For many days they mourned, saying,"
+    },
+    {
+     "v": 21,
+     "text": "\"How the mighty one is fallen,\nthe savior of Israel!\"{h}"
+    },
+    {
+     "v": 22,
+     "text": "The rest of Judas's deeds, his wars, the brave exploits he performed, and his greatness have not been written down, for they were very many."
+    },
+    {
+     "v": 23,
+     "text": "After Judas's death the lawless reappeared throughout Israel's territory, and all the doers of wrong sprang up."
+    },
+    {
+     "v": 24,
+     "text": "In those days a very severe famine broke out, and the country went over to their side.{i}"
+    },
+    {
+     "v": 25,
+     "text": "Bacchides picked the ungodly and made them masters of the country."
+    },
+    {
+     "v": 26,
+     "text": "They hunted down and tracked out Judas's friends and brought them before Bacchides, who punished them and made sport of them."
+    },
+    {
+     "v": 27,
+     "text": "Such affliction came on Israel as had not been seen since the day when prophets were last seen among them."
+    },
+    {
+     "v": 28,
+     "text": "Then all Judas's friends assembled and said to Jonathan,"
+    },
+    {
+     "v": 29,
+     "text": "\"Since the death of Judas your brother, no man like him has been left to march out against our foes, against Bacchides, and against those of our own nation who hate us."
+    },
+    {
+     "v": 30,
+     "text": "So this day we have chosen you as ruler and leader in his stead, to fight our battles.\""
+    },
+    {
+     "v": 31,
+     "text": "At that time Jonathan accepted the leadership and took the place of his brother Judas."
+    },
+    {
+     "v": 32,
+     "text": "When Bacchides learned of it, he tried to kill him."
+    },
+    {
+     "v": 33,
+     "text": "But Jonathan, his brother Simon, and all their followers found out, and they fled into the wilderness of Tekoa{j} and camped by the water of the pool of Asphar."
+    },
+    {
+     "v": 34,
+     "text": "Bacchides learned of this on the sabbath day, and he with his whole army crossed the Jordan.{k}"
+    },
+    {
+     "v": 35,
+     "text": "Jonathan sent his brother John,{l} a leader of the company, to ask their friends the Nabateans to keep their large store of baggage for them."
+    },
+    {
+     "v": 36,
+     "text": "But the sons of Jambri{m} from Medeba came out, seized John and all he had, and made off with it."
+    },
+    {
+     "v": 37,
+     "text": "After these events Jonathan and Simon his brother were told: \"A great wedding is being held by the sons of Jambri. They are escorting the bride, daughter of one of the great nobles of Canaan, from Nadabath with a grand procession.\""
+    },
+    {
+     "v": 38,
+     "text": "Mindful of the blood of John their brother,{n} they went up and lay hidden in the shelter of the mountain."
+    },
+    {
+     "v": 39,
+     "text": "They looked out and saw a noisy crowd with much baggage. Out came the bridegroom, with his friends and kinsmen, to greet the party with drums and players and a great show of arms."
+    },
+    {
+     "v": 40,
+     "text": "Then the Jews rose from their ambush and fell on them, killing them. Many fell wounded; the survivors fled to the mountain, and the Jews took all their goods."
+    },
+    {
+     "v": 41,
+     "text": "So the wedding was turned to mourning,\nand the sound of their music to a dirge."
+    },
+    {
+     "v": 42,
+     "text": "Having fully avenged their brother's blood, they returned to the marshes{o} of the Jordan."
+    },
+    {
+     "v": 43,
+     "text": "When Bacchides heard of it, he came on the sabbath day with a large force to the banks of the Jordan."
+    },
+    {
+     "v": 44,
+     "text": "Jonathan said to his men, \"Up now, let us fight for our lives! Today is not like yesterday or the day before."
+    },
+    {
+     "v": 45,
+     "text": "See, the fight faces us both before and behind; Jordan's water hems us in on either hand, with marsh and thicket; there is nowhere to turn aside."
+    },
+    {
+     "v": 46,
+     "text": "So cry out now to Heaven, that you may be delivered from the hands of our enemies.\""
+    },
+    {
+     "v": 47,
+     "text": "When the battle was joined, Jonathan stretched out his hand to strike Bacchides, but Bacchides drew back away from him."
+    },
+    {
+     "v": 48,
+     "text": "Then Jonathan and his men leaped into the Jordan and swam over to the far bank, and the enemy made no crossing after them."
+    },
+    {
+     "v": 49,
+     "text": "About a thousand of Bacchides's men fell that day."
+    },
+    {
+     "v": 50,
+     "text": "Bacchides returned to Jerusalem and built fortified towns in Judea: the stronghold at Jericho, and Emmaus, Beth-horon, Bethel, Timnath, Pharathon,{p} and Tephon, with high walls, gates, and bars."
+    },
+    {
+     "v": 51,
+     "text": "In them he placed garrisons to harass Israel."
+    },
+    {
+     "v": 52,
+     "text": "Beth-zur too he made strong, and Gazara and the citadel, and stationed troops in them with stores of food."
+    },
+    {
+     "v": 53,
+     "text": "He took the sons of the country's leading men as hostages and kept them under guard in the citadel at Jerusalem."
+    },
+    {
+     "v": 54,
+     "text": "In the year 153, in the second month (in April–May, 159 BC),{q} Alcimus ordered that the wall of the inner court of the sanctuary be torn down. He was tearing down the work of the prophets,{r} and he had begun the demolition,"
+    },
+    {
+     "v": 55,
+     "text": "when at that very time Alcimus was struck down, and his work was halted. His mouth was stopped and he was paralyzed, so that he could no longer say a word or give orders about his household."
+    },
+    {
+     "v": 56,
+     "text": "And Alcimus died at that time in great torment."
+    },
+    {
+     "v": 57,
+     "text": "When Bacchides saw that Alcimus was dead, he went back to the king, and the land of Judah was quiet for two years."
+    },
+    {
+     "v": 58,
+     "text": "Then all the lawless plotted together: \"Look, Jonathan and his men are living in peace and confidence. Let us bring back Bacchides now, and he will seize them all in a single night.\""
+    },
+    {
+     "v": 59,
+     "text": "So they went and consulted with him."
+    },
+    {
+     "v": 60,
+     "text": "He set out to come with a large force and wrote in secret to every ally he had in Judea, bidding them lay hands on Jonathan and his men. This proved impossible, because their plan became known."
+    },
+    {
+     "v": 61,
+     "text": "Jonathan's men{s} seized about fifty of the men of the country who were ringleaders in this wickedness, and killed them."
+    },
+    {
+     "v": 62,
+     "text": "Then Jonathan, with Simon and their men, withdrew to Beth-basi{t} in the wilderness. Its ruined parts he built up again and made it strong."
+    },
+    {
+     "v": 63,
+     "text": "When Bacchides learned of it, he gathered his whole force and sent orders to those in Judea."
+    },
+    {
+     "v": 64,
+     "text": "He came and camped against Beth-basi; for many days he fought against it and built siege engines."
+    },
+    {
+     "v": 65,
+     "text": "But Jonathan left his brother Simon in the town and went out into the countryside, taking a few men with him.{u}"
+    },
+    {
+     "v": 66,
+     "text": "He struck down Odomera and his kinsmen and the sons of Phasiron in their encampment, and they{v} began to attack and to go up with their forces."
+    },
+    {
+     "v": 67,
+     "text": "Then Simon and his men sallied out of the town and set fire to the siege engines."
+    },
+    {
+     "v": 68,
+     "text": "They fought against Bacchides, and he was beaten by them. They pressed him hard, because his plan and his expedition had come to nothing."
+    },
+    {
+     "v": 69,
+     "text": "He was furious with the lawless men who had advised him to come into the country, and he killed many of them. Then he decided to go back to his own land."
+    },
+    {
+     "v": 70,
+     "text": "When Jonathan learned of this, he sent envoys to him to make peace with him and to obtain the return of the captives."
+    },
+    {
+     "v": 71,
+     "text": "Bacchides agreed and did as he asked. He swore to Jonathan that he would not seek to harm him as long as he lived."
+    },
+    {
+     "v": 72,
+     "text": "He returned to him the captives he had taken earlier from Judah's land; then he turned and went back to his own land and never again entered their territory."
+    },
+    {
+     "v": 73,
+     "text": "So the sword ceased from Israel. Jonathan settled at Michmash{w} and began to judge the people, and he wiped out the ungodly from Israel."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "Literally \"the right horn,\" the elite wing of the army."
+    },
+    {
+     "m": "b",
+     "ref": "9:2",
+     "text": "Probably not the Gilgal near Jericho but a place in Galilee; some suggest \"Galilee\" was meant."
+    },
+    {
+     "m": "c",
+     "ref": "9:2",
+     "text": "Arbela in Galilee, west of the Sea of Galilee. Mesaloth may mean \"steps\" or \"ascents.\""
+    },
+    {
+     "m": "d",
+     "ref": "9:3",
+     "text": "Greek: in the first month of the 152nd year (Seleucid era; see note on 1:10). The first month is Nisan (March–April)."
+    },
+    {
+     "m": "e",
+     "ref": "9:4",
+     "text": "Berea is probably Beeroth (modern al-Bireh), north of Jerusalem."
+    },
+    {
+     "m": "f",
+     "ref": "9:5",
+     "text": "Swete's Greek spells it \"Alasa.\" Elasa lay near Beth-horon."
+    },
+    {
+     "m": "g",
+     "ref": "9:15",
+     "text": "Swete's Greek has \"Mount Azotus\"; the location is uncertain, as Azotus (Ashdod) lies on the coastal plain. Some suggest the slopes near Beth-horon."
+    },
+    {
+     "m": "h",
+     "ref": "9:21",
+     "text": "Compare 2 Samuel 1:19, 25, 27."
+    },
+    {
+     "m": "i",
+     "ref": "9:24",
+     "text": "Or \"the land deserted with them.\""
+    },
+    {
+     "m": "j",
+     "ref": "9:33",
+     "text": "Tekoa, about 6 miles (10 km) south of Bethlehem."
+    },
+    {
+     "m": "k",
+     "ref": "9:34",
+     "text": "Verses 34 and 43 appear to be doublets in the Greek."
+    },
+    {
+     "m": "l",
+     "ref": "9:35",
+     "text": "John Gaddi (2:2). The Greek has simply \"his brother\"; the name appears in v. 36."
+    },
+    {
+     "m": "m",
+     "ref": "9:36",
+     "text": "Jambri, an Arab clan; the name is uncertain."
+    },
+    {
+     "m": "n",
+     "ref": "9:38",
+     "text": "Verse 36 reports only his capture; this verse assumes his death (see v. 42)."
+    },
+    {
+     "m": "o",
+     "ref": "9:42",
+     "text": "Or \"the mountain\"; the Greek has \"the mountain of the Jordan,\" perhaps a mistranslation of a Hebrew word for \"jungle\" or \"thickets.\""
+    },
+    {
+     "m": "p",
+     "ref": "9:50",
+     "text": "So Swete's Greek \"Thamnatha Pharathon,\" which may be one place or two; many translations print Timnath-pharathon."
+    },
+    {
+     "m": "q",
+     "ref": "9:54",
+     "text": "Greek: in the second month of the 153rd year (Seleucid era; see note on 1:10). The second month is Iyyar (April–May)."
+    },
+    {
+     "m": "r",
+     "ref": "9:54",
+     "text": "Probably Haggai and Zechariah, under whom the second temple was built (Ezra 5:1–2)."
+    },
+    {
+     "m": "s",
+     "ref": "9:61",
+     "text": "The Greek has only \"they seized.\""
+    },
+    {
+     "m": "t",
+     "ref": "9:62",
+     "text": "Beth-basi, near Tekoa."
+    },
+    {
+     "m": "u",
+     "ref": "9:65",
+     "text": "Swete's Greek has \"and he went with a number,\" probably meaning a small band."
+    },
+    {
+     "m": "v",
+     "ref": "9:66",
+     "text": "Or \"he.\" The Greek is unclear; it may mean that Jonathan's men began to strike the enemy."
+    },
+    {
+     "m": "w",
+     "ref": "9:73",
+     "text": "Michmash, about 7 miles (11 km) north of Jerusalem (1 Samuel 13–14)."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    7,
+    15,
+    21,
+    22,
+    29,
+    36,
+    46,
+    48,
+    51,
+    55,
+    57,
+    59,
+    67,
+    70,
+    74,
+    77,
+    88
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the year 160 (152 BC){a} Alexander Epiphanes, son of Antiochus,{b} came up and took Ptolemais. The people welcomed him, and he began to reign there."
+    },
+    {
+     "v": 2,
+     "text": "Hearing of it, King Demetrius mustered a very large army and marched out to give him battle."
+    },
+    {
+     "v": 3,
+     "text": "Demetrius also sent Jonathan a letter couched in peaceable terms, meant to raise him in honor."
+    },
+    {
+     "v": 4,
+     "text": "\"Let us move first,\" he reasoned, \"and make peace with them before Jonathan makes peace with Alexander against us."
+    },
+    {
+     "v": 5,
+     "text": "For he will remember every wrong we did to him, to his brothers, and to his nation.\""
+    },
+    {
+     "v": 6,
+     "text": "So he gave Jonathan authority to raise troops and to equip them with arms as his ally, and he gave word that the hostages held in the citadel were to be released into his hands."
+    },
+    {
+     "v": 7,
+     "text": "Jonathan came to Jerusalem and read the letter aloud in the hearing of all the people and of the men in the citadel."
+    },
+    {
+     "v": 8,
+     "text": "These were struck with great fear when they heard that the king had given him authority to raise troops."
+    },
+    {
+     "v": 9,
+     "text": "The men of the citadel surrendered the hostages to Jonathan, and he gave them back to their parents."
+    },
+    {
+     "v": 10,
+     "text": "Jonathan took up residence in Jerusalem and set about building and restoring the city."
+    },
+    {
+     "v": 11,
+     "text": "He told those doing the work to rebuild the walls and to ring Mount Zion with squared stones for defense, and so they did."
+    },
+    {
+     "v": 12,
+     "text": "Then the foreigners in the strongholds Bacchides had built took flight;"
+    },
+    {
+     "v": 13,
+     "text": "each of them abandoned his post and went back to his own country."
+    },
+    {
+     "v": 14,
+     "text": "Only in Beth-zur did some remain of those who had forsaken the law and the commandments, for it served them as a refuge."
+    },
+    {
+     "v": 15,
+     "text": "King Alexander heard of all the promises Demetrius had sent to Jonathan, and he was told of the battles and brave deeds that Jonathan and his brothers had performed and the hardships they had endured."
+    },
+    {
+     "v": 16,
+     "text": "\"Shall we ever find another man like this?\" he said. \"Let us make him our friend and ally at once.\""
+    },
+    {
+     "v": 17,
+     "text": "So he wrote a letter and sent it to him in these words:"
+    },
+    {
+     "v": 18,
+     "text": "\"King Alexander to his brother Jonathan, greetings."
+    },
+    {
+     "v": 19,
+     "text": "Word has reached us about you, that you are a man of might and valor, well fitted to be our friend."
+    },
+    {
+     "v": 20,
+     "text": "So we appoint you this day high priest of your nation; you are to bear the title Friend of the King, to take our side, and to keep friendship with us.\" He also sent him a purple robe and a golden crown."
+    },
+    {
+     "v": 21,
+     "text": "So Jonathan put on the sacred vestments in the seventh month (in September–October) of the year 160 (152 BC),{c} at the Festival of Booths,{d} and he raised troops and laid in a great supply of arms."
+    },
+    {
+     "v": 22,
+     "text": "When Demetrius heard of these things, he was vexed and said,"
+    },
+    {
+     "v": 23,
+     "text": "\"What have we done, that Alexander has outrun us in winning the friendship of the Jews to strengthen himself?"
+    },
+    {
+     "v": 24,
+     "text": "I too will write them words of encouragement, with offers of honors and gifts, so that they may stand by me as helpers.\""
+    },
+    {
+     "v": 25,
+     "text": "So he sent them this message:\n\"King Demetrius to the nation of the Jews, greetings."
+    },
+    {
+     "v": 26,
+     "text": "You have kept your covenant with us and remained in our friendship, and have not gone over to our enemies. We have heard of this and are glad."
+    },
+    {
+     "v": 27,
+     "text": "Now go on keeping faith with us, and we will repay you with good things for what you do for us."
+    },
+    {
+     "v": 28,
+     "text": "Many exemptions will we grant you, and gifts besides."
+    },
+    {
+     "v": 29,
+     "text": "\"I now release you and free all the Jews from tribute, from the salt tax, and from the crown levies.{e}"
+    },
+    {
+     "v": 30,
+     "text": "Instead of a third of the grain and half the fruit of the trees that is due to me, I release them from this day on, so that they will no longer be collected from Judah's land, nor from the three districts joined to it out of Samaria and Galilee,{f} from now until the end of time."
+    },
+    {
+     "v": 31,
+     "text": "Let Jerusalem and her territory be holy and free from tax, both tithes and tolls."
+    },
+    {
+     "v": 32,
+     "text": "I give up also my authority over the citadel in Jerusalem, and I grant it to the high priest, to post there whatever men he himself may choose as its guard."
+    },
+    {
+     "v": 33,
+     "text": "Every Jew carried captive out of Judah's land into any region of my realm I release as free, without ransom; and let all officials cancel the taxes on their livestock as well."
+    },
+    {
+     "v": 34,
+     "text": "All festivals, sabbaths, new moons, and appointed days, and the three days before a festival and the three days after it, shall be days of immunity and release for all the Jews in my kingdom."
+    },
+    {
+     "v": 35,
+     "text": "No one shall have authority to exact payment from any of them or to trouble them in any matter."
+    },
+    {
+     "v": 36,
+     "text": "\"Let Jews be enrolled in the king's forces, to the number of thirty thousand men, and let them receive pay as is due to all the king's forces."
+    },
+    {
+     "v": 37,
+     "text": "Some of them shall be stationed in the king's great strongholds, and some appointed to positions of trust in the kingdom. Their officers and leaders shall be of their own number, and they shall live by their own laws, as the king has commanded in the land of Judah."
+    },
+    {
+     "v": 38,
+     "text": "The three districts added to Judea from the region of Samaria are to be annexed to Judea and reckoned under one ruler, obeying no other authority than the high priest."
+    },
+    {
+     "v": 39,
+     "text": "Ptolemais and the land belonging to it I give as a gift to the holy place in Jerusalem, to defray what the sanctuary must spend."
+    },
+    {
+     "v": 40,
+     "text": "I also grant each year about 375 pounds of silver{g} from the royal revenues out of the places that belong to me."
+    },
+    {
+     "v": 41,
+     "text": "And all the surplus that the officials did not pay over as in former years they shall from now on give for the work on the temple."
+    },
+    {
+     "v": 42,
+     "text": "Moreover, the 125 pounds of silver{h} that they used to take each year from the sanctuary's income are also released, because they belong to the priests who minister there."
+    },
+    {
+     "v": 43,
+     "text": "Whoever takes refuge at the temple in Jerusalem or anywhere within its precincts, because he owes money to the king or for any other debt, shall be released, together with all his property in my kingdom."
+    },
+    {
+     "v": 44,
+     "text": "For the rebuilding and restoring of the structures of the sanctuary, the cost shall be paid from the king's revenues."
+    },
+    {
+     "v": 45,
+     "text": "And for rebuilding the walls of Jerusalem and fortifying it all around, the cost shall be paid from the king's revenues, as also for rebuilding the walls in Judea.\""
+    },
+    {
+     "v": 46,
+     "text": "When Jonathan and the people heard these words, they put no faith in them and would not accept them, for they remembered the great evil Demetrius had done in Israel and how sorely he had oppressed them."
+    },
+    {
+     "v": 47,
+     "text": "Alexander had their goodwill, for he was the one who had first opened talk of peace with them, and they remained his allies all his days."
+    },
+    {
+     "v": 48,
+     "text": "King Alexander gathered large forces and encamped opposite Demetrius."
+    },
+    {
+     "v": 49,
+     "text": "The two kings joined battle, and Demetrius's army fled. Alexander pursued him and overpowered them.{i}"
+    },
+    {
+     "v": 50,
+     "text": "He pressed the battle hard until the sun went down, and Demetrius fell that day."
+    },
+    {
+     "v": 51,
+     "text": "Then Alexander sent envoys to Ptolemy king of Egypt{j} with this message:"
+    },
+    {
+     "v": 52,
+     "text": "\"I have returned to my kingdom and taken my seat on the throne of my ancestors. I have established my rule; I have crushed Demetrius and taken possession of our country."
+    },
+    {
+     "v": 53,
+     "text": "I met him in battle; he was beaten by us, he and his host, and the throne of his realm is now ours."
+    },
+    {
+     "v": 54,
+     "text": "Now let us establish friendship with each other. Give me your daughter in marriage; I will be joined to you by marriage and give you and her gifts worthy of you.\""
+    },
+    {
+     "v": 55,
+     "text": "King Ptolemy replied, \"Happy the day you returned to the land of your ancestors and took your seat on the throne of their kingdom!"
+    },
+    {
+     "v": 56,
+     "text": "What you have written I will now do. Come to Ptolemais, though, where we can meet face to face, and there I will give you my daughter, just as you ask.\""
+    },
+    {
+     "v": 57,
+     "text": "So Ptolemy set out from Egypt with his daughter Cleopatra{k} and came to Ptolemais in the year 162 (150 BC).{l}"
+    },
+    {
+     "v": 58,
+     "text": "King Alexander met him there; Ptolemy gave him his daughter Cleopatra, and celebrated her wedding at Ptolemais with great pomp, as kings do."
+    },
+    {
+     "v": 59,
+     "text": "Then a letter came from King Alexander inviting Jonathan to a meeting."
+    },
+    {
+     "v": 60,
+     "text": "Jonathan went in splendor to Ptolemais and met the two kings. He gave them and their Friends silver and gold and many gifts, and he won their favor."
+    },
+    {
+     "v": 61,
+     "text": "A band of scoundrels from Israel, lawless men, gathered against him to bring charges against him, but the king paid them no heed."
+    },
+    {
+     "v": 62,
+     "text": "Instead the king gave orders that Jonathan be stripped of his garments and clothed in purple, and so it was done."
+    },
+    {
+     "v": 63,
+     "text": "The king seated him at his side and said to his officers, \"Go with him into the heart of the city and make it known that none may accuse him about anything or harass him for any reason.\""
+    },
+    {
+     "v": 64,
+     "text": "When his accusers saw the honor paid him, as was proclaimed, and saw him clothed in purple, they all fled."
+    },
+    {
+     "v": 65,
+     "text": "So the king honored him: he entered his name among the First Friends and appointed him general and governor of a province.{m}"
+    },
+    {
+     "v": 66,
+     "text": "And Jonathan went home to Jerusalem in peace and with joy."
+    },
+    {
+     "v": 67,
+     "text": "In the year 165 (147 BC){n} Demetrius son of Demetrius{o} came from Crete to the land of his ancestors."
+    },
+    {
+     "v": 68,
+     "text": "When King Alexander heard of it, he was greatly troubled and went back to Antioch."
+    },
+    {
+     "v": 69,
+     "text": "Demetrius appointed Apollonius, governor of Coelesyria,{p} who gathered a large force and camped at Jamnia. He sent this message to Jonathan the high priest:"
+    },
+    {
+     "v": 70,
+     "text": "\"You alone are standing up against us, and I have become a laughingstock and a reproach because of you. Why do you lord it over us in the hills?"
+    },
+    {
+     "v": 71,
+     "text": "If you trust in your forces, come down to us in the plain, and let us test each other there, for I have with me the strength of the cities."
+    },
+    {
+     "v": 72,
+     "text": "Inquire and find out who I am, and who else stands with us. They will tell you that you cannot stand your ground before us, for your ancestors were twice put to flight in their own land.{q}"
+    },
+    {
+     "v": 73,
+     "text": "And now you will not be able to withstand cavalry and such a force as this in the plain, where there is no stone or pebble and no place to flee.\""
+    },
+    {
+     "v": 74,
+     "text": "When Jonathan heard Apollonius's words, he was stirred to anger. He chose out ten thousand men and marched from Jerusalem, and Simon his brother came to join him with help."
+    },
+    {
+     "v": 75,
+     "text": "He camped before Joppa, but its people shut him out, because Apollonius had a garrison in Joppa. So they attacked it,"
+    },
+    {
+     "v": 76,
+     "text": "and the people of the city, afraid, opened the gates, and Jonathan took possession of Joppa."
+    },
+    {
+     "v": 77,
+     "text": "Hearing this, Apollonius set in array three thousand horsemen and a great army and marched toward Azotus as though passing through, while at the same time he advanced into the plain, because he had a large force of cavalry and relied on it."
+    },
+    {
+     "v": 78,
+     "text": "Jonathan pursued him to Azotus, and the armies joined battle."
+    },
+    {
+     "v": 79,
+     "text": "Now Apollonius had left a thousand cavalry hidden behind them."
+    },
+    {
+     "v": 80,
+     "text": "Jonathan learned that there was an ambush behind him. The enemy encircled his army and from dawn till late in the day rained arrows on his men."
+    },
+    {
+     "v": 81,
+     "text": "But his men stood firm, as Jonathan had ordered, and the enemy's horses grew tired."
+    },
+    {
+     "v": 82,
+     "text": "Then Simon brought up his force and engaged the phalanx, for the cavalry was exhausted. The enemy were crushed by him and fled."
+    },
+    {
+     "v": 83,
+     "text": "The cavalry scattered over the plain; they fled to Azotus and went into Beth-dagon, the temple of their idol,{r} to save themselves."
+    },
+    {
+     "v": 84,
+     "text": "But Jonathan burned Azotus and the towns around it and plundered them. The temple of Dagon he burned with fire, and its sacred precinct too.{s}"
+    },
+    {
+     "v": 85,
+     "text": "Those who fell by the sword, together with those burned, numbered about eight thousand men."
+    },
+    {
+     "v": 86,
+     "text": "From there Jonathan set out and camped against Askalon, and its people came out to meet him with great honor."
+    },
+    {
+     "v": 87,
+     "text": "Then Jonathan returned to Jerusalem with his men, laden with much spoil."
+    },
+    {
+     "v": 88,
+     "text": "These reports moved King Alexander to heap further honors on Jonathan."
+    },
+    {
+     "v": 89,
+     "text": "He sent him a golden buckle, such as is customarily given to the King's Kinsmen,{t} and he gave him Ekron and all its territory as his possession."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:1",
+     "text": "Greek: in the 160th year (Seleucid era; see note on 1:10)."
+    },
+    {
+     "m": "b",
+     "ref": "10:1",
+     "text": "Alexander Balas, who claimed to be a son of Antiochus IV Epiphanes."
+    },
+    {
+     "m": "c",
+     "ref": "10:21",
+     "text": "Greek: in the seventh month of the 160th year (Seleucid era; see note on 1:10). The seventh month is Tishri (September–October)."
+    },
+    {
+     "m": "d",
+     "ref": "10:21",
+     "text": "Greek skēnopēgia, \"tent-pitching,\" the Festival of Booths (Tabernacles; Leviticus 23:33–43)."
+    },
+    {
+     "m": "e",
+     "ref": "10:29",
+     "text": "Gifts of gold crowns, originally voluntary, had become a regular tax."
+    },
+    {
+     "m": "f",
+     "ref": "10:30",
+     "text": "The three districts were Aphairema, Lydda, and Rathamin (11:34). Swete's Greek here has \"from Samaria and Galilee\"; compare v. 38, which mentions only Samaria."
+    },
+    {
+     "m": "g",
+     "ref": "10:40",
+     "text": "Greek: fifteen thousand shekels of silver, about 6,000 oz (172 kg); weight standards varied."
+    },
+    {
+     "m": "h",
+     "ref": "10:42",
+     "text": "Greek: five thousand shekels of silver, about 2,000 oz (57 kg)."
+    },
+    {
+     "m": "i",
+     "ref": "10:49",
+     "text": "Swete's Greek has \"Alexander pursued him\"; some editors, following the context and Josephus, read that Demetrius pursued Alexander's army. The translation follows Swete."
+    },
+    {
+     "m": "j",
+     "ref": "10:51",
+     "text": "Ptolemy VI Philometor (reigned 180–145 BC)."
+    },
+    {
+     "m": "k",
+     "ref": "10:57",
+     "text": "Cleopatra Thea, later married in turn to Demetrius II and Antiochus VII."
+    },
+    {
+     "m": "l",
+     "ref": "10:57",
+     "text": "Greek: in the 162nd year (Seleucid era; see note on 1:10)."
+    },
+    {
+     "m": "m",
+     "ref": "10:65",
+     "text": "Greek meridarchēs, \"ruler of a part\"; that is, governor of a district."
+    },
+    {
+     "m": "n",
+     "ref": "10:67",
+     "text": "Greek: in the 165th year (Seleucid era; see note on 1:10)."
+    },
+    {
+     "m": "o",
+     "ref": "10:67",
+     "text": "Demetrius II Nicator, son of Demetrius I."
+    },
+    {
+     "m": "p",
+     "ref": "10:69",
+     "text": "Coelesyria, \"hollow Syria,\" properly the Beqaa valley, but here used of the whole Seleucid province west of the Euphrates. Swete's Greek reads \"Demetrius appointed Apollonius who was over Coelesyria\"; some think Apollonius was Alexander's governor who went over to Demetrius."
+    },
+    {
+     "m": "q",
+     "ref": "10:72",
+     "text": "Perhaps a reference to the defeats of 1 Samuel 4 and 31."
+    },
+    {
+     "m": "r",
+     "ref": "10:83",
+     "text": "Beth-dagon, \"house of Dagon,\" the Philistine god (1 Samuel 5:1–5)."
+    },
+    {
+     "m": "s",
+     "ref": "10:84",
+     "text": "So Swete's Greek text, literally \"and its temple\"; some ancient witnesses read \"and those who had fled into it.\""
+    },
+    {
+     "m": "t",
+     "ref": "10:89",
+     "text": "\"Kinsmen\" was the highest rank of honor at the Seleucid court."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    8,
+    13,
+    20,
+    30,
+    38,
+    41,
+    45,
+    52,
+    54,
+    60,
+    63
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then the king of Egypt massed forces as countless as the sand along the seashore, along with many ships, and he schemed to seize Alexander's kingdom by trickery and annex it to his own."
+    },
+    {
+     "v": 2,
+     "text": "He set out for Syria professing peace, and the people of the towns opened their gates and came out to meet him, for King Alexander had commanded them to meet him, since he was his father-in-law."
+    },
+    {
+     "v": 3,
+     "text": "But whenever Ptolemy entered a town, he left troops behind as a garrison in it."
+    },
+    {
+     "v": 4,
+     "text": "When he drew near Azotus, they showed him the burned temple of Dagon, Azotus and its suburbs in ruins, the corpses lying about, and the charred remains of those Jonathan had burned in the battle, for they had piled them in heaps along his route."
+    },
+    {
+     "v": 5,
+     "text": "They told the king what Jonathan had done, hoping to bring blame on him, but the king kept silent."
+    },
+    {
+     "v": 6,
+     "text": "Jonathan came with ceremony to meet the king at Joppa; they exchanged greetings, and both lodged there that night."
+    },
+    {
+     "v": 7,
+     "text": "Jonathan went with the king as far as the river called Eleutherus{a} and then returned to Jerusalem."
+    },
+    {
+     "v": 8,
+     "text": "So King Ptolemy made himself master of the coastal towns as far as Seleucia by the sea,{b} all the while plotting evil against Alexander."
+    },
+    {
+     "v": 9,
+     "text": "He sent envoys to King Demetrius, saying, \"Come, let us make a pact. I will give you my daughter, who is now Alexander's wife, and you shall reign over your father's kingdom."
+    },
+    {
+     "v": 10,
+     "text": "It grieves me that I ever gave him my daughter, for he has sought my life.\""
+    },
+    {
+     "v": 11,
+     "text": "He made these charges against him because he coveted his kingdom."
+    },
+    {
+     "v": 12,
+     "text": "So he took his daughter away and gave her to Demetrius. He broke with Alexander, and their enmity came into the open."
+    },
+    {
+     "v": 13,
+     "text": "Then Ptolemy entered Antioch and put on the crown of Asia, so that he wore two crowns on his head, the crown of Egypt and that of Asia."
+    },
+    {
+     "v": 14,
+     "text": "At that time King Alexander was in Cilicia, because the people of that region were in revolt."
+    },
+    {
+     "v": 15,
+     "text": "When Alexander heard of these events, he came to make war on him. Ptolemy marched out and met him with a strong force and routed him."
+    },
+    {
+     "v": 16,
+     "text": "Alexander fled into Arabia to find shelter there, and King Ptolemy was exalted."
+    },
+    {
+     "v": 17,
+     "text": "Zabdiel the Arab{c} cut off Alexander's head and sent it to Ptolemy."
+    },
+    {
+     "v": 18,
+     "text": "Yet within three days King Ptolemy himself was dead, and the men he had posted in the strongholds were slain by those who lived there."
+    },
+    {
+     "v": 19,
+     "text": "So Demetrius became king in the year 167 (145 BC).{d}"
+    },
+    {
+     "v": 20,
+     "text": "At that time Jonathan called together the men of Judea to storm the citadel in Jerusalem, and many engines of siege were set up against it."
+    },
+    {
+     "v": 21,
+     "text": "But certain lawless men who hated their own nation went to the king and reported that Jonathan was besieging the citadel."
+    },
+    {
+     "v": 22,
+     "text": "Angered by the news, he broke camp at once and came to Ptolemais. He wrote to Jonathan to lift the siege and to come with all speed to Ptolemais to confer with him."
+    },
+    {
+     "v": 23,
+     "text": "When Jonathan heard this, he ordered the siege to continue. He chose some of the elders of Israel and some of the priests, and put himself in danger."
+    },
+    {
+     "v": 24,
+     "text": "With silver and gold, garments, and a wealth of other presents he came before the king at Ptolemais and won his goodwill."
+    },
+    {
+     "v": 25,
+     "text": "Some lawless men of his nation kept bringing complaints against him,"
+    },
+    {
+     "v": 26,
+     "text": "but the king dealt with him as the kings before him had done and raised him high in the sight of all his Friends."
+    },
+    {
+     "v": 27,
+     "text": "He confirmed him in the high priesthood and in all the other honors he had held before, and he made him one of his First Friends."
+    },
+    {
+     "v": 28,
+     "text": "Then Jonathan requested of the king that Judea, together with the three districts and Samaria,{e} be made exempt from tribute, and he promised him about eleven tons of silver.{f}"
+    },
+    {
+     "v": 29,
+     "text": "The king consented and wrote Jonathan a letter about all these matters, as follows:"
+    },
+    {
+     "v": 30,
+     "text": "\"King Demetrius to his brother Jonathan and to the nation of the Jews, greetings."
+    },
+    {
+     "v": 31,
+     "text": "We are sending you also a copy of the letter we wrote about you to Lasthenes, our Kinsman, so that you may know its contents:"
+    },
+    {
+     "v": 32,
+     "text": "'King Demetrius to Lasthenes his father,{g} greetings."
+    },
+    {
+     "v": 33,
+     "text": "Toward the nation of the Jews, our friends, who keep faith in what they owe us, we are resolved to act generously in return for their goodwill toward us."
+    },
+    {
+     "v": 34,
+     "text": "We confirm to them the territory of Judea and the three districts of Aphairema, Lydda, and Rathamin;{h} these were added to Judea from Samaria, with all the land belonging to them. To all who sacrifice in Jerusalem this is granted in place of the royal dues the king used to collect from them yearly out of the harvest of the soil and the produce of the orchards."
+    },
+    {
+     "v": 35,
+     "text": "As for our other revenues from now on, from the tithes and tolls due to us, the salt pans, and the crown levies due to us, all these we remit to them."
+    },
+    {
+     "v": 36,
+     "text": "None of these grants shall be revoked from now on for all time."
+    },
+    {
+     "v": 37,
+     "text": "See to it, then, that a copy of these terms is made and given to Jonathan, and set up on the holy mountain in a fitting and conspicuous place.'\""
+    },
+    {
+     "v": 38,
+     "text": "King Demetrius saw that the land was quiet before him and that no one opposed him, so he dismissed all his troops, each to his own home, except the foreign troops he had recruited from the islands of the nations. So all the troops who had served his fathers turned hostile to him."
+    },
+    {
+     "v": 39,
+     "text": "Now Trypho,{i} who had formerly been one of Alexander's supporters, noticed how the whole army was muttering against Demetrius. He went to Simalkue{j} the Arab, who was bringing up Antiochus, Alexander's young son,"
+    },
+    {
+     "v": 40,
+     "text": "and kept pressing him to hand the boy over, so that he might reign in his father's place. He told him all that Demetrius had done and how his troops hated him, and he stayed there many days."
+    },
+    {
+     "v": 41,
+     "text": "Meanwhile Jonathan sent to King Demetrius asking him to remove the troops of the citadel from Jerusalem and the troops in the strongholds, for they kept making war on Israel."
+    },
+    {
+     "v": 42,
+     "text": "Demetrius sent this reply to Jonathan: \"These things I will do for you and your people, and more: I will load you and your nation with honor once the moment is right."
+    },
+    {
+     "v": 43,
+     "text": "So you will act rightly if you send me men to fight at my side, for all my troops have revolted.\""
+    },
+    {
+     "v": 44,
+     "text": "So Jonathan sent three thousand stalwart men to him at Antioch. When they came to the king, he was delighted at their arrival."
+    },
+    {
+     "v": 45,
+     "text": "Then the people of the city massed in the middle of the city, about a hundred twenty thousand of them, intending to kill the king."
+    },
+    {
+     "v": 46,
+     "text": "The king took refuge in the palace, while the citizens seized the city's streets and began the fight."
+    },
+    {
+     "v": 47,
+     "text": "So the king called on the Jews for help. They all rallied to him at once, spread out through the city, and that day killed about a hundred thousand in the city."
+    },
+    {
+     "v": 48,
+     "text": "They set fire to the city, seized much plunder that day, and rescued the king."
+    },
+    {
+     "v": 49,
+     "text": "When the citizens saw that the Jews had mastered the city as they pleased, they lost heart and cried out to the king with supplication:"
+    },
+    {
+     "v": 50,
+     "text": "\"Give us your right hand in peace, and let the Jews cease their war on us and on the city.\""
+    },
+    {
+     "v": 51,
+     "text": "They threw down their weapons and made peace. The Jews gained great honor before the king and in the eyes of all in his kingdom, and they returned to Jerusalem with much plunder."
+    },
+    {
+     "v": 52,
+     "text": "So King Demetrius sat on the throne of his kingdom, and the land was quiet before him."
+    },
+    {
+     "v": 53,
+     "text": "But he broke every promise he had made. He turned against Jonathan, did not repay the kindnesses Jonathan had shown him, and treated him very harshly."
+    },
+    {
+     "v": 54,
+     "text": "Some time later Trypho came back, bringing the little boy Antiochus,{k} who took the throne and was crowned."
+    },
+    {
+     "v": 55,
+     "text": "All the troops whom Demetrius had cast off rallied to him, and they fought against Demetrius, who fled in defeat."
+    },
+    {
+     "v": 56,
+     "text": "Trypho captured the elephants and took control of Antioch."
+    },
+    {
+     "v": 57,
+     "text": "Then the young Antiochus wrote to Jonathan: \"I confirm you in the high priesthood and set you over the four districts,{l} and you shall be one of the King's Friends.\""
+    },
+    {
+     "v": 58,
+     "text": "He sent him gold plate and table service, and gave him leave to drink from golden vessels, to be clothed in purple, and to wear a golden buckle."
+    },
+    {
+     "v": 59,
+     "text": "His brother Simon he made governor from the Ladder of Tyre{m} to the borders of Egypt."
+    },
+    {
+     "v": 60,
+     "text": "Then Jonathan set out and traveled through the province Beyond the River and its towns, and the whole Syrian army flocked to him in alliance. At Askalon the townspeople came out and received him with honor."
+    },
+    {
+     "v": 61,
+     "text": "From there he went to Gaza, but the people of Gaza shut him out. So he besieged it and burned its suburbs and plundered them."
+    },
+    {
+     "v": 62,
+     "text": "Then the people of Gaza pleaded with Jonathan, and he made peace with them. He took the sons of their rulers as hostages and sent them to Jerusalem. Then he passed through the country as far as Damascus."
+    },
+    {
+     "v": 63,
+     "text": "News reached Jonathan that the generals of Demetrius were at Kedesh{n} in Galilee with a great force, aiming to oust him from his post."
+    },
+    {
+     "v": 64,
+     "text": "So he marched against them, but Simon his brother he left behind in the land."
+    },
+    {
+     "v": 65,
+     "text": "Simon camped against Beth-zur, attacked it for many days, and hemmed it in."
+    },
+    {
+     "v": 66,
+     "text": "Then they asked him for terms, and he granted them. He expelled them from there, took possession of the town, and set a garrison over it."
+    },
+    {
+     "v": 67,
+     "text": "Jonathan and his army camped by the waters of Gennesaret,{o} and early in the morning they marched to the plain of Hazor.{p}"
+    },
+    {
+     "v": 68,
+     "text": "There, in the plain, the foreign army came against him. They had hidden men in the hills to fall on him, while their main body came straight at him."
+    },
+    {
+     "v": 69,
+     "text": "Then the men in ambush rose from their places and joined battle, and all Jonathan's men fled."
+    },
+    {
+     "v": 70,
+     "text": "Not one of them was left except Mattathias son of Absalom and Judas son of Chalphi, commanders of the army."
+    },
+    {
+     "v": 71,
+     "text": "Jonathan ripped his garments, threw earth on his head, and prayed."
+    },
+    {
+     "v": 72,
+     "text": "Then he turned back to battle against the enemy, routed them, and they fled."
+    },
+    {
+     "v": 73,
+     "text": "Seeing this, the men who had fled from him came back and chased the enemy along with him as far as Kedesh, to the enemy's camp, and there they encamped."
+    },
+    {
+     "v": 74,
+     "text": "Of the foreigners about three thousand fell that day. Then Jonathan went back to Jerusalem."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:7",
+     "text": "The Eleutherus (modern Nahr el-Kebir) formed the northern border of Coelesyria."
+    },
+    {
+     "m": "b",
+     "ref": "11:8",
+     "text": "Seleucia Pieria, the port of Antioch."
+    },
+    {
+     "m": "c",
+     "ref": "11:17",
+     "text": "Josephus calls him Zabeilos. The Greek Zabdiel means \"my gift is God\" (Hebrew)."
+    },
+    {
+     "m": "d",
+     "ref": "11:19",
+     "text": "Greek: in the 167th year (Seleucid era; see note on 1:10). Demetrius II became king in 145 BC."
+    },
+    {
+     "m": "e",
+     "ref": "11:28",
+     "text": "So Swete's Greek text; compare v. 34 and 10:30, 38, where the three districts are themselves taken from Samaria."
+    },
+    {
+     "m": "f",
+     "ref": "11:28",
+     "text": "Greek: three hundred talents, about 22,500 lb (10,200 kg). Weight standards varied."
+    },
+    {
+     "m": "g",
+     "ref": "11:32",
+     "text": "\"Father\" was a court title of honor."
+    },
+    {
+     "m": "h",
+     "ref": "11:34",
+     "text": "Aphairema (Ephraim, John 11:54), Lydda (Lod, Acts 9:32), and Rathamin (perhaps Ramathaim, 1 Samuel 1:1)."
+    },
+    {
+     "m": "i",
+     "ref": "11:39",
+     "text": "Trypho, \"luxury,\" was the nickname of Diodotus, a general."
+    },
+    {
+     "m": "j",
+     "ref": "11:39",
+     "text": "So Swete's Greek text; some ancient witnesses read \"Imalkue.\""
+    },
+    {
+     "m": "k",
+     "ref": "11:54",
+     "text": "Antiochus VI Epiphanes Dionysus, about four years old."
+    },
+    {
+     "m": "l",
+     "ref": "11:57",
+     "text": "The three districts of v. 34 and perhaps the region around Akrabattene or Perea; uncertain."
+    },
+    {
+     "m": "m",
+     "ref": "11:59",
+     "text": "The Ladder of Tyre, a headland on the coast north of Ptolemais."
+    },
+    {
+     "m": "n",
+     "ref": "11:63",
+     "text": "Kedesh in Galilee, northwest of Lake Huleh (Joshua 20:7)."
+    },
+    {
+     "m": "o",
+     "ref": "11:67",
+     "text": "The Sea of Galilee."
+    },
+    {
+     "m": "p",
+     "ref": "11:67",
+     "text": "Swete's Greek reads \"Nasor,\" probably for Hazor, north of the Sea of Galilee."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    5,
+    19,
+    24,
+    35,
+    39,
+    48
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Seeing that the time was working in his favor, Jonathan chose men and sent them to Rome to confirm and renew the friendship with the Romans."
+    },
+    {
+     "v": 2,
+     "text": "To the Spartans{a} and to other places too he sent letters to the same effect."
+    },
+    {
+     "v": 3,
+     "text": "So they journeyed to Rome, entered the Senate chamber, and said, \"Jonathan the high priest and the Jewish nation have sent us to renew for them the friendship and alliance as it stood before.\""
+    },
+    {
+     "v": 4,
+     "text": "The Romans gave them letters to the authorities in each place, asking them to send the envoys on their way to the land of Judah in peace."
+    },
+    {
+     "v": 5,
+     "text": "Here is a copy of what Jonathan wrote to the Spartans:"
+    },
+    {
+     "v": 6,
+     "text": "\"Jonathan the high priest, the council of elders of the nation, the priests, and all the remaining Jewish people send greetings to the Spartans, their brothers."
+    },
+    {
+     "v": 7,
+     "text": "Long ago a letter was sent to Onias the high priest from Arius,{b} who was then king among you, stating that you are our brothers, as the attached copy shows."
+    },
+    {
+     "v": 8,
+     "text": "Onias received the envoy with honor and accepted the letter, in which alliance and friendship were plainly declared."
+    },
+    {
+     "v": 9,
+     "text": "Now we, though we stand in no need of these, since we take encouragement from the holy books in our hands,"
+    },
+    {
+     "v": 10,
+     "text": "have ventured to send envoys to renew our brotherhood and friendship, lest we grow strangers to you; for many years have passed since your message came to us."
+    },
+    {
+     "v": 11,
+     "text": "We for our part, at every season and without fail, at our festivals and on the other fitting days, remember you in the sacrifices we offer and in our prayers, as it is right and proper to remember brothers."
+    },
+    {
+     "v": 12,
+     "text": "And we rejoice in your renown."
+    },
+    {
+     "v": 13,
+     "text": "But as for us, many troubles and many wars have hemmed us in, and the kings around us have fought against us."
+    },
+    {
+     "v": 14,
+     "text": "We did not wish to trouble you, nor our other friends and allies, over these wars,"
+    },
+    {
+     "v": 15,
+     "text": "for we have the help that comes from heaven to aid us, and we have been rescued from our enemies, and our enemies have been brought low."
+    },
+    {
+     "v": 16,
+     "text": "So we have chosen Numenius son of Antiochus and Antipater son of Jason, and have sent them to the Romans to renew our former friendship and alliance with them."
+    },
+    {
+     "v": 17,
+     "text": "We have instructed them to go to you also, to greet you, and to deliver to you this letter of ours concerning the renewal of our brotherhood."
+    },
+    {
+     "v": 18,
+     "text": "And now you will do well to send us a reply to this.\""
+    },
+    {
+     "v": 19,
+     "text": "This is a copy of the letter that was sent to Onias:"
+    },
+    {
+     "v": 20,
+     "text": "\"Arius king of the Spartans to Onias the high priest, greetings."
+    },
+    {
+     "v": 21,
+     "text": "A writing has come to light about the Spartans and the Jews, showing that the two are brothers, of Abraham's stock.{c}"
+    },
+    {
+     "v": 22,
+     "text": "Now that this is known to us, you will do well to write us of how you fare."
+    },
+    {
+     "v": 23,
+     "text": "We on our side write to you that your livestock and your property are ours, and ours are yours. We therefore command that our envoys report to you accordingly.\""
+    },
+    {
+     "v": 24,
+     "text": "Now Jonathan heard that the commanders of Demetrius had come back with a larger army than before to make war on him."
+    },
+    {
+     "v": 25,
+     "text": "He marched out from Jerusalem and met them in the region of Hamath,{d} for he gave them no chance to set foot in his own country."
+    },
+    {
+     "v": 26,
+     "text": "He sent spies into their camp, who came back and reported that the enemy were drawn up to fall upon the Jews by night."
+    },
+    {
+     "v": 27,
+     "text": "So when the sun had set, Jonathan ordered his men to stay awake and under arms, ready for battle all night long, and he posted sentries around the camp."
+    },
+    {
+     "v": 28,
+     "text": "When the enemy heard that Jonathan and his men were prepared for battle, they were afraid, their hearts quailed, and they lit fires in their camp.{e}"
+    },
+    {
+     "v": 29,
+     "text": "Jonathan and his men, seeing the fires still alight, knew nothing of it till dawn."
+    },
+    {
+     "v": 30,
+     "text": "Then Jonathan gave chase, but could not catch them, since they were already across the river Eleutherus."
+    },
+    {
+     "v": 31,
+     "text": "So Jonathan turned aside against the Arabs called Zabadeans,{f} struck them down, and took their spoil."
+    },
+    {
+     "v": 32,
+     "text": "Then he broke camp, came to Damascus, and marched through all that region."
+    },
+    {
+     "v": 33,
+     "text": "Simon too set out and marched as far as Askalon and the nearby strongholds. He turned to Joppa and seized it before the enemy could,"
+    },
+    {
+     "v": 34,
+     "text": "for he had heard that its people were about to hand the stronghold over to the supporters of Demetrius. He stationed a garrison there to guard it."
+    },
+    {
+     "v": 35,
+     "text": "When Jonathan returned, he called together the elders of the people and planned with them to build strongholds in Judea,"
+    },
+    {
+     "v": 36,
+     "text": "to build the walls of Jerusalem higher, and to raise a tall wall between citadel and city, cutting the citadel off so that it would stand alone and its garrison could neither buy nor sell."
+    },
+    {
+     "v": 37,
+     "text": "So they gathered to build. Part of the wall along the ravine to the east had fallen, and he repaired the section called Chaphenatha.{g}"
+    },
+    {
+     "v": 38,
+     "text": "And Simon built Adida{h} in the Shephelah,{i} fortifying it and fitting it with gates and bars."
+    },
+    {
+     "v": 39,
+     "text": "Then Trypho sought to become king of Asia, to put on the crown, and to lay hands on King Antiochus."
+    },
+    {
+     "v": 40,
+     "text": "But he was afraid that Jonathan would not allow him and would make war on him. So he sought a way to seize and kill him, and he set out and came to Beth-shan.{j}"
+    },
+    {
+     "v": 41,
+     "text": "Jonathan went out to meet him with forty thousand picked men in battle array, and he too came to Beth-shan."
+    },
+    {
+     "v": 42,
+     "text": "When Trypho saw that Jonathan had come with a large army, he was afraid to raise a hand against him."
+    },
+    {
+     "v": 43,
+     "text": "Instead he welcomed him with honor, commended him to all his Friends, and gave him gifts. He ordered his Friends and his troops to obey Jonathan as they would himself."
+    },
+    {
+     "v": 44,
+     "text": "Then he said to Jonathan, \"Why have you put all these people to so much trouble, when there is no war between us?"
+    },
+    {
+     "v": 45,
+     "text": "Send them home now, and choose for yourself a few men to stay with you. Come with me to Ptolemais, and I will hand it over to you, along with the other strongholds, the rest of the troops, and all the officials. Then I will turn back and go home; that is why I have come.\""
+    },
+    {
+     "v": 46,
+     "text": "Jonathan trusted him and did as he said. He dismissed his troops, and they went back to the land of Judah."
+    },
+    {
+     "v": 47,
+     "text": "He kept with him three thousand men, of whom he left two thousand in Galilee, while a thousand went with him."
+    },
+    {
+     "v": 48,
+     "text": "But as soon as Jonathan entered Ptolemais, the townspeople barred the gates and took him prisoner, and every man who had come in with him they put to the sword."
+    },
+    {
+     "v": 49,
+     "text": "Trypho then sent troops and cavalry into Galilee and the Great Plain{k} to destroy all Jonathan's men."
+    },
+    {
+     "v": 50,
+     "text": "These, believing that Jonathan had been seized and had perished along with his companions, encouraged one another and marched in close order, ready for battle."
+    },
+    {
+     "v": 51,
+     "text": "Their pursuers, seeing that these men would sell their lives dearly, gave up the chase."
+    },
+    {
+     "v": 52,
+     "text": "So all of them reached the land of Judah safely. They mourned for Jonathan and those with him, and they were in great fear; all Israel mourned deeply."
+    },
+    {
+     "v": 53,
+     "text": "And all the nations around them sought to destroy them, for they said, \"They have no leader or helper. Now let us make war on them and blot out their memory from among humankind.\""
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:2",
+     "text": "The Spartans, citizens of Sparta (Lacedaemon) in southern Greece."
+    },
+    {
+     "m": "b",
+     "ref": "12:7",
+     "text": "Arius (Areus) I, king of Sparta 309–265 BC; Onias I was high priest about 320–290 BC."
+    },
+    {
+     "m": "c",
+     "ref": "12:21",
+     "text": "The tradition of kinship between Spartans and Jews is also found in 2 Maccabees 5:9 and Josephus (Antiquities 12.226)."
+    },
+    {
+     "m": "d",
+     "ref": "12:25",
+     "text": "The region around Hamath on the Orontes, in Syria."
+    },
+    {
+     "m": "e",
+     "ref": "12:28",
+     "text": "The fires were meant to make it look as if the camp was still occupied while the enemy withdrew (vv. 29–30); some ancient witnesses add \"and withdrew.\""
+    },
+    {
+     "m": "f",
+     "ref": "12:31",
+     "text": "An Arab tribe, perhaps near Zabdani northwest of Damascus."
+    },
+    {
+     "m": "g",
+     "ref": "12:37",
+     "text": "The meaning of Chaphenatha is uncertain; perhaps Aramaic for \"the double one.\""
+    },
+    {
+     "m": "h",
+     "ref": "12:38",
+     "text": "Adida, Hebrew Hadid (Ezra 2:33), near Lydda."
+    },
+    {
+     "m": "i",
+     "ref": "12:38",
+     "text": "The Shephelah, \"lowland,\" the foothills between the Judean hills and the coastal plain."
+    },
+    {
+     "m": "j",
+     "ref": "12:40",
+     "text": "Greek: Bethsan, Hebrew Beth-shan, \"house of quiet\" (Greek name Scythopolis)."
+    },
+    {
+     "m": "k",
+     "ref": "12:49",
+     "text": "The Great Plain, the plain of Jezreel (Esdraelon)."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1,
+    12,
+    20,
+    25,
+    31,
+    36,
+    41,
+    43,
+    49
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Simon heard that Trypho had raised a large army to invade the land of Judah and lay it waste."
+    },
+    {
+     "v": 2,
+     "text": "He saw that the people were trembling with fear, so he went up to Jerusalem and gathered them together."
+    },
+    {
+     "v": 3,
+     "text": "He encouraged them, saying, \"You yourselves know what great things I and my brothers and my father's house have done for the laws and the sanctuary, and what wars and hardships we have seen."
+    },
+    {
+     "v": 4,
+     "text": "For this cause all my brothers have perished for Israel's sake, and I alone am left."
+    },
+    {
+     "v": 5,
+     "text": "And now, far be it from me to spare my own life in any time of distress, for I am no better than my brothers."
+    },
+    {
+     "v": 6,
+     "text": "Rather I will avenge my nation and the sanctuary and our wives and children, for all the nations have gathered out of hatred to crush us.\""
+    },
+    {
+     "v": 7,
+     "text": "Hearing these words, the people took fresh heart,"
+    },
+    {
+     "v": 8,
+     "text": "and they answered with a loud shout, \"You are our leader in place of Judas and Jonathan your brother."
+    },
+    {
+     "v": 9,
+     "text": "Fight our battles, and whatever you tell us, we will do.\""
+    },
+    {
+     "v": 10,
+     "text": "So he assembled all the fighting men and hurried to finish the walls of Jerusalem, and he fortified it on every side."
+    },
+    {
+     "v": 11,
+     "text": "He sent Jonathan son of Absalom to Joppa with a sizable force; he drove out its inhabitants and remained there."
+    },
+    {
+     "v": 12,
+     "text": "Then Trypho marched out of Ptolemais at the head of a great force to enter Judah's land, and Jonathan was with him as a prisoner."
+    },
+    {
+     "v": 13,
+     "text": "Simon encamped at Adida, facing the plain."
+    },
+    {
+     "v": 14,
+     "text": "When Trypho learned that Simon had risen up in place of his brother Jonathan and meant to join battle with him, he sent envoys to him with this message:"
+    },
+    {
+     "v": 15,
+     "text": "\"We are holding your brother Jonathan because of silver he owed to the king's treasury for the posts he had."
+    },
+    {
+     "v": 16,
+     "text": "Send now about four tons of silver{a} and two of his sons as hostages, so that when he is released he will not revolt against us, and we will release him.\""
+    },
+    {
+     "v": 17,
+     "text": "Simon knew that they were speaking to him deceitfully, but he sent for the money and the boys, lest he bring great hostility on himself from the people,"
+    },
+    {
+     "v": 18,
+     "text": "lest they say, \"Jonathan died because Simon would not send the silver and the boys.\""
+    },
+    {
+     "v": 19,
+     "text": "So he sent the boys and the silver, but Trypho broke his word and did not release Jonathan."
+    },
+    {
+     "v": 20,
+     "text": "After this Trypho came to invade the country and destroy it. He went around by the road to Adora,{b} but Simon and his army kept pace with him wherever he went."
+    },
+    {
+     "v": 21,
+     "text": "The citadel garrison, for their part, sent messenger after messenger to Trypho, pressing him to reach them through the wilderness and get food to them."
+    },
+    {
+     "v": 22,
+     "text": "So Trypho made ready all his cavalry to go, but that night there was a very heavy snowfall, and because of the snow he did not go. He set out and went into Gilead."
+    },
+    {
+     "v": 23,
+     "text": "When he drew near Baskama,{c} he killed Jonathan, and he was buried there."
+    },
+    {
+     "v": 24,
+     "text": "Then Trypho turned back and went to his own land."
+    },
+    {
+     "v": 25,
+     "text": "Simon sent and recovered the bones of his brother Jonathan and buried him at Modein, the town of his ancestors."
+    },
+    {
+     "v": 26,
+     "text": "All Israel lamented him with great lamentation and mourned for him many days."
+    },
+    {
+     "v": 27,
+     "text": "Over the tomb of his father and his brothers Simon built a monument, high enough to be seen, with polished stone at back and front."
+    },
+    {
+     "v": 28,
+     "text": "He erected seven pyramids, one opposite another, for his father and mother and four brothers."
+    },
+    {
+     "v": 29,
+     "text": "For the pyramids he devised an elaborate setting: he set great columns around them, and on the columns he placed suits of armor as an everlasting memorial, and beside the armor carved ships, so that they could be seen by all who sail the sea."
+    },
+    {
+     "v": 30,
+     "text": "This tomb that he built at Modein remains to this day."
+    },
+    {
+     "v": 31,
+     "text": "Trypho dealt treacherously with the young King Antiochus; he killed him"
+    },
+    {
+     "v": 32,
+     "text": "and reigned in his place. He put on the crown of Asia and brought great disaster on the land."
+    },
+    {
+     "v": 33,
+     "text": "But Simon built up the strongholds of Judea, girding them with high towers and great walls, with gates and bars, and he stored food in the strongholds."
+    },
+    {
+     "v": 34,
+     "text": "Simon also chose men and sent them to King Demetrius, asking him to grant the land relief, for all that Trypho did was plunder."
+    },
+    {
+     "v": 35,
+     "text": "King Demetrius answered him in line with this request, writing him the following letter:"
+    },
+    {
+     "v": 36,
+     "text": "\"King Demetrius to Simon, high priest and Friend of kings, and to the elders and nation of the Jews, greetings."
+    },
+    {
+     "v": 37,
+     "text": "The golden crown has reached us, and the palm branch{d} you sent, and we stand ready to make a lasting peace with you and to write to our officials to grant you exemptions."
+    },
+    {
+     "v": 38,
+     "text": "All the agreements we have made with you stand, and the strongholds that you have built shall be yours."
+    },
+    {
+     "v": 39,
+     "text": "We pardon any errors and offenses committed up to this day, and we cancel the crown tax that you owed; and whatever other tax was collected in Jerusalem shall be collected no longer."
+    },
+    {
+     "v": 40,
+     "text": "If any of you are fit to be enrolled in our bodyguard, let them be enrolled, and let there be peace between us.\""
+    },
+    {
+     "v": 41,
+     "text": "In the year 170 (142 BC){e} the yoke of the Gentiles was lifted from Israel,"
+    },
+    {
+     "v": 42,
+     "text": "and the people began to write in their documents and contracts, \"In the first year of Simon, great high priest, commander and leader of the Jews.\""
+    },
+    {
+     "v": 43,
+     "text": "In those days Simon{f} camped against Gaza{g} and surrounded it with troops. He built a siege tower, brought it up to the city, battered one of the towers, and captured it."
+    },
+    {
+     "v": 44,
+     "text": "The men in the siege tower leaped out into the city, and a great uproar arose in the city."
+    },
+    {
+     "v": 45,
+     "text": "The townspeople, wives and children with them, climbed onto the wall, rending their garments, and shouted aloud, begging Simon to make peace with them."
+    },
+    {
+     "v": 46,
+     "text": "\"Do not treat us as our wicked deeds deserve,\" they said, \"but as your mercy allows.\""
+    },
+    {
+     "v": 47,
+     "text": "So Simon came to terms with them and did not fight them. But he expelled them from the city and cleansed the houses in which there were idols, and then he entered it with hymns and praise."
+    },
+    {
+     "v": 48,
+     "text": "He cast out all uncleanness from it and settled in it men who observe the law. He strengthened its fortifications and built a residence there for himself."
+    },
+    {
+     "v": 49,
+     "text": "The garrison of the citadel in Jerusalem, cut off from going out to the countryside to buy and sell, suffered severe hunger, and many of them died of starvation."
+    },
+    {
+     "v": 50,
+     "text": "They called out to Simon for terms of peace, and he granted them. He expelled them from there and cleansed the citadel from its pollutions."
+    },
+    {
+     "v": 51,
+     "text": "On the twenty-third day of the second month (in April–May) in the year 171 (141 BC),{h} the Jews entered it with praise and palm branches, with lyres and cymbals and harps, with hymns and songs, because a great enemy had been crushed and removed from Israel."
+    },
+    {
+     "v": 52,
+     "text": "He made it a law that this day be kept with gladness year by year. The temple mount beside the citadel he made still stronger, and there he made his home, he and his men."
+    },
+    {
+     "v": 53,
+     "text": "Seeing that his son John{i} had reached manhood, Simon made him commander of all the forces, and he lived at Gazara."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:16",
+     "text": "Greek: one hundred talents, about 7,500 lb (3,400 kg). Weight standards varied."
+    },
+    {
+     "m": "b",
+     "ref": "13:20",
+     "text": "Adora (Adoraim, 2 Chronicles 11:9), southwest of Hebron."
+    },
+    {
+     "m": "c",
+     "ref": "13:23",
+     "text": "Location unknown; probably northeast of the Sea of Galilee."
+    },
+    {
+     "m": "d",
+     "ref": "13:37",
+     "text": "Greek baïn, a palm branch, perhaps of gold, given as a token of homage."
+    },
+    {
+     "m": "e",
+     "ref": "13:41",
+     "text": "Greek: in the 170th year (Seleucid era; see note on 1:10)."
+    },
+    {
+     "m": "f",
+     "ref": "13:43",
+     "text": "Greek: he; Simon is meant."
+    },
+    {
+     "m": "g",
+     "ref": "13:43",
+     "text": "So Swete's Greek text; many editors read Gazara (Gezer), following v. 53, 14:7, and Josephus, since Gaza lay outside Simon's territory."
+    },
+    {
+     "m": "h",
+     "ref": "13:51",
+     "text": "Greek: the twenty-third of the second month of the 171st year (Seleucid era; see note on 1:10). The second month is Iyyar (April–May)."
+    },
+    {
+     "m": "i",
+     "ref": "13:53",
+     "text": "John Hyrcanus, ruler of Judea 134–104 BC."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    4,
+    16,
+    20,
+    24,
+    25,
+    27,
+    48
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the year 172 (140 BC){a} King Demetrius assembled his forces and marched into Media to gain reinforcements for his war against Trypho."
+    },
+    {
+     "v": 2,
+     "text": "When Arsaces,{b} king of Persia and Media, heard that Demetrius had entered his territory, he sent one of his commanders to take him alive."
+    },
+    {
+     "v": 3,
+     "text": "The commander went, defeated the army of Demetrius, seized him, and brought him to Arsaces, who put him under guard."
+    },
+    {
+     "v": 4,
+     "text": "The land was at rest all the days of Simon.\nHe sought the good of his nation;\nhis rule and his glory pleased them all his days."
+    },
+    {
+     "v": 5,
+     "text": "Crowning all his honors, he took Joppa for a harbor\nand opened a way to the islands of the sea."
+    },
+    {
+     "v": 6,
+     "text": "He enlarged the frontiers of his people\nand held the land firmly in his grip."
+    },
+    {
+     "v": 7,
+     "text": "He gathered in a host of captives;\nhe became master of Gazara, Beth-zur, and the citadel,\nand removed its uncleanness from it,\nand there was none to withstand him."
+    },
+    {
+     "v": 8,
+     "text": "In peace they worked their fields;\nthe soil yielded its harvest,\nand the orchards of the plain bore fruit."
+    },
+    {
+     "v": 9,
+     "text": "Old men sat in the streets,\nall talking together of good things,\nand the young men put on splendid garments and the dress of war."
+    },
+    {
+     "v": 10,
+     "text": "He supplied the towns with food\nand furnished them with means of defense,\nuntil the fame of his glory was spoken of to the ends of the earth."
+    },
+    {
+     "v": 11,
+     "text": "He established peace in the land,\nand Israel rejoiced with great joy."
+    },
+    {
+     "v": 12,
+     "text": "Each sat under his own vine and his own fig tree,{c}\nand there was none to make them afraid."
+    },
+    {
+     "v": 13,
+     "text": "None remained in the land to wage war on them;\nin those days kings were broken."
+    },
+    {
+     "v": 14,
+     "text": "He gave strength to all the lowly of his people;\nhe searched out the law\nand did away with every lawless and wicked person."
+    },
+    {
+     "v": 15,
+     "text": "He brought splendor to the holy place\nand increased its sacred furnishings."
+    },
+    {
+     "v": 16,
+     "text": "News of Jonathan's death reached Rome and even Sparta, and there was deep sorrow."
+    },
+    {
+     "v": 17,
+     "text": "But once they learned that Simon his brother had taken his place as high priest and was ruling over the country and the towns in it,"
+    },
+    {
+     "v": 18,
+     "text": "they wrote to him on bronze tablets to renew with him the friendship and alliance they had established with his brothers Judas and Jonathan."
+    },
+    {
+     "v": 19,
+     "text": "And these were read before the assembly in Jerusalem."
+    },
+    {
+     "v": 20,
+     "text": "This is a copy of the letter that the Spartans sent:\n\"The rulers and the city of the Spartans to Simon the high priest, and to the elders, the priests, and the rest of the Jewish people, our brothers, greetings."
+    },
+    {
+     "v": 21,
+     "text": "The envoys sent to our people have told us of your glory and honor, and we were glad at their coming."
+    },
+    {
+     "v": 22,
+     "text": "Their report we have entered among the people's resolutions, in these words: 'Numenius son of Antiochus and Antipater son of Jason, Jewish envoys, have come before us to renew their friendship with us."
+    },
+    {
+     "v": 23,
+     "text": "Our people resolved to welcome these men with honor and to lay up a copy of their words in the public records, as a memorial for the Spartan people.' And they have written a copy of this to Simon the high priest.\""
+    },
+    {
+     "v": 24,
+     "text": "After this Simon sent Numenius to Rome with a great golden shield weighing about 1,250 pounds,{d} to confirm the alliance with the Romans."
+    },
+    {
+     "v": 25,
+     "text": "Hearing of these events, the people asked, \"What thanks can we give to Simon and his sons?"
+    },
+    {
+     "v": 26,
+     "text": "For he and his brothers and his father's house have stood firm; they have fought and driven off Israel's enemies and secured its freedom.\" So they inscribed this on bronze tablets and set them on a pillar on Mount Zion."
+    },
+    {
+     "v": 27,
+     "text": "This is a copy of the inscription:\n\"On the eighteenth day of Elul (in August–September) in the year 172 (140 BC),{e} which is the third year of Simon the great high priest,"
+    },
+    {
+     "v": 28,
+     "text": "at Asaramel,{f} in the great assembly of the priests and the people, the nation's rulers, and the elders of the land, this was made known to us:"
+    },
+    {
+     "v": 29,
+     "text": "'Since wars have often arisen in the country, Simon son of Mattathias, a priest of the line of Joarib,{g} together with his brothers, put themselves in peril and stood against their nation's foes, to keep their sanctuary and the law standing; and they won high renown for their people."
+    },
+    {
+     "v": 30,
+     "text": "Jonathan rallied the nation and became their high priest, and then he was gathered to his people."
+    },
+    {
+     "v": 31,
+     "text": "When their enemies resolved to invade their country and lay it waste, and to lay hands on their sanctuary,"
+    },
+    {
+     "v": 32,
+     "text": "then Simon rose up and fought for his nation. He spent much of his own wealth; he armed the soldiers of his nation and paid their wages."
+    },
+    {
+     "v": 33,
+     "text": "Judea's towns he fortified, and Beth-zur too, on Judea's frontier, which had once been the enemy's arsenal, and there he posted Jews as a garrison."
+    },
+    {
+     "v": 34,
+     "text": "He fortified Joppa by the sea, and Gazara on the borders of Azotus, where the enemy had formerly lived. There he planted Jewish settlers and furnished the towns with all they required for their rebuilding."
+    },
+    {
+     "v": 35,
+     "text": "The people saw how faithful Simon was and what glory he meant to bring his nation, and they chose him as their leader and high priest for all that he had done, and for the uprightness and good faith he had kept toward his people. He sought in every way to exalt his people."
+    },
+    {
+     "v": 36,
+     "text": "In his days things prospered in his hands, so that the Gentiles were driven out of the country, and likewise the men in the City of David at Jerusalem, who had made a citadel for themselves and would go out from it to pollute the area around the sanctuary, doing great damage to its purity."
+    },
+    {
+     "v": 37,
+     "text": "He settled Jews in it and fortified it for the safety of the country and of the city, and he raised the walls of Jerusalem higher."
+    },
+    {
+     "v": 38,
+     "text": "For these reasons King Demetrius confirmed his high priesthood,"
+    },
+    {
+     "v": 39,
+     "text": "made him one of his Friends, and paid him high honors."
+    },
+    {
+     "v": 40,
+     "text": "For he had heard that the Jews were addressed by the Romans as friends, allies, and brothers, and that the Romans had received Simon's envoys with honor."
+    },
+    {
+     "v": 41,
+     "text": "The Jews and the priests have been pleased to have Simon as their leader and high priest for all time, till a prophet worthy of trust should appear,{h}"
+    },
+    {
+     "v": 42,
+     "text": "and that he should be commander over them and take charge of the sanctuary, appointing officials over its tasks and over the country, the weapons, and the strongholds;"
+    },
+    {
+     "v": 43,
+     "text": "that he should take charge of the sanctuary, and be obeyed by all; that all contracts in the country should be written in his name; and that he should be clothed in purple and wear gold."
+    },
+    {
+     "v": 44,
+     "text": "None of the people or the priests shall be permitted to nullify any of these decisions, or to contradict what he says, or to convene an assembly in the country without him, or to be clothed in purple or wear a gold buckle."
+    },
+    {
+     "v": 45,
+     "text": "Anyone who goes against these terms or sets any of them aside shall be held guilty.'"
+    },
+    {
+     "v": 46,
+     "text": "The whole people consented to let Simon act on these terms."
+    },
+    {
+     "v": 47,
+     "text": "So Simon accepted, and agreed to serve as high priest and as general and ethnarch{i} of the Jews and the priests, and to stand at the head of all.\""
+    },
+    {
+     "v": 48,
+     "text": "They gave orders that this inscription be placed on bronze tablets and set up in the precincts of the sanctuary in a prominent place,"
+    },
+    {
+     "v": 49,
+     "text": "and that copies of it be deposited in the treasury, so that Simon and his sons might have them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:1",
+     "text": "Greek: in the 172nd year (Seleucid era; see note on 1:10)."
+    },
+    {
+     "m": "b",
+     "ref": "14:2",
+     "text": "Arsaces, the royal title of the Parthian kings; here Mithradates I (about 171–138 BC)."
+    },
+    {
+     "m": "c",
+     "ref": "14:12",
+     "text": "Compare Micah 4:4 and 1 Kings 4:25."
+    },
+    {
+     "m": "d",
+     "ref": "14:24",
+     "text": "Greek: a thousand minas, about 1,250 lb (570 kg); the mina was one sixtieth of a talent, and standards varied."
+    },
+    {
+     "m": "e",
+     "ref": "14:27",
+     "text": "Greek: the eighteenth of Elul, of the 172nd year (Seleucid era; see note on 1:10). Elul is the sixth month (August–September)."
+    },
+    {
+     "m": "f",
+     "ref": "14:28",
+     "text": "So Swete's Greek text (Saramel in some ancient witnesses). The meaning is uncertain; perhaps Hebrew for \"court of the people of God,\" or a title, \"prince of the people of God.\""
+    },
+    {
+     "m": "g",
+     "ref": "14:29",
+     "text": "Joarib (Jehoiarib), the first of the priestly divisions (1 Chronicles 24:7)."
+    },
+    {
+     "m": "h",
+     "ref": "14:41",
+     "text": "Compare 4:46."
+    },
+    {
+     "m": "i",
+     "ref": "14:47",
+     "text": "Ethnarch, \"ruler of the nation.\""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1,
+    10,
+    15,
+    22,
+    25,
+    32,
+    37
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Antiochus son of King Demetrius{a} sent a letter from the islands of the sea to Simon, priest and ethnarch of the Jews, and to the whole nation."
+    },
+    {
+     "v": 2,
+     "text": "Its contents were as follows:\n\"King Antiochus to Simon the great priest and ethnarch, and to the nation of the Jews, greetings."
+    },
+    {
+     "v": 3,
+     "text": "Whereas certain pestilent men have made themselves masters of my fathers' kingdom, and it is my purpose to reclaim that kingdom and set it back as it once stood, I have recruited a host of troops and fitted out warships."
+    },
+    {
+     "v": 4,
+     "text": "I mean to land in the country so that I may go after those who have ruined our country and laid waste many towns in my kingdom."
+    },
+    {
+     "v": 5,
+     "text": "Now therefore I confirm to you all the tax remissions that the kings before me granted you, and whatever other exemptions they gave you."
+    },
+    {
+     "v": 6,
+     "text": "You may strike coins of your own, to be the currency of your land.{b}"
+    },
+    {
+     "v": 7,
+     "text": "Jerusalem and the sanctuary shall be free. All the weapons you have made and the strongholds you have built and now hold shall remain yours."
+    },
+    {
+     "v": 8,
+     "text": "Every debt you owe to the royal treasury, and any royal dues that may arise hereafter, are canceled for you from now on and for all time."
+    },
+    {
+     "v": 9,
+     "text": "And when we have regained our kingdom, we will bestow great honor on you, your nation, and the temple, so that your glory will be made plain in all the earth.\""
+    },
+    {
+     "v": 10,
+     "text": "In the year 174 (138 BC){c} Antiochus marched into the land of his ancestors. The troops came over to him in a body, until only a few remained on Trypho's side."
+    },
+    {
+     "v": 11,
+     "text": "With King Antiochus in pursuit, Trypho fled and reached Dor{d} on the seacoast;"
+    },
+    {
+     "v": 12,
+     "text": "for he knew that troubles had piled up against him and that his troops had deserted him."
+    },
+    {
+     "v": 13,
+     "text": "Antiochus pitched camp against Dor with a hundred twenty thousand fighting men and eight thousand horsemen."
+    },
+    {
+     "v": 14,
+     "text": "He encircled the town, and the ships closed in from the sea. So he pressed the town hard by land and sea and let no one go out or come in."
+    },
+    {
+     "v": 15,
+     "text": "Then Numenius and his companions arrived from Rome, bringing letters to the kings and countries, in which was written the following:"
+    },
+    {
+     "v": 16,
+     "text": "\"Lucius,{e} consul of the Romans, to King Ptolemy,{f} greetings."
+    },
+    {
+     "v": 17,
+     "text": "The envoys of the Jews have come to us as our friends and allies to renew the old friendship and alliance. They were sent by Simon the high priest and by the Jewish people,"
+    },
+    {
+     "v": 18,
+     "text": "and they have brought a gold shield weighing about 6,250 pounds.{g}"
+    },
+    {
+     "v": 19,
+     "text": "We have therefore resolved to write to the kings and countries that they should not seek to harm them, nor make war on them or their towns or their country, nor give help to any who fight against them."
+    },
+    {
+     "v": 20,
+     "text": "It is our decision to receive the shield at their hands."
+    },
+    {
+     "v": 21,
+     "text": "If, then, any pestilent men have escaped from their land and taken refuge with you, deliver them up to Simon the high priest, so that he may punish them according to their law.\""
+    },
+    {
+     "v": 22,
+     "text": "Letters to the same effect went to King Demetrius,{h} to Attalus,{i} Ariarathes,{j} and Arsaces,"
+    },
+    {
+     "v": 23,
+     "text": "and to all the countries: to Sampsames,{k} to the Spartans, and to Delos, Myndos, Sicyon, Caria, Samos, Pamphylia, Lycia, Halicarnassus, Cos, Side, Arados, Rhodes, Phaselis, Gortyn, Cnidus, Cyprus, and Cyrene.{l}"
+    },
+    {
+     "v": 24,
+     "text": "And a copy of the whole was written out for Simon the high priest."
+    },
+    {
+     "v": 25,
+     "text": "King Antiochus besieged Dor in its outskirts,{m} continually throwing his forces against it and building siege engines; and he shut Trypho in, so that no one could go out or in."
+    },
+    {
+     "v": 26,
+     "text": "Simon sent him two thousand picked men to fight on his side, along with silver and gold and a good deal of equipment."
+    },
+    {
+     "v": 27,
+     "text": "But Antiochus would not accept them. He broke every agreement he had made with Simon before and turned against him."
+    },
+    {
+     "v": 28,
+     "text": "He sent Athenobius, one of his Friends, to confer with him, saying, \"You hold Joppa and Gazara and the citadel in Jerusalem, which are towns of my kingdom."
+    },
+    {
+     "v": 29,
+     "text": "You have laid waste their territory, done great harm to the land, and made yourselves masters of many places in my kingdom."
+    },
+    {
+     "v": 30,
+     "text": "Now then, hand over the towns you have seized, and the tribute of the places you have taken outside the borders of Judea;"
+    },
+    {
+     "v": 31,
+     "text": "or else give me in their place about nineteen tons of silver,{n} and for the destruction you have caused and for the tribute of the towns, another nineteen tons. Otherwise we will come and make war on you.\""
+    },
+    {
+     "v": 32,
+     "text": "So Athenobius, the king's Friend, came to Jerusalem. When he saw the splendor of Simon, his sideboard laden with gold and silver vessels, and his great retinue, he was astounded. He gave him the king's message."
+    },
+    {
+     "v": 33,
+     "text": "Simon answered him, \"We have neither taken foreign land nor seized anything that belongs to others, but only the inheritance of our ancestors, which our enemies at one time unjustly took."
+    },
+    {
+     "v": 34,
+     "text": "Now that we have the opportunity, we are holding firmly to the inheritance of our ancestors."
+    },
+    {
+     "v": 35,
+     "text": "As for Joppa and Gazara, which you demand, those towns were doing great harm among our people and in our land; for them we will give about four tons of silver.\"{o} Athenobius did not answer him a word,"
+    },
+    {
+     "v": 36,
+     "text": "but returned in a rage to the king and reported to him these words, the splendor of Simon, and all he had seen. And the king was furious."
+    },
+    {
+     "v": 37,
+     "text": "Meanwhile Trypho boarded a ship and fled to Orthosia.{p}"
+    },
+    {
+     "v": 38,
+     "text": "Then the king made Cendebeus commander-in-chief of the coastal region and gave him troops of infantry and cavalry."
+    },
+    {
+     "v": 39,
+     "text": "He ordered him to encamp facing Judea, to rebuild Kedron{q} and strengthen the towns,{r} and to wage war on the people, while the king pursued Trypho."
+    },
+    {
+     "v": 40,
+     "text": "So Cendebeus came to Jamnia and began to provoke the people, invading Judea, taking the people captive, and killing them."
+    },
+    {
+     "v": 41,
+     "text": "At Kedron, which he rebuilt, he posted cavalry and troops to sally out and patrol the roads of Judea, as the king had ordered him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:1",
+     "text": "Antiochus VII Sidetes (reigned 138–129 BC), younger brother of Demetrius II."
+    },
+    {
+     "m": "b",
+     "ref": "15:6",
+     "text": "No coins of Simon are known; the first Hasmonean coins were struck later, perhaps under John Hyrcanus."
+    },
+    {
+     "m": "c",
+     "ref": "15:10",
+     "text": "Greek: in the 174th year (Seleucid era; see note on 1:10)."
+    },
+    {
+     "m": "d",
+     "ref": "15:11",
+     "text": "Dor, a coastal town south of Mount Carmel."
+    },
+    {
+     "m": "e",
+     "ref": "15:16",
+     "text": "Perhaps Lucius Caecilius Metellus, consul in 142 BC, or Lucius Calpurnius Piso, consul in 139 BC; uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "15:16",
+     "text": "Ptolemy VIII Euergetes II of Egypt."
+    },
+    {
+     "m": "g",
+     "ref": "15:18",
+     "text": "Greek: five thousand minas, about 6,250 lb (2,850 kg); compare 14:24, which gives a thousand minas."
+    },
+    {
+     "m": "h",
+     "ref": "15:22",
+     "text": "Demetrius II, then a captive in Parthia (14:3)."
+    },
+    {
+     "m": "i",
+     "ref": "15:22",
+     "text": "Attalus II of Pergamum."
+    },
+    {
+     "m": "j",
+     "ref": "15:22",
+     "text": "Ariarathes V of Cappadocia."
+    },
+    {
+     "m": "k",
+     "ref": "15:23",
+     "text": "Sampsames, perhaps Samsun on the Black Sea; uncertain."
+    },
+    {
+     "m": "l",
+     "ref": "15:23",
+     "text": "Cities and regions of Greece, Asia Minor, the islands, and North Africa."
+    },
+    {
+     "m": "m",
+     "ref": "15:25",
+     "text": "Greek: in the second; the meaning is uncertain. It may mean \"on the second day\" or \"a second time.\""
+    },
+    {
+     "m": "n",
+     "ref": "15:31",
+     "text": "Greek: five hundred talents of silver, about 37,500 lb (17,000 kg); likewise in the next clause. Weight standards varied."
+    },
+    {
+     "m": "o",
+     "ref": "15:35",
+     "text": "Greek: one hundred talents, about 7,500 lb (3,400 kg)."
+    },
+    {
+     "m": "p",
+     "ref": "15:37",
+     "text": "Orthosia, a port on the Phoenician coast north of Tripolis."
+    },
+    {
+     "m": "q",
+     "ref": "15:39",
+     "text": "Kedron, probably modern Qatra, near Jamnia."
+    },
+    {
+     "m": "r",
+     "ref": "15:39",
+     "text": "So Swete's Greek text; some ancient witnesses read \"its gates.\""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paras": [
+    1,
+    11,
+    18,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Coming up from Gazara, John reported to Simon his father all that Cendebeus was about."
+    },
+    {
+     "v": 2,
+     "text": "Simon summoned his two eldest sons, Judas and John, and said to them, \"From our youth until this day, I and my brothers and my father's house have fought Israel's wars, and time and again we have succeeded in rescuing Israel."
+    },
+    {
+     "v": 3,
+     "text": "But now I have grown old, while you, by Heaven's mercy, are of full age. Stand in my place and my brother's; march out and do battle on behalf of our people, and may aid from heaven go with you.\""
+    },
+    {
+     "v": 4,
+     "text": "So John chose from the country twenty thousand fighting men and horsemen, and they marched against Cendebeus and spent the night at Modein."
+    },
+    {
+     "v": 5,
+     "text": "Rising early, they advanced into the plain, where a great host of foot and horse came marching against them, with a stream between the two armies."
+    },
+    {
+     "v": 6,
+     "text": "John and his men took up position facing the enemy. Seeing that his men were afraid to cross the stream, he crossed over first; and when the men saw him, they crossed after him."
+    },
+    {
+     "v": 7,
+     "text": "He divided his army, placing the horsemen in the midst of the foot soldiers, for the enemy's cavalry was very numerous."
+    },
+    {
+     "v": 8,
+     "text": "They sounded the trumpets, and Cendebeus and his army were put to flight. Many of them fell wounded, and the rest fled to the stronghold."
+    },
+    {
+     "v": 9,
+     "text": "It was then that John's brother Judas was wounded; but John pursued the enemy until he came to Kedron, which Cendebeus had built."
+    },
+    {
+     "v": 10,
+     "text": "They fled to the towers in the fields of Azotus, and John burned it{a} with fire. About a thousand of them fell, and he returned to Judea in safety."
+    },
+    {
+     "v": 11,
+     "text": "Now Ptolemy son of Abubus had been appointed governor over the plain of Jericho, and he had a great deal of silver and gold,"
+    },
+    {
+     "v": 12,
+     "text": "for he was the high priest's son-in-law."
+    },
+    {
+     "v": 13,
+     "text": "His heart grew proud, and he resolved to make himself master of the country; so he plotted treachery against Simon and his sons, to do away with them."
+    },
+    {
+     "v": 14,
+     "text": "Simon was making a tour of the towns of the country, attending to their needs. He went down to Jericho with his sons Mattathias and Judas in the year 177 (134 BC), in the eleventh month (in January–February), which is the month of Shebat.{b}"
+    },
+    {
+     "v": 15,
+     "text": "The son of Abubus received them with guile in the small fort he had built, named Dok.{c} There he held a great drinking feast for them, having hidden men in the place."
+    },
+    {
+     "v": 16,
+     "text": "When Simon and his sons were drunk, Ptolemy and his men rose up, took their weapons, rushed in upon Simon in the banquet hall, and killed him, his two sons, and some of his servants."
+    },
+    {
+     "v": 17,
+     "text": "So he committed a great act of treachery and repaid good with evil."
+    },
+    {
+     "v": 18,
+     "text": "Then Ptolemy put these things in writing and dispatched it to the king, urging him to send forces to his support and to hand over to him their country and towns."
+    },
+    {
+     "v": 19,
+     "text": "He sent other men to Gazara to do away with John, and he sent letters to the officers of the thousands, inviting them to come to him so that he might give them silver, gold, and gifts."
+    },
+    {
+     "v": 20,
+     "text": "Still others he sent to take possession of Jerusalem and the temple hill."
+    },
+    {
+     "v": 21,
+     "text": "But a messenger outran them and told John at Gazara that his father and brothers were dead, and said, \"He has sent men to kill you too.\""
+    },
+    {
+     "v": 22,
+     "text": "At this news John was greatly shaken. He seized the men who came to destroy him and killed them, for he had learned that they were seeking to destroy him."
+    },
+    {
+     "v": 23,
+     "text": "The rest of the acts of John, his wars and the brave deeds he did, the building of the walls that he built, and his other achievements,"
+    },
+    {
+     "v": 24,
+     "text": "are written in the annals of his high priesthood, from the time he became high priest after his father.{d}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:10",
+     "text": "\"It\" probably refers to Azotus; some take it to mean the town of Kedron. Swete's Greek reads \"about a thousand\" of the enemy fell; some ancient witnesses read \"two thousand.\""
+    },
+    {
+     "m": "b",
+     "ref": "16:14",
+     "text": "Greek: in the 177th year, in the eleventh month, which is the month of Shebat (Seleucid era; see note on 1:10). Shebat (Shevat) is January–February."
+    },
+    {
+     "m": "c",
+     "ref": "16:15",
+     "text": "Dok, a small fortress on a hill above Jericho."
+    },
+    {
+     "m": "d",
+     "ref": "16:24",
+     "text": "John Hyrcanus ruled 134–104 BC. No such annals are known to survive."
+    }
+   ]
+  }
+ ]
+}

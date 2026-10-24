@@ -1038,7 +1038,7 @@
    "id": "ezekiel",
    "name": "Ezekiel",
    "division": "Old Testament",
-   "chapterCount": "48",
+   "chapterCount": 48,
    "translated": [
     1,
     2,
@@ -1406,9 +1406,26 @@
    "id": "1-maccabees",
    "name": "1 Maccabees",
    "division": "Apocrypha",
-   "chapterCount": "16",
-   "translated": [],
-   "file": null
+   "chapterCount": 16,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "file": "data/books/1-maccabees.json"
   },
   {
    "id": "2-maccabees",
