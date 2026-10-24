@@ -1,0 +1,121 @@
+{
+ "id": "prayer-of-manasseh",
+ "name": "Prayer of Manasseh",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of the Prayer of Manasseh as printed by H. B. Swete (The Old Testament in Greek according to the Septuagint, 1887–1894) among the Odes, the collection of biblical and other hymns appended to the Psalms. Swete’s text of the Odes follows Codex Alexandrinus (5th century), where the prayer is the eighth ode (Rahlfs numbers it Ode 12). The prayer is also preserved in the Apostolic Constitutions (2.22, 4th century) and the earlier Didascalia, and in the Latin added as an appendix to the Vulgate; significant differences are footnoted. It is not in Codex Vaticanus or Codex Sinaiticus. A different, fragmentary Hebrew “prayer of Manasseh, king of Judah, when the king of Assyria imprisoned him” is reportedly found among the Dead Sea Scrolls (4Q381 33 8–11); it is not the same text as this prayer. The prayer was probably composed in Greek (or possibly Hebrew or Aramaic) by a Jewish author between the 2nd century BC and the 1st century AD. It belongs to the Apocrypha of the Protestant tradition and the appendix of the Latin Vulgate; in Eastern Orthodox churches it is used in worship (in the Odes and at Great Compline). Greek Kyrios is translated “Lord” (see the note at 1:1). The verse numbering is the standard English one (15 verses).",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    8,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "O Lord Almighty, who are in heaven,{b} God of our fathers, of Abraham and Isaac and Jacob and of their righteous seed,"
+    },
+    {
+     "v": 2,
+     "text": "you who made the heaven and the earth with all their array,{c}"
+    },
+    {
+     "v": 3,
+     "text": "who fettered the sea by the word of your command, who shut up the abyss and sealed it with your fearful and glorious name,"
+    },
+    {
+     "v": 4,
+     "text": "before whom all things shudder and tremble at the presence of your power;"
+    },
+    {
+     "v": 5,
+     "text": "for the magnificence of your glory cannot be endured, and the anger of your threatening against sinners cannot be withstood;"
+    },
+    {
+     "v": 6,
+     "text": "but beyond measure and beyond tracing out is the mercy of your promise,{d}"
+    },
+    {
+     "v": 7,
+     "text": "for you are the Lord Most High, tender in compassion, slow to anger and abounding in mercy, and you relent over the evils of mankind.{e}"
+    },
+    {
+     "v": 8,
+     "text": "You therefore, O Lord, the God of the righteous, did not appoint repentance for the righteous, for Abraham and Isaac and Jacob, who did not sin against you; but you have appointed repentance for me, the sinner."
+    },
+    {
+     "v": 9,
+     "text": "For I have sinned more than the number of the sand of the sea; my lawless deeds have multiplied,{f} and I am not worthy to gaze up and see the height of heaven because of the multitude of my wrongdoings."
+    },
+    {
+     "v": 10,
+     "text": "I am bent down by many a chain of iron, so that I cannot lift up my head because of my sins,{g} and there is no relief for me; because I stirred up your fury and did the thing that is evil before you, setting up abominations and heaping up offenses.{h}"
+    },
+    {
+     "v": 11,
+     "text": "And now I bend the knee of my heart, begging for the kindness that comes from you."
+    },
+    {
+     "v": 12,
+     "text": "I have sinned, O Lord, I have sinned, and I myself know my lawless deeds."
+    },
+    {
+     "v": 13,
+     "text": "I ask and beg of you: release me, O Lord, release me! Do not destroy me together with my lawless deeds, nor be angry with me forever and store up evils for me, nor condemn me to the lowest parts of the earth. For you, O Lord, are the God of those who repent,"
+    },
+    {
+     "v": 14,
+     "text": "and in me you will display your goodness; for though I am unworthy, you will save me after the greatness of your mercy,"
+    },
+    {
+     "v": 15,
+     "text": "and I will praise you continually all the days of my life. For all the host of the heavens sings your praise, and yours is the glory to the ages. Amen."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:0",
+     "text": "Greek Proseuchē Manassē, “Prayer of Manasseh.” In Codex Alexandrinus the title is “Prayer of Manasseh,” and the Latin Vulgate appendix has “Prayer of Manasseh, king of Judah, when he was held captive in Babylon.” The prayer is set at the moment described in 2 Chronicles 33:11–13, when the Assyrians took King Manasseh in chains to Babylon and he humbled himself and prayed; 2 Chronicles 33:18–19 says his prayer was recorded in the annals of the kings of Israel and of the seers. Manasseh means “causing to forget” (Genesis 41:51). He reigned about 697–642 BC."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Greek Kyrie pantokratōr epourānie. Greek Kyrios, “Lord,” is the word the Septuagint uses for the divine name YHWH; pantokratōr, “Almighty,” is its usual rendering of YHWH Tseva’ot, “Yahweh of Armies.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Greek kosmos, “order, ornament,” here the array of heaven and earth (compare Genesis 2:1, where the Septuagint uses the same word)."
+    },
+    {
+     "m": "d",
+     "ref": "1:6",
+     "text": "The Latin and the Apostolic Constitutions (2.22) are reported to add here a sentence not in Codex Alexandrinus: “You, O Lord, according to the abundance of your goodness have promised repentance and forgiveness to those who have sinned against you, and in the multitude of your compassions you have appointed repentance for sinners, that they may be saved.” Some later Greek copies reportedly have it as well."
+    },
+    {
+     "m": "e",
+     "ref": "1:7",
+     "text": "Compare Joel 2:13 and Jonah 4:2. “Relent over the evils” means to turn from bringing the punishment that human wickedness deserves."
+    },
+    {
+     "m": "f",
+     "ref": "1:9",
+     "text": "The Latin and other witnesses reportedly repeat the phrase, with “O Lord”: “my lawless deeds have multiplied, O Lord, my lawless deeds have multiplied.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:10",
+     "text": "Greek eis to ananeusai me, literally “so as to throw back my head,” an obscure phrase; it is usually understood as “so that I cannot lift up my head,” and the Latin is reported to read “so that I cannot lift up my head.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:10",
+     "text": "The Latin reportedly adds “I did not do your will, and I did not keep your commandments.” “Abominations” are idols (2 Chronicles 33:3–7)."
+    }
+   ],
+   "title": "The Prayer of Manasseh{a}"
+  }
+ ]
+}
