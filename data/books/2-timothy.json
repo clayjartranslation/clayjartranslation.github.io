@@ -1,0 +1,611 @@
+{
+ "id": "2-timothy",
+ "name": "2 Timothy",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The chief early manuscripts are Codex Sinaiticus, Codex Alexandrinus and Codex Ephraemi (4th–5th century); Codex Vaticanus lacks this letter. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation, a note says so. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. Authorship: the letter presents itself as Paul’s last words, written from prison in Rome as he faced death (1:8, 17; 4:6–8). As with 1 Timothy and Titus, the traditional view holds that Paul wrote it; many modern scholars think it was written by a follower of Paul in his name, perhaps around AD 80–110. Some who doubt Paul’s authorship of 1 Timothy and Titus think this letter is his, or that it preserves genuine personal notes from him (as in 4:9–21). The question remains open.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    8,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Paul,{a} by God’s will an apostle{b} of Christ Jesus, sent to make known the promise of the life that is in Christ Jesus,{c}"
+    },
+    {
+     "v": 2,
+     "text": "to Timothy,{d} my dearly loved son: grace, mercy, peace from God the Father and Christ Jesus our Lord."
+    },
+    {
+     "v": 3,
+     "text": "I give thanks to God, whom I serve with a clean conscience as my forebears did, as I keep you in mind without ceasing in my prayers by night and by day."
+    },
+    {
+     "v": 4,
+     "text": "I remember the tears you shed, and I yearn to see you again, so that my joy may be complete."
+    },
+    {
+     "v": 5,
+     "text": "I am reminded of the unfeigned faith that is in you, a faith that lived first in your grandmother Lois and your mother Eunice,{e} and that I am convinced lives in you as well."
+    },
+    {
+     "v": 6,
+     "text": "That is why I remind you to fan into a flame the gift of God that you have through the laying on of my hands."
+    },
+    {
+     "v": 7,
+     "text": "For the spirit God gave us is not one of cowardice; it is a spirit of power, of love and of self-discipline.{f}"
+    },
+    {
+     "v": 8,
+     "text": "So never be ashamed of bearing witness to our Lord, nor of me his prisoner. Instead, take your share of hardship for the good news,{g} relying on the power of God,"
+    },
+    {
+     "v": 9,
+     "text": "who rescued us and called us with a holy calling, not on the basis of anything we had done, but because of his own purpose and the grace he bestowed on us in Christ Jesus before time began,{h}"
+    },
+    {
+     "v": 10,
+     "text": "and now it has been made plain by the appearing{i} of Christ Jesus our Savior, who has put an end to death’s power and, by the good news, shed light on life and immortality."
+    },
+    {
+     "v": 11,
+     "text": "for which I have been appointed herald, apostle and teacher.{j}"
+    },
+    {
+     "v": 12,
+     "text": "That is why I endure these sufferings. But I feel no shame, because I know whom I have trusted, and I am persuaded that what I have placed in his keeping he can guard until that day.{k}"
+    },
+    {
+     "v": 13,
+     "text": "Hold to the wholesome words you heard from me as a model, living in the faith and love that are ours in Christ Jesus."
+    },
+    {
+     "v": 14,
+     "text": "Through the Holy Spirit, who dwells in us, keep safe the fine treasure committed to your care."
+    },
+    {
+     "v": 15,
+     "text": "You are aware that everyone in Asia{l} has turned away from me, Phygelus and Hermogenes among them.{m}"
+    },
+    {
+     "v": 16,
+     "text": "May the Lord show mercy to the household of Onesiphorus,{n} for he often refreshed me and was not ashamed of my chains."
+    },
+    {
+     "v": 17,
+     "text": "On the contrary, when he arrived in Rome, he searched hard for me and found me."
+    },
+    {
+     "v": 18,
+     "text": "The Lord grant that he finds mercy with the Lord on that day! How much he did for me in Ephesus you already know better than anyone."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Apostle: Greek *apostolos*, “one sent,” a messenger or envoy."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "*Jesus*: the Greek form of Hebrew *Yeshua* (Joshua), “Yahweh saves.” *Christ*: Greek *Christos*, “Anointed One,” equivalent to Hebrew *mashiach*, “Messiah.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "*Timothy*: Greek *Timotheos*, “one who honors God.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:5",
+     "text": "*Lois*: Greek, perhaps “more desirable.” *Eunice*: Greek *Eunikē*, “good victory.” Compare Acts 16:1."
+    },
+    {
+     "m": "f",
+     "ref": "1:7",
+     "text": "The spirit God gave us: or “God did not give us a spirit of cowardice, but of power …”; the reference may be to the Holy Spirit or to a disposition he imparts. *Self-discipline*: or “sound judgment.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:8",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel”; so throughout."
+    },
+    {
+     "m": "h",
+     "ref": "1:9",
+     "text": "Before time began: literally “before eternal times.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:10",
+     "text": "Appearing: Greek *epiphaneia*, “appearance,” “manifestation”; also in 4:1 and 4:8."
+    },
+    {
+     "m": "j",
+     "ref": "1:11",
+     "text": "Teacher: later manuscripts add “of the Gentiles.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:12",
+     "text": "What I have placed in his keeping: or “what he has placed in my keeping”; literally “my deposit.” Compare verse 14."
+    },
+    {
+     "m": "l",
+     "ref": "1:15",
+     "text": "Asia: the Roman province in the west of modern Turkey, with Ephesus its chief city."
+    },
+    {
+     "m": "m",
+     "ref": "1:15",
+     "text": "*Phygelus*: Greek, perhaps “fugitive.” *Hermogenes*: Greek, “born of Hermes.”"
+    },
+    {
+     "m": "n",
+     "ref": "1:16",
+     "text": "*Onesiphorus*: Greek, “bringer of benefit.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    8,
+    14,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "You, then, my son, draw your strength from the grace that is in Christ Jesus."
+    },
+    {
+     "v": 2,
+     "text": "What you heard from me in the presence of many witnesses, pass on to reliable people who will be competent to teach others as well."
+    },
+    {
+     "v": 3,
+     "text": "Take your share of hardship{a} like a good soldier of Christ Jesus."
+    },
+    {
+     "v": 4,
+     "text": "No soldier on active duty gets entangled in the business of civilian life; his aim is to please the officer who enlisted him."
+    },
+    {
+     "v": 5,
+     "text": "Likewise an athlete is not crowned unless he competes by the rules."
+    },
+    {
+     "v": 6,
+     "text": "The farmer who toils should be the first to eat from the harvest."
+    },
+    {
+     "v": 7,
+     "text": "Think about what I am saying, for the Lord will give you insight into everything."
+    },
+    {
+     "v": 8,
+     "text": "Keep in mind Jesus Christ, raised from the dead, a descendant of David,{b} as proclaimed in my good news,"
+    },
+    {
+     "v": 9,
+     "text": "It is for this good news that I suffer hardship, even to the point of wearing chains like a wrongdoer. Yet the word of God is not in chains."
+    },
+    {
+     "v": 10,
+     "text": "That is why I endure all things for the sake of God’s chosen ones, so that they also may gain the salvation found in Christ Jesus, along with eternal glory."
+    },
+    {
+     "v": 11,
+     "text": "Here is a saying to be trusted:{c}\nIf we have died with him, we shall also live with him;"
+    },
+    {
+     "v": 12,
+     "text": "if we endure, we shall also reign with him;\nif we deny him, he also will deny us;"
+    },
+    {
+     "v": 13,
+     "text": "if we are faithless, he remains faithful,\nfor he cannot deny himself."
+    },
+    {
+     "v": 14,
+     "text": "Keep reminding them of these things, and charge them in the sight of God{d} not to wrangle over words, which does no good and only brings ruin on those who listen."
+    },
+    {
+     "v": 15,
+     "text": "Do your utmost to present yourself to God as one approved, a worker with no cause for shame, cutting a straight path with the word of truth.{e}"
+    },
+    {
+     "v": 16,
+     "text": "But steer clear of godless chatter, for those who indulge in it will advance further and further into ungodliness,"
+    },
+    {
+     "v": 17,
+     "text": "and their talk will eat its way like gangrene. Hymenaeus and Philetus{f} are among them;"
+    },
+    {
+     "v": 18,
+     "text": "they have strayed from the truth, claiming that the resurrection has already happened, and they are overturning the faith of some."
+    },
+    {
+     "v": 19,
+     "text": "Nevertheless God’s firm foundation stands, bearing this seal: “The Lord knows those who are his,”{g} and, “Let everyone who names the name of the Lord turn away from wickedness.”{h}"
+    },
+    {
+     "v": 20,
+     "text": "In a large house there are vessels not only of gold and silver but also of wood and clay, some for honorable use and some for common."
+    },
+    {
+     "v": 21,
+     "text": "Anyone, then, who keeps himself clean of these will be a vessel for noble use, consecrated, of service to the owner, fit for any good task."
+    },
+    {
+     "v": 22,
+     "text": "Flee the passions of youth, and pursue righteousness, faith, love and peace, together with those who call on the Lord from a pure heart."
+    },
+    {
+     "v": 23,
+     "text": "Refuse to be drawn into stupid and uninstructed debates; you know that they give birth to fights."
+    },
+    {
+     "v": 24,
+     "text": "And a servant{i} of the Lord must not be quarrelsome but kind toward all, able to teach, patient when wronged,"
+    },
+    {
+     "v": 25,
+     "text": "gently instructing those who resist him. It may be that God will give them a change of heart, so that they come to know the truth,"
+    },
+    {
+     "v": 26,
+     "text": "and they may come to their senses and escape the devil’s snare, having been held captive by him to do his will.{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:3",
+     "text": "Take your share of hardship: later manuscripts read “so endure hardship.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:8",
+     "text": "A descendant of David: literally “from the seed of David.” *David*: Hebrew, “beloved.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:11",
+     "text": "A saying to be trusted: literally “faithful is the word”; compare 1 Tim 1:15. The lines that follow are widely thought to quote an early hymn or confession; the setting as verse is editorial."
+    },
+    {
+     "m": "d",
+     "ref": "2:14",
+     "text": "In the sight of God: some manuscripts read “in the sight of the Lord.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:15",
+     "text": "Cutting a straight path with: Greek *orthotomounta*, literally “cutting straight,” perhaps an image from road-building or plowing; that is, handling the word rightly."
+    },
+    {
+     "m": "f",
+     "ref": "2:17",
+     "text": "*Hymenaeus*: Greek, named after Hymen, the god of weddings; compare 1 Tim 1:20. *Philetus*: Greek, “beloved.”"
+    },
+    {
+     "m": "g",
+     "ref": "2:19",
+     "text": "The Lord knows those who are his: from Num 16:5 in the Greek Old Testament, where “the Lord” renders the divine name, Yahweh."
+    },
+    {
+     "m": "h",
+     "ref": "2:19",
+     "text": "Names the name of the Lord: echoing Isa 26:13 and the call to separate from the wicked in Num 16:26; in these passages “the Lord” stands for Yahweh."
+    },
+    {
+     "m": "i",
+     "ref": "2:24",
+     "text": "Servant: Greek *doulos*, “slave.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:26",
+     "text": "The devil: Greek *diabolos*, “slanderer.” *Held captive by him to do his will*: or “held captive by the devil, so as to do God’s will”; the Greek pronouns are ambiguous."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Understand this: in the last days hard times will come."
+    },
+    {
+     "v": 2,
+     "text": "For people will be lovers of themselves, lovers of money, boastful, arrogant, abusive, disobedient to their parents, ungrateful, unholy,"
+    },
+    {
+     "v": 3,
+     "text": "heartless, unforgiving, slanderers, without self-control, brutal, haters of what is good,"
+    },
+    {
+     "v": 4,
+     "text": "traitors, reckless, swollen with conceit, lovers of pleasure rather than lovers of God,"
+    },
+    {
+     "v": 5,
+     "text": "keeping up an outward form of godliness but denying its power. Turn away from such people."
+    },
+    {
+     "v": 6,
+     "text": "Some of these slip into people’s homes and make captives of foolish women who are loaded down with sins and driven by various passions,"
+    },
+    {
+     "v": 7,
+     "text": "women who are forever learning yet can never reach a real understanding of the truth."
+    },
+    {
+     "v": 8,
+     "text": "Just as Jannes and Jambres{a} opposed Moses, so these people oppose the truth, men corrupted in mind and disqualified in regard to the faith."
+    },
+    {
+     "v": 9,
+     "text": "But they will not get much further, for their folly will be plain to everyone, as the folly of those two also became plain."
+    },
+    {
+     "v": 10,
+     "text": "But you have closely followed what I taught, how I lived, what I aimed at, my faith, my patience, my love, my endurance,"
+    },
+    {
+     "v": 11,
+     "text": "my persecutions and sufferings, the things that happened to me at Antioch, at Iconium and at Lystra,{b} the persecutions I endured. Yet from all of them the Lord rescued me."
+    },
+    {
+     "v": 12,
+     "text": "Indeed, everyone who sets out to live a devout life in Christ Jesus will meet persecution,"
+    },
+    {
+     "v": 13,
+     "text": "and evil people and swindlers will advance into worse and worse, leading others astray and being led astray themselves."
+    },
+    {
+     "v": 14,
+     "text": "But as for you, hold on to what you have learned and become convinced of, knowing from whom you learned it,{c}"
+    },
+    {
+     "v": 15,
+     "text": "and that from childhood you have known the sacred writings, which can make you wise for salvation through faith in Christ Jesus."
+    },
+    {
+     "v": 16,
+     "text": "All Scripture is breathed out by God and useful for teaching, for reproof, for correction and for training in righteousness,{d}"
+    },
+    {
+     "v": 17,
+     "text": "so that the person who belongs to God may be complete, equipped for every good work."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:8",
+     "text": "*Jannes and Jambres*: names given in Jewish tradition to Pharaoh’s magicians who opposed Moses (Exod 7:11, 22). *Moses*: Hebrew *Mosheh*, explained in Exod 2:10 as “drawn out.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:11",
+     "text": "*Antioch* … *Iconium* … *Lystra*: cities in southern Asia Minor where Paul was persecuted (Acts 13:50; 14:5–6, 19). This Antioch, named after the Seleucid king Antiochus, lay near Pisidia; Lystra was Timothy’s home town (Acts 16:1)."
+    },
+    {
+     "m": "c",
+     "ref": "3:14",
+     "text": "From whom: the Greek is plural, “from which people,” perhaps including Timothy’s mother and grandmother (1:5). Later manuscripts read the singular."
+    },
+    {
+     "m": "d",
+     "ref": "3:16",
+     "text": "All Scripture is breathed out by God and useful: or “Every scripture breathed out by God is also useful.” *Breathed out by God*: Greek *theopneustos*, “God-breathed,” traditionally “inspired by God.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    6,
+    9,
+    19,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I charge you solemnly in the sight of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom:"
+    },
+    {
+     "v": 2,
+     "text": "proclaim the word; be ready in season and out of season; convince, rebuke and encourage, with unfailing patience and teaching."
+    },
+    {
+     "v": 3,
+     "text": "For a time is coming when people will not put up with healthy teaching, but, with ears itching for something new, they will heap up teachers for themselves to suit their own desires,"
+    },
+    {
+     "v": 4,
+     "text": "they will stop listening to the truth and turn aside to fables instead."
+    },
+    {
+     "v": 5,
+     "text": "But you, keep your head in all circumstances, endure hardship, do the work of an evangelist,{a} carry out your ministry to the full."
+    },
+    {
+     "v": 6,
+     "text": "For my part, my life is already being poured out like a drink offering,{b} and the moment of my departure is at hand."
+    },
+    {
+     "v": 7,
+     "text": "I have fought the good fight, I have finished the race, I have kept the faith."
+    },
+    {
+     "v": 8,
+     "text": "From now on there is reserved for me the crown of righteousness, which the Lord, the righteous judge, will award me on that day, and not only me but also all who have loved his appearing."
+    },
+    {
+     "v": 9,
+     "text": "Do your best to come to me soon."
+    },
+    {
+     "v": 10,
+     "text": "Demas has abandoned me; he loved the present age, and he has gone off to Thessalonica. Crescens is away in Galatia,{c} Titus in Dalmatia.{d}"
+    },
+    {
+     "v": 11,
+     "text": "Only Luke is with me. Pick up Mark and bring him with you, for he is a great help to me in my ministry.{e}"
+    },
+    {
+     "v": 12,
+     "text": "Tychicus I have sent to Ephesus.{f}"
+    },
+    {
+     "v": 13,
+     "text": "Bring with you, when you come, the cloak I left in Troas at the house of Carpus,{g} and the books too, especially the parchments.{h}"
+    },
+    {
+     "v": 14,
+     "text": "That coppersmith Alexander treated me very badly; the Lord will requite him as his deeds deserve.{i}"
+    },
+    {
+     "v": 15,
+     "text": "You too should be on guard against him, for he strongly opposed our message."
+    },
+    {
+     "v": 16,
+     "text": "At my first defense no one stood by me; everyone deserted me. May it not be counted against them!"
+    },
+    {
+     "v": 17,
+     "text": "But the Lord stood beside me and made me strong, so that through me the message would be preached in full and all the nations would hear it. So I was snatched from the lion’s mouth.{j}"
+    },
+    {
+     "v": 18,
+     "text": "The Lord will rescue me from every evil attack and bring me safely into his heavenly kingdom. To him be the glory for ever and ever. Amen."
+    },
+    {
+     "v": 19,
+     "text": "Greet Prisca and Aquila,{k} and the household of Onesiphorus."
+    },
+    {
+     "v": 20,
+     "text": "Erastus stayed in Corinth, and Trophimus I left ill at Miletus.{l}"
+    },
+    {
+     "v": 21,
+     "text": "Do your best to come before winter.{m} Eubulus sends you greetings, as do Pudens, Linus, Claudia and all the brothers.{n}"
+    },
+    {
+     "v": 22,
+     "text": "The Lord be with your spirit.{o} Grace be with you all.{p}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:5",
+     "text": "Evangelist: Greek *euangelistēs*, “one who brings good news.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:6",
+     "text": "Drink offering: wine poured out as a sacrifice (Num 15:1–10; 28:7); compare Phil 2:17."
+    },
+    {
+     "m": "c",
+     "ref": "4:10",
+     "text": "*Demas*: Greek, probably short for *Demetrios*, “belonging to Demeter”; compare Col 4:14; Phlm 24. *Crescens*: Latin, “growing.” *Galatia*: some manuscripts read “Gaul.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:10",
+     "text": "*Titus*: Latin, of uncertain meaning. *Dalmatia*: a region on the eastern coast of the Adriatic Sea, in modern Croatia and its neighbors."
+    },
+    {
+     "m": "e",
+     "ref": "4:11",
+     "text": "*Luke*: Greek *Loukas*, probably from Latin *Lucius*, “light.” *Mark*: Latin *Marcus*, perhaps from Mars, the Roman god of war; compare Acts 15:37–39; Col 4:10."
+    },
+    {
+     "m": "f",
+     "ref": "4:12",
+     "text": "*Tychicus*: Greek, “fortunate.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:13",
+     "text": "*Carpus*: Greek, “fruit.” *Troas*: a port in northwestern Asia Minor near ancient Troy."
+    },
+    {
+     "m": "h",
+     "ref": "4:13",
+     "text": "Books … parchments: the books were probably papyrus scrolls; the parchments, writings on prepared animal skin, perhaps notebooks or copies of Scripture."
+    },
+    {
+     "m": "i",
+     "ref": "4:14",
+     "text": "*Alexander*: Greek, “defender of men”; compare 1 Tim 1:20. *The Lord will requite him as his deeds deserve*: echoing Ps 62:12 (61:13 in the Greek Old Testament) and Prov 24:12, where it is God, Yahweh, who repays each according to his deeds. Later manuscripts read “may the Lord requite him.”"
+    },
+    {
+     "m": "j",
+     "ref": "4:17",
+     "text": "The lion’s mouth: a figure for deadly danger, echoing Ps 22:21 (21:22 in the Greek Old Testament); compare Dan 6:20–22."
+    },
+    {
+     "m": "k",
+     "ref": "4:19",
+     "text": "*Prisca*: Latin, “ancient,” “venerable”; called *Priscilla* in Acts 18:2. *Aquila*: Latin, “eagle.”"
+    },
+    {
+     "m": "l",
+     "ref": "4:20",
+     "text": "*Erastus*: Greek, “beloved”; compare Acts 19:22; Rom 16:23. *Trophimus*: Greek, “nourishing”; compare Acts 20:4; 21:29. *Miletus*: a port on the coast of Asia, south of Ephesus."
+    },
+    {
+     "m": "m",
+     "ref": "4:21",
+     "text": "Before winter: sea travel on the Mediterranean largely stopped from about mid-November to March."
+    },
+    {
+     "m": "n",
+     "ref": "4:21",
+     "text": "*Eubulus*: Greek, “well-advised.” *Pudens*: Latin, “modest.” *Linus*: Greek, the name of a legendary singer; later tradition names a Linus as an early leader of the church in Rome. *Claudia*: Latin, feminine of *Claudius*. *Brothers*: Greek *adelphoi*, fellow believers, including both men and women. *All*: the Westcott–Hort text has “all” in brackets."
+    },
+    {
+     "m": "o",
+     "ref": "4:22",
+     "text": "The Lord: later manuscripts read “The Lord Jesus Christ.”"
+    },
+    {
+     "m": "p",
+     "ref": "4:22",
+     "text": "With you all: the “you” is plural. Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}
