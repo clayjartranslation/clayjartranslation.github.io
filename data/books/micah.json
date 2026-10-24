@@ -1,0 +1,826 @@
+{
+ "id": "micah",
+ "name": "Micah",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew Masoretic Text as given in the Westminster Leningrad Codex (Open Scriptures Hebrew Bible edition), with the Septuagint (Old Greek) consulted. Micah of Moresheth prophesied in the reigns of Jotham, Ahaz, and Hezekiah of Judah (about 740–690 BC), before and after the fall of Samaria in 722 BC; Jeremiah 26:18 quotes Micah 3:12. Among the ancient manuscripts, as reported in the published editions, portions of Micah survive in the Qumran scrolls of the Twelve (4QXII-a, 4QXII-f, 4QXII-g), in a commentary from Qumran (1QpMic), in the Wadi Murabbaʿat scroll (Mur 88), and in the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr); these generally support the Masoretic Text. Versification: English 5:1 is Hebrew 4:14, and English 5:2–15 is Hebrew 5:1–14; this translation follows the English numbering.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    8,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The word of Yahweh that came to Micah{a} of Moresheth{b} in the days of Jotham, Ahaz, and Hezekiah, kings of Judah,{c} which he saw concerning Samaria and Jerusalem."
+    },
+    {
+     "v": 2,
+     "text": "Listen, you peoples, all of you;\npay attention, earth, and all that fills it;\nand let the Lord Yahweh be witness against you,\nthe Lord from his holy temple."
+    },
+    {
+     "v": 3,
+     "text": "For look: Yahweh is coming out from his place;\nhe will come down and tread on the high places of the earth."
+    },
+    {
+     "v": 4,
+     "text": "The mountains will melt beneath him,\nand the valleys split open,\nlike wax in front of the fire,\nlike water poured down a slope."
+    },
+    {
+     "v": 5,
+     "text": "All this is for Jacob’s rebellion,\nfor the sins of the house of Israel.\nWhat is Jacob’s rebellion?\nIs it not Samaria?\nAnd what are Judah’s high places?{d}\nAre they not Jerusalem?"
+    },
+    {
+     "v": 6,
+     "text": "“So I will make Samaria a rubble heap in the open country,\na place for planting vines;\nI will tumble her stones down into the valley\nand lay bare her foundations."
+    },
+    {
+     "v": 7,
+     "text": "All her carved idols will be smashed to bits,\nall her earnings{e} burned with fire,\nand all her images I will make a desolation;\nfor from a prostitute’s fee she gathered them,\nand to a prostitute’s fee they will return.”"
+    },
+    {
+     "v": 8,
+     "text": "For this I will lament and wail;\nI will go barefoot and naked;\nI will make lament like the jackals\nand mourning like the ostriches."
+    },
+    {
+     "v": 9,
+     "text": "For her wound cannot be healed;\nit has come even to Judah;\nit has reached the gate of my people,\neven to Jerusalem."
+    },
+    {
+     "v": 10,
+     "text": "Tell it not in Gath;{f}\nweep not at all.\nIn Beth-leaphrah{g}\nroll yourself in the dust."
+    },
+    {
+     "v": 11,
+     "text": "Pass on your way,\ninhabitants of Shaphir,{h} in shameful nakedness;\nthe inhabitants of Zaanan{i} do not come out;\nBeth-ezel is wailing,\nit will take away from you its support.{j}"
+    },
+    {
+     "v": 12,
+     "text": "For the inhabitants of Maroth{k} writhe, waiting for good,\nbecause disaster has come down from Yahweh\nto the gate of Jerusalem."
+    },
+    {
+     "v": 13,
+     "text": "Harness the chariot to the steeds,\ninhabitants of Lachish!{l}\nShe was the beginning of sin for Daughter Zion,\nfor in you were found the rebellions of Israel."
+    },
+    {
+     "v": 14,
+     "text": "So you will give parting gifts{m}\nto Moresheth-gath;\nthe houses of Achzib{n} will be a deception\nto Israel’s kings."
+    },
+    {
+     "v": 15,
+     "text": "Again I will bring a conqueror{o} upon you,\ninhabitants of Mareshah;\nthe glory of Israel\nwill come to Adullam.{p}"
+    },
+    {
+     "v": 16,
+     "text": "Make yourself bald, shear your hair,\nfor the children you delight in;\nwiden your baldness like the vulture’s,\nsince they are carried away from you as captives."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "The name is a short form of Micaiah, “Who is like Yahweh?” Compare 7:18."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Moresheth-gath (1:14), a town in the Shephelah about 22 miles (35 kilometers) southwest of Jerusalem."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Jotham reigned about 750–735 BC, Ahaz about 735–715 BC, and Hezekiah about 715–686 BC."
+    },
+    {
+     "m": "d",
+     "ref": "1:5",
+     "text": "So the Hebrew; the Septuagint and Targum read “what is the sin of the house of Judah?”"
+    },
+    {
+     "m": "e",
+     "ref": "1:7",
+     "text": "Hebrew “hire,” the wage of a prostitute, a figure for the wealth gained through idolatrous worship."
+    },
+    {
+     "m": "f",
+     "ref": "1:10",
+     "text": "An echo of David’s lament in 2 Samuel 1:20. In verses 10–15 each town’s name is the basis for a play on words, most of which cannot be carried into English."
+    },
+    {
+     "m": "g",
+     "ref": "1:10",
+     "text": "“House of dust.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:11",
+     "text": "“Beautiful town.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:11",
+     "text": "Sounds like the Hebrew for “come out.”"
+    },
+    {
+     "m": "j",
+     "ref": "1:11",
+     "text": "The meaning of the last line is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "1:12",
+     "text": "Sounds like the Hebrew for “bitterness.”"
+    },
+    {
+     "m": "l",
+     "ref": "1:13",
+     "text": "Lachish sounds like the Hebrew rekesh, “steeds.” It was Judah’s second city, besieged and taken by the Assyrian king Sennacherib in 701 BC."
+    },
+    {
+     "m": "m",
+     "ref": "1:14",
+     "text": "Or “a dowry,” as for a bride leaving home."
+    },
+    {
+     "m": "n",
+     "ref": "1:14",
+     "text": "Achzib sounds like ʾakzab, “deceptive,” a stream that dries up."
+    },
+    {
+     "m": "o",
+     "ref": "1:15",
+     "text": "Hebrew yoresh, “one who takes possession,” a play on Mareshah."
+    },
+    {
+     "m": "p",
+     "ref": "1:15",
+     "text": "The cave where David hid from Saul (1 Samuel 22:1); Israel’s leaders will be fugitives again."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    6,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Woe to those who plan iniquity\nand work out evil upon their beds!\nWhen morning dawns they carry it out,\nbecause it is in the power of their hand."
+    },
+    {
+     "v": 2,
+     "text": "They covet fields and seize them,\nand houses, and take them away;\nthey defraud a man and his household,\na man and his inheritance."
+    },
+    {
+     "v": 3,
+     "text": "So this is what Yahweh says:\n“See, I am devising evil against this clan,\nand you will not slip your necks out from under it,\nnor stride along with heads held high;\nit will be a time of calamity."
+    },
+    {
+     "v": 4,
+     "text": "In that day they will take up a taunt against you\nand wail a bitter lament, saying,\n‘We are utterly ruined;\nhe exchanges the portion of my people.\nHow he takes it away from me!\nTo traitors he divides our fields.’"
+    },
+    {
+     "v": 5,
+     "text": "Therefore you will have no one to cast the measuring line by lot{a}\nin the assembly of Yahweh."
+    },
+    {
+     "v": 6,
+     "text": "“Stop your preaching,” so they preach.{b}\n“No one should preach about these things;\nshame will never catch up with us.”"
+    },
+    {
+     "v": 7,
+     "text": "Should this be said, house of Jacob?\n“Is the Spirit of Yahweh impatient?\nAre these his deeds?”\nDo not my words do good\nto the one who walks uprightly?"
+    },
+    {
+     "v": 8,
+     "text": "But lately my people have risen up as an enemy.\nYou strip the robe off the cloak\nfrom those who pass by trustingly,\nlike men returning from war."
+    },
+    {
+     "v": 9,
+     "text": "The women of my people you drive out\nfrom their pleasant houses;\nfrom their young children you take away\nmy splendor forever."
+    },
+    {
+     "v": 10,
+     "text": "Get up and go,\nfor this is no place of rest;\nbecause of uncleanness it will destroy,\nwith a grievous destruction."
+    },
+    {
+     "v": 11,
+     "text": "If a man walking in wind and falsehood should lie, saying,\n“I will preach to you of wine and beer,”\nhe would be the preacher for this people!"
+    },
+    {
+     "v": 12,
+     "text": "“I will surely assemble all of you, Jacob;\nI will surely gather the remnant of Israel;\nI will bring them together like a flock in its pen,{c}\nlike a herd within its pasture;\nit will hum with people."
+    },
+    {
+     "v": 13,
+     "text": "The one who breaks open the way goes up ahead of them;\nthey burst out, they go through the gate\nand leave by it.\nTheir king goes on in front of them,\nYahweh at their head.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:5",
+     "text": "That is, no share when the land is divided again."
+    },
+    {
+     "m": "b",
+     "ref": "2:6",
+     "text": "Hebrew naṭaph, “drip,” used of prophetic speech, as in Amos 7:16. The Hebrew of verses 6–11 is difficult in places."
+    },
+    {
+     "m": "c",
+     "ref": "2:12",
+     "text": "Hebrew Bozrah, here probably “an enclosure,” though Bozrah was also a city of Edom famous for its sheep."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    5,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "And I said:\nHear now, heads of Jacob\nand rulers of the house of Israel!\nIs it not for you to know justice?—"
+    },
+    {
+     "v": 2,
+     "text": "you who hate good and love evil,\nwho tear the skin off my people{a}\nand the flesh from their bones,"
+    },
+    {
+     "v": 3,
+     "text": "who eat the flesh of my people,\nstrip off their skin,\nbreak their bones,\nand chop them up like meat for the pot,\nlike flesh in a cauldron."
+    },
+    {
+     "v": 4,
+     "text": "Then they will cry to Yahweh,\nbut he will not answer them;\nhe will hide his face from them at that time,\nbecause they have made their deeds evil."
+    },
+    {
+     "v": 5,
+     "text": "This is what Yahweh says concerning the prophets\nwho lead my people astray,\nwho, when they have something to chew,\ncry “Peace!”\nbut declare holy war against anyone\nwho puts nothing in their mouths:"
+    },
+    {
+     "v": 6,
+     "text": "So night will fall on you, and no vision come;\ndark will it be for you, and no divining;\nthe sun will set upon the prophets,\nand the daylight turn black above them."
+    },
+    {
+     "v": 7,
+     "text": "Shamed will be the seers\nand abashed the diviners;\nall of them will cover their lips,{b}\nfor God gives no answer."
+    },
+    {
+     "v": 8,
+     "text": "But as for me, I am filled with power,\nwith the Spirit of Yahweh,\nwith justice and with might,\nto declare to Jacob his rebellion\nand to Israel his sin."
+    },
+    {
+     "v": 9,
+     "text": "Hear this, heads of the house of Jacob\nand rulers of the house of Israel,\nwho abhor justice\nand twist all that is straight,"
+    },
+    {
+     "v": 10,
+     "text": "who build Zion with bloodshed\nand Jerusalem with wrong."
+    },
+    {
+     "v": 11,
+     "text": "Her heads give judgment for a bribe,\nher priests teach for a fee,\nher prophets divine for money;\nyet they lean on Yahweh and say,\n“Is not Yahweh in our midst?\nNo disaster will come upon us.”"
+    },
+    {
+     "v": 12,
+     "text": "So on your account\nZion will be plowed like a field,\nJerusalem made a mound of rubble,\nand the mountain of the house a forest height.{c}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:2",
+     "text": "Hebrew “from them.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:7",
+     "text": "Hebrew “mustache,” a gesture of mourning or shame (Leviticus 13:45)."
+    },
+    {
+     "m": "c",
+     "ref": "3:12",
+     "text": "This verse is quoted in Jeremiah 26:18, about a century later, where the elders recall that Hezekiah heeded it and sought Yahweh’s favor."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    6,
+    9,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the days to come{a}\nthe mountain of Yahweh’s house\nshall stand firm as the highest of the mountains,\nlifted up above the hills,\nand peoples shall stream to it."
+    },
+    {
+     "v": 2,
+     "text": "Many nations shall come and say,\n“Come, let us climb to the mountain of Yahweh,\nto the house of Jacob’s God,\nso he may instruct us in his ways\nand we may walk in his paths.”\nFor instruction{b} shall go out from Zion,\nand the word of Yahweh from Jerusalem."
+    },
+    {
+     "v": 3,
+     "text": "He shall judge between many peoples\nand settle disputes for strong nations far away;\nthey shall hammer their swords into plow blades\nand their spears into pruning knives;\nnation shall not raise sword against nation,\nnor shall they train for war any longer."
+    },
+    {
+     "v": 4,
+     "text": "Each shall sit beneath his own vine and his own fig tree,\nwith no one to make them afraid,\nfor the mouth of Yahweh of Armies{c} has spoken."
+    },
+    {
+     "v": 5,
+     "text": "For all the peoples walk,\neach in the name of its god,\nbut we will walk in the name of Yahweh our God\nforever and ever."
+    },
+    {
+     "v": 6,
+     "text": "“In that day,” declares Yahweh,\n“I will gather the lame\nand assemble the scattered,\nthose whom I have afflicted."
+    },
+    {
+     "v": 7,
+     "text": "The lame I will make a remnant,\nand the outcast a mighty nation;\nand Yahweh will reign over them on Mount Zion\nfrom now on and forever."
+    },
+    {
+     "v": 8,
+     "text": "And you, tower of the flock,{d}\nhill{e} of Daughter Zion,\nto you it will come—\nthe former dominion will return,\nthe kingdom of Daughter Jerusalem.”"
+    },
+    {
+     "v": 9,
+     "text": "Now why do you cry aloud?\nIs there no king in you?\nHas your counselor perished,\nthat pangs have gripped you like a woman in labor?"
+    },
+    {
+     "v": 10,
+     "text": "Writhe and groan,{f} Daughter Zion,\nlike a woman giving birth;\nfor now you must go out from the town\nand lodge in the countryside;\nyou will go to Babylon.\nThere you will be rescued;\nthere Yahweh will redeem you\nfrom the grip of your enemies."
+    },
+    {
+     "v": 11,
+     "text": "Now many nations\nare gathered against you,\nsaying, “Let her be defiled,\nand let our eyes gaze on Zion.”"
+    },
+    {
+     "v": 12,
+     "text": "But they do not know\nthe thoughts of Yahweh;\nthey do not grasp his purpose,\nhow he has bundled them like sheaves for the threshing floor."
+    },
+    {
+     "v": 13,
+     "text": "Rise up and thresh, Daughter Zion,\nfor I will make your horn iron\nand your hoofs bronze;\nyou will crush many peoples,\nand devote their gain to Yahweh,{g}\ntheir wealth to the Lord of all the earth."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Verses 1–3 are nearly identical to Isaiah 2:2–4; Micah and Isaiah were contemporaries."
+    },
+    {
+     "m": "b",
+     "ref": "4:2",
+     "text": "Hebrew torah."
+    },
+    {
+     "m": "c",
+     "ref": "4:4",
+     "text": "Hebrew YHWH tsebaʾot, traditionally “the Lord of hosts”: Yahweh as commander of the armies of heaven and of Israel."
+    },
+    {
+     "m": "d",
+     "ref": "4:8",
+     "text": "Hebrew Migdal-eder, perhaps a watchtower over Jerusalem; compare Genesis 35:21."
+    },
+    {
+     "m": "e",
+     "ref": "4:8",
+     "text": "Hebrew Ophel, the fortified hill south of the temple mount."
+    },
+    {
+     "m": "f",
+     "ref": "4:10",
+     "text": "The meaning of the Hebrew verb is uncertain; perhaps “push.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:13",
+     "text": "Hebrew “devote to destruction” (ḥerem), here meaning to dedicate the plunder wholly to God."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    7,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now muster your troops, daughter of troops;{a}\na siege is laid against us;\nwith a rod they strike on the cheek\nthe judge of Israel."
+    },
+    {
+     "v": 2,
+     "text": "But you, Bethlehem Ephrathah,{b}\ntoo little to be among the clans of Judah,\nfrom you there shall come forth for me\none who is to be ruler in Israel,\nwhose origins are from of old,\nfrom ancient days.{c}"
+    },
+    {
+     "v": 3,
+     "text": "Therefore he will give them up until the time\nwhen she who is in labor has given birth;\nthen the rest of his brothers will return\nto the people of Israel."
+    },
+    {
+     "v": 4,
+     "text": "He will stand and shepherd his flock in the strength of Yahweh,\nin the majesty of the name of Yahweh his God.\nAnd they will dwell secure, for now he will be great\nto the ends of the earth."
+    },
+    {
+     "v": 5,
+     "text": "And he shall be our peace.{d}\nWhen Assyria invades our land\nand marches over our citadels,\nwe will set up seven shepherds against it,\nyes, eight princes of the people.{e}"
+    },
+    {
+     "v": 6,
+     "text": "They will shepherd the land of Assyria with the sword,\nthe land of Nimrod{f} at its gates;{g}\nhe will deliver us from Assyria\nwhen it comes into our land\nand treads within our borders."
+    },
+    {
+     "v": 7,
+     "text": "Then the remnant of Jacob will be\namong many peoples\nlike dew from Yahweh,\nlike showers on the grass,\nwhich wait for no one\nand do not linger for mortals."
+    },
+    {
+     "v": 8,
+     "text": "And the remnant of Jacob will be among the nations,\nin the midst of many peoples,\nlike a lion among the animals of the woods,\nlike a young lion among the sheepfolds,\nwhich, when it goes through, treads down and mauls,\nand none can deliver."
+    },
+    {
+     "v": 9,
+     "text": "Let your hand be lifted over your foes,\nand may all your enemies be cut off!"
+    },
+    {
+     "v": 10,
+     "text": "“In that day,” declares Yahweh,\n“I will cut off your horses from among you\nand destroy your chariots;"
+    },
+    {
+     "v": 11,
+     "text": "I will cut off the cities of your land\nand tear down all your strongholds;"
+    },
+    {
+     "v": 12,
+     "text": "I will cut off the sorceries in your hand,\nand soothsayers you will have no more;"
+    },
+    {
+     "v": 13,
+     "text": "I will cut off your carved images\nand your sacred pillars from among you,\nand never again will you bow\nbefore what your own hands have made;"
+    },
+    {
+     "v": 14,
+     "text": "I will uproot your Asherah poles{h} from among you\nand destroy your cities.{i}"
+    },
+    {
+     "v": 15,
+     "text": "And in anger and wrath I will take vengeance\non the nations that have not obeyed.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "English 5:1 is Hebrew 4:14. The meaning of the first line is uncertain; perhaps “gash yourself, daughter of raiders.”"
+    },
+    {
+     "m": "b",
+     "ref": "5:2",
+     "text": "English 5:2–15 is Hebrew 5:1–14; this verse is Hebrew 5:1. Ephrathah is the clan district around Bethlehem, the hometown of David (Ruth 4:11; 1 Samuel 17:12), about 6 miles (9 kilometers) south of Jerusalem. Matthew 2:6 quotes this verse, in a free form, as fulfilled in the birth of Jesus at Bethlehem; compare John 7:42."
+    },
+    {
+     "m": "c",
+     "ref": "5:2",
+     "text": "Or “from days of eternity.” The phrase may refer to the ancient line of David or, as Christian interpreters have understood it, to the ruler’s origin before time."
+    },
+    {
+     "m": "d",
+     "ref": "5:5",
+     "text": "Or “This one will be peace,” or “This will be our peace.”"
+    },
+    {
+     "m": "e",
+     "ref": "5:5",
+     "text": "“Seven… eight” is a Hebrew idiom for “more than enough.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:6",
+     "text": "The legendary founder of Mesopotamian cities (Genesis 10:8–12)."
+    },
+    {
+     "m": "g",
+     "ref": "5:6",
+     "text": "So the Hebrew; with a slight change, “with the drawn sword.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:14",
+     "text": "Wooden cult objects associated with the goddess Asherah."
+    },
+    {
+     "m": "i",
+     "ref": "5:14",
+     "text": "Or, with a slight change, “your idols.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    6,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear now what Yahweh is saying:\n“Rise, plead your case before the mountains,\nand let the hills hear your voice.”"
+    },
+    {
+     "v": 2,
+     "text": "Hear, you mountains, Yahweh’s lawsuit,{a}\nyou enduring foundations of the earth;\nfor Yahweh has a case against his people,\nand with Israel he will argue it."
+    },
+    {
+     "v": 3,
+     "text": "“My people, what have I done to you?\nHow have I worn you out? Answer me!"
+    },
+    {
+     "v": 4,
+     "text": "For I brought you up from the land of Egypt\nand ransomed you from the house of slavery;\nI sent before you Moses,\nAaron, and Miriam."
+    },
+    {
+     "v": 5,
+     "text": "My people, recall now\nwhat Balak, Moab’s king, schemed,\nwhat reply Balaam son of Beor gave him,{b}\nand all that took place between Shittim and Gilgal,{c}\nthat you may know the righteous acts{d} of Yahweh.”"
+    },
+    {
+     "v": 6,
+     "text": "With what shall I come before Yahweh\nand bow down to God on high?\nShall I come before him with burnt offerings,\nwith calves a year old?"
+    },
+    {
+     "v": 7,
+     "text": "Is Yahweh delighted by rams in their thousands,\nby oil flowing in ten thousand streams?\nShall I give my firstborn for my rebellion,\nthe fruit of my body for the sin of my soul?"
+    },
+    {
+     "v": 8,
+     "text": "He has told you, O mortal,{e} what is good;\nand what does Yahweh ask of you\nbut to do justice, to love faithful kindness,{f}\nand to walk humbly{g} with your God?"
+    },
+    {
+     "v": 9,
+     "text": "The voice of Yahweh calls to the city—\nand it is wisdom to fear your name:{h}\n“Listen, tribe, and who appointed it!{i}"
+    },
+    {
+     "v": 10,
+     "text": "Can I forget{j} the treasures gained by wickedness\nin the house of the wicked,\nand the short measure{k} that is accursed?"
+    },
+    {
+     "v": 11,
+     "text": "Shall I acquit the one with crooked scales,\nwith a bag of false weights?"
+    },
+    {
+     "v": 12,
+     "text": "Her rich are full of violence;\nher inhabitants speak lies,\nand their tongue is deceit in their mouths."
+    },
+    {
+     "v": 13,
+     "text": "So I in turn have begun to strike you,{l}\nto lay you waste because of your sins."
+    },
+    {
+     "v": 14,
+     "text": "You will eat but not be satisfied,\nand hunger{m} will remain within you;\nyou will put things aside but not save them,\nand what you save I will give to the sword."
+    },
+    {
+     "v": 15,
+     "text": "You will sow but not reap;\nyou will tread olives but not anoint yourself with oil,\nand grapes, but not drink the wine."
+    },
+    {
+     "v": 16,
+     "text": "For you have kept the statutes of Omri{n}\nand all the practices of Ahab’s house,\nand you have walked in their counsels;\nso I will turn you into a wasteland\nand your{o} people into something to hiss at;\nyou will bear the scorn of my people.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Hebrew rib, a formal legal complaint; the mountains and the foundations of the earth are summoned as witnesses (compare Deuteronomy 32:1; Isaiah 1:2)."
+    },
+    {
+     "m": "b",
+     "ref": "6:5",
+     "text": "See Numbers 22–24."
+    },
+    {
+     "m": "c",
+     "ref": "6:5",
+     "text": "Shittim was Israel’s last camp east of the Jordan (Numbers 25:1; Joshua 3:1); Gilgal its first camp west of it (Joshua 4:19)."
+    },
+    {
+     "m": "d",
+     "ref": "6:5",
+     "text": "Or “saving acts.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:8",
+     "text": "Hebrew ʾadam, “human being.”"
+    },
+    {
+     "m": "f",
+     "ref": "6:8",
+     "text": "Hebrew ḥesed, loyal and steadfast love."
+    },
+    {
+     "m": "g",
+     "ref": "6:8",
+     "text": "Or “carefully, attentively.”"
+    },
+    {
+     "m": "h",
+     "ref": "6:9",
+     "text": "So the Septuagint, reading the Hebrew with different vowels; the Masoretic Text reads “sees.”"
+    },
+    {
+     "m": "i",
+     "ref": "6:9",
+     "text": "The meaning of the Hebrew of this line is uncertain; perhaps “Hear, tribe and assembly of the city.”"
+    },
+    {
+     "m": "j",
+     "ref": "6:10",
+     "text": "The Hebrew of this line is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "6:10",
+     "text": "Hebrew “the lean ephah.” The ephah was a dry measure of about two-thirds of a bushel (22 liters); merchants used undersized measures to cheat buyers."
+    },
+    {
+     "m": "l",
+     "ref": "6:13",
+     "text": "Or, following the Septuagint, “I have made you sick by striking you.”"
+    },
+    {
+     "m": "m",
+     "ref": "6:14",
+     "text": "The meaning of the Hebrew word is uncertain."
+    },
+    {
+     "m": "n",
+     "ref": "6:16",
+     "text": "Omri and his son Ahab, kings of Israel in the ninth century BC, were remembered for Baal worship and injustice (1 Kings 16–21)."
+    },
+    {
+     "m": "o",
+     "ref": "6:16",
+     "text": "Hebrew “her.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    8,
+    11,
+    14,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Woe is me! For I have become\nlike one at the gathering of summer fruit,\nlike the gleaning after the grape harvest:\nno cluster to eat,\nno early fig that I crave."
+    },
+    {
+     "v": 2,
+     "text": "The faithful have perished from the land,\nand there is no one upright among humankind;\nall of them lie in ambush for blood;\neach hunts his brother with a net."
+    },
+    {
+     "v": 3,
+     "text": "Their hands are skilled at evil;\nthe official asks for gifts,\nthe judge for a bribe,\nand the great man speaks out what his greed desires—\nso they weave it together."
+    },
+    {
+     "v": 4,
+     "text": "The best of them is like a briar,\nthe most upright worse than a thorn hedge.\nThe day of your watchmen,{a} your punishment, has come;\nnow will be their confusion."
+    },
+    {
+     "v": 5,
+     "text": "Do not rely on a companion;\ndo not lean on a close friend;\neven from her who lies in your arms\nkeep watch over the door of your lips."
+    },
+    {
+     "v": 6,
+     "text": "For the son treats his father with contempt,\nthe daughter rises against her mother,\nthe daughter-in-law against her mother-in-law;\na man’s enemies are those of his own house.{b}"
+    },
+    {
+     "v": 7,
+     "text": "But as for me, I will watch for Yahweh;\nI will wait for the God of my salvation;\nmy God will hear me."
+    },
+    {
+     "v": 8,
+     "text": "Rejoice not over me, you my foe!\nI have fallen, yet I will get up;\nI sit in the dark,\nyet Yahweh is a light to me."
+    },
+    {
+     "v": 9,
+     "text": "I will bear Yahweh’s anger,\nbecause I have sinned against him,\nuntil he takes up my case\nand brings about justice for me.\nHe will lead me out to the light;\nI will see his saving righteousness."
+    },
+    {
+     "v": 10,
+     "text": "Then my enemy will see,\nand shame will cover her,\nshe who said to me,\n“Where is Yahweh your God?”\nMy eyes will look upon her;\nnow she will be trampled\nlike mud in the streets."
+    },
+    {
+     "v": 11,
+     "text": "A day for building your walls!\nOn that day the boundary will be far extended.{c}"
+    },
+    {
+     "v": 12,
+     "text": "On that day they will come to you\nfrom Assyria and the cities of Egypt,{d}\nand from Egypt to the River,{e}\nfrom sea to sea and from mountain to mountain."
+    },
+    {
+     "v": 13,
+     "text": "Yet the land will lie waste\non account of those who dwell in it,\nthe outcome of their doings."
+    },
+    {
+     "v": 14,
+     "text": "Shepherd your people with your staff,\nthe flock that is your inheritance,\nwho live alone in a forest\nin the midst of a fruitful land;{f}\nlet them graze in Bashan and Gilead\nas in days long ago."
+    },
+    {
+     "v": 15,
+     "text": "As in the days when you came out of the land of Egypt,\nI will show them{g} marvelous things."
+    },
+    {
+     "v": 16,
+     "text": "The nations will see and be ashamed\nof all their might;\nthey will lay their hands on their mouths;\ntheir ears will be deaf."
+    },
+    {
+     "v": 17,
+     "text": "They will lick dust like a snake,\nlike crawling things of the earth;\nthey will come trembling out of their strongholds;\nto Yahweh our God they will turn in dread,\nand they will be afraid of you."
+    },
+    {
+     "v": 18,
+     "text": "Who is a God like you,{h}\npardoning iniquity\nand passing over the rebellion\nof the remnant of his inheritance?\nHe does not cling to his wrath for all time,\nfor faithful love is his delight."
+    },
+    {
+     "v": 19,
+     "text": "He will again have compassion on us;\nhe will tread our iniquities underfoot.\nYou will cast all our{i} sins\ninto the depths of the sea."
+    },
+    {
+     "v": 20,
+     "text": "You will show faithfulness to Jacob,\nsteadfast love to Abraham,\nas you swore to our ancestors\nfrom the days of old."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:4",
+     "text": "That is, the day the prophets warned of."
+    },
+    {
+     "m": "b",
+     "ref": "7:6",
+     "text": "Jesus quotes this verse in Matthew 10:35–36; compare Luke 12:53."
+    },
+    {
+     "m": "c",
+     "ref": "7:11",
+     "text": "Or “the decree will be far removed.” The meaning is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "7:12",
+     "text": "Hebrew matsor, “Egypt” or “fortress,” a play on words."
+    },
+    {
+     "m": "e",
+     "ref": "7:12",
+     "text": "The Euphrates."
+    },
+    {
+     "m": "f",
+     "ref": "7:14",
+     "text": "Hebrew Carmel, “garden land,” perhaps also the mountain of that name."
+    },
+    {
+     "m": "g",
+     "ref": "7:15",
+     "text": "Hebrew “him.”"
+    },
+    {
+     "m": "h",
+     "ref": "7:18",
+     "text": "A play on Micah’s name, “Who is like Yahweh?” (1:1)."
+    },
+    {
+     "m": "i",
+     "ref": "7:19",
+     "text": "So the Septuagint, Syriac, and Vulgate; Hebrew “their.”"
+    }
+   ]
+  }
+ ]
+}

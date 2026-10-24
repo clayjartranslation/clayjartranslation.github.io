@@ -1193,8 +1193,16 @@
    "name": "Micah",
    "division": "Old Testament",
    "chapterCount": "7",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "file": "data/books/micah.json"
   },
   {
    "id": "nahum",
