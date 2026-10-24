@@ -1,0 +1,123 @@
+{
+ "id": "3-john",
+ "name": "3 John",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The writer calls himself “the elder” (verse 1); on the authorship see the introduction to 2 John. This translation numbers the verses 1–15, following the Greek editions; many English versions combine verses 14 and 15 into a single verse 14. The chief early witnesses are Codices Sinaiticus, Alexandrinus and Vaticanus.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    5,
+    9,
+    11,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The elder, to my dear Gaius, whom I love in truth.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Dear friend, I pray that all is well with you and that you are in health, just as it is well with your soul."
+    },
+    {
+     "v": 3,
+     "text": "For I was overjoyed when brothers came and spoke of your truth, how you are living in the truth.{b}"
+    },
+    {
+     "v": 4,
+     "text": "I have no greater joy than this, to hear that my children are living in the truth.{c}"
+    },
+    {
+     "v": 5,
+     "text": "Dear friend, it is a faithful thing you do in all your service to the brothers, and to visitors from elsewhere at that."
+    },
+    {
+     "v": 6,
+     "text": "They have spoken of your love before the church. You will do well to send them on their way in a manner worthy of God.{d}"
+    },
+    {
+     "v": 7,
+     "text": "It was for the Name that they went out, taking no help from unbelievers.{e}"
+    },
+    {
+     "v": 8,
+     "text": "So we ought to support people like these, so that we may become fellow workers for the truth."
+    },
+    {
+     "v": 9,
+     "text": "I wrote something to the church, but Diotrephes, who likes to be first among them, does not acknowledge us.{f}"
+    },
+    {
+     "v": 10,
+     "text": "So if I come, I will bring up what he is doing, spreading malicious nonsense about us. And not content with that, he himself refuses to receive the brothers, and stops those who want to, and puts them out of the church."
+    },
+    {
+     "v": 11,
+     "text": "Dear friend, copy not evil but good. One who does good belongs to God; one who does evil has never seen God."
+    },
+    {
+     "v": 12,
+     "text": "Demetrius has a good report from everyone, and from the truth itself. We add our testimony too, and you know that our testimony is true.{g}"
+    },
+    {
+     "v": 13,
+     "text": "I had much to write to you, but I do not want to write it to you with pen and ink."
+    },
+    {
+     "v": 14,
+     "text": "I expect to see you before long, and then we can speak in person.{h}"
+    },
+    {
+     "v": 15,
+     "text": "Peace be with you. The friends greet you. Greet the friends by name."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Gaius*: a common Latin name, perhaps from *gaudere*, “to rejoice”; several men of this name appear in the New Testament (Acts 19:29; 20:4; Rom 16:23; 1 Cor 1:14)."
+    },
+    {
+     "m": "b",
+     "ref": "1:3",
+     "text": "Brothers: Greek *adelphoi*, fellow believers, which includes sisters; so throughout the letter."
+    },
+    {
+     "m": "c",
+     "ref": "1:4",
+     "text": "Greater joy: some manuscripts read “greater grace.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:6",
+     "text": "Send them on their way: that is, provide what they need for the journey."
+    },
+    {
+     "m": "e",
+     "ref": "1:7",
+     "text": "The Name: that is, the name of Christ. *Unbelievers*: Greek *ethnikoi*, “Gentiles,” here meaning those outside the faith."
+    },
+    {
+     "m": "f",
+     "ref": "1:9",
+     "text": "*Diotrephes*: “nurtured by Zeus.” *I wrote something*: later manuscripts read “I would have written.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:12",
+     "text": "*Demetrius*: “belonging to Demeter,” the Greek goddess of grain."
+    },
+    {
+     "m": "h",
+     "ref": "1:14",
+     "text": "In person: literally “mouth to mouth.”"
+    }
+   ]
+  }
+ ]
+}
