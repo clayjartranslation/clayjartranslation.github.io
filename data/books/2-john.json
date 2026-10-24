@@ -1,0 +1,117 @@
+{
+ "id": "2-john",
+ "name": "2 John",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The writer calls himself “the elder” (verse 1). Early tradition ascribes this letter, with 1 and 3 John, to John the apostle; some early writers (Papias as reported by Eusebius) mention a “John the elder,” and many scholars regard the three letters as coming from a leader in the same circle of churches. This translation takes no position. The chief early witnesses are Codices Sinaiticus, Alexandrinus and Vaticanus.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    4,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The elder, to the chosen lady and her children, whom I love in truth, and not I alone but also all who have come to know the truth,{a}"
+    },
+    {
+     "v": 2,
+     "text": "because of the truth which lives on in us and will stay with us for all time:"
+    },
+    {
+     "v": 3,
+     "text": "Grace, mercy and peace will be with us from God the Father and from Jesus Christ, the Father’s Son, in truth and love.{b}"
+    },
+    {
+     "v": 4,
+     "text": "It gave me great joy to find some of your children living in the truth, just as we were commanded by the Father.{c}"
+    },
+    {
+     "v": 5,
+     "text": "And now, lady, I make a request of you, not as though I were writing you a new commandment, but the one we have had from the beginning: that we love one another."
+    },
+    {
+     "v": 6,
+     "text": "And love means this, that we live by his commandments. This is the commandment, just as you heard from the beginning, that you live in it."
+    },
+    {
+     "v": 7,
+     "text": "For many deceivers have gone out into the world, people who do not confess Jesus Christ coming in the flesh. Such a one is the deceiver and the antichrist.{d}"
+    },
+    {
+     "v": 8,
+     "text": "Look to yourselves, that you may not throw away the fruit of our labor but may be paid your wages in full.{e}"
+    },
+    {
+     "v": 9,
+     "text": "Anyone who goes on ahead and does not remain in the teaching of Christ does not have God. Whoever remains in the teaching has both the Father and the Son.{f}"
+    },
+    {
+     "v": 10,
+     "text": "Should anyone come to you who does not carry this teaching, do not welcome him under your roof or bid him good day;{g}"
+    },
+    {
+     "v": 11,
+     "text": "for whoever greets him shares in his evil works."
+    },
+    {
+     "v": 12,
+     "text": "There is a great deal I could write to you, but I prefer not to use paper and ink. I am hoping rather to visit you and speak with you in person, so that our joy may be made full.{h}"
+    },
+    {
+     "v": 13,
+     "text": "The children of your chosen sister greet you.{i}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Elder: Greek *presbyteros*, “older man,” “church leader.” *The chosen lady*: probably a church and its members, personified; compare verse 13. Some take *Kyria* (“lady”) as a personal name."
+    },
+    {
+     "m": "b",
+     "ref": "1:3",
+     "text": "From Jesus Christ: later manuscripts read “from the Lord Jesus Christ.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:4",
+     "text": "Living: literally “walking”; so in verse 6."
+    },
+    {
+     "m": "d",
+     "ref": "1:7",
+     "text": "Antichrist: Greek *antichristos*, “opponent of Christ”; compare 1 John 2:18–22."
+    },
+    {
+     "m": "e",
+     "ref": "1:8",
+     "text": "The fruit of our labor: some manuscripts read “the fruit of your labor.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:9",
+     "text": "Goes on ahead: later manuscripts read “transgresses.” *Remains in the teaching*: later manuscripts add “of Christ.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:10",
+     "text": "Under your roof: perhaps the house where the church met."
+    },
+    {
+     "m": "h",
+     "ref": "1:12",
+     "text": "In person: literally “mouth to mouth.” *Our joy*: some manuscripts read “your joy.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:13",
+     "text": "Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}
