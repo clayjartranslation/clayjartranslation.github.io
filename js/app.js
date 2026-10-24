@@ -215,9 +215,16 @@
           return note ? `<button type="button" class="fn" data-m="${m}" aria-label="Footnote ${m}" aria-haspopup="dialog">${m}</button>` : '';
         });
         const isFirst = v.v === 1;
-        return `<span class="verse" id="v${v.v}"><sup class="vnum${isFirst ? ' first' : ''}" aria-label="Verse ${v.v}">${v.v}</sup>${body}</span>`;
+        const sup = `<sup class="vnum${isFirst ? ' first' : ''}" aria-label="Verse ${v.v}">${v.v}</sup>`;
+        // Poetry: a verse text may contain line breaks ("\n"); each becomes its own indented line.
+        if (body.includes('\n')) {
+          const lines = body.split('\n').map((l, li) => `<span class="pl">${li === 0 ? sup : ''}${l.trim()}</span>`).join('');
+          return `<span class="verse" id="v${v.v}">${lines}</span>`;
+        }
+        return `<span class="verse" id="v${v.v}">${sup}${body}</span>`;
       }).join(' ');
-      return `<p>${vs}</p>`;
+      const poem = ch.verses.slice(s - 1, starts[pi + 1] - 1).some((v) => v.text.includes('\n'));
+      return `<p${poem ? ' class="poem"' : ''}>${vs}</p>`;
     }).join('');
     const notes = ch.notes.map((x) => `<li id="note-${x.m}"><span class="m">${x.m}</span><a class="r" href="#/read/${id}/${ch.n}/${x.ref.split(':')[1] || ''}">${esc(x.ref)}</a><span>${esc(x.text)}</span></li>`).join('');
     const bookMeta = cat.books.find((b) => b.id === id);

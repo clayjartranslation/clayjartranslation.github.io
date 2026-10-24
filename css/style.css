@@ -170,6 +170,10 @@ h3 { font-size: 1.12rem; margin: 1.75rem 0 .5rem; }
 .scripture { max-width: var(--measure); margin: 0 auto; font-family: var(--serif); font-size: var(--read-size); line-height: 1.75; hyphens: auto; -webkit-hyphens: auto; text-wrap: pretty; }
 .scripture p { margin: 0 0 .9em; text-indent: 1.2em; }
 .scripture p:first-child { text-indent: 0; }
+.scripture p.poem { text-indent: 0; }
+.scripture .poem .pl { display: block; padding-left: 2.2em; text-indent: -1.2em; }
+.scripture .poem .pl + .pl { padding-left: 3.2em; }
+.scripture .poem .vnum.first { float: none; font-size: 1.4em; line-height: 0; vertical-align: baseline; margin-right: .2em; }
 .verse { scroll-margin-top: 5rem; border-radius: 4px; transition: background .6s; }
 .verse.flash { background: var(--mark); }
 .vnum { font-family: var(--sans); font-size: .58em; font-weight: 700; color: var(--ink-faint); vertical-align: super; line-height: 0; margin: 0 .2em 0 .05em; user-select: none; font-variant-numeric: tabular-nums; }
