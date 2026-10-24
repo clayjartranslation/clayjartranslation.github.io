@@ -1,7 +1,7 @@
 /* Service worker: saves the whole site for offline reading. Bump VERSION when files change
    (tools/add-book.js does this automatically). All paths are relative, so the site works
    from a domain root or a subpath such as https://USER.github.io/cjt-bible/. */
-const VERSION = 'cjt-v111';
+const VERSION = 'cjt-v112';
 const CORE = [
   './', 'index.html', 'css/style.css', 'js/app.js', 'manifest.webmanifest',
   'data/books.json', 'data/front-matter.json',

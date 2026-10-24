@@ -1340,8 +1340,15 @@
    "name": "Additions to Esther",
    "division": "Apocrypha",
    "chapterCount": 6,
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "file": "data/books/additions-to-esther.json"
   },
   {
    "id": "wisdom-of-solomon",

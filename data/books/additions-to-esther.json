@@ -1,0 +1,717 @@
+{
+ "id": "additions-to-esther",
+ "name": "Additions to Esther",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of Esther in A. Rahlfs, *Septuaginta* (1935), checked against H. B. Swete, *The Old Testament in Greek according to the Septuagint* (1891–94; public domain). The Greek book of Esther contains six passages, about 107 verses, that are not in the Hebrew. Only these six Additions are given here; the rest of Esther appears with the Hebrew canon. Additions B and E, the two royal letters, were composed in Greek; A, C, D and F may go back to a Semitic original (reported). The colophon at F11 dates the Greek translation to the reign of a Ptolemy and a Cleopatra, probably in the late 2nd or early 1st century BC. Two numbering systems are in use. Jerome placed the Additions together at the end of Esther in the Latin Vulgate, and the King James Apocrypha follows that order as Esther 10:4–16:24. As a result, the dream’s interpretation (10:4–13) comes before the dream itself (11:2–12:6). Modern editions instead put each Addition back in its place in the Greek story and label them A to F. This translation presents them in the story’s order, as chapters 1–6 = Additions A–F. Verses are numbered within each Addition (A1–17, B1–7, C1–30, D1–16, E1–24, F1–11), following the KJV verse divisions. Each chapter heading gives both the Rahlfs reference (for example, Esther 1:1a–r) and the KJV reference (for example, 11:2–12:6): A = 11:2–12:6; B = 13:1–7; C = 13:8–14:19; D = 15:1–16; E = 16:1–24; F = 10:4–11:1. The Additions supply what the Hebrew book lacks: the name of God, prayer, and an explicit account of divine help. Greek *kyrios* is rendered “Lord.” Months are given with their approximate modern equivalents. The Additions are received as Scripture by Catholic and Orthodox churches (in the Catholic Bible as part of Esther); Protestant churches place them among the Apocrypha.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    4,
+    11,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "It was the second regnal year of Artaxerxes the Great,{a} on the first day of Nisan (March–April),{b} that Mordecai{c} son of Jair, son of Shimei, son of Kish, of Benjamin’s tribe, beheld a dream."
+    },
+    {
+     "v": 2,
+     "text": "A Jew by birth, he made his home in the city of Susa,{d} a man of standing who waited on the king within his court."
+    },
+    {
+     "v": 3,
+     "text": "He was one of that captive company whom Nebuchadnezzar king of Babylon had carried off out of Jerusalem along with Jeconiah king of Judea.{e} And this was his dream:"
+    },
+    {
+     "v": 4,
+     "text": "Behold, voices and din, thunderclaps and quaking, turmoil upon the earth!"
+    },
+    {
+     "v": 5,
+     "text": "And behold, two huge dragons{f} came out, the pair of them primed to wrestle, and from them there rose a mighty roar."
+    },
+    {
+     "v": 6,
+     "text": "At that roar every nation got itself ready for war, to wage battle on a nation of righteous ones."
+    },
+    {
+     "v": 7,
+     "text": "And behold, a day of murk and gloom, of pressure and narrow straits, of ill-usage and vast turmoil upon the earth!"
+    },
+    {
+     "v": 8,
+     "text": "The whole righteous nation was thrown into confusion; dreading the evils laid up for them, they braced themselves to perish, and they raised a cry to God."
+    },
+    {
+     "v": 9,
+     "text": "And out of their cry, as if out of a small spring, there came to be a great river, waters in plenty."
+    },
+    {
+     "v": 10,
+     "text": "Light, and the sun came up; the humble were raised on high and swallowed up the illustrious."
+    },
+    {
+     "v": 11,
+     "text": "Mordecai, the one who had seen this dream and what God had purposed to do, awoke; he held it fast in his heart and longed to grasp it in its every word, until night came."
+    },
+    {
+     "v": 12,
+     "text": "Now Mordecai was taking his ease in the court with Gabatha and Tharra,{g} two of the king’s eunuchs who kept watch over the court."
+    },
+    {
+     "v": 13,
+     "text": "He caught their reckonings and searched out their worries, and he learned that they were making ready to lay hands on King Artaxerxes; so he informed the king about them."
+    },
+    {
+     "v": 14,
+     "text": "The king put the two eunuchs to examination; they owned the deed and were led away.{h}"
+    },
+    {
+     "v": 15,
+     "text": "The king wrote these matters down for a record, and Mordecai likewise put into writing an account of them."
+    },
+    {
+     "v": 16,
+     "text": "Then the king charged Mordecai to serve in the court and bestowed gifts on him in return for these things."
+    },
+    {
+     "v": 17,
+     "text": "But Haman son of Hammedatha, the Bougaean,{i} enjoyed great honor in the king’s sight, and he looked for a way to do harm to Mordecai and to his people because of the king’s two eunuchs.{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Artaxerxes: the Greek Esther calls the king Artaxerxes (Old Persian Artakhshaça, “whose rule is through truth,” reported); the Hebrew book calls him Ahasuerus (Ahashverosh), who is generally identified with Xerxes I (486–465 BC). On that identification the second year is about 485/484 BC. Josephus likewise calls him Artaxerxes (reported)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Nisan: the first month of the Jewish year, of Babylonian origin; it began at the new moon of March–April."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Mordecai: Greek Mardochaios, Hebrew Mordekhai, probably a name formed from that of the Babylonian god Marduk. Jair means “he gives light,” Shimei “heard,” and Kish perhaps “gift” (reported); Shimei and Kish are names connected with the family of Saul (2 Samuel 16:5; 1 Samuel 9:1). Benjamin means “son of the right hand.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Susa: Hebrew Shushan, a royal residence of the Persian kings in Elam, in southwest Iran. Greek “Susa the city” may mean the city as distinct from the fortified citadel (compare Esther 1:2 Hebrew), but the distinction is not certain."
+    },
+    {
+     "m": "e",
+     "ref": "1:3",
+     "text": "Jeconiah: Greek Iechonias, also called Jehoiachin (“Yahweh establishes”), deported in 597 BC (2 Kings 24:12–15). Read strictly, this would make Mordecai well over a hundred years old under Xerxes. The same difficulty arises in Hebrew Esther 2:6, where the clause may instead refer to his great-grandfather Kish."
+    },
+    {
+     "m": "f",
+     "ref": "1:5",
+     "text": "Dragons: Greek drakontes, great serpents or dragons. Mordecai explains them in Addition F (F4) as himself and Haman."
+    },
+    {
+     "m": "g",
+     "ref": "1:12",
+     "text": "Gabatha and Tharra: these are Bigthan (or Bigthana) and Teresh in Hebrew Esther 2:21. The KJV Apocrypha begins chapter 12 with this verse (A12 = KJV 12:1). The plot reported here doubles the one told in Esther 2:21–23, which the Hebrew places in the seventh year or later."
+    },
+    {
+     "m": "h",
+     "ref": "1:14",
+     "text": "Were led away: a common Greek euphemism for being taken off to execution. KJV has “strangled.” In Hebrew Esther 2:23 the two are hanged (or impaled) on a stake."
+    },
+    {
+     "m": "i",
+     "ref": "1:17",
+     "text": "Haman: Greek Aman; the meaning of the name is uncertain (perhaps Persian or Elamite, reported). Hammedatha (Greek Amadathos) is a Persian name, perhaps “given by the moon” or “given by Haoma” (reported). “Bougaean” (Greek Bougaios) is obscure; it seems to stand where the Hebrew calls him an “Agagite” (Esther 3:1), linking him with Agag the Amalekite (1 Samuel 15:8). In Addition E (E10) he is called a Macedonian. Review."
+    },
+    {
+     "m": "j",
+     "ref": "1:17",
+     "text": "Because of the king’s two eunuchs: here Haman’s enmity comes from the fate of the eunuchs, whereas in Esther 3:2–6 it comes from Mordecai’s refusal to bow to him. The two motives stand side by side in the Greek book."
+    }
+   ],
+   "heading": "Addition A: Mordecai’s Dream and the Eunuchs’ Plot",
+   "title": "Greek Esther 1:1a–r (KJV Apocrypha 11:2–12:6). In the Greek book this stands before Esther 1:1."
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    2
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "And of the letter this is the copy: “The Great King Artaxerxes writes thus to the governors of the hundred and twenty-seven provinces from India to Ethiopia,{a} and to the district officials set beneath them:"
+    },
+    {
+     "v": 2,
+     "text": "“Having become ruler over many nations and gained mastery over the whole inhabited world, I have willed, never buoyed up by the brashness of my power but ever handling affairs with fairness and mildness, to establish for my subjects lives free of every billow, to furnish a kingdom tamed and open to travel as far as its outermost limits, and to bring back that peace for which every person yearns."
+    },
+    {
+     "v": 3,
+     "text": "When I put the question to my counselors how this end might be attained, Haman—one excelling among us in good sense, shown to be unwavering in his loyalty and firm in his faithfulness, and holding as his prize the second dignity of the realm—"
+    },
+    {
+     "v": 4,
+     "text": "made plain to us that, mingled among all the tribes over the world, there is a certain hostile people whose laws set it against every nation, a people who forever brush aside the edicts of the kings, so that the joint rule{b} which we steer without fault cannot be settled firm."
+    },
+    {
+     "v": 5,
+     "text": "Since we have therefore perceived that this nation, unique among all, lies continually athwart every human being, following an alien code of living by its laws, and bearing ill will to our affairs, bringing the foulest evils to pass, so that the kingdom fails to win stability,"
+    },
+    {
+     "v": 6,
+     "text": "we have accordingly given orders that the persons pointed out to you in the writings of Haman—who has charge of our affairs and is a second father to us{c}—be wholly uprooted, women and children with them, by their enemies’ swords, with no compassion and no sparing, on the fourteenth of the twelfth month, Adar (February–March), of this current year,{d}"
+    },
+    {
+     "v": 7,
+     "text": "to the end that those who were of old, and are now, ill-disposed may in a single day go down by force to Hades,{e} and for the time hereafter leave our affairs to us steady and untroubled to the last.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "India to Ethiopia: the limits of the Persian empire as given in Esther 1:1. “India” is the Indus valley region; “Ethiopia” (Hebrew Cush) is the Nile land south of Egypt. Additions B and E were composed in Greek, in the ornate style of Hellenistic royal correspondence; the KJV Apocrypha prints B as 13:1–7."
+    },
+    {
+     "m": "b",
+     "ref": "2:4",
+     "text": "Joint rule: Greek synarchia, a rare word for a shared or unified government; the sense is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "2:6",
+     "text": "Second father: an honorary title for the king’s chief minister; compare Genesis 45:8 and Addition E (E11)."
+    },
+    {
+     "m": "d",
+     "ref": "2:6",
+     "text": "Fourteenth … Adar: the Greek text of Esther 3:7 likewise has the fourteenth, but Hebrew Esther 3:13 and Addition E (E20) have the thirteenth. Adar is the twelfth month, beginning at the new moon of February–March."
+    },
+    {
+     "m": "e",
+     "ref": "2:7",
+     "text": "Hades: Greek Hadēs, the realm of the dead, corresponding to Hebrew Sheol."
+    }
+   ],
+   "heading": "Addition B: The King’s Letter against the Jews",
+   "title": "Greek Esther 3:13a–g (KJV Apocrypha 13:1–7). In the Greek book this follows Esther 3:13."
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Mordecai besought the Lord, recalling to mind every work of the Lord, and spoke:{a}"
+    },
+    {
+     "v": 2,
+     "text": "“Lord, Lord, King holding sway over all things, since the whole universe rests in your authority, and none can stand opposed to you when your will is to save Israel—"
+    },
+    {
+     "v": 3,
+     "text": "for it was you who made the heaven and the earth and everything to be wondered at under heaven,"
+    },
+    {
+     "v": 4,
+     "text": "and Lord of all are you; nor is there one who shall array himself against you, who are the Lord."
+    },
+    {
+     "v": 5,
+     "text": "All things are known to you. You know, Lord, that it was not in insolence, nor in haughtiness, nor in a craving for glory that I did this, the not bowing low before the haughty Haman;{b}"
+    },
+    {
+     "v": 6,
+     "text": "for I would have been well content to kiss the very soles of his feet to keep Israel safe."
+    },
+    {
+     "v": 7,
+     "text": "Rather, I acted so, lest I set a mortal’s glory higher than God’s glory; and to none will I bow low except to you, my Lord, and I will not do these things in haughtiness."
+    },
+    {
+     "v": 8,
+     "text": "And now, Lord God, the King, God of Abraham,{c} have pity on your people, for they are watching us to bring us to ruin, and they have set their hearts on destroying your inheritance from the first."
+    },
+    {
+     "v": 9,
+     "text": "Do not look past your portion, which you ransomed out of the land of Egypt for your own."
+    },
+    {
+     "v": 10,
+     "text": "Give ear to my plea; show mercy to your allotted share, and change our mourning into feasting, so that living we may hymn your name, Lord; and do not blot out the mouth of those who give you praise.”"
+    },
+    {
+     "v": 11,
+     "text": "And all Israel shouted aloud with their whole strength, for their death stood before their eyes."
+    },
+    {
+     "v": 12,
+     "text": "Esther the queen too, gripped by mortal anguish, fled for refuge to the Lord.{d}"
+    },
+    {
+     "v": 13,
+     "text": "Putting off the robes of her glory, she wrapped herself in robes of hardship and lament. Instead of costly fragrances she heaped her head with ash and filth; she brought her body very low, and every spot that her joyful adornment had graced she covered with locks of her twisted hair."
+    },
+    {
+     "v": 14,
+     "text": "And she made her plea to the Lord God of Israel, saying: “My Lord, our King, you alone are he; come to my aid, who am alone and have no helper apart from you,"
+    },
+    {
+     "v": 15,
+     "text": "since my danger lies in my hand.{e}"
+    },
+    {
+     "v": 16,
+     "text": "I have heard from my birth, in the tribe of my father’s house, that you, Lord, chose out Israel from among all the nations, and our fathers from all who went before them, as a possession forever, and that you performed for them whatever you had spoken."
+    },
+    {
+     "v": 17,
+     "text": "But now we have done wrong before your face, and you have given us up into our enemies’ grasp,"
+    },
+    {
+     "v": 18,
+     "text": "in return for our giving glory to their gods. Just are you, Lord!"
+    },
+    {
+     "v": 19,
+     "text": "And now they have not had their fill of the bitterness of our bondage; they have laid their hands on the hands of their idols,{f}"
+    },
+    {
+     "v": 20,
+     "text": "to cancel what your mouth decreed, to wipe out your inheritance, to block up the mouth of those who praise you, and to snuff out the glory of your house and of your altar;"
+    },
+    {
+     "v": 21,
+     "text": "to open the mouth of the nations to extol the virtues of vain things, and to have a king of flesh held in wonder forever."
+    },
+    {
+     "v": 22,
+     "text": "Do not, Lord, hand over your scepter to things that have no being;{g} do not let them jeer at our fall, but turn their counsel back upon themselves, and make a public example of the one who began this against us."
+    },
+    {
+     "v": 23,
+     "text": "Remember, Lord; reveal yourself in the hour of our distress, and put courage into me, King of the gods and Master over every power."
+    },
+    {
+     "v": 24,
+     "text": "Set fitting and well-measured speech in my mouth before the lion,{h} and turn his heart to loathing of him who makes war on us, to make an end of him and those who are of one mind with him."
+    },
+    {
+     "v": 25,
+     "text": "But us, deliver by your hand, and help me, who am alone and have none but you, Lord."
+    },
+    {
+     "v": 26,
+     "text": "Knowledge of everything is yours, and you know that I have hated the glory of the lawless and loathe the bed of the uncircumcised and of every foreigner.{i}"
+    },
+    {
+     "v": 27,
+     "text": "You know my constraint: that I loathe the emblem of my proud station that rests on my head on the days I am on display; I loathe it like a cloth of a woman’s impurity,{j} and on my days of quiet I do not put it on."
+    },
+    {
+     "v": 28,
+     "text": "Your slave woman has not eaten at the table of Haman, nor have I honored a banquet of the king, nor drunk wine of drink offerings.{k}"
+    },
+    {
+     "v": 29,
+     "text": "Since the day of my change of fortune until now your slave woman has found no gladness except in you, Lord God of Abraham."
+    },
+    {
+     "v": 30,
+     "text": "O God, mighty over all, hear the voice of those who have lost hope; save us from the hand of the wicked, and save me from my fear.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "The Lord: Greek kyrios, used throughout these prayers, where the Hebrew book of Esther never names God at all. The KJV Apocrypha prints Mordecai’s prayer as 13:8–18 (C1 = 13:8). Review."
+    },
+    {
+     "m": "b",
+     "ref": "3:5",
+     "text": "Bowing low: Greek proskynein, the bow or prostration paid to Persian kings and high officials. Mordecai explains here a refusal that the Hebrew book leaves unexplained (Esther 3:2–4)."
+    },
+    {
+     "m": "c",
+     "ref": "3:8",
+     "text": "Abraham: “father of a multitude” (Genesis 17:5)."
+    },
+    {
+     "m": "d",
+     "ref": "3:12",
+     "text": "Esther: Greek Esthēr, Hebrew Ester, perhaps from Persian stāra, “star,” or from the name of the goddess Ishtar (reported); her Hebrew name was Hadassah, “myrtle” (Esther 2:7). The KJV Apocrypha begins chapter 14 here (C12 = 14:1)."
+    },
+    {
+     "m": "e",
+     "ref": "3:15",
+     "text": "My danger lies in my hand: that is, “I am taking my life in my hands”; compare Judges 12:3 and 1 Samuel 19:5."
+    },
+    {
+     "m": "f",
+     "ref": "3:19",
+     "text": "Laid their hands on the hands of their idols: that is, they have made a solemn pledge before their gods."
+    },
+    {
+     "m": "g",
+     "ref": "3:22",
+     "text": "Things that have no being: the idols, or the false gods they represent."
+    },
+    {
+     "m": "h",
+     "ref": "3:24",
+     "text": "The lion: the king."
+    },
+    {
+     "m": "i",
+     "ref": "3:26",
+     "text": "Bed of the uncircumcised: the prayer presents Esther’s marriage to the Persian king as something forced on her, answering a question the Hebrew book does not raise."
+    },
+    {
+     "m": "j",
+     "ref": "3:27",
+     "text": "A cloth of a woman’s impurity: Greek rhakos katamēniōn, a menstrual cloth (compare Leviticus 15:19–24; Isaiah 64:6). The “emblem” is her royal headdress."
+    },
+    {
+     "m": "k",
+     "ref": "3:28",
+     "text": "Wine of drink offerings: wine poured out to pagan gods (compare Deuteronomy 32:38). Compare Daniel 1:8, and contrast Hebrew Esther, which says nothing about Esther keeping food laws."
+    }
+   ],
+   "heading": "Addition C: The Prayers of Mordecai and Esther",
+   "title": "Greek Esther 4:17a–z (KJV Apocrypha 13:8–14:19). In the Greek book this follows Esther 4:17."
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the third day, when she left off praying, she laid aside the garments of her worship{a} and arrayed herself in her splendor."
+    },
+    {
+     "v": 2,
+     "text": "Then, made radiant, she invoked God, overseer and savior of all, and took along her two maids;"
+    },
+    {
+     "v": 3,
+     "text": "on the one she leaned, as a woman given to delicate ways,{b}"
+    },
+    {
+     "v": 4,
+     "text": "while the other came after, bearing up her gown."
+    },
+    {
+     "v": 5,
+     "text": "She herself was rosy in the full bloom of her loveliness, her face glad as though it were loving, but her heart was pinched tight with fear."
+    },
+    {
+     "v": 6,
+     "text": "Having passed through all the doors, she came to stand face to face with the king. He was sitting upon the throne of his kingdom, robed in all the attire of his majesty, the whole of it gold and precious stones, and he was exceedingly fearsome."
+    },
+    {
+     "v": 7,
+     "text": "Lifting his face, ablaze with glory, he looked upon her in the full heat of wrath; the queen dropped, her color turned as she swooned, and she sank forward over the head of the maid going before her."
+    },
+    {
+     "v": 8,
+     "text": "Then God turned the king’s spirit to mildness;{c} in anxious haste he leapt up off his throne and gathered her into his arms till she recovered, and he soothed her with peaceable words, saying to her:"
+    },
+    {
+     "v": 9,
+     "text": "“Esther, what troubles you? Your brother am I.{d} Be of good courage;"
+    },
+    {
+     "v": 10,
+     "text": "by no means shall you die, for our ordinance is a common one. Come forward.”{e}"
+    },
+    {
+     "v": 11,
+     "text": "And lifting the golden staff he laid it upon her neck,"
+    },
+    {
+     "v": 12,
+     "text": "kissed her, and said, “Talk with me.”"
+    },
+    {
+     "v": 13,
+     "text": "Her answer to him was: “My lord, you appeared to me like an angel of God, and at the dread of your glory my heart was shaken.{f}"
+    },
+    {
+     "v": 14,
+     "text": "For you are a marvel, my lord, and your face is brimful of graces.”"
+    },
+    {
+     "v": 15,
+     "text": "But as she was conversing with him, she fell down from faintness;"
+    },
+    {
+     "v": 16,
+     "text": "and the king was in turmoil, and his whole retinue set about reviving her."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "The garments of her worship: Greek therapeia, which can mean either worship or servitude; the garments are her mourning clothes of C13."
+    },
+    {
+     "m": "b",
+     "ref": "4:3",
+     "text": "Given to delicate ways: or “as one daintily bred.” The Greek pictures a lady of the court leaning on an attendant."
+    },
+    {
+     "m": "c",
+     "ref": "4:8",
+     "text": "God turned the king’s spirit: this sentence states what the Hebrew book only implies; God’s action is the turning point of the Greek story."
+    },
+    {
+     "m": "d",
+     "ref": "4:9",
+     "text": "Brother: an affectionate form of address; compare Song of Songs 4:9, “my sister, my bride.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:10",
+     "text": "Our ordinance is a common one: Greek koinon to prostagma hēmōn. The sense is uncertain: perhaps “the order applies to ordinary subjects, not to you,” or “our command is shared between us.” Review."
+    },
+    {
+     "m": "f",
+     "ref": "4:13",
+     "text": "My lord: here Greek kyrios addresses the king, not God."
+    }
+   ],
+   "heading": "Addition D: Esther Goes In to the King",
+   "title": "Greek Esther 5:1, 1a–f, 2, 2a–b (KJV Apocrypha 15:1–16). In the Greek book this takes the place of Hebrew Esther 5:1–2."
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    2
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Set down below is a transcript of the letter: “Artaxerxes, the Great King, to the district rulers of the hundred and twenty-seven satrapies stretching from India to Ethiopia, and to all who are of one mind with our government: greeting.{a}"
+    },
+    {
+     "v": 2,
+     "text": "“Many who are honored over and over by the boundless generosity of their benefactors grow the more swollen in mind;"
+    },
+    {
+     "v": 3,
+     "text": "and not only do they seek to do mischief to our subjects, but, unable to carry their glut of good things, they take in hand to scheme against their very benefactors."
+    },
+    {
+     "v": 4,
+     "text": "Not only do they root out thankfulness from among people, but, carried away by the bragging of those who have never tasted goodness, they imagine they will slip past the justice of God, who sees all things always, the justice that hates evil."
+    },
+    {
+     "v": 5,
+     "text": "Often, too, the coaxing of friends who were trusted to manage affairs has made many of those set in high office share the guilt of innocent blood and wrapped them in disasters past remedy,"
+    },
+    {
+     "v": 6,
+     "text": "when such men, through the lying sophistry of their malice, beguiled the guileless good faith of the rulers."
+    },
+    {
+     "v": 7,
+     "text": "And one may see this not so much from the more ancient histories that we have handed down, as by looking into what has been wickedly carried out close at hand through the plague of those who hold power undeservingly."
+    },
+    {
+     "v": 8,
+     "text": "We must take thought for the days to come, that we may furnish the kingdom undisturbed and at peace for all humankind,"
+    },
+    {
+     "v": 9,
+     "text": "making use of changes and always deciding matters that come into view with a more reasonable response."
+    },
+    {
+     "v": 10,
+     "text": "For Haman son of Hammedatha, a Macedonian,{b} truly a stranger to Persian blood and far removed from our kind nature, was hosted among us"
+    },
+    {
+     "v": 11,
+     "text": "and met with the goodwill that we bear toward every nation, so far that he came to be proclaimed our father and continued to be honored with prostration by everyone, as the figure next after the royal throne."
+    },
+    {
+     "v": 12,
+     "text": "But he did not bear his high station; he set to work to strip us of our dominion and of our breath,"
+    },
+    {
+     "v": 13,
+     "text": "and with tangled tricks of deceit he begged for the ruin of Mordecai, our savior and benefactor at all times, and of Esther, the faultless partner of our royal rule, together with their whole nation."
+    },
+    {
+     "v": 14,
+     "text": "For by these means he thought to find us bereft and to carry over the sovereignty of the Persians to the Macedonians."
+    },
+    {
+     "v": 15,
+     "text": "We, however, find that the Jews, handed over to obliteration by this thrice-accursed wretch,{c} are no malefactors, but live as citizens under the most just of laws,"
+    },
+    {
+     "v": 16,
+     "text": "being sons of the Most High, the most great and living God, who keeps the kingdom on its course for us and for our ancestors in the finest condition."
+    },
+    {
+     "v": 17,
+     "text": "You will therefore do well to make no use of the documents dispatched by Haman son of Hammedatha,"
+    },
+    {
+     "v": 18,
+     "text": "because the very man who devised these things has been hung up{d} at the gates of Susa with all his house, God, who rules over everything, having swiftly paid him back the judgment he merited."
+    },
+    {
+     "v": 19,
+     "text": "Set out the copy of this letter openly in every place, and let the Jews follow their own customs,"
+    },
+    {
+     "v": 20,
+     "text": "and lend them aid, so that they may ward off those who assail them in their time of trouble on the thirteenth of the twelfth month, Adar (February–March), on that same day.{e}"
+    },
+    {
+     "v": 21,
+     "text": "For God, who wields all power, has made this day for them a joy, in place of ruin for the chosen race."
+    },
+    {
+     "v": 22,
+     "text": "And you too, among your named festivals, keep it as a day of note with every kind of feasting,"
+    },
+    {
+     "v": 23,
+     "text": "so that now and in later times it may be salvation for us and for the Persians who wish us well, but for those who plot against us a remembrance of their destruction."
+    },
+    {
+     "v": 24,
+     "text": "Any city or land whatever that does not act in keeping with these orders shall be devoured in fury by spear and fire; it shall be rendered not only untrodden by people but most odious to beasts and birds for all time.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Greeting: Greek chairein, the usual opening of a Hellenistic letter. Like Addition B, this letter was composed in Greek in an elaborate rhetorical style. The KJV Apocrypha prints it as 16:1–24 (E1 = 16:1)."
+    },
+    {
+     "m": "b",
+     "ref": "5:10",
+     "text": "A Macedonian: in Addition A (A17) Haman is a “Bougaean.” Calling the Persian king’s enemy a Macedonian reflects the Hellenistic setting of the additions, after Alexander’s conquest of Persia (331 BC). Some witnesses read differently (reported)."
+    },
+    {
+     "m": "c",
+     "ref": "5:15",
+     "text": "Thrice-accursed: Greek trisalitērios, a strong term of abuse."
+    },
+    {
+     "m": "d",
+     "ref": "5:18",
+     "text": "Hung up: Greek estaurōsthai, which can mean impaled, crucified or hanged. In Hebrew Esther 7:10 Haman alone is hanged, and his ten sons are killed and hung up afterward (9:7–14)."
+    },
+    {
+     "m": "e",
+     "ref": "5:20",
+     "text": "Thirteenth … Adar: compare Hebrew Esther 8:12 and 9:1. Addition B (B6) has the fourteenth. Adar began at the new moon of February–March."
+    }
+   ],
+   "heading": "Addition E: The King’s Letter on Behalf of the Jews",
+   "title": "Greek Esther 8:12a–x (KJV Apocrypha 16:1–24). In the Greek book this follows Esther 8:12."
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "And Mordecai said, “From God these things have come.{a}"
+    },
+    {
+     "v": 2,
+     "text": "For I have called to mind the dream I saw about these matters; not one word of it has gone unfulfilled."
+    },
+    {
+     "v": 3,
+     "text": "The little spring that turned into a river—there was light and sun and plentiful water—the river is Esther, whom the king wedded and made queen."
+    },
+    {
+     "v": 4,
+     "text": "The two dragons are myself and Haman."
+    },
+    {
+     "v": 5,
+     "text": "The nations are those that banded together to destroy the name of the Jews."
+    },
+    {
+     "v": 6,
+     "text": "And my nation, this is Israel, who cried aloud to God and were saved. Yes, the Lord saved his people; the Lord delivered us out of all these evils; and God worked the signs and the great portents such as have not occurred among the nations."
+    },
+    {
+     "v": 7,
+     "text": "On this account he appointed two lots,{b} the one for God’s people and the other for every nation;"
+    },
+    {
+     "v": 8,
+     "text": "and these two lots came to the hour and the season and the day of judgment in God’s presence and among all the nations."
+    },
+    {
+     "v": 9,
+     "text": "And God remembered his people and gave judgment in favor of his inheritance."
+    },
+    {
+     "v": 10,
+     "text": "So these days shall be theirs in the month of Adar (February–March), on the fourteenth and fifteenth of that month, with gathering and joy and gladness in God’s presence, age after age without end, among Israel his people.”"
+    },
+    {
+     "v": 11,
+     "text": "Dated the fourth year that Ptolemy and Cleopatra reigned:{c} Dositheus,{d} who claimed to be a priest and Levite, together with Ptolemy his son, delivered the foregoing letter of Purim,{e} affirming that it was genuine and that Lysimachus son of Ptolemy, one of the residents of Jerusalem, had translated it."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "From God: the KJV Apocrypha prints F1–10 as 10:4–13 and the colophon (F11) as 11:1; its chapter 11 then continues with Addition A (11:2). This is why the Vulgate numbering places the dream after its interpretation."
+    },
+    {
+     "m": "b",
+     "ref": "6:7",
+     "text": "Two lots: an explanation of the name Purim, from Akkadian puru, “lot” (Esther 3:7; 9:24–26). Here the lots become symbols of God’s judgment between Israel and the nations."
+    },
+    {
+     "m": "c",
+     "ref": "6:11",
+     "text": "Ptolemy and Cleopatra: several Ptolemaic kings ruled with a queen named Cleopatra, so the date is uncertain. The proposals most often made are 114/113 BC (Ptolemy IX), 78/77 BC (Ptolemy XII) and 49/48 BC (Ptolemy XIII), reported. Ptolemy means “warlike.” Review."
+    },
+    {
+     "m": "d",
+     "ref": "6:11",
+     "text": "Dositheus: “gift of God.” Lysimachus means “loosing of battle.” This note, a colophon, vouches for the Greek translation of the book as it was brought to Egypt."
+    },
+    {
+     "m": "e",
+     "ref": "6:11",
+     "text": "Letter of Purim: the Greek has “the letter of Phrourai,” apparently a form of Purim; it may refer to the whole book or to the Purim letter of Esther 9:20–32."
+    }
+   ],
+   "heading": "Addition F: The Dream Explained, and the Colophon",
+   "title": "Greek Esther 10:3a–l (KJV Apocrypha 10:4–11:1). In the Greek book this closes the book, after Esther 10:3."
+  }
+ ]
+}
