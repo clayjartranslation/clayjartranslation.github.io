@@ -1716,7 +1716,18 @@
     7,
     8,
     9,
-    10
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
    ],
    "file": "data/books/luke.json"
   },
@@ -1868,9 +1879,16 @@
    "id": "1-timothy",
    "name": "1 Timothy",
    "division": "New Testament",
-   "chapterCount": "6",
-   "translated": [],
-   "file": null
+   "chapterCount": 6,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "file": "data/books/1-timothy.json"
   },
   {
    "id": "2-timothy",
