@@ -702,8 +702,18 @@
    "name": "Proverbs",
    "division": "Old Testament",
    "chapterCount": "31",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "file": "data/books/proverbs.json"
   },
   {
    "id": "ecclesiastes",
