@@ -1,0 +1,2169 @@
+{
+ "id": "1-kings",
+ "name": "1 Kings",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex. The Septuagint (Old Greek) of 1 Kings differs from the Hebrew in many places. It adds two collections of extra material about Solomon after 2:35 and 2:46 (numbered 2:35a–o and 2:46a–l, the so-called “miscellanies”), as well as a long alternative account of Jeroboam’s rise after 12:24 (12:24a–z) and other shorter additions. It also puts much of chapters 6–7 in a different order, and it reverses chapters 20 and 21, so that the story of Naboth’s vineyard comes before the wars with Ben-hadad. The major differences are given in the footnotes. Septuagint readings were checked against Brenton’s public-domain English translation. Verse numbers follow the standard English Bible; where the Hebrew numbering differs (4:21–5:18 English = 5:1–32 Hebrew), this is noted. The regnal years and the synchronisms between the kings of Judah and Israel are translated as they stand, without harmonization. Measurements are given in modern US units, and calendar dates with their modern-month equivalents, with the originals and metric figures in the footnotes. Personal and place names whose meaning is known or likely have a note at their first appearance.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    5,
+    9,
+    11,
+    15,
+    22,
+    28,
+    32,
+    38,
+    41,
+    49
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now King David was old and well along in years. They would cover him with clothes, yet he could not keep warm."
+    },
+    {
+     "v": 2,
+     "text": "So his servants said to him, “Let a young woman, a virgin, be sought for my lord the king, and let her attend the king and take care of him. Let her lie in your bosom, so that my lord the king may be warm.”"
+    },
+    {
+     "v": 3,
+     "text": "So they looked for a lovely girl in every part of the land of Israel, and they found Abishag{a} the Shunammite{b} and brought her to the king."
+    },
+    {
+     "v": 4,
+     "text": "The young woman was very beautiful. She took care of the king and served him, but the king did not know her."
+    },
+    {
+     "v": 5,
+     "text": "Then Adonijah{c} son of Haggith{d} began to exalt himself, saying, “I am the one who will be king.” He got chariots and horsemen ready for himself, with fifty men running ahead of him."
+    },
+    {
+     "v": 6,
+     "text": "His father had never once rebuked him by saying, “Why have you done this?” He was also very handsome, and he was born next after Absalom.{e}"
+    },
+    {
+     "v": 7,
+     "text": "He conferred with Joab the son of Zeruiah and with Abiathar{f} the priest, and they followed Adonijah and helped him."
+    },
+    {
+     "v": 8,
+     "text": "But Zadok{g} the priest, Benaiah{h} the son of Jehoiada, Nathan{i} the prophet, Shimei, Rei,{j} and David’s mighty men were not with Adonijah."
+    },
+    {
+     "v": 9,
+     "text": "Adonijah sacrificed sheep, oxen, and fattened cattle by the Stone of Zoheleth,{k} which is beside En-rogel.{l} He invited all his brothers, the king’s sons, and all the men of Judah, the king’s servants,"
+    },
+    {
+     "v": 10,
+     "text": "Nathan the prophet, though, and Benaiah and the mighty men and his brother Solomon{m} he left uninvited."
+    },
+    {
+     "v": 11,
+     "text": "Nathan then spoke to Bathsheba{n} the mother of Solomon. “Have you not heard,” he said, “that Haggith’s son Adonijah reigns now, and David our lord knows nothing of it?"
+    },
+    {
+     "v": 12,
+     "text": "So come now, let me counsel you, so that you can rescue your own life and your son Solomon’s life."
+    },
+    {
+     "v": 13,
+     "text": "Go straight in to King David and tell him, ‘Did you not, my lord the king, swear to your maidservant, “Your son Solomon will surely be king after me; he is the one who will sit on my throne”? Why then is Adonijah reigning?’"
+    },
+    {
+     "v": 14,
+     "text": "While you are still speaking there with the king, I will come in after you and confirm your words.”"
+    },
+    {
+     "v": 15,
+     "text": "So Bathsheba went in to the king in his room. The king was very old, and Abishag the Shunammite was attending the king."
+    },
+    {
+     "v": 16,
+     "text": "Bathsheba bowed down and paid homage to the king, and the king said, “What do you wish?”"
+    },
+    {
+     "v": 17,
+     "text": "She said to him, “My lord, you yourself swore to your servant by Yahweh your God, ‘Surely Solomon your son will reign after me, and he will sit on my throne.’"
+    },
+    {
+     "v": 18,
+     "text": "But now, look, Adonijah has become king, and you, my lord the king, do not know it."
+    },
+    {
+     "v": 19,
+     "text": "He has offered oxen and fatlings and sheep in great numbers, and has called all the king’s sons, with Abiathar the priest and Joab the army’s commander, but your servant Solomon he did not call."
+    },
+    {
+     "v": 20,
+     "text": "And as for you, my lord the king, the eyes of all Israel are on you, for you to tell them who will sit on the throne of my lord the king after him."
+    },
+    {
+     "v": 21,
+     "text": "Otherwise, when my lord the king lies down with his fathers, I and my son Solomon will be counted as offenders.”"
+    },
+    {
+     "v": 22,
+     "text": "And look, she was still talking with the king when Nathan the prophet arrived."
+    },
+    {
+     "v": 23,
+     "text": "They told the king, “Here is Nathan the prophet.” He came before the king and bowed down to the king with his face to the ground."
+    },
+    {
+     "v": 24,
+     "text": "Nathan said, “My lord the king, did you say, ‘Adonijah will reign after me, and he will sit on my throne’?"
+    },
+    {
+     "v": 25,
+     "text": "For today he has gone down and sacrificed oxen, fattened cattle, and sheep in abundance, and has invited all the king’s sons, the commanders of the army, and Abiathar the priest. Right now they are eating and drinking before him, and they say, ‘Long live King Adonijah!’"
+    },
+    {
+     "v": 26,
+     "text": "But me, your servant, and Zadok the priest, and Benaiah the son of Jehoiada, and Solomon your servant, he has not invited."
+    },
+    {
+     "v": 27,
+     "text": "Has this thing been done by my lord the king without your letting your servants{o} know who should sit on the throne of my lord the king after him?”"
+    },
+    {
+     "v": 28,
+     "text": "Then King David answered, “Call Bathsheba to me.” She came into the king’s presence and stood before the king."
+    },
+    {
+     "v": 29,
+     "text": "The king swore, saying, “As Yahweh lives, who has redeemed my life out of every distress,"
+    },
+    {
+     "v": 30,
+     "text": "just as I swore to you by Yahweh the God of Israel, saying, ‘Surely Solomon your son will reign after me, and he will sit on my throne in my place,’ so I will do this very day.”"
+    },
+    {
+     "v": 31,
+     "text": "Then Bathsheba bowed low, her face to the earth, and did obeisance to the king. “May my lord King David live forever!” she said."
+    },
+    {
+     "v": 32,
+     "text": "King David said, “Call to me Zadok the priest, Nathan the prophet, and Benaiah the son of Jehoiada.” They came before the king."
+    },
+    {
+     "v": 33,
+     "text": "The king said to them, “Take with you the servants of your lord, have Solomon my son ride on my own mule, and bring him down to Gihon.{p}"
+    },
+    {
+     "v": 34,
+     "text": "There let Zadok the priest and Nathan the prophet anoint him king over Israel. Then blow the horn and say, ‘Long live King Solomon!’"
+    },
+    {
+     "v": 35,
+     "text": "Then you shall come up after him, and he shall come and sit on my throne, and he shall reign in my place. I have appointed him to be ruler over Israel and over Judah.”"
+    },
+    {
+     "v": 36,
+     "text": "Benaiah the son of Jehoiada answered the king, “Amen! May Yahweh, the God of my lord the king, say so too."
+    },
+    {
+     "v": 37,
+     "text": "As Yahweh has been with my lord the king, so may he be with Solomon, and may he make his throne greater than the throne of my lord King David.”"
+    },
+    {
+     "v": 38,
+     "text": "So Zadok the priest, Nathan the prophet, Benaiah the son of Jehoiada, and the Cherethites and the Pelethites{q} went down and had Solomon ride on King David’s mule, and they brought him to Gihon."
+    },
+    {
+     "v": 39,
+     "text": "Zadok the priest took the horn of oil from the tent and anointed Solomon. Then they blew the horn, and all the people said, “Long live King Solomon!”"
+    },
+    {
+     "v": 40,
+     "text": "Then all the people came up behind him, piping on flutes and rejoicing greatly, until the ground split{r} at the sound of them."
+    },
+    {
+     "v": 41,
+     "text": "Adonijah and all his guests heard it just as they had finished eating. Joab heard the trumpet sound and said, “What is this noise of the city in uproar?”"
+    },
+    {
+     "v": 42,
+     "text": "While he was still speaking, Jonathan the son of Abiathar the priest came. Adonijah said, “Come in, for you are a worthy man and bring good news.”"
+    },
+    {
+     "v": 43,
+     "text": "Jonathan answered Adonijah, “No! Our lord King David has made Solomon king."
+    },
+    {
+     "v": 44,
+     "text": "The king has sent with him Zadok the priest, Nathan the prophet, Benaiah the son of Jehoiada, and the Cherethites and the Pelethites, and they had him ride on the king’s mule."
+    },
+    {
+     "v": 45,
+     "text": "Zadok the priest and Nathan the prophet have anointed him king at Gihon, and they have come up from there rejoicing, so that the city is in an uproar. That is the noise you have heard."
+    },
+    {
+     "v": 46,
+     "text": "Solomon is even sitting now on the throne of the kingdom."
+    },
+    {
+     "v": 47,
+     "text": "Moreover, the king’s servants came to bless our lord King David, saying, ‘May your God make the name of Solomon more famous than your name, and make his throne greater than your throne.’ And the king bowed himself on the bed."
+    },
+    {
+     "v": 48,
+     "text": "The king also said this: ‘Blessed be Yahweh, the God of Israel, who has granted today one to sit on my throne,{s} while my own eyes see it.’”"
+    },
+    {
+     "v": 49,
+     "text": "Then all the guests of Adonijah trembled. They got up, and each one went his own way."
+    },
+    {
+     "v": 50,
+     "text": "And Adonijah, afraid because of Solomon, arose and went and caught hold of the altar’s horns."
+    },
+    {
+     "v": 51,
+     "text": "Word came to Solomon: “Adonijah fears King Solomon. See, he has caught hold of the altar’s horns, and he says, ‘Let King Solomon swear to me today that he will not kill his servant by the sword.’”"
+    },
+    {
+     "v": 52,
+     "text": "Solomon said, “If he will act as a worthy man, not a hair of his shall fall to the earth; but if wickedness is found in him, he shall die.”"
+    },
+    {
+     "v": 53,
+     "text": "So King Solomon sent, and they brought him down from the altar. He came and bowed down to King Solomon, and Solomon said to him, “Go to your house.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:3",
+     "text": "Abishag may mean “my father wanders” or “my father is a wanderer”; the meaning is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "1:3",
+     "text": "That is, from Shunem, a town in the territory of Issachar (Joshua 19:18). The name Shunem perhaps means “resting place”; the meaning is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "1:5",
+     "text": "Adonijah means “Yahweh is my Lord.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:5",
+     "text": "Haggith means “festive” or “born on a feast day.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:6",
+     "text": "Hebrew “and she bore him after Absalom,” referring to his mother Haggith. Adonijah was apparently the oldest of David’s surviving sons (2 Samuel 3:2–4)."
+    },
+    {
+     "m": "f",
+     "ref": "1:7",
+     "text": "Abiathar means “the father is abundant” or “father of abundance.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:8",
+     "text": "Zadok means “righteous.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:8",
+     "text": "Benaiah means “Yahweh has built.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:8",
+     "text": "Nathan means “he has given.”"
+    },
+    {
+     "m": "j",
+     "ref": "1:8",
+     "text": "The Hebrew names Shimei and Rei are otherwise unknown here. Some ancient witnesses read “Shimei and his friends” (reading re‘aw instead of re‘i); the identification is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "1:9",
+     "text": "Zoheleth may mean “serpent” or “crawling one,” so “the Serpent Stone”; the meaning is uncertain."
+    },
+    {
+     "m": "l",
+     "ref": "1:9",
+     "text": "En-rogel means “spring of the fuller” (or “spring of the foot,” perhaps from washing clothes by treading them). It lay just south of Jerusalem, where the Kidron and Hinnom valleys meet."
+    },
+    {
+     "m": "m",
+     "ref": "1:10",
+     "text": "Solomon is related to the Hebrew shalom, “peace,” and may mean “his peace” or “his replacement.”"
+    },
+    {
+     "m": "n",
+     "ref": "1:11",
+     "text": "Bathsheba means “daughter of an oath” or “daughter of abundance.”"
+    },
+    {
+     "m": "o",
+     "ref": "1:27",
+     "text": "This follows the written Hebrew text (Ketiv). The traditional reading (Qere) has “your servant.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:33",
+     "text": "Gihon means “gushing,” a name for the spring in the Kidron Valley that supplied Jerusalem."
+    },
+    {
+     "m": "q",
+     "ref": "1:38",
+     "text": "The Cherethites and the Pelethites were the king’s bodyguard, probably mercenaries of Cretan and Philistine origin."
+    },
+    {
+     "m": "r",
+     "ref": "1:40",
+     "text": "Or “burst.” The Septuagint reads “they danced in choirs” for “playing on pipes,” and “the earth quaked.”"
+    },
+    {
+     "m": "s",
+     "ref": "1:48",
+     "text": "The Septuagint adds “from my offspring.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    5,
+    10,
+    13,
+    19,
+    26,
+    28,
+    36,
+    39
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As David’s days to die drew near, he charged Solomon his son:"
+    },
+    {
+     "v": 2,
+     "text": "“I am going the way of all the earth. Be strong, and show yourself a man."
+    },
+    {
+     "v": 3,
+     "text": "Keep what Yahweh your God has charged you to keep: walk in his ways and keep his statutes and commandments, his judgments and testimonies, as they are written in the Law of Moses, so that you may succeed in all you do and wherever you turn,"
+    },
+    {
+     "v": 4,
+     "text": "so that Yahweh may establish his word that he spoke concerning me: ‘If your sons guard their way, walking before me in faithfulness with all their heart and with all their soul, you will never lack a man on the throne of Israel.’"
+    },
+    {
+     "v": 5,
+     "text": "“You know too what Joab son of Zeruiah did to me, and what he did to the two army commanders of Israel, Abner son of Ner and Amasa son of Jether: he murdered them, and in time of peace shed the blood of war, and put the blood of war on the belt at his waist and on the sandals on his feet.{a}"
+    },
+    {
+     "v": 6,
+     "text": "So deal with him as your wisdom directs, and do not allow his gray hair to go down to Sheol{b} in peace."
+    },
+    {
+     "v": 7,
+     "text": "But show kindness to the sons of Barzillai{c} the Gileadite, and let them be among those who eat at your table, for they came to meet me in this way when I fled from Absalom your brother."
+    },
+    {
+     "v": 8,
+     "text": "And there is also with you Shimei{d} the son of Gera, the Benjaminite from Bahurim, who cursed me with a bitter curse on the day when I went to Mahanaim.{e} But he came down to meet me at the Jordan, and I swore to him by Yahweh, saying, ‘I will not put you to death with the sword.’"
+    },
+    {
+     "v": 9,
+     "text": "Now therefore do not hold him guiltless, for you are a wise man. You will know what you ought to do to him, and you shall bring his gray head down with blood to Sheol.”"
+    },
+    {
+     "v": 10,
+     "text": "Then David lay down with his fathers and was buried in the city of David."
+    },
+    {
+     "v": 11,
+     "text": "The days that David reigned over Israel were forty years. He reigned seven years in Hebron and thirty-three years in Jerusalem."
+    },
+    {
+     "v": 12,
+     "text": "So Solomon sat on the throne of David his father, and his kingdom was firmly established."
+    },
+    {
+     "v": 13,
+     "text": "Then Adonijah the son of Haggith came to Bathsheba the mother of Solomon. She said, “Do you come peaceably?” He said, “Peaceably.”"
+    },
+    {
+     "v": 14,
+     "text": "He went on, “I have a word for you.” “Say it,” she replied."
+    },
+    {
+     "v": 15,
+     "text": "He said, “You know that the kingdom was mine, and all Israel looked to me to reign. But the kingdom has turned about and become my brother’s, for it was his from Yahweh."
+    },
+    {
+     "v": 16,
+     "text": "And now I am making one request of you. Do not turn me away.” She said to him, “Speak.”"
+    },
+    {
+     "v": 17,
+     "text": "He said, “Please speak to King Solomon, for he will not turn you away, that he may give me Abishag the Shunammite as my wife.”"
+    },
+    {
+     "v": 18,
+     "text": "“Good,” Bathsheba answered. “I will speak for you to the king.”"
+    },
+    {
+     "v": 19,
+     "text": "Bathsheba went in to King Solomon to speak for Adonijah. The king stood up to meet her and bowed to her, then sat down on his throne. A throne was placed for the king’s mother, and she took her seat at his right hand."
+    },
+    {
+     "v": 20,
+     "text": "“There is one small thing I ask of you,” she said. “Do not refuse me.” The king answered her, “Ask, my mother, for I will not refuse you.”"
+    },
+    {
+     "v": 21,
+     "text": "She said, “Let Abishag the Shunammite be given to Adonijah your brother as his wife.”"
+    },
+    {
+     "v": 22,
+     "text": "King Solomon answered his mother, “And why do you ask Abishag the Shunammite for Adonijah? Ask the kingdom for him too, since he is my elder brother, and Abiathar the priest and Joab son of Zeruiah are with him!”{f}"
+    },
+    {
+     "v": 23,
+     "text": "Then King Solomon swore by Yahweh, saying, “May God do so to me and more also if Adonijah has not spoken this word against his own life!"
+    },
+    {
+     "v": 24,
+     "text": "Now therefore, as Yahweh lives, who has established me and set me on the throne of David my father, and who has made me a house as he promised, Adonijah will be put to death today.”"
+    },
+    {
+     "v": 25,
+     "text": "So King Solomon sent by the hand of Benaiah son of Jehoiada, who fell upon him, and he died."
+    },
+    {
+     "v": 26,
+     "text": "And to Abiathar the priest the king said, “Go off to Anathoth,{g} to your own fields, for you are a man worthy of death. I will not kill you today, though, since you bore the ark of the Lord Yahweh before David my father, and you suffered in all that my father suffered.”"
+    },
+    {
+     "v": 27,
+     "text": "So Solomon expelled Abiathar from being priest to Yahweh, to fulfill the word of Yahweh that he had spoken concerning the house of Eli in Shiloh.{h}"
+    },
+    {
+     "v": 28,
+     "text": "When the news came to Joab, he fled to the tent of Yahweh and took hold of the horns of the altar, for Joab had sided with Adonijah, although he had not sided with Absalom.{i}"
+    },
+    {
+     "v": 29,
+     "text": "King Solomon was told, “Joab has fled to the tent of Yahweh, and there he is, beside the altar.” Then Solomon sent Benaiah the son of Jehoiada, saying, “Go, strike him down.”{j}"
+    },
+    {
+     "v": 30,
+     "text": "So Benaiah came to the tent of Yahweh and said to him, “The king says this: ‘Come out.’” But he said, “No, I will die here.” Benaiah brought word back to the king, saying, “This is what Joab said, and this is how he answered me.”"
+    },
+    {
+     "v": 31,
+     "text": "The king said to him, “Do as he has said. Strike him down and bury him, and so take away from me and from my father’s house the blood that Joab shed without cause."
+    },
+    {
+     "v": 32,
+     "text": "Yahweh will bring his bloodshed back on his own head, because he struck down two men more righteous and better than he, and killed them with the sword without my father David knowing it: Abner the son of Ner, commander of the army of Israel, and Amasa the son of Jether, commander of the army of Judah."
+    },
+    {
+     "v": 33,
+     "text": "So their blood will come back on the head of Joab and on the head of his offspring forever. But for David and his offspring, his house and his throne, there will be peace from Yahweh forever.”"
+    },
+    {
+     "v": 34,
+     "text": "So Benaiah son of Jehoiada went up and fell upon him and killed him, and he was buried at his own house in the wilderness."
+    },
+    {
+     "v": 35,
+     "text": "In his place the king set Benaiah son of Jehoiada over the army, and Zadok the priest the king set in Abiathar’s place.{k}"
+    },
+    {
+     "v": 36,
+     "text": "Then the king sent for Shimei and called him. “Build a house for yourself in Jerusalem,” he told him, “and stay there. Do not leave it to go anywhere at all."
+    },
+    {
+     "v": 37,
+     "text": "For on the day you go out and cross the Kidron Valley,{l} know for certain that you will surely die. Your blood will be on your own head.”"
+    },
+    {
+     "v": 38,
+     "text": "Shimei said to the king, “The word is good. As my lord the king has said, so will your servant do.” So Shimei lived in Jerusalem many days."
+    },
+    {
+     "v": 39,
+     "text": "But at the end of three years two of Shimei’s slaves ran away to Achish the son of Maacah, king of Gath. When Shimei was told, “Your slaves are in Gath,”"
+    },
+    {
+     "v": 40,
+     "text": "Shimei got up, saddled his donkey, and went to Gath to Achish to look for his slaves. Shimei went and brought his slaves back from Gath."
+    },
+    {
+     "v": 41,
+     "text": "Solomon was told that Shimei had gone from Jerusalem to Gath and had returned."
+    },
+    {
+     "v": 42,
+     "text": "So the king sent and called for Shimei and said to him, “Did I not make you swear by Yahweh and warn you, saying, ‘On the day you go out and go anywhere at all, know for certain that you will surely die’? And you said to me, ‘The word I have heard is good.’"
+    },
+    {
+     "v": 43,
+     "text": "Why then have you not kept the oath of Yahweh and the command that I gave you?”"
+    },
+    {
+     "v": 44,
+     "text": "And the king said to Shimei, “You know all the wrong, which your own heart is aware of, that you did to my father David. Now Yahweh is returning your wrong on your own head."
+    },
+    {
+     "v": 45,
+     "text": "But King Solomon will be blessed, and the throne of David will be established before Yahweh forever.”"
+    },
+    {
+     "v": 46,
+     "text": "Then the king gave orders to Benaiah son of Jehoiada, and he went out and fell upon him, and he died. And the kingdom was made secure in Solomon’s hand.{m}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:5",
+     "text": "The Septuagint reads “and put innocent blood on his belt … and on his sandal.” Some ancient witnesses read “my belt” and “my sandals,” making the guilt fall on David himself."
+    },
+    {
+     "m": "b",
+     "ref": "2:6",
+     "text": "Sheol is the Hebrew name for the realm of the dead."
+    },
+    {
+     "m": "c",
+     "ref": "2:7",
+     "text": "Barzillai means “man of iron” (from barzel, “iron”)."
+    },
+    {
+     "m": "d",
+     "ref": "2:8",
+     "text": "Shimei is a shortened form of a name meaning “Yahweh has heard” (or simply “heard”)."
+    },
+    {
+     "m": "e",
+     "ref": "2:8",
+     "text": "Mahanaim means “two camps” (Genesis 32:2)."
+    },
+    {
+     "m": "f",
+     "ref": "2:22",
+     "text": "Hebrew “and for him and for Abiathar the priest and for Joab the son of Zeruiah.” The Septuagint reads “and he has as his companions Abiathar the priest and Joab the son of Zeruiah, the commander-in-chief.” The translation follows the general sense."
+    },
+    {
+     "m": "g",
+     "ref": "2:26",
+     "text": "Anathoth was a Levitical city in Benjamin, about 3 miles (5 kilometers) northeast of Jerusalem, and later the home of Jeremiah (Jeremiah 1:1). The name may recall the goddess Anath."
+    },
+    {
+     "m": "h",
+     "ref": "2:27",
+     "text": "See 1 Samuel 2:27–36. Shiloh may mean “place of rest” or “tranquility”; the meaning is uncertain."
+    },
+    {
+     "m": "i",
+     "ref": "2:28",
+     "text": "The Septuagint reads “and he had not followed Solomon” for “although he had not sided with Absalom.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:29",
+     "text": "The Septuagint adds “Solomon sent to Joab, saying, ‘What has happened to you, that you have fled to the altar?’ Joab said, ‘Because I was afraid of you, and I fled to Yahweh.’” before the command to Benaiah."
+    },
+    {
+     "m": "k",
+     "ref": "2:35",
+     "text": "After this verse the Septuagint adds a long section, usually numbered 2:35a–o. It gathers material about Solomon that appears elsewhere in the Hebrew: his wisdom (compare 4:29–30), his marriage to Pharaoh’s daughter (3:1; 9:24), his laborers (5:15), the temple furnishings (ch. 7), his building works and cities (9:15–24), his three yearly offerings (9:25), his officials over the work (5:16; 9:23), and David’s charge concerning Shimei (2:8–9). Scholars call these collections the “miscellanies.” The Septuagint also adds at the start of verse 35 “and the kingdom was established in Jerusalem,” and makes Zadok “high priest.”"
+    },
+    {
+     "m": "l",
+     "ref": "2:37",
+     "text": "The Kidron Valley runs along the east side of Jerusalem, between the city and the Mount of Olives. Kidron may mean “dark” or “murky.” Crossing it on the road east toward Bahurim would take Shimei home."
+    },
+    {
+     "m": "m",
+     "ref": "2:46",
+     "text": "After this verse the Septuagint adds a second section, usually numbered 2:46a–l. It describes Solomon’s wisdom and prosperity, the people “eating and drinking and rejoicing” (compare 4:20), his rule over all the kingdoms, his daily provisions (compare 4:22–23), his building of Tadmor (compare 9:18), a list of his officials (compare 4:2–6), his horses and chariots (compare 4:26), and his rule from the Euphrates to Egypt (compare 4:21, 24)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    3,
+    10,
+    16,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into the city of David until he had finished building his own house and the house of Yahweh and the wall around Jerusalem."
+    },
+    {
+     "v": 2,
+     "text": "The people, however, were still sacrificing at the high places, because no house had yet been built for the name of Yahweh in those days."
+    },
+    {
+     "v": 3,
+     "text": "Solomon loved Yahweh, walking in the statutes of David his father, except that he sacrificed and burned incense at the high places."
+    },
+    {
+     "v": 4,
+     "text": "The king went to Gibeon{a} to sacrifice there, for that was the great high place. A thousand burnt offerings Solomon offered up on that altar."
+    },
+    {
+     "v": 5,
+     "text": "At Gibeon Yahweh appeared to Solomon in a dream by night, and God said, “Ask what I should give you.”"
+    },
+    {
+     "v": 6,
+     "text": "Solomon said, “You have dealt with great faithful love toward your servant my father David, since he walked before you in truth and righteousness and with an upright heart toward you; and you have kept this great faithful love for him and given him a son who sits on his throne, as it is this day."
+    },
+    {
+     "v": 7,
+     "text": "And now, Yahweh my God, you have made your servant king in place of David my father, though I am only a little child. I do not know how to go out or come in.{b}"
+    },
+    {
+     "v": 8,
+     "text": "And your servant stands among your people whom you chose, a people so great that they cannot be numbered or counted for multitude."
+    },
+    {
+     "v": 9,
+     "text": "So give your servant a listening heart{c} to judge your people, to discern between good and evil. For who is able to judge this great people of yours?”"
+    },
+    {
+     "v": 10,
+     "text": "It pleased the Lord{d} that Solomon had asked for this."
+    },
+    {
+     "v": 11,
+     "text": "God said to him, “Because you have asked this, and have not asked for yourself long life, or riches, or the life of your enemies, but have asked for yourself understanding to discern what is just,"
+    },
+    {
+     "v": 12,
+     "text": "look, I have done as you asked. I have given you a heart so wise and understanding that there has been no one like you before you, nor will anyone like you arise after you."
+    },
+    {
+     "v": 13,
+     "text": "I am also giving you what you have not asked, both riches and honor, so that no one among the kings will be like you all your days."
+    },
+    {
+     "v": 14,
+     "text": "And if you walk in my ways, keeping my statutes and my commandments, as David your father walked, then I will lengthen your days.”"
+    },
+    {
+     "v": 15,
+     "text": "Then Solomon awoke, and it was a dream. He came to Jerusalem and stood before the ark of the covenant of the Lord.{e} He offered up burnt offerings and made peace offerings, and he held a feast for all his servants."
+    },
+    {
+     "v": 16,
+     "text": "Then two women who were prostitutes came to the king and stood before him."
+    },
+    {
+     "v": 17,
+     "text": "One of the women said, “Please, my lord, this woman and I dwell in one house, and I bore a child there while she was in the house."
+    },
+    {
+     "v": 18,
+     "text": "Then three days after my child was born, this woman had a baby too. We were together, and no stranger was with us in the house; there were only we two in the house."
+    },
+    {
+     "v": 19,
+     "text": "This woman’s son died in the night, because she lay on him."
+    },
+    {
+     "v": 20,
+     "text": "And she rose at midnight and took my son from my side while your maidservant slept, and she laid him in her bosom, and her dead son she laid in my bosom."
+    },
+    {
+     "v": 21,
+     "text": "When I rose in the morning to nurse my son, there he was, dead. But when I looked at him closely in the morning, I saw that it was not my son, the one I had borne.”"
+    },
+    {
+     "v": 22,
+     "text": "The other woman said, “No, the living one is my son, and the dead one is your son.” But the first said, “No, the dead one is your son, and the living one is my son.” So they spoke before the king."
+    },
+    {
+     "v": 23,
+     "text": "Then the king said, “This one says, ‘This is my son, the living one, and your son is the dead one,’ and that one says, ‘No, your son is the dead one, and my son is the living one.’”"
+    },
+    {
+     "v": 24,
+     "text": "The king said, “Get me a sword.” So they brought a sword before the king."
+    },
+    {
+     "v": 25,
+     "text": "The king said, “Cut the living child in two, and give half to one and half to the other.”"
+    },
+    {
+     "v": 26,
+     "text": "Then the woman whose son was the living one spoke to the king, for her heart yearned over her son: “Please, my lord, give her the living child. Do not kill him, not on any account!” But the other woman said, “Let him be neither mine nor yours. Divide him!”"
+    },
+    {
+     "v": 27,
+     "text": "Then the king answered, “Give the first woman the living child. Do not kill him at all. She is the mother.”"
+    },
+    {
+     "v": 28,
+     "text": "When all Israel heard the judgment the king had given, they feared the king, for they saw that God’s wisdom was in him for doing justice."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:4",
+     "text": "Gibeon was a city of Benjamin about 6 miles (10 kilometers) northwest of Jerusalem. Its name means “hill” or “height.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:7",
+     "text": "That is, how to lead, especially in war (compare Numbers 27:17)."
+    },
+    {
+     "m": "c",
+     "ref": "3:9",
+     "text": "Or “a hearing heart,” that is, an attentive and obedient mind."
+    },
+    {
+     "m": "d",
+     "ref": "3:10",
+     "text": "Hebrew Adonai, “Lord,” here rather than Yahweh."
+    },
+    {
+     "m": "e",
+     "ref": "3:15",
+     "text": "Hebrew Adonai, “Lord,” here rather than Yahweh."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    7,
+    20,
+    22,
+    29
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "King Solomon was king over all Israel,"
+    },
+    {
+     "v": 2,
+     "text": "and these were the officials he had: Azariah{a} son of Zadok was the priest;"
+    },
+    {
+     "v": 3,
+     "text": "Elihoreph and Ahijah the sons of Shisha were scribes; and Jehoshaphat{b} son of Ahilud was recorder;"
+    },
+    {
+     "v": 4,
+     "text": "Benaiah son of Jehoiada was over the army; Zadok and Abiathar were priests;"
+    },
+    {
+     "v": 5,
+     "text": "Azariah son of Nathan was over the district officers; Zabud son of Nathan was priest and the king’s friend;{c}"
+    },
+    {
+     "v": 6,
+     "text": "Ahishar was over the household; and Adoniram{d} son of Abda was over the forced labor."
+    },
+    {
+     "v": 7,
+     "text": "Solomon had twelve district officers over all Israel, who provided food for the king and his household. Each one had to provide for one month in the year."
+    },
+    {
+     "v": 8,
+     "text": "These were their names: Ben-hur,{e} in the hill country of Ephraim;"
+    },
+    {
+     "v": 9,
+     "text": "Ben-deker, in Makaz, Shaalbim,{f} Beth-shemesh,{g} and Elon-beth-hanan;"
+    },
+    {
+     "v": 10,
+     "text": "Ben-hesed, in Arubboth (Socoh and all the land of Hepher belonged to him);"
+    },
+    {
+     "v": 11,
+     "text": "Ben-abinadab, all the heights of Dor{h} (Taphath the daughter of Solomon was his wife);"
+    },
+    {
+     "v": 12,
+     "text": "Baana son of Ahilud, Taanach and Megiddo,{i} and all Beth-shean,{j} which is beside Zarethan below Jezreel,{k} from Beth-shean as far as Abel-meholah,{l} as far as beyond Jokmeam;"
+    },
+    {
+     "v": 13,
+     "text": "Ben-geber, in Ramoth-gilead{m} (the villages of Jair son of Manasseh, which are in Gilead, were his, and the region of Argob, which is in Bashan, were his: sixty great cities with walls and bronze bars);"
+    },
+    {
+     "v": 14,
+     "text": "Ahinadab son of Iddo, in Mahanaim;"
+    },
+    {
+     "v": 15,
+     "text": "Ahimaaz, in Naphtali (he too took a daughter of Solomon, Basemath, as wife);"
+    },
+    {
+     "v": 16,
+     "text": "Baana son of Hushai, in Asher and Bealoth;"
+    },
+    {
+     "v": 17,
+     "text": "Jehoshaphat son of Paruah, in Issachar;"
+    },
+    {
+     "v": 18,
+     "text": "Shimei son of Ela, in Benjamin;"
+    },
+    {
+     "v": 19,
+     "text": "Geber son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan. And there was one officer who was over the land.{n}"
+    },
+    {
+     "v": 20,
+     "text": "Judah and Israel were numerous, like the sand that is by the sea for multitude, eating and drinking and rejoicing."
+    },
+    {
+     "v": 21,
+     "text": "{o}Solomon was ruling over all the kingdoms from the River{p} to the land of the Philistines and to the border of Egypt. They brought tribute and served Solomon all the days of his life."
+    },
+    {
+     "v": 22,
+     "text": "Solomon’s provision for one day was about 180 bushels{q} of fine flour and about 360 bushels of meal,"
+    },
+    {
+     "v": 23,
+     "text": "ten fattened oxen, twenty pasture-fed oxen, and a hundred sheep, besides deer, gazelles, roebucks, and fattened fowl.{r}"
+    },
+    {
+     "v": 24,
+     "text": "For he had dominion over all the region west of the River, from Tiphsah{s} as far as Gaza,{t} over all the kings west of the River, and he had peace on every side all around him."
+    },
+    {
+     "v": 25,
+     "text": "Judah and Israel lived securely, every man under his vine and under his fig tree, from Dan to Beersheba,{u} all the days of Solomon."
+    },
+    {
+     "v": 26,
+     "text": "Solomon also had forty thousand{v} stalls of horses for his chariots, and twelve thousand horsemen."
+    },
+    {
+     "v": 27,
+     "text": "Those district officers provided food for King Solomon and for all who came to King Solomon’s table, each in his month. They let nothing be lacking."
+    },
+    {
+     "v": 28,
+     "text": "Barley also and straw for the horses and the swift steeds they brought to wherever it was needed, every man as he was assigned."
+    },
+    {
+     "v": 29,
+     "text": "God gave Solomon wisdom and very great understanding, and breadth of mind{w} like the sand on the seashore,"
+    },
+    {
+     "v": 30,
+     "text": "Solomon’s wisdom was greater than all the wisdom of the people of the east and than all Egypt’s wisdom."
+    },
+    {
+     "v": 31,
+     "text": "He was wiser than anyone, wiser than Ethan the Ezrahite, and Heman, Calcol, and Darda, the sons of Mahol, and his fame was in all the nations around."
+    },
+    {
+     "v": 32,
+     "text": "He spoke three thousand proverbs, and his songs numbered a thousand and five.{x}"
+    },
+    {
+     "v": 33,
+     "text": "He spoke of trees, from the cedar that is in Lebanon to the hyssop that grows out of the wall. He spoke also of beasts, of birds, of creeping things, and of fish."
+    },
+    {
+     "v": 34,
+     "text": "People came from all the peoples to hear the wisdom of Solomon, from all the kings of the earth who had heard of his wisdom."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:2",
+     "text": "Azariah means “Yahweh has helped.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:3",
+     "text": "Jehoshaphat means “Yahweh has judged.”"
+    },
+    {
+     "m": "c",
+     "ref": "4:5",
+     "text": "“The king’s friend” was a title for a trusted royal adviser (compare 2 Samuel 15:37)."
+    },
+    {
+     "m": "d",
+     "ref": "4:6",
+     "text": "Adoniram means “my Lord is exalted.” He is called Adoram in 2 Samuel 20:24 and 1 Kings 12:18 (some witnesses there read Adoniram)."
+    },
+    {
+     "m": "e",
+     "ref": "4:8",
+     "text": "The names in verses 8–13 that begin with Ben- mean “son of” the person named, so Ben-hur is “son of Hur.” The officers are identified by their fathers’ names."
+    },
+    {
+     "m": "f",
+     "ref": "4:9",
+     "text": "Shaalbim means “place of foxes” (or “jackals”)."
+    },
+    {
+     "m": "g",
+     "ref": "4:9",
+     "text": "Beth-shemesh means “house of the sun.”"
+    },
+    {
+     "m": "h",
+     "ref": "4:11",
+     "text": "Hebrew Naphath-dor. Dor was a coastal city south of Mount Carmel."
+    },
+    {
+     "m": "i",
+     "ref": "4:12",
+     "text": "Megiddo guarded the main pass through the Carmel ridge into the Valley of Jezreel. The meaning of the name is uncertain."
+    },
+    {
+     "m": "j",
+     "ref": "4:12",
+     "text": "Beth-shean means “house of quiet” or “house of security”; the meaning is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "4:12",
+     "text": "Jezreel means “God sows.”"
+    },
+    {
+     "m": "l",
+     "ref": "4:12",
+     "text": "Abel-meholah means “meadow of dancing.”"
+    },
+    {
+     "m": "m",
+     "ref": "4:13",
+     "text": "Ramoth-gilead means “heights of Gilead.”"
+    },
+    {
+     "m": "n",
+     "ref": "4:19",
+     "text": "The Hebrew is uncertain. It may mean that Geber was the only officer over that large region, or it may refer to an officer over the land of Judah, which is not named in the list. The Septuagint reads “and one officer in the land of Judah.”"
+    },
+    {
+     "m": "o",
+     "ref": "4:21",
+     "text": "Hebrew Bibles number verses 21–34 as 5:1–14, and 5:1–18 as 5:15–32. In the Septuagint much of the material in verses 20–21 and 25–26 appears instead in the addition after 2:46 (2:46a–l)."
+    },
+    {
+     "m": "p",
+     "ref": "4:21",
+     "text": "That is, the Euphrates River."
+    },
+    {
+     "m": "q",
+     "ref": "4:22",
+     "text": "Hebrew “thirty cors” and “sixty cors.” A cor was a dry measure equal to a homer, about 6 bushels or 220 liters, so about 6,600 liters and 13,200 liters. The size of the cor is not certain."
+    },
+    {
+     "m": "r",
+     "ref": "4:23",
+     "text": "The kind of fowl is uncertain. It may be “fattened geese” or “cuckoos.”"
+    },
+    {
+     "m": "s",
+     "ref": "4:24",
+     "text": "Tiphsah, on the Euphrates, means “crossing” or “ford.”"
+    },
+    {
+     "m": "t",
+     "ref": "4:24",
+     "text": "Gaza was the southernmost of the Philistine cities on the coast."
+    },
+    {
+     "m": "u",
+     "ref": "4:25",
+     "text": "Dan, in the far north, means “judge”; Beersheba, in the far south, means “well of seven” or “well of the oath” (Genesis 21:31)."
+    },
+    {
+     "m": "v",
+     "ref": "4:26",
+     "text": "Some Hebrew manuscripts and 2 Chronicles 9:25 read “four thousand.” The Septuagint addition at 2:46i reads “forty thousand mares.”"
+    },
+    {
+     "m": "w",
+     "ref": "4:29",
+     "text": "Hebrew “breadth of heart.”"
+    },
+    {
+     "m": "x",
+     "ref": "4:32",
+     "text": "The Septuagint reads “five thousand.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    7,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hiram{a} king of Tyre{b} sent his servants to Solomon, having heard that they had anointed him king in his father’s stead; for Hiram had loved David all his days."
+    },
+    {
+     "v": 2,
+     "text": "Solomon sent word to Hiram, saying,"
+    },
+    {
+     "v": 3,
+     "text": "“You know how my father David was not able to build a house for the name of Yahweh his God because of the wars that surrounded him on every side, until Yahweh put his enemies under the soles of his feet."
+    },
+    {
+     "v": 4,
+     "text": "But now Yahweh my God has given me rest on every side. There is neither adversary nor misfortune."
+    },
+    {
+     "v": 5,
+     "text": "So I intend to build a house for the name of Yahweh my God, as Yahweh spoke to David my father, saying, ‘Your son, whom I will set on your throne in your place, will build the house for my name.’"
+    },
+    {
+     "v": 6,
+     "text": "So now give orders, and let them cut down cedars from Lebanon for me. My servants will work with your servants, and I will pay you for your servants whatever wage you name, since you know that among us there is no one with skill to cut timber like the Sidonians.”"
+    },
+    {
+     "v": 7,
+     "text": "When Hiram heard the words of Solomon, he rejoiced greatly and said, “Blessed be Yahweh today, who has given to David a wise son over this great people.”"
+    },
+    {
+     "v": 8,
+     "text": "Hiram sent to Solomon, saying, “I have heard the message you sent me. I will do all you desire concerning timber of cedar and timber of cypress."
+    },
+    {
+     "v": 9,
+     "text": "My servants will bring it down from Lebanon to the sea, and I will make it into rafts to go by sea to the place you direct me. I will have them broken up there, and you will receive it. And you will meet my wishes by providing food for my household.”"
+    },
+    {
+     "v": 10,
+     "text": "So Hiram gave Solomon all the cedar timber and cypress timber that he desired,"
+    },
+    {
+     "v": 11,
+     "text": "and Solomon gave Hiram about 120,000 bushels{c} of wheat as food for his household, and about 1,200 gallons{d} of pressed oil. Solomon gave this to Hiram year by year."
+    },
+    {
+     "v": 12,
+     "text": "Yahweh gave Solomon wisdom, as he had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty."
+    },
+    {
+     "v": 13,
+     "text": "King Solomon raised a levy of forced labor out of all Israel, and the levy numbered thirty thousand men."
+    },
+    {
+     "v": 14,
+     "text": "He sent them to Lebanon by turns, ten thousand each month: a month they were in Lebanon, and two months at home. Adoniram was over the levy."
+    },
+    {
+     "v": 15,
+     "text": "Solomon also had seventy thousand burden carriers and eighty thousand stonecutters in the hill country,"
+    },
+    {
+     "v": 16,
+     "text": "besides Solomon’s chief officers who were over the work, three thousand three hundred,{e} who had charge of the people who did the work."
+    },
+    {
+     "v": 17,
+     "text": "At the king’s command they quarried great stones, costly stones, to lay the foundation of the house with dressed stones."
+    },
+    {
+     "v": 18,
+     "text": "So Solomon’s builders and Hiram’s builders and the Gebalites{f} did the cutting, and they prepared the timber and the stones to build the house.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Hiram is a shortened form of Ahiram, “my brother is exalted.” Hebrew Bibles number 5:1–18 as 5:15–32."
+    },
+    {
+     "m": "b",
+     "ref": "5:1",
+     "text": "Tyre means “rock,” describing the island fortress off the coast of Phoenicia."
+    },
+    {
+     "m": "c",
+     "ref": "5:11",
+     "text": "Hebrew “twenty thousand cors.” A cor was about 6 bushels or 220 liters, so about 4,400,000 liters (4,400 cubic meters). The size of the cor is not certain."
+    },
+    {
+     "m": "d",
+     "ref": "5:11",
+     "text": "Hebrew “twenty cors.” As a liquid measure a cor equaled ten baths, about 60 gallons or 220 liters, so about 4,400 liters. The Septuagint reads “twenty thousand baths” (compare 2 Chronicles 2:10), about 120,000 gallons or 440,000 liters."
+    },
+    {
+     "m": "e",
+     "ref": "5:16",
+     "text": "The Septuagint reads “three thousand six hundred,” as does 2 Chronicles 2:18."
+    },
+    {
+     "m": "f",
+     "ref": "5:18",
+     "text": "That is, men of Gebal (Byblos), a Phoenician city north of Sidon. Gebal means “border” or “mountain.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:18",
+     "text": "The Septuagint adds “for three years.” It places verse 17 at the start of chapter 6, in an addition (6:1a–d) that also says the men of Solomon and of Hiram cut the stones."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    11,
+    14,
+    23,
+    29,
+    37
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the four hundred and eightieth year{a} after the Israelites came out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv (April–May),{b} which is the second month, he began to build the house of Yahweh."
+    },
+    {
+     "v": 2,
+     "text": "The house that King Solomon built for Yahweh was about 90 feet long, 30 feet wide, and 45 feet high.{c}"
+    },
+    {
+     "v": 3,
+     "text": "The porch in front of the main hall{d} of the house extended about 30 feet{e} across the width of the house, and it was about 15 feet{f} deep in front of the house."
+    },
+    {
+     "v": 4,
+     "text": "For the house he made windows with recessed frames.{g}"
+    },
+    {
+     "v": 5,
+     "text": "Against the wall of the house he built a structure all around, against the walls of the house all around both the main hall and the inner sanctuary,{h} and he made side rooms all around."
+    },
+    {
+     "v": 6,
+     "text": "The lowest story was about 7½ feet wide, the middle one about 9 feet wide, and the third about 10½ feet wide.{i} For on the outside of the house he made ledges all around the wall, so that the beams would not be fastened into the walls of the house."
+    },
+    {
+     "v": 7,
+     "text": "When the house was being built, it was built of stone made ready at the quarry, so that neither hammer nor axe nor any iron tool was heard in the house while it was being built."
+    },
+    {
+     "v": 8,
+     "text": "The door to the lowest{j} story was on the right-hand, southern side of the house, and by winding stairs{k} people climbed to the middle level, and from there to the third."
+    },
+    {
+     "v": 9,
+     "text": "So he built the house and finished it, and he roofed the house with beams and rows of planks of cedar."
+    },
+    {
+     "v": 10,
+     "text": "And he built the side structure against all the house, each level about 7½ feet{l} high,and fastened it to the house with timbers of cedar."
+    },
+    {
+     "v": 11,
+     "text": "Then the word of Yahweh came to Solomon:{m}"
+    },
+    {
+     "v": 12,
+     "text": "“Concerning this house that you are building: if you walk in my statutes and carry out my judgments and keep all my commandments by walking in them, then I will fulfill with you my word that I spoke to David your father."
+    },
+    {
+     "v": 13,
+     "text": "And I will make my dwelling in the midst of the children of Israel, and I will not abandon Israel my people.”"
+    },
+    {
+     "v": 14,
+     "text": "So Solomon built the house and finished it."
+    },
+    {
+     "v": 15,
+     "text": "He lined the walls of the house on the inside with boards of cedar. From the floor of the house up to the rafters{n} of the ceiling he covered them on the inside with wood, and he covered the floor of the house with boards of cypress.{o}"
+    },
+    {
+     "v": 16,
+     "text": "He built about 30 feet{p} at the rear of the house with boards of cedar from the floor to the rafters. He built this inside as an inner sanctuary, as the Most Holy Place."
+    },
+    {
+     "v": 17,
+     "text": "The house, that is, the main hall in front of the inner sanctuary, was about 60 feet{q} long."
+    },
+    {
+     "v": 18,
+     "text": "The cedar inside the house was carved with gourds and open flowers. All was cedar. No stone was seen.{r}"
+    },
+    {
+     "v": 19,
+     "text": "He prepared the inner sanctuary in the middle of the house, within, to set there the ark of the covenant of Yahweh."
+    },
+    {
+     "v": 20,
+     "text": "The inner sanctuary was about 30 feet long, 30 feet wide, and 30 feet high,{s} and he overlaid it with pure gold. He also overlaid the altar with cedar.{t}"
+    },
+    {
+     "v": 21,
+     "text": "Solomon covered the house within with pure gold, and he stretched golden chains across before the inner sanctuary, and covered it with gold."
+    },
+    {
+     "v": 22,
+     "text": "The whole house he overlaid with gold, until all the house was finished. Also the whole altar that belonged to the inner sanctuary he overlaid with gold."
+    },
+    {
+     "v": 23,
+     "text": "In the inner sanctuary he made two cherubim{u} of olive wood,{v} each about 15 feet{w} high."
+    },
+    {
+     "v": 24,
+     "text": "One wing of the cherub was about 7½ feet long, and the other wing of the cherub was about 7½ feet long; from the tip of one wing to the tip of the other was about 15 feet.{x}"
+    },
+    {
+     "v": 25,
+     "text": "The second cherub also measured about 15 feet. Both cherubim had the same measure and the same shape."
+    },
+    {
+     "v": 26,
+     "text": "The height of one cherub was about 15 feet, and so was that of the other cherub."
+    },
+    {
+     "v": 27,
+     "text": "He placed the cherubim inside the innermost house. Their wings were stretched out, the wing of the one reaching to one wall and the wing of the second cherub reaching to the other wall, while in the middle of the house their wings met, wing to wing."
+    },
+    {
+     "v": 28,
+     "text": "He overlaid the cherubim with gold."
+    },
+    {
+     "v": 29,
+     "text": "On all the walls of the house round about he carved engraved figures of cherubim, palm trees, and open flowers, in the inner room and in the outer."
+    },
+    {
+     "v": 30,
+     "text": "The floor of the house he overlaid with gold, in the inner room and in the outer."
+    },
+    {
+     "v": 31,
+     "text": "For the entrance to the inner sanctuary he made doors of olive wood. The lintel and the doorposts formed a pentagon.{y}"
+    },
+    {
+     "v": 32,
+     "text": "He covered the two doors of olive wood with carvings of cherubim, palm trees, and open flowers. He overlaid them with gold and spread the gold over the cherubim and the palm trees."
+    },
+    {
+     "v": 33,
+     "text": "So also he made for the entrance of the main hall doorposts of olive wood, in the form of a square,{z}"
+    },
+    {
+     "v": 34,
+     "text": "and two doors of cypress wood. The two leaves of the one door turned on pivots, and the two leaves of the other door turned on pivots."
+    },
+    {
+     "v": 35,
+     "text": "On them he carved cherubim, palm trees, and open flowers, and he overlaid them with gold evenly applied on the carved work."
+    },
+    {
+     "v": 36,
+     "text": "He built the inner court with three rows of dressed stone and one row of cedar beams.{aa}"
+    },
+    {
+     "v": 37,
+     "text": "In the fourth year the foundation of the house of Yahweh was laid, in the month of Ziv (April–May)."
+    },
+    {
+     "v": 38,
+     "text": "In the eleventh year, in the month of Bul (October–November),{ab} which is the eighth month, the house was finished in all its parts and according to all its specifications. He was seven years in building it."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "The Septuagint reads “four hundred and fortieth year.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:1",
+     "text": "Hebrew Ziv (“brightness,” perhaps from the spring flowers), an older Canaanite month name. It is the second month of the spring-start religious calendar (later called Iyyar), so it fell in April–May; the exact modern dates varied from year to year with the lunar calendar. The Septuagint, in its addition at 6:1c, calls it Ziu."
+    },
+    {
+     "m": "c",
+     "ref": "6:2",
+     "text": "Hebrew “sixty cubits its length, twenty its width, and thirty cubits its height,” about 27 by 9 by 13.5 meters. The cubit here is reckoned at about 18 inches (45 centimeters); a longer royal cubit of about 21 inches (52 centimeters) was also used (compare 2 Chronicles 3:3, “cubits of the old standard”), which would make the house about 105 by 35 by 52½ feet. The Septuagint reads “forty cubits in length, … and its height twenty-five cubits.”"
+    },
+    {
+     "m": "d",
+     "ref": "6:3",
+     "text": "Hebrew hekal, “palace” or “temple,” the large front room of the house, later called the Holy Place."
+    },
+    {
+     "m": "e",
+     "ref": "6:3",
+     "text": "Hebrew “twenty cubits,” about 9 meters."
+    },
+    {
+     "m": "f",
+     "ref": "6:3",
+     "text": "Hebrew “ten cubits,” about 4.5 meters."
+    },
+    {
+     "m": "g",
+     "ref": "6:4",
+     "text": "The meaning of the Hebrew is uncertain. It may mean “windows with beveled frames,” “latticed windows,” or “windows narrowing inward.”"
+    },
+    {
+     "m": "h",
+     "ref": "6:5",
+     "text": "Hebrew debir, the innermost room, the Most Holy Place (verse 16). The word may come from a root meaning “back” (the rear room)."
+    },
+    {
+     "m": "i",
+     "ref": "6:6",
+     "text": "Hebrew “five cubits … six cubits … seven cubits,” about 2.3, 2.7, and 3.2 meters. Each story was wider than the one below because the main wall was stepped back at each level."
+    },
+    {
+     "m": "j",
+     "ref": "6:8",
+     "text": "Hebrew “middle.” The Septuagint reads “the under side,” which fits the sense."
+    },
+    {
+     "m": "k",
+     "ref": "6:8",
+     "text": "The meaning of the Hebrew is uncertain. It may mean “trapdoors” or “shafts.”"
+    },
+    {
+     "m": "l",
+     "ref": "6:10",
+     "text": "Hebrew “five cubits,” about 2.3 meters."
+    },
+    {
+     "m": "m",
+     "ref": "6:11",
+     "text": "The Septuagint lacks verses 11–14."
+    },
+    {
+     "m": "n",
+     "ref": "6:15",
+     "text": "Hebrew “walls,” perhaps a scribal slip for the similar word for “beams” or “rafters” (the Septuagint reads “to the beams”)."
+    },
+    {
+     "m": "o",
+     "ref": "6:15",
+     "text": "Or “juniper” or “pine.” The exact tree is uncertain."
+    },
+    {
+     "m": "p",
+     "ref": "6:16",
+     "text": "Hebrew “twenty cubits,” about 9 meters."
+    },
+    {
+     "m": "q",
+     "ref": "6:17",
+     "text": "Hebrew “forty cubits,” about 18 meters."
+    },
+    {
+     "m": "r",
+     "ref": "6:18",
+     "text": "The Septuagint lacks verse 18."
+    },
+    {
+     "m": "s",
+     "ref": "6:20",
+     "text": "Hebrew “twenty cubits in length, twenty cubits in width, and twenty cubits in its height,” about 9 meters each way. The inner sanctuary was a cube; since the house was about 45 feet high (verse 2), the room may have stood on a raised floor or had a lower ceiling."
+    },
+    {
+     "m": "t",
+     "ref": "6:20",
+     "text": "Hebrew uncertain. This may be the altar of incense in front of the inner sanctuary (compare 7:48). The Septuagint reads “he made an altar,” perhaps reading the Hebrew differently."
+    },
+    {
+     "m": "u",
+     "ref": "6:23",
+     "text": "Cherubim (singular cherub) were winged guardian figures associated with God’s throne and presence (Exodus 25:18–22). The meaning of the word is uncertain."
+    },
+    {
+     "m": "v",
+     "ref": "6:23",
+     "text": "Hebrew “trees of oil,” perhaps the wild olive or another resinous tree."
+    },
+    {
+     "m": "w",
+     "ref": "6:23",
+     "text": "Hebrew “ten cubits,” about 4.5 meters."
+    },
+    {
+     "m": "x",
+     "ref": "6:24",
+     "text": "Hebrew “five cubits … five cubits … ten cubits,” about 2.3 meters and 4.5 meters."
+    },
+    {
+     "m": "y",
+     "ref": "6:31",
+     "text": "Hebrew “fifth,” probably a five-sided frame (a lintel shaped like a gable). The meaning is uncertain."
+    },
+    {
+     "m": "z",
+     "ref": "6:33",
+     "text": "Hebrew “from a fourth,” probably meaning a four-sided (rectangular) frame. The meaning is uncertain."
+    },
+    {
+     "m": "aa",
+     "ref": "6:36",
+     "text": "After this verse the Septuagint adds “and he made the curtain of the court of the porch of the house that was in front of the temple” (6:36a). The Septuagint also places verses 37–38 earlier, in its addition after 5:18 (Hebrew 5:32), as 6:1c–d."
+    },
+    {
+     "m": "ab",
+     "ref": "6:38",
+     "text": "Hebrew Bul, an older Canaanite month name, perhaps meaning “produce” or “rain.” It is the eighth month of the spring-start religious calendar (later called Marcheshvan), so it fell in October–November; the exact modern dates varied with the lunar calendar. The Septuagint addition at 6:1d calls it Baal."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    9,
+    13,
+    15,
+    23,
+    27,
+    38,
+    40,
+    48
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "His own house Solomon was thirteen years in building, until he had completed all of it."
+    },
+    {
+     "v": 2,
+     "text": "He built the House of the Forest of Lebanon.{a} Its length was about 150 feet, its width about 75 feet, and its height about 45 feet.{b} It stood on four rows of cedar pillars, with cedar beams laid upon the pillars."
+    },
+    {
+     "v": 3,
+     "text": "It was roofed with cedar over the side chambers that rested on the pillars, forty-five in number, fifteen to a row."
+    },
+    {
+     "v": 4,
+     "text": "There were window frames in three rows, and window faced window in three tiers."
+    },
+    {
+     "v": 5,
+     "text": "All the doorways and doorposts had square frames, and window faced window in three tiers.{c}"
+    },
+    {
+     "v": 6,
+     "text": "He made the Hall of Pillars about 75 feet long and about 45 feet wide.{d} There was a porch in front of them, with pillars and a canopy in front of them."
+    },
+    {
+     "v": 7,
+     "text": "He made the Hall of the Throne, where he was to pronounce judgment, the Hall of Judgment. It was paneled with cedar from floor to floor.{e}"
+    },
+    {
+     "v": 8,
+     "text": "The house where he himself would dwell, in the other court behind the hall, was of the same workmanship. And for the daughter of Pharaoh, whom Solomon had married, he built a house like this hall."
+    },
+    {
+     "v": 9,
+     "text": "All these were of costly stones, hewn according to measure, sawed with saws inside and outside, from the foundation up to the coping, and on the outside as far as the great court."
+    },
+    {
+     "v": 10,
+     "text": "The foundation was of costly stones, great stones, some about 15 feet and some about 12 feet.{f}"
+    },
+    {
+     "v": 11,
+     "text": "Above them were costly stones, hewn according to measure, and cedar."
+    },
+    {
+     "v": 12,
+     "text": "The great court had around it three courses of dressed stone and a course of cedar beams, just as the inner court of the house of Yahweh and the porch of the house had."
+    },
+    {
+     "v": 13,
+     "text": "King Solomon sent and brought Hiram{g} from Tyre."
+    },
+    {
+     "v": 14,
+     "text": "He was the son of a widow from the tribe of Naphtali,{h} and his father was a man of Tyre, a craftsman in bronze. He was full of wisdom, understanding, and knowledge for doing every kind of work in bronze. He came to King Solomon and did all his work."
+    },
+    {
+     "v": 15,
+     "text": "He cast two pillars of bronze. Each pillar was about 27 feet high, and a line of about 18 feet measured its circumference.{i}"
+    },
+    {
+     "v": 16,
+     "text": "Two capitals of molten bronze he made as well, for placing on the pillars’ tops; the height of each capital was about 7½ feet.{j}"
+    },
+    {
+     "v": 17,
+     "text": "There were nets of lattice work and twisted threads of chain work for the capitals on the tops of the pillars, seven{k} for the one capital and seven for the other."
+    },
+    {
+     "v": 18,
+     "text": "He made the pomegranates,{l} two rows around on the one lattice work to cover the capital that was on top of the pillar, and he did the same for the other capital."
+    },
+    {
+     "v": 19,
+     "text": "The capitals that were on the tops of the pillars in the porch were of lily design, about 6 feet.{m}"
+    },
+    {
+     "v": 20,
+     "text": "The capitals on the two pillars also had pomegranates above, next to the rounded part that was beside the lattice work. There were two hundred pomegranates in rows all around on each capital.{n}"
+    },
+    {
+     "v": 21,
+     "text": "He erected the pillars at the porch of the main hall. The one on the right he set up and named Jachin,{o} and the one on the left he set up and named Boaz.{p}"
+    },
+    {
+     "v": 22,
+     "text": "On the tops of the pillars was lily work. So the work of the pillars was finished."
+    },
+    {
+     "v": 23,
+     "text": "Then he made the Sea{q} of cast metal. It was round, about 15 feet from brim to brim and about 7½ feet high, and a line of about 45 feet would encircle it.{r}"
+    },
+    {
+     "v": 24,
+     "text": "Under its brim, all around it, were gourds encircling it, ten to every 18 inches,{s} going all around the Sea. The gourds were in two rows, cast with it when it was cast."
+    },
+    {
+     "v": 25,
+     "text": "It rested on twelve oxen: three looked north, three looked west, three looked south, and three looked east. The Sea was upon them, and their hind parts all pointed inward."
+    },
+    {
+     "v": 26,
+     "text": "Its thickness was about 3 inches,{t} and its brim was made like the brim of a cup, like the flower of a lily. It held about 11,500 gallons.{u}"
+    },
+    {
+     "v": 27,
+     "text": "He also made the ten stands of bronze. Each stand was about 6 feet long, about 6 feet wide, and about 4½ feet high.{v}"
+    },
+    {
+     "v": 28,
+     "text": "This was how the stands were made: they had panels, and the panels were set between the frames."
+    },
+    {
+     "v": 29,
+     "text": "On the panels between the frames were figures of lions, oxen, and cherubim, and so too on the frames; above and beneath the lions and oxen were wreaths of hanging work."
+    },
+    {
+     "v": 30,
+     "text": "Each stand had four bronze wheels and axles of bronze, and at its four corners were supports. The supports were cast beneath the basin, with wreaths at the side of each."
+    },
+    {
+     "v": 31,
+     "text": "Its opening inside the crown, which projected upward, was about 18 inches{w} deep. Its opening was round, as a pedestal is made, about 27 inches{x} across. At its opening there were also carvings, and its panels were square, not round."
+    },
+    {
+     "v": 32,
+     "text": "The four wheels were underneath the panels, and the axles of the wheels were part of the stand. Each wheel was about 27 inches high."
+    },
+    {
+     "v": 33,
+     "text": "The wheels were made like a chariot wheel. Their axles, their rims, their spokes, and their hubs were all cast."
+    },
+    {
+     "v": 34,
+     "text": "Each stand had four supports, at its four corners, and the supports were cast as part of the stand itself."
+    },
+    {
+     "v": 35,
+     "text": "At the top of the stand there was a round band about 9 inches{y} high, and on the top of the stand its handles and its panels were of one piece with it."
+    },
+    {
+     "v": 36,
+     "text": "On the surfaces of its handles and on its panels he engraved cherubim, lions, and palm trees, according to the space on each, with wreaths all around."
+    },
+    {
+     "v": 37,
+     "text": "In this way he made the ten stands. All of them had one casting, one measure, and one shape."
+    },
+    {
+     "v": 38,
+     "text": "He made ten basins of bronze. Each basin held about 230 gallons,{z} and each basin measured about 6 feet.{aa} There was a basin on each of the ten stands."
+    },
+    {
+     "v": 39,
+     "text": "Five of the stands he placed on the south side of the house and five on its north side, and the Sea he placed on the south side of the house, toward the southeast."
+    },
+    {
+     "v": 40,
+     "text": "Hiram also made the pots,{ab} the shovels, and the bowls. So Hiram completed all the work he was doing for King Solomon in Yahweh’s house:"
+    },
+    {
+     "v": 41,
+     "text": "the two pillars; the bowls of the capitals that were on the tops of the two pillars; the two lattice works to cover the two bowls of the capitals that were on the tops of the pillars;"
+    },
+    {
+     "v": 42,
+     "text": "the four hundred pomegranates for the two lattice works, two rows of pomegranates for each lattice work, to cover the two bowls of the capitals that were on the pillars;"
+    },
+    {
+     "v": 43,
+     "text": "the ten stands and the ten basins on the stands;"
+    },
+    {
+     "v": 44,
+     "text": "the one Sea and the twelve oxen under the Sea;"
+    },
+    {
+     "v": 45,
+     "text": "and the pots, the shovels, and the bowls. All these vessels that Hiram made for King Solomon in the house of Yahweh were of burnished bronze."
+    },
+    {
+     "v": 46,
+     "text": "In the plain of the Jordan the king cast them, in the clay ground between Succoth{ac} and Zarethan."
+    },
+    {
+     "v": 47,
+     "text": "Solomon left all the vessels unweighed because there were so very many of them. The weight of the bronze was not determined."
+    },
+    {
+     "v": 48,
+     "text": "Solomon made all the furnishings that were in the house of Yahweh: the altar of gold; the table of gold for the bread of the Presence;"
+    },
+    {
+     "v": 49,
+     "text": "the lampstands of pure gold before the inner sanctuary, five at the right and five at the left; the flowers, the lamps, and the tongs of gold;"
+    },
+    {
+     "v": 50,
+     "text": "the cups, the snuffers, the bowls, the dishes for incense, and the fire pans, of pure gold; and the sockets for the doors of the inner house, the Most Holy Place, and for the doors of the main hall of the house, of gold."
+    },
+    {
+     "v": 51,
+     "text": "So all the work that King Solomon did on the house of Yahweh was finished. Solomon brought in the things that David his father had dedicated, the silver, the gold, and the vessels, and he put them in the treasuries of the house of Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:2",
+     "text": "Probably so called because of its many cedar pillars from Lebanon, which made the hall look like a forest. Lebanon means “white,” from its snow-covered mountains."
+    },
+    {
+     "m": "b",
+     "ref": "7:2",
+     "text": "Hebrew “a hundred cubits … fifty cubits … thirty cubits,” about 45 by 22.5 by 13.5 meters."
+    },
+    {
+     "m": "c",
+     "ref": "7:5",
+     "text": "The meaning of the Hebrew of verses 4–5 is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "7:6",
+     "text": "Hebrew “fifty cubits … thirty cubits,” about 22.5 by 13.5 meters."
+    },
+    {
+     "m": "e",
+     "ref": "7:7",
+     "text": "Some ancient witnesses read “to the rafters” (compare 6:16). The Hebrew is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "7:10",
+     "text": "Hebrew “stones of ten cubits and stones of eight cubits,” about 4.5 and 3.6 meters."
+    },
+    {
+     "m": "g",
+     "ref": "7:13",
+     "text": "Hebrew Hiram; also spelled Huram or Huram-abi in 2 Chronicles 2:13–14; 4:11. He is a craftsman, not the king of Tyre (5:1)."
+    },
+    {
+     "m": "h",
+     "ref": "7:14",
+     "text": "2 Chronicles 2:14 says his mother was from the tribe of Dan. She may have been of Danite descent but living in Naphtali, or the traditions differ."
+    },
+    {
+     "m": "i",
+     "ref": "7:15",
+     "text": "Hebrew “eighteen cubits was the height of each pillar, and a line of twelve cubits went around it,” about 8.1 meters high and 5.4 meters around, giving a diameter of nearly 6 feet (1.7 meters). The Septuagint reads “fourteen cubits” for the circumference and adds that the fluting was four fingers wide (compare Jeremiah 52:21, which says the bronze was four fingers thick, about 3 inches or 7.5 centimeters, and that the pillars were hollow). It also adds “and thus was the other pillar formed.”"
+    },
+    {
+     "m": "j",
+     "ref": "7:16",
+     "text": "Hebrew “five cubits,” about 2.3 meters. 2 Kings 25:17 gives three cubits."
+    },
+    {
+     "m": "k",
+     "ref": "7:17",
+     "text": "Hebrew; the Septuagint reads “a net” for “seven.”"
+    },
+    {
+     "m": "l",
+     "ref": "7:18",
+     "text": "Hebrew “he made the pillars.” The words “pillars” and “pomegranates” appear to have been exchanged in this verse. The translation follows the sense."
+    },
+    {
+     "m": "m",
+     "ref": "7:19",
+     "text": "Hebrew “four cubits,” about 1.8 meters. The detail may refer to the lily-shaped tops of the capitals."
+    },
+    {
+     "m": "n",
+     "ref": "7:20",
+     "text": "Hebrew “on the second capital”; the translation follows the sense of verse 42."
+    },
+    {
+     "m": "o",
+     "ref": "7:21",
+     "text": "Jachin means “he will establish” or “he establishes.”"
+    },
+    {
+     "m": "p",
+     "ref": "7:21",
+     "text": "Boaz probably means “in him is strength” or “with strength.” The meanings of the two names together may form a sentence, such as “He [God] will establish [the throne] in strength.”"
+    },
+    {
+     "m": "q",
+     "ref": "7:23",
+     "text": "The Sea was a large basin for the priests to wash in (2 Chronicles 4:6)."
+    },
+    {
+     "m": "r",
+     "ref": "7:23",
+     "text": "Hebrew “ten cubits from its brim to its brim … five cubits its height, and a line of thirty cubits would go around it,” about 4.5 meters across, 2.3 meters high, and 13.5 meters around. The figures are round numbers; the circumference may have been measured below a flared rim. The Septuagint reads “thirty-three cubits.”"
+    },
+    {
+     "m": "s",
+     "ref": "7:24",
+     "text": "Hebrew “ten to a cubit,” that is, ten for every 18 inches (45 centimeters)."
+    },
+    {
+     "m": "t",
+     "ref": "7:26",
+     "text": "Hebrew “a handbreadth,” about 3 inches or 7.5 centimeters. The Septuagint reads “a span.”"
+    },
+    {
+     "m": "u",
+     "ref": "7:26",
+     "text": "Hebrew “two thousand baths.” A bath was a liquid measure of about 6 gallons (22 liters), so about 44,000 liters. The size of the bath is not certain, and estimates of the capacity vary widely. 2 Chronicles 4:5 gives “three thousand baths.” The Septuagint here lacks the statement of capacity."
+    },
+    {
+     "m": "v",
+     "ref": "7:27",
+     "text": "Hebrew “four cubits … four cubits … three cubits,” about 1.8 by 1.8 by 1.4 meters. The Septuagint reads “five cubits … four cubits … six cubits.”"
+    },
+    {
+     "m": "w",
+     "ref": "7:31",
+     "text": "Hebrew “a cubit,” about 45 centimeters."
+    },
+    {
+     "m": "x",
+     "ref": "7:31",
+     "text": "Hebrew “a cubit and a half,” about 68 centimeters; also in verse 32."
+    },
+    {
+     "m": "y",
+     "ref": "7:35",
+     "text": "Hebrew “half a cubit,” about 23 centimeters."
+    },
+    {
+     "m": "z",
+     "ref": "7:38",
+     "text": "Hebrew “forty baths,” about 880 liters."
+    },
+    {
+     "m": "aa",
+     "ref": "7:38",
+     "text": "Hebrew “four cubits,” about 1.8 meters, probably the diameter."
+    },
+    {
+     "m": "ab",
+     "ref": "7:40",
+     "text": "The Septuagint (“caldrons”) and 2 Chronicles 4:11 read “pots”; the Masoretic text reads “basins” (the same word as in verse 38), apparently by a slip of one letter."
+    },
+    {
+     "m": "ac",
+     "ref": "7:46",
+     "text": "Succoth means “booths” or “shelters.” Zarethan has not been identified with certainty."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    12,
+    14,
+    22,
+    27,
+    31,
+    33,
+    35,
+    37,
+    41,
+    44,
+    46,
+    54,
+    62,
+    65
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Solomon gathered to himself in Jerusalem the elders of Israel and all the heads of the tribes, the chiefs of the fathers’ houses of the Israelites, to King Solomon, to bring the ark of Yahweh’s covenant up out of the city of David, which is Zion.{a}"
+    },
+    {
+     "v": 2,
+     "text": "All the men of Israel gathered to King Solomon at the feast in the month of Ethanim (September–October),{b} which is the seventh month."
+    },
+    {
+     "v": 3,
+     "text": "When all the elders of Israel had come, the priests lifted up the ark."
+    },
+    {
+     "v": 4,
+     "text": "They brought up the ark of Yahweh, the tent of meeting, and all the holy vessels that were in the tent; the priests and the Levites brought them up."
+    },
+    {
+     "v": 5,
+     "text": "King Solomon and all the congregation of Israel, who had assembled with him before the ark, were sacrificing sheep and oxen, so many that they could not be counted or numbered for multitude."
+    },
+    {
+     "v": 6,
+     "text": "Then the priests brought the ark of Yahweh’s covenant to its place, into the inner sanctuary of the house, to the Most Holy Place, beneath the wings of the cherubim."
+    },
+    {
+     "v": 7,
+     "text": "The cherubim stretched their two wings above the ark’s place, and the cherubim made a covering above the ark and its poles."
+    },
+    {
+     "v": 8,
+     "text": "The poles were so long that a person in the Holy Place, before the inner sanctuary, could see their ends, though no one outside could see them. And there they remain to this day."
+    },
+    {
+     "v": 9,
+     "text": "Nothing was in the ark but the two stone tablets that Moses placed in it at Horeb,{c} when Yahweh made a covenant with the Israelites as they came out of the land of Egypt."
+    },
+    {
+     "v": 10,
+     "text": "And when the priests came out of the Holy Place, the cloud filled the house of Yahweh,"
+    },
+    {
+     "v": 11,
+     "text": "and the priests could not stand to minister because of the cloud, for the glory of Yahweh filled Yahweh’s house."
+    },
+    {
+     "v": 12,
+     "text": "Then Solomon said, “Yahweh has said that he would dwell in thick darkness."
+    },
+    {
+     "v": 13,
+     "text": "I have surely built you an exalted house, a place for you to dwell in forever.”{d}"
+    },
+    {
+     "v": 14,
+     "text": "Then the king turned his face around and blessed all the assembly of Israel, while all the assembly of Israel stood."
+    },
+    {
+     "v": 15,
+     "text": "He said, “Blessed be Yahweh, the God of Israel, who spoke with his own mouth to David my father, and with his own hand has fulfilled it, saying,"
+    },
+    {
+     "v": 16,
+     "text": "‘From the day I brought my people Israel out of Egypt, I chose no city among all Israel’s tribes for building a house where my name might be. But I chose David to be over my people Israel.’{e}"
+    },
+    {
+     "v": 17,
+     "text": "It was in the heart of David my father to build a house for the name of Yahweh, the God of Israel."
+    },
+    {
+     "v": 18,
+     "text": "But Yahweh said to David my father, ‘Since it was in your heart to build a house for my name, you did well that it was in your heart."
+    },
+    {
+     "v": 19,
+     "text": "Yet you are not the one to build the house; but your son, who will come forth from your loins, he will build the house for my name.’"
+    },
+    {
+     "v": 20,
+     "text": "Now Yahweh has fulfilled the word that he spoke. I have risen up in the place of David my father and sit on the throne of Israel, as Yahweh promised, and I have built the house for the name of Yahweh, the God of Israel."
+    },
+    {
+     "v": 21,
+     "text": "And there I have made a place for the ark, in which is the covenant of Yahweh that he made with our fathers when he brought them out of the land of Egypt.”"
+    },
+    {
+     "v": 22,
+     "text": "Then Solomon stood before the altar of Yahweh in the presence of all the assembly of Israel and spread out his hands toward heaven,"
+    },
+    {
+     "v": 23,
+     "text": "and he said, “Yahweh, God of Israel, there is no God like you, in heaven above or on earth beneath, who keeps covenant and faithful love with your servants who walk before you with all their heart,"
+    },
+    {
+     "v": 24,
+     "text": "who have kept for your servant David my father what you declared to him. With your mouth you spoke, and with your hand you have fulfilled it, as it is this day."
+    },
+    {
+     "v": 25,
+     "text": "Now therefore, Yahweh, God of Israel, keep for your servant David my father what you promised him, saying, ‘You shall not lack a man before me to sit on the throne of Israel, if only your sons guard their way, to walk before me as you have walked before me.’"
+    },
+    {
+     "v": 26,
+     "text": "Now therefore, God of Israel, let your word be confirmed, which you spoke to your servant David my father."
+    },
+    {
+     "v": 27,
+     "text": "“But will God indeed dwell on the earth? Look, heaven and the highest heaven{f} cannot contain you; how much less this house that I have built!"
+    },
+    {
+     "v": 28,
+     "text": "Yet turn toward the prayer of your servant and his plea, Yahweh my God, to listen to the cry and the prayer that your servant prays before you today,"
+    },
+    {
+     "v": 29,
+     "text": "that your eyes may be open night and day toward this house, toward the place of which you said, ‘My name shall be there,’ to listen to the prayer that your servant prays toward this place."
+    },
+    {
+     "v": 30,
+     "text": "Listen to the plea of your servant and of your people Israel when they pray toward this place. Hear in heaven, your dwelling place; and when you hear, forgive."
+    },
+    {
+     "v": 31,
+     "text": "“If a man sins against his neighbor and an oath is laid on him to make him swear, and he comes and swears before your altar in this house,"
+    },
+    {
+     "v": 32,
+     "text": "then hear in heaven and act. Judge between your servants: declare the wicked guilty and bring his way upon his own head, and declare the righteous innocent and give to him as his righteousness deserves."
+    },
+    {
+     "v": 33,
+     "text": "“When your people Israel are struck down before an enemy because they have sinned against you, and they turn again to you and confess your name and pray and plead with you in this house,"
+    },
+    {
+     "v": 34,
+     "text": "then hear in heaven and forgive the sin of your people Israel, and bring them back to the land that you gave to their fathers."
+    },
+    {
+     "v": 35,
+     "text": "“When the heavens are shut up and there is no rain because they have sinned against you, and they pray toward this place and confess your name and turn from their sin, when you afflict them,"
+    },
+    {
+     "v": 36,
+     "text": "then hear in heaven and forgive the sin of your servants, your people Israel, when you teach them the good way in which they should walk, and give rain on your land, which you have given to your people as an inheritance."
+    },
+    {
+     "v": 37,
+     "text": "“If there is famine in the land, if there is plague, blight, mildew, locust, or caterpillar,{g} if their enemy besieges them in the land of their cities,{h} whatever plague, whatever sickness there is,"
+    },
+    {
+     "v": 38,
+     "text": "then whatever prayer or plea comes from any person or from your whole people Israel, as each one knows the plague of his own heart and stretches out his hands toward this house,"
+    },
+    {
+     "v": 39,
+     "text": "then hear in heaven, your dwelling place, and forgive and act, and give to each according to all his ways, since you know his heart (for you, you alone, know the hearts of all the children of mankind),"
+    },
+    {
+     "v": 40,
+     "text": "so that they may fear you all the days that they live in the land that you gave to our fathers."
+    },
+    {
+     "v": 41,
+     "text": "“Likewise, when a foreigner, who is not of your people Israel, comes from a distant land for your name’s sake"
+    },
+    {
+     "v": 42,
+     "text": "(for they shall hear of your great name, of your strong hand and outstretched arm), and he comes and prays toward this house,"
+    },
+    {
+     "v": 43,
+     "text": "hear in heaven, your dwelling place, and do according to all for which the foreigner calls to you, so that all the peoples of the earth may know your name and fear you, as do your people Israel, and that they may know that this house which I have built is called by your name."
+    },
+    {
+     "v": 44,
+     "text": "“If your people go out to war against their enemy, wherever you send them, and they pray to Yahweh in the direction of the city you chose and of the house I built for your name,"
+    },
+    {
+     "v": 45,
+     "text": "then hear from heaven what they pray and plead, and maintain their cause."
+    },
+    {
+     "v": 46,
+     "text": "“If they sin against you (for no human being is without sin), and you are angry with them and hand them over to the enemy, so that their captors carry them off to the enemy’s land, far away or near,"
+    },
+    {
+     "v": 47,
+     "text": "yet if they come to their senses{i} in the land where they have been carried captive, and turn back and plead with you in the land of their captors, saying, ‘We have sinned and have done wrong; we have acted wickedly,’"
+    },
+    {
+     "v": 48,
+     "text": "if they return to you with all their heart and with all their soul in the land of their enemies who took them captive, and pray to you in the direction of their land, which you gave to their fathers, the city you chose, and the house I built for your name,"
+    },
+    {
+     "v": 49,
+     "text": "then from heaven, where you dwell, hear what they pray and plead, and maintain their cause,"
+    },
+    {
+     "v": 50,
+     "text": "and pardon your people who sinned against you, and every transgression of theirs against you, and cause their captors to look on them with pity, so that they show them mercy"
+    },
+    {
+     "v": 51,
+     "text": "(for they are your people and your inheritance, whom you brought out of Egypt, from the midst of the iron furnace)."
+    },
+    {
+     "v": 52,
+     "text": "May your eyes be open to your servant’s plea and to your people Israel’s plea, so that you listen whenever they cry to you."
+    },
+    {
+     "v": 53,
+     "text": "For you separated them from among all the peoples of the earth to be your inheritance, as you declared through Moses your servant, when you brought our fathers out of Egypt, Lord Yahweh.”{j}"
+    },
+    {
+     "v": 54,
+     "text": "When Solomon had finished offering all this prayer and plea to Yahweh, he arose from before the altar of Yahweh, where he had knelt with his hands spread out toward heaven."
+    },
+    {
+     "v": 55,
+     "text": "He stood and blessed all the assembly of Israel with a loud voice, saying,"
+    },
+    {
+     "v": 56,
+     "text": "“Blessed be Yahweh, who has given his people Israel rest, just as he promised. Of all the good promises he made through his servant Moses, not a single word has failed."
+    },
+    {
+     "v": 57,
+     "text": "May Yahweh our God be with us, as he was with our fathers. May he not leave us or forsake us,"
+    },
+    {
+     "v": 58,
+     "text": "that he may incline our hearts to himself, to walk in all his ways and to keep his commandments, his statutes, and his judgments, which he commanded our fathers."
+    },
+    {
+     "v": 59,
+     "text": "Let these words of mine, with which I have pleaded before Yahweh, be near to Yahweh our God day and night, that he may uphold the cause of his servant and the cause of his people Israel, as each day requires,"
+    },
+    {
+     "v": 60,
+     "text": "so that all the peoples of the earth may know that Yahweh is God; there is no other."
+    },
+    {
+     "v": 61,
+     "text": "So let your hearts be whole with Yahweh our God, to walk in his statutes and keep his commandments, as you do today.”"
+    },
+    {
+     "v": 62,
+     "text": "Then the king, and all Israel with him, offered sacrifice before Yahweh."
+    },
+    {
+     "v": 63,
+     "text": "Solomon offered as peace offerings to Yahweh twenty-two thousand oxen and a hundred and twenty thousand sheep. So the king and all the Israelites dedicated the house of Yahweh."
+    },
+    {
+     "v": 64,
+     "text": "The same day the king consecrated the middle of the court that was before the house of Yahweh, for there he offered the burnt offering, the grain offering, and the fat of the peace offerings, because the bronze altar that was before Yahweh was too small to receive the burnt offering, the grain offering, and the fat of the peace offerings."
+    },
+    {
+     "v": 65,
+     "text": "So Solomon held the feast at that time, and all Israel with him, a great assembly from Lebo-hamath{k} to the Brook of Egypt,{l} before Yahweh our God, seven days and another seven days, fourteen days.{m}"
+    },
+    {
+     "v": 66,
+     "text": "On the eighth day he sent the people away, and they blessed the king and went to their tents joyful and glad of heart for all the goodness that Yahweh had shown to David his servant and to Israel his people."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "Zion was originally the name of the fortified hill of the Jebusite city that David captured (2 Samuel 5:7). Its meaning is uncertain; it may mean “fortress” or “dry place.” The Septuagint reads more briefly, “When Solomon had finished building the house of Yahweh and his own house after twenty years, King Solomon assembled all the elders of Israel in Zion, to bring up the ark …”"
+    },
+    {
+     "m": "b",
+     "ref": "8:2",
+     "text": "Hebrew Ethanim, an older Canaanite month name meaning “ever-flowing” (perhaps of streams that run all year, or of the rains that begin at this season). It is the seventh month of the spring-start religious calendar (later called Tishri), so it fell in September–October; the exact modern dates varied with the lunar calendar. The feast is the Feast of Booths (Leviticus 23:33–36). The Septuagint calls the month Athanin."
+    },
+    {
+     "m": "c",
+     "ref": "8:9",
+     "text": "Horeb is another name for Mount Sinai. It means “dry” or “desolate.”"
+    },
+    {
+     "m": "d",
+     "ref": "8:13",
+     "text": "The Septuagint places verses 12–13, in a different and longer form, after verse 53 (8:53a): “Then Solomon spoke concerning the house, when he had finished building it: ‘He set the sun in the heavens; Yahweh said he would dwell in darkness. Build my house, a splendid house for yourself, to dwell in anew.’ Is this not written in the Book of the Song?” Many scholars think “Song” (Hebrew shir) arose from a misreading of yashar, so that this is a reference to the Book of Jashar (compare Joshua 10:13; 2 Samuel 1:18)."
+    },
+    {
+     "m": "e",
+     "ref": "8:16",
+     "text": "The Septuagint adds “and I chose Jerusalem, that my name might be there,” as in 2 Chronicles 6:5–6."
+    },
+    {
+     "m": "f",
+     "ref": "8:27",
+     "text": "Hebrew “the heaven of heavens.”"
+    },
+    {
+     "m": "g",
+     "ref": "8:37",
+     "text": "Hebrew hasil, an insect, perhaps a kind of locust at a later stage of growth."
+    },
+    {
+     "m": "h",
+     "ref": "8:37",
+     "text": "Hebrew “in the land of his gates.” The Septuagint reads “in one of their cities.”"
+    },
+    {
+     "m": "i",
+     "ref": "8:47",
+     "text": "Hebrew “return to their heart.”"
+    },
+    {
+     "m": "j",
+     "ref": "8:53",
+     "text": "The Septuagint adds the verses described in the note at verse 13."
+    },
+    {
+     "m": "k",
+     "ref": "8:65",
+     "text": "Or “from the entrance of Hamath,” a town or pass on Israel’s northern frontier. Lebo may mean “entrance.”"
+    },
+    {
+     "m": "l",
+     "ref": "8:65",
+     "text": "The Brook of Egypt is probably the Wadi el-Arish, on the southwestern border of Canaan."
+    },
+    {
+     "m": "m",
+     "ref": "8:65",
+     "text": "Hebrew “seven days and seven days, fourteen days,” that is, the seven days of the dedication and the seven days of the Feast of Booths (compare 2 Chronicles 7:8–10). The Septuagint reads only “seven days.”"
+    }
+   ]
+  }
+ ]
+}
