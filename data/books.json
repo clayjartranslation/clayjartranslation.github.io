@@ -400,8 +400,18 @@
    "name": "1 Chronicles",
    "division": "Old Testament",
    "chapterCount": "29",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "file": "data/books/1-chronicles.json"
   },
   {
    "id": "2-chronicles",

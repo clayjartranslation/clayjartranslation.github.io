@@ -1,0 +1,3614 @@
+{
+ "id": "1-chronicles",
+ "name": "1 Chronicles",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Septuagint (where Chronicles is called Paraleipomena, “things left out”), using Brenton’s public-domain English translation, and against the parallel passages in Genesis, Samuel, Kings, and the Psalms. Only a very small Dead Sea Scrolls fragment of Chronicles survives; it is mentioned only in general terms. Where Chronicles differs from its parallels in names, numbers, or wording, the footnotes say so. Each personal and place name receives a brief note on its meaning at its first mention in Chronicles; many such meanings are uncertain, and the notes say so. Verse numbers follow the standard English Bible, which in places differs from the Hebrew; the footnotes give the Hebrew numbering where they differ. Weights and measures are given in modern US units, with the original units and metric figures in the footnotes, and dates are given with their modern-month spans.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    5,
+    8,
+    17,
+    24,
+    28,
+    34,
+    38,
+    43
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Adam,{a} Seth, Enosh,"
+    },
+    {
+     "v": 2,
+     "text": "Kenan,{b} Mahalalel, Jared,"
+    },
+    {
+     "v": 3,
+     "text": "Enoch,{c} Methuselah, Lamech,"
+    },
+    {
+     "v": 4,
+     "text": "Noah,{d} Shem, Ham, and Japheth."
+    },
+    {
+     "v": 5,
+     "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.{e}"
+    },
+    {
+     "v": 6,
+     "text": "The sons of Gomer: Ashkenaz, Diphath,{f} and Togarmah."
+    },
+    {
+     "v": 7,
+     "text": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.{g}"
+    },
+    {
+     "v": 8,
+     "text": "The sons of Ham: Cush, Mizraim, Put, and Canaan.{h}"
+    },
+    {
+     "v": 9,
+     "text": "The sons of Cush: Seba, Havilah, Sabta, Raama, and Sabteca. The sons of Raama: Sheba and Dedan.{i}"
+    },
+    {
+     "v": 10,
+     "text": "Cush became the father of Nimrod; he began to be a mighty one in the earth.{j}"
+    },
+    {
+     "v": 11,
+     "text": "Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim,{k}"
+    },
+    {
+     "v": 12,
+     "text": "Pathrusim, and Casluhim, from whom came the Philistines, and Caphtorim.{l}"
+    },
+    {
+     "v": 13,
+     "text": "Canaan became the father of Sidon his firstborn, and Heth,{m}"
+    },
+    {
+     "v": 14,
+     "text": "and the Jebusites, the Amorites, the Girgashites,"
+    },
+    {
+     "v": 15,
+     "text": "the Hivites, the Arkites, the Sinites,"
+    },
+    {
+     "v": 16,
+     "text": "the Arvadites, the Zemarites, and the Hamathites.{n}"
+    },
+    {
+     "v": 17,
+     "text": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.{o}"
+    },
+    {
+     "v": 18,
+     "text": "Arpachshad became the father of Shelah, and Shelah became the father of Eber.{p}"
+    },
+    {
+     "v": 19,
+     "text": "To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother’s name was Joktan.{q}"
+    },
+    {
+     "v": 20,
+     "text": "Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,{r}"
+    },
+    {
+     "v": 21,
+     "text": "Hadoram, Uzal, Diklah,{s}"
+    },
+    {
+     "v": 22,
+     "text": "Ebal, Abimael, Sheba,{t}"
+    },
+    {
+     "v": 23,
+     "text": "Ophir, Havilah, and Jobab; all these were the sons of Joktan.{u}"
+    },
+    {
+     "v": 24,
+     "text": "Shem, Arpachshad, Shelah,"
+    },
+    {
+     "v": 25,
+     "text": "Eber, Peleg, Reu,{v}"
+    },
+    {
+     "v": 26,
+     "text": "Serug, Nahor, Terah,{w}"
+    },
+    {
+     "v": 27,
+     "text": "Abram, that is, Abraham.{x}"
+    },
+    {
+     "v": 28,
+     "text": "The sons of Abraham: Isaac and Ishmael.{y}"
+    },
+    {
+     "v": 29,
+     "text": "These are their generations: the firstborn of Ishmael, Nebaioth; then Kedar, Adbeel, Mibsam,{z}"
+    },
+    {
+     "v": 30,
+     "text": "Mishma, Dumah, Massa, Hadad, Tema,{aa}"
+    },
+    {
+     "v": 31,
+     "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.{ab}"
+    },
+    {
+     "v": 32,
+     "text": "The sons of Keturah, Abraham’s concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.{ac}"
+    },
+    {
+     "v": 33,
+     "text": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah.{ad}"
+    },
+    {
+     "v": 34,
+     "text": "Abraham became the father of Isaac. The sons of Isaac: Esau and Israel.{ae}"
+    },
+    {
+     "v": 35,
+     "text": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.{af}"
+    },
+    {
+     "v": 36,
+     "text": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, and of Timna, Amalek.{ag}"
+    },
+    {
+     "v": 37,
+     "text": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.{ah}"
+    },
+    {
+     "v": 38,
+     "text": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.{ai}"
+    },
+    {
+     "v": 39,
+     "text": "The sons of Lotan: Hori and Homam; and Lotan’s sister was Timna.{aj}"
+    },
+    {
+     "v": 40,
+     "text": "The sons of Shobal: Alian, Manahath, Ebal, Shephi, and Onam. The sons of Zibeon: Aiah and Anah.{ak}"
+    },
+    {
+     "v": 41,
+     "text": "The son{al} of Anah: Dishon. The sons of Dishon: Hamran, Eshban, Ithran, and Cheran.{am}"
+    },
+    {
+     "v": 42,
+     "text": "The sons of Ezer: Bilhan, Zaavan, and Jaakan. The sons of Dishan:{an} Uz and Aran."
+    },
+    {
+     "v": 43,
+     "text": "These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela son of Beor, and the name of his city was Dinhabah.{ao}"
+    },
+    {
+     "v": 44,
+     "text": "When Bela died, Jobab son of Zerah of Bozrah reigned in his place.{ap}"
+    },
+    {
+     "v": 45,
+     "text": "When Jobab died, Husham of the land of the Temanites reigned in his place.{aq}"
+    },
+    {
+     "v": 46,
+     "text": "When Husham died, Hadad son of Bedad, who struck Midian in the field of Moab, became king in his place, and the name of his city was Avith.{ar}"
+    },
+    {
+     "v": 47,
+     "text": "When Hadad died, Samlah of Masrekah reigned in his place.{as}"
+    },
+    {
+     "v": 48,
+     "text": "When Samlah died, Shaul from Rehoboth by the River became king in his place.{at}"
+    },
+    {
+     "v": 49,
+     "text": "When Shaul died, Baal-hanan son of Achbor reigned in his place.{au}"
+    },
+    {
+     "v": 50,
+     "text": "When Baal-hanan died, Hadad reigned in his place, and the name of his city was Pai; his wife’s name was Mehetabel, the daughter of Matred, the daughter of Me-zahab.{av}"
+    },
+    {
+     "v": 51,
+     "text": "And Hadad died. ¶The chiefs of Edom were: chief Timna, chief Aliah, chief Jetheth,{aw}"
+    },
+    {
+     "v": 52,
+     "text": "chief Oholibamah, chief Elah, chief Pinon,{ax}"
+    },
+    {
+     "v": 53,
+     "text": "chief Kenaz, chief Teman, chief Mibzar,{ay}"
+    },
+    {
+     "v": 54,
+     "text": "chief Magdiel, chief Iram. These are the chiefs of Edom.{az}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Names: Adam, “human being,” related to adamah, “ground”; Seth, “appointed” (Genesis 4:25); Enosh, “man, mortal.” Verses 1–4 follow Genesis 5."
+    },
+    {
+     "m": "b",
+     "ref": "1:2",
+     "text": "Kenan, perhaps “smith” or “possession”; Mahalalel, “praise of God”; Jared, “descent.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:3",
+     "text": "Enoch, “dedicated”; Methuselah, perhaps “man of the spear”; Lamech, meaning uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "Noah, “rest” (Genesis 5:29); Shem, “name”; Ham, perhaps “hot”; Japheth, perhaps “may he enlarge” (Genesis 9:27)."
+    },
+    {
+     "m": "e",
+     "ref": "1:5",
+     "text": "These names, which follow Genesis 10, mostly stand for peoples and regions; their meanings are largely unknown. Madai is Media; Javan is Ionia (the Greeks); Tubal and Meshech were peoples of Asia Minor. Gomer, Magog, and Tiras are uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "1:6",
+     "text": "So the Hebrew; Genesis 10:3 and some Hebrew manuscripts here read “Riphath” (in Hebrew the letters d and r look alike). Ashkenaz and Togarmah were peoples to the north; meanings uncertain."
+    },
+    {
+     "m": "g",
+     "ref": "1:7",
+     "text": "So the Hebrew; Genesis 10:4 reads “Dodanim.” Rodanim probably means the people of Rhodes, and Kittim those of Cyprus. Elishah and Tarshish are places in the west; meanings uncertain. The Septuagint (B text) reads “the Citians and Rhodians.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:8",
+     "text": "Cush is the region south of Egypt (Nubia); Mizraim is Egypt; Put is probably Libya; Canaan perhaps means “low land” or “land of purple.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:9",
+     "text": "Peoples and places of Arabia and Africa; meanings uncertain. Sheba, perhaps “oath” or “seven,” and Dedan were in Arabia."
+    },
+    {
+     "m": "j",
+     "ref": "1:10",
+     "text": "Nimrod perhaps means “let us rebel.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:11",
+     "text": "The Septuagint (B text) lacks verses 11–16 and 17b–23. Ludim, Anamim, Lehabim, and Naphtuhim are peoples (the ending -im is plural); meanings uncertain. Lehabim may be Libyans."
+    },
+    {
+     "m": "l",
+     "ref": "1:12",
+     "text": "Pathrusim are the people of Pathros (Upper Egypt); Caphtorim are probably the people of Crete. Casluhim, meaning uncertain. Compare Genesis 10:14, where the order differs slightly."
+    },
+    {
+     "m": "m",
+     "ref": "1:13",
+     "text": "Sidon perhaps means “fishing place”; Heth is the ancestor of the Hittites."
+    },
+    {
+     "m": "n",
+     "ref": "1:16",
+     "text": "These are peoples of Canaan and Syria. Arkites, Arvadites, and Hamathites are named for the cities Arka, Arvad, and Hamath (“fortress”); Sinites and Zemarites for nearby places; Jebusites for Jebus (Jerusalem). Amorites probably means “westerners.” Other meanings uncertain."
+    },
+    {
+     "m": "o",
+     "ref": "1:17",
+     "text": "Genesis 10:23 lists Uz, Hul, Gether, and Mash (here Meshech) as sons of Aram; Chronicles lists them with Shem’s sons. Names: Elam, “highland” (Persia); Asshur, Assyria; Arpachshad, Lud, Uz, Hul, and Gether, uncertain; Aram, perhaps “high,” the ancestor of the Arameans (Syrians)."
+    },
+    {
+     "m": "p",
+     "ref": "1:18",
+     "text": "Shelah, “sprout” or “sending”; Eber, “region beyond,” perhaps linked to the word “Hebrew.”"
+    },
+    {
+     "m": "q",
+     "ref": "1:19",
+     "text": "Peleg means “division”; Joktan, perhaps “small.”"
+    },
+    {
+     "m": "r",
+     "ref": "1:20",
+     "text": "Almodad, Sheleph, uncertain; Hazarmaveth, “court of death” (Hadramaut in southern Arabia); Jerah, “moon.”"
+    },
+    {
+     "m": "s",
+     "ref": "1:21",
+     "text": "Hadoram, perhaps “Hadad is exalted”; Uzal, uncertain; Diklah, “palm grove.”"
+    },
+    {
+     "m": "t",
+     "ref": "1:22",
+     "text": "So the Hebrew; Genesis 10:28 reads “Obal.” Ebal, uncertain; Abimael, “my father is God”; Sheba, see verse 9."
+    },
+    {
+     "m": "u",
+     "ref": "1:23",
+     "text": "Ophir, a land famous for gold; Havilah, perhaps “sandy land”; Jobab, uncertain."
+    },
+    {
+     "m": "v",
+     "ref": "1:25",
+     "text": "Reu, perhaps “friend.”"
+    },
+    {
+     "m": "w",
+     "ref": "1:26",
+     "text": "Serug, perhaps “branch”; Nahor, perhaps “snorting”; Terah, uncertain, perhaps related to a word for “moon.”"
+    },
+    {
+     "m": "x",
+     "ref": "1:27",
+     "text": "Abram means “exalted father,” and Abraham, by sound, “father of a multitude” (Genesis 17:5)."
+    },
+    {
+     "m": "y",
+     "ref": "1:28",
+     "text": "Isaac means “he laughs”; Ishmael, “God hears.”"
+    },
+    {
+     "m": "z",
+     "ref": "1:29",
+     "text": "Nebaioth, uncertain; Kedar, “dark”; Adbeel, uncertain; Mibsam, “sweet smell.” These names follow Genesis 25:13–15."
+    },
+    {
+     "m": "aa",
+     "ref": "1:30",
+     "text": "Mishma, “hearing”; Dumah, “silence”; Massa, “burden” or “oracle”; Hadad, the name of a storm god; Tema, “desert” (an Arabian oasis)."
+    },
+    {
+     "m": "ab",
+     "ref": "1:31",
+     "text": "Jetur, uncertain (the Itureans); Naphish, uncertain; Kedemah, “eastward.”"
+    },
+    {
+     "m": "ac",
+     "ref": "1:32",
+     "text": "Keturah means “incense.” Zimran, perhaps “wild goat” or “song”; Jokshan, uncertain; Medan and Midian, perhaps “strife”; Ishbak, uncertain; Shuah, perhaps “sinking”; Dedan, uncertain."
+    },
+    {
+     "m": "ad",
+     "ref": "1:33",
+     "text": "Ephah, “darkness”; Epher, “young deer”; Hanoch, “dedicated” (same as Enoch); Abida, “my father knows”; Eldaah, perhaps “God has called.”"
+    },
+    {
+     "m": "ae",
+     "ref": "1:34",
+     "text": "Esau, perhaps “hairy” (Genesis 25:25); Israel, “he strives with God” or “God strives” (Genesis 32:28)."
+    },
+    {
+     "m": "af",
+     "ref": "1:35",
+     "text": "Eliphaz, perhaps “my God is fine gold”; Reuel, “friend of God”; Jeush, “he gathers” or “he helps”; Jalam, perhaps “hidden”; Korah, “bald.”"
+    },
+    {
+     "m": "ag",
+     "ref": "1:36",
+     "text": "According to Genesis 36:11–12, Timna was the concubine of Eliphaz and the mother of Amalek; the Hebrew here lists Timna and Amalek with the sons. The translation “and of Timna, Amalek” follows some Septuagint manuscripts and Genesis; the Septuagint (B text) lists both as sons. Names: Teman, “south”; Omar, uncertain; Zephi (Genesis 36:11 Zepho), perhaps “watch”; Gatam, Kenaz, uncertain; Timna, perhaps “restrained”; Amalek, uncertain."
+    },
+    {
+     "m": "ah",
+     "ref": "1:37",
+     "text": "Nahath, “quietness”; Zerah, “dawning, rising”; Shammah, perhaps “desolation”; Mizzah, uncertain."
+    },
+    {
+     "m": "ai",
+     "ref": "1:38",
+     "text": "Seir means “hairy, shaggy” (a wooded hill country). Lotan, perhaps “covering”; Shobal, uncertain; Zibeon, “hyena”; Anah, perhaps “answer”; Dishon and Dishan, “mountain goat”; Ezer, “help.”"
+    },
+    {
+     "m": "aj",
+     "ref": "1:39",
+     "text": "Hori, ancestor of the Horites (perhaps “cave-dwellers”); Homam (Genesis 36:22 Hemam), uncertain."
+    },
+    {
+     "m": "ak",
+     "ref": "1:40",
+     "text": "Alian (Genesis 36:23 Alvan), Manahath (“rest”), Ebal, Shephi (Genesis Shepho), and Onam (“vigorous”); Aiah means “falcon” or “kite.” Several of these meanings are uncertain."
+    },
+    {
+     "m": "al",
+     "ref": "1:41",
+     "text": "Hebrew “sons.”"
+    },
+    {
+     "m": "am",
+     "ref": "1:41",
+     "text": "Hamran (Genesis 36:26 Hemdan, “pleasant”), Eshban, Ithran (“abundance”), and Cheran; meanings mostly uncertain."
+    },
+    {
+     "m": "an",
+     "ref": "1:42",
+     "text": "Hebrew “Dishon”; Genesis 36:28 reads “Dishan.” Bilhan, perhaps “modest”; Zaavan, perhaps “disquieted”; Jaakan (Genesis 36:27 Akan), uncertain; Uz and Aran, uncertain."
+    },
+    {
+     "m": "ao",
+     "ref": "1:43",
+     "text": "Bela, “devouring”; Beor, perhaps “burning”; Dinhabah, uncertain. Verses 43–54 follow Genesis 36:31–43."
+    },
+    {
+     "m": "ap",
+     "ref": "1:44",
+     "text": "Jobab, uncertain; Zerah, see verse 37; Bozrah, “sheepfold” or “fortress.”"
+    },
+    {
+     "m": "aq",
+     "ref": "1:45",
+     "text": "Husham, perhaps “haste”; the Temanites, “southerners.”"
+    },
+    {
+     "m": "ar",
+     "ref": "1:46",
+     "text": "Hadad, a storm god’s name; Bedad, perhaps “alone”; Avith, perhaps “ruins.”"
+    },
+    {
+     "m": "as",
+     "ref": "1:47",
+     "text": "Samlah, “garment”; Masrekah, perhaps “vineyard.”"
+    },
+    {
+     "m": "at",
+     "ref": "1:48",
+     "text": "Shaul, “asked for”; Rehoboth, “broad places.” The River is probably the Euphrates, or a local river."
+    },
+    {
+     "m": "au",
+     "ref": "1:49",
+     "text": "Baal-hanan means “the lord (or Baal) is gracious”; Achbor, “mouse.”"
+    },
+    {
+     "m": "av",
+     "ref": "1:50",
+     "text": "Genesis 36:39 reads “Hadar” and “Pau” and does not record his death (verse 51). Hadad, see verse 46; Pai, uncertain; Mehetabel, “God does good”; Matred, perhaps “pursuit”; Me-zahab, “waters of gold.”"
+    },
+    {
+     "m": "aw",
+     "ref": "1:51",
+     "text": "Aliah (Genesis 36:40 Alvah), uncertain; Jetheth, uncertain. Timna, see verse 36."
+    },
+    {
+     "m": "ax",
+     "ref": "1:52",
+     "text": "Oholibamah, “tent of the high place”; Elah, “terebinth”; Pinon, uncertain."
+    },
+    {
+     "m": "ay",
+     "ref": "1:53",
+     "text": "Mibzar, “fortress”; Kenaz and Teman, see verse 36."
+    },
+    {
+     "m": "az",
+     "ref": "1:54",
+     "text": "Magdiel, “gift (or excellence) of God”; Iram, perhaps “city” or “watchful.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    3,
+    5,
+    9,
+    18,
+    21,
+    25,
+    42,
+    50
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,{a}"
+    },
+    {
+     "v": 2,
+     "text": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.{b}"
+    },
+    {
+     "v": 3,
+     "text": "The sons of Judah: Er, Onan, and Shelah; these three were born to him by Bath-shua the Canaanite. Er, Judah’s firstborn, was evil in the eyes of Yahweh, and he put him to death.{c}"
+    },
+    {
+     "v": 4,
+     "text": "And Tamar his daughter-in-law bore Perez and Zerah to him. All the sons of Judah were five.{d}"
+    },
+    {
+     "v": 5,
+     "text": "The sons of Perez: Hezron and Hamul.{e}"
+    },
+    {
+     "v": 6,
+     "text": "The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara,{f} five in all."
+    },
+    {
+     "v": 7,
+     "text": "The son{g} of Carmi: Achar, who brought trouble on Israel, who acted unfaithfully regarding what was devoted to destruction.{h}"
+    },
+    {
+     "v": 8,
+     "text": "The son of Ethan: Azariah.{i}"
+    },
+    {
+     "v": 9,
+     "text": "The sons of Hezron who were born to him: Jerahmeel, Ram, and Chelubai.{j}"
+    },
+    {
+     "v": 10,
+     "text": "Ram became the father of Amminadab, and Amminadab became the father of Nahshon, chief of the people of Judah.{k}"
+    },
+    {
+     "v": 11,
+     "text": "Nahshon became the father of Salma, and Salma became the father of Boaz.{l}"
+    },
+    {
+     "v": 12,
+     "text": "Boaz became the father of Obed, and Obed became the father of Jesse.{m}"
+    },
+    {
+     "v": 13,
+     "text": "Jesse became the father of his firstborn Eliab, Abinadab the second, and Shimea the third,{n}"
+    },
+    {
+     "v": 14,
+     "text": "Nethanel the fourth, Raddai the fifth,{o}"
+    },
+    {
+     "v": 15,
+     "text": "Ozem the sixth, David the seventh.{p}"
+    },
+    {
+     "v": 16,
+     "text": "Their sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three.{q}"
+    },
+    {
+     "v": 17,
+     "text": "Abigail bore Amasa, and the father of Amasa was Jether the Ishmaelite.{r}"
+    },
+    {
+     "v": 18,
+     "text": "Caleb son of Hezron became the father of children by Azubah his wife, and by Jerioth;{s} and these were her sons: Jesher, Shobab, and Ardon.{t}"
+    },
+    {
+     "v": 19,
+     "text": "When Azubah died, Caleb took Ephrath, who bore him Hur.{u}"
+    },
+    {
+     "v": 20,
+     "text": "Hur became the father of Uri, and Uri became the father of Bezalel.{v}"
+    },
+    {
+     "v": 21,
+     "text": "Afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was sixty years old, and she bore him Segub.{w}"
+    },
+    {
+     "v": 22,
+     "text": "Segub became the father of Jair, who had twenty-three cities in the land of Gilead.{x}"
+    },
+    {
+     "v": 23,
+     "text": "But Geshur and Aram took Havvoth-jair from them, with Kenath and its villages, sixty towns.{y} All these were sons of Machir the father of Gilead."
+    },
+    {
+     "v": 24,
+     "text": "After the death of Hezron in Caleb-ephrathah, Abijah, Hezron’s wife, bore him Ashhur the father of Tekoa.{z}"
+    },
+    {
+     "v": 25,
+     "text": "The sons of Jerahmeel, the firstborn of Hezron: Ram his firstborn, Bunah, Oren, Ozem, and Ahijah.{aa}"
+    },
+    {
+     "v": 26,
+     "text": "Jerahmeel also had another wife, whose name was Atarah; she was the mother of Onam.{ab}"
+    },
+    {
+     "v": 27,
+     "text": "The sons of Ram, the firstborn of Jerahmeel: Maaz, Jamin, and Eker.{ac}"
+    },
+    {
+     "v": 28,
+     "text": "The sons of Onam: Shammai and Jada. The sons of Shammai: Nadab and Abishur.{ad}"
+    },
+    {
+     "v": 29,
+     "text": "The name of Abishur’s wife was Abihail, and she bore him Ahban and Molid.{ae}"
+    },
+    {
+     "v": 30,
+     "text": "The sons of Nadab: Seled and Appaim; and Seled died without sons.{af}"
+    },
+    {
+     "v": 31,
+     "text": "The son of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai.{ag}"
+    },
+    {
+     "v": 32,
+     "text": "And the sons of Jada the brother of Shammai: Jether and Jonathan; Jether died with no sons.{ah}"
+    },
+    {
+     "v": 33,
+     "text": "The sons of Jonathan: Peleth and Zaza. These were the descendants of Jerahmeel.{ai}"
+    },
+    {
+     "v": 34,
+     "text": "Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, named Jarha.{aj}"
+    },
+    {
+     "v": 35,
+     "text": "So Sheshan gave his daughter in marriage to Jarha his servant, and she bore him Attai.{ak}"
+    },
+    {
+     "v": 36,
+     "text": "Attai became the father of Nathan, and Nathan became the father of Zabad.{al}"
+    },
+    {
+     "v": 37,
+     "text": "Zabad became the father of Ephlal, and Ephlal became the father of Obed.{am}"
+    },
+    {
+     "v": 38,
+     "text": "Obed became the father of Jehu, and Jehu became the father of Azariah.{an}"
+    },
+    {
+     "v": 39,
+     "text": "Azariah became the father of Helez, and Helez became the father of Eleasah.{ao}"
+    },
+    {
+     "v": 40,
+     "text": "Eleasah became the father of Sismai, and Sismai became the father of Shallum.{ap}"
+    },
+    {
+     "v": 41,
+     "text": "Shallum became the father of Jekamiah, and Jekamiah became the father of Elishama.{aq}"
+    },
+    {
+     "v": 42,
+     "text": "The sons of Caleb the brother of Jerahmeel: Mesha his firstborn, who was the father of Ziph; and the sons of Mareshah the father of Hebron.{ar}"
+    },
+    {
+     "v": 43,
+     "text": "The sons of Hebron: Korah, Tappuah, Rekem, and Shema.{as}"
+    },
+    {
+     "v": 44,
+     "text": "Shema became the father of Raham the father of Jorkeam, and Rekem became the father of Shammai.{at}"
+    },
+    {
+     "v": 45,
+     "text": "The son of Shammai: Maon; and Maon was the father of Beth-zur.{au}"
+    },
+    {
+     "v": 46,
+     "text": "Ephah also, Caleb’s concubine, bore Haran, Moza, and Gazez; and Haran became the father of Gazez.{av}"
+    },
+    {
+     "v": 47,
+     "text": "Jahdai’s sons were Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph.{aw}"
+    },
+    {
+     "v": 48,
+     "text": "Maacah, Caleb’s concubine, bore Sheber and Tirhanah.{ax}"
+    },
+    {
+     "v": 49,
+     "text": "She also bore Shaaph the father of Madmannah, Sheva the father of Machbenah and the father of Gibea; and the daughter of Caleb was Achsah.{ay}"
+    },
+    {
+     "v": 50,
+     "text": "These were the sons of Caleb. The sons of Hur, Ephrathah’s firstborn: Shobal the father of Kiriath-jearim,{az}"
+    },
+    {
+     "v": 51,
+     "text": "Salma the father of Bethlehem, and Hareph the father of Beth-gader.{ba}"
+    },
+    {
+     "v": 52,
+     "text": "Shobal the father of Kiriath-jearim had sons: Haroeh, half of the Menuhoth.{bb}"
+    },
+    {
+     "v": 53,
+     "text": "And the clans of Kiriath-jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites; from these came the Zorathites and the Eshtaolites.{bc}"
+    },
+    {
+     "v": 54,
+     "text": "The sons of Salma: Bethlehem, the Netophathites, Atroth-beth-joab, and half of the Manahathites, the Zorites.{bd}"
+    },
+    {
+     "v": 55,
+     "text": "The clans also of the scribes who lived at Jabez: the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.{be}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Reuben, “look, a son”; Simeon, “hearing”; Levi, “attached”; Judah, “praised”; Issachar, “there is reward”; Zebulun, “honor” or “dwelling” (Genesis 29–30)."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "Dan, “judge”; Joseph, “may he add”; Benjamin, “son of the right hand”; Naphtali, “my wrestling”; Gad, “good fortune”; Asher, “happy.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:3",
+     "text": "Er, “watchful”; Onan, “vigor”; Shelah, see 1:18; Bath-shua, “daughter of Shua” (Genesis 38:2). Compare Genesis 38:7."
+    },
+    {
+     "m": "d",
+     "ref": "2:4",
+     "text": "Tamar, “palm tree”; Perez, “breach”; Zerah, “dawning.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:5",
+     "text": "Hezron, perhaps “enclosure”; Hamul, “spared.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:6",
+     "text": "So the Hebrew; some ancient witnesses and 1 Kings 4:31 read “Darda.” Zimri (Joshua 7:1 Zabdi), “my praise” or “my protection”; Ethan, “enduring”; Heman, “faithful”; Calcol, “sustenance”; Dara, uncertain."
+    },
+    {
+     "m": "g",
+     "ref": "2:7",
+     "text": "Hebrew “sons.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:7",
+     "text": "Achar means “trouble” and is a play on Hebrew ‘oker, “troubler”; Joshua 7:1 calls him Achan. Carmi means “my vineyard.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:8",
+     "text": "Azariah means “Yahweh has helped.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:9",
+     "text": "Jerahmeel, “may God have compassion”; Ram, “high”; Chelubai, another form of Caleb (verse 18), perhaps “dog.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:10",
+     "text": "Amminadab, “my kinsman is noble”; Nahshon, perhaps “serpent” or “bronze.”"
+    },
+    {
+     "m": "l",
+     "ref": "2:11",
+     "text": "Salma, perhaps “garment” (Ruth 4:20–21, Salmah and Salmon); Boaz, uncertain, perhaps “in him is strength.”"
+    },
+    {
+     "m": "m",
+     "ref": "2:12",
+     "text": "Obed, “servant, worshiper”; Jesse, uncertain, perhaps “Yahweh exists” or “man.”"
+    },
+    {
+     "m": "n",
+     "ref": "2:13",
+     "text": "Eliab, “my God is father”; Abinadab, “my father is noble”; Shimea, “hearing” (1 Samuel 16:9 Shammah)."
+    },
+    {
+     "m": "o",
+     "ref": "2:14",
+     "text": "Nethanel, “God has given”; Raddai, perhaps “ruling.”"
+    },
+    {
+     "m": "p",
+     "ref": "2:15",
+     "text": "First Samuel 16:10–11 and 17:12 say Jesse had eight sons, with David the youngest; Chronicles names seven. Some ancient versions add Elihu (compare 27:18). Ozem, perhaps “strength”; David, “beloved.”"
+    },
+    {
+     "m": "q",
+     "ref": "2:16",
+     "text": "Zeruiah, perhaps “balm”; Abigail, “my father is joy”; Abishai, “my father is gift”; Joab, “Yahweh is father”; Asahel, “God has made.”"
+    },
+    {
+     "m": "r",
+     "ref": "2:17",
+     "text": "Second Samuel 17:25 calls him Ithra the Israelite. Amasa, “burden-bearer”; Jether, “abundance.”"
+    },
+    {
+     "m": "s",
+     "ref": "2:18",
+     "text": "Or “fathered Jerioth by Azubah his wife.” The Hebrew is unclear."
+    },
+    {
+     "m": "t",
+     "ref": "2:18",
+     "text": "Caleb, “dog” (or “wholehearted”); Azubah, “forsaken”; Jerioth, “curtains”; Jesher, “uprightness”; Shobab, “returning”; Ardon, uncertain."
+    },
+    {
+     "m": "u",
+     "ref": "2:19",
+     "text": "Ephrath, “fruitfulness”; Hur, perhaps “white linen” or “child.”"
+    },
+    {
+     "m": "v",
+     "ref": "2:20",
+     "text": "Uri, “my light”; Bezalel, “in the shadow (protection) of God” (Exodus 31:2)."
+    },
+    {
+     "m": "w",
+     "ref": "2:21",
+     "text": "Machir, “sold”; Gilead, perhaps “rugged”; Segub, “exalted.”"
+    },
+    {
+     "m": "x",
+     "ref": "2:22",
+     "text": "Jair, “he enlightens.”"
+    },
+    {
+     "m": "y",
+     "ref": "2:23",
+     "text": "Geshur, “bridge”; Aram, the Arameans (Syria); Havvoth-jair, “villages of Jair”; Kenath, “possession.”"
+    },
+    {
+     "m": "z",
+     "ref": "2:24",
+     "text": "So the Hebrew, which is difficult. The Septuagint reads “after the death of Hezron, Caleb came to Ephrathah”; many scholars suggest the text originally said Caleb took Hezron’s wife. Abijah, “Yahweh is my father”; Ashhur, perhaps “black”; Tekoa, “trumpet blast.”"
+    },
+    {
+     "m": "aa",
+     "ref": "2:25",
+     "text": "Bunah, “understanding”; Oren, “pine tree”; Ozem, see verse 15; Ahijah, “brother of Yahweh.” The Hebrew may mean that Ahijah was a wife of Jerahmeel."
+    },
+    {
+     "m": "ab",
+     "ref": "2:26",
+     "text": "Atarah, “crown”; Onam, “vigorous.”"
+    },
+    {
+     "m": "ac",
+     "ref": "2:27",
+     "text": "Maaz, “anger”; Jamin, “right hand”; Eker, “root, offspring.”"
+    },
+    {
+     "m": "ad",
+     "ref": "2:28",
+     "text": "Shammai, perhaps “he heard”; Jada, “he knows”; Nadab, “generous”; Abishur, “my father is a wall.”"
+    },
+    {
+     "m": "ae",
+     "ref": "2:29",
+     "text": "Abihail, “my father is strength”; Ahban, “brother of the wise”; Molid, “begetter.”"
+    },
+    {
+     "m": "af",
+     "ref": "2:30",
+     "text": "Seled, “exultation”; Appaim, “nostrils” or “face.”"
+    },
+    {
+     "m": "ag",
+     "ref": "2:31",
+     "text": "Hebrew “sons” throughout this verse. Ishi, “my salvation”; Sheshan, uncertain, perhaps “lily”; Ahlai, “ah, would that.”"
+    },
+    {
+     "m": "ah",
+     "ref": "2:32",
+     "text": "Jether, see verse 17; Jonathan, “Yahweh has given.”"
+    },
+    {
+     "m": "ai",
+     "ref": "2:33",
+     "text": "Peleth, “swiftness”; Zaza, uncertain."
+    },
+    {
+     "m": "aj",
+     "ref": "2:34",
+     "text": "Jarha, uncertain."
+    },
+    {
+     "m": "ak",
+     "ref": "2:35",
+     "text": "Attai, “timely.”"
+    },
+    {
+     "m": "al",
+     "ref": "2:36",
+     "text": "Nathan, “he has given”; Zabad, “gift.”"
+    },
+    {
+     "m": "am",
+     "ref": "2:37",
+     "text": "Ephlal, “judgment”; Obed, see verse 12."
+    },
+    {
+     "m": "an",
+     "ref": "2:38",
+     "text": "Jehu, “Yahweh is he”; Azariah, see verse 8."
+    },
+    {
+     "m": "ao",
+     "ref": "2:39",
+     "text": "Helez, “strength”; Eleasah, “God has made.”"
+    },
+    {
+     "m": "ap",
+     "ref": "2:40",
+     "text": "Sismai, uncertain; Shallum, “recompense.”"
+    },
+    {
+     "m": "aq",
+     "ref": "2:41",
+     "text": "Jekamiah, “may Yahweh raise up”; Elishama, “God has heard.”"
+    },
+    {
+     "m": "ar",
+     "ref": "2:42",
+     "text": "The Hebrew of this verse is difficult. Mesha, “salvation”; Ziph, perhaps “refining”; Mareshah, “summit”; Hebron, “alliance.” “Father” here may mean the founder or chief of a town."
+    },
+    {
+     "m": "as",
+     "ref": "2:43",
+     "text": "Korah, see 1:35; Tappuah, “apple”; Rekem, “variegated”; Shema, “hearing.”"
+    },
+    {
+     "m": "at",
+     "ref": "2:44",
+     "text": "Raham, “compassion”; Jorkeam, perhaps “the people spread”; Shammai, see verse 28."
+    },
+    {
+     "m": "au",
+     "ref": "2:45",
+     "text": "Maon, “dwelling”; Beth-zur, “house of rock.”"
+    },
+    {
+     "m": "av",
+     "ref": "2:46",
+     "text": "Ephah, see 1:33; Haran, “mountaineer”; Moza, “going forth”; Gazez, “shearer.”"
+    },
+    {
+     "m": "aw",
+     "ref": "2:47",
+     "text": "Jahdai, perhaps “Yahweh leads”; Regem, “friend”; Jotham, “Yahweh is perfect”; Geshan, uncertain; Pelet, “escape”; Shaaph, uncertain."
+    },
+    {
+     "m": "ax",
+     "ref": "2:48",
+     "text": "Maacah, perhaps “oppression”; Sheber, “breaking”; Tirhanah, uncertain."
+    },
+    {
+     "m": "ay",
+     "ref": "2:49",
+     "text": "Madmannah, “dunghill”; Sheva, “vanity” or “Yahweh contends”; Machbenah, uncertain; Gibea, “hill”; Achsah, “anklet” (Joshua 15:16–17)."
+    },
+    {
+     "m": "az",
+     "ref": "2:50",
+     "text": "Ephrathah, see Ephrath, verse 19; Shobal, uncertain; Kiriath-jearim, “city of forests.”"
+    },
+    {
+     "m": "ba",
+     "ref": "2:51",
+     "text": "Bethlehem, “house of bread”; Hareph, perhaps “plucking”; Beth-gader, “house of the wall.”"
+    },
+    {
+     "m": "bb",
+     "ref": "2:52",
+     "text": "Or “Reaiah, half of the Manahathites” (compare 4:2 and verse 54). Haroeh, “the seer”; Menuhoth, “resting places.”"
+    },
+    {
+     "m": "bc",
+     "ref": "2:53",
+     "text": "Ithrites, “of Jether”; Puthites, Shumathites, Mishraites, uncertain; Zorathites and Eshtaolites, from Zorah (“hornets”) and Eshtaol (perhaps “asking”)."
+    },
+    {
+     "m": "bd",
+     "ref": "2:54",
+     "text": "Netophathites, from Netophah (“dropping”); Atroth-beth-joab, “crowns of the house of Joab”; Manahathites, see verse 52; Zorites, uncertain."
+    },
+    {
+     "m": "be",
+     "ref": "2:55",
+     "text": "Or “Tirathites, Shimeathites, and Sucathites,” perhaps meaning “gatekeepers, those who hear, and those who dwell in booths”; the meaning is uncertain. Jabez, “he causes pain” (4:9); Kenites, perhaps “smiths”; Hammath, “hot spring”; Rechab, “rider” (Jeremiah 35)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    10,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "These were the sons of David who were born to him in Hebron: the firstborn Amnon, by Ahinoam the Jezreelitess; the second Daniel, by Abigail the Carmelitess;{a}"
+    },
+    {
+     "v": 2,
+     "text": "the third Absalom, the son of Maacah daughter of Talmai king of Geshur; the fourth Adonijah, the son of Haggith;{b}"
+    },
+    {
+     "v": 3,
+     "text": "the fifth Shephatiah, by Abital; the sixth Ithream, by Eglah his wife.{c}"
+    },
+    {
+     "v": 4,
+     "text": "Six were born to him in Hebron, where he reigned seven years and six months; and in Jerusalem he reigned thirty-three years.{d}"
+    },
+    {
+     "v": 5,
+     "text": "These were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four by Bath-shua the daughter of Ammiel;{e}"
+    },
+    {
+     "v": 6,
+     "text": "then Ibhar, Elishama, Eliphelet,{f}"
+    },
+    {
+     "v": 7,
+     "text": "Nogah, Nepheg, Japhia,{g}"
+    },
+    {
+     "v": 8,
+     "text": "Elishama, Eliada, and Eliphelet, nine.{h}"
+    },
+    {
+     "v": 9,
+     "text": "All these were David’s sons, besides the sons of the concubines; and Tamar was their sister.{i}"
+    },
+    {
+     "v": 10,
+     "text": "Solomon’s son was Rehoboam; Abijah his son, Asa his son, Jehoshaphat his son,{j}"
+    },
+    {
+     "v": 11,
+     "text": "Joram his son, Ahaziah his son, Joash his son,{k}"
+    },
+    {
+     "v": 12,
+     "text": "Amaziah his son, Azariah his son, Jotham his son,{l}"
+    },
+    {
+     "v": 13,
+     "text": "Ahaz his son, Hezekiah his son, Manasseh his son,{m}"
+    },
+    {
+     "v": 14,
+     "text": "Amon his son, Josiah his son.{n}"
+    },
+    {
+     "v": 15,
+     "text": "The sons of Josiah: the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.{o}"
+    },
+    {
+     "v": 16,
+     "text": "The sons of Jehoiakim: Jeconiah his son, Zedekiah his son.{p}"
+    },
+    {
+     "v": 17,
+     "text": "The sons of Jeconiah the captive:{q} Shealtiel his son,{r}"
+    },
+    {
+     "v": 18,
+     "text": "Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.{s}"
+    },
+    {
+     "v": 19,
+     "text": "The sons of Pedaiah: Zerubbabel and Shimei. The sons of Zerubbabel: Meshullam and Hananiah, and Shelomith was their sister;{t}"
+    },
+    {
+     "v": 20,
+     "text": "and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed, five.{u}"
+    },
+    {
+     "v": 21,
+     "text": "The sons of Hananiah: Pelatiah and Jeshaiah; the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah.{v}"
+    },
+    {
+     "v": 22,
+     "text": "The son{w} of Shecaniah: Shemaiah. And the sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six.{x}"
+    },
+    {
+     "v": 23,
+     "text": "The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three.{y}"
+    },
+    {
+     "v": 24,
+     "text": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.{z}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Second Samuel 3:3 calls the second son Chileab. Amnon, “faithful”; Ahinoam, “my brother is pleasantness”; Jezreel, “God sows”; Daniel, “God is my judge”; Abigail, see 2:16; Carmel, “garden land.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "Absalom, “father of peace”; Maacah, see 2:48; Talmai, perhaps “furrowed”; Geshur, see 2:23; Adonijah, “my lord is Yahweh”; Haggith, “festal.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:3",
+     "text": "Shephatiah, “Yahweh has judged”; Abital, “my father is dew”; Ithream, “remnant of the people”; Eglah, “heifer.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:4",
+     "text": "Compare 2 Samuel 5:4–5."
+    },
+    {
+     "m": "e",
+     "ref": "3:5",
+     "text": "Bath-shua, “daughter of Shua” or “daughter of wealth,” is Bathsheba, “daughter of an oath” (2 Samuel 11:3), and Ammiel, “my kinsman is God,” is Eliam, “my God is kinsman,” with the parts reversed. Shimea (2 Samuel 5:14 Shammua), see 2:13; Shobab, see 2:18; Nathan, see 2:36; Solomon, “peaceable.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:6",
+     "text": "Ibhar, “he chooses”; Elishama, see 2:41 (here 2 Samuel 5:15 reads “Elishua,” “God is salvation”); Eliphelet, “God is deliverance.” This Eliphelet and Nogah (verse 7) are not in 2 Samuel 5:14–16; compare 14:5–6."
+    },
+    {
+     "m": "g",
+     "ref": "3:7",
+     "text": "Nogah, “brightness”; Nepheg, “sprout”; Japhia, “he shines.”"
+    },
+    {
+     "m": "h",
+     "ref": "3:8",
+     "text": "Eliada, “God knows.” Compare 14:7, Beeliada."
+    },
+    {
+     "m": "i",
+     "ref": "3:9",
+     "text": "Tamar, see 2:4 (2 Samuel 13)."
+    },
+    {
+     "m": "j",
+     "ref": "3:10",
+     "text": "Rehoboam, “the people are enlarged”; Abijah, see 2:24 (1 Kings 15:1 Abijam); Asa, perhaps “healer”; Jehoshaphat, “Yahweh has judged.”"
+    },
+    {
+     "m": "k",
+     "ref": "3:11",
+     "text": "Joram (or Jehoram), “Yahweh is exalted”; Ahaziah, “Yahweh has grasped”; Joash, perhaps “Yahweh has given.”"
+    },
+    {
+     "m": "l",
+     "ref": "3:12",
+     "text": "Amaziah, “Yahweh is mighty”; Azariah, see 2:8 (also called Uzziah, 2 Chronicles 26); Jotham, see 2:47."
+    },
+    {
+     "m": "m",
+     "ref": "3:13",
+     "text": "Ahaz, “he has grasped”; Hezekiah, “Yahweh strengthens”; Manasseh, “causing to forget.”"
+    },
+    {
+     "m": "n",
+     "ref": "3:14",
+     "text": "Amon, “faithful” or “master craftsman”; Josiah, “Yahweh supports.”"
+    },
+    {
+     "m": "o",
+     "ref": "3:15",
+     "text": "Johanan, “Yahweh is gracious”; Jehoiakim, “Yahweh raises up”; Zedekiah, “Yahweh is righteousness”; Shallum, see 2:40 (Jehoahaz, 2 Kings 23:30–31; Jeremiah 22:11)."
+    },
+    {
+     "m": "p",
+     "ref": "3:16",
+     "text": "Jeconiah, “Yahweh establishes” (also Jehoiachin, Coniah). This Zedekiah was apparently a son of Jeconiah; 2 Kings 24:17 calls Zedekiah Jehoiachin’s uncle."
+    },
+    {
+     "m": "q",
+     "ref": "3:17",
+     "text": "Or “Jeconiah: Assir.” The Hebrew word ’assir means “captive,” and it may be read as a name."
+    },
+    {
+     "m": "r",
+     "ref": "3:17",
+     "text": "Shealtiel, “I asked of God.”"
+    },
+    {
+     "m": "s",
+     "ref": "3:18",
+     "text": "Malchiram, “my king is exalted”; Pedaiah, “Yahweh has ransomed”; Shenazzar, a Babylonian name, perhaps “may Sin protect”; Jekamiah, see 2:41; Hoshama, “Yahweh has heard”; Nedabiah, “Yahweh is generous.”"
+    },
+    {
+     "m": "t",
+     "ref": "3:19",
+     "text": "Elsewhere Zerubbabel is called the son of Shealtiel (Ezra 3:2; Haggai 1:1); here he is listed as the son of Pedaiah, perhaps Shealtiel’s brother. Zerubbabel, “seed (offspring) of Babylon”; Shimei, “famous”; Meshullam, “repaid” or “friend”; Hananiah, “Yahweh is gracious”; Shelomith, “peaceable.”"
+    },
+    {
+     "m": "u",
+     "ref": "3:20",
+     "text": "Hashubah, “esteemed”; Ohel, “tent”; Berechiah, “Yahweh blesses”; Hasadiah, “Yahweh is kind”; Jushab-hesed, “kindness is returned.”"
+    },
+    {
+     "m": "v",
+     "ref": "3:21",
+     "text": "The Hebrew is unclear; the Septuagint reads “and Rephaiah his son, Arnan his son, Obadiah his son, Shecaniah his son.” Pelatiah, “Yahweh delivers”; Jeshaiah, “Yahweh saves”; Rephaiah, “Yahweh heals”; Arnan, perhaps “agile”; Obadiah, “servant of Yahweh”; Shecaniah, “Yahweh dwells.”"
+    },
+    {
+     "m": "w",
+     "ref": "3:22",
+     "text": "Hebrew “sons.”"
+    },
+    {
+     "m": "x",
+     "ref": "3:22",
+     "text": "Only five names are listed; one may have dropped out. Shemaiah, “Yahweh hears”; Hattush, uncertain; Igal, “he redeems”; Bariah, “fugitive”; Neariah, “youth of Yahweh”; Shaphat, “he judges.”"
+    },
+    {
+     "m": "y",
+     "ref": "3:23",
+     "text": "Elioenai, “toward Yahweh are my eyes”; Hizkiah, a form of Hezekiah; Azrikam, “my help has arisen.”"
+    },
+    {
+     "m": "z",
+     "ref": "3:24",
+     "text": "Hodaviah, “give thanks to Yahweh”; Eliashib, “God restores”; Pelaiah, “Yahweh is wonderful”; Akkub, “heel” or “protected”; Johanan, see verse 15; Delaiah, “Yahweh has drawn up”; Anani, “my cloud.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5,
+    9,
+    11,
+    21,
+    24,
+    34
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The sons of Judah: Perez, Hezron, Carmi, Hur, and Shobal.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Reaiah the son of Shobal became the father of Jahath, and Jahath became the father of Ahumai and Lahad. These were the clans of the Zorathites.{b}"
+    },
+    {
+     "v": 3,
+     "text": "These were the sons{c} of Etam: Jezreel, Ishma, and Idbash; and the name of their sister was Hazzelelponi;{d}"
+    },
+    {
+     "v": 4,
+     "text": "and Penuel the father of Gedor, and Ezer the father of Hushah. These were the sons of Hur, the firstborn of Ephrathah, the father of Bethlehem.{e}"
+    },
+    {
+     "v": 5,
+     "text": "Ashhur the father of Tekoa had two wives, Helah and Naarah.{f}"
+    },
+    {
+     "v": 6,
+     "text": "Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the sons of Naarah.{g}"
+    },
+    {
+     "v": 7,
+     "text": "The sons of Helah: Zereth, Izhar,{h} and Ethnan.{i}"
+    },
+    {
+     "v": 8,
+     "text": "Koz became the father of Anub, Zobebah, and the clans of Aharhel the son of Harum.{j}"
+    },
+    {
+     "v": 9,
+     "text": "Jabez was more honored than his brothers; and his mother called his name Jabez, saying, “Because I bore him in pain.”{k}"
+    },
+    {
+     "v": 10,
+     "text": "Jabez called on the God of Israel, saying, “Oh that you would bless me indeed and enlarge my border, and that your hand would be with me, and that you would keep me from evil, that it may not grieve me!” And God granted what he asked."
+    },
+    {
+     "v": 11,
+     "text": "Chelub the brother of Shuhah became the father of Mehir, who was the father of Eshton.{l}"
+    },
+    {
+     "v": 12,
+     "text": "Eshton became the father of Beth-rapha, Paseah, and Tehinnah the father of Ir-nahash. These are the men of Recah.{m}"
+    },
+    {
+     "v": 13,
+     "text": "The sons of Kenaz: Othniel and Seraiah. The sons of Othniel: Hathath{n} and Meonothai.{o}"
+    },
+    {
+     "v": 14,
+     "text": "Meonothai became the father of Ophrah; and Seraiah became the father of Joab the father of Ge-harashim,{p} for they were craftsmen.{q}"
+    },
+    {
+     "v": 15,
+     "text": "The sons of Caleb the son of Jephunneh: Iru, Elah, and Naam. The son{r} of Elah: Kenaz.{s}"
+    },
+    {
+     "v": 16,
+     "text": "The sons of Jehallelel: Ziph, Ziphah, Tiria, and Asarel.{t}"
+    },
+    {
+     "v": 17,
+     "text": "The sons of Ezrah: Jether, Mered, Epher, and Jalon. And she{u} conceived Miriam, Shammai, and Ishbah the father of Eshtemoa.{v}"
+    },
+    {
+     "v": 18,
+     "text": "And his Judahite wife bore Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah. These are the sons of Bithiah the daughter of Pharaoh, whom Mered married.{w}"
+    },
+    {
+     "v": 19,
+     "text": "The sons of the wife of Hodiah, the sister of Naham: the father of Keilah the Garmite, and Eshtemoa the Maacathite.{x}"
+    },
+    {
+     "v": 20,
+     "text": "The sons of Shimon: Amnon, Rinnah, Ben-hanan, and Tilon. The sons of Ishi: Zoheth and Ben-zoheth.{y}"
+    },
+    {
+     "v": 21,
+     "text": "The sons of Shelah the son of Judah: Er the father of Lecah, Laadah the father of Mareshah, and the clans of the house of linen workers at Beth-ashbea;{z}"
+    },
+    {
+     "v": 22,
+     "text": "and Jokim, and the men of Cozeba, and Joash, and Saraph, who ruled in Moab and returned to Lehem.{aa} (The records are ancient.)"
+    },
+    {
+     "v": 23,
+     "text": "These were the potters and the inhabitants of Netaim and Gederah;{ab} they lived there with the king in his work."
+    },
+    {
+     "v": 24,
+     "text": "The sons of Simeon: Nemuel, Jamin, Jarib, Zerah, and Shaul;{ac}"
+    },
+    {
+     "v": 25,
+     "text": "Shallum his son, Mibsam his son, Mishma his son.{ad}"
+    },
+    {
+     "v": 26,
+     "text": "The sons of Mishma: Hammuel his son, Zaccur his son, Shimei his son.{ae}"
+    },
+    {
+     "v": 27,
+     "text": "Shimei had sixteen sons and six daughters; but his brothers did not have many children, and their whole clan did not multiply like the people of Judah."
+    },
+    {
+     "v": 28,
+     "text": "They lived in Beersheba, Moladah, Hazar-shual,{af}"
+    },
+    {
+     "v": 29,
+     "text": "Bilhah, Ezem, Tolad,{ag}"
+    },
+    {
+     "v": 30,
+     "text": "Bethuel, Hormah, Ziklag,{ah}"
+    },
+    {
+     "v": 31,
+     "text": "Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities up to the reign of David.{ai}"
+    },
+    {
+     "v": 32,
+     "text": "And their villages were Etam, Ain, Rimmon, Tochen, and Ashan, five cities,{aj}"
+    },
+    {
+     "v": 33,
+     "text": "along with all their villages that were around these cities as far as Baal. These were their settlements, and they kept a genealogical record.{ak}"
+    },
+    {
+     "v": 34,
+     "text": "Meshobab, Jamlech, Joshah the son of Amaziah,{al}"
+    },
+    {
+     "v": 35,
+     "text": "Joel, Jehu the son of Joshibiah, son of Seraiah, son of Asiel,{am}"
+    },
+    {
+     "v": 36,
+     "text": "Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,{an}"
+    },
+    {
+     "v": 37,
+     "text": "Ziza the son of Shiphi, son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah{ao} —"
+    },
+    {
+     "v": 38,
+     "text": "these mentioned by name were chiefs in their clans, and their fathers’ houses increased greatly."
+    },
+    {
+     "v": 39,
+     "text": "They went to the entrance of Gedor,{ap} to the east side of the valley, to seek pasture for their flocks,"
+    },
+    {
+     "v": 40,
+     "text": "and they found rich, good pasture, and the land was broad, quiet, and peaceful; for those who lived there formerly were of Ham."
+    },
+    {
+     "v": 41,
+     "text": "These, written by name, came in the days of Hezekiah king of Judah, and struck down their tents and the Meunites{aq} who were found there, and devoted them to destruction to this day, and settled in their place, because there was pasture there for their flocks."
+    },
+    {
+     "v": 42,
+     "text": "And some of them, five hundred men of the sons of Simeon, went to Mount Seir, having as their leaders Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi.{ar}"
+    },
+    {
+     "v": 43,
+     "text": "They struck the rest of the Amalekites who had escaped, and have lived there until this day."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Here “sons” means descendants over several generations. Names, see chapter 2; Carmi, see 2:7."
+    },
+    {
+     "m": "b",
+     "ref": "4:2",
+     "text": "Reaiah, “Yahweh has seen”; Jahath, perhaps “he snatches up”; Ahumai, uncertain; Lahad, perhaps “oppression.” Zorathites, see 2:53."
+    },
+    {
+     "m": "c",
+     "ref": "4:3",
+     "text": "So the Septuagint; Hebrew “father.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:3",
+     "text": "Etam, “place of birds of prey”; Jezreel, see 3:1; Ishma, “desolation” or “he hears”; Idbash, “honeyed”; Hazzelelponi, perhaps “give shade, you who turn to me.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:4",
+     "text": "Penuel, “face of God”; Gedor, “wall”; Ezer, see 1:38; Hushah, “haste.” Hur and Ephrathah, see 2:19, 50."
+    },
+    {
+     "m": "f",
+     "ref": "4:5",
+     "text": "Ashhur and Tekoa, see 2:24; Helah, perhaps “ornament”; Naarah, “girl.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:6",
+     "text": "Ahuzzam, “possession”; Hepher, “well”; Temeni, “southerner”; Haahashtari, “the Ahashtarite,” perhaps a clan name."
+    },
+    {
+     "m": "h",
+     "ref": "4:7",
+     "text": "So the Hebrew margin (Qere), meaning “he shines”; the written text (Ketiv) reads “Zohar” (“whiteness”)."
+    },
+    {
+     "m": "i",
+     "ref": "4:7",
+     "text": "Zereth, uncertain; Ethnan, “gift” (perhaps “hire”)."
+    },
+    {
+     "m": "j",
+     "ref": "4:8",
+     "text": "Koz, “thorn”; Anub, perhaps “grape”; Zobebah, uncertain; Aharhel, uncertain; Harum, “exalted.”"
+    },
+    {
+     "m": "k",
+     "ref": "4:9",
+     "text": "Jabez (Hebrew ya‘bets) sounds like the Hebrew for “pain” (‘otseb), with two letters reversed. The Septuagint renders the end of verse 10 as “that you would make me know that you will not grieve me.”"
+    },
+    {
+     "m": "l",
+     "ref": "4:11",
+     "text": "Chelub, “basket” or a form of Caleb; Shuhah, “pit”; Mehir, “price”; Eshton, perhaps “restful.”"
+    },
+    {
+     "m": "m",
+     "ref": "4:12",
+     "text": "The Septuagint reads “the city of Naas, the brother of Eselom the Kenizzite” and “men of Rechab.” Beth-rapha, “house of a giant” or “of healing”; Paseah, “limping”; Tehinnah, “supplication”; Ir-nahash, “city of a serpent” (or “of bronze”); Recah, uncertain."
+    },
+    {
+     "m": "n",
+     "ref": "4:13",
+     "text": "The Septuagint (B text) gives only Hathath; some Greek manuscripts and the Latin Vulgate add “and Meonothai,” and the start of verse 14 seems to assume it."
+    },
+    {
+     "m": "o",
+     "ref": "4:13",
+     "text": "Kenaz, see 1:36; Othniel, perhaps “lion of God” or “my strength is God”; Seraiah, “Yahweh is prince”; Hathath, “terror”; Meonothai, “my dwellings.”"
+    },
+    {
+     "m": "p",
+     "ref": "4:14",
+     "text": "Ge-harashim means “valley of craftsmen” (Nehemiah 11:35)."
+    },
+    {
+     "m": "q",
+     "ref": "4:14",
+     "text": "Ophrah, “fawn”; Joab, see 2:16."
+    },
+    {
+     "m": "r",
+     "ref": "4:15",
+     "text": "Hebrew “sons.”"
+    },
+    {
+     "m": "s",
+     "ref": "4:15",
+     "text": "Jephunneh, perhaps “he will be turned”; Iru, uncertain; Elah, see 1:52; Naam, “pleasantness.” The Hebrew of the end of the verse reads “and Kenaz”; the sense is uncertain."
+    },
+    {
+     "m": "t",
+     "ref": "4:16",
+     "text": "Jehallelel, “he praises God”; Ziph, see 2:42; Ziphah, the feminine form; Tiria, uncertain; Asarel, uncertain, perhaps “God has bound.”"
+    },
+    {
+     "m": "u",
+     "ref": "4:17",
+     "text": "The subject is unclear; the second half of verse 18 (“These are the sons of Bithiah . . .”) seems to belong before this clause, making Bithiah the mother."
+    },
+    {
+     "m": "v",
+     "ref": "4:17",
+     "text": "Ezrah, “help”; Jether, see 2:17; Mered, “rebellion”; Epher, see 1:33; Jalon, perhaps “lodging”; Miriam, uncertain, perhaps “beloved” or “bitterness”; Shammai, see 2:28; Ishbah, “he praises”; Eshtemoa, “obedience” or “I will make myself heard.”"
+    },
+    {
+     "m": "w",
+     "ref": "4:18",
+     "text": "Or “his wife Jehudijah.” Jered, see Jared, 1:2; Gedor, see verse 4; Heber, “companion”; Soco, “branches”; Jekuthiel, perhaps “God will nourish”; Zanoah, perhaps “rejected”; Bithiah, “daughter of Yahweh”; Pharaoh, the title of the king of Egypt, “great house.”"
+    },
+    {
+     "m": "x",
+     "ref": "4:19",
+     "text": "Hodiah, “majesty of Yahweh”; Naham, “consolation”; Keilah, perhaps “fortress”; Garmite, perhaps “bony”; Maacathite, of Maacah (see 2:48)."
+    },
+    {
+     "m": "y",
+     "ref": "4:20",
+     "text": "Shimon, uncertain; Amnon, see 3:1; Rinnah, “shout of joy”; Ben-hanan, “son of the gracious one”; Tilon, uncertain; Ishi, see 2:31; Zoheth, uncertain; Ben-zoheth, “son of Zoheth.”"
+    },
+    {
+     "m": "z",
+     "ref": "4:21",
+     "text": "Shelah, see 2:3; Er, see 2:3; Lecah, “walking”; Laadah, uncertain; Mareshah, see 2:42; Beth-ashbea, “house of Ashbea,” uncertain."
+    },
+    {
+     "m": "aa",
+     "ref": "4:22",
+     "text": "Or “who married into Moab and returned to Lehem”; the Hebrew is obscure. The Latin Vulgate takes the names as words. Jokim, “Yahweh raises up”; Cozeba, “deceiving”; Joash, see 3:11; Saraph, “burning”; Lehem, “bread” (perhaps Bethlehem). The Septuagint reads “and he changed their names to Abederin and Athukiim.”"
+    },
+    {
+     "m": "ab",
+     "ref": "4:23",
+     "text": "Or “who lived among plantations and hedges.” Netaim means “plants” and Gederah “sheepfold” or “wall.”"
+    },
+    {
+     "m": "ac",
+     "ref": "4:24",
+     "text": "Genesis 46:10 and Exodus 6:15 read Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul. Nemuel, perhaps “day of God”; Jamin, see 2:27; Jarib, “he contends”; Zerah, see 1:37; Shaul, see 1:48."
+    },
+    {
+     "m": "ad",
+     "ref": "4:25",
+     "text": "Shallum, see 2:40; Mibsam and Mishma, see 1:29–30."
+    },
+    {
+     "m": "ae",
+     "ref": "4:26",
+     "text": "Hammuel, perhaps “God is my kinsman” or “heat of God”; Zaccur, “remembered”; Shimei, see 3:19."
+    },
+    {
+     "m": "af",
+     "ref": "4:28",
+     "text": "These towns follow Joshua 19:2–8. Beersheba, “well of seven” or “of an oath”; Moladah, “birth”; Hazar-shual, “fox village.”"
+    },
+    {
+     "m": "ag",
+     "ref": "4:29",
+     "text": "Bilhah (Joshua 19:3 Balah), “faltering”; Ezem, “bone”; Tolad (Joshua 19:4 Eltolad), “birth.”"
+    },
+    {
+     "m": "ah",
+     "ref": "4:30",
+     "text": "Bethuel (Joshua 19:4 Bethul), perhaps “house of God”; Hormah, “devoted to destruction”; Ziklag, uncertain."
+    },
+    {
+     "m": "ai",
+     "ref": "4:31",
+     "text": "Beth-marcaboth, “house of chariots”; Hazar-susim, “village of horses”; Beth-biri (Joshua 19:6 Beth-lebaoth), perhaps “house of my creation”; Shaaraim (Joshua 19:6 Sharuhen), “two gates.”"
+    },
+    {
+     "m": "aj",
+     "ref": "4:32",
+     "text": "Etam, see verse 3; Ain, “spring”; Rimmon, “pomegranate”; Tochen (Joshua 19:7 Ether), “measure”; Ashan, “smoke.”"
+    },
+    {
+     "m": "ak",
+     "ref": "4:33",
+     "text": "Baal, “lord, master” (Joshua 19:8 Baalath-beer)."
+    },
+    {
+     "m": "al",
+     "ref": "4:34",
+     "text": "Meshobab, “restored”; Jamlech, “he makes king”; Joshah, “Yahweh’s gift”; Amaziah, see 3:12."
+    },
+    {
+     "m": "am",
+     "ref": "4:35",
+     "text": "Joel, “Yahweh is God”; Jehu, see 2:38; Joshibiah, “Yahweh causes to dwell”; Seraiah, see verse 13; Asiel, “God has made.”"
+    },
+    {
+     "m": "an",
+     "ref": "4:36",
+     "text": "Elioenai, see 3:23; Jaakobah, a form of Jacob, “heel-holder” or “may he protect”; Jeshohaiah, uncertain; Asaiah, “Yahweh has made”; Adiel, “ornament of God”; Jesimiel, “God establishes”; Benaiah, “Yahweh has built.”"
+    },
+    {
+     "m": "ao",
+     "ref": "4:37",
+     "text": "Ziza, uncertain; Shiphi, “abundance”; Allon, “oak”; Jedaiah, “Yahweh knows”; Shimri, “my guard”; Shemaiah, see 3:22."
+    },
+    {
+     "m": "ap",
+     "ref": "4:39",
+     "text": "The Septuagint reads “Gerara,” that is, Gerar."
+    },
+    {
+     "m": "aq",
+     "ref": "4:41",
+     "text": "Hebrew Me‘inim (Qere), a people perhaps related to Maon; the written text could be read “dwellings.” The Septuagint reads “Minaeans.”"
+    },
+    {
+     "m": "ar",
+     "ref": "4:42",
+     "text": "Pelatiah and Rephaiah, see 3:21; Neariah, see 3:22; Uzziel, “God is my strength”; Ishi, see 2:31."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    11,
+    18,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The sons of Reuben the firstborn of Israel (for he was the firstborn; but since he defiled his father’s couch, his right as firstborn went to the sons of Joseph the son of Israel, and he is not listed in the genealogy as firstborn;{a}"
+    },
+    {
+     "v": 2,
+     "text": "for Judah prevailed above his brothers, and from him came a prince,{b} yet the right of the firstborn was Joseph’s):"
+    },
+    {
+     "v": 3,
+     "text": "the sons of Reuben the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi.{c}"
+    },
+    {
+     "v": 4,
+     "text": "The sons of Joel: Shemaiah his son, Gog his son, Shimei his son,{d}"
+    },
+    {
+     "v": 5,
+     "text": "Micah his son, Reaiah his son, Baal his son,{e}"
+    },
+    {
+     "v": 6,
+     "text": "Beerah his son, whom Tilgath-pilneser king of Assyria took away captive; he was prince of the Reubenites.{f}"
+    },
+    {
+     "v": 7,
+     "text": "His brothers by their families, when the genealogy of their generations was reckoned: the chief, Jeiel, and Zechariah,{g}"
+    },
+    {
+     "v": 8,
+     "text": "and Bela the son of Azaz, son of Shema, son of Joel, who lived in Aroer, as far as Nebo and Baal-meon.{h}"
+    },
+    {
+     "v": 9,
+     "text": "He also lived eastward as far as the entrance of the wilderness this side of the river Euphrates, because their livestock had multiplied in the land of Gilead."
+    },
+    {
+     "v": 10,
+     "text": "In the days of Saul they made war on the Hagrites, who fell by their hand; and they lived in their tents throughout all the region east of Gilead.{i}"
+    },
+    {
+     "v": 11,
+     "text": "The sons of Gad lived over against them, in the land of Bashan to Salecah:{j}"
+    },
+    {
+     "v": 12,
+     "text": "Joel the chief, Shapham the second, Janai, and Shaphat in Bashan.{k}"
+    },
+    {
+     "v": 13,
+     "text": "And their kinsmen according to their fathers’ houses: Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and Eber, seven.{l}"
+    },
+    {
+     "v": 14,
+     "text": "These were the sons of Abihail the son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz.{m}"
+    },
+    {
+     "v": 15,
+     "text": "Ahi the son of Abdiel, son of Guni, was chief of their fathers’ house.{n}"
+    },
+    {
+     "v": 16,
+     "text": "They lived in Gilead, in Bashan and its towns, and in all the pasture lands of Sharon to their limits.{o}"
+    },
+    {
+     "v": 17,
+     "text": "All of these were recorded in genealogies in the days of Jotham king of Judah and in the days of Jeroboam king of Israel.{p}"
+    },
+    {
+     "v": 18,
+     "text": "The sons of Reuben, the Gadites, and the half-tribe of Manasseh had valiant men, men able to bear shield and sword and to shoot with the bow, and skillful in war: forty-four thousand seven hundred and sixty who could go out to war."
+    },
+    {
+     "v": 19,
+     "text": "They fought with the Hagrites, with Jetur, Naphish, and Nodab.{q}"
+    },
+    {
+     "v": 20,
+     "text": "And they received help against them, and the Hagrites and all who were with them were given into their hand, for they cried out to God in the battle, and he answered their plea because they trusted in him."
+    },
+    {
+     "v": 21,
+     "text": "They took away their animals: of camels fifty thousand, of sheep two hundred and fifty thousand, of donkeys two thousand, and of people a hundred thousand.{r}"
+    },
+    {
+     "v": 22,
+     "text": "For many fell slain, because the war was of God. And they lived in their place until the exile."
+    },
+    {
+     "v": 23,
+     "text": "The members of the half-tribe of Manasseh lived in the land; they were very numerous from Bashan to Baal-hermon, Senir, and Mount Hermon.{s}"
+    },
+    {
+     "v": 24,
+     "text": "These were the heads of their fathers’ houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel, mighty warriors, famous men, heads of their fathers’ houses.{t}"
+    },
+    {
+     "v": 25,
+     "text": "But they broke faith with the God of their fathers, and prostituted themselves after the gods of the peoples of the land, whom God had destroyed before them."
+    },
+    {
+     "v": 26,
+     "text": "So the God of Israel stirred up the spirit of Pul king of Assyria, that is, the spirit of Tilgath-pilneser king of Assyria, and he carried them away, the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and the river Gozan, to this day.{u}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "See Genesis 35:22; 49:3–4; 48:5. Reuben, see 2:1."
+    },
+    {
+     "m": "b",
+     "ref": "5:2",
+     "text": "Or “a leader.” Hebrew nagid."
+    },
+    {
+     "m": "c",
+     "ref": "5:3",
+     "text": "Hanoch, see 1:33; Pallu, “distinguished”; Hezron, see 2:5; Carmi, see 2:7."
+    },
+    {
+     "m": "d",
+     "ref": "5:4",
+     "text": "Joel, see 4:35; Shemaiah, see 3:22; Gog, uncertain; Shimei, see 3:19. Joel’s link to Reuben is not stated."
+    },
+    {
+     "m": "e",
+     "ref": "5:5",
+     "text": "Micah, “who is like Yahweh?”; Reaiah, see 4:2; Baal, see 4:33."
+    },
+    {
+     "m": "f",
+     "ref": "5:6",
+     "text": "Tilgath-pilneser is the Chronicler’s spelling of Tiglath-pileser (2 Kings 15:29), Assyrian Tukulti-apil-Esharra, “my trust is in the son of Esharra.” Beerah, “well.” He reigned about 745–727 B.C."
+    },
+    {
+     "m": "g",
+     "ref": "5:7",
+     "text": "Jeiel, perhaps “God sweeps away” or “God lives”; Zechariah, “Yahweh remembers.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:8",
+     "text": "Bela, see 1:43; Azaz, “strong”; Shema, see 2:43; Aroer, perhaps “juniper”; Nebo, a god’s name (Nabu); Baal-meon, “lord of the dwelling.”"
+    },
+    {
+     "m": "i",
+     "ref": "5:10",
+     "text": "The Hagrites (Hebrew Hagri’im) were a people east of the Jordan, perhaps named after Hagar (Genesis 16); the Septuagint reads “sojourners” here (taking the word as “stranger”), and “Agarenes” in verse 19. Saul, see 1:48 (Shaul); Gilead, see 2:21."
+    },
+    {
+     "m": "j",
+     "ref": "5:11",
+     "text": "Gad, see 2:2; Bashan, perhaps “fertile plain”; Salecah, uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "5:12",
+     "text": "Shapham, perhaps “bold”; Janai, “he answers”; Shaphat, see 3:22."
+    },
+    {
+     "m": "l",
+     "ref": "5:13",
+     "text": "Michael, “who is like God?”; Meshullam, see 3:19; Sheba, see 1:9; Jorai, perhaps “Yahweh teaches”; Jacan, perhaps “trouble”; Zia, “motion”; Eber, see 1:18."
+    },
+    {
+     "m": "m",
+     "ref": "5:14",
+     "text": "Abihail, see 2:29; Huri, “linen worker”; Jaroah, perhaps “moon”; Jeshishai, “aged”; Jahdo, “his union”; Buz, “contempt.”"
+    },
+    {
+     "m": "n",
+     "ref": "5:15",
+     "text": "Ahi, “my brother”; Abdiel, “servant of God”; Guni, perhaps “painted.”"
+    },
+    {
+     "m": "o",
+     "ref": "5:16",
+     "text": "This Sharon, “plain,” is east of the Jordan, not the coastal plain."
+    },
+    {
+     "m": "p",
+     "ref": "5:17",
+     "text": "Jotham reigned in Judah about 750–735 B.C., and Jeroboam II in Israel about 793–753 B.C. Jeroboam means “the people contend” or “may the people multiply.”"
+    },
+    {
+     "m": "q",
+     "ref": "5:19",
+     "text": "Jetur and Naphish, see 1:31; Nodab, “nobility.”"
+    },
+    {
+     "m": "r",
+     "ref": "5:21",
+     "text": "Hebrew “souls of men.” The Septuagint (B text) reads “five thousand camels.”"
+    },
+    {
+     "m": "s",
+     "ref": "5:23",
+     "text": "Manasseh, see 3:13; Baal-hermon, “lord of Hermon”; Senir, the Amorite name for Hermon (Deuteronomy 3:9); Hermon, “sacred mountain.”"
+    },
+    {
+     "m": "t",
+     "ref": "5:24",
+     "text": "Epher, see 1:33; Ishi, see 2:31; Eliel, “my God is God”; Azriel, “my help is God”; Jeremiah, “Yahweh lifts up” or “Yahweh founds”; Hodaviah, see 3:24; Jahdiel, “God makes glad.”"
+    },
+    {
+     "m": "u",
+     "ref": "5:26",
+     "text": "Or “Pul king of Assyria, and the spirit of Tilgath-pilneser.” Pul (Assyrian Pulu) was the Babylonian throne name of Tiglath-pileser III (compare 2 Kings 15:19, 29). Halah, Habor, and Gozan were in northern Mesopotamia (2 Kings 17:6); Hara, uncertain, is not in Kings."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    16,
+    31,
+    49,
+    54,
+    61,
+    66,
+    71,
+    77
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The sons of Levi: Gershon, Kohath, and Merari.{a}"
+    },
+    {
+     "v": 2,
+     "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.{b}"
+    },
+    {
+     "v": 3,
+     "text": "The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.{c}"
+    },
+    {
+     "v": 4,
+     "text": "Eleazar became the father of Phinehas, Phinehas became the father of Abishua,{d}"
+    },
+    {
+     "v": 5,
+     "text": "Abishua became the father of Bukki, Bukki became the father of Uzzi,{e}"
+    },
+    {
+     "v": 6,
+     "text": "Uzzi became the father of Zerahiah, Zerahiah became the father of Meraioth,{f}"
+    },
+    {
+     "v": 7,
+     "text": "Meraioth became the father of Amariah, Amariah became the father of Ahitub,{g}"
+    },
+    {
+     "v": 8,
+     "text": "Ahitub became the father of Zadok, Zadok became the father of Ahimaaz,{h}"
+    },
+    {
+     "v": 9,
+     "text": "Ahimaaz became the father of Azariah, Azariah became the father of Johanan,"
+    },
+    {
+     "v": 10,
+     "text": "and Johanan became the father of Azariah, who performed the priest’s office in the temple that Solomon built in Jerusalem.{i}"
+    },
+    {
+     "v": 11,
+     "text": "Azariah became the father of Amariah, Amariah became the father of Ahitub,"
+    },
+    {
+     "v": 12,
+     "text": "Ahitub became the father of Zadok, Zadok became the father of Shallum,"
+    },
+    {
+     "v": 13,
+     "text": "Shallum became the father of Hilkiah, Hilkiah became the father of Azariah,{j}"
+    },
+    {
+     "v": 14,
+     "text": "Azariah became the father of Seraiah, and Seraiah became the father of Jehozadak;{k}"
+    },
+    {
+     "v": 15,
+     "text": "and Jehozadak went into captivity when Yahweh carried Judah and Jerusalem away by the hand of Nebuchadnezzar.{l}"
+    },
+    {
+     "v": 16,
+     "text": "The sons of Levi: Gershom, Kohath, and Merari.{m}"
+    },
+    {
+     "v": 17,
+     "text": "These are the names of the sons of Gershom: Libni and Shimei.{n}"
+    },
+    {
+     "v": 18,
+     "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel."
+    },
+    {
+     "v": 19,
+     "text": "The sons of Merari: Mahli and Mushi. These are the clans of the Levites according to their fathers.{o}"
+    },
+    {
+     "v": 20,
+     "text": "Of Gershom: Libni his son, Jahath his son, Zimmah his son,{p}"
+    },
+    {
+     "v": 21,
+     "text": "Joah his son, Iddo his son, Zerah his son, Jeatherai his son.{q}"
+    },
+    {
+     "v": 22,
+     "text": "The sons of Kohath: Amminadab his son, Korah his son, Assir his son,{r}"
+    },
+    {
+     "v": 23,
+     "text": "Elkanah his son, Ebiasaph his son, Assir his son,{s}"
+    },
+    {
+     "v": 24,
+     "text": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.{t}"
+    },
+    {
+     "v": 25,
+     "text": "The sons of Elkanah: Amasai and Ahimoth.{u}"
+    },
+    {
+     "v": 26,
+     "text": "Elkanah: the sons of Elkanah:{v} Zophai his son, Nahath his son,{w}"
+    },
+    {
+     "v": 27,
+     "text": "Eliab his son, Jeroham his son, Elkanah his son.{x}"
+    },
+    {
+     "v": 28,
+     "text": "The sons of Samuel: the firstborn Joel,{y} and the second Abijah.{z}"
+    },
+    {
+     "v": 29,
+     "text": "The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,{aa}"
+    },
+    {
+     "v": 30,
+     "text": "Shimea his son, Haggiah his son, Asaiah his son.{ab}"
+    },
+    {
+     "v": 31,
+     "text": "These are those whom David set over the service of song in the house of Yahweh, after the ark had a resting place.{ac}"
+    },
+    {
+     "v": 32,
+     "text": "They ministered with song before the tabernacle of the tent of meeting until Solomon built the house of Yahweh in Jerusalem, and they performed their service according to their order."
+    },
+    {
+     "v": 33,
+     "text": "These are the men who served, with their sons. Of the sons of the Kohathites: Heman the singer, the son of Joel, son of Samuel,{ad}"
+    },
+    {
+     "v": 34,
+     "text": "son of Elkanah, son of Jeroham, son of Eliel, son of Toah,{ae}"
+    },
+    {
+     "v": 35,
+     "text": "son of Zuph, son of Elkanah, son of Mahath, son of Amasai,{af}"
+    },
+    {
+     "v": 36,
+     "text": "son of Elkanah, son of Joel, son of Azariah, son of Zephaniah,{ag}"
+    },
+    {
+     "v": 37,
+     "text": "son of Tahath, son of Assir, son of Ebiasaph, son of Korah,"
+    },
+    {
+     "v": 38,
+     "text": "son of Izhar, son of Kohath, son of Levi, son of Israel."
+    },
+    {
+     "v": 39,
+     "text": "And his kinsman Asaph, who stood at his right hand: Asaph the son of Berechiah, son of Shimea,{ah}"
+    },
+    {
+     "v": 40,
+     "text": "son of Michael, son of Baaseiah, son of Malchijah,{ai}"
+    },
+    {
+     "v": 41,
+     "text": "son of Ethni, son of Zerah, son of Adaiah,{aj}"
+    },
+    {
+     "v": 42,
+     "text": "son of Ethan, son of Zimmah, son of Shimei,"
+    },
+    {
+     "v": 43,
+     "text": "son of Jahath, son of Gershom, son of Levi."
+    },
+    {
+     "v": 44,
+     "text": "On the left hand were their kinsmen the sons of Merari: Ethan the son of Kishi, son of Abdi, son of Malluch,{ak}"
+    },
+    {
+     "v": 45,
+     "text": "son of Hashabiah, son of Amaziah, son of Hilkiah,{al}"
+    },
+    {
+     "v": 46,
+     "text": "son of Amzi, son of Bani, son of Shemer,{am}"
+    },
+    {
+     "v": 47,
+     "text": "son of Mahli, son of Mushi, son of Merari, son of Levi."
+    },
+    {
+     "v": 48,
+     "text": "Their kinsmen the Levites were appointed for all the service of the tabernacle of the house of God."
+    },
+    {
+     "v": 49,
+     "text": "But Aaron and his sons made offerings on the altar of burnt offering and on the altar of incense for all the work of the most holy place, and to make atonement for Israel, according to all that Moses the servant of God had commanded."
+    },
+    {
+     "v": 50,
+     "text": "These are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,"
+    },
+    {
+     "v": 51,
+     "text": "Bukki his son, Uzzi his son, Zerahiah his son,"
+    },
+    {
+     "v": 52,
+     "text": "Meraioth his son, Amariah his son, Ahitub his son,"
+    },
+    {
+     "v": 53,
+     "text": "Zadok his son, Ahimaaz his son."
+    },
+    {
+     "v": 54,
+     "text": "These are their dwelling places according to their encampments within their borders: to the sons of Aaron of the clans of the Kohathites, for theirs was the first lot,{an}"
+    },
+    {
+     "v": 55,
+     "text": "to them they gave Hebron in the land of Judah and its pasture lands around it,"
+    },
+    {
+     "v": 56,
+     "text": "but the fields of the city and its villages they gave to Caleb the son of Jephunneh."
+    },
+    {
+     "v": 57,
+     "text": "To the sons of Aaron they gave the cities of refuge: Hebron, Libnah with its pasture lands, Jattir, Eshtemoa with its pasture lands,{ao}"
+    },
+    {
+     "v": 58,
+     "text": "Hilen with its pasture lands, Debir with its pasture lands,{ap}"
+    },
+    {
+     "v": 59,
+     "text": "Ashan with its pasture lands, and Beth-shemesh with its pasture lands;{aq}"
+    },
+    {
+     "v": 60,
+     "text": "and from the tribe of Benjamin, Geba with its pasture lands, Alemeth with its pasture lands, and Anathoth with its pasture lands. All their cities throughout their clans were thirteen.{ar}"
+    },
+    {
+     "v": 61,
+     "text": "To the rest of the Kohathites were given by lot out of the clan of the tribe, out of the half-tribe, the half of Manasseh, ten cities.{as}"
+    },
+    {
+     "v": 62,
+     "text": "To the sons of Gershom, by their families, thirteen cities were given from the tribe of Issachar, from the tribe of Asher, from the tribe of Naphtali, and from the tribe of Manasseh in Bashan."
+    },
+    {
+     "v": 63,
+     "text": "To the sons of Merari, by their families, twelve cities were given by lot from the tribe of Reuben, from the tribe of Gad, and from the tribe of Zebulun."
+    },
+    {
+     "v": 64,
+     "text": "So the Israelites gave the Levites the cities with their pasture lands."
+    },
+    {
+     "v": 65,
+     "text": "By lot they gave, from the tribe of the sons of Judah, the tribe of the sons of Simeon, and the tribe of the sons of Benjamin, these cities which are called by their names."
+    },
+    {
+     "v": 66,
+     "text": "Some of the families of the sons of Kohath had cities of their borders from the tribe of Ephraim."
+    },
+    {
+     "v": 67,
+     "text": "They gave to them the cities of refuge, Shechem in the hill country of Ephraim with its pasture lands, and Gezer with its pasture lands,{at}"
+    },
+    {
+     "v": 68,
+     "text": "Jokmeam with its pasture lands, Beth-horon with its pasture lands,{au}"
+    },
+    {
+     "v": 69,
+     "text": "Aijalon with its pasture lands, and Gath-rimmon with its pasture lands;{av}"
+    },
+    {
+     "v": 70,
+     "text": "and out of the half-tribe of Manasseh, Aner with its pasture lands and Bileam with its pasture lands, for the rest of the clans of the Kohathites.{aw}"
+    },
+    {
+     "v": 71,
+     "text": "To the Gershomites were given out of the clan of the half-tribe of Manasseh: Golan in Bashan with its pasture lands and Ashtaroth with its pasture lands;{ax}"
+    },
+    {
+     "v": 72,
+     "text": "and out of the tribe of Issachar: Kedesh with its pasture lands, Daberath with its pasture lands,{ay}"
+    },
+    {
+     "v": 73,
+     "text": "Ramoth with its pasture lands, and Anem with its pasture lands;{az}"
+    },
+    {
+     "v": 74,
+     "text": "out of the tribe of Asher: Mashal with its pasture lands, Abdon with its pasture lands,{ba}"
+    },
+    {
+     "v": 75,
+     "text": "Hukok with its pasture lands, and Rehob with its pasture lands;{bb}"
+    },
+    {
+     "v": 76,
+     "text": "and out of the tribe of Naphtali: Kedesh in Galilee with its pasture lands, Hammon with its pasture lands, and Kiriathaim with its pasture lands.{bc}"
+    },
+    {
+     "v": 77,
+     "text": "To the rest of the Merarites were given out of the tribe of Zebulun: Rimmono with its pasture lands and Tabor with its pasture lands;{bd}"
+    },
+    {
+     "v": 78,
+     "text": "and beyond the Jordan at Jericho, on the east side of the Jordan, out of the tribe of Reuben: Bezer in the wilderness with its pasture lands, Jahzah with its pasture lands,{be}"
+    },
+    {
+     "v": 79,
+     "text": "Kedemoth with its pasture lands, and Mephaath with its pasture lands;{bf}"
+    },
+    {
+     "v": 80,
+     "text": "and out of the tribe of Gad: Ramoth in Gilead with its pasture lands, Mahanaim with its pasture lands,{bg}"
+    },
+    {
+     "v": 81,
+     "text": "Heshbon with its pasture lands, and Jazer with its pasture lands.{bh}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "Verses 1–15 are 5:27–41 in Hebrew, and verses 16–81 are 6:1–66. Gershon (also Gershom, verse 16), perhaps “a stranger there” (Exodus 2:22); Kohath, perhaps “assembly”; Merari, “bitter.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:2",
+     "text": "Amram, “exalted people”; Izhar, “shining oil”; Hebron, see 2:42; Uzziel, see 4:42."
+    },
+    {
+     "m": "c",
+     "ref": "6:3",
+     "text": "Aaron, uncertain; Moses, “drawn out” (Exodus 2:10), probably also an Egyptian word for “son”; Miriam, see 4:17; Nadab, see 2:28; Abihu, “he is my father”; Eleazar, “God has helped”; Ithamar, perhaps “island of palms.”"
+    },
+    {
+     "m": "d",
+     "ref": "6:4",
+     "text": "Phinehas, an Egyptian name, “the Nubian”; Abishua, “my father is salvation.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:5",
+     "text": "Bukki, perhaps “proved” or a short form of Bukkiah; Uzzi, “my strength.”"
+    },
+    {
+     "m": "f",
+     "ref": "6:6",
+     "text": "Zerahiah, “Yahweh has dawned”; Meraioth, “rebellious.”"
+    },
+    {
+     "m": "g",
+     "ref": "6:7",
+     "text": "Amariah, “Yahweh has said”; Ahitub, “my brother is good.”"
+    },
+    {
+     "m": "h",
+     "ref": "6:8",
+     "text": "Zadok, “righteous”; Ahimaaz, perhaps “my brother is anger” or “brother of counsel.”"
+    },
+    {
+     "m": "i",
+     "ref": "6:10",
+     "text": "This note may belong to the Azariah of verse 9, who was Solomon’s priest (1 Kings 4:2). The list here also omits several known priests, such as Jehoiada (2 Kings 11) and Uriah (2 Kings 16:10)."
+    },
+    {
+     "m": "j",
+     "ref": "6:13",
+     "text": "Hilkiah, “my portion is Yahweh” (2 Kings 22)."
+    },
+    {
+     "m": "k",
+     "ref": "6:14",
+     "text": "Jehozadak, “Yahweh is righteous”; Seraiah, see 4:13 (2 Kings 25:18)."
+    },
+    {
+     "m": "l",
+     "ref": "6:15",
+     "text": "Nebuchadnezzar, Babylonian Nabu-kudurri-usur, “O Nabu, protect the heir.” The exile was in 586 B.C."
+    },
+    {
+     "m": "m",
+     "ref": "6:16",
+     "text": "Verse 16 is 6:1 in Hebrew. Gershom, see verse 1."
+    },
+    {
+     "m": "n",
+     "ref": "6:17",
+     "text": "Libni, “white”; Shimei, see 3:19."
+    },
+    {
+     "m": "o",
+     "ref": "6:19",
+     "text": "Mahli, “sick” or “shrewd”; Mushi, perhaps “yielding.”"
+    },
+    {
+     "m": "p",
+     "ref": "6:20",
+     "text": "Jahath, see 4:2; Zimmah, “plan, purpose.”"
+    },
+    {
+     "m": "q",
+     "ref": "6:21",
+     "text": "Joah, “Yahweh is brother”; Iddo, perhaps “his witness” or “timely”; Zerah, see 1:37; Jeatherai, uncertain."
+    },
+    {
+     "m": "r",
+     "ref": "6:22",
+     "text": "Amminadab, see 2:10; here apparently another name for Izhar (verses 2, 38). Korah, see 1:35; Assir, “prisoner.” Compare Exodus 6:21–24, where Assir, Elkanah, and Abiasaph are sons of Korah."
+    },
+    {
+     "m": "s",
+     "ref": "6:23",
+     "text": "Elkanah, “God has created”; Ebiasaph (Exodus 6:24 Abiasaph), “my father has gathered.”"
+    },
+    {
+     "m": "t",
+     "ref": "6:24",
+     "text": "Tahath, “beneath” or “substitute”; Uriel, “God is my light”; Uzziah, “Yahweh is my strength”; Shaul, see 1:48."
+    },
+    {
+     "m": "u",
+     "ref": "6:25",
+     "text": "Amasai, “burden-bearer”; Ahimoth, “my brother is death” (compare Mahath, verse 35)."
+    },
+    {
+     "m": "v",
+     "ref": "6:26",
+     "text": "The Hebrew of the opening of this verse is difficult; compare verses 34–35."
+    },
+    {
+     "m": "w",
+     "ref": "6:26",
+     "text": "Zophai (verse 35 Zuph), “honeycomb”; Nahath (verse 34 Toah), see 1:37."
+    },
+    {
+     "m": "x",
+     "ref": "6:27",
+     "text": "Eliab (verse 34 Eliel), see 2:13; Jeroham, “he is shown compassion.” The text may have lost “Samuel his son” (compare verse 28 and 1 Samuel 1:1, 20)."
+    },
+    {
+     "m": "y",
+     "ref": "6:28",
+     "text": "“Joel” is supplied from verse 33 and 1 Samuel 8:2, as in some ancient versions. Hebrew “the firstborn Vashni,” a word that may be read as “and the second.” Samuel, perhaps “name of God” or “heard by God” (1 Samuel 1:20)."
+    },
+    {
+     "m": "z",
+     "ref": "6:28",
+     "text": "The Septuagint (B text) reads “Sani the firstborn, and Abia.” Abijah, see 2:24."
+    },
+    {
+     "m": "aa",
+     "ref": "6:29",
+     "text": "Uzzah, “strength.”"
+    },
+    {
+     "m": "ab",
+     "ref": "6:30",
+     "text": "Shimea, see 2:13; Haggiah, “feast of Yahweh”; Asaiah, see 4:36."
+    },
+    {
+     "m": "ac",
+     "ref": "6:31",
+     "text": "Ark, see 13:3. Second Samuel 6:17."
+    },
+    {
+     "m": "ad",
+     "ref": "6:33",
+     "text": "Verse 33 is 6:18 in Hebrew. Heman, see 2:6 (a different man); Joel, see 4:35."
+    },
+    {
+     "m": "ae",
+     "ref": "6:34",
+     "text": "Eliel, see 5:24; Toah, “lowly.” Compare verses 26–27."
+    },
+    {
+     "m": "af",
+     "ref": "6:35",
+     "text": "Zuph, see verse 26; Mahath, “snatching.”"
+    },
+    {
+     "m": "ag",
+     "ref": "6:36",
+     "text": "Azariah, see 2:8; Zephaniah, “Yahweh has hidden.”"
+    },
+    {
+     "m": "ah",
+     "ref": "6:39",
+     "text": "Asaph, “he gathers”; Berechiah, see 3:20; Shimea, see 2:13."
+    },
+    {
+     "m": "ai",
+     "ref": "6:40",
+     "text": "Michael, see 5:13; Baaseiah, perhaps “work of Yahweh”; Malchijah, “my king is Yahweh.”"
+    },
+    {
+     "m": "aj",
+     "ref": "6:41",
+     "text": "Ethni, “gift”; Adaiah, “Yahweh has adorned.”"
+    },
+    {
+     "m": "ak",
+     "ref": "6:44",
+     "text": "Ethan, see 2:6 (also called Jeduthun, 16:41; 25:1); Kishi, “snarer” (15:17 Kushaiah); Abdi, “my servant”; Malluch, “counselor” or “king.”"
+    },
+    {
+     "m": "al",
+     "ref": "6:45",
+     "text": "Hashabiah, “Yahweh has reckoned”; Amaziah, see 3:12; Hilkiah, see verse 13."
+    },
+    {
+     "m": "am",
+     "ref": "6:46",
+     "text": "Amzi, “my strength”; Bani, “built”; Shemer, “guard.”"
+    },
+    {
+     "m": "an",
+     "ref": "6:54",
+     "text": "Verses 54–81 parallel Joshua 21:10–39, with many differences in the names. The Hebrew word for “encampments” can also mean “settlements.”"
+    },
+    {
+     "m": "ao",
+     "ref": "6:57",
+     "text": "Libnah, “whiteness”; Jattir, “abundance”; Eshtemoa, see 4:17. In Joshua 21:13 only Hebron among these is a city of refuge; the plural here may be general."
+    },
+    {
+     "m": "ap",
+     "ref": "6:58",
+     "text": "Hilen (Joshua 21:15 Holon), “sand”; Debir, “back part” or “sanctuary.”"
+    },
+    {
+     "m": "aq",
+     "ref": "6:59",
+     "text": "Ashan (Joshua 21:16 Ain), see 4:32; Beth-shemesh, “house of the sun.” Joshua 21:16 also lists Juttah."
+    },
+    {
+     "m": "ar",
+     "ref": "6:60",
+     "text": "Joshua 21:17–18 includes Gibeon and names Almon for Alemeth. Geba, “hill”; Alemeth, “covering”; Anathoth, plural of the goddess name Anath, “answers.” The thirteen count implies two cities missing from this list."
+    },
+    {
+     "m": "as",
+     "ref": "6:61",
+     "text": "Joshua 21:5 reads “out of the clans of the tribe of Ephraim, from the tribe of Dan, and the half-tribe of Manasseh”; the Hebrew here seems to lack the first part."
+    },
+    {
+     "m": "at",
+     "ref": "6:67",
+     "text": "Joshua 21:21 names only Shechem as a city of refuge. Shechem, “shoulder”; Ephraim, “doubly fruitful”; Gezer, “portion.”"
+    },
+    {
+     "m": "au",
+     "ref": "6:68",
+     "text": "Jokmeam (Joshua 21:22 Kibzaim), “the people will be raised up”; Beth-horon, “house of the hollow.”"
+    },
+    {
+     "m": "av",
+     "ref": "6:69",
+     "text": "Joshua 21:23–24 adds Eltekeh and Gibbethon from Dan. Aijalon, “place of deer”; Gath-rimmon, “winepress of the pomegranate.”"
+    },
+    {
+     "m": "aw",
+     "ref": "6:70",
+     "text": "Aner (Joshua 21:25 Taanach), uncertain; Bileam (Joshua Gath-rimmon), perhaps a form of Ibleam."
+    },
+    {
+     "m": "ax",
+     "ref": "6:71",
+     "text": "Golan, perhaps “circuit”; Ashtaroth (Joshua 21:27 Be-eshterah), named after the goddess Astarte."
+    },
+    {
+     "m": "ay",
+     "ref": "6:72",
+     "text": "Kedesh (Joshua 21:28 Kishion), “holy place”; Daberath, “pasture.”"
+    },
+    {
+     "m": "az",
+     "ref": "6:73",
+     "text": "Ramoth (Joshua 21:29 Jarmuth), “heights”; Anem (Joshua En-gannim), “two springs.”"
+    },
+    {
+     "m": "ba",
+     "ref": "6:74",
+     "text": "Mashal (Joshua 21:30 Mishal), “entreaty”; Abdon, “servile.”"
+    },
+    {
+     "m": "bb",
+     "ref": "6:75",
+     "text": "Hukok (Joshua 21:31 Helkath), “cut, engraved”; Rehob, “broad place.”"
+    },
+    {
+     "m": "bc",
+     "ref": "6:76",
+     "text": "Galilee, “circle, district”; Hammon (Joshua 21:32 Hammoth-dor), “warm”; Kiriathaim (Joshua Kartan), “two cities.”"
+    },
+    {
+     "m": "bd",
+     "ref": "6:77",
+     "text": "Joshua 21:34–35 lists Jokneam, Kartah, Dimnah, and Nahalal. Rimmono (Joshua 19:13 Rimmon), see 4:32; Tabor, “height.”"
+    },
+    {
+     "m": "be",
+     "ref": "6:78",
+     "text": "Some Hebrew manuscripts of Joshua lack the parallel (Joshua 21:36–37). Jericho, perhaps “moon city”; Jordan, “descender”; Bezer, “fortress”; Jahzah, perhaps “trampled place.”"
+    },
+    {
+     "m": "bf",
+     "ref": "6:79",
+     "text": "Kedemoth, “eastern places”; Mephaath, “splendor.”"
+    },
+    {
+     "m": "bg",
+     "ref": "6:80",
+     "text": "Ramoth, see verse 73; Mahanaim, “two camps” (Genesis 32:2)."
+    },
+    {
+     "m": "bh",
+     "ref": "6:81",
+     "text": "Heshbon, “reckoning”; Jazer, “he helps.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    6,
+    13,
+    14,
+    20,
+    30
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The sons of Issachar: Tola, Puah, Jashub, and Shimron, four.{a}"
+    },
+    {
+     "v": 2,
+     "text": "The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers’ houses, namely of Tola, mighty warriors in their generations; their number in the days of David was twenty-two thousand six hundred.{b}"
+    },
+    {
+     "v": 3,
+     "text": "The son{c} of Uzzi: Izrahiah. And the sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah, five, all of them chiefs.{d}"
+    },
+    {
+     "v": 4,
+     "text": "With them, by their generations, after their fathers’ houses, were bands of the host for battle, thirty-six thousand, because they had many wives and sons."
+    },
+    {
+     "v": 5,
+     "text": "Their kinsmen among all the clans of Issachar were mighty warriors, eighty-seven thousand, all enrolled by genealogy."
+    },
+    {
+     "v": 6,
+     "text": "The sons of Benjamin: Bela, Becher, and Jediael, three.{e}"
+    },
+    {
+     "v": 7,
+     "text": "The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five, heads of fathers’ houses, mighty warriors; and their enrollment by genealogy was twenty-two thousand and thirty-four.{f}"
+    },
+    {
+     "v": 8,
+     "text": "The sons of Becher: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth. All these were the sons of Becher.{g}"
+    },
+    {
+     "v": 9,
+     "text": "And their enrollment by genealogy, according to their generations, as heads of their fathers’ houses, mighty warriors, was twenty thousand two hundred."
+    },
+    {
+     "v": 10,
+     "text": "The son{h} of Jediael: Bilhan. And the sons of Bilhan: Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.{i}"
+    },
+    {
+     "v": 11,
+     "text": "All these were the sons of Jediael according to the heads of their fathers’ houses, mighty warriors, seventeen thousand two hundred, able to go out to war."
+    },
+    {
+     "v": 12,
+     "text": "Shuppim also and Huppim were sons of Ir, and Hushim was son{j} of Aher.{k}"
+    },
+    {
+     "v": 13,
+     "text": "The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum, sons of Bilhah.{l}"
+    },
+    {
+     "v": 14,
+     "text": "The sons of Manasseh: Asriel, whom his Aramean concubine bore; she bore Machir the father of Gilead.{m}"
+    },
+    {
+     "v": 15,
+     "text": "And Machir took a wife for Huppim and Shuppim. The name of his sister was Maacah. And the name of the second was Zelophehad, and Zelophehad had daughters.{n}"
+    },
+    {
+     "v": 16,
+     "text": "And Maacah the wife of Machir bore a son, and she called his name Peresh; and the name of his brother was Sheresh, and his sons were Ulam and Rakem.{o}"
+    },
+    {
+     "v": 17,
+     "text": "The son{p} of Ulam: Bedan. These were the sons of Gilead the son of Machir, son of Manasseh.{q}"
+    },
+    {
+     "v": 18,
+     "text": "And his sister Hammolecheth bore Ishhod, Abiezer, and Mahlah.{r}"
+    },
+    {
+     "v": 19,
+     "text": "The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.{s}"
+    },
+    {
+     "v": 20,
+     "text": "The sons of Ephraim: Shuthelah, and Bered his son, Tahath his son, Eleadah his son, Tahath his son,{t}"
+    },
+    {
+     "v": 21,
+     "text": "Zabad his son, Shuthelah his son, and Ezer and Elead, whom the men of Gath who were born in the land killed, because they came down to take their livestock.{u}"
+    },
+    {
+     "v": 22,
+     "text": "And Ephraim their father mourned many days, and his brothers came to comfort him."
+    },
+    {
+     "v": 23,
+     "text": "And he went in to his wife, and she conceived and bore a son, and he called his name Beriah, because disaster had come upon his house.{v}"
+    },
+    {
+     "v": 24,
+     "text": "His daughter Sheerah built Beth-horon, the lower and the upper, and also Uzzen-sheerah.{w}"
+    },
+    {
+     "v": 25,
+     "text": "Rephah was his son, and Resheph his son, Telah his son, Tahan his son,{x}"
+    },
+    {
+     "v": 26,
+     "text": "Ladan his son, Ammihud his son, Elishama his son,{y}"
+    },
+    {
+     "v": 27,
+     "text": "Nun{z} his son, Joshua his son.{aa}"
+    },
+    {
+     "v": 28,
+     "text": "Their possessions and settlements were Bethel and its towns, and to the east Naaran, and to the west Gezer and its towns, Shechem and its towns, and as far as Ayyah{ab} and its towns;{ac}"
+    },
+    {
+     "v": 29,
+     "text": "also along the borders of the Manassites, Beth-shean and its towns, Taanach and its towns, Megiddo and its towns, Dor and its towns. In these lived the sons of Joseph the son of Israel.{ad}"
+    },
+    {
+     "v": 30,
+     "text": "The sons of Asher: Imnah, Ishvah, Ishvi, and Beriah, and Serah their sister.{ae}"
+    },
+    {
+     "v": 31,
+     "text": "The sons of Beriah: Heber and Malchiel, who was the father of Birzaith.{af}"
+    },
+    {
+     "v": 32,
+     "text": "Heber became the father of Japhlet, Shomer, Hotham, and Shua their sister.{ag}"
+    },
+    {
+     "v": 33,
+     "text": "The sons of Japhlet: Pasach, Bimhal, and Ashvath. These are the sons of Japhlet.{ah}"
+    },
+    {
+     "v": 34,
+     "text": "The sons of Shemer:{ai} Ahi, Rohgah, Jehubbah,{aj} and Aram.{ak}"
+    },
+    {
+     "v": 35,
+     "text": "The sons of Helem his brother: Zophah, Imna, Shelesh, and Amal.{al}"
+    },
+    {
+     "v": 36,
+     "text": "The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah,{am}"
+    },
+    {
+     "v": 37,
+     "text": "Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.{an}"
+    },
+    {
+     "v": 38,
+     "text": "The sons of Jether: Jephunneh, Pispa, and Ara.{ao}"
+    },
+    {
+     "v": 39,
+     "text": "The sons of Ulla: Arah, Hanniel, and Rizia.{ap}"
+    },
+    {
+     "v": 40,
+     "text": "All these were descendants of Asher, heads of fathers’ houses, choice mighty warriors, chiefs of the princes. Their number enrolled by genealogy for service in war was twenty-six thousand men."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "Issachar, see 2:1; Tola, “worm” (crimson dye); Puah, perhaps “madder” (a red dye); Jashub, “he returns” (Hebrew written text Jashib); Shimron, “watch.”"
+    },
+    {
+     "m": "b",
+     "ref": "7:2",
+     "text": "Rephaiah, see 3:21; Jeriel, “founded by God”; Jahmai, perhaps “protector”; Ibsam, “fragrant”; Shemuel, the same name as Samuel (6:28)."
+    },
+    {
+     "m": "c",
+     "ref": "7:3",
+     "text": "Hebrew “sons.”"
+    },
+    {
+     "m": "d",
+     "ref": "7:3",
+     "text": "Izrahiah, “Yahweh shines”; Michael, see 5:13; Obadiah, see 3:21; Isshiah, “Yahweh lends.” Five includes Izrahiah."
+    },
+    {
+     "m": "e",
+     "ref": "7:6",
+     "text": "The lists of Benjamin’s sons differ: compare Genesis 46:21, Numbers 26:38–41, and 8:1–5. Bela, see 1:43; Becher, “young camel”; Jediael, “known by God.”"
+    },
+    {
+     "m": "f",
+     "ref": "7:7",
+     "text": "Ezbon, uncertain; Uzziel, see 4:42; Jerimoth, “heights”; Iri, “my city” or “watchful.”"
+    },
+    {
+     "m": "g",
+     "ref": "7:8",
+     "text": "Zemirah, “song”; Joash, see 3:11; Eliezer, “my God is help”; Omri, perhaps “servant of Yahweh” or “life”; Jeremoth, “heights”; Anathoth and Alemeth, see 6:60."
+    },
+    {
+     "m": "h",
+     "ref": "7:10",
+     "text": "Hebrew “sons.”"
+    },
+    {
+     "m": "i",
+     "ref": "7:10",
+     "text": "Bilhan, see 1:42; Jeush, see 1:35; Ehud, perhaps “united”; Chenaanah, “toward Canaan”; Zethan, “olive tree”; Tarshish, see 1:7; Ahishahar, “brother of the dawn.”"
+    },
+    {
+     "m": "j",
+     "ref": "7:12",
+     "text": "Hebrew “sons.”"
+    },
+    {
+     "m": "k",
+     "ref": "7:12",
+     "text": "Shuppim and Huppim (compare Genesis 46:21, Muppim and Huppim), “serpents” and “coverings”; Ir, “city” (perhaps Iri, verse 7); Hushim, “hasty ones”; Aher, “another.” The text may be damaged; some scholars think a list for Dan stood here (compare Genesis 46:23, “the son of Dan: Hushim”)."
+    },
+    {
+     "m": "l",
+     "ref": "7:13",
+     "text": "Genesis 46:24 and Numbers 26:48 read Jahzeel and Shillem. Jahziel, “God apportions”; Guni, see 5:15; Jezer, “form, purpose”; Shallum, see 2:40; Bilhah, “faltering” (Genesis 30:3–8)."
+    },
+    {
+     "m": "m",
+     "ref": "7:14",
+     "text": "The Hebrew of verses 14–15 is difficult. Asriel, “God has bound”; Aramean, of Aram (Syria). Machir and Gilead, see 2:21."
+    },
+    {
+     "m": "n",
+     "ref": "7:15",
+     "text": "Numbers 26:33 and 27:1 make Zelophehad, “shadow of dread” (meaning uncertain), a great-grandson of Machir. Here “his sister” and “the second” have no clear antecedent. Maacah, see 2:48."
+    },
+    {
+     "m": "o",
+     "ref": "7:16",
+     "text": "Peresh, “dung” or “separation”; Sheresh, “root”; Ulam, “porch” or “first”; Rakem, see Rekem, 2:43."
+    },
+    {
+     "m": "p",
+     "ref": "7:17",
+     "text": "Hebrew “sons.”"
+    },
+    {
+     "m": "q",
+     "ref": "7:17",
+     "text": "Bedan, perhaps “son of judgment” (compare 1 Samuel 12:11, where some read Abdon or Barak)."
+    },
+    {
+     "m": "r",
+     "ref": "7:18",
+     "text": "Hammolecheth, “the queen”; Ishhod, “man of majesty”; Abiezer, “my father is help”; Mahlah, “sickness” or “dancer.”"
+    },
+    {
+     "m": "s",
+     "ref": "7:19",
+     "text": "Shemida, “the name knows”; Ahian, “brotherly”; Shechem, see 6:67; Likhi, “learned”; Aniam, “I am a people.”"
+    },
+    {
+     "m": "t",
+     "ref": "7:20",
+     "text": "Shuthelah, uncertain; Bered, “hail”; Tahath, see 6:24; Eleadah, “God has adorned.”"
+    },
+    {
+     "m": "u",
+     "ref": "7:21",
+     "text": "Gath, “winepress,” a Philistine city. Zabad, see 2:36; Ezer, see 1:38; Elead, “God has testified.” The raid seems to come from Ephraim’s own lifetime (verse 22), though the list of descendants is long."
+    },
+    {
+     "m": "v",
+     "ref": "7:23",
+     "text": "Beriah sounds like Hebrew bera‘ah, “in disaster.”"
+    },
+    {
+     "m": "w",
+     "ref": "7:24",
+     "text": "Sheerah, “kinswoman”; Beth-horon, see 6:68; Uzzen-sheerah, “ear (point of land) of Sheerah.”"
+    },
+    {
+     "m": "x",
+     "ref": "7:25",
+     "text": "Rephah, “riches”; Resheph, “flame” (also a god’s name); Telah, “fracture”; Tahan, “camp.”"
+    },
+    {
+     "m": "y",
+     "ref": "7:26",
+     "text": "Ladan, uncertain; Ammihud, “my kinsman is majesty”; Elishama, see 2:41."
+    },
+    {
+     "m": "z",
+     "ref": "7:27",
+     "text": "Hebrew “Non.”"
+    },
+    {
+     "m": "aa",
+     "ref": "7:27",
+     "text": "Nun, “fish” (or “continuance”); Joshua, “Yahweh is salvation.”"
+    },
+    {
+     "m": "ab",
+     "ref": "7:28",
+     "text": "So the Leningrad Codex; other Hebrew manuscripts read “Azzah,” that is, Gaza, which is unlikely here."
+    },
+    {
+     "m": "ac",
+     "ref": "7:28",
+     "text": "Bethel, “house of God”; Naaran, “youthful”; Gezer, see 6:67; Ayyah, “ruin” (perhaps Ai)."
+    },
+    {
+     "m": "ad",
+     "ref": "7:29",
+     "text": "Beth-shean, “house of quiet”; Taanach, perhaps “sandy soil”; Megiddo, perhaps “place of troops”; Dor, “dwelling.” Joseph, see 2:2."
+    },
+    {
+     "m": "ae",
+     "ref": "7:30",
+     "text": "Compare Genesis 46:17 and Numbers 26:44–46. Asher, see 2:2; Imnah, “good fortune” or “right hand”; Ishvah and Ishvi, “level”; Beriah, see verse 23; Serah, “abundance.”"
+    },
+    {
+     "m": "af",
+     "ref": "7:31",
+     "text": "Heber, see 4:18; Malchiel, “my king is God”; Birzaith, perhaps “well of olives.”"
+    },
+    {
+     "m": "ag",
+     "ref": "7:32",
+     "text": "Japhlet, “he delivers”; Shomer (verse 34 Shemer), “guard”; Hotham (verse 35 Helem), “seal”; Shua, see 2:3 (Bath-shua)."
+    },
+    {
+     "m": "ah",
+     "ref": "7:33",
+     "text": "Pasach, “divider”; Bimhal, “son of circumcision”; Ashvath, uncertain."
+    },
+    {
+     "m": "ai",
+     "ref": "7:34",
+     "text": "Hebrew Shamer; see Shomer, verse 32."
+    },
+    {
+     "m": "aj",
+     "ref": "7:34",
+     "text": "So the Hebrew margin (Qere); the written text reads “and Hubbah.”"
+    },
+    {
+     "m": "ak",
+     "ref": "7:34",
+     "text": "Ahi, see 5:15 (or “his brother”); Rohgah, “outcry”; Jehubbah, “hidden”; Aram, see 1:17."
+    },
+    {
+     "m": "al",
+     "ref": "7:35",
+     "text": "Helem, “strength” or “hammer”; Zophah, perhaps “jug”; Imna, “he holds back”; Shelesh, “triad”; Amal, “toil.”"
+    },
+    {
+     "m": "am",
+     "ref": "7:36",
+     "text": "Suah, “sweeping”; Harnepher, an Egyptian name, perhaps “Horus is good”; Shual, “fox”; Beri, “my well”; Imrah, perhaps “he rebels.”"
+    },
+    {
+     "m": "an",
+     "ref": "7:37",
+     "text": "Bezer, see 6:78; Hod, “majesty”; Shamma, “desolation”; Shilshah, “triad”; Ithran, see 1:41 (perhaps Jether, verse 38); Beera, “well.”"
+    },
+    {
+     "m": "ao",
+     "ref": "7:38",
+     "text": "Jether, see 2:17; Jephunneh, see 4:15; Pispa and Ara, uncertain."
+    },
+    {
+     "m": "ap",
+     "ref": "7:39",
+     "text": "Ulla, “yoke”; Arah, “wayfarer”; Hanniel, “grace of God”; Rizia, “delight.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    29,
+    33
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Benjamin became the father of Bela his firstborn, of Ashbel the second, of Aharah the third,{a}"
+    },
+    {
+     "v": 2,
+     "text": "Nohah the fourth, and Rapha the fifth.{b}"
+    },
+    {
+     "v": 3,
+     "text": "And Bela had sons: Addar, Gera, Abihud,{c}"
+    },
+    {
+     "v": 4,
+     "text": "Abishua, Naaman, Ahoah,{d}"
+    },
+    {
+     "v": 5,
+     "text": "Gera, Shephuphan, and Huram.{e}"
+    },
+    {
+     "v": 6,
+     "text": "These are the sons of Ehud; these are heads of fathers’ houses of those who lived in Geba, and they were carried away captive to Manahath:{f}"
+    },
+    {
+     "v": 7,
+     "text": "and Naaman, Ahijah, and Gera; he carried them away,{g} and he became the father of Uzza and Ahihud.{h}"
+    },
+    {
+     "v": 8,
+     "text": "And Shaharaim became the father of sons in the country of Moab after he had sent away Hushim and Baara his wives.{i}"
+    },
+    {
+     "v": 9,
+     "text": "By Hodesh his wife he became the father of Jobab, Zibia, Mesha, Malcam,{j}"
+    },
+    {
+     "v": 10,
+     "text": "Jeuz, Sachia, and Mirmah. These were his sons, heads of fathers’ houses.{k}"
+    },
+    {
+     "v": 11,
+     "text": "By Hushim he had became the father of Abitub and Elpaal.{l}"
+    },
+    {
+     "v": 12,
+     "text": "The sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod with its towns,{m}"
+    },
+    {
+     "v": 13,
+     "text": "and Beriah and Shema (they were heads of fathers’ houses of the inhabitants of Aijalon, who put to flight the inhabitants of Gath);{n}"
+    },
+    {
+     "v": 14,
+     "text": "and Ahio, Shashak, and Jeremoth.{o}"
+    },
+    {
+     "v": 15,
+     "text": "Zebadiah, Arad, Eder,{p}"
+    },
+    {
+     "v": 16,
+     "text": "Michael, Ishpah, and Joha were sons of Beriah.{q}"
+    },
+    {
+     "v": 17,
+     "text": "Zebadiah, Meshullam, Hizki, Heber,{r}"
+    },
+    {
+     "v": 18,
+     "text": "Ishmerai, Izliah, and Jobab were sons of Elpaal.{s}"
+    },
+    {
+     "v": 19,
+     "text": "Jakim, Zichri, Zabdi,{t}"
+    },
+    {
+     "v": 20,
+     "text": "Elienai, Zillethai, Eliel,{u}"
+    },
+    {
+     "v": 21,
+     "text": "Adaiah, Beraiah, and Shimrath were sons of Shimei.{v}"
+    },
+    {
+     "v": 22,
+     "text": "Ishpan, Eber, Eliel,{w}"
+    },
+    {
+     "v": 23,
+     "text": "Abdon, Zichri, Hanan,{x}"
+    },
+    {
+     "v": 24,
+     "text": "Hananiah, Elam, Anthothijah,{y}"
+    },
+    {
+     "v": 25,
+     "text": "Iphdeiah, and Penuel{z} were sons of Shashak.{aa}"
+    },
+    {
+     "v": 26,
+     "text": "Shamsherai, Shehariah, Athaliah,{ab}"
+    },
+    {
+     "v": 27,
+     "text": "Jaareshiah, Elijah, and Zichri were sons of Jeroham.{ac}"
+    },
+    {
+     "v": 28,
+     "text": "These were heads of fathers’ houses through their generations, chief men; these lived at Jerusalem."
+    },
+    {
+     "v": 29,
+     "text": "In Gibeon lived the father of Gibeon,{ad} and the name of his wife was Maacah.{ae}"
+    },
+    {
+     "v": 30,
+     "text": "and his firstborn son Abdon, and Zur, Kish, Baal,{af} Nadab,{ag}"
+    },
+    {
+     "v": 31,
+     "text": "Gedor, Ahio, and Zecher.{ah}"
+    },
+    {
+     "v": 32,
+     "text": "Mikloth became the father of Shimeah. They also lived with their brothers in Jerusalem, over against their brothers.{ai}"
+    },
+    {
+     "v": 33,
+     "text": "Ner became the father of Kish, Kish became the father of Saul, and Saul became the father of Jonathan, Malchi-shua, Abinadab, and Esh-baal.{aj}"
+    },
+    {
+     "v": 34,
+     "text": "The son of Jonathan was Merib-baal; and Merib-baal became the father of Micah.{ak}"
+    },
+    {
+     "v": 35,
+     "text": "The sons of Micah: Pithon, Melech, Tarea, and Ahaz.{al}"
+    },
+    {
+     "v": 36,
+     "text": "Ahaz became the father of Jehoaddah, and Jehoaddah of Alemeth, Azmaveth, and Zimri; and Zimri of Moza.{am}"
+    },
+    {
+     "v": 37,
+     "text": "Moza became the father of Binea; Raphah was his son, Eleasah his son, Azel his son.{an}"
+    },
+    {
+     "v": 38,
+     "text": "Azel had six sons, whose names were Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were sons of Azel.{ao}"
+    },
+    {
+     "v": 39,
+     "text": "The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphelet the third.{ap}"
+    },
+    {
+     "v": 40,
+     "text": "The sons of Ulam were mighty warriors, archers, and had many sons and grandsons, one hundred and fifty. All these were of the descendants of Benjamin."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "Compare 7:6–12. Benjamin, see 2:2; Bela, see 1:43; Ashbel, perhaps “man of Baal”; Aharah, perhaps “after a brother” (Genesis 46:21 Ehi; Numbers 26:38 Ahiram)."
+    },
+    {
+     "m": "b",
+     "ref": "8:2",
+     "text": "Nohah, “rest”; Rapha, “he has healed” or “giant.”"
+    },
+    {
+     "m": "c",
+     "ref": "8:3",
+     "text": "Addar, “threshing floor” or “glorious” (Numbers 26:40 Ard); Gera, “grain”; Abihud, “my father is majesty.” Or “Gera the father of Ehud” (compare verse 6 and Judges 3:15)."
+    },
+    {
+     "m": "d",
+     "ref": "8:4",
+     "text": "Abishua, see 6:4; Naaman, “pleasantness”; Ahoah, “brotherly.”"
+    },
+    {
+     "m": "e",
+     "ref": "8:5",
+     "text": "Shephuphan, “serpent”; Huram, “noble.”"
+    },
+    {
+     "m": "f",
+     "ref": "8:6",
+     "text": "Ehud, see 7:10; Geba, see 6:60; Manahath, see 1:40."
+    },
+    {
+     "m": "g",
+     "ref": "8:7",
+     "text": "Or “Gera, that is, Heglam.” The Hebrew word heglam can be read as “he exiled them” or as a name."
+    },
+    {
+     "m": "h",
+     "ref": "8:7",
+     "text": "Ahijah, see 2:25; Uzza, “strength”; Ahihud, “brother of majesty.”"
+    },
+    {
+     "m": "i",
+     "ref": "8:8",
+     "text": "Shaharaim, “double dawn”; Moab, perhaps “from father” (Genesis 19:37); Hushim, see 7:12; Baara, perhaps “burning.”"
+    },
+    {
+     "m": "j",
+     "ref": "8:9",
+     "text": "Hodesh, “new moon”; Jobab, see 1:23; Zibia, “gazelle”; Mesha, see 2:42; Malcam, “their king.”"
+    },
+    {
+     "m": "k",
+     "ref": "8:10",
+     "text": "Jeuz, “counselor”; Sachia, uncertain; Mirmah, “deceit.”"
+    },
+    {
+     "m": "l",
+     "ref": "8:11",
+     "text": "Abitub, “my father is good”; Elpaal, “God is maker.”"
+    },
+    {
+     "m": "m",
+     "ref": "8:12",
+     "text": "Eber, see 1:18; Misham, “their cleansing”; Shemed, “destruction”; Ono, “strength”; Lod, later Lydda."
+    },
+    {
+     "m": "n",
+     "ref": "8:13",
+     "text": "Beriah, see 7:23; Shema, see 2:43; Aijalon, see 6:69; Gath, see 7:21."
+    },
+    {
+     "m": "o",
+     "ref": "8:14",
+     "text": "Or “and their brothers were Shashak and Jeremoth” (so the Septuagint, “and his brothers”). Ahio, “brotherly”; Shashak, uncertain; Jeremoth, see 7:8."
+    },
+    {
+     "m": "p",
+     "ref": "8:15",
+     "text": "Zebadiah, “Yahweh has given”; Arad, “wild donkey”; Eder, “flock.”"
+    },
+    {
+     "m": "q",
+     "ref": "8:16",
+     "text": "Michael, see 5:13; Ishpah, “bald”; Joha, perhaps “Yahweh is living.”"
+    },
+    {
+     "m": "r",
+     "ref": "8:17",
+     "text": "Meshullam, see 3:19; Hizki, a short form of Hezekiah; Heber, see 4:18."
+    },
+    {
+     "m": "s",
+     "ref": "8:18",
+     "text": "Ishmerai, “Yahweh keeps”; Izliah, “Yahweh draws out”; Jobab, see 1:23."
+    },
+    {
+     "m": "t",
+     "ref": "8:19",
+     "text": "Jakim, “he raises up”; Zichri, “my remembrance”; Zabdi, “my gift.”"
+    },
+    {
+     "m": "u",
+     "ref": "8:20",
+     "text": "Elienai, short for Elioenai (3:23); Zillethai, “shadow”; Eliel, see 5:24."
+    },
+    {
+     "m": "v",
+     "ref": "8:21",
+     "text": "Adaiah, see 6:41; Beraiah, “Yahweh has created”; Shimrath, “guarding”; Shimei, see 3:19."
+    },
+    {
+     "m": "w",
+     "ref": "8:22",
+     "text": "Ishpan, “he hides”; Eliel, see 5:24."
+    },
+    {
+     "m": "x",
+     "ref": "8:23",
+     "text": "Abdon, see 6:74; Hanan, “gracious.”"
+    },
+    {
+     "m": "y",
+     "ref": "8:24",
+     "text": "Hananiah, see 3:19; Elam, see 1:17; Anthothijah, “of Anathoth” (6:60)."
+    },
+    {
+     "m": "z",
+     "ref": "8:25",
+     "text": "Hebrew Penuel; some read “Peniel.” See 4:4."
+    },
+    {
+     "m": "aa",
+     "ref": "8:25",
+     "text": "Iphdeiah, “Yahweh redeems.”"
+    },
+    {
+     "m": "ab",
+     "ref": "8:26",
+     "text": "Shamsherai, uncertain; Shehariah, “Yahweh is dawn”; Athaliah, “Yahweh is exalted.”"
+    },
+    {
+     "m": "ac",
+     "ref": "8:27",
+     "text": "Jaareshiah, uncertain; Elijah, “my God is Yahweh”; Jeroham, see 6:27."
+    },
+    {
+     "m": "ad",
+     "ref": "8:29",
+     "text": "Verses 29–38 are repeated in 9:35–44, which names this father of Gibeon as Jeiel. Gibeon, “hill city.”"
+    },
+    {
+     "m": "ae",
+     "ref": "8:29",
+     "text": "Maacah, see 2:48."
+    },
+    {
+     "m": "af",
+     "ref": "8:30",
+     "text": "The Septuagint (after Nadab) and 9:36 add “Ner.”"
+    },
+    {
+     "m": "ag",
+     "ref": "8:30",
+     "text": "Zur, “rock”; Kish, perhaps “bow” or “gift”; Baal, see 4:33; Nadab, see 2:28."
+    },
+    {
+     "m": "ah",
+     "ref": "8:31",
+     "text": "Gedor, see 4:4; Ahio, see verse 14; Zecher, “memorial” (9:37 Zechariah)."
+    },
+    {
+     "m": "ai",
+     "ref": "8:32",
+     "text": "Mikloth, “staffs”; Shimeah (9:38 Shimeam), see Shimea, 2:13."
+    },
+    {
+     "m": "aj",
+     "ref": "8:33",
+     "text": "First Samuel 14:49 lists Saul’s sons as Jonathan, Ishvi, and Malchi-shua; 31:2 adds Abinadab. Esh-baal, “man of Baal” (Baal meaning “lord”), is called Ish-bosheth, “man of shame,” in 2 Samuel 2:8; later scribes replaced “Baal” with bosheth, “shame.” Ner, “lamp”; Saul, see 5:10; Jonathan, see 2:32; Malchi-shua, “my king is salvation”; Abinadab, see 2:13. The Septuagint (B text) reads “Asabal.”"
+    },
+    {
+     "m": "ak",
+     "ref": "8:34",
+     "text": "Merib-baal, perhaps “Baal contends” or “hero of Baal,” is called Mephibosheth, “from the mouth of shame,” in 2 Samuel 4:4 and 9:6. Micah, see 5:5 (2 Samuel 9:12, Mica)."
+    },
+    {
+     "m": "al",
+     "ref": "8:35",
+     "text": "Pithon, uncertain; Melech, “king”; Tarea (9:41 Tahrea), uncertain; Ahaz, see 3:13."
+    },
+    {
+     "m": "am",
+     "ref": "8:36",
+     "text": "Jehoaddah (9:42 Jarah), “Yahweh has adorned”; Alemeth, see 6:60; Azmaveth, “death is strong”; Zimri, see 2:6; Moza, see 2:46."
+    },
+    {
+     "m": "an",
+     "ref": "8:37",
+     "text": "Binea, uncertain; Raphah (9:43 Rephaiah), see Rapha, verse 2; Eleasah, see 2:39; Azel, “noble.”"
+    },
+    {
+     "m": "ao",
+     "ref": "8:38",
+     "text": "Azrikam, see 3:23; Bocheru, “firstborn” (or read “his firstborn”); Ishmael, see 1:28; Sheariah, “Yahweh has esteemed”; Obadiah, see 3:21; Hanan, see verse 23."
+    },
+    {
+     "m": "ap",
+     "ref": "8:39",
+     "text": "Eshek, “oppression”; Ulam, see 7:16; Jeush, see 1:35; Eliphelet, see 3:6."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    2,
+    10,
+    14,
+    17,
+    28,
+    35
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So all Israel was reckoned by genealogies, and see, they are written in the Book of the Kings of Israel. Judah was carried away captive to Babylon for their unfaithfulness.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Now the first inhabitants who lived again in their possessions in their cities were Israel, the priests, the Levites, and the temple servants.{b}"
+    },
+    {
+     "v": 3,
+     "text": "Some of the people of Judah, of Benjamin, and of Ephraim and Manasseh lived in Jerusalem:{c}"
+    },
+    {
+     "v": 4,
+     "text": "Uthai the son of Ammihud, son of Omri, son of Imri, son of Bani, from the sons of Perez the son of Judah.{d}"
+    },
+    {
+     "v": 5,
+     "text": "Of the Shilonites: Asaiah the firstborn, and his sons.{e}"
+    },
+    {
+     "v": 6,
+     "text": "Of the sons of Zerah: Jeuel and their kinsmen, six hundred and ninety.{f}"
+    },
+    {
+     "v": 7,
+     "text": "Of the sons of Benjamin: Sallu the son of Meshullam, son of Hodaviah, son of Hassenuah,{g}"
+    },
+    {
+     "v": 8,
+     "text": "Ibneiah the son of Jeroham, Elah the son of Uzzi, son of Michri, and Meshullam the son of Shephatiah, son of Reuel, son of Ibnijah;{h}"
+    },
+    {
+     "v": 9,
+     "text": "and their kinsmen according to their generations, nine hundred and fifty-six. All these men were heads of fathers’ houses according to their fathers’ houses."
+    },
+    {
+     "v": 10,
+     "text": "Of the priests: Jedaiah, Jehoiarib, Jachin,{i}"
+    },
+    {
+     "v": 11,
+     "text": "and Azariah the son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the chief officer of the house of God;{j}"
+    },
+    {
+     "v": 12,
+     "text": "and Adaiah the son of Jeroham, son of Pashhur, son of Malchijah, and Maasai the son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer;{k}"
+    },
+    {
+     "v": 13,
+     "text": "and their kinsmen, heads of their fathers’ houses, one thousand seven hundred and sixty, very able men for the work of the service of the house of God."
+    },
+    {
+     "v": 14,
+     "text": "Of the Levites: Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, of the sons of Merari;{l}"
+    },
+    {
+     "v": 15,
+     "text": "and Bakbakkar, Heresh, Galal, and Mattaniah the son of Mica, son of Zichri, son of Asaph;{m}"
+    },
+    {
+     "v": 16,
+     "text": "and Obadiah the son of Shemaiah, son of Galal, son of Jeduthun, and Berechiah the son of Asa, son of Elkanah, who lived in the villages of the Netophathites.{n}"
+    },
+    {
+     "v": 17,
+     "text": "The gatekeepers: Shallum, Akkub, Talmon, Ahiman, and their brothers; Shallum was the chief,{o}"
+    },
+    {
+     "v": 18,
+     "text": "who until then had waited in the king’s gate eastward. They were gatekeepers for the camp of the sons of Levi."
+    },
+    {
+     "v": 19,
+     "text": "Shallum the son of Kore, son of Ebiasaph, son of Korah, and his brothers of his father’s house, the Korahites, were over the work of the service, keepers of the thresholds of the tent; and their fathers had been over the camp of Yahweh, keepers of the entry.{p}"
+    },
+    {
+     "v": 20,
+     "text": "And Phinehas the son of Eleazar was chief over them in time past; Yahweh was with him."
+    },
+    {
+     "v": 21,
+     "text": "Zechariah the son of Meshelemiah was keeper of the door of the tent of meeting.{q}"
+    },
+    {
+     "v": 22,
+     "text": "All these, who were chosen as gatekeepers at the thresholds, were two hundred and twelve. They were enrolled by genealogy in their villages. David and Samuel the seer established them in their office of trust."
+    },
+    {
+     "v": 23,
+     "text": "So they and their children had the oversight of the gates of the house of Yahweh, the house of the tent, by watches."
+    },
+    {
+     "v": 24,
+     "text": "On the four sides were the gatekeepers, toward the east, west, north, and south."
+    },
+    {
+     "v": 25,
+     "text": "And their kinsmen in their villages were to come in every seven days, from time to time, to be with them;"
+    },
+    {
+     "v": 26,
+     "text": "for the four chief gatekeepers, who were Levites, were in an office of trust, and they were in charge of the chambers and the treasuries of the house of God."
+    },
+    {
+     "v": 27,
+     "text": "They spent the night around the house of God, for the watch was their duty, and they were in charge of opening it every morning."
+    },
+    {
+     "v": 28,
+     "text": "Some of them had charge of the vessels of service; for by count they were brought in, and by count they were taken out."
+    },
+    {
+     "v": 29,
+     "text": "Others were appointed over the furnishings and over all the holy vessels, and over the fine flour, the wine, the oil, the frankincense, and the spices."
+    },
+    {
+     "v": 30,
+     "text": "And some of the sons of the priests mixed the ointment of the spices."
+    },
+    {
+     "v": 31,
+     "text": "Mattithiah, one of the Levites, the firstborn of Shallum the Korahite, was in charge by trust of making the flat cakes.{r}"
+    },
+    {
+     "v": 32,
+     "text": "And some of their kinsmen of the Kohathites were in charge of the showbread, to prepare it every Sabbath.{s}"
+    },
+    {
+     "v": 33,
+     "text": "These are the singers, heads of fathers’ houses of the Levites, living in the chambers free from other service, for they were on duty day and night."
+    },
+    {
+     "v": 34,
+     "text": "These were heads of fathers’ houses of the Levites, according to their generations, chief men. These lived in Jerusalem."
+    },
+    {
+     "v": 35,
+     "text": "In Gibeon lived the father of Gibeon, Jeiel,{t} and the name of his wife was Maacah."
+    },
+    {
+     "v": 36,
+     "text": "His firstborn son was Abdon, then Zur, Kish, Baal, Ner, Nadab,"
+    },
+    {
+     "v": 37,
+     "text": "Gedor, Ahio, Zechariah, and Mikloth."
+    },
+    {
+     "v": 38,
+     "text": "Mikloth became the father of Shimeam. They also lived with their brothers in Jerusalem, over against their brothers."
+    },
+    {
+     "v": 39,
+     "text": "Ner became the father of Kish, Kish became the father of Saul, and Saul became the father of Jonathan, Malchi-shua, Abinadab, and Esh-baal."
+    },
+    {
+     "v": 40,
+     "text": "The son of Jonathan was Merib-baal; and Merib-baal{u} became the father of Micah."
+    },
+    {
+     "v": 41,
+     "text": "The sons of Micah: Pithon, Melech, Tahrea, and Ahaz.{v}"
+    },
+    {
+     "v": 42,
+     "text": "Ahaz became the father of Jarah, and Jarah became the father of Alemeth, Azmaveth, and Zimri; and Zimri became the father of Moza.{w}"
+    },
+    {
+     "v": 43,
+     "text": "Moza became the father of Binea; Rephaiah was his son, Eleasah his son, Azel his son."
+    },
+    {
+     "v": 44,
+     "text": "Azel had six sons, whose names were Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.{x}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "Or “written in the Book of the Kings of Israel and Judah, and they were carried into exile.” The Septuagint reads “the book of the kings of Israel and Judah.” Babylon, Hebrew Babel (compare Genesis 11:9)."
+    },
+    {
+     "m": "b",
+     "ref": "9:2",
+     "text": "Hebrew Nethinim, “those given.” Verses 2–17 have a close parallel in Nehemiah 11:3–19."
+    },
+    {
+     "m": "c",
+     "ref": "9:3",
+     "text": "Ephraim, see 6:67; Manasseh, see 3:13; Jerusalem, perhaps “foundation of Shalem (peace).”"
+    },
+    {
+     "m": "d",
+     "ref": "9:4",
+     "text": "Uthai, perhaps “Yahweh has helped”; Ammihud, see 7:26; Omri, see 7:8; Imri, “eloquent”; Bani, see 6:46; Perez, see 2:4."
+    },
+    {
+     "m": "e",
+     "ref": "9:5",
+     "text": "Shilonites, probably of Shelah (2:3; Numbers 26:20), rather than of the town of Shiloh. Asaiah, see 4:36."
+    },
+    {
+     "m": "f",
+     "ref": "9:6",
+     "text": "Jeuel, perhaps “God sweeps away” (a form of Jeiel). Zerah, see 2:4."
+    },
+    {
+     "m": "g",
+     "ref": "9:7",
+     "text": "Sallu, perhaps “weighed”; Meshullam, see 3:19; Hodaviah, see 3:24; Hassenuah, “the hated one.”"
+    },
+    {
+     "m": "h",
+     "ref": "9:8",
+     "text": "Ibneiah, “Yahweh builds”; Jeroham, see 6:27; Elah, see 1:52; Uzzi, see 6:5; Michri, perhaps “purchase price”; Shephatiah, see 3:3; Reuel, see 1:35; Ibnijah, “Yahweh builds.”"
+    },
+    {
+     "m": "i",
+     "ref": "9:10",
+     "text": "Jedaiah, see 4:37; Jehoiarib, “Yahweh contends”; Jachin, “he establishes.” Compare 24:7, 17."
+    },
+    {
+     "m": "j",
+     "ref": "9:11",
+     "text": "Nehemiah 11:11 reads Seraiah. Hilkiah, Zadok, Meraioth, Ahitub, see 6:4–13."
+    },
+    {
+     "m": "k",
+     "ref": "9:12",
+     "text": "Adaiah, see 6:41; Pashhur, uncertain, perhaps Egyptian; Malchijah, see 6:40; Maasai, “work of Yahweh”; Adiel, see 4:36; Jahzerah, uncertain; Meshillemith, “recompense”; Immer, “lamb.”"
+    },
+    {
+     "m": "l",
+     "ref": "9:14",
+     "text": "Shemaiah, see 3:22; Hasshub, “considerate”; Azrikam, see 3:23; Hashabiah, see 6:45."
+    },
+    {
+     "m": "m",
+     "ref": "9:15",
+     "text": "Bakbakkar, uncertain; Heresh, “craftsman”; Galal, “rolling”; Mattaniah, “gift of Yahweh”; Mica, see Micah, 5:5; Zichri, see 8:19; Asaph, see 6:39."
+    },
+    {
+     "m": "n",
+     "ref": "9:16",
+     "text": "Jeduthun, perhaps “praising” (see 16:41); Berechiah, see 3:20; Asa, see 3:10; Elkanah, see 6:23; Netophathites, see 2:54."
+    },
+    {
+     "m": "o",
+     "ref": "9:17",
+     "text": "Shallum, see 2:40; Akkub, see 3:24; Talmon, “oppressor” or “brightness”; Ahiman, “my brother is a gift.”"
+    },
+    {
+     "m": "p",
+     "ref": "9:19",
+     "text": "Kore, “partridge” or “caller”; Ebiasaph, see 6:23; Korah, see 1:35."
+    },
+    {
+     "m": "q",
+     "ref": "9:21",
+     "text": "Zechariah, see 5:7; Meshelemiah, “Yahweh repays.”"
+    },
+    {
+     "m": "r",
+     "ref": "9:31",
+     "text": "Mattithiah, “gift of Yahweh.” The flat cakes were baked on a griddle (Leviticus 2:5)."
+    },
+    {
+     "m": "s",
+     "ref": "9:32",
+     "text": "Hebrew “bread of the rows,” the bread laid out before Yahweh (Leviticus 24:5–9). Sabbath, “rest.”"
+    },
+    {
+     "m": "t",
+     "ref": "9:35",
+     "text": "So the Hebrew margin (Qere); the written text reads “Jeuel.” Verses 35–44 repeat 8:29–38."
+    },
+    {
+     "m": "u",
+     "ref": "9:40",
+     "text": "The second time the Hebrew reads “Meri-baal.”"
+    },
+    {
+     "m": "v",
+     "ref": "9:41",
+     "text": "“And Ahaz” is supplied from 8:35; it is not in the Hebrew or the Septuagint (B text) here. Tahrea, see Tarea, 8:35."
+    },
+    {
+     "m": "w",
+     "ref": "9:42",
+     "text": "Jarah, “honeycomb” (8:36 Jehoaddah); for the others see 8:36."
+    },
+    {
+     "m": "x",
+     "ref": "9:44",
+     "text": "Compare 8:38. Shimeam (verse 38), see Shimeah, 8:32; Rephaiah, see 3:21."
+    }
+   ]
+  }
+ ]
+}
