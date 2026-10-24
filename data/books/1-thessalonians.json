@@ -1,0 +1,628 @@
+{
+ "id": "1-thessalonians",
+ "name": "1 Thessalonians",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The chief early manuscripts are Codex Sinaiticus and Codex Vaticanus (4th century), with portions in the papyri P46 (about AD 200), P30 and P65 (3rd century); where their readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation or phrase, a note says so. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. Verse divisions at 2:6–7 and 2:11–12 differ slightly among editions. First Thessalonians is accepted as Paul’s by nearly all scholars and is probably the earliest surviving Christian writing, sent from Corinth about AD 50, a few months after Paul, Silvanus and Timothy had founded the church in Thessalonica (Acts 17:1–10; 18:5).",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Paul,{a} Silvanus{b} and Timothy,{c} to the church of the Thessalonians{d} in God the Father and the Lord Jesus Christ:{e} grace to you, and peace.{f}"
+    },
+    {
+     "v": 2,
+     "text": "At all times we thank God for every one of you, and mention you in our prayers."
+    },
+    {
+     "v": 3,
+     "text": "Without ceasing we call to mind, before our God and Father, how your faith is at work, how your love labors, and how your hope in our Lord Jesus Christ holds steady.{g}"
+    },
+    {
+     "v": 4,
+     "text": "For we know, brothers{h} whom God loves, that he has chosen you,"
+    },
+    {
+     "v": 5,
+     "text": "because our good news{i} came to you not in words alone but also with power, with the Holy Spirit, and with deep conviction. You know what sort of people we proved to be among you for your sake."
+    },
+    {
+     "v": 6,
+     "text": "And you became imitators of us and of the Lord; in spite of great affliction you welcomed the message with the joy the Holy Spirit gives."
+    },
+    {
+     "v": 7,
+     "text": "So you became a model for all the believers in Macedonia and in Achaia.{j}"
+    },
+    {
+     "v": 8,
+     "text": "The Lord’s word has sounded forth from you like a trumpet, and not in Macedonia and Achaia only; in every place the news of your faith toward God has spread abroad, so we need say nothing about it."
+    },
+    {
+     "v": 9,
+     "text": "People themselves report what kind of welcome we had among you, and how you turned to God from idols, to serve a God who is living and true,"
+    },
+    {
+     "v": 10,
+     "text": "and to wait for his Son from heaven, Jesus, whom he raised from the dead, who rescues us from the wrath that is coming."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "*Silvanus*: Latin, “of the forest,” the Roman form of the name *Silas* (Acts 15:40; 17:4), probably from Aramaic *She’ila*, “asked for.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "*Timothy*: Greek *Timotheos*, “one who honors God.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "Thessalonians: the people of Thessalonica, the capital of the Roman province of Macedonia, a major port on the Egnatian Way, the road that crossed northern Greece."
+    },
+    {
+     "m": "e",
+     "ref": "1:1",
+     "text": "*Jesus*: the Greek form of Hebrew *Yeshua* (Joshua), “Yahweh saves.” *Christ*: Greek *Christos*, “Anointed One,” equivalent to Hebrew *mashiach*, “Messiah.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:1",
+     "text": "Later manuscripts add “from God our Father and the Lord Jesus Christ.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:3",
+     "text": "Holds steady: literally “the endurance of hope.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:4",
+     "text": "Brothers: Greek *adelphoi*, the usual term for fellow believers, including both men and women; so throughout."
+    },
+    {
+     "m": "i",
+     "ref": "1:5",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel”; so throughout."
+    },
+    {
+     "m": "j",
+     "ref": "1:7",
+     "text": "Macedonia … Achaia: the two Roman provinces of northern and southern Greece."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    13,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "You yourselves know, brothers, that our visit to you was not in vain."
+    },
+    {
+     "v": 2,
+     "text": "As you know, we had already suffered and been shamefully treated at Philippi,{a} yet with our God’s help we found the courage to tell you God’s good news in the face of great opposition."
+    },
+    {
+     "v": 3,
+     "text": "For our appeal did not spring from error or impure motives, nor did it use trickery."
+    },
+    {
+     "v": 4,
+     "text": "Rather, just as God has tested us and entrusted us with the good news, so we speak, not to please human beings, but to please God, who tests our hearts."
+    },
+    {
+     "v": 5,
+     "text": "As you know, we never came with flattering words, nor with a pretext for greed — God is our witness —"
+    },
+    {
+     "v": 6,
+     "text": "nor did we seek honor from people, whether from you or from others, even though as apostles{b} of Christ we could have made our weight felt.{c}"
+    },
+    {
+     "v": 7,
+     "text": "Instead we became like little children among you.{d} As a nurse cherishes her own children,"
+    },
+    {
+     "v": 8,
+     "text": "so, in our affection for you, we were glad to share with you not only God’s good news but our very lives, because you had become very dear to us."
+    },
+    {
+     "v": 9,
+     "text": "Remember, brothers, our labor and toil: we worked night and day so as not to burden any of you while we proclaimed to you the good news of God."
+    },
+    {
+     "v": 10,
+     "text": "You can testify, and so can God, how holy, upright and beyond reproach our conduct was among you who believe."
+    },
+    {
+     "v": 11,
+     "text": "You know how, like a father with his own children, we treated each one of you, encouraging and comforting you"
+    },
+    {
+     "v": 12,
+     "text": "and pleading with you to walk{e} in a manner that befits the God who is calling you to his own kingdom and glory."
+    },
+    {
+     "v": 13,
+     "text": "This is another reason we give thanks to God unceasingly: when the word of God reached you through our preaching, you took it in, not as the word of mere humans, but as what it really is, God’s word, now active in you who believe."
+    },
+    {
+     "v": 14,
+     "text": "For you, brothers, have followed the pattern of the churches of God in Judea that are in Christ Jesus. You have suffered from your own fellow citizens just as they did from the Judeans,{f}"
+    },
+    {
+     "v": 15,
+     "text": "who killed both the Lord Jesus and the prophets, and drove us out. They displease God and oppose all people,"
+    },
+    {
+     "v": 16,
+     "text": "who try to stop us speaking to the Gentiles{g} for their salvation. In this way they are always filling up their sins to the brim. But the wrath has overtaken them at last.{h}"
+    },
+    {
+     "v": 17,
+     "text": "But we, brothers, when we were torn away from you for a short time,{i} in person but not in heart, longed all the more eagerly to see you face to face."
+    },
+    {
+     "v": 18,
+     "text": "For we wanted to come to you — I, Paul, more than once{j} — but Satan{k} blocked our way."
+    },
+    {
+     "v": 19,
+     "text": "For who is our hope, our joy, the crown we will boast of in the presence of our Lord Jesus when he comes?{l} Who, if not you?"
+    },
+    {
+     "v": 20,
+     "text": "Yes, you are our glory and our joy."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:2",
+     "text": "Philippi: see Acts 16:19–40."
+    },
+    {
+     "m": "b",
+     "ref": "2:6",
+     "text": "Apostles: Greek *apostoloi*, “those who are sent,” messengers with the authority of the sender."
+    },
+    {
+     "m": "c",
+     "ref": "2:6",
+     "text": "Made our weight felt: or “been a burden to you” (compare 2:9); the Greek *en barei* can mean either weight of authority or financial burden. In some editions these words begin verse 7."
+    },
+    {
+     "m": "d",
+     "ref": "2:7",
+     "text": "Like little children: Greek *nēpioi*, “infants,” the reading of the Westcott–Hort text and of the earliest manuscripts, including P65, the original hand of Sinaiticus, and Vaticanus as reported. Many manuscripts read *ēpioi*, “gentle,” which differs by a single letter; the preceding word ends in *n*, so either could have arisen from the other by a slip of the eye. Many modern translations prefer “gentle” as better suited to the context."
+    },
+    {
+     "m": "e",
+     "ref": "2:12",
+     "text": "Walk: a Hebrew idiom for one’s conduct; so throughout."
+    },
+    {
+     "m": "f",
+     "ref": "2:14",
+     "text": "The Judeans: Greek *Ioudaioi*, here probably the people of Judea who opposed the churches there, not the Jewish people as a whole; Paul himself and the Judean churches were Jewish."
+    },
+    {
+     "m": "g",
+     "ref": "2:16",
+     "text": "Gentiles: Greek *ethnē*, “nations,” the non-Jewish peoples."
+    },
+    {
+     "m": "h",
+     "ref": "2:16",
+     "text": "At last: or “completely,” “to the end.” Because of the harshness of verses 14–16 and the apparent reference to a past disaster, some scholars think they were added after the destruction of Jerusalem in AD 70; no manuscript lacks them, and most scholars regard them as Paul’s."
+    },
+    {
+     "m": "i",
+     "ref": "2:17",
+     "text": "A short time: literally “a season of an hour,” an idiom for a brief time."
+    },
+    {
+     "m": "j",
+     "ref": "2:18",
+     "text": "More than once: literally “both once and twice,” an idiom."
+    },
+    {
+     "m": "k",
+     "ref": "2:18",
+     "text": "Satan: Hebrew, “adversary,” “accuser.”"
+    },
+    {
+     "m": "l",
+     "ref": "2:19",
+     "text": "When he comes: literally “at his coming,” Greek *parousia*, “presence,” “arrival,” used of the visit of a ruler; so throughout. *Crown*: the victor’s wreath."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So, since we could stand it no longer, we thought it best to stay behind in Athens{a} by ourselves,"
+    },
+    {
+     "v": 2,
+     "text": "and we sent Timothy, our brother and God’s servant{b} in the good news of Christ, to make you firm and to encourage you for the sake of your faith,"
+    },
+    {
+     "v": 3,
+     "text": "so that none of you would be unsettled by these troubles. You know well that we are appointed for them."
+    },
+    {
+     "v": 4,
+     "text": "In fact, when we were with you, we kept telling you beforehand that we were going to suffer affliction, and so it has turned out, as you know."
+    },
+    {
+     "v": 5,
+     "text": "So I too, unable to stand it any longer, sent to learn how your faith was holding up. I feared that the tempter might somehow have tempted you, and that all our work would come to nothing."
+    },
+    {
+     "v": 6,
+     "text": "Timothy, however, has come back to us from you just now, bringing good news of your faith and your love. He tells us that your memories of us are always warm, and that you long to see us, as we long to see you."
+    },
+    {
+     "v": 7,
+     "text": "That is why, brothers, your faith has comforted us concerning you, in the midst of all our hardship and trouble."
+    },
+    {
+     "v": 8,
+     "text": "For now we live, if you stand firm in the Lord."
+    },
+    {
+     "v": 9,
+     "text": "What thanks can we ever give back to God for you, for all the joy with which we rejoice over you in our God’s presence?"
+    },
+    {
+     "v": 10,
+     "text": "Night and day we beg him, with the utmost urgency, to let us see your faces and make good whatever your faith still lacks."
+    },
+    {
+     "v": 11,
+     "text": "Now may our God and Father himself, and our Lord Jesus, direct our way to you."
+    },
+    {
+     "v": 12,
+     "text": "And as for you, may the Lord cause your love to grow and overflow, toward each other and toward everyone, just as ours does toward you,"
+    },
+    {
+     "v": 13,
+     "text": "so that he may strengthen your hearts to be blameless in holiness before our God and Father at the coming of our Lord Jesus with all his holy ones.{c}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Athens: see Acts 17:15–34."
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "God’s servant: so the Westcott–Hort text, with Sinaiticus and Alexandrinus as reported. Some manuscripts, reportedly including Vaticanus, read “God’s coworker”; others read “our coworker,” and many combine the two."
+    },
+    {
+     "m": "c",
+     "ref": "3:13",
+     "text": "With all his holy ones: echoing Zech 14:5, “Yahweh my God will come, and all the holy ones with him.” The holy ones may be angels or God’s people, or both. Some manuscripts add “Amen.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    9,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Finally, brothers, we ask and urge you in the Lord Jesus: as you learned from us how you ought to live and to please God (as you are doing), so do so more and more."
+    },
+    {
+     "v": 2,
+     "text": "For you know what instructions we gave you through the Lord Jesus."
+    },
+    {
+     "v": 3,
+     "text": "For this is the will of God, your sanctification:{a} that you abstain from sexual immorality;"
+    },
+    {
+     "v": 4,
+     "text": "that each of you know how to gain control over his own body{b} in holiness and honor,"
+    },
+    {
+     "v": 5,
+     "text": "not with lustful passion as the Gentiles have, who know nothing of God;"
+    },
+    {
+     "v": 6,
+     "text": "and that no one transgress against and wrong his brother in this matter, because the Lord is an avenger in all these things,{c} as we told you before and solemnly warned you."
+    },
+    {
+     "v": 7,
+     "text": "God called us not for uncleanness but to be holy."
+    },
+    {
+     "v": 8,
+     "text": "So whoever rejects this rejects not a human being but God, who gives his Holy Spirit to you.{d}"
+    },
+    {
+     "v": 9,
+     "text": "Now concerning love of the brothers, you have no need for anyone to write to you, for you yourselves are taught by God to love one another."
+    },
+    {
+     "v": 10,
+     "text": "And you are in fact doing so toward all the brothers in the whole of Macedonia. Still, brothers, we urge you to excel in it even more,"
+    },
+    {
+     "v": 11,
+     "text": "and to aim at a quiet life, attending to your own business and earning your living by the work of your own hands, just as we told you,"
+    },
+    {
+     "v": 12,
+     "text": "so that your conduct will win the respect of outsiders and you will lack nothing."
+    },
+    {
+     "v": 13,
+     "text": "Brothers, we want you to be well informed about those who are asleep in death,{e} so that you will not mourn like the rest, who have nothing to hope for."
+    },
+    {
+     "v": 14,
+     "text": "For since we believe that Jesus died and rose again, so too through Jesus God will bring with him those who have fallen asleep.{f}"
+    },
+    {
+     "v": 15,
+     "text": "For this we declare to you by a word of the Lord: we who are alive, who are left until the coming of the Lord, will by no means go ahead of those who have fallen asleep."
+    },
+    {
+     "v": 16,
+     "text": "For the Lord himself will come down from heaven with a cry of command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will rise first.{g}"
+    },
+    {
+     "v": 17,
+     "text": "Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord.{h}"
+    },
+    {
+     "v": 18,
+     "text": "So encourage one another with these words."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:3",
+     "text": "Sanctification: Greek *hagiasmos*, being made holy; also in verses 4 and 7."
+    },
+    {
+     "m": "b",
+     "ref": "4:4",
+     "text": "Gain control over his own body: literally “acquire his own vessel.” *Vessel* may mean one’s own body, or, as some interpret it, a wife (“take a wife for himself”)."
+    },
+    {
+     "m": "c",
+     "ref": "4:6",
+     "text": "The Lord is an avenger: an echo of Ps 94:1 (93:1 in the Greek Old Testament), “God of vengeance, Yahweh,” and of Deut 32:35. Here *Lord* probably refers to Jesus as judge."
+    },
+    {
+     "m": "d",
+     "ref": "4:8",
+     "text": "Gives his Holy Spirit to you: an echo of Ezek 36:27; 37:14 in the Greek Old Testament."
+    },
+    {
+     "m": "e",
+     "ref": "4:13",
+     "text": "Asleep in death: literally “sleeping,” a common euphemism for death; so also “fallen asleep” in verses 14–15."
+    },
+    {
+     "m": "f",
+     "ref": "4:14",
+     "text": "Through Jesus: these words may go with “fallen asleep” (“those who have fallen asleep through Jesus,” that is, as believers) or, as here, with “bring.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:16",
+     "text": "Trumpet: in the Old Testament the trumpet announces the coming of God and the gathering of his people (Exod 19:16; Isa 27:13; Joel 2:1; Zech 9:14)."
+    },
+    {
+     "m": "h",
+     "ref": "4:17",
+     "text": "To meet: Greek *eis apantēsin*, used of a delegation going out from a city to welcome an arriving dignitary and escort him back."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    12,
+    23,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now concerning the times and the seasons, brothers, you have no need for anything to be written to you."
+    },
+    {
+     "v": 2,
+     "text": "You know perfectly well yourselves that the day of the Lord{a} is coming the way a thief comes by night."
+    },
+    {
+     "v": 3,
+     "text": "When they are saying, “All is peaceful and secure,”{b} ruin will come on them all at once, like birth pains on a woman with child, and there will be no escape for them."
+    },
+    {
+     "v": 4,
+     "text": "You, though, brothers, are not living in the dark, so that the day should catch you unawares like a thief.{c}"
+    },
+    {
+     "v": 5,
+     "text": "Every one of you is a child of light and a child of the day.{d} We are not of the night, nor of the darkness."
+    },
+    {
+     "v": 6,
+     "text": "So then let us not sleep, as others do, but let us keep awake and be sober."
+    },
+    {
+     "v": 7,
+     "text": "Sleepers sleep by night, and drinkers get drunk by night."
+    },
+    {
+     "v": 8,
+     "text": "But since we belong to the day, let us be sober, having put on the breastplate of faith and love, and for a helmet the hope of salvation.{e}"
+    },
+    {
+     "v": 9,
+     "text": "God did not appoint us to suffer wrath; he appointed us to win salvation through our Lord Jesus Christ."
+    },
+    {
+     "v": 10,
+     "text": "He died for us so that, awake or asleep, we may live together with him."
+    },
+    {
+     "v": 11,
+     "text": "So comfort each other and strengthen each other, as indeed you already do."
+    },
+    {
+     "v": 12,
+     "text": "We ask you, brothers, to respect those who labor among you, who lead you in the Lord and admonish you,"
+    },
+    {
+     "v": 13,
+     "text": "and to esteem them very highly in love because of their work. Be at peace among yourselves."
+    },
+    {
+     "v": 14,
+     "text": "We appeal to you, brothers: warn those who are out of line,{f} cheer up the discouraged, hold on to the weak, and be patient toward everyone."
+    },
+    {
+     "v": 15,
+     "text": "See to it that no one returns harm for harm; rather, always aim at what is good, for one another and for all."
+    },
+    {
+     "v": 16,
+     "text": "Rejoice always,"
+    },
+    {
+     "v": 17,
+     "text": "pray without ceasing,"
+    },
+    {
+     "v": 18,
+     "text": "whatever happens, give thanks; this is what God wills for you in Christ Jesus."
+    },
+    {
+     "v": 19,
+     "text": "Do not quench the Spirit."
+    },
+    {
+     "v": 20,
+     "text": "Do not despise prophecies,"
+    },
+    {
+     "v": 21,
+     "text": "but test everything; hold fast what is good."
+    },
+    {
+     "v": 22,
+     "text": "Abstain from every form of evil."
+    },
+    {
+     "v": 23,
+     "text": "Now may the God of peace himself sanctify you completely, and may your spirit and soul and body be kept whole and blameless at the coming of our Lord Jesus Christ."
+    },
+    {
+     "v": 24,
+     "text": "The one calling you can be trusted, and he will do it."
+    },
+    {
+     "v": 25,
+     "text": "Brothers, pray for us also."
+    },
+    {
+     "v": 26,
+     "text": "Greet all the brothers with a holy kiss."
+    },
+    {
+     "v": 27,
+     "text": "By the Lord I charge you to have this letter read aloud to every brother and sister.{g}"
+    },
+    {
+     "v": 28,
+     "text": "The grace of our Lord Jesus Christ be with you.{h}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:2",
+     "text": "The day of the Lord: in the Old Testament, the day of Yahweh, when God comes to judge and to save (Amos 5:18–20; Joel 2:31; Zeph 1:14–18); here applied to the coming of the Lord Jesus."
+    },
+    {
+     "m": "b",
+     "ref": "5:3",
+     "text": "All is peaceful and secure: literally “peace and security,” perhaps a slogan of Roman imperial propaganda (Latin *pax et securitas*); compare also Jer 6:14."
+    },
+    {
+     "m": "c",
+     "ref": "5:4",
+     "text": "Like a thief: some manuscripts, including Alexandrinus and Vaticanus as reported, read “like thieves.”"
+    },
+    {
+     "m": "d",
+     "ref": "5:5",
+     "text": "Child: literally “son,” a Hebrew idiom for one marked by something."
+    },
+    {
+     "m": "e",
+     "ref": "5:8",
+     "text": "Compare Isa 59:17."
+    },
+    {
+     "m": "f",
+     "ref": "5:14",
+     "text": "Out of line: Greek *ataktoi*, “disorderly,” traditionally “idle,” perhaps those who had stopped working (compare 4:11; 2 Thess 3:6–12)."
+    },
+    {
+     "m": "g",
+     "ref": "5:27",
+     "text": "Every brother and sister: literally “all the brothers”; later manuscripts read “all the holy brothers.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:28",
+     "text": "Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}

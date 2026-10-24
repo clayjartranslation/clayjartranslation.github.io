@@ -1833,9 +1833,15 @@
    "id": "1-thessalonians",
    "name": "1 Thessalonians",
    "division": "New Testament",
-   "chapterCount": "5",
-   "translated": [],
-   "file": null
+   "chapterCount": 5,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "file": "data/books/1-thessalonians.json"
   },
   {
    "id": "2-thessalonians",
