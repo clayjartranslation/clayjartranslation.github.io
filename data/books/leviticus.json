@@ -1,0 +1,1586 @@
+{
+ "id": "leviticus",
+ "name": "Leviticus",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Samaritan Pentateuch, the Septuagint, and the Dead Sea Scrolls of Leviticus. Septuagint readings cited in the footnotes were checked against Brenton’s public-domain English translation of the Septuagint. Dead Sea Scroll readings named in the footnotes (4QLev-d at 17:4, 11QpaleoLev-a at 15:3, and the Greek papyrus pap4QLXXLev-b) were checked against published descriptions of the scrolls; other readings of the Samaritan Pentateuch, the scrolls, and other ancient versions are stated in general terms until they can be checked against the critical editions. Verse numbers follow the standard English Bible; where the Hebrew numbering differs (6:1–30, numbered 5:20–6:23 in Hebrew), a footnote says so. Measurements are given in modern US units, and calendar dates with their modern-month equivalents, with the originals and metric figures in the footnotes.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    10,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh{a} called{b} to Moses{c} and spoke to him from the tent of meeting,{d} saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak to the Israelites and say to them: When any of you brings an offering{e} to Yahweh, you are to bring your offering from the livestock, from the herd or from the flock."
+    },
+    {
+     "v": 3,
+     "text": "“If his offering is a burnt offering{f} from the herd, he is to offer a male without defect. He is to offer it at the entrance of the tent of meeting, so that he may be accepted{g} before Yahweh."
+    },
+    {
+     "v": 4,
+     "text": "He is to lay{h} his hand on the head of the burnt offering, and it will be accepted for him, to make atonement{i} for him."
+    },
+    {
+     "v": 5,
+     "text": "He is to slaughter the bull before Yahweh, and Aaron’s sons the priests are to present the blood and splash{j} the blood all around against the altar that is at the entrance of the tent of meeting."
+    },
+    {
+     "v": 6,
+     "text": "He is to skin the burnt offering and cut it into its pieces."
+    },
+    {
+     "v": 7,
+     "text": "The sons of Aaron the priest are to put fire on the altar and lay out wood on the fire."
+    },
+    {
+     "v": 8,
+     "text": "Aaron’s sons the priests are to arrange the pieces, the head, and the suet{k} on the wood that is on the fire on the altar."
+    },
+    {
+     "v": 9,
+     "text": "Its entrails and its legs he is to wash with water. Then the priest is to burn{l} all of it on the altar as a burnt offering, an offering by fire,{m} a pleasing aroma{n} to Yahweh."
+    },
+    {
+     "v": 10,
+     "text": "“If his offering for a burnt offering is from the flock, from the sheep or from the goats, he is to offer a male without defect."
+    },
+    {
+     "v": 11,
+     "text": "He is to slaughter it on the north side of the altar before Yahweh, and Aaron’s sons the priests are to splash its blood all around against the altar."
+    },
+    {
+     "v": 12,
+     "text": "He is to cut it into its pieces, with its head and its suet, and the priest is to arrange them on the wood that is on the fire on the altar."
+    },
+    {
+     "v": 13,
+     "text": "The entrails and the legs he is to wash with water. Then the priest is to offer all of it and burn it on the altar. It is a burnt offering, an offering by fire, a pleasing aroma to Yahweh."
+    },
+    {
+     "v": 14,
+     "text": "“If his offering to Yahweh is a burnt offering of birds, he is to bring his offering from the turtledoves or from the young pigeons."
+    },
+    {
+     "v": 15,
+     "text": "The priest is to bring it to the altar, wring off its head, and burn it on the altar. Its blood is to be drained out against the side of the altar."
+    },
+    {
+     "v": 16,
+     "text": "He is to remove its crop with its contents{o} and throw it beside the altar on the east side, in the place for the ashes.{p}"
+    },
+    {
+     "v": 17,
+     "text": "He is to tear it open by its wings without dividing it completely. Then the priest is to burn it on the altar, on the wood that is on the fire. It is a burnt offering, an offering by fire, a pleasing aroma to Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Hebrew YHWH, the personal name of God, written with four consonants and traditionally read aloud as Adonai, “Lord.” This translation writes it as Yahweh throughout; on its meaning, see the note at Exodus 3:15."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Hebrew wayyiqra, “and he called,” the first word of the book and its Hebrew title. In the Masoretic Text the final letter aleph of this word is written small, a scribal tradition with no agreed explanation. The English title Leviticus comes from the Septuagint and Vulgate, “the book of the Levites,” though the book mostly concerns the priests."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Moses is probably an Egyptian name meaning “son” or “born,” explained in Hebrew as “drawn out” (Exodus 2:10)."
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "Hebrew ’ohel mo‘ed, the tent where Yahweh met with Moses and Israel (Exodus 25:22; 29:42–43; 40:34–35)."
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Hebrew qorban, from qarav, “to come near” or “bring near”: something brought near to God."
+    },
+    {
+     "m": "f",
+     "ref": "1:3",
+     "text": "Hebrew ‘olah, literally “that which goes up,” because the whole animal went up in smoke. The Septuagint calls it holokautoma, “wholly burned,” the source of the English word “holocaust.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:3",
+     "text": "Or “so that it may be accepted for him”; the Hebrew lirtsono can refer to either the offering or the worshiper."
+    },
+    {
+     "m": "h",
+     "ref": "1:4",
+     "text": "Hebrew samakh, “lean” or “press.” Whether this hand-leaning marked ownership, identification with the animal, or the transfer of sin (as in 16:21) is debated."
+    },
+    {
+     "m": "i",
+     "ref": "1:4",
+     "text": "Hebrew kipper. Its basic sense is debated: “to cover,” “to wipe away” or “purge,” or “to ransom” (compare the related noun kopher, “ransom,” in Exodus 30:12). The burnt offering atones in a general sense, before the specific sin and guilt offerings are introduced in chapters 4–5."
+    },
+    {
+     "m": "j",
+     "ref": "1:5",
+     "text": "Hebrew zaraq, to throw or dash liquid from a bowl, not to sprinkle with the finger (compare 4:6)."
+    },
+    {
+     "m": "k",
+     "ref": "1:8",
+     "text": "Hebrew peder, a word found only in Leviticus 1:8, 12, and 8:20. It is probably the fat around the organs, though some take it to be the head’s fat or the cut-up pieces."
+    },
+    {
+     "m": "l",
+     "ref": "1:9",
+     "text": "Hebrew hiqtir, literally “turn into smoke.” It is a different verb from saraph, used of burning things outside the camp (4:12)."
+    },
+    {
+     "m": "m",
+     "ref": "1:9",
+     "text": "Hebrew ’ishsheh, traditionally connected with ’esh, “fire.” Some scholars relate it to a word for “gift” and translate “food gift” or “food offering” (compare “the food of God” in 21:6)."
+    },
+    {
+     "m": "n",
+     "ref": "1:9",
+     "text": "Literally “an aroma of soothing” (reach nichoach), a phrase that speaks of God’s acceptance of the offering, first used in Genesis 8:21."
+    },
+    {
+     "m": "o",
+     "ref": "1:16",
+     "text": "Or “with its feathers”; the Hebrew notsah is uncertain. The Septuagint reads “with its feathers.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:16",
+     "text": "Literally “the place of the fat ashes,” fat-soaked ashes removed from the altar (see 6:10–11)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    4,
+    11,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“When anyone{a} brings a grain offering{b} as an offering to Yahweh, his offering is to be of fine flour.{c} He is to pour oil on it and put frankincense{d} on it."
+    },
+    {
+     "v": 2,
+     "text": "He is to bring it to Aaron’s sons the priests, and the priest is to take from it a handful of its fine flour and its oil, with all its frankincense, and burn this as its memorial portion{e} on the altar, an offering by fire, a pleasing aroma to Yahweh."
+    },
+    {
+     "v": 3,
+     "text": "What is left of the grain offering belongs to Aaron and his sons. It is a most holy part of Yahweh’s offerings by fire."
+    },
+    {
+     "v": 4,
+     "text": "“When you bring as an offering a grain offering baked in an oven,{f} it is to be unleavened loaves of fine flour mixed with oil, or unleavened wafers spread with oil."
+    },
+    {
+     "v": 5,
+     "text": "If your offering is a grain offering made on a griddle, it is to be of fine flour mixed with oil, unleavened."
+    },
+    {
+     "v": 6,
+     "text": "You are to break it in pieces and pour oil on it. It is a grain offering."
+    },
+    {
+     "v": 7,
+     "text": "If your offering is a grain offering cooked in a pan,{g} it is to be made of fine flour with oil."
+    },
+    {
+     "v": 8,
+     "text": "You are to bring to Yahweh the grain offering that is made of these things. It is to be presented to the priest, and he is to bring it to the altar."
+    },
+    {
+     "v": 9,
+     "text": "The priest is to lift out from the grain offering its memorial portion and burn it on the altar, an offering by fire, a pleasing aroma to Yahweh."
+    },
+    {
+     "v": 10,
+     "text": "What is left of the grain offering belongs to Aaron and his sons. It is a most holy part of Yahweh’s offerings by fire."
+    },
+    {
+     "v": 11,
+     "text": "“No grain offering that you bring to Yahweh is to be made with leaven, for you must not burn any leaven or any honey{h} as an offering by fire to Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "As an offering of firstfruits{i} you may bring them to Yahweh, but they are not to go up on the altar as a pleasing aroma."
+    },
+    {
+     "v": 13,
+     "text": "You are to season every grain offering of yours with salt. You must not leave out from your grain offering the salt of the covenant{j} of your God. With all your offerings you are to offer salt."
+    },
+    {
+     "v": 14,
+     "text": "“If you bring a grain offering of firstfruits to Yahweh, you are to bring as the grain offering of your firstfruits fresh ears roasted in the fire, crushed grain from new ears.{k}"
+    },
+    {
+     "v": 15,
+     "text": "You are to put oil on it and lay frankincense on it. It is a grain offering."
+    },
+    {
+     "v": 16,
+     "text": "The priest is to burn its memorial portion, some of its crushed grain and some of its oil, with all its frankincense, as an offering by fire to Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Hebrew nephesh, “a soul,” “a person,” here meaning anyone at all."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "Hebrew minchah, which elsewhere means a “gift” or “tribute” of any kind (Genesis 4:3–5; 32:13). In the priestly laws it is the offering of grain, and that is how it is translated here."
+    },
+    {
+     "m": "c",
+     "ref": "2:1",
+     "text": "Hebrew solet, probably semolina, the finest grade of wheat flour."
+    },
+    {
+     "m": "d",
+     "ref": "2:1",
+     "text": "An aromatic resin from trees of southern Arabia and East Africa (genus Boswellia)."
+    },
+    {
+     "m": "e",
+     "ref": "2:2",
+     "text": "Hebrew ’azkarah, probably “reminder,” the part that “calls to remembrance” the worshiper before God; others render “token portion.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:4",
+     "text": "Hebrew tannur, a clay oven heated from inside, with dough baked on its walls."
+    },
+    {
+     "m": "g",
+     "ref": "2:7",
+     "text": "Hebrew marchesheth, probably a deep pan, as opposed to the flat griddle (machavath) of verse 5."
+    },
+    {
+     "m": "h",
+     "ref": "2:11",
+     "text": "Hebrew devash, which may include fruit syrup (especially from dates) as well as bees’ honey. Both leaven and honey ferment."
+    },
+    {
+     "m": "i",
+     "ref": "2:12",
+     "text": "Hebrew re’shit, the first and best part of the harvest (compare 23:10, 17)."
+    },
+    {
+     "m": "j",
+     "ref": "2:13",
+     "text": "A covenant meant to last, since salt preserves (Numbers 18:19; 2 Chronicles 13:5). Eating salt together was a sign of a binding agreement in the ancient Near East."
+    },
+    {
+     "m": "k",
+     "ref": "2:14",
+     "text": "Hebrew karmel, probably fresh, full ears of new grain. The exact process described is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    6,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“If someone’s offering is a sacrifice of peace offerings,{a} and he offers it from the herd, whether male or female, he is to offer it without defect before Yahweh."
+    },
+    {
+     "v": 2,
+     "text": "He is to lay his hand on the head of his offering and slaughter it at the entrance of the tent of meeting, and Aaron’s sons the priests are to splash the blood all around against the altar."
+    },
+    {
+     "v": 3,
+     "text": "From the sacrifice of peace offerings he is to present an offering by fire to Yahweh: the fat that covers the entrails and all the fat that is on the entrails,"
+    },
+    {
+     "v": 4,
+     "text": "the two kidneys with the fat that is on them at the loins, and the lobe{b} on the liver, which he is to remove with the kidneys."
+    },
+    {
+     "v": 5,
+     "text": "Aaron’s sons are to burn it on the altar on top of the burnt offering that is on the wood on the fire. It is an offering by fire, a pleasing aroma to Yahweh."
+    },
+    {
+     "v": 6,
+     "text": "“If his offering for a sacrifice of peace offerings to Yahweh is from the flock, male or female, he is to offer it without defect."
+    },
+    {
+     "v": 7,
+     "text": "If he offers a lamb for his offering, he is to present it before Yahweh."
+    },
+    {
+     "v": 8,
+     "text": "He is to lay his hand on the head of his offering and slaughter it in front of the tent of meeting, and Aaron’s sons are to splash its blood all around against the altar."
+    },
+    {
+     "v": 9,
+     "text": "From the sacrifice of peace offerings he is to present as an offering by fire to Yahweh its fat: the whole fat tail,{c} which he is to remove close to the backbone, the fat that covers the entrails and all the fat that is on the entrails,"
+    },
+    {
+     "v": 10,
+     "text": "the two kidneys with the fat that is on them at the loins, and the lobe on the liver, which he is to remove with the kidneys."
+    },
+    {
+     "v": 11,
+     "text": "The priest is to burn it on the altar as food,{d} an offering by fire to Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "“If his offering is a goat, he is to present it before Yahweh.{e}"
+    },
+    {
+     "v": 13,
+     "text": "He is to lay his hand on its head and slaughter it in front of the tent of meeting, and the sons of Aaron are to splash its blood all around against the altar."
+    },
+    {
+     "v": 14,
+     "text": "From it he is to present his offering as an offering by fire to Yahweh: the fat that covers the entrails and all the fat that is on the entrails,"
+    },
+    {
+     "v": 15,
+     "text": "the two kidneys with the fat that is on them at the loins, and the lobe on the liver, which he is to remove with the kidneys."
+    },
+    {
+     "v": 16,
+     "text": "The priest is to burn them on the altar as food, an offering by fire for a pleasing aroma. All fat belongs to Yahweh."
+    },
+    {
+     "v": 17,
+     "text": "It is a statute forever throughout your generations, in all your dwellings: you must not eat any fat or any blood.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Hebrew zevach shelamim. The word shelamim is related to shalom, “peace, wholeness, well-being,” and the offering is also translated “fellowship offering” or “offering of well-being.” Its meat was shared by God (the fat), the priest, and the worshiper (7:11–36)."
+    },
+    {
+     "m": "b",
+     "ref": "3:4",
+     "text": "Hebrew yothereth, “appendage” or “lobe,” probably the caudate lobe of the liver."
+    },
+    {
+     "m": "c",
+     "ref": "3:9",
+     "text": "The broad, fatty tail of the Middle Eastern fat-tailed sheep, which can weigh many pounds."
+    },
+    {
+     "m": "d",
+     "ref": "3:11",
+     "text": "Literally “the food of the offering by fire.” Hebrew lechem, “bread” or “food.” The phrase is an old expression for the offering; the Bible itself denies that God needs food (Psalm 50:12–13). The Septuagint reads “a sweet-smelling offering.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:12",
+     "text": "A Greek papyrus of Leviticus from Qumran (pap4QLXXLev-b) writes God’s name in this chapter and the next as Iao, a Greek form of the name Yahweh, rather than kyrios, “Lord.” It is one of the earliest pieces of evidence that the name was pronounced."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    3,
+    13,
+    22,
+    27,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak to the Israelites, saying: When anyone sins unintentionally{a} in any of Yahweh’s commandments about things that are not to be done, and does any one of them:"
+    },
+    {
+     "v": 3,
+     "text": "“If it is the anointed priest{b} who sins, bringing guilt on the people, he is to offer to Yahweh for the sin that he has committed a young bull without defect as a sin offering.{c}"
+    },
+    {
+     "v": 4,
+     "text": "He is to bring the bull to the entrance of the tent of meeting before Yahweh, lay his hand on the bull’s head, and slaughter the bull before Yahweh."
+    },
+    {
+     "v": 5,
+     "text": "Then the anointed priest is to take some of the bull’s blood and bring it into the tent of meeting."
+    },
+    {
+     "v": 6,
+     "text": "The priest is to dip his finger in the blood and sprinkle some of the blood seven times before Yahweh, in front of the veil of the sanctuary."
+    },
+    {
+     "v": 7,
+     "text": "The priest is to put some of the blood on the horns of the altar of fragrant incense before Yahweh, which is in the tent of meeting, and all the rest of the bull’s blood he is to pour out at the base of the altar of burnt offering, which is at the entrance of the tent of meeting."
+    },
+    {
+     "v": 8,
+     "text": "All the fat of the bull of the sin offering he is to remove from it: the fat that covers the entrails and all the fat that is on the entrails,"
+    },
+    {
+     "v": 9,
+     "text": "the two kidneys with the fat that is on them at the loins, and the lobe on the liver, which he is to remove with the kidneys,"
+    },
+    {
+     "v": 10,
+     "text": "just as these are removed from the ox of the sacrifice of peace offerings. The priest is to burn them on the altar of burnt offering."
+    },
+    {
+     "v": 11,
+     "text": "But the hide of the bull and all its flesh, with its head, its legs, its entrails, and its dung,"
+    },
+    {
+     "v": 12,
+     "text": "all the rest of the bull, he is to carry outside the camp to a clean place, to the ash heap, and burn it on wood with fire. It is to be burned on the ash heap."
+    },
+    {
+     "v": 13,
+     "text": "“If the whole congregation of Israel errs unintentionally, and the matter is hidden from the eyes of the assembly, and they do any one of the things that Yahweh has commanded not to be done, and they become guilty,{d}"
+    },
+    {
+     "v": 14,
+     "text": "when the sin that they have committed becomes known, the assembly is to offer a young bull as a sin offering and bring it in front of the tent of meeting."
+    },
+    {
+     "v": 15,
+     "text": "The elders of the congregation are to lay their hands on the head of the bull before Yahweh, and the bull is to be slaughtered before Yahweh."
+    },
+    {
+     "v": 16,
+     "text": "Then the anointed priest is to bring some of the bull’s blood into the tent of meeting."
+    },
+    {
+     "v": 17,
+     "text": "The priest is to dip his finger in the blood and sprinkle it seven times before Yahweh, in front of the veil."
+    },
+    {
+     "v": 18,
+     "text": "He is to put some of the blood on the horns of the altar that is before Yahweh in the tent of meeting, and all the rest of the blood he is to pour out at the base of the altar of burnt offering, which is at the entrance of the tent of meeting."
+    },
+    {
+     "v": 19,
+     "text": "All its fat he is to remove from it and burn on the altar."
+    },
+    {
+     "v": 20,
+     "text": "He is to do with the bull just as he did with the bull of the sin offering; so he is to do with this one. The priest is to make atonement for them, and they will be forgiven."
+    },
+    {
+     "v": 21,
+     "text": "He is to carry the bull outside the camp and burn it as he burned the first bull. It is the sin offering for the assembly."
+    },
+    {
+     "v": 22,
+     "text": "“When a leader{e} sins and unintentionally does any one of all the things that Yahweh his God has commanded not to be done, and becomes guilty,"
+    },
+    {
+     "v": 23,
+     "text": "or his sin that he has committed is made known to him, he is to bring as his offering a male goat without defect."
+    },
+    {
+     "v": 24,
+     "text": "He is to lay his hand on the head of the goat and slaughter it in the place where the burnt offering is slaughtered before Yahweh. It is a sin offering."
+    },
+    {
+     "v": 25,
+     "text": "The priest is to take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and pour out the rest of its blood at the base of the altar of burnt offering."
+    },
+    {
+     "v": 26,
+     "text": "All its fat he is to burn on the altar, like the fat of the sacrifice of peace offerings. So the priest is to make atonement for him for his sin, and he will be forgiven."
+    },
+    {
+     "v": 27,
+     "text": "“If any one of the people of the land{f} sins unintentionally by doing any one of the things that Yahweh has commanded not to be done, and becomes guilty,"
+    },
+    {
+     "v": 28,
+     "text": "or his sin that he has committed is made known to him, he is to bring as his offering a female goat without defect for the sin that he has committed."
+    },
+    {
+     "v": 29,
+     "text": "He is to lay his hand on the head of the sin offering and slaughter the sin offering in the place of the burnt offering."
+    },
+    {
+     "v": 30,
+     "text": "The priest is to take some of its blood with his finger and put it on the horns of the altar of burnt offering, and all the rest of its blood he is to pour out at the base of the altar."
+    },
+    {
+     "v": 31,
+     "text": "All its fat he is to remove, just as the fat is removed from the sacrifice of peace offerings, and the priest is to burn it on the altar for a pleasing aroma to Yahweh. So the priest is to make atonement for him, and he will be forgiven."
+    },
+    {
+     "v": 32,
+     "text": "“If he brings a lamb as his offering for a sin offering, he is to bring a female without defect."
+    },
+    {
+     "v": 33,
+     "text": "He is to lay his hand on the head of the sin offering and slaughter it as a sin offering in the place where the burnt offering is slaughtered."
+    },
+    {
+     "v": 34,
+     "text": "The priest is to take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and all the rest of its blood he is to pour out at the base of the altar."
+    },
+    {
+     "v": 35,
+     "text": "All its fat he is to remove, just as the fat of the lamb is removed from the sacrifice of peace offerings, and the priest is to burn it on the altar on top of Yahweh’s offerings by fire. So the priest is to make atonement for him for the sin that he has committed, and he will be forgiven."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:2",
+     "text": "Hebrew bishgagah, “in error” or “inadvertently,” whether through ignorance of the law or by accident. Deliberate, defiant sin (“with a high hand,” Numbers 15:30) is not covered by these offerings."
+    },
+    {
+     "m": "b",
+     "ref": "4:3",
+     "text": "The high priest (compare 8:12; 21:10)."
+    },
+    {
+     "m": "c",
+     "ref": "4:3",
+     "text": "Hebrew chatta’t, the same word as “sin.” Many scholars, following Jacob Milgrom, translate it “purification offering,” because its blood purges the sanctuary and its objects of the defilement caused by sin and impurity, and because it is also required where no moral wrong was done (12:6–8; 15:15). The traditional “sin offering” is kept here, but the offering’s main work is purification."
+    },
+    {
+     "m": "d",
+     "ref": "4:13",
+     "text": "Hebrew ’asham, which can mean “be guilty,” “incur guilt,” or “feel guilt,” that is, realize one’s guilt. The same question arises in verses 22 and 27 and in 5:2–5, 17."
+    },
+    {
+     "m": "e",
+     "ref": "4:22",
+     "text": "Hebrew nasi’, a tribal chief (Numbers 1:16; 7:2)."
+    },
+    {
+     "m": "f",
+     "ref": "4:27",
+     "text": "Hebrew ‘am ha’arets, here the ordinary members of the community as distinct from priests and leaders."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    7,
+    11,
+    14,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“If anyone sins in that he hears a public call to testify,{a} and he is a witness, whether he has seen or come to know the matter, and he does not tell it, he will bear his iniquity."
+    },
+    {
+     "v": 2,
+     "text": "Or if anyone touches any unclean thing, whether the carcass of an unclean wild animal, or the carcass of unclean livestock, or the carcass of an unclean swarming creature,{b} and it is hidden from him, and he has become unclean, then he is guilty."
+    },
+    {
+     "v": 3,
+     "text": "Or if he touches human uncleanness, any uncleanness of any kind by which one becomes unclean, and it is hidden from him, when he comes to know it, then he is guilty."
+    },
+    {
+     "v": 4,
+     "text": "Or if anyone rashly swears an oath with his lips to do evil or to do good, in any matter that a person may speak rashly with an oath, and it is hidden from him, when he comes to know it, then he is guilty in one of these."
+    },
+    {
+     "v": 5,
+     "text": "When he becomes guilty in one of these, he is to confess the way in which he has sinned."
+    },
+    {
+     "v": 6,
+     "text": "He is to bring to Yahweh as his penalty{c} for the sin that he has committed a female from the flock, a lamb or a goat, as a sin offering. The priest is to make atonement for him for his sin."
+    },
+    {
+     "v": 7,
+     "text": "“But if he cannot afford a lamb,{d} he is to bring to Yahweh as his penalty for the sin he has committed two turtledoves or two young pigeons, one for a sin offering and the other for a burnt offering."
+    },
+    {
+     "v": 8,
+     "text": "He is to bring them to the priest, who is to offer first the one for the sin offering. He is to wring its head at the front of its neck, but not sever it completely."
+    },
+    {
+     "v": 9,
+     "text": "He is to sprinkle some of the blood of the sin offering on the side of the altar, and the rest of the blood is to be drained out at the base of the altar. It is a sin offering."
+    },
+    {
+     "v": 10,
+     "text": "The second he is to offer as a burnt offering according to the regulation. So the priest is to make atonement for him for the sin he has committed, and he will be forgiven."
+    },
+    {
+     "v": 11,
+     "text": "“But if he cannot afford two turtledoves or two young pigeons, then he is to bring as his offering for the sin he has committed about 2 quarts{e} of fine flour as a sin offering. He is not to put oil on it or put frankincense on it, for it is a sin offering."
+    },
+    {
+     "v": 12,
+     "text": "He is to bring it to the priest, and the priest is to take a handful of it as its memorial portion and burn it on the altar on top of Yahweh’s offerings by fire. It is a sin offering."
+    },
+    {
+     "v": 13,
+     "text": "So the priest is to make atonement for him for the sin that he has committed in any one of these things, and he will be forgiven. The rest will belong to the priest, as with the grain offering.”"
+    },
+    {
+     "v": 14,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 15,
+     "text": "“If anyone commits a breach of faith{f} and sins unintentionally against any of Yahweh’s holy things, he is to bring to Yahweh as his penalty a ram without defect from the flock, valued in silver{g} by the sanctuary standard,{h} as a guilt offering.{i}"
+    },
+    {
+     "v": 16,
+     "text": "He is to make restitution for what he has sinned against the holy thing, and add a fifth to it, and give it to the priest. The priest is to make atonement for him with the ram of the guilt offering, and he will be forgiven."
+    },
+    {
+     "v": 17,
+     "text": "“If anyone sins and does any one of all the things that Yahweh has commanded not to be done, though he does not know it, he is guilty and will bear his iniquity."
+    },
+    {
+     "v": 18,
+     "text": "He is to bring to the priest a ram without defect from the flock, at your valuation, as a guilt offering. The priest is to make atonement for him for the error that he committed unintentionally without knowing it, and he will be forgiven."
+    },
+    {
+     "v": 19,
+     "text": "It is a guilt offering; he is indeed guilty before Yahweh.”{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Literally “hears the voice of an oath (’alah),” a public curse or summons laid on anyone who knows something about a crime and keeps silent (compare Judges 17:2; Proverbs 29:24)."
+    },
+    {
+     "m": "b",
+     "ref": "5:2",
+     "text": "Hebrew sherets, small creatures that swarm on land or in water (11:10, 20, 29)."
+    },
+    {
+     "m": "c",
+     "ref": "5:6",
+     "text": "Hebrew ’asham, here the penalty or reparation owed, the same word used for the “guilt offering” in verses 14–19. The Septuagint reads “for his trespass.”"
+    },
+    {
+     "m": "d",
+     "ref": "5:7",
+     "text": "Literally “if his hand cannot reach the sufficiency of a lamb.” This sliding scale for the poor appears again in 12:8 and 14:21–32."
+    },
+    {
+     "m": "e",
+     "ref": "5:11",
+     "text": "Hebrew “a tenth of an ephah,” about 2.2 liters. Ancient standards varied."
+    },
+    {
+     "m": "f",
+     "ref": "5:15",
+     "text": "Hebrew ma‘al, the misuse of something holy that belongs to God, a breach of trust against him."
+    },
+    {
+     "m": "g",
+     "ref": "5:15",
+     "text": "Hebrew “in silver shekels.” No number is given; the Hebrew plural may imply a minimum of two shekels (about 0.8 ounce or 23 grams), as many interpreters hold, or it may simply mean “its value in silver.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:15",
+     "text": "Hebrew “by the shekel of the sanctuary,” a standard shekel of 20 gerahs (27:25; Exodus 30:13), about 0.4 ounce (11.5 grams). Ancient standards varied."
+    },
+    {
+     "m": "i",
+     "ref": "5:15",
+     "text": "Hebrew ’asham, also translated “reparation offering,” since it goes with restitution for a wrong done against God’s holy things or against a neighbor (6:1–7)."
+    },
+    {
+     "m": "j",
+     "ref": "5:19",
+     "text": "Or “he has indeed made himself guilty before Yahweh.” The Septuagint reads “for he has indeed trespassed before the Lord.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    8,
+    14,
+    19,
+    24
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,{a}"
+    },
+    {
+     "v": 2,
+     "text": "“If anyone sins and commits a breach of faith against Yahweh by deceiving his neighbor about a deposit or a pledge, or by robbery, or if he has defrauded his neighbor,"
+    },
+    {
+     "v": 3,
+     "text": "or has found something lost and lied about it, swearing falsely, in any one of all the things that people do and sin by them,"
+    },
+    {
+     "v": 4,
+     "text": "then, when he has sinned and is guilty, he is to return what he took by robbery or what he gained by fraud, or the deposit that was entrusted to him, or the lost thing that he found,"
+    },
+    {
+     "v": 5,
+     "text": "or anything about which he swore falsely. He is to repay it in full and add a fifth to it. He is to give it to the one to whom it belongs on the day he becomes aware of his guilt.{b}"
+    },
+    {
+     "v": 6,
+     "text": "Then he is to bring to Yahweh as his guilt offering a ram without defect from the flock, at your valuation, as a guilt offering to the priest."
+    },
+    {
+     "v": 7,
+     "text": "The priest is to make atonement for him before Yahweh, and he will be forgiven for any one of all the things that he may do and become guilty by it.”"
+    },
+    {
+     "v": 8,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 9,
+     "text": "“Command Aaron and his sons, saying, This is the law{c} of the burnt offering. The burnt offering is to stay on its hearth{d} on the altar all night until the morning, and the fire of the altar is to be kept burning on it."
+    },
+    {
+     "v": 10,
+     "text": "The priest is to put on his linen garment, with linen undergarments on his body, and he is to take up the fat ashes to which the fire has consumed the burnt offering on the altar, and put them beside the altar."
+    },
+    {
+     "v": 11,
+     "text": "Then he is to take off his garments and put on other garments, and carry the fat ashes outside the camp to a clean place."
+    },
+    {
+     "v": 12,
+     "text": "The fire on the altar is to be kept burning on it; it must not go out. The priest is to burn wood on it every morning, arrange the burnt offering on it, and burn on it the fat of the peace offerings."
+    },
+    {
+     "v": 13,
+     "text": "Fire is to be kept burning on the altar continually; it must not go out."
+    },
+    {
+     "v": 14,
+     "text": "“This is the law of the grain offering. The sons of Aaron are to offer it before Yahweh in front of the altar."
+    },
+    {
+     "v": 15,
+     "text": "One of them is to take from it a handful of the fine flour of the grain offering and of its oil, with all the frankincense that is on the grain offering, and burn its memorial portion on the altar as a pleasing aroma to Yahweh."
+    },
+    {
+     "v": 16,
+     "text": "What is left of it Aaron and his sons are to eat. It is to be eaten unleavened in a holy place; in the court of the tent of meeting they are to eat it."
+    },
+    {
+     "v": 17,
+     "text": "It must not be baked with leaven. I have given it as their portion from my offerings by fire. It is most holy, like the sin offering and the guilt offering."
+    },
+    {
+     "v": 18,
+     "text": "Every male among the children of Aaron may eat it, as their portion forever throughout your generations from Yahweh’s offerings by fire. Whatever touches them will become holy.”{e}"
+    },
+    {
+     "v": 19,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 20,
+     "text": "“This is the offering that Aaron and his sons are to offer to Yahweh on the day when he is anointed:{f} about 2 quarts{g} of fine flour as a regular grain offering, half of it in the morning and half of it in the evening."
+    },
+    {
+     "v": 21,
+     "text": "It is to be made with oil on a griddle. You are to bring it well mixed, and offer the grain offering in broken pieces{h} as a pleasing aroma to Yahweh."
+    },
+    {
+     "v": 22,
+     "text": "The priest from among Aaron’s sons who is anointed in his place is to offer it. It is Yahweh’s portion forever; it is to be burned entirely."
+    },
+    {
+     "v": 23,
+     "text": "Every grain offering of a priest is to be burned entirely. It must not be eaten.”"
+    },
+    {
+     "v": 24,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 25,
+     "text": "“Speak to Aaron and to his sons, saying, This is the law of the sin offering. In the place where the burnt offering is slaughtered, the sin offering is to be slaughtered before Yahweh. It is most holy."
+    },
+    {
+     "v": 26,
+     "text": "The priest who offers it for sin is to eat it. It is to be eaten in a holy place, in the court of the tent of meeting."
+    },
+    {
+     "v": 27,
+     "text": "Whatever touches its flesh will become holy. When any of its blood is splashed on a garment, you are to wash the part on which it was splashed in a holy place."
+    },
+    {
+     "v": 28,
+     "text": "The clay pot in which it is boiled is to be broken. If it is boiled in a bronze pot, that pot is to be scoured and rinsed in water."
+    },
+    {
+     "v": 29,
+     "text": "Every male among the priests may eat it. It is most holy."
+    },
+    {
+     "v": 30,
+     "text": "But no sin offering from which any blood is brought into the tent of meeting to make atonement in the Holy Place may be eaten. It is to be burned with fire."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "In the Hebrew Bible, 6:1–7 is numbered 5:20–26, and 6:8–30 is numbered 6:1–23. This translation follows the standard English numbering."
+    },
+    {
+     "m": "b",
+     "ref": "6:5",
+     "text": "Or “on the day of his guilt offering.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:9",
+     "text": "Hebrew torah, “instruction” or “regulation,” here a ritual procedure. The same formula introduces each section in 6:8–7:38."
+    },
+    {
+     "m": "d",
+     "ref": "6:9",
+     "text": "Hebrew moqedah, “burning place,” found only here."
+    },
+    {
+     "m": "e",
+     "ref": "6:18",
+     "text": "Or “Anyone who touches them must be holy,” that is, only priests in a state of holiness may touch them. The meaning of this phrase, here and in verse 27 (compare Exodus 29:37), is debated: whether holiness passes to what touches the offering, or whether only those already holy may touch it."
+    },
+    {
+     "m": "f",
+     "ref": "6:20",
+     "text": "Or “from the day when he is anointed,” an offering made each day from then on (compare “regular” in this verse). The Septuagint reads “on the day when you anoint him.”"
+    },
+    {
+     "m": "g",
+     "ref": "6:20",
+     "text": "Hebrew “a tenth of an ephah,” about 2.2 liters. Ancient standards varied."
+    },
+    {
+     "m": "h",
+     "ref": "6:21",
+     "text": "Hebrew tuphine, a word found only here; its meaning is uncertain. It may mean “baked pieces” or “broken pieces.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    11,
+    19,
+    22,
+    28,
+    37
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“This is the law of the guilt offering. It is most holy."
+    },
+    {
+     "v": 2,
+     "text": "In the place where they slaughter the burnt offering they are to slaughter the guilt offering, and its blood is to be splashed all around against the altar."
+    },
+    {
+     "v": 3,
+     "text": "All its fat is to be offered: the fat tail, the fat that covers the entrails,"
+    },
+    {
+     "v": 4,
+     "text": "the two kidneys with the fat that is on them at the loins, and the lobe on the liver, which is to be removed with the kidneys."
+    },
+    {
+     "v": 5,
+     "text": "The priest is to burn them on the altar as an offering by fire to Yahweh. It is a guilt offering."
+    },
+    {
+     "v": 6,
+     "text": "Every male among the priests may eat it. It is to be eaten in a holy place. It is most holy."
+    },
+    {
+     "v": 7,
+     "text": "The guilt offering is like the sin offering; there is one law for them. It belongs to the priest who makes atonement with it."
+    },
+    {
+     "v": 8,
+     "text": "The priest who offers anyone’s burnt offering is to have for himself the hide of the burnt offering that he has offered."
+    },
+    {
+     "v": 9,
+     "text": "Every grain offering that is baked in the oven, and everything that is prepared in a pan or on a griddle, belongs to the priest who offers it."
+    },
+    {
+     "v": 10,
+     "text": "Every grain offering, mixed with oil or dry, belongs to all the sons of Aaron, to one as much as to another."
+    },
+    {
+     "v": 11,
+     "text": "“This is the law of the sacrifice of peace offerings that one may offer to Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "If he offers it for thanksgiving,{a} then along with the sacrifice of thanksgiving he is to offer unleavened loaves mixed with oil, unleavened wafers spread with oil, and loaves of fine flour well mixed with oil."
+    },
+    {
+     "v": 13,
+     "text": "With loaves of leavened bread he is to present his offering, along with his sacrifice of peace offerings for thanksgiving."
+    },
+    {
+     "v": 14,
+     "text": "From it he is to offer one of each kind of offering as a contribution{b} to Yahweh. It belongs to the priest who splashes the blood of the peace offerings."
+    },
+    {
+     "v": 15,
+     "text": "The flesh of his sacrifice of peace offerings for thanksgiving is to be eaten on the day of his offering. He must not leave any of it until morning."
+    },
+    {
+     "v": 16,
+     "text": "But if the sacrifice of his offering is a vow or a freewill offering, it is to be eaten on the day that he offers his sacrifice, and on the next day what is left of it may be eaten."
+    },
+    {
+     "v": 17,
+     "text": "What is left of the flesh of the sacrifice on the third day is to be burned with fire."
+    },
+    {
+     "v": 18,
+     "text": "If any of the flesh of his sacrifice of peace offerings is eaten on the third day, it will not be accepted. It will not be credited to the one who offers it. It is a foul thing,{c} and the person who eats of it will bear his iniquity."
+    },
+    {
+     "v": 19,
+     "text": "“Flesh that touches anything unclean must not be eaten; it is to be burned with fire. As for other flesh, everyone who is clean may eat flesh."
+    },
+    {
+     "v": 20,
+     "text": "But the person who eats flesh from the sacrifice of peace offerings that belongs to Yahweh while his uncleanness is on him, that person will be cut off{d} from his people."
+    },
+    {
+     "v": 21,
+     "text": "When anyone touches anything unclean, whether human uncleanness or an unclean animal or any unclean detestable thing,{e} and then eats some of the flesh of the sacrifice of peace offerings that belongs to Yahweh, that person will be cut off from his people.”"
+    },
+    {
+     "v": 22,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 23,
+     "text": "“Speak to the Israelites, saying, You must not eat any fat of ox, sheep, or goat."
+    },
+    {
+     "v": 24,
+     "text": "The fat of an animal that dies by itself and the fat of one that is torn by beasts may be used for any other purpose, but you must certainly not eat it."
+    },
+    {
+     "v": 25,
+     "text": "For whoever eats the fat of an animal from which an offering by fire may be offered to Yahweh, the person who eats it will be cut off from his people."
+    },
+    {
+     "v": 26,
+     "text": "You must not eat any blood, whether of bird or of animal, in any of your dwellings."
+    },
+    {
+     "v": 27,
+     "text": "Whoever eats any blood, that person will be cut off from his people.”"
+    },
+    {
+     "v": 28,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 29,
+     "text": "“Speak to the Israelites, saying, Whoever offers his sacrifice of peace offerings to Yahweh is to bring his offering to Yahweh from his sacrifice of peace offerings."
+    },
+    {
+     "v": 30,
+     "text": "His own hands are to bring Yahweh’s offerings by fire. He is to bring the fat with the breast, so that the breast may be waved as a wave offering{f} before Yahweh."
+    },
+    {
+     "v": 31,
+     "text": "The priest is to burn the fat on the altar, but the breast belongs to Aaron and his sons."
+    },
+    {
+     "v": 32,
+     "text": "The right thigh you are to give to the priest as a contribution from your sacrifices of peace offerings."
+    },
+    {
+     "v": 33,
+     "text": "Whoever among the sons of Aaron offers the blood of the peace offerings and the fat is to have the right thigh as his portion."
+    },
+    {
+     "v": 34,
+     "text": "For I have taken from the Israelites, out of their sacrifices of peace offerings, the breast of the wave offering and the thigh of the contribution, and have given them to Aaron the priest and to his sons as a due forever from the Israelites."
+    },
+    {
+     "v": 35,
+     "text": "This is the portion of Aaron and the portion of his sons from Yahweh’s offerings by fire, from the day when he{g} presented them to serve as priests to Yahweh."
+    },
+    {
+     "v": 36,
+     "text": "Yahweh commanded this to be given them by the Israelites on the day that he anointed them. It is a due forever throughout their generations.”"
+    },
+    {
+     "v": 37,
+     "text": "This is the law of the burnt offering, of the grain offering, of the sin offering, of the guilt offering, of the ordination offering,{h} and of the sacrifice of peace offerings,"
+    },
+    {
+     "v": 38,
+     "text": "which Yahweh commanded Moses on Mount Sinai on the day that he commanded the Israelites to bring their offerings to Yahweh, in the wilderness of Sinai."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:12",
+     "text": "Hebrew todah, “thanksgiving” or “praise,” a peace offering given in gratitude for deliverance (compare Psalm 107:22; 116:17)."
+    },
+    {
+     "m": "b",
+     "ref": "7:14",
+     "text": "Hebrew terumah, a contribution set apart, literally “something lifted off.”"
+    },
+    {
+     "m": "c",
+     "ref": "7:18",
+     "text": "Hebrew piggul, a technical term for sacrificial meat that has become unfit because it was kept too long (19:7; Ezekiel 4:14; Isaiah 65:4)."
+    },
+    {
+     "m": "d",
+     "ref": "7:20",
+     "text": "Hebrew karath. Whether this penalty meant execution by the community, early death at God’s hand, or the cutting off of one’s descendants is debated. Many rabbinic interpreters took it as a punishment from God rather than a human court."
+    },
+    {
+     "m": "e",
+     "ref": "7:21",
+     "text": "Hebrew sheqets. Many Hebrew manuscripts, the Samaritan Pentateuch, and the Syriac read sherets, “swarming creature,” as in 5:2."
+    },
+    {
+     "m": "f",
+     "ref": "7:30",
+     "text": "Hebrew tenufah, an offering presented by moving it toward the altar and back, or lifting it up. Jacob Milgrom and others argue the rite was a lifting, a “presentation offering.”"
+    },
+    {
+     "m": "g",
+     "ref": "7:35",
+     "text": "Probably Moses (compare 8:1–30); the Hebrew may also be read “from the day when they were presented.”"
+    },
+    {
+     "m": "h",
+     "ref": "7:37",
+     "text": "Hebrew millu’im, literally “filling,” from the phrase “fill the hand,” meaning to install someone in priestly office (8:33; Exodus 29:9)."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    6,
+    10,
+    14,
+    18,
+    22,
+    30,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Take Aaron and his sons with him, and the garments, the anointing oil, the bull of the sin offering, the two rams, and the basket of unleavened bread,"
+    },
+    {
+     "v": 3,
+     "text": "and assemble the whole congregation at the entrance of the tent of meeting.”"
+    },
+    {
+     "v": 4,
+     "text": "Moses did as Yahweh commanded him, and the congregation was assembled at the entrance of the tent of meeting."
+    },
+    {
+     "v": 5,
+     "text": "Moses said to the congregation, “This is the thing that Yahweh has commanded to be done.”"
+    },
+    {
+     "v": 6,
+     "text": "Then Moses brought Aaron and his sons forward and washed them with water."
+    },
+    {
+     "v": 7,
+     "text": "He put the tunic on him, tied the sash around him, clothed him with the robe, and put the ephod{a} on him. He tied the woven band of the ephod around him and fastened the ephod to him with it."
+    },
+    {
+     "v": 8,
+     "text": "He placed the breastpiece on him, and in the breastpiece he put the Urim and the Thummim.{b}"
+    },
+    {
+     "v": 9,
+     "text": "He set the turban on his head, and on the turban, at its front, he set the gold plate, the holy crown,{c} as Yahweh had commanded Moses."
+    },
+    {
+     "v": 10,
+     "text": "Then Moses took the anointing oil and anointed the tabernacle and everything in it, and consecrated them."
+    },
+    {
+     "v": 11,
+     "text": "He sprinkled some of it on the altar seven times, and anointed the altar and all its utensils, and the basin and its stand, to consecrate them."
+    },
+    {
+     "v": 12,
+     "text": "He poured some of the anointing oil on Aaron’s head and anointed him to consecrate him."
+    },
+    {
+     "v": 13,
+     "text": "Then Moses brought Aaron’s sons forward, clothed them with tunics, tied sashes around them, and bound caps on them, as Yahweh had commanded Moses."
+    },
+    {
+     "v": 14,
+     "text": "Then he brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering."
+    },
+    {
+     "v": 15,
+     "text": "He slaughtered it, and Moses took the blood and with his finger put it on the horns of the altar all around, and purified{d} the altar. He poured out the blood at the base of the altar and consecrated it, to make atonement for it."
+    },
+    {
+     "v": 16,
+     "text": "He took all the fat that was on the entrails, the lobe of the liver, and the two kidneys with their fat, and Moses burned them on the altar."
+    },
+    {
+     "v": 17,
+     "text": "But the bull, its hide, its flesh, and its dung he burned with fire outside the camp, as Yahweh had commanded Moses."
+    },
+    {
+     "v": 18,
+     "text": "Then he presented the ram of the burnt offering, and Aaron and his sons laid their hands on the ram’s head."
+    },
+    {
+     "v": 19,
+     "text": "He slaughtered it, and Moses splashed the blood all around against the altar."
+    },
+    {
+     "v": 20,
+     "text": "He cut the ram into its pieces, and Moses burned the head, the pieces, and the suet."
+    },
+    {
+     "v": 21,
+     "text": "He washed the entrails and the legs with water, and Moses burned the whole ram on the altar. It was a burnt offering for a pleasing aroma, an offering by fire to Yahweh, as Yahweh had commanded Moses."
+    },
+    {
+     "v": 22,
+     "text": "Then he presented the other ram, the ram of ordination, and Aaron and his sons laid their hands on the ram’s head."
+    },
+    {
+     "v": 23,
+     "text": "He slaughtered it, and Moses took some of its blood and put it on the lobe of Aaron’s right ear, on the thumb of his right hand, and on the big toe of his right foot."
+    },
+    {
+     "v": 24,
+     "text": "Then he brought Aaron’s sons forward, and Moses put some of the blood on the lobes of their right ears, on the thumbs of their right hands, and on the big toes of their right feet. Moses splashed the rest of the blood all around against the altar."
+    },
+    {
+     "v": 25,
+     "text": "He took the fat, the fat tail, all the fat that was on the entrails, the lobe of the liver, the two kidneys with their fat, and the right thigh;"
+    },
+    {
+     "v": 26,
+     "text": "and from the basket of unleavened bread that was before Yahweh he took one unleavened loaf, one loaf of bread made with oil, and one wafer, and placed them on the fat and on the right thigh."
+    },
+    {
+     "v": 27,
+     "text": "He put all these in the hands of Aaron and in the hands of his sons, and waved them as a wave offering before Yahweh."
+    },
+    {
+     "v": 28,
+     "text": "Then Moses took them from their hands and burned them on the altar on top of the burnt offering. They were an ordination offering for a pleasing aroma, an offering by fire to Yahweh."
+    },
+    {
+     "v": 29,
+     "text": "Moses took the breast and waved it as a wave offering before Yahweh. It was Moses’ portion of the ram of ordination, as Yahweh had commanded Moses."
+    },
+    {
+     "v": 30,
+     "text": "Then Moses took some of the anointing oil and some of the blood that was on the altar and sprinkled it on Aaron and his garments, and on his sons and on his sons’ garments with him. So he consecrated Aaron and his garments, and his sons and his sons’ garments with him."
+    },
+    {
+     "v": 31,
+     "text": "Moses said to Aaron and his sons, “Boil the flesh at the entrance of the tent of meeting, and eat it there with the bread that is in the basket of ordination offerings, as I commanded, saying,{e} ‘Aaron and his sons are to eat it.’"
+    },
+    {
+     "v": 32,
+     "text": "What is left of the flesh and of the bread you are to burn with fire."
+    },
+    {
+     "v": 33,
+     "text": "You must not go out from the entrance of the tent of meeting for seven days, until the days of your ordination are completed, for it will take seven days to ordain you.{f}"
+    },
+    {
+     "v": 34,
+     "text": "As has been done today, Yahweh has commanded to be done, to make atonement for you."
+    },
+    {
+     "v": 35,
+     "text": "At the entrance of the tent of meeting you are to remain day and night for seven days, keeping Yahweh’s charge, so that you do not die, for so I have been commanded.”"
+    },
+    {
+     "v": 36,
+     "text": "Aaron and his sons did all the things that Yahweh commanded through Moses.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:7",
+     "text": "A priestly garment worn over the robe, probably like an apron or vest, held by shoulder pieces and a woven band (Exodus 28:6–14). Its exact form is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "8:8",
+     "text": "Objects kept in the breastpiece and used to learn God’s decision (Exodus 28:30; Numbers 27:21). The words may mean “lights and perfections”; how the objects worked is unknown."
+    },
+    {
+     "m": "c",
+     "ref": "8:9",
+     "text": "Hebrew tsits, “flower” or “shining plate,” engraved “Holy to Yahweh” (Exodus 28:36). Nezer, “crown,” also means “consecration.”"
+    },
+    {
+     "m": "d",
+     "ref": "8:15",
+     "text": "Hebrew chitte’, “to de-sin” or “purge,” from the same root as chatta’t, “sin offering.”"
+    },
+    {
+     "m": "e",
+     "ref": "8:31",
+     "text": "The Hebrew vowels read “as I commanded”; the Septuagint, Syriac, and Targum read “as I was commanded,” as in verse 35."
+    },
+    {
+     "m": "f",
+     "ref": "8:33",
+     "text": "Literally “for seven days he will fill your hand.” See the note at 7:37."
+    },
+    {
+     "m": "g",
+     "ref": "8:36",
+     "text": "Literally “by the hand of Moses.”"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    8,
+    15,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the eighth day Moses called Aaron and his sons and the elders of Israel."
+    },
+    {
+     "v": 2,
+     "text": "He said to Aaron, “Take for yourself a calf from the herd for a sin offering and a ram for a burnt offering, both without defect, and offer them before Yahweh."
+    },
+    {
+     "v": 3,
+     "text": "And speak to the Israelites, saying, ‘Take a male goat for a sin offering, and a calf and a lamb, both a year old and without defect, for a burnt offering,"
+    },
+    {
+     "v": 4,
+     "text": "and an ox and a ram for peace offerings, to sacrifice before Yahweh, and a grain offering mixed with oil, for today Yahweh will appear to you.’”"
+    },
+    {
+     "v": 5,
+     "text": "They brought what Moses commanded in front of the tent of meeting, and the whole congregation came near and stood before Yahweh."
+    },
+    {
+     "v": 6,
+     "text": "Moses said, “This is the thing that Yahweh commanded you to do, so that the glory of Yahweh may appear to you.”"
+    },
+    {
+     "v": 7,
+     "text": "Then Moses said to Aaron, “Come near to the altar and offer your sin offering and your burnt offering, and make atonement for yourself and for the people.{a} Then offer the people’s offering and make atonement for them, as Yahweh has commanded.”"
+    },
+    {
+     "v": 8,
+     "text": "So Aaron came near to the altar and slaughtered the calf of the sin offering, which was for himself."
+    },
+    {
+     "v": 9,
+     "text": "Aaron’s sons presented the blood to him, and he dipped his finger in the blood and put it on the horns of the altar, and poured out the blood at the base of the altar."
+    },
+    {
+     "v": 10,
+     "text": "The fat, the kidneys, and the lobe of the liver from the sin offering he burned on the altar, as Yahweh had commanded Moses."
+    },
+    {
+     "v": 11,
+     "text": "The flesh and the hide he burned with fire outside the camp."
+    },
+    {
+     "v": 12,
+     "text": "Then he slaughtered the burnt offering. Aaron’s sons handed him the blood, and he splashed it all around against the altar."
+    },
+    {
+     "v": 13,
+     "text": "They handed him the burnt offering, piece by piece, with the head, and he burned them on the altar."
+    },
+    {
+     "v": 14,
+     "text": "He washed the entrails and the legs and burned them with the burnt offering on the altar."
+    },
+    {
+     "v": 15,
+     "text": "Then he presented the people’s offering. He took the goat of the sin offering that was for the people, slaughtered it, and offered it for sin, like the first."
+    },
+    {
+     "v": 16,
+     "text": "He presented the burnt offering and offered it according to the regulation."
+    },
+    {
+     "v": 17,
+     "text": "He presented the grain offering, took a handful of it, and burned it on the altar, in addition to the burnt offering of the morning."
+    },
+    {
+     "v": 18,
+     "text": "Then he slaughtered the ox and the ram, the sacrifice of peace offerings for the people. Aaron’s sons handed him the blood, and he splashed it all around against the altar."
+    },
+    {
+     "v": 19,
+     "text": "And the fat portions of the ox and of the ram, the fat tail, the fat that covers the entrails, the kidneys, and the lobe of the liver,"
+    },
+    {
+     "v": 20,
+     "text": "they put the fat portions on the breasts, and he burned the fat portions on the altar."
+    },
+    {
+     "v": 21,
+     "text": "But the breasts and the right thigh Aaron waved as a wave offering before Yahweh, as Moses had commanded.{b}"
+    },
+    {
+     "v": 22,
+     "text": "Then Aaron lifted up his hands toward the people and blessed them.{c} He came down from offering the sin offering, the burnt offering, and the peace offerings."
+    },
+    {
+     "v": 23,
+     "text": "Moses and Aaron went into the tent of meeting, and when they came out they blessed the people, and the glory of Yahweh appeared to all the people."
+    },
+    {
+     "v": 24,
+     "text": "Fire came out from before Yahweh and consumed the burnt offering and the fat portions on the altar. When all the people saw it, they shouted for joy{d} and fell on their faces."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:7",
+     "text": "The Septuagint reads “for yourself and for your house,” as in 16:6."
+    },
+    {
+     "m": "b",
+     "ref": "9:21",
+     "text": "Many Hebrew manuscripts, the Samaritan Pentateuch, and the Septuagint read “as Yahweh had commanded Moses.”"
+    },
+    {
+     "m": "c",
+     "ref": "9:22",
+     "text": "Perhaps with the priestly blessing of Numbers 6:24–26."
+    },
+    {
+     "m": "d",
+     "ref": "9:24",
+     "text": "Hebrew ranan, a ringing cry, usually of joy."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    4,
+    8,
+    12,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now Nadab{a} and Abihu,{b} the sons of Aaron, each took his censer, put fire in it, and laid incense on it, and they offered unauthorized{c} fire before Yahweh, which he had not commanded them."
+    },
+    {
+     "v": 2,
+     "text": "Fire came out from before Yahweh and consumed them, and they died before Yahweh."
+    },
+    {
+     "v": 3,
+     "text": "Then Moses said to Aaron, “This is what Yahweh spoke, saying, ‘Among those who are near me I will show myself holy, and before all the people I will be glorified.’” And Aaron was silent."
+    },
+    {
+     "v": 4,
+     "text": "Moses called Mishael{d} and Elzaphan,{e} the sons of Uzziel{f} the uncle of Aaron, and said to them, “Come near; carry your brothers away from the front of the sanctuary to outside the camp.”"
+    },
+    {
+     "v": 5,
+     "text": "So they came near and carried them in their tunics to outside the camp, as Moses had said."
+    },
+    {
+     "v": 6,
+     "text": "Moses said to Aaron and to his sons Eleazar{g} and Ithamar,{h} “Do not let the hair of your heads hang loose{i} or tear your garments, or you will die, and wrath will come on all the congregation. But your brothers, the whole house of Israel, may weep over the burning that Yahweh has kindled."
+    },
+    {
+     "v": 7,
+     "text": "You must not go out from the entrance of the tent of meeting, or you will die, for Yahweh’s anointing oil is on you.” And they did as Moses said."
+    },
+    {
+     "v": 8,
+     "text": "Yahweh spoke to Aaron, saying,"
+    },
+    {
+     "v": 9,
+     "text": "“Do not drink wine or strong drink,{j} you or your sons with you, when you go into the tent of meeting, or you will die. It is a statute forever throughout your generations."
+    },
+    {
+     "v": 10,
+     "text": "You are to distinguish between the holy and the common, and between the unclean and the clean,"
+    },
+    {
+     "v": 11,
+     "text": "and you are to teach the Israelites all the statutes that Yahweh has spoken to them through Moses.”"
+    },
+    {
+     "v": 12,
+     "text": "Moses spoke to Aaron and to Eleazar and Ithamar, his remaining sons: “Take the grain offering that is left of Yahweh’s offerings by fire and eat it unleavened beside the altar, for it is most holy."
+    },
+    {
+     "v": 13,
+     "text": "You are to eat it in a holy place, because it is your due and your sons’ due from Yahweh’s offerings by fire, for so I have been commanded."
+    },
+    {
+     "v": 14,
+     "text": "The breast of the wave offering and the thigh of the contribution you are to eat in a clean place, you and your sons and your daughters with you, for they are given as your due and your sons’ due from the sacrifices of the peace offerings of the Israelites."
+    },
+    {
+     "v": 15,
+     "text": "The thigh of the contribution and the breast of the wave offering they are to bring with the offerings by fire of the fat portions, to wave as a wave offering before Yahweh. It will be yours and your sons’ with you as a due forever, as Yahweh has commanded.”"
+    },
+    {
+     "v": 16,
+     "text": "Then Moses searched carefully for the goat of the sin offering, and it had already been burned. He was angry with Eleazar and Ithamar, Aaron’s remaining sons, and said,"
+    },
+    {
+     "v": 17,
+     "text": "“Why did you not eat the sin offering in the holy place, since it is most holy? He gave it to you to bear the iniquity of the congregation, to make atonement for them before Yahweh."
+    },
+    {
+     "v": 18,
+     "text": "Its blood was not brought into the sanctuary. You certainly should have eaten it in the sanctuary, as I commanded.”"
+    },
+    {
+     "v": 19,
+     "text": "Aaron said to Moses, “Today they offered their sin offering and their burnt offering before Yahweh, and such things as these have happened to me. If I had eaten a sin offering today, would it have been good in Yahweh’s eyes?”"
+    },
+    {
+     "v": 20,
+     "text": "When Moses heard that, it was good in his eyes.{k}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:1",
+     "text": "Nadab means “generous” or “willing.”"
+    },
+    {
+     "m": "b",
+     "ref": "10:1",
+     "text": "Abihu means “he is my father,” probably referring to God."
+    },
+    {
+     "m": "c",
+     "ref": "10:1",
+     "text": "Hebrew zarah, “strange” or “foreign.” What made the fire wrong is not stated. Suggestions include fire not taken from the altar (compare 16:12), incense offered at the wrong time or place, or drunkenness, given the command in verse 9."
+    },
+    {
+     "m": "d",
+     "ref": "10:4",
+     "text": "Mishael means “who is what God is?”"
+    },
+    {
+     "m": "e",
+     "ref": "10:4",
+     "text": "Elzaphan means “God has protected” or “God has hidden.” He is called Elizaphan in Numbers 3:30."
+    },
+    {
+     "m": "f",
+     "ref": "10:4",
+     "text": "Uzziel means “God is my strength.”"
+    },
+    {
+     "m": "g",
+     "ref": "10:6",
+     "text": "Eleazar means “God has helped.”"
+    },
+    {
+     "m": "h",
+     "ref": "10:6",
+     "text": "Ithamar may mean “island of palms” or “where is Tamar?”; its meaning is uncertain."
+    },
+    {
+     "m": "i",
+     "ref": "10:6",
+     "text": "Or “uncover your heads”; Hebrew para‘, to let the hair go loose or unkempt, a sign of mourning (13:45; 21:10)."
+    },
+    {
+     "m": "j",
+     "ref": "10:9",
+     "text": "Hebrew shekhar, an intoxicating drink, perhaps beer made from barley."
+    },
+    {
+     "m": "k",
+     "ref": "10:20",
+     "text": "Or “he approved.” Since the people’s sin offering (9:15) should have been eaten by the priests (6:26), Aaron may mean that after the deaths of his sons the priests were unfit to eat it, or that the deaths had defiled the sanctuary so that the offering had to be burned."
+    }
+   ]
+  }
+ ]
+}
