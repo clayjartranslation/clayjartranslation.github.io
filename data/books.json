@@ -1689,9 +1689,15 @@
    "id": "luke",
    "name": "Luke",
    "division": "New Testament",
-   "chapterCount": "24",
-   "translated": [],
-   "file": null
+   "chapterCount": 24,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "file": "data/books/luke.json"
   },
   {
    "id": "john",

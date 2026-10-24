@@ -1,0 +1,1538 @@
+{
+ "id": "luke",
+ "name": "Luke",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), in the public-domain electronic edition of Maurice A. Robinson, with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The earliest manuscripts of Luke are the papyri P75 (about AD 200–225), which preserves most of chapters 3–18 and 22–24, P4 (about AD 200) and P45 (3rd century); where they are cited in the notes, their readings are reported from the standard editions and have not been verified against the manuscripts. Westcott and Hort printed in double brackets a number of short passages near the end of the Gospel that are missing only from Codex Bezae and some Old Latin witnesses (the so-called “Western non-interpolations,” including 22:19b–20; 24:3, 6, 12, 36, 40, 51–52), judging them additions; most modern editions, supported by P75, accept them as original. They are printed here in double brackets with a note. Passages found in later manuscripts but absent from the earliest witnesses (17:36; 23:17) keep their traditional verse numbers, and their text is given in the notes. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation or phrase, a note says so. Old Testament quotations are translated afresh from the Greek of Luke, with the source given in a note. Money, measures and times of day are given in modern terms in the text (for example, a denarius as “a day’s wage”), with the original term in a note. The Gospel is anonymous; from the second century it has been attributed to Luke, the physician and companion of Paul (Col 4:14; Phlm 24; 2 Tim 4:11), who also wrote the Acts of the Apostles (Acts 1:1). Most scholars date it about AD 80–90; others date it in the early 60s.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    5,
+    18,
+    24,
+    26,
+    39,
+    46,
+    56,
+    57,
+    67,
+    80
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Seeing that many have undertaken to set in order an account of the events that have been brought to fulfillment among us,"
+    },
+    {
+     "v": 2,
+     "text": "in keeping with what was handed down to us by the people who were eyewitnesses from the outset and who became servants of the message,"
+    },
+    {
+     "v": 3,
+     "text": "it seemed good to me also, having traced everything carefully from the start, to write it out for you in orderly sequence, most excellent Theophilus,{a}"
+    },
+    {
+     "v": 4,
+     "text": "in order that you might come to recognize how reliable are the matters in which you were instructed.{b}"
+    },
+    {
+     "v": 5,
+     "text": "In the time of Herod, king of Judea,{c} a certain priest by the name of Zechariah belonged to the priestly division of Abijah.{d} His wife, Elizabeth by name, was herself one of Aaron’s descendants.{e}"
+    },
+    {
+     "v": 6,
+     "text": "Both of them were upright before God, walking blamelessly in all the commandments and requirements of the Lord.{f}"
+    },
+    {
+     "v": 7,
+     "text": "Yet they were childless, for Elizabeth could not conceive, and both of them were well on in years."
+    },
+    {
+     "v": 8,
+     "text": "It came about that, as he was carrying out his priestly duties before God while his division was on duty,"
+    },
+    {
+     "v": 9,
+     "text": "according to the custom of the priesthood, the lot fell to him to go into the sanctuary of the Lord and burn incense.{g}"
+    },
+    {
+     "v": 10,
+     "text": "And all the throng of the people was outside, praying at the time of the incense offering."
+    },
+    {
+     "v": 11,
+     "text": "There appeared to him an angel of the Lord, standing to the right of the incense altar."
+    },
+    {
+     "v": 12,
+     "text": "Zechariah was shaken when he saw him, and fear fell upon him."
+    },
+    {
+     "v": 13,
+     "text": "But the angel told him, “Have no fear, Zechariah, because your prayer has been heard. Elizabeth your wife will give birth to a son for you, and you will give him the name John.{h}"
+    },
+    {
+     "v": 14,
+     "text": "He will be a joy and a delight to you, and many will rejoice at his birth,"
+    },
+    {
+     "v": 15,
+     "text": "For in the Lord’s sight he will be great. Wine and strong drink he must never drink,{i} and he will be full of the Holy Spirit while still in his mother’s womb."
+    },
+    {
+     "v": 16,
+     "text": "Many of Israel’s sons he will turn back to the Lord their God."
+    },
+    {
+     "v": 17,
+     "text": "And he will go ahead of him in Elijah’s spirit and power, to turn fathers’ hearts toward their children,{j} and those who disobey toward the wisdom of the just, to have a people ready and prepared for the Lord.”"
+    },
+    {
+     "v": 18,
+     "text": "Zechariah said to the angel, “How shall I know this? For I am an old man, and my wife is advanced in her days.”"
+    },
+    {
+     "v": 19,
+     "text": "In reply the angel said, “I am Gabriel.{k} I stand before God, and I have been sent to talk with you and to announce this good news to you."
+    },
+    {
+     "v": 20,
+     "text": "Look, you will be silent, unable to say a word, until the day when these things happen, since you did not trust my words, which will come true at their proper time.”"
+    },
+    {
+     "v": 21,
+     "text": "Meanwhile the people were waiting for Zechariah, and they wondered why he was taking so long in the sanctuary."
+    },
+    {
+     "v": 22,
+     "text": "On coming out he was unable to speak to them, and they understood that he had seen a vision in the sanctuary. He went on making signs to them and stayed speechless."
+    },
+    {
+     "v": 23,
+     "text": "When his days of service were completed, he went back to his home."
+    },
+    {
+     "v": 24,
+     "text": "Some time afterward Elizabeth his wife became pregnant, and for five months she kept out of sight, saying,"
+    },
+    {
+     "v": 25,
+     "text": "“The Lord has done this for me. In these days he has looked on me with favor, to remove my shame before others.”"
+    },
+    {
+     "v": 26,
+     "text": "In the sixth month the angel Gabriel was sent from God to a town of Galilee named Nazareth,{l}"
+    },
+    {
+     "v": 27,
+     "text": "to a virgin promised in marriage to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary.{m}"
+    },
+    {
+     "v": 28,
+     "text": "He came in to where she was and said, “Greetings, you who have been shown favor! The Lord is with you.”{n}"
+    },
+    {
+     "v": 29,
+     "text": "But she was deeply troubled at his words, and she kept wondering what sort of greeting this might be."
+    },
+    {
+     "v": 30,
+     "text": "Then the angel told her, “Mary, have no fear; you have found grace in God’s sight."
+    },
+    {
+     "v": 31,
+     "text": "Listen: you will conceive and bear a son, and Jesus is the name you are to give him.{o}"
+    },
+    {
+     "v": 32,
+     "text": "This one will be great, and he will be called Son of the Most High. The Lord God will give to him the throne of his father David,"
+    },
+    {
+     "v": 33,
+     "text": "and over Jacob’s house he will reign for all ages; his kingdom will never come to an end.”"
+    },
+    {
+     "v": 34,
+     "text": "But Mary asked the angel, “How can this be, when I have no relations with a man?”"
+    },
+    {
+     "v": 35,
+     "text": "In reply the angel told her, “The Holy Spirit will come over you, and the Most High’s power will cast its shadow over you. That is why the child to be born will be called holy, Son of God.{p}"
+    },
+    {
+     "v": 36,
+     "text": "And look, Elizabeth your relative has also conceived a son in her old age, and this is the sixth month for her who was called barren."
+    },
+    {
+     "v": 37,
+     "text": "For no word from God will be without power.”{q}"
+    },
+    {
+     "v": 38,
+     "text": "Mary said, “Here I am, the Lord’s slave woman.{r} Let it happen to me as you have said.” And the angel departed from her."
+    },
+    {
+     "v": 39,
+     "text": "In those days Mary set out and went in haste into the hill country, to a town of Judah."
+    },
+    {
+     "v": 40,
+     "text": "She went into Zechariah’s house and gave Elizabeth her greeting."
+    },
+    {
+     "v": 41,
+     "text": "And as Elizabeth heard Mary greet her, the child jumped in her womb, and Elizabeth became full of the Holy Spirit."
+    },
+    {
+     "v": 42,
+     "text": "With a great cry she called out, “Among women you are blessed, and blessed is the fruit your womb bears!"
+    },
+    {
+     "v": 43,
+     "text": "And how has this happened to me, that the mother of my Lord should come to me?"
+    },
+    {
+     "v": 44,
+     "text": "The moment the sound of your greeting came to my ears, look, the child within me jumped for joy."
+    },
+    {
+     "v": 45,
+     "text": "Blessed is the woman who believed that the things the Lord has told her would be fulfilled.”"
+    },
+    {
+     "v": 46,
+     "text": "And Mary said,{s}\n“My soul magnifies the Lord,"
+    },
+    {
+     "v": 47,
+     "text": "and my spirit has exulted in God my Savior,"
+    },
+    {
+     "v": 48,
+     "text": "because he has looked upon the lowliness of his slave woman.\nFor look, from now on all generations will call me blessed,"
+    },
+    {
+     "v": 49,
+     "text": "for great things have been done for me by the Mighty One,\nand his name is holy."
+    },
+    {
+     "v": 50,
+     "text": "His mercy is for generation after generation\nto those who fear him."
+    },
+    {
+     "v": 51,
+     "text": "He has worked might with his arm;\nhe has scattered those who are proud in the thinking of their hearts."
+    },
+    {
+     "v": 52,
+     "text": "He has pulled down the powerful from their thrones\nand raised the humble high."
+    },
+    {
+     "v": 53,
+     "text": "The hungry he has filled with good things,\nand the rich he has sent away empty."
+    },
+    {
+     "v": 54,
+     "text": "He has come to the help of Israel his servant,\nremembering mercy,"
+    },
+    {
+     "v": 55,
+     "text": "as he spoke to our fathers,\nto Abraham and to his offspring forever.”{t}"
+    },
+    {
+     "v": 56,
+     "text": "Mary remained with her some three months, and then went back home."
+    },
+    {
+     "v": 57,
+     "text": "Elizabeth’s time to deliver arrived, and she gave birth to a son."
+    },
+    {
+     "v": 58,
+     "text": "When her neighbors and family heard how the Lord had magnified his mercy toward her, they shared her joy."
+    },
+    {
+     "v": 59,
+     "text": "On the eighth day they came for the child’s circumcision, and they wanted to call him Zechariah, his father’s name."
+    },
+    {
+     "v": 60,
+     "text": "But his mother spoke up: “No; he is to be called John.”"
+    },
+    {
+     "v": 61,
+     "text": "They told her, “None of your kin bears this name.”"
+    },
+    {
+     "v": 62,
+     "text": "Then they gestured to his father, asking what name he wished to give him."
+    },
+    {
+     "v": 63,
+     "text": "Asking for a tablet, he wrote the words, “John is his name.” And all of them marveled."
+    },
+    {
+     "v": 64,
+     "text": "Instantly his mouth was opened, and his tongue too, and he began speaking and praising God."
+    },
+    {
+     "v": 65,
+     "text": "Fear came on all who lived around them, and throughout the whole hill country of Judea all these things were talked about."
+    },
+    {
+     "v": 66,
+     "text": "Everyone who heard of it kept it in mind and said, “What will this child be, then?” For the Lord’s hand was indeed with him."
+    },
+    {
+     "v": 67,
+     "text": "Then Zechariah his father was filled with the Holy Spirit and prophesied, saying,{u}"
+    },
+    {
+     "v": 68,
+     "text": "“Blessed be the Lord, the God of Israel,\nbecause he has visited his people and brought about their redemption."
+    },
+    {
+     "v": 69,
+     "text": "He has raised up a horn of salvation{v} for us\nin the house of David his servant,"
+    },
+    {
+     "v": 70,
+     "text": "as he spoke by the mouth of his holy prophets from of old:"
+    },
+    {
+     "v": 71,
+     "text": "salvation from our enemies\nand from the hand of all who hate us,"
+    },
+    {
+     "v": 72,
+     "text": "to show mercy to our fathers\nand to remember his holy covenant,"
+    },
+    {
+     "v": 73,
+     "text": "the oath that he swore to Abraham our father,\nto grant us"
+    },
+    {
+     "v": 74,
+     "text": "that, rescued from the hand of our enemies,\nwe might serve him without fear,"
+    },
+    {
+     "v": 75,
+     "text": "in holiness and righteousness before him all our days."
+    },
+    {
+     "v": 76,
+     "text": "And you, child, will be called a prophet of the Most High;\nfor you will walk ahead of the Lord to make his ways ready,{w}"
+    },
+    {
+     "v": 77,
+     "text": "to grant his people the knowledge of salvation\nby the forgiving of their sins,"
+    },
+    {
+     "v": 78,
+     "text": "because of the tender mercy of our God,\nby which the dawn from on high will visit us,{x}"
+    },
+    {
+     "v": 79,
+     "text": "to give light to those sitting in darkness and in death’s shadow,\nto direct our feet into the path of peace.”"
+    },
+    {
+     "v": 80,
+     "text": "And the child kept growing and gaining strength in spirit, and he lived in the desert places until the day of his public appearance to Israel."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:3",
+     "text": "Theophilus: a Greek name meaning “friend of God” or “loved by God.” *Most excellent* was a title of respect used for persons of rank (compare Acts 23:26; 24:3; 26:25). He may have been Luke’s patron."
+    },
+    {
+     "m": "b",
+     "ref": "1:4",
+     "text": "Taught: Greek *katēchēthēs*, “informed” or “instructed.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:5",
+     "text": "Herod the Great, king of Judea under Roman authority from 37 to 4 BC. *Judea* here means the whole Jewish homeland."
+    },
+    {
+     "m": "d",
+     "ref": "1:5",
+     "text": "Zechariah … Abijah: *Zechariah* means “Yahweh remembers.” The priests were divided into twenty-four divisions that served in the temple in turn; Abijah’s was the eighth (1 Chr 24:10). *Abijah* means “Yahweh is my father.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:5",
+     "text": "Elizabeth: Greek *Elisabet*, Hebrew *Elisheba* (Exod 6:23, the name of Aaron’s wife), probably “my God is an oath.” The meaning of *Aaron* is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "1:6",
+     "text": "The Lord: in Old Testament phrasing like this, *kyrios* stands for Yahweh, as throughout Luke 1–2 where it refers to God (for example 1:9, 11, 15, 16, 17, 25, 28, 38, 45, 46, 58, 66, 68, 76)."
+    },
+    {
+     "m": "g",
+     "ref": "1:9",
+     "text": "Each morning and evening a priest burned incense on the golden altar in the holy place of the temple (Exod 30:7–8); a priest might receive this honor only once in his life."
+    },
+    {
+     "m": "h",
+     "ref": "1:13",
+     "text": "John: Greek *Iōannēs*, from Hebrew *Yohanan*, “Yahweh has been gracious.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:15",
+     "text": "Compare Num 6:3; Judg 13:4; 1 Sam 1:11. *Strong drink* (Greek *sikera*) is fermented drink other than wine, such as beer."
+    },
+    {
+     "m": "j",
+     "ref": "1:17",
+     "text": "Mal 4:5–6 (3:23–24 in Hebrew). *Elijah* means “my God is Yahweh.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:19",
+     "text": "Gabriel: “God is my mighty one” or “man of God” (compare Dan 8:16; 9:21)."
+    },
+    {
+     "m": "l",
+     "ref": "1:26",
+     "text": "Nazareth: a small village in Galilee, not mentioned in the Old Testament; the meaning of the name is uncertain."
+    },
+    {
+     "m": "m",
+     "ref": "1:27",
+     "text": "Joseph … Mary: *Joseph* means “may he add” (Gen 30:24). *Mary* (Greek *Mariam*) is the Hebrew name *Miriam*; its meaning is uncertain."
+    },
+    {
+     "m": "n",
+     "ref": "1:28",
+     "text": "Greetings: Greek *chaire*, literally “rejoice,” the ordinary greeting. *Favored one* translates *kecharitōmenē*, “one who has been shown grace.” Many later manuscripts add “Blessed are you among women” (from 1:42); the earliest witnesses do not have it."
+    },
+    {
+     "m": "o",
+     "ref": "1:31",
+     "text": "Jesus: the Greek form of the Hebrew *Yeshua* (*Yehoshua*, Joshua), “Yahweh saves.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:35",
+     "text": "Or “the holy one to be born will be called the Son of God.” Some manuscripts add “of you” after “to be born.”"
+    },
+    {
+     "m": "q",
+     "ref": "1:37",
+     "text": "Or “For nothing will be impossible with God.” Compare Gen 18:14."
+    },
+    {
+     "m": "r",
+     "ref": "1:38",
+     "text": "Slave woman: Greek *doulē*, the feminine of *doulos*, “slave” or “bond-servant” (also in 1:48)."
+    },
+    {
+     "m": "s",
+     "ref": "1:46",
+     "text": "Mary’s song (traditionally called the *Magnificat*, from its first word in Latin) echoes Hannah’s song (1 Sam 2:1–10) and many psalms. A few Old Latin manuscripts and some early writers attribute the song to Elizabeth."
+    },
+    {
+     "m": "t",
+     "ref": "1:55",
+     "text": "Compare Gen 17:7; 22:17–18; Mic 7:20. *Abraham* is explained in Gen 17:5 as “father of a multitude.”"
+    },
+    {
+     "m": "u",
+     "ref": "1:67",
+     "text": "Zechariah’s song is traditionally called the *Benedictus*, from its first word in Latin."
+    },
+    {
+     "m": "v",
+     "ref": "1:69",
+     "text": "Horn of salvation: the horn is a figure of strength (1 Sam 2:10; Ps 18:2; 132:17)."
+    },
+    {
+     "m": "w",
+     "ref": "1:76",
+     "text": "Compare Isa 40:3; Mal 3:1. In the Hebrew text, the Lord is Yahweh."
+    },
+    {
+     "m": "x",
+     "ref": "1:78",
+     "text": "Will visit us: so the Westcott–Hort text, with Sinaiticus and Vaticanus; many manuscripts read “has visited us.” *The dawn from on high* (Greek *anatolē*, “rising,” also used in the Greek Old Testament for the messianic “Branch,” Jer 23:5; Zech 3:8) may refer to the rising sun or star (compare Num 24:17; Mal 4:2)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    8,
+    15,
+    21,
+    22,
+    25,
+    33,
+    36,
+    39,
+    41,
+    52
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "At that time an edict was issued by Caesar Augustus{a} for a registration of the entire inhabited world."
+    },
+    {
+     "v": 2,
+     "text": "This was the first registration, made when Quirinius was governing Syria.{b}"
+    },
+    {
+     "v": 3,
+     "text": "So all were on their way to register, every one to his home town."
+    },
+    {
+     "v": 4,
+     "text": "Joseph too went up out of Galilee, out of Nazareth town, into Judea, to David’s city, which is called Bethlehem,{c} since he belonged to David’s house and lineage,"
+    },
+    {
+     "v": 5,
+     "text": "to be registered with Mary, who was promised to him in marriage and was pregnant."
+    },
+    {
+     "v": 6,
+     "text": "While they were there, the days were completed for her to give birth,"
+    },
+    {
+     "v": 7,
+     "text": "There she bore her son, her firstborn. She swaddled him and put him to lie in a feeding trough, since the guest room had no space for them.{d}"
+    },
+    {
+     "v": 8,
+     "text": "In that same region there were shepherds living out in the fields and keeping watch over their flock by night."
+    },
+    {
+     "v": 9,
+     "text": "An angel of the Lord stood before them, and the glory of the Lord shone all around them, and they were overcome with fear.{e}"
+    },
+    {
+     "v": 10,
+     "text": "The angel said to them, “Have no fear. See, I am announcing to you good news of a great joy, which is for the whole people."
+    },
+    {
+     "v": 11,
+     "text": "For today, in the city of David, a Savior has been born for you, who is the Messiah, the Lord.{f}"
+    },
+    {
+     "v": 12,
+     "text": "This is to be your sign: a newborn baby, swaddled and lying in a feeding trough, is what you will find.”"
+    },
+    {
+     "v": 13,
+     "text": "And all at once there appeared with the angel a multitude of the army of heaven, praising God and saying,"
+    },
+    {
+     "v": 14,
+     "text": "“Glory to God in the highest heavens,\nand on earth peace among people of his good pleasure!”{g}"
+    },
+    {
+     "v": 15,
+     "text": "After the angels had left them and gone into heaven, the shepherds said to each other, “Come, let us go over to Bethlehem and look at what has taken place, this thing the Lord has told us of.”"
+    },
+    {
+     "v": 16,
+     "text": "They went in haste and found Mary and Joseph, and the baby lying in the feeding trough."
+    },
+    {
+     "v": 17,
+     "text": "Having seen him, they reported the word that had been spoken to them concerning this child."
+    },
+    {
+     "v": 18,
+     "text": "And all who heard were astonished at what the shepherds told them."
+    },
+    {
+     "v": 19,
+     "text": "But Mary kept all these things, pondering them in her heart."
+    },
+    {
+     "v": 20,
+     "text": "Then the shepherds returned, giving glory and praise to God for everything they had heard and seen, all of it as they had been told."
+    },
+    {
+     "v": 21,
+     "text": "When eight days had passed and it was time to circumcise him, he was given the name Jesus, the name given by the angel before he was conceived in the womb."
+    },
+    {
+     "v": 22,
+     "text": "When the days of their purification according to the law of Moses were completed,{h} they brought him up to Jerusalem to present him to the Lord"
+    },
+    {
+     "v": 23,
+     "text": "(as it is written in the law of the Lord, “Every male that opens the womb shall be called holy to the Lord”),{i}"
+    },
+    {
+     "v": 24,
+     "text": "and to offer a sacrifice according to what is said in the law of the Lord, “a pair of turtledoves or two young pigeons.”{j}"
+    },
+    {
+     "v": 25,
+     "text": "Now there was a man in Jerusalem whose name was Simeon.{k} This man was upright and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him."
+    },
+    {
+     "v": 26,
+     "text": "The Holy Spirit had disclosed to him that he would not see death until he had seen the Lord’s Messiah.{l}"
+    },
+    {
+     "v": 27,
+     "text": "Led by the Spirit, he came into the temple; and when the parents brought in the child Jesus to do for him what was customary under the law,"
+    },
+    {
+     "v": 28,
+     "text": "Simeon took him into his arms and blessed God, saying,"
+    },
+    {
+     "v": 29,
+     "text": "“Now, Master, you are letting your slave depart\nin peace, according to your word,{m}"
+    },
+    {
+     "v": 30,
+     "text": "for my eyes have seen your salvation,"
+    },
+    {
+     "v": 31,
+     "text": "which you made ready before the face of all peoples,"
+    },
+    {
+     "v": 32,
+     "text": "a light for revelation to the nations\nand for glory to your people Israel.”{n}"
+    },
+    {
+     "v": 33,
+     "text": "His father and mother were marveling at what was said about him."
+    },
+    {
+     "v": 34,
+     "text": "Simeon blessed them and said to Mary his mother, “Look, this child is destined for the fall and the rising of many in Israel, and for a sign that will be spoken against"
+    },
+    {
+     "v": 35,
+     "text": "(and a sword will pierce through your own soul too), so that the thoughts of many hearts may be laid bare.”"
+    },
+    {
+     "v": 36,
+     "text": "There was also a prophetess, Anna{o} the daughter of Phanuel,{p} of the tribe of Asher.{q} She was far advanced in years. After her girlhood she had lived with her husband seven years,"
+    },
+    {
+     "v": 37,
+     "text": "and after that was a widow up to the age of eighty-four.{r} She never went away from the temple, but served God night and day with fasting and prayer."
+    },
+    {
+     "v": 38,
+     "text": "Coming up at that very moment, she gave thanks to God and spoke of the child to everyone who was looking for Jerusalem’s redemption."
+    },
+    {
+     "v": 39,
+     "text": "Once they had carried out all that the law of the Lord required, they went back into Galilee, to Nazareth, their town."
+    },
+    {
+     "v": 40,
+     "text": "The child grew and became strong, filled with wisdom, and the grace of God was upon him."
+    },
+    {
+     "v": 41,
+     "text": "Each year his parents would go to Jerusalem for the Passover feast."
+    },
+    {
+     "v": 42,
+     "text": "When he was twelve years old, they went up as the custom of the festival required."
+    },
+    {
+     "v": 43,
+     "text": "After the days were over, as they were returning, the boy Jesus stayed behind in Jerusalem, and his parents did not know it."
+    },
+    {
+     "v": 44,
+     "text": "Thinking he was in the traveling party, they went a day’s journey and then began searching for him among their relatives and acquaintances."
+    },
+    {
+     "v": 45,
+     "text": "Not finding him, they returned to Jerusalem to look for him."
+    },
+    {
+     "v": 46,
+     "text": "Three days later they found him in the temple, seated in the midst of the teachers, both listening to them and putting questions to them."
+    },
+    {
+     "v": 47,
+     "text": "Everyone who heard him was amazed by his insight and by the answers he gave."
+    },
+    {
+     "v": 48,
+     "text": "His parents were astonished to see him, and his mother said, “Child, why have you treated us so? Here your father and I have been anxiously seeking you.”"
+    },
+    {
+     "v": 49,
+     "text": "“Why did you look for me?” he said to them. “Didn’t you know I had to be in my Father’s house?”{s}"
+    },
+    {
+     "v": 50,
+     "text": "But they did not understand the saying he spoke to them."
+    },
+    {
+     "v": 51,
+     "text": "And he went down with them to Nazareth and was subject to them. His mother kept all these words in her heart."
+    },
+    {
+     "v": 52,
+     "text": "And Jesus kept advancing in wisdom and in stature,{t} and in favor with God and people."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Caesar Augustus: Octavian, the first Roman emperor (31 BC–AD 14). *Augustus*, “revered,” was a title given him by the Roman Senate in 27 BC."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "Quirinius: Publius Sulpicius Quirinius, Roman legate of Syria from AD 6, when he conducted a census of Judea (compare Acts 5:37). How this registration relates to the reign of Herod (1:5) is a long-debated historical question; some render “this registration took place before Quirinius was governing Syria.” Scholarly review recommended."
+    },
+    {
+     "m": "c",
+     "ref": "2:4",
+     "text": "Bethlehem: “house of bread,” David’s hometown (1 Sam 16:1; Mic 5:2)."
+    },
+    {
+     "m": "d",
+     "ref": "2:7",
+     "text": "Guest room: Greek *katalyma*, a lodging place or guest room (used of the upper room in 22:11), not necessarily an inn. The *feeding trough* (traditionally “manger”) suggests the part of the house or shelter where animals were kept."
+    },
+    {
+     "m": "e",
+     "ref": "2:9",
+     "text": "An angel of the Lord … the glory of the Lord: in Old Testament phrasing, the angel and glory of Yahweh."
+    },
+    {
+     "m": "f",
+     "ref": "2:11",
+     "text": "The Messiah, the Lord: Greek *christos kyrios*, “anointed Lord.” A few witnesses read “the Lord’s Messiah,” as in 2:26."
+    },
+    {
+     "m": "g",
+     "ref": "2:14",
+     "text": "People of his good pleasure: so the Westcott–Hort text with the earliest manuscripts (Sinaiticus and Vaticanus, first hands, and Codex Bezae), which read *eudokias*, “of good pleasure,” meaning people on whom God’s favor rests. Most later manuscripts read *eudokia*, giving “peace on earth, good will toward people.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:22",
+     "text": "The purification of a mother after childbirth (Lev 12:1–8) and the redemption of a firstborn son (Exod 13:2, 12–15; Num 18:15–16). *Moses* is explained in Exod 2:10 as “drawn out.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:23",
+     "text": "Exod 13:2, 12. In the Hebrew text, the Lord is Yahweh; the phrase *the law of the Lord* likewise means the law of Yahweh (also 2:24, 39)."
+    },
+    {
+     "m": "j",
+     "ref": "2:24",
+     "text": "Lev 12:8, the offering allowed to those who could not afford a lamb."
+    },
+    {
+     "m": "k",
+     "ref": "2:25",
+     "text": "Simeon: Hebrew *Shimon*, linked with “hear” (Gen 29:33)."
+    },
+    {
+     "m": "l",
+     "ref": "2:26",
+     "text": "The Lord’s Messiah: literally “the Lord’s anointed,” an Old Testament phrase for the king chosen by Yahweh (1 Sam 24:6; Ps 2:2)."
+    },
+    {
+     "m": "m",
+     "ref": "2:29",
+     "text": "Simeon’s song is traditionally called the *Nunc Dimittis*, from its first words in Latin. *Master* is Greek *despotēs*."
+    },
+    {
+     "m": "n",
+     "ref": "2:32",
+     "text": "Compare Isa 42:6; 49:6; 52:10."
+    },
+    {
+     "m": "o",
+     "ref": "2:36",
+     "text": "Anna: Hebrew *Hannah*, “grace” or “favor” (1 Sam 1:2)."
+    },
+    {
+     "m": "p",
+     "ref": "2:36",
+     "text": "Phanuel: a form of *Penuel*, “face of God” (Gen 32:30–31)."
+    },
+    {
+     "m": "q",
+     "ref": "2:36",
+     "text": "Asher: “happy” or “blessed” (Gen 30:13). The tribe belonged to the northern kingdom of Israel."
+    },
+    {
+     "m": "r",
+     "ref": "2:37",
+     "text": "Or “had been a widow for eighty-four years.”"
+    },
+    {
+     "m": "s",
+     "ref": "2:49",
+     "text": "Or “about my Father’s affairs”; literally “in the things of my Father.”"
+    },
+    {
+     "m": "t",
+     "ref": "2:52",
+     "text": "Or “in age.” Compare 1 Sam 2:26."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    7,
+    10,
+    15,
+    18,
+    21,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "It was the fifteenth year of the rule of Tiberius Caesar.{a} Pontius Pilate was the governor of Judea;{b} Herod was the tetrarch of Galilee,{c} his brother Philip the tetrarch of the region of Ituraea and Trachonitis, and Lysanias the tetrarch of Abilene.{d}"
+    },
+    {
+     "v": 2,
+     "text": "during the high priesthood of Annas and Caiaphas,{e} the word of God came to John the son of Zechariah in the wilderness."
+    },
+    {
+     "v": 3,
+     "text": "And he came into the whole area around the Jordan, preaching a baptism of repentance that leads to forgiveness of sins,"
+    },
+    {
+     "v": 4,
+     "text": "as the book of the sayings of Isaiah the prophet has it:{f}\n“The voice of one who calls aloud in the desert:\n‘Make ready the road for the Lord;\nstraighten his paths."
+    },
+    {
+     "v": 5,
+     "text": "Every ravine will be filled in,\nevery mountain and hill made low;\nthe winding ways will be straightened,\nand the rough roads made level;"
+    },
+    {
+     "v": 6,
+     "text": "and all flesh shall see the salvation of God.’”{g}"
+    },
+    {
+     "v": 7,
+     "text": "So he would say to the crowds who came out to be baptized by him, “Brood of vipers! Who warned you to escape from the coming wrath?"
+    },
+    {
+     "v": 8,
+     "text": "Then produce fruit that befits repentance. And do not begin to say among yourselves, ‘We have Abraham as our father.’ For I tell you that God is able from these stones to raise up children for Abraham."
+    },
+    {
+     "v": 9,
+     "text": "Even now the ax is lying at the root of the trees; so every tree that does not produce good fruit is cut down and thrown into the fire.”"
+    },
+    {
+     "v": 10,
+     "text": "The crowds kept asking him, “What then should we do?”"
+    },
+    {
+     "v": 11,
+     "text": "He answered them, “Whoever has two tunics{h} should share with the one who has none, and whoever has food should do the same.”"
+    },
+    {
+     "v": 12,
+     "text": "Tax collectors{i} also came to be baptized, and they said to him, “Teacher, what should we do?”"
+    },
+    {
+     "v": 13,
+     "text": "He answered them, “Exact nothing beyond the amount you are directed to collect.”"
+    },
+    {
+     "v": 14,
+     "text": "Soldiers also kept asking him, “And we, what should we do?” He told them, “Do not take money from anyone by force or by false accusation, and be content with your pay.”"
+    },
+    {
+     "v": 15,
+     "text": "As the people were in expectation, and all were wondering in their hearts about John, whether he might perhaps be the Messiah,"
+    },
+    {
+     "v": 16,
+     "text": "John answered them all, “I baptize you with water; but one is coming who is mightier than I, the strap of whose sandals I am not worthy to untie. He will baptize you in the Holy Spirit and fire."
+    },
+    {
+     "v": 17,
+     "text": "His winnowing shovel{j} is in his hand, to clean out his threshing floor completely and to gather the wheat into his granary; but the chaff he will burn in a fire that is never put out.”"
+    },
+    {
+     "v": 18,
+     "text": "So with many other words of exhortation he proclaimed the good news to the people."
+    },
+    {
+     "v": 19,
+     "text": "But Herod the tetrarch, who had been rebuked by him on account of Herodias, his brother’s wife,{k} and on account of all the evil things Herod had done,"
+    },
+    {
+     "v": 20,
+     "text": "added this to them all: he shut John up in prison."
+    },
+    {
+     "v": 21,
+     "text": "Now when all the people were baptized, and Jesus also had been baptized and was praying, heaven was opened,"
+    },
+    {
+     "v": 22,
+     "text": "and the Holy Spirit came down on him in bodily form like a dove, and a voice came from heaven: “You are my Son, the Beloved; in you I take delight.”{l}"
+    },
+    {
+     "v": 23,
+     "text": "Jesus himself was about thirty years old when he began. He was the son, as was supposed, of Joseph, the son of Heli,{m}"
+    },
+    {
+     "v": 24,
+     "text": "the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,"
+    },
+    {
+     "v": 25,
+     "text": "the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,"
+    },
+    {
+     "v": 26,
+     "text": "the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,"
+    },
+    {
+     "v": 27,
+     "text": "the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,"
+    },
+    {
+     "v": 28,
+     "text": "the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,"
+    },
+    {
+     "v": 29,
+     "text": "the son of Jesus,{n} the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,"
+    },
+    {
+     "v": 30,
+     "text": "the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,"
+    },
+    {
+     "v": 31,
+     "text": "the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,"
+    },
+    {
+     "v": 32,
+     "text": "the son of Jesse, the son of Obed,{o} the son of Boaz, the son of Sala, the son of Nahshon,"
+    },
+    {
+     "v": 33,
+     "text": "the son of Admin, the son of Arni,{p} the son of Hezron, the son of Perez, the son of Judah,"
+    },
+    {
+     "v": 34,
+     "text": "the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,"
+    },
+    {
+     "v": 35,
+     "text": "the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,"
+    },
+    {
+     "v": 36,
+     "text": "the son of Cainan,{q} the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,"
+    },
+    {
+     "v": 37,
+     "text": "the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan,"
+    },
+    {
+     "v": 38,
+     "text": "the son of Enosh, the son of Seth, the son of Adam, the son of God.{r}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Tiberius Caesar: Roman emperor AD 14–37. His fifteenth year was probably AD 28–29, depending on how the years were reckoned."
+    },
+    {
+     "m": "b",
+     "ref": "3:1",
+     "text": "Pontius Pilate: Roman prefect of Judea AD 26–36."
+    },
+    {
+     "m": "c",
+     "ref": "3:1",
+     "text": "Herod Antipas, son of Herod the Great, ruler of Galilee and Perea from 4 BC to AD 39. A *tetrarch* (“ruler of a fourth”) was a minor ruler under Roman authority."
+    },
+    {
+     "m": "d",
+     "ref": "3:1",
+     "text": "Philip, another son of Herod the Great, ruled the territories northeast of the Sea of Galilee. Lysanias ruled Abilene, northwest of Damascus; he is otherwise known from an inscription."
+    },
+    {
+     "m": "e",
+     "ref": "3:2",
+     "text": "Annas was high priest AD 6–15 and remained influential; Caiaphas, his son-in-law, was high priest AD 18–36 (John 18:13). *Caiaphas* is a family name of uncertain meaning."
+    },
+    {
+     "m": "f",
+     "ref": "3:4",
+     "text": "Isaiah: “Yahweh is salvation.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:6",
+     "text": "Isa 40:3–5, in the wording of the Greek Old Testament. In the Hebrew text, “the Lord” is Yahweh."
+    },
+    {
+     "m": "h",
+     "ref": "3:11",
+     "text": "Tunics: the *chitōn* was a garment worn next to the skin, under the outer cloak."
+    },
+    {
+     "m": "i",
+     "ref": "3:12",
+     "text": "Tax collectors: men who collected tolls and taxes for the Romans or for Herod, often despised as collaborators and extortioners."
+    },
+    {
+     "m": "j",
+     "ref": "3:17",
+     "text": "Winnowing shovel: a wooden fork or shovel used to toss threshed grain into the wind, which blew the chaff away."
+    },
+    {
+     "m": "k",
+     "ref": "3:19",
+     "text": "Herodias was the wife of Herod Antipas’s half-brother (Mark 6:17 calls him Philip); Antipas married her after divorcing his first wife."
+    },
+    {
+     "m": "l",
+     "ref": "3:22",
+     "text": "Compare Ps 2:7; Isa 42:1. Codex Bezae and some Old Latin witnesses read, from Ps 2:7, “You are my Son; today I have fathered you.”"
+    },
+    {
+     "m": "m",
+     "ref": "3:23",
+     "text": "Luke’s genealogy runs from Jesus back to Adam and differs from Matthew’s (Matt 1:1–16) between David and Joseph. The difference has been explained in various ways (for example, as Mary’s line, or by levirate marriage); none is certain. The Old Testament names are given in their Old Testament forms where they can be identified."
+    },
+    {
+     "m": "n",
+     "ref": "3:29",
+     "text": "Jesus: here the name of an ancestor; it is the Greek form of *Joshua*."
+    },
+    {
+     "m": "o",
+     "ref": "3:32",
+     "text": "Obed: the Westcott–Hort text reads *Iōbēl*, with Sinaiticus (first hand) and Vaticanus; most manuscripts read *Iōbēd*, the Obed of Ruth 4:21–22. The same person is meant."
+    },
+    {
+     "m": "p",
+     "ref": "3:33",
+     "text": "Admin … Arni: so the Westcott–Hort text, with some early manuscripts; the names do not appear in the Old Testament list (Ruth 4:19; 1 Chr 2:9–10, “Ram”). Many manuscripts read “the son of Amminadab, the son of Aram” (compare Matt 1:3–4). The manuscripts vary widely here."
+    },
+    {
+     "m": "q",
+     "ref": "3:36",
+     "text": "Cainan: this name appears in the Greek Old Testament (Gen 11:12) but not in the Hebrew text."
+    },
+    {
+     "m": "r",
+     "ref": "3:38",
+     "text": "The son of God: Adam had no human father; compare Gen 1:26–27; 5:1–3. *Adam* means “human being” or “humankind.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5,
+    9,
+    14,
+    16,
+    31,
+    38,
+    40,
+    42
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness"
+    },
+    {
+     "v": 2,
+     "text": "where for forty days he was put to the test by the devil.{a} Through those days he ate nothing, and at their end he felt hunger."
+    },
+    {
+     "v": 3,
+     "text": "The devil said to him, “If you are the Son of God, tell this stone to turn into bread.”"
+    },
+    {
+     "v": 4,
+     "text": "Jesus answered him, “It is written, ‘A person shall not live on bread alone.’”{b}"
+    },
+    {
+     "v": 5,
+     "text": "Then the devil led him up and showed him all the kingdoms of the inhabited world in an instant of time."
+    },
+    {
+     "v": 6,
+     "text": "“All this authority, and the glory of these kingdoms, I will give to you,” the devil told him, “for it has been given into my hands, and I give it to whomever I choose."
+    },
+    {
+     "v": 7,
+     "text": "If you, then, will bow down in worship before me, it will all be yours.”"
+    },
+    {
+     "v": 8,
+     "text": "Jesus answered him, “It is written, ‘You shall worship the Lord your God and serve him alone.’”{c}"
+    },
+    {
+     "v": 9,
+     "text": "Then he brought him to Jerusalem and set him on the pinnacle{d} of the temple and said to him, “If you are the Son of God, throw yourself down from here,"
+    },
+    {
+     "v": 10,
+     "text": "for it is written,\n‘He will give his angels orders concerning you, to guard you closely,’"
+    },
+    {
+     "v": 11,
+     "text": "and,\n‘They will lift you up in their hands, lest you strike your foot on a stone.’”{e}"
+    },
+    {
+     "v": 12,
+     "text": "In answer Jesus told him, “It is said, ‘Do not test the Lord your God.’”{f}"
+    },
+    {
+     "v": 13,
+     "text": "Having completed every kind of testing, the devil went away from him until a fitting time."
+    },
+    {
+     "v": 14,
+     "text": "And Jesus went back into Galilee in the Spirit’s power, and word of him spread throughout the whole countryside."
+    },
+    {
+     "v": 15,
+     "text": "He taught in their synagogues, and everyone gave him praise."
+    },
+    {
+     "v": 16,
+     "text": "He came to Nazareth, where he had been brought up, and as was his custom he went into the synagogue on the sabbath day and stood up to read."
+    },
+    {
+     "v": 17,
+     "text": "The scroll of the prophet Isaiah was handed to him. He unrolled the scroll and found the place where it was written,"
+    },
+    {
+     "v": 18,
+     "text": "“The Spirit of the Lord is upon me,\nbecause he has anointed me\nto bring good news to the poor.\nHe has sent me to proclaim release to captives\nand recovery of sight to the blind,\nto send away the crushed in freedom,"
+    },
+    {
+     "v": 19,
+     "text": "to proclaim the year of the Lord’s favor.”{g}"
+    },
+    {
+     "v": 20,
+     "text": "Rolling up the scroll, he handed it back to the attendant and sat down; and every eye in the synagogue was intent on him."
+    },
+    {
+     "v": 21,
+     "text": "He began by saying to them, “Today this scripture has been fulfilled in your hearing.”"
+    },
+    {
+     "v": 22,
+     "text": "Everyone bore witness to him and wondered at the words of grace coming from his lips, and they kept saying, “Isn’t this Joseph’s son?”"
+    },
+    {
+     "v": 23,
+     "text": "He said to them, “No doubt you will quote me this proverb: ‘Doctor, cure yourself!’ What we heard had happened in Capernaum,{h} do here also in your own hometown.”"
+    },
+    {
+     "v": 24,
+     "text": "And he said, “Amen, I tell you, no prophet is welcome in his own hometown."
+    },
+    {
+     "v": 25,
+     "text": "But in truth I tell you, there were many widows in Israel in the days of Elijah, when the sky was shut up for three years and six months and a great famine came over all the land."
+    },
+    {
+     "v": 26,
+     "text": "Yet Elijah was sent to none of them except to a widow at Zarephath in the territory of Sidon.{i}"
+    },
+    {
+     "v": 27,
+     "text": "And there were many with leprosy{j} in Israel in the time of Elisha the prophet, and none of them was cleansed except Naaman the Syrian.”{k}"
+    },
+    {
+     "v": 28,
+     "text": "All in the synagogue, on hearing these things, were filled with fury."
+    },
+    {
+     "v": 29,
+     "text": "They rose up and forced him out of the town and took him to the edge of the hill their town stood on, intending to hurl him over."
+    },
+    {
+     "v": 30,
+     "text": "But he passed through the middle of them and went on his way."
+    },
+    {
+     "v": 31,
+     "text": "He went down to Capernaum, a town of Galilee, and he was teaching them on the sabbath."
+    },
+    {
+     "v": 32,
+     "text": "They were astounded at his teaching, because his word had authority."
+    },
+    {
+     "v": 33,
+     "text": "In the synagogue there was a man who had the spirit of an unclean demon, and he cried out with a loud voice,"
+    },
+    {
+     "v": 34,
+     "text": "“Ha!{l} What have we to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are: the Holy One of God.”"
+    },
+    {
+     "v": 35,
+     "text": "Jesus rebuked him, saying, “Be silent, and come out of him!” When the demon had thrown him down in their midst, it came out of him without doing him any harm."
+    },
+    {
+     "v": 36,
+     "text": "Amazement came over them all, and they kept saying to one another, “What is this word? For with authority and power he gives orders to the unclean spirits, and they come out!”"
+    },
+    {
+     "v": 37,
+     "text": "And news of him kept spreading into every place in the surrounding region."
+    },
+    {
+     "v": 38,
+     "text": "Leaving the synagogue, he went into Simon’s house. Now Simon’s mother-in-law was in the grip of a severe fever, and they pleaded with him for her."
+    },
+    {
+     "v": 39,
+     "text": "He stood over her and rebuked the fever, and it left her. At once she got up and began to serve them."
+    },
+    {
+     "v": 40,
+     "text": "As the sun was setting, all who had people sick with various diseases brought them to him, and he laid his hands on each one of them and healed them."
+    },
+    {
+     "v": 41,
+     "text": "Demons too were coming out of many, crying, “You are the Son of God!” He rebuked them and did not permit them to say anything, since they knew he was the Messiah."
+    },
+    {
+     "v": 42,
+     "text": "At daybreak he left and went off to a lonely place. The crowds kept seeking him, and reaching him, they tried to hold him back so that he would not go away from them."
+    },
+    {
+     "v": 43,
+     "text": "But he told them, “I have to announce the kingdom of God as good news to the other towns as well, for this is why I was sent.”"
+    },
+    {
+     "v": 44,
+     "text": "And he kept on preaching in the synagogues of Judea.{m}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:2",
+     "text": "Devil: Greek *diabolos*, “slanderer,” the Greek Old Testament’s rendering of Hebrew *satan*, “adversary.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:4",
+     "text": "Deut 8:3. Many later manuscripts add “but by every word of God.”"
+    },
+    {
+     "m": "c",
+     "ref": "4:8",
+     "text": "Deut 6:13. In the Hebrew text, “the Lord your God” is “Yahweh your God,” as also in 4:12."
+    },
+    {
+     "m": "d",
+     "ref": "4:9",
+     "text": "Pinnacle: literally “little wing,” probably a high corner of the temple courts."
+    },
+    {
+     "m": "e",
+     "ref": "4:11",
+     "text": "Ps 91:11–12."
+    },
+    {
+     "m": "f",
+     "ref": "4:12",
+     "text": "Deut 6:16."
+    },
+    {
+     "m": "g",
+     "ref": "4:19",
+     "text": "Isa 61:1–2, with a line from Isa 58:6 (“to send away the crushed in freedom”), in the wording of the Greek Old Testament. In the Hebrew text, “the Lord” is Yahweh (Hebrew “the Spirit of the Lord Yahweh”). The *year of the Lord’s favor* recalls the year of release (Lev 25:10)."
+    },
+    {
+     "m": "h",
+     "ref": "4:23",
+     "text": "Capernaum: “village of Nahum,” on the northwest shore of the Sea of Galilee."
+    },
+    {
+     "m": "i",
+     "ref": "4:26",
+     "text": "1 Kgs 17:1, 8–16; 18:1. Zarephath was a Phoenician town; the widow was a Gentile."
+    },
+    {
+     "m": "j",
+     "ref": "4:27",
+     "text": "Leprosy: the Greek word covered various skin diseases, not only Hansen’s disease (Lev 13–14)."
+    },
+    {
+     "m": "k",
+     "ref": "4:27",
+     "text": "2 Kgs 5:1–14. *Elisha* means “God is salvation.” *Naaman* means “pleasant.”"
+    },
+    {
+     "m": "l",
+     "ref": "4:34",
+     "text": "Ha: or “Leave us alone!” (Greek *ea*)."
+    },
+    {
+     "m": "m",
+     "ref": "4:44",
+     "text": "Judea: so the Westcott–Hort text, with the earliest manuscripts; here it probably means the whole Jewish homeland. Many later manuscripts read “Galilee.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    12,
+    17,
+    27,
+    33
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Once, while the crowd was pressing in on him to hear the word of God, he was standing beside the lake of Gennesaret.{a}"
+    },
+    {
+     "v": 2,
+     "text": "He saw two boats drawn up at the lakeside; the fishermen had stepped out of them and were washing their nets."
+    },
+    {
+     "v": 3,
+     "text": "He got into one of the boats, which was Simon’s, and asked him to put out a little way from the land. Then he sat down and taught the crowds from the boat."
+    },
+    {
+     "v": 4,
+     "text": "When he had stopped speaking, he said to Simon, “Put out into deep water, and let down your nets for a catch.”"
+    },
+    {
+     "v": 5,
+     "text": "Simon answered, “Master, we worked hard all through the night and caught nothing. But at your word I will let down the nets.”"
+    },
+    {
+     "v": 6,
+     "text": "When they had done so, they enclosed a great number of fish, and their nets were beginning to tear."
+    },
+    {
+     "v": 7,
+     "text": "They signaled to their partners in the other boat to come and help them. They came and filled both boats, so that they began to sink."
+    },
+    {
+     "v": 8,
+     "text": "Seeing this, Simon Peter fell down at Jesus’ knees and said, “Leave me, Lord, for I am a sinner!”"
+    },
+    {
+     "v": 9,
+     "text": "For astonishment had seized him and all who were with him at the catch of fish they had taken,"
+    },
+    {
+     "v": 10,
+     "text": "and so also James and John, the sons of Zebedee, who were Simon’s partners. Jesus said to Simon, “Do not be afraid; from now on you will be catching people alive.”{b}"
+    },
+    {
+     "v": 11,
+     "text": "When they had brought their boats to land, they left everything and followed him."
+    },
+    {
+     "v": 12,
+     "text": "Once when he was in one of the towns, a man appeared who was full of leprosy. Seeing Jesus, he fell face down and pleaded with him, “Lord, if you want to, you are able to cleanse me.”"
+    },
+    {
+     "v": 13,
+     "text": "He stretched out his hand and touched him, saying, “I am willing. Be made clean.” Immediately the leprosy left him."
+    },
+    {
+     "v": 14,
+     "text": "Jesus ordered him to tell nobody. “Instead,” he said, “go and let the priest see you, and bring the offering for your cleansing that Moses prescribed, as evidence for them.”{c}"
+    },
+    {
+     "v": 15,
+     "text": "But the report about him spread all the more, and great crowds gathered to hear him and to be healed of their illnesses."
+    },
+    {
+     "v": 16,
+     "text": "But he himself kept slipping away into the wilderness to pray."
+    },
+    {
+     "v": 17,
+     "text": "On one of those days he was teaching, and sitting nearby were Pharisees{d} and teachers of the law who had come out of every village in Galilee and Judea, and out of Jerusalem. And the power of the Lord was present for him to heal.{e}"
+    },
+    {
+     "v": 18,
+     "text": "And some men came carrying on a bed a man who was paralyzed, and they were trying to bring him in and lay him before Jesus."
+    },
+    {
+     "v": 19,
+     "text": "Since the throng gave them no way of getting him in, they went up on the housetop and let him down through the tiles on his mat, right into the middle, before Jesus."
+    },
+    {
+     "v": 20,
+     "text": "Seeing their faith, he said, “Friend,{f} your sins have been forgiven you.”"
+    },
+    {
+     "v": 21,
+     "text": "The scribes{g} and the Pharisees began to reason, saying, “Who is this man who speaks blasphemies? Who can forgive sins but God alone?”"
+    },
+    {
+     "v": 22,
+     "text": "Jesus, perceiving their reasonings, answered them, “Why are you reasoning this way in your hearts?"
+    },
+    {
+     "v": 23,
+     "text": "Which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Get up and walk’?"
+    },
+    {
+     "v": 24,
+     "text": "But so that you may know that the Son of Man{h} has authority on earth to forgive sins” — he said to the paralyzed man — “I tell you, get up, take your stretcher, and go to your home.”"
+    },
+    {
+     "v": 25,
+     "text": "At once he got up in front of them, picked up the mat he had lain on, and set off for home, giving glory to God."
+    },
+    {
+     "v": 26,
+     "text": "Astonishment seized them all, and they glorified God and were filled with fear, saying, “We have seen extraordinary things today.”"
+    },
+    {
+     "v": 27,
+     "text": "After this he went out and noticed a tax collector named Levi{i} sitting at the tax booth, and he said to him, “Follow me.”"
+    },
+    {
+     "v": 28,
+     "text": "And he left everything, got up, and began to follow him."
+    },
+    {
+     "v": 29,
+     "text": "Afterward Levi held a great reception for him at his home, and many tax collectors and others were at the table with them."
+    },
+    {
+     "v": 30,
+     "text": "The Pharisees and their scribes complained to his disciples, saying, “Why do you eat and drink with tax collectors and sinners?”"
+    },
+    {
+     "v": 31,
+     "text": "In reply Jesus told them, “People in good health have no need of a doctor, but the sick do."
+    },
+    {
+     "v": 32,
+     "text": "I have not come to call the upright but sinners to repentance.”"
+    },
+    {
+     "v": 33,
+     "text": "They said to him, “John’s disciples fast often and offer prayers, and so do those of the Pharisees, but yours eat and drink.”"
+    },
+    {
+     "v": 34,
+     "text": "Jesus said to them, “Can you make the wedding guests{j} fast while the bridegroom is with them?"
+    },
+    {
+     "v": 35,
+     "text": "But days will come, and when the bridegroom is taken away from them, then they will fast in those days.”"
+    },
+    {
+     "v": 36,
+     "text": "He spoke a parable to them as well: “Nobody rips a piece from a new coat to patch an old coat. If he does, he will have torn the new one, and the piece taken from the new one will not match the old."
+    },
+    {
+     "v": 37,
+     "text": "And no one puts new wine into old wineskins. Otherwise the new wine will burst the skins; it will be spilled, and the skins will be ruined."
+    },
+    {
+     "v": 38,
+     "text": "New wine must be put into fresh wineskins."
+    },
+    {
+     "v": 39,
+     "text": "[And nobody who has drunk old wine wishes for new; he says, ‘The old is good.’]{k}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Lake of Gennesaret: the Sea of Galilee, named after the plain of Gennesaret on its northwest shore."
+    },
+    {
+     "m": "b",
+     "ref": "5:10",
+     "text": "Catching people alive: Greek *zōgreō*, “take alive.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:14",
+     "text": "Lev 14:1–32."
+    },
+    {
+     "m": "d",
+     "ref": "5:17",
+     "text": "Pharisees: a Jewish party devoted to strict observance of the law and the traditions of the elders. The name probably means “separated ones.”"
+    },
+    {
+     "m": "e",
+     "ref": "5:17",
+     "text": "The power of the Lord: here *kyrios* refers to God. Many later manuscripts read “to heal them.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:20",
+     "text": "Friend: literally “Man” (Greek *anthrōpe*), a form of address."
+    },
+    {
+     "m": "g",
+     "ref": "5:21",
+     "text": "Scribes: experts in the law of Moses, who taught and interpreted it."
+    },
+    {
+     "m": "h",
+     "ref": "5:24",
+     "text": "Son of Man: an Aramaic expression meaning “human being,” used by Jesus to refer to himself, probably with reference to Dan 7:13–14."
+    },
+    {
+     "m": "i",
+     "ref": "5:27",
+     "text": "Levi: “joined” or “attached” (Gen 29:34). Matt 9:9 calls him Matthew."
+    },
+    {
+     "m": "j",
+     "ref": "5:34",
+     "text": "Wedding guests: literally “sons of the bridal chamber.”"
+    },
+    {
+     "m": "k",
+     "ref": "5:39",
+     "text": "Westcott and Hort placed this verse in single brackets as doubtful; it is absent from Codex Bezae and some Old Latin witnesses but present in the earliest manuscripts, including P75 (as reported in the standard editions), Sinaiticus and Vaticanus. *Good*: so the Westcott–Hort text; many manuscripts read “better.”"
+    }
+   ]
+  }
+ ]
+}
