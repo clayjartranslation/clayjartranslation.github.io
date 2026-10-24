@@ -1809,9 +1809,17 @@
    "id": "1-corinthians",
    "name": "1 Corinthians",
    "division": "New Testament",
-   "chapterCount": "16",
-   "translated": [],
-   "file": null
+   "chapterCount": 16,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "file": "data/books/1-corinthians.json"
   },
   {
    "id": "2-corinthians",
