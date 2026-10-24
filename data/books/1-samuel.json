@@ -1,0 +1,1276 @@
+{
+ "id": "1-samuel",
+ "name": "1 Samuel",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Septuagint (where 1 Samuel is called 1 Kingdoms) and against the Dead Sea Scrolls of Samuel, chiefly 4QSam-a, the largest of them. In Samuel the traditional Hebrew text has suffered more copying damage than in most books, and the Septuagint and 4QSam-a often preserve an older or fuller wording; the most important differences are footnoted (for example, the Nahash paragraph before chapter 11, the short Greek text of chapters 17–18, Goliath’s height, the Song of Hannah, and the gap in 13:1). Every Septuagint reading cited in the footnotes was checked against Brenton’s public-domain English translation (quoted in modernized wording). Readings of the Dead Sea Scrolls are stated in general terms (“is reported to read”) until they can be checked against the critical editions. Verse numbers follow the standard English Bible; where the Hebrew numbering differs (20:42; 23:29; 24:1–22), a footnote says so. Measurements are given in modern US units, and times and dates use modern equivalents, with the originals in the footnotes.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    9,
+    12,
+    19,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "There was a certain man from Ramathaim-zophim,{a} in the hill country of Ephraim, whose name was Elkanah{b} son of Jeroham, son of Elihu, son of Tohu, son of Zuph, an Ephraimite."
+    },
+    {
+     "v": 2,
+     "text": "He had two wives. One was named Hannah{c} and the other Peninnah.{d} Peninnah had children, but Hannah had none."
+    },
+    {
+     "v": 3,
+     "text": "This man used to go up from his town every year to bow down and to sacrifice to Yahweh{e} of Armies{f} at Shiloh,{g} and the two sons of Eli,{h} Hophni{i} and Phinehas,{j} were priests of Yahweh there."
+    },
+    {
+     "v": 4,
+     "text": "On the day when Elkanah sacrificed, he gave shares of the meat to Peninnah his wife and to each of her sons and daughters,"
+    },
+    {
+     "v": 5,
+     "text": "but to Hannah he gave a double share,{k} for it was Hannah he loved, though Yahweh had shut up her womb."
+    },
+    {
+     "v": 6,
+     "text": "Her rival would taunt her bitterly to provoke her, because Yahweh had closed her womb."
+    },
+    {
+     "v": 7,
+     "text": "So it went on year after year. Every time Hannah went up to the house of Yahweh, her rival provoked her, and she wept and would not eat."
+    },
+    {
+     "v": 8,
+     "text": "Her husband Elkanah would say to her, “Hannah, why are you crying? Why will you not eat? Why is your heart so sad? Am I not worth more to you than ten sons?”"
+    },
+    {
+     "v": 9,
+     "text": "Once, after they had eaten and drunk at Shiloh, Hannah got up.{l} Eli the priest was sitting on his seat beside the doorpost of the temple of Yahweh."
+    },
+    {
+     "v": 10,
+     "text": "Deeply distressed, she prayed to Yahweh and wept bitterly."
+    },
+    {
+     "v": 11,
+     "text": "She made a vow and said, “Yahweh of Armies, if you will truly look on the misery of your servant and remember me, and not forget your servant, but give your servant a male child, then I will give him to Yahweh for all the days of his life, and no razor will ever touch his head.”{m}"
+    },
+    {
+     "v": 12,
+     "text": "As she kept on praying before Yahweh, Eli was watching her mouth."
+    },
+    {
+     "v": 13,
+     "text": "Hannah was speaking in her heart; only her lips were moving, and her voice could not be heard. So Eli supposed she was drunk."
+    },
+    {
+     "v": 14,
+     "text": "Eli said to her, “How long will you go on being drunk? Get rid of your wine.”"
+    },
+    {
+     "v": 15,
+     "text": "But Hannah answered, “No, my lord, I am a woman troubled in spirit. I have drunk neither wine nor beer. I have been pouring out my soul before Yahweh."
+    },
+    {
+     "v": 16,
+     "text": "Do not count your servant as a worthless woman,{n} for all this time I have been speaking out of my great anguish and grief.”"
+    },
+    {
+     "v": 17,
+     "text": "Then Eli answered, “Go in peace. May the God of Israel grant what you have asked of him.”"
+    },
+    {
+     "v": 18,
+     "text": "She said, “Let your servant find favor in your sight.” Then the woman went her way and ate, and her face was no longer downcast.{o}"
+    },
+    {
+     "v": 19,
+     "text": "They rose early in the morning and bowed down before Yahweh; then they went back home to Ramah. Elkanah knew his wife Hannah, and Yahweh remembered her."
+    },
+    {
+     "v": 20,
+     "text": "In due time Hannah conceived and bore a son. She named him Samuel,{p} saying, “Because I asked Yahweh for him.”"
+    },
+    {
+     "v": 21,
+     "text": "Then Elkanah went up, he and his whole household, to offer Yahweh the yearly sacrifice and to pay his vow."
+    },
+    {
+     "v": 22,
+     "text": "But Hannah did not go up. She told her husband, “Not until the child is weaned. Then I will take him, and he will appear before Yahweh and stay there for good.”{q}"
+    },
+    {
+     "v": 23,
+     "text": "Her husband Elkanah said to her, “Do whatever you think is good. Wait here until you have weaned him. Only may Yahweh confirm his word.”{r} So the woman remained and nursed her son until she weaned him."
+    },
+    {
+     "v": 24,
+     "text": "When she had weaned him, she took him up with her, along with a three-year-old bull,{s} about three-fifths of a bushel of flour,{t} and a skin of wine, and brought him to the house of Yahweh at Shiloh. The child was still young."
+    },
+    {
+     "v": 25,
+     "text": "Then they slaughtered the bull and took the boy to Eli."
+    },
+    {
+     "v": 26,
+     "text": "She said, “Excuse me, my lord! As you live, my lord, I am that woman who was standing near you here, praying to Yahweh."
+    },
+    {
+     "v": 27,
+     "text": "For this child I prayed, and Yahweh has granted me what I asked of him."
+    },
+    {
+     "v": 28,
+     "text": "So I in turn have lent him to Yahweh.{u} For as long as he lives he is lent to Yahweh.” And he{v} worshiped Yahweh there."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Ramathaim-zophim means “two heights of the Zuphites” (compare “Zuph” later in the verse). The town is called Ramah, “height,” in verse 19. The Septuagint reads “Armathaim Zipha” (Brenton, “Armathaim Sipha”); its exact site is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Elkanah means “God has created” or “God has acquired.” The Septuagint spells the names in this genealogy differently (Brenton: Helkana, Jeremeel, Elius, Thocca, Suph)."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Hannah means “grace” or “favor.” The Septuagint spells it “Anna.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Peninnah may mean “coral” or “pearl” (uncertain)."
+    },
+    {
+     "m": "e",
+     "ref": "1:3",
+     "text": "Yahweh is the personal name of Israel’s God (Hebrew YHWH), which many English versions replace with “the LORD.” This translation writes the name."
+    },
+    {
+     "m": "f",
+     "ref": "1:3",
+     "text": "Hebrew Yahweh tsebaʾot, traditionally “the LORD of hosts” (or “Yahweh Sabaoth”). The armies may be Israel’s forces, the heavenly host, or both. This is the first time the title appears in the Bible; it occurs often in Samuel, Isaiah, Jeremiah, Haggai, Zechariah, and Malachi. The Septuagint keeps the Hebrew word: “Lord God of Sabaoth” (Brenton, 1:11)."
+    },
+    {
+     "m": "g",
+     "ref": "1:3",
+     "text": "Shiloh, where the tent of meeting stood in this period (Joshua 18:1), is about 20 miles (30 kilometers) north of Jerusalem; the name may mean “place of rest” (uncertain)."
+    },
+    {
+     "m": "h",
+     "ref": "1:3",
+     "text": "Eli probably means “exalted” or “my God” (uncertain)."
+    },
+    {
+     "m": "i",
+     "ref": "1:3",
+     "text": "Hophni is probably an Egyptian name, perhaps “tadpole” (uncertain)."
+    },
+    {
+     "m": "j",
+     "ref": "1:3",
+     "text": "Phinehas is an Egyptian name meaning “the Nubian.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:5",
+     "text": "The Hebrew is difficult. Literally “one portion of two faces,” perhaps “a double portion” or “a choice portion”; some take it to mean “only one portion.” The Septuagint reads “a prime portion, because she had no child” (Brenton)."
+    },
+    {
+     "m": "l",
+     "ref": "1:9",
+     "text": "The Septuagint adds, “and stood before the Lord” (Brenton)."
+    },
+    {
+     "m": "m",
+     "ref": "1:11",
+     "text": "The Septuagint adds, “and he will drink no wine or strong drink” (Brenton, modernized). Compare the Nazirite vow in Numbers 6:1–8 and Samson in Judges 13:5."
+    },
+    {
+     "m": "n",
+     "ref": "1:16",
+     "text": "Hebrew “a daughter of Belial,” an expression for a worthless or wicked person."
+    },
+    {
+     "m": "o",
+     "ref": "1:18",
+     "text": "The Septuagint reads, “and entered into her lodging, and ate and drank with her husband” (Brenton, modernized)."
+    },
+    {
+     "m": "p",
+     "ref": "1:20",
+     "text": "Samuel (Hebrew Shemuʾel) probably means “name of God” or “heard by God.” Hannah’s explanation is a wordplay on the verb shaʾal, “to ask,” which is the root of the name Saul (Shaʾul). The pun may hint at the story of Saul, the king Israel “asked for” (8:10; 12:13)."
+    },
+    {
+     "m": "q",
+     "ref": "1:22",
+     "text": "Or “for all time.” 4QSam-a is reported to add that she would dedicate him as a Nazirite for all time (compare verse 11)."
+    },
+    {
+     "m": "r",
+     "ref": "1:23",
+     "text": "So the traditional Hebrew text (MT). The Septuagint reads “may the Lord establish that which comes out of your mouth” (Brenton, modernized), and 4QSam-a is reported to agree with the Greek."
+    },
+    {
+     "m": "s",
+     "ref": "1:24",
+     "text": "So the Septuagint (Brenton, “a calf of three years old”), 4QSam-a (as reported), and other ancient witnesses. The traditional Hebrew text reads “with three bulls,” but verse 25 mentions only one bull; dividing the Hebrew letters differently gives “a three-year-old bull.”"
+    },
+    {
+     "m": "t",
+     "ref": "1:24",
+     "text": "Hebrew “an ephah of flour,” a dry measure of about 22 liters."
+    },
+    {
+     "m": "u",
+     "ref": "1:28",
+     "text": "Hebrew shaʾul, “asked” or “lent,” the same form as the name Saul. The verse plays on the root “ask” used in verses 17, 20, and 27."
+    },
+    {
+     "m": "v",
+     "ref": "1:28",
+     "text": "That is, Elkanah, or possibly Samuel. Some Hebrew manuscripts read “they.” The Septuagint instead reads “and she said” (Brenton) and goes straight into Hannah’s song."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    11,
+    12,
+    18,
+    22,
+    26,
+    27
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Hannah prayed and said,{a} “My heart exults in Yahweh; my horn{b} is raised high in Yahweh.{c} My mouth gapes wide against my enemies, for I take joy in your rescue."
+    },
+    {
+     "v": 2,
+     "text": "No one is holy like Yahweh; indeed, there is no one besides you, and there is no rock like our God.{d}"
+    },
+    {
+     "v": 3,
+     "text": "Stop piling up proud words; let no arrogance come from your mouth, for Yahweh is a God who knows, and by him actions are weighed.{e}"
+    },
+    {
+     "v": 4,
+     "text": "The bows of the mighty are broken, while those who stumbled are wrapped in strength."
+    },
+    {
+     "v": 5,
+     "text": "Those who had plenty now hire themselves out for bread, while the hungry hunger no more.{f} The childless woman has borne seven, but the mother of many pines away."
+    },
+    {
+     "v": 6,
+     "text": "Yahweh puts to death and brings to life; he brings down to Sheol{g} and raises up."
+    },
+    {
+     "v": 7,
+     "text": "Yahweh makes poor and makes rich; he humbles, and he also exalts."
+    },
+    {
+     "v": 8,
+     "text": "He lifts the poor from the dust; from the ash heap he raises the needy, to seat them with nobles and give them a throne of honor as their inheritance. For the pillars of the earth belong to Yahweh, and on them he has set the world.{h}"
+    },
+    {
+     "v": 9,
+     "text": "He guards the feet of his faithful ones, but the wicked are silenced in darkness, for no one prevails by strength."
+    },
+    {
+     "v": 10,
+     "text": "Yahweh shatters those who oppose him;{i} against them he thunders from the heavens. Yahweh judges the ends of the earth. He gives strength to his king and raises high the horn of his anointed one.”{j}"
+    },
+    {
+     "v": 11,
+     "text": "Then Elkanah went home to Ramah, but the boy remained to serve Yahweh in the presence of Eli the priest.{k}"
+    },
+    {
+     "v": 12,
+     "text": "But the sons of Eli were worthless men;{l} they had no regard for Yahweh"
+    },
+    {
+     "v": 13,
+     "text": "or the priests’ rightful due from the people.{m} Whenever anyone offered a sacrifice, the priest’s servant would come while the meat was boiling, holding a three-pronged fork,"
+    },
+    {
+     "v": 14,
+     "text": "and he would thrust it into the pan or kettle or cauldron or pot. Whatever the fork brought up, the priest took for himself. This is how they treated all the Israelites who came there to Shiloh."
+    },
+    {
+     "v": 15,
+     "text": "What is more, even before they burned the fat, the priest’s servant used to come and tell the man offering the sacrifice, “Hand over meat for the priest to roast. He will not accept boiled meat from you, only raw.”"
+    },
+    {
+     "v": 16,
+     "text": "And if the man answered him, “The fat must be burned first; after that, take as much as you like,” he would reply, “No, you will hand it over now, and if not, I will take it by force.”"
+    },
+    {
+     "v": 17,
+     "text": "So the young men’s sin was very great in Yahweh’s sight, for the men treated Yahweh’s offering with contempt."
+    },
+    {
+     "v": 18,
+     "text": "But Samuel was serving before Yahweh, a boy dressed in a linen ephod.{n}"
+    },
+    {
+     "v": 19,
+     "text": "Every year his mother would make him a little robe and bring it to him when she came up with her husband to offer the yearly sacrifice."
+    },
+    {
+     "v": 20,
+     "text": "And Eli would bless Elkanah and his wife and say, “May Yahweh give you offspring from this woman in exchange for the one she asked for and lent to Yahweh.”{o} Then they would return home."
+    },
+    {
+     "v": 21,
+     "text": "Yahweh visited Hannah, and she conceived and bore three sons and two daughters. Meanwhile the boy Samuel grew up before Yahweh."
+    },
+    {
+     "v": 22,
+     "text": "Eli was very old. He kept hearing about everything his sons were doing to all Israel, and how they lay with the women who served at the entrance of the tent of meeting.{p}"
+    },
+    {
+     "v": 23,
+     "text": "He said to them, “Why do you do such things? From all these people I hear reports of your wicked deeds."
+    },
+    {
+     "v": 24,
+     "text": "No, my sons. What I hear Yahweh’s people spreading about you is not a good report."
+    },
+    {
+     "v": 25,
+     "text": "If one person sins against another, God{q} may mediate for him; but if someone sins against Yahweh, who can plead for him?” But they would not listen to their father, for it was Yahweh’s will to put them to death."
+    },
+    {
+     "v": 26,
+     "text": "Meanwhile the boy Samuel kept growing, both in stature and in favor with Yahweh and with people."
+    },
+    {
+     "v": 27,
+     "text": "A man of God came to Eli and said to him, “This is what Yahweh says: ‘Did I not reveal myself plainly to your father’s house when they were in Egypt, slaves to Pharaoh’s house?{r}"
+    },
+    {
+     "v": 28,
+     "text": "Out of all the tribes of Israel I chose him to be my priest, to go up to my altar, to burn incense, and to carry the ephod before me. I gave your father’s house all the food offerings of the Israelites."
+    },
+    {
+     "v": 29,
+     "text": "Why then do you trample{s} on my sacrifices and on the offerings I ordered for my dwelling? Why do you honor your sons above me, growing fat on the best part of every offering of Israel my people?’"
+    },
+    {
+     "v": 30,
+     "text": "Therefore Yahweh, the God of Israel, declares: ‘I did say that your house and your father’s house would walk before me forever.’ But now Yahweh declares: ‘Far be it from me! Those who honor me I will honor, and those who despise me will be treated as nothing."
+    },
+    {
+     "v": 31,
+     "text": "Look, days are coming when I will cut off your arm{t} and the arm of your father’s house, until there is no old man left in your house."
+    },
+    {
+     "v": 32,
+     "text": "You will look with envy on all the good that is done for Israel,{u} and never will there be an old man in your house."
+    },
+    {
+     "v": 33,
+     "text": "Any of yours whom I do not cut off from my altar will be spared only to wear out your{v} eyes and grieve your heart, and all the increase of your house will die as men in their prime.{w}"
+    },
+    {
+     "v": 34,
+     "text": "And what happens to your two sons, Hophni and Phinehas, will be the sign to you: on one day both of them will die."
+    },
+    {
+     "v": 35,
+     "text": "I will raise up for myself a faithful priest, who will act in keeping with what is in my heart and mind. I will build him a lasting house, and he will walk before my anointed one forever."
+    },
+    {
+     "v": 36,
+     "text": "Whoever is left in your house will come and bow down to him for a small silver coin{x} or a loaf of bread, and will say, “Please assign me to one of the priestly duties, so that I can have a scrap of bread to eat.”’”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "The Song of Hannah (2:1–10) is a poem of praise for God who reverses human fortunes; compare Mary’s song in Luke 1:46–55. The Septuagint and 4QSam-a differ from the traditional Hebrew text in several lines, as noted below. This needs scholarly review."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "The horn is an image of strength and dignity, taken from the horns of a wild ox."
+    },
+    {
+     "m": "c",
+     "ref": "2:1",
+     "text": "So the traditional Hebrew text. The Septuagint reads “in my God” (Brenton), and some Hebrew manuscripts are reported to agree."
+    },
+    {
+     "m": "d",
+     "ref": "2:2",
+     "text": "The Septuagint reads “For there is none holy as the Lord, and there is none righteous as our God: there is none holy besides you” (Brenton, modernized), without the line about the rock."
+    },
+    {
+     "m": "e",
+     "ref": "2:3",
+     "text": "Or “and actions are not weighed,” following the written Hebrew (ketiv), which has “not” rather than “by him.” The Septuagint reads “and God prepares his own designs” (Brenton, modernized)."
+    },
+    {
+     "m": "f",
+     "ref": "2:5",
+     "text": "Hebrew uncertain; literally “and the hungry cease.” The Septuagint reads “and the hungry have forsaken the land” (Brenton)."
+    },
+    {
+     "m": "g",
+     "ref": "2:6",
+     "text": "Sheol is the realm of the dead (the grave, the underworld)."
+    },
+    {
+     "m": "h",
+     "ref": "2:8",
+     "text": "The Septuagint lacks these two lines and instead reads, “granting his request to the one who prays; and he blesses the years of the righteous” (Brenton, modernized), at the start of verse 9; it also lacks the first two lines of verse 9 as they stand in Hebrew. 4QSam-a is reported to agree with the Greek here in part."
+    },
+    {
+     "m": "i",
+     "ref": "2:10",
+     "text": "So the Hebrew as traditionally read (qere); the written text (ketiv) has the singular, “the one who contends with him.” The Septuagint reads, “The Lord will weaken his adversary; the Lord is holy” (Brenton)."
+    },
+    {
+     "m": "j",
+     "ref": "2:10",
+     "text": "Hebrew mashiaḥ, “anointed one,” from which the title “Messiah” comes. In the Septuagint, this verse is much longer. After “the Lord is holy” it adds, in words close to Jeremiah 9:23–24: “Let the wise man not boast in his wisdom, nor the mighty man in his strength, nor the rich man in his wealth; but let the one who boasts boast in this, to understand and know the Lord, and to do justice and righteousness in the midst of the earth” (Brenton, modernized). 4QSam-a is reported to contain part of this addition. This needs scholarly review."
+    },
+    {
+     "m": "k",
+     "ref": "2:11",
+     "text": "The Septuagint begins the verse, “And she left him there before the Lord, and departed to Armathaim” (Brenton, modernized)."
+    },
+    {
+     "m": "l",
+     "ref": "2:12",
+     "text": "Hebrew “sons of Belial,” that is, worthless or wicked men."
+    },
+    {
+     "m": "m",
+     "ref": "2:13",
+     "text": "Or “the priests’ custom with the people.” Hebrew mishpat, “judgment, right, custom.” Compare the priests’ legal portion in Leviticus 7:31–34 and Deuteronomy 18:3."
+    },
+    {
+     "m": "n",
+     "ref": "2:18",
+     "text": "The linen ephod here is a simple priestly garment worn by those serving at the sanctuary (compare 22:18; 2 Samuel 6:14), not the high priest’s ornate ephod of Exodus 28."
+    },
+    {
+     "m": "o",
+     "ref": "2:20",
+     "text": "So 4QSam-a (as reported) and the Septuagint (Brenton, “in return for the loan which you have lent to the Lord,” modernized). The traditional Hebrew text reads “in place of the request which he asked of Yahweh.” Again the verb plays on the name Saul (see 1:20)."
+    },
+    {
+     "m": "p",
+     "ref": "2:22",
+     "text": "The Septuagint lacks this clause about the women at the entrance (Brenton), and 4QSam-a is reported to lack it as well. Compare Exodus 38:8."
+    },
+    {
+     "m": "q",
+     "ref": "2:25",
+     "text": "Or “the judges” (Hebrew ’elohim). God, or those acting for him, can settle a dispute between people."
+    },
+    {
+     "m": "r",
+     "ref": "2:27",
+     "text": "The Septuagint reads “when they were servants in Egypt to the house of Pharaoh” (Brenton, modernized), and 4QSam-a is reported to have “servants.”"
+    },
+    {
+     "m": "s",
+     "ref": "2:29",
+     "text": "Hebrew uncertain; literally “kick at” (compare Deuteronomy 32:15). The Septuagint reads “look upon … with a shameless eye” (Brenton, modernized)."
+    },
+    {
+     "m": "t",
+     "ref": "2:31",
+     "text": "The arm is a symbol of strength and vigor."
+    },
+    {
+     "m": "u",
+     "ref": "2:32",
+     "text": "Hebrew uncertain; literally “you will see an adversary of the dwelling in all that he does good to Israel.” The Septuagint lacks this line (Brenton)."
+    },
+    {
+     "m": "v",
+     "ref": "2:33",
+     "text": "So the traditional Hebrew text. The Septuagint reads “his eyes … his soul” (Brenton), and 4QSam-a is reported to agree."
+    },
+    {
+     "m": "w",
+     "ref": "2:33",
+     "text": "So the traditional Hebrew text, “will die as men.” The Septuagint reads “will fall by the sword of men” (Brenton), and 4QSam-a is reported to agree."
+    },
+    {
+     "m": "x",
+     "ref": "2:36",
+     "text": "Hebrew ’agorah, a small coin or weight of silver, probably a fraction of a shekel (11.5 grams). The exact value is unknown."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    2,
+    10,
+    15,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The boy Samuel was serving Yahweh under Eli. In those days the word of Yahweh was rare; visions did not come often.{a}"
+    },
+    {
+     "v": 2,
+     "text": "One night Eli, whose eyesight had begun to dim so that he could not see, was lying down in his usual place."
+    },
+    {
+     "v": 3,
+     "text": "The lamp of God had not yet gone out,{b} and Samuel was lying down in the temple of Yahweh, where the ark of God was."
+    },
+    {
+     "v": 4,
+     "text": "Then Yahweh called Samuel,{c} and he answered, “Here I am!”"
+    },
+    {
+     "v": 5,
+     "text": "He ran to Eli and said, “Here I am, for you called me.” Eli said, “I did not call. Lie down again.” And he went and lay down."
+    },
+    {
+     "v": 6,
+     "text": "Yahweh called yet again, “Samuel!” Samuel got up, went to Eli, and said, “Here I am, for you called me.” Eli answered, “I did not call, my son. Lie down again.”"
+    },
+    {
+     "v": 7,
+     "text": "Samuel did not yet know Yahweh: the word of Yahweh had not yet been revealed to him."
+    },
+    {
+     "v": 8,
+     "text": "Yahweh called Samuel a third time. He got up, went to Eli, and said, “Here I am; you called me.” Then Eli understood that Yahweh was calling the boy."
+    },
+    {
+     "v": 9,
+     "text": "So Eli said to Samuel, “Go and lie down. If he calls you, say, ‘Speak, Yahweh, for your servant is listening.’” So Samuel went and lay down in his place."
+    },
+    {
+     "v": 10,
+     "text": "Yahweh came and stood there, and called as he had the other times, “Samuel! Samuel!” And Samuel said, “Speak, for your servant is listening.”"
+    },
+    {
+     "v": 11,
+     "text": "Yahweh said to Samuel, “Watch: I am about to do a thing in Israel that will make both ears of everyone who hears of it ring."
+    },
+    {
+     "v": 12,
+     "text": "On that day I will carry out against Eli everything I have spoken about his house, from beginning to end."
+    },
+    {
+     "v": 13,
+     "text": "I have told him that I am going to judge his house for all time, for the iniquity that he knew of: his sons were bringing a curse on themselves,{d} and he did not restrain them."
+    },
+    {
+     "v": 14,
+     "text": "Therefore I have sworn to the house of Eli that the guilt of Eli’s house will never be wiped away by sacrifice or offering.”"
+    },
+    {
+     "v": 15,
+     "text": "Samuel lay there until morning; then he opened the doors of the house of Yahweh. But Samuel was afraid to tell Eli about the vision."
+    },
+    {
+     "v": 16,
+     "text": "Then Eli called Samuel and said, “Samuel, my son.” He answered, “Here I am.”"
+    },
+    {
+     "v": 17,
+     "text": "Eli asked, “What was the word he spoke to you? Do not hide it from me. May God deal with you severely, and more so, if you hide from me anything of all that he told you.”"
+    },
+    {
+     "v": 18,
+     "text": "So Samuel told him everything and hid nothing from him. Then Eli said, “He is Yahweh. Let him do what seems good to him.”"
+    },
+    {
+     "v": 19,
+     "text": "Samuel grew up, and Yahweh was with him and let none of his words fall to the ground.{e}"
+    },
+    {
+     "v": 20,
+     "text": "All Israel from Dan to Beersheba{f} recognized that Samuel had been confirmed as a prophet of Yahweh."
+    },
+    {
+     "v": 21,
+     "text": "Yahweh continued to appear at Shiloh, for at Shiloh Yahweh revealed himself to Samuel through the word of Yahweh.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Literally “vision was not breaking through.” The Septuagint reads “there was no distinct vision” (Brenton)."
+    },
+    {
+     "m": "b",
+     "ref": "3:3",
+     "text": "That is, it was still night, before dawn. The lampstand in the sanctuary burned from evening until morning (Exodus 27:20–21; Leviticus 24:2–3)."
+    },
+    {
+     "m": "c",
+     "ref": "3:4",
+     "text": "The Septuagint reads “called Samuel, Samuel” (Brenton has “called, Samuel, Samuel”), and some ancient witnesses agree; compare verse 10."
+    },
+    {
+     "m": "d",
+     "ref": "3:13",
+     "text": "So the traditional Hebrew text, “were cursing themselves” (or “were treating it lightly”). The Septuagint reads “his sons spoke evil against God” (Brenton). Jewish tradition lists this verse among the places where scribes altered “God” to avoid writing a curse against him, and many scholars think “cursing God” is original."
+    },
+    {
+     "m": "e",
+     "ref": "3:19",
+     "text": "That is, everything Samuel said came true."
+    },
+    {
+     "m": "f",
+     "ref": "3:20",
+     "text": "Dan in the far north and Beersheba in the south; the phrase means the whole land."
+    },
+    {
+     "m": "g",
+     "ref": "3:21",
+     "text": "The Septuagint adds, “and Samuel was trusted by all Israel as a prophet of the Lord from one end of the land to the other; and Eli was very old, and his sons kept going on in wickedness, and their way was evil before the Lord” (Brenton, modernized). Some of this may belong with 4:1."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5,
+    10,
+    12,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "And the word of Samuel came to all Israel. Now Israel went out to meet the Philistines in battle.{a} They pitched camp beside Ebenezer,{b} while the Philistines pitched camp in Aphek."
+    },
+    {
+     "v": 2,
+     "text": "The Philistines arrayed themselves against Israel, and when the battle spread out, Israel was struck down before the Philistines, and about four thousand men were killed in the ranks in the field."
+    },
+    {
+     "v": 3,
+     "text": "When the troops returned to the camp, the elders of Israel said, “Why has Yahweh let us be beaten today before the Philistines? Let us bring the ark of Yahweh’s covenant here from Shiloh, so that it may come among us and save us from the power of our enemies.”"
+    },
+    {
+     "v": 4,
+     "text": "So the people sent to Shiloh and brought from there the ark of the covenant of Yahweh of Armies, who is enthroned on the cherubim.{c} And Eli’s two sons, Hophni and Phinehas, were there with the ark of the covenant of God."
+    },
+    {
+     "v": 5,
+     "text": "When the ark of Yahweh’s covenant came into the camp, all Israel shouted with a great shout, so that the earth rang."
+    },
+    {
+     "v": 6,
+     "text": "Hearing the noise of the shouting, the Philistines said, “What is this great shouting in the Hebrews’ camp?” When they learned that the ark of Yahweh had come into the camp,"
+    },
+    {
+     "v": 7,
+     "text": "the Philistines were frightened. They said, “God has come into the camp.”{d} And they said, “Woe to us! Nothing like this has happened before."
+    },
+    {
+     "v": 8,
+     "text": "Woe to us! Who will rescue us from the hand of these mighty gods? These are the gods who struck the Egyptians with every kind of plague in the wilderness.{e}"
+    },
+    {
+     "v": 9,
+     "text": "Be strong and act like men, Philistines, or you will become slaves to the Hebrews as they have been slaves to you. Be men, and fight!”"
+    },
+    {
+     "v": 10,
+     "text": "So the Philistines fought, and Israel was defeated, and every man fled to his tent. The slaughter was very great: thirty thousand foot soldiers of Israel fell."
+    },
+    {
+     "v": 11,
+     "text": "The ark of God was taken, and both sons of Eli, Hophni and Phinehas, died."
+    },
+    {
+     "v": 12,
+     "text": "A Benjamite ran from the battle ranks and reached Shiloh that same day, his clothes torn and earth on his head.{f}"
+    },
+    {
+     "v": 13,
+     "text": "When he arrived, Eli was sitting on his seat beside the road, watching,{g} for his heart trembled for the ark of God. When the man came into the town to tell the news, the whole town cried out."
+    },
+    {
+     "v": 14,
+     "text": "Hearing the sound of the outcry, Eli asked, “What is this uproar?” The man hurried over and told Eli."
+    },
+    {
+     "v": 15,
+     "text": "Eli was ninety-eight years old,{h} and his eyes were fixed so that he could not see."
+    },
+    {
+     "v": 16,
+     "text": "The man said to Eli, “I have come from the battle; I fled from the ranks today.” Eli asked, “How did things go, my son?”"
+    },
+    {
+     "v": 17,
+     "text": "The messenger answered, “Israel has fled before the Philistines, and there has been a great slaughter among the troops. Your two sons, Hophni and Phinehas, are dead, and the ark of God has been taken.”"
+    },
+    {
+     "v": 18,
+     "text": "At the mention of the ark of God, Eli toppled backward off his seat beside the gate, broke his neck, and died, for he was an old man and heavy. He had judged Israel forty years.{i}"
+    },
+    {
+     "v": 19,
+     "text": "Now the wife of Phinehas, his daughter-in-law, was with child and close to delivery. Hearing the report that the ark of God was taken and that her father-in-law and husband were dead, she bent down and gave birth, for her pains came upon her suddenly."
+    },
+    {
+     "v": 20,
+     "text": "As she was dying, the women attending her said, “Do not be afraid, for you have given birth to a son.” But she did not answer or pay attention."
+    },
+    {
+     "v": 21,
+     "text": "She named the boy Ichabod,{j} saying, “The glory has gone into exile from Israel,” because of the capture of the ark of God and because of her father-in-law and her husband."
+    },
+    {
+     "v": 22,
+     "text": "She said, “The glory has gone into exile from Israel, for the ark of God has been taken.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "The Septuagint begins, “And it came to pass in those days that the Philistines gathered themselves together against Israel to war, and Israel went out to meet them” (Brenton, modernized)."
+    },
+    {
+     "m": "b",
+     "ref": "4:1",
+     "text": "Ebenezer means “stone of help.” The place receives this name in 7:12; the narrator uses the name known to his readers."
+    },
+    {
+     "m": "c",
+     "ref": "4:4",
+     "text": "The cherubim were winged figures above the cover of the ark (Exodus 25:18–22), pictured as the throne of the invisible God."
+    },
+    {
+     "m": "d",
+     "ref": "4:7",
+     "text": "Or “gods have come into the camp.” The Septuagint reads “These are the gods that have come to them into the camp” (Brenton, modernized)."
+    },
+    {
+     "m": "e",
+     "ref": "4:8",
+     "text": "Or “with every kind of plague and in the wilderness.” The Philistines’ version of the exodus story is confused, which may be intended. The Septuagint reads “with every plague, and in the wilderness” (Brenton)."
+    },
+    {
+     "m": "f",
+     "ref": "4:12",
+     "text": "Torn clothes and earth on the head were signs of mourning and disaster."
+    },
+    {
+     "m": "g",
+     "ref": "4:13",
+     "text": "So the traditional reading. The written Hebrew (ketiv) is unclear; the Septuagint reads “upon the seat by the gate looking along the way” (Brenton)."
+    },
+    {
+     "m": "h",
+     "ref": "4:15",
+     "text": "The Septuagint reads “ninety years old” (Brenton)."
+    },
+    {
+     "m": "i",
+     "ref": "4:18",
+     "text": "The Septuagint reads “twenty years” (Brenton)."
+    },
+    {
+     "m": "j",
+     "ref": "4:21",
+     "text": "Ichabod is usually understood as “Where is the glory?” or “No glory.” The Septuagint has a different form, “Uaibarchaboth” (Brenton, “Uæbarchaboth”), perhaps meaning “Woe for the glory.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    6
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After the Philistines captured the ark of God, they brought it from Ebenezer to Ashdod.{a}"
+    },
+    {
+     "v": 2,
+     "text": "The Philistines took the ark of God, carried it into the temple of Dagon,{b} and set it up beside Dagon."
+    },
+    {
+     "v": 3,
+     "text": "When the people of Ashdod got up early the next day, there was Dagon, fallen on his face to the ground before the ark of Yahweh. So they took Dagon and put him back in his place."
+    },
+    {
+     "v": 4,
+     "text": "But when they got up early the following morning, there was Dagon again, fallen on his face to the ground before the ark of Yahweh. Dagon’s head and both his hands lay broken off on the threshold; only his trunk{c} was left."
+    },
+    {
+     "v": 5,
+     "text": "That is why, to this day, neither the priests of Dagon nor anyone who enters Dagon’s temple steps on the threshold of Dagon in Ashdod."
+    },
+    {
+     "v": 6,
+     "text": "Yahweh’s hand weighed heavily on the people of Ashdod. He devastated them and struck them with tumors,{d} both Ashdod and its territory."
+    },
+    {
+     "v": 7,
+     "text": "When the men of Ashdod saw what was happening, they said, “The ark of the God of Israel must not stay with us, for his hand is hard on us and on Dagon our god.”"
+    },
+    {
+     "v": 8,
+     "text": "So they sent for all the rulers of the Philistines,{e} gathered them, and asked, “What should we do with the ark of the God of Israel?” They answered, “Let the ark of the God of Israel be moved on to Gath.” So they moved the ark of the God of Israel there."
+    },
+    {
+     "v": 9,
+     "text": "But after they had moved it, Yahweh’s hand was against that city, causing a very great panic. He struck the people of the city, from the least to the greatest, and tumors broke out on them."
+    },
+    {
+     "v": 10,
+     "text": "Then they sent the ark of God to Ekron. But when the ark of God came to Ekron, the Ekronites cried out, “They have brought the ark of the God of Israel around to us to kill us and our people!”"
+    },
+    {
+     "v": 11,
+     "text": "They sent and gathered all the rulers of the Philistines and said, “Send off the ark of the God of Israel and let it return to where it belongs, or it will kill us and our people.” For deadly panic had gripped the whole city; God’s hand was very heavy there."
+    },
+    {
+     "v": 12,
+     "text": "And the men who did not die were struck with the tumors, and the cry of the city rose up to the heavens."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Ashdod, Gath, and Ekron (verses 8–10), with Gaza and Ashkelon, were the five chief cities of the Philistines (6:17). The Septuagint calls them Azotus, Geth, Accaron, Gaza, and Ascalon (Brenton); at verse 10 it reads “Ascalon” instead of Ekron."
+    },
+    {
+     "m": "b",
+     "ref": "5:2",
+     "text": "Dagon was a West Semitic grain god worshiped by the Philistines (Judges 16:23). The name is probably related to dagan, “grain,” though it was once linked with dag, “fish.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:4",
+     "text": "So the Septuagint, “stump” or “trunk” (Brenton, “stump”). The traditional Hebrew text reads “only Dagon was left on him.”"
+    },
+    {
+     "m": "d",
+     "ref": "5:6",
+     "text": "Hebrew ’ophalim, probably swellings or boils (perhaps the buboes of bubonic plague); the traditional reading (qere) is teḥorim, a word of similar meaning. The Septuagint adds that the hand of the Lord “brought evil upon them, and it burst out upon them into the ships, and mice sprang up in the midst of their country, and there was a great and indiscriminate death in the city” (Brenton, modernized). Compare the gold mice in 6:4–5."
+    },
+    {
+     "m": "e",
+     "ref": "5:8",
+     "text": "Hebrew seren, a title used only of the Philistine rulers, perhaps related to the Greek word tyrannos, “ruler.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    10,
+    13,
+    17,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The ark of Yahweh had been in Philistine territory for seven months.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Then the Philistines called in the priests and the diviners and asked, “What should we do with the ark of Yahweh? Tell us how we should send it back to its place.”"
+    },
+    {
+     "v": 3,
+     "text": "They replied, “If you send away the ark of the God of Israel, do not send it away empty, but by all means pay him back with a guilt offering.{b} Then you will be healed, and you will learn why his hand has not turned away from you.”"
+    },
+    {
+     "v": 4,
+     "text": "They asked, “What guilt offering should we return to him?” They answered, “Five gold tumors and five gold mice, one for each of the rulers of the Philistines, for the same plague struck all of you and your rulers."
+    },
+    {
+     "v": 5,
+     "text": "So make models of your tumors and models of the mice that are ravaging the land, and give glory to the God of Israel. Perhaps he will lighten his hand on you, on your gods, and on your land."
+    },
+    {
+     "v": 6,
+     "text": "Why should you harden your hearts as the Egyptians and Pharaoh hardened their hearts? After he had dealt harshly with them, did they not let the people go, and they departed?"
+    },
+    {
+     "v": 7,
+     "text": "So now prepare a new cart, and take two milk cows that have never borne a yoke. Harness the cows to the cart, and bring their calves home behind them."
+    },
+    {
+     "v": 8,
+     "text": "Take the ark of Yahweh and set it on the cart, and put the gold objects you are paying him as a guilt offering in a chest at its side. Then send it away and let it go."
+    },
+    {
+     "v": 9,
+     "text": "And watch: if it goes up by the road to its own territory, toward Beth-shemesh,{c} then it is he who has brought this great disaster on us. But if not, we will know that it was not his hand that struck us; it happened to us by chance.”"
+    },
+    {
+     "v": 10,
+     "text": "The men did so. They took two cows that had calved and hitched them to the cart, and shut their calves up at home."
+    },
+    {
+     "v": 11,
+     "text": "They put the ark of Yahweh on the cart, together with the box holding the gold mice and the models of their tumors."
+    },
+    {
+     "v": 12,
+     "text": "The cows took the straight way along the road to Beth-shemesh. They went on the one highway, lowing as they walked, turning neither right nor left, while the rulers of the Philistines walked behind them up to the edge of Beth-shemesh."
+    },
+    {
+     "v": 13,
+     "text": "Now the people of Beth-shemesh were reaping the wheat harvest in the valley.{d} They raised their eyes and saw the ark, and they rejoiced to see it."
+    },
+    {
+     "v": 14,
+     "text": "The cart came into the field of Joshua of Beth-shemesh and stopped there. A large stone was there. They split up the wood of the cart and offered the cows as a burnt offering to Yahweh."
+    },
+    {
+     "v": 15,
+     "text": "The Levites took down the ark of Yahweh and the box beside it with the gold objects, and placed them on the large stone. That day the people of Beth-shemesh offered burnt offerings and made sacrifices to Yahweh."
+    },
+    {
+     "v": 16,
+     "text": "When the five rulers of the Philistines had seen this, they returned to Ekron that same day."
+    },
+    {
+     "v": 17,
+     "text": "These are the gold tumors which the Philistines paid back to Yahweh as a guilt offering: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, one for Ekron."
+    },
+    {
+     "v": 18,
+     "text": "And the gold mice matched the number of all the Philistine cities belonging to the five rulers, both fortified towns and unwalled villages. The large stone{e} on which they set the ark of Yahweh is a witness to this day in the field of Joshua of Beth-shemesh."
+    },
+    {
+     "v": 19,
+     "text": "But Yahweh struck down some of the men of Beth-shemesh because they looked into the ark of Yahweh. He struck down seventy men{f} of the people. And the people mourned because Yahweh had struck the people with a great slaughter."
+    },
+    {
+     "v": 20,
+     "text": "The men of Beth-shemesh said, “Who can stand before Yahweh, this holy God? And to whom will he go up from us?”"
+    },
+    {
+     "v": 21,
+     "text": "So they sent messengers to the people of Kiriath-jearim{g} to say, “The Philistines have returned the ark of Yahweh. Come down and take it up to your town.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "The Septuagint adds, “and their land brought forth swarms of mice” (Brenton, modernized)."
+    },
+    {
+     "m": "b",
+     "ref": "6:3",
+     "text": "Hebrew ’asham, the offering that makes amends for a wrong done (Leviticus 5:14–6:7)."
+    },
+    {
+     "m": "c",
+     "ref": "6:9",
+     "text": "Beth-shemesh means “house of the sun.” It lay in Israelite territory about 15 miles (24 kilometers) west of Jerusalem."
+    },
+    {
+     "m": "d",
+     "ref": "6:13",
+     "text": "The wheat harvest came in May–June."
+    },
+    {
+     "m": "e",
+     "ref": "6:18",
+     "text": "So some Hebrew manuscripts and the Septuagint (Brenton, “the great stone”). The traditional Hebrew text reads “Abel,” perhaps “meadow” or “mourning.” The Hebrew words for “stone” and “meadow” differ by one letter."
+    },
+    {
+     "m": "f",
+     "ref": "6:19",
+     "text": "So some Hebrew manuscripts and Josephus (as reported). Most Hebrew manuscripts read “seventy men, fifty thousand men,” and the Septuagint reads “seventy men, and fifty thousand men” (Brenton). The larger figure, oddly attached without “and” in the Hebrew, is probably a later addition. The Septuagint also begins the verse differently: “And the sons of Jechonias were not pleased with the men of Bethshemesh, because they saw the ark of the Lord” (Brenton, modernized)."
+    },
+    {
+     "m": "g",
+     "ref": "6:21",
+     "text": "Kiriath-jearim means “town of forests.” It lay about 9 miles (15 kilometers) west of Jerusalem."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    2,
+    5,
+    7,
+    12,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So the men of Kiriath-jearim came and brought up the ark of Yahweh and took it into the house of Abinadab{a} on the hill, and they set apart Eleazar his son to keep watch over the ark of Yahweh."
+    },
+    {
+     "v": 2,
+     "text": "From the day the ark came to rest at Kiriath-jearim, a long time passed, twenty years in all, and the whole house of Israel mourned{b} after Yahweh."
+    },
+    {
+     "v": 3,
+     "text": "Then Samuel said to the whole house of Israel, “If you are returning to Yahweh with all your heart, then get rid of the foreign gods and the Ashtoreths{c} among you. Set your hearts on Yahweh and serve him alone, and he will rescue you from the power of the Philistines.”"
+    },
+    {
+     "v": 4,
+     "text": "So the Israelites removed the Baals{d} and the Ashtoreths and served Yahweh alone."
+    },
+    {
+     "v": 5,
+     "text": "Then Samuel said, “Bring all Israel together at Mizpah,{e} and I will pray to Yahweh for you.”"
+    },
+    {
+     "v": 6,
+     "text": "So they gathered at Mizpah, drew water and poured it out before Yahweh, and fasted that day. There they said, “We have sinned against Yahweh.” And Samuel judged the Israelites at Mizpah."
+    },
+    {
+     "v": 7,
+     "text": "When the Philistines heard that the Israelites had gathered at Mizpah, the rulers of the Philistines went up against Israel. Hearing of it, the Israelites were afraid of the Philistines."
+    },
+    {
+     "v": 8,
+     "text": "The Israelites said to Samuel, “Do not stop crying out to Yahweh our God for us, so that he will save us from the hand of the Philistines.”"
+    },
+    {
+     "v": 9,
+     "text": "So Samuel took a nursing lamb and offered it whole as a burnt offering to Yahweh. Samuel cried out to Yahweh for Israel, and Yahweh answered him."
+    },
+    {
+     "v": 10,
+     "text": "As Samuel was offering up the burnt offering, the Philistines drew near to attack Israel. But Yahweh thundered with a great voice that day against the Philistines and threw them into a panic, and they were struck down before Israel."
+    },
+    {
+     "v": 11,
+     "text": "The men of Israel went out from Mizpah and chased the Philistines, striking them down as far as a point below Beth-car.{f}"
+    },
+    {
+     "v": 12,
+     "text": "Samuel took a stone and set it between Mizpah and Shen,{g} and he called its name Ebenezer,{h} saying, “Up to this point Yahweh has helped us.”"
+    },
+    {
+     "v": 13,
+     "text": "So the Philistines were humbled and did not again come into Israel’s territory. The hand of Yahweh was against the Philistines all the days of Samuel."
+    },
+    {
+     "v": 14,
+     "text": "The towns that the Philistines had taken from Israel were restored to Israel, from Ekron to Gath, and Israel freed their territory from the Philistines’ control. There was also peace between Israel and the Amorites."
+    },
+    {
+     "v": 15,
+     "text": "Samuel judged Israel all the days of his life."
+    },
+    {
+     "v": 16,
+     "text": "Year by year he went on a circuit to Bethel, Gilgal, and Mizpah, and judged Israel at all these places."
+    },
+    {
+     "v": 17,
+     "text": "Then he would return to Ramah, because his house was there, and there too he judged Israel. And he built an altar there to Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "Abinadab means “my father is generous” or “my father is noble.” Eleazar means “God has helped.”"
+    },
+    {
+     "m": "b",
+     "ref": "7:2",
+     "text": "Or “longed”; the Hebrew verb is uncertain. The Septuagint reads “all the house of Israel looked after the Lord” (Brenton)."
+    },
+    {
+     "m": "c",
+     "ref": "7:3",
+     "text": "Ashtoreth (plural Ashtaroth) was a Canaanite goddess of fertility and war, called Astarte by the Greeks. The Hebrew vowels may imitate boshet, “shame.”"
+    },
+    {
+     "m": "d",
+     "ref": "7:4",
+     "text": "Baal, “lord” or “owner,” was the Canaanite storm god; the plural refers to his local forms and images."
+    },
+    {
+     "m": "e",
+     "ref": "7:5",
+     "text": "Mizpah means “watchtower.” This Mizpah was in Benjamin, about 8 miles (13 kilometers) north of Jerusalem."
+    },
+    {
+     "m": "f",
+     "ref": "7:11",
+     "text": "Beth-car means “house of the lamb” or “house of pasture” (uncertain); the site is unknown."
+    },
+    {
+     "m": "g",
+     "ref": "7:12",
+     "text": "Shen means “tooth,” perhaps a rocky crag. The Septuagint reads “the old city” (Brenton), which suggests the Hebrew name Jeshanah (2 Chronicles 13:19)."
+    },
+    {
+     "m": "h",
+     "ref": "7:12",
+     "text": "Ebenezer means “stone of help.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    4,
+    10,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Samuel had become old, he made his sons judges over Israel."
+    },
+    {
+     "v": 2,
+     "text": "His firstborn son was named Joel,{a} and his second, Abijah;{b} they judged at Beersheba."
+    },
+    {
+     "v": 3,
+     "text": "His sons, however, did not walk in his ways but leaned toward gain; they took bribes and bent justice."
+    },
+    {
+     "v": 4,
+     "text": "So all the elders of Israel gathered together and came to Samuel at Ramah."
+    },
+    {
+     "v": 5,
+     "text": "They said to him, “Look, you are old, and your sons do not walk in your ways. Now appoint for us a king to judge us, like all the nations.”"
+    },
+    {
+     "v": 6,
+     "text": "But the request displeased Samuel when they said, “Give us a king to judge us.” So Samuel prayed to Yahweh."
+    },
+    {
+     "v": 7,
+     "text": "Yahweh said to Samuel, “Listen to the people in all that they say to you. It is not you they have rejected; they have rejected me from being king over them."
+    },
+    {
+     "v": 8,
+     "text": "Just as they have done from the day I brought them up out of Egypt until today, abandoning me and serving other gods, so they are also doing to you."
+    },
+    {
+     "v": 9,
+     "text": "Now then, listen to them; but warn them solemnly, and tell them the practice{c} of the king who will reign over them.”"
+    },
+    {
+     "v": 10,
+     "text": "So Samuel told all the words of Yahweh to the people who had asked him for a king."
+    },
+    {
+     "v": 11,
+     "text": "He said, “This will be the king’s way with you, the king who will reign over you: he will take your sons and put them on his chariots and among his horsemen, and they will run before his chariots."
+    },
+    {
+     "v": 12,
+     "text": "He will set some as officers over thousands and officers over fifties, and some to plow his plowland and reap his harvest and make his weapons and the fittings of his chariots."
+    },
+    {
+     "v": 13,
+     "text": "He will take your daughters to be perfumers, cooks, and bakers."
+    },
+    {
+     "v": 14,
+     "text": "Your best fields, vineyards, and olive groves he will take and give to his officials."
+    },
+    {
+     "v": 15,
+     "text": "Of your seed and your vineyards he will take a tenth, and give it to his court officers{d} and his officials."
+    },
+    {
+     "v": 16,
+     "text": "He will take your male and female slaves, the finest of your young men,{e} and your donkeys, and put them to work for himself."
+    },
+    {
+     "v": 17,
+     "text": "Of your flocks he will take a tenth, and you yourselves will be his slaves."
+    },
+    {
+     "v": 18,
+     "text": "On that day you will cry out because of the king you have chosen for yourselves, but Yahweh will not answer you on that day.”"
+    },
+    {
+     "v": 19,
+     "text": "But the people refused to listen to Samuel. “No!” they said. “There must be a king over us."
+    },
+    {
+     "v": 20,
+     "text": "Then we too will be like all the nations, and our king will judge us and go out before us and fight our battles.”"
+    },
+    {
+     "v": 21,
+     "text": "When Samuel had heard all the people’s words, he repeated them in Yahweh’s hearing."
+    },
+    {
+     "v": 22,
+     "text": "Yahweh said to Samuel, “Listen to their voice and make them a king.” So Samuel told the men of Israel, “Go, every man to his own town.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:2",
+     "text": "Joel means “Yahweh is God.”"
+    },
+    {
+     "m": "b",
+     "ref": "8:2",
+     "text": "Abijah means “my father is Yahweh.” The Septuagint calls him “Abia” (Brenton)."
+    },
+    {
+     "m": "c",
+     "ref": "8:9",
+     "text": "Hebrew mishpat, “judgment, right, custom”; here the king’s way of doing things, his claims on the people. Compare Deuteronomy 17:14–20."
+    },
+    {
+     "m": "d",
+     "ref": "8:15",
+     "text": "Hebrew saris, often “eunuch,” but also used more broadly of a court official."
+    },
+    {
+     "m": "e",
+     "ref": "8:16",
+     "text": "So the traditional Hebrew text. The Septuagint reads “your good herds” (Brenton), which may reflect a Hebrew word for “cattle” differing by one letter."
+    }
+   ]
+  }
+ ]
+}
