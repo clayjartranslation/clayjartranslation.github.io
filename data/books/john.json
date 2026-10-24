@@ -1,0 +1,3348 @@
+{
+ "id": "john",
+ "name": "John",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), in the public-domain electronic edition of Maurice A. Robinson, with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. John is unusually well attested in early papyri: P52 (John 18:31–33, 37–38), usually dated about AD 125–175, is among the earliest surviving New Testament manuscripts, and P66 (about AD 200) and P75 (about AD 175–225) contain much of the Gospel; their readings are reported from the standard editions and have not been verified against the manuscripts. A passage absent from the earliest witnesses (5:3b–4) keeps its traditional verse number, with its text given in the notes; the account of the woman caught in adultery (7:53–8:11), which is absent from the earliest manuscripts and placed elsewhere in some others, is printed in double brackets with a note on the evidence. Greek *logos* is rendered “Word” (1:1, 14), and the “I am” sayings are noted at 6:20. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation, a note says so. Old Testament quotations are translated afresh from John’s Greek, with the source given in a note. Money, measures and times of day are given in modern terms in the text (for example, “four in the afternoon” for “the tenth hour,” counting from about 6 a.m.), with the original term in a note; whether John reckons hours from sunrise, as was usual, or from midnight, as some have argued, is discussed at 1:39. The Gospel is anonymous; it names its source as “the disciple whom Jesus loved” (21:20–24), whom second-century tradition identified with John the son of Zebedee. Most scholars date it about AD 90–100, perhaps after a long process of composition; some date it earlier.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    6,
+    10,
+    14,
+    19,
+    29,
+    35,
+    43
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the beginning was the Word,{a} and the Word was with God, and the Word was God.{b}"
+    },
+    {
+     "v": 2,
+     "text": "He was in the beginning with God."
+    },
+    {
+     "v": 3,
+     "text": "Through him everything came to be; without him not a single thing came to be.{c}"
+    },
+    {
+     "v": 4,
+     "text": "What has come into being in him was life, and the life was the light of humankind."
+    },
+    {
+     "v": 5,
+     "text": "The light shines in the darkness, and the darkness has not overcome{d} it."
+    },
+    {
+     "v": 6,
+     "text": "There came a man sent from God; his name was John.{e}"
+    },
+    {
+     "v": 7,
+     "text": "He came as a witness, to bear witness about the light, so that through him all might believe."
+    },
+    {
+     "v": 8,
+     "text": "He himself was not the light; he came to bear witness about the light."
+    },
+    {
+     "v": 9,
+     "text": "The true light, which gives light to every person, was coming into the world.{f}"
+    },
+    {
+     "v": 10,
+     "text": "He was present in the world, and through him the world came to be, yet the world failed to recognize him."
+    },
+    {
+     "v": 11,
+     "text": "He came to his own home, and those who were his own did not welcome him."
+    },
+    {
+     "v": 12,
+     "text": "But to all who did receive him, to those who believe in his name, he gave the right to become children of God,"
+    },
+    {
+     "v": 13,
+     "text": "who were born not of blood, nor of the will of the flesh, nor of a husband’s will, but of God."
+    },
+    {
+     "v": 14,
+     "text": "And the Word became flesh and pitched his tent{g} among us, and we gazed on his glory, glory as of the only Son{h} from the Father, full of grace and truth."
+    },
+    {
+     "v": 15,
+     "text": "John testifies concerning him; he cried aloud, “This is the man I meant when I said, ‘He who comes after me has gone ahead of me, for he was before me.’”"
+    },
+    {
+     "v": 16,
+     "text": "Out of his fullness we all have received, one grace after another.{i}"
+    },
+    {
+     "v": 17,
+     "text": "For the Law was given through Moses;{j} grace and truth came into being through Jesus Christ.{k}"
+    },
+    {
+     "v": 18,
+     "text": "No one has seen God at any time; the only Son, himself God,{l} who rests at the Father’s side,{m} he is the one who has made him known."
+    },
+    {
+     "v": 19,
+     "text": "This is the testimony of John, when the Jews{n} sent priests and Levites from Jerusalem to ask him, “Who are you?”"
+    },
+    {
+     "v": 20,
+     "text": "He confessed and did not deny; he confessed, “I am not the Messiah.”{o}"
+    },
+    {
+     "v": 21,
+     "text": "They asked him, “What then? Are you Elijah?”{p} He says, “I am not.” “Are you the Prophet?”{q} He answered, “No.”"
+    },
+    {
+     "v": 22,
+     "text": "So they said to him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”"
+    },
+    {
+     "v": 23,
+     "text": "He said, “I am the voice of one crying out in the wilderness, ‘Make straight the way of the Lord,’{r} just as Isaiah{s} the prophet said.”"
+    },
+    {
+     "v": 24,
+     "text": "Now they had been sent from the Pharisees.{t}"
+    },
+    {
+     "v": 25,
+     "text": "They questioned him and said to him, “Why then do you baptize, if you are not the Messiah, nor Elijah, nor the Prophet?”"
+    },
+    {
+     "v": 26,
+     "text": "John replied to them, “I baptize in water. Standing among you is one you do not know,"
+    },
+    {
+     "v": 27,
+     "text": "who comes after me; I am not worthy to loosen the strap of his sandal.”"
+    },
+    {
+     "v": 28,
+     "text": "This happened at Bethany{u} on the far side of the Jordan, where John was baptizing."
+    },
+    {
+     "v": 29,
+     "text": "The next day he sees Jesus coming toward him and says, “Look, the Lamb of God,{v} who takes away the sin of the world!"
+    },
+    {
+     "v": 30,
+     "text": "He is the one about whom I said, ‘A man is coming after me who has gone ahead of me, because he was before me.’"
+    },
+    {
+     "v": 31,
+     "text": "I myself did not know him; but it was so that he might be revealed to Israel that I came baptizing with water.”"
+    },
+    {
+     "v": 32,
+     "text": "And John bore witness: “I have seen the Spirit coming down like a dove out of heaven, and it remained on him."
+    },
+    {
+     "v": 33,
+     "text": "I myself did not know him; but the one who sent me to baptize with water told me, ‘The one on whom you see the Spirit coming down and remaining, he is the one who baptizes with the Holy Spirit.’"
+    },
+    {
+     "v": 34,
+     "text": "And I have seen, and have borne witness, that this is the Son of God.”{w}"
+    },
+    {
+     "v": 35,
+     "text": "The next day John was standing there again with two of his disciples,"
+    },
+    {
+     "v": 36,
+     "text": "and as he watched Jesus walking by, he says, “Look, the Lamb of God!”"
+    },
+    {
+     "v": 37,
+     "text": "When the two disciples heard what he said, they went after Jesus."
+    },
+    {
+     "v": 38,
+     "text": "Jesus turned, and seeing them following, he says to them, “What are you looking for?” They said to him, “Rabbi” (which, translated, means Teacher), “where are you staying?”"
+    },
+    {
+     "v": 39,
+     "text": "“Come,” he says to them, “and you will see.” So they went and saw where he lodged, and they remained with him for the rest of that day. It was about four in the afternoon.{x}"
+    },
+    {
+     "v": 40,
+     "text": "Andrew,{y} the brother of Simon Peter, was one of the two who heard John and followed Jesus."
+    },
+    {
+     "v": 41,
+     "text": "He first finds his own brother Simon{z} and says to him, “We have found the Messiah” (which, translated, is Christ).{aa}"
+    },
+    {
+     "v": 42,
+     "text": "He brought him to Jesus. Jesus looked at him and said, “You are Simon the son of John.{ab} You will be called Cephas” (which is translated Peter).{ac}"
+    },
+    {
+     "v": 43,
+     "text": "The next day Jesus decided to set out for Galilee. He finds Philip{ad} and says to him, “Follow me.”"
+    },
+    {
+     "v": 44,
+     "text": "Philip came from Bethsaida,{ae} the hometown of Andrew and Peter."
+    },
+    {
+     "v": 45,
+     "text": "Philip finds Nathanael{af} and tells him, “We have found the one Moses wrote of in the Law, and the prophets also: Jesus son of Joseph,{ag} from Nazareth.”{ah}"
+    },
+    {
+     "v": 46,
+     "text": "Nathanael said to him, “From Nazareth can anything good come?” Philip says to him, “Come and see.”"
+    },
+    {
+     "v": 47,
+     "text": "Jesus saw Nathanael coming toward him and says of him, “Here truly is an Israelite in whom there is no deceit!”{ai}"
+    },
+    {
+     "v": 48,
+     "text": "Nathanael says to him, “How do you know me?” Jesus answered him, “Before Philip called you, while you were under the fig tree, I saw you.”"
+    },
+    {
+     "v": 49,
+     "text": "Nathanael answered him, “Rabbi, you are the Son of God! You are King of Israel!”"
+    },
+    {
+     "v": 50,
+     "text": "Jesus answered him, “Because I told you I saw you beneath the fig tree, you believe? You will see greater things than these.”"
+    },
+    {
+     "v": 51,
+     "text": "And he says to him, “Amen, amen,{aj} I tell you all,{ak} you will see heaven opened and the angels of God going up and coming down on the Son of Man.”{al}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "The Word: Greek *logos*, “word,” “speech,” or “reason.” In the Greek Old Testament God creates by his word (Gen 1:3; Ps 33:6) and his word or wisdom is personified (Prov 8:22–31; Wis 9:1–2; 18:15); Greek philosophers also used *logos* for the rational principle ordering the world. John applies the term to the one who became flesh (1:14). It is used of him in this sense only in 1:1 and 1:14 (compare 1 John 1:1; Rev 19:13)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "The Word was God: Greek *theos ēn ho logos*. The word *theos* has no article and stands first for emphasis; the construction identifies the Word as sharing God’s nature while distinguishing him from “God” (the Father) in the preceding clause. It does not mean “a god.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:3",
+     "text": "The punctuation of verses 3–4 is ancient and disputed, since the earliest manuscripts had little or none. The Westcott–Hort text, with many early writers, joins the last words of verse 3 to verse 4 (“What has come into being in him was life”), as here. Many later manuscripts and versions read, “… not one thing came into being that has come into being. In him was life.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:5",
+     "text": "Overcome: Greek *katelaben* can mean “grasp,” “comprehend,” or “seize, overcome.” Both senses may be intended."
+    },
+    {
+     "m": "e",
+     "ref": "1:6",
+     "text": "John: from Hebrew *Yohanan*, “Yahweh has been gracious.” This is John the Baptist (compare Matt 3:1), not the disciple traditionally connected with this Gospel, who is never named in it."
+    },
+    {
+     "m": "f",
+     "ref": "1:9",
+     "text": "Or “He was the true light, which gives light to every person coming into the world.” The Greek *erchomenon* can go with “light” or with “every person.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:14",
+     "text": "Pitched his tent: Greek *eskēnōsen*, “tented,” “tabernacled.” The word recalls the tabernacle (Greek *skēnē*) where God’s glory dwelt among Israel (Exod 25:8–9; 40:34–35)."
+    },
+    {
+     "m": "h",
+     "ref": "1:14",
+     "text": "The only Son: Greek *monogenēs*, “only,” “one of a kind,” “unique,” used of an only child (Luke 7:12; Heb 11:17). The older rendering “only begotten” comes from the Latin *unigenitus*. Here and in 1:18; 3:16, 18 it describes Jesus’ unique relationship to the Father."
+    },
+    {
+     "m": "i",
+     "ref": "1:16",
+     "text": "One grace after another: Greek *charin anti charitos*, literally “grace in place of grace,” meaning one gift following another, or perhaps the grace of the new covenant replacing that given through Moses (1:17)."
+    },
+    {
+     "m": "j",
+     "ref": "1:17",
+     "text": "Moses: the name is explained in Exod 2:10; it may come from an Egyptian word meaning “born of” or “son.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:17",
+     "text": "Jesus Christ: *Jesus* is the Greek form of Hebrew *Yeshua* (*Yehoshua*, Joshua), “Yahweh saves.” *Christ* translates Greek *Christos*, “Anointed One,” the equivalent of Hebrew *mashiach*, “Messiah” (see 1:41). As in Matthew, *Christos* is rendered “Messiah” where it functions as a title and “Christ” where it is part of Jesus’ name."
+    },
+    {
+     "m": "l",
+     "ref": "1:18",
+     "text": "The only Son, himself God: literally “only (*monogenēs*) God.” This is the reading of the earliest manuscripts, including P66 and P75 (about AD 200), Sinaiticus (first hand) and Vaticanus, followed by Westcott–Hort; P75 and some others have “the only God” with the article. Alexandrinus, the great majority of later manuscripts, and many versions read “the only Son” (*monogenēs huios*). Since *monogenēs* used by itself regularly implies “only son” (1:14), the reading “only God” is taken here as “the only Son, himself God.” Scholarly review recommended."
+    },
+    {
+     "m": "m",
+     "ref": "1:18",
+     "text": "At the Father’s side: literally “in (or into) the bosom of the Father,” a picture of intimacy, like a guest reclining at table next to the host (compare 13:23)."
+    },
+    {
+     "m": "n",
+     "ref": "1:19",
+     "text": "The Jews: Greek *hoi Ioudaioi*, “the Jews” or “the Judeans.” In John the term often refers to the religious authorities in Jerusalem who opposed Jesus (as here, 1:19, 24), and sometimes to the people of Judea; at other times it simply means the Jewish people (2:6, 13; 4:9, 22). Jesus, his disciples, and the Gospel’s first witnesses were themselves Jews."
+    },
+    {
+     "m": "o",
+     "ref": "1:20",
+     "text": "The Messiah: Greek *ho christos*, “the Anointed One.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:21",
+     "text": "Elijah: “my God is Yahweh.” Mal 4:5 (3:23 in Hebrew) promised that Elijah would return before the day of Yahweh."
+    },
+    {
+     "m": "q",
+     "ref": "1:21",
+     "text": "The Prophet: the prophet like Moses promised in Deut 18:15–18 (compare 6:14; 7:40)."
+    },
+    {
+     "m": "r",
+     "ref": "1:23",
+     "text": "Isa 40:3, in a form close to the Greek Old Testament (“make straight” combines two verbs of that verse). In the Hebrew text, “the Lord” is Yahweh."
+    },
+    {
+     "m": "s",
+     "ref": "1:23",
+     "text": "Isaiah: “Yahweh is salvation.”"
+    },
+    {
+     "m": "t",
+     "ref": "1:24",
+     "text": "Pharisees: from Hebrew or Aramaic *perushim*, probably “separated ones.” A lay movement devoted to the careful keeping of the Law and its traditions."
+    },
+    {
+     "m": "u",
+     "ref": "1:28",
+     "text": "Bethany: a place east of the Jordan River whose location is unknown; it is not the Bethany near Jerusalem (11:1, 18). Some later manuscripts read *Bethabara* (“place of crossing”), following Origen. The name *Bethany* may mean “house of figs” or “house of the poor” (uncertain)."
+    },
+    {
+     "m": "v",
+     "ref": "1:29",
+     "text": "The Lamb of God: the image may recall the Passover lamb (Exod 12; compare 19:36), the servant led like a lamb to the slaughter (Isa 53:7), or the lamb God provides (Gen 22:8)."
+    },
+    {
+     "m": "w",
+     "ref": "1:34",
+     "text": "The Son of God: a few early witnesses, including Sinaiticus (first hand) and probably P5, read “the Chosen One of God” (compare Isa 42:1)."
+    },
+    {
+     "m": "x",
+     "ref": "1:39",
+     "text": "About four in the afternoon: literally “about the tenth hour.” Hours of the day were usually counted from sunrise, about 6 a.m., which gives four in the afternoon. Some interpreters have argued that John reckons hours from midnight, as Roman legal practice sometimes did, which would make the time about 10 a.m.; but the evidence for such a reckoning is debated, and most interpreters count from sunrise in John as in the other Gospels (compare 4:6, 52; 19:14)."
+    },
+    {
+     "m": "y",
+     "ref": "1:40",
+     "text": "Andrew: a Greek name, “manly.”"
+    },
+    {
+     "m": "z",
+     "ref": "1:41",
+     "text": "Simon: Greek form of Hebrew *Shimon*, “he has heard” (Gen 29:33)."
+    },
+    {
+     "m": "aa",
+     "ref": "1:41",
+     "text": "Messiah … Christ: Greek *Messias*, a transliteration of Hebrew *mashiach* or Aramaic *meshicha*, “anointed one”; *Christos* is the Greek translation of it. Only John uses the word *Messias* in the New Testament (here and 4:25)."
+    },
+    {
+     "m": "ab",
+     "ref": "1:42",
+     "text": "The son of John: so the earliest manuscripts and Westcott–Hort; many later manuscripts read “son of Jonah” (as in Matt 16:17). *Jonah* means “dove.”"
+    },
+    {
+     "m": "ac",
+     "ref": "1:42",
+     "text": "Cephas … Peter: Aramaic *Kepha* and Greek *Petros* both mean “rock” or “stone.”"
+    },
+    {
+     "m": "ad",
+     "ref": "1:43",
+     "text": "Philip: a Greek name, “lover of horses.”"
+    },
+    {
+     "m": "ae",
+     "ref": "1:44",
+     "text": "Bethsaida: “house of fishing” or “house of the hunt,” a town at the north end of the Sea of Galilee, east of the Jordan."
+    },
+    {
+     "m": "af",
+     "ref": "1:45",
+     "text": "Nathanael: “God has given.” He is not mentioned in the other Gospels; some have identified him with Bartholomew."
+    },
+    {
+     "m": "ag",
+     "ref": "1:45",
+     "text": "Joseph: “may he add” (Gen 30:24)."
+    },
+    {
+     "m": "ah",
+     "ref": "1:45",
+     "text": "Nazareth: a small village in the hills of lower Galilee, not mentioned in the Old Testament or in other sources before the Gospels; the meaning of its name is uncertain."
+    },
+    {
+     "m": "ai",
+     "ref": "1:47",
+     "text": "No deceit: perhaps a contrast with Jacob, the deceiver, who was renamed Israel (Gen 27:35; 32:28); compare 1:51."
+    },
+    {
+     "m": "aj",
+     "ref": "1:51",
+     "text": "Amen, amen: Hebrew *amen*, “surely, truly,” used by Jesus to introduce a solemn statement. Only in John is it doubled (twenty-five times)."
+    },
+    {
+     "m": "ak",
+     "ref": "1:51",
+     "text": "You all: the Greek “you” is plural here, though Jesus is speaking to Nathanael."
+    },
+    {
+     "m": "al",
+     "ref": "1:51",
+     "text": "Compare Jacob’s dream at Bethel (Gen 28:12). *Son of Man* (Aramaic *bar enash*, “human being”) is Jesus’ usual way of referring to himself; compare Dan 7:13–14."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    12,
+    13,
+    18,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the third day a marriage was held in Cana{a} of Galilee, and the mother of Jesus was there."
+    },
+    {
+     "v": 2,
+     "text": "Jesus also had been invited to the wedding, along with his disciples."
+    },
+    {
+     "v": 3,
+     "text": "When the wine ran short, the mother of Jesus says to him, “They have no wine.”"
+    },
+    {
+     "v": 4,
+     "text": "Jesus says to her, “Woman,{b} what is that to me and to you? My hour has not yet come.”"
+    },
+    {
+     "v": 5,
+     "text": "His mother says to the servants, “Whatever he tells you, do it.”"
+    },
+    {
+     "v": 6,
+     "text": "Six stone water jars stood nearby, used for the purification rites of the Jews, each able to hold twenty or thirty gallons.{c}"
+    },
+    {
+     "v": 7,
+     "text": "Jesus says to them, “Fill the jars with water.” And they filled them to the brim."
+    },
+    {
+     "v": 8,
+     "text": "Then he says to them, “Now draw some out, and carry it to the master of the feast.” So they carried it."
+    },
+    {
+     "v": 9,
+     "text": "When the master of the feast tasted the water, now become wine, and did not know where it had come from (though the servants who had drawn the water knew), the master of the feast calls the bridegroom"
+    },
+    {
+     "v": 10,
+     "text": "and says to him, “Everyone sets out the good wine first, and when the guests have drunk freely, the poorer wine. You have kept the good wine until now.”"
+    },
+    {
+     "v": 11,
+     "text": "This, the first of his signs,{d} Jesus did at Cana in Galilee, and he revealed his glory; and his disciples believed in him."
+    },
+    {
+     "v": 12,
+     "text": "After this he went down to Capernaum,{e} he and his mother and his brothers{f} and his disciples, and they stayed there for a few days."
+    },
+    {
+     "v": 13,
+     "text": "When the Jewish Passover{g} was approaching, Jesus went up to Jerusalem.{h}"
+    },
+    {
+     "v": 14,
+     "text": "In the temple he found those who were selling cattle, sheep, and doves, and the money changers sitting there."
+    },
+    {
+     "v": 15,
+     "text": "Making a whip of cords, he drove everyone out of the temple courts, sheep and cattle alike; he scattered the money changers’ coins and turned their tables over."
+    },
+    {
+     "v": 16,
+     "text": "And to those selling the doves he said, “Take these things out of here! Stop making my Father’s house a house of trade.”"
+    },
+    {
+     "v": 17,
+     "text": "His disciples remembered that it is written, “Zeal for your house will consume me.”{i}"
+    },
+    {
+     "v": 18,
+     "text": "So the Jews responded to him, “What sign do you show us, to justify your doing these things?”"
+    },
+    {
+     "v": 19,
+     "text": "Jesus answered them, “Destroy this sanctuary,{j} and in three days I will raise it up.”"
+    },
+    {
+     "v": 20,
+     "text": "The Jews then said, “This sanctuary has been under construction for forty-six years,{k} and you will raise it up in three days?”"
+    },
+    {
+     "v": 21,
+     "text": "But he was speaking about the sanctuary of his body."
+    },
+    {
+     "v": 22,
+     "text": "So when he was raised from the dead, his disciples remembered that he had said this, and they believed the Scripture and the word that Jesus had spoken."
+    },
+    {
+     "v": 23,
+     "text": "While he was in Jerusalem at the Passover, during the festival, many believed in his name when they saw the signs that he was doing."
+    },
+    {
+     "v": 24,
+     "text": "Jesus, however, did not trust himself to them, since he knew everyone,"
+    },
+    {
+     "v": 25,
+     "text": "and he had no need for anyone to bear witness about humankind, for he himself knew what was in each person."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Cana: a village in Galilee, probably Khirbet Qana, about 8 miles (13 km) north of Nazareth. The name may mean “reed.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:4",
+     "text": "Woman: a respectful form of address in Greek (compare 19:26; 20:15), though unusual from a son to his mother. *What is that to me and to you?* is a Semitic idiom (compare Judg 11:12; 1 Kgs 17:18) that marks a distance between the speakers: “What concern is that of ours?”"
+    },
+    {
+     "m": "c",
+     "ref": "2:6",
+     "text": "Twenty or thirty gallons: literally “two or three measures.” The Greek *metrētēs* was a liquid measure of about 9 gallons (39 L), so each jar held about 75–115 liters, and the six together about 120–180 gallons."
+    },
+    {
+     "m": "d",
+     "ref": "2:11",
+     "text": "Signs: Greek *sēmeia*. John calls Jesus’ miracles “signs,” pointing beyond themselves to who he is (20:30–31)."
+    },
+    {
+     "m": "e",
+     "ref": "2:12",
+     "text": "Capernaum: from Hebrew *Kefar Nahum*, “village of Nahum” (“comfort”), on the northwest shore of the Sea of Galilee."
+    },
+    {
+     "m": "f",
+     "ref": "2:12",
+     "text": "His brothers: see 7:3–5. Their exact relation to Jesus (sons of Mary and Joseph, of Joseph by an earlier marriage, or cousins) has been understood differently in different church traditions."
+    },
+    {
+     "m": "g",
+     "ref": "2:13",
+     "text": "Passover: Greek *pascha*, from Hebrew *pesach*, the spring festival commemorating the exodus from Egypt, celebrated on the fourteenth of Nisan (March–April). John mentions three Passovers during Jesus’ ministry (here, 6:4, and 11:55)."
+    },
+    {
+     "m": "h",
+     "ref": "2:13",
+     "text": "Jerusalem: the meaning of the name is uncertain, perhaps “foundation of Shalem” or “city of peace.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:17",
+     "text": "Ps 69:9 (68:10 in the Greek Old Testament). The psalm has “has consumed”; John uses the future."
+    },
+    {
+     "m": "j",
+     "ref": "2:19",
+     "text": "Sanctuary: Greek *naos*, the temple building proper, as distinct from *hieron*, the whole temple complex (2:14–15)."
+    },
+    {
+     "m": "k",
+     "ref": "2:20",
+     "text": "Forty-six years: Herod the Great began rebuilding the temple in about 20–19 BC, which places this conversation about AD 27–28. The work was not finished until about AD 63."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    16,
+    22,
+    25,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Among the Pharisees there was a man named Nicodemus,{a} a leader of the Jews."
+    },
+    {
+     "v": 2,
+     "text": "He came to Jesus at night and said, “Rabbi, we are sure you are a teacher who has come from God, since no one is able to do the signs you are doing unless God is with him.”"
+    },
+    {
+     "v": 3,
+     "text": "Jesus answered him, “Amen, amen, I tell you, unless someone is born from above,{b} he cannot see the kingdom of God.”"
+    },
+    {
+     "v": 4,
+     "text": "Nicodemus says to him, “How can a person be born when he is old? Surely he cannot go back a second time into his mother’s womb and be born?”"
+    },
+    {
+     "v": 5,
+     "text": "Jesus answered, “Amen, amen, I tell you, unless someone is born of water and Spirit, he cannot enter the kingdom of God."
+    },
+    {
+     "v": 6,
+     "text": "What is born of the flesh is flesh, and what is born of the Spirit is spirit."
+    },
+    {
+     "v": 7,
+     "text": "Do not be amazed that I told you, ‘All of you must be born from above.’"
+    },
+    {
+     "v": 8,
+     "text": "The wind{c} blows where it wills, and you hear the sound of it, yet you do not know where it comes from or where it is going. So it is with all who are born of the Spirit.”"
+    },
+    {
+     "v": 9,
+     "text": "Nicodemus answered him, “How can such things come about?”"
+    },
+    {
+     "v": 10,
+     "text": "Jesus answered him, “You are the teacher of Israel, and you do not understand these things?"
+    },
+    {
+     "v": 11,
+     "text": "Amen, amen, I tell you, what we know we speak, and what we have seen we declare, and still you people refuse our testimony."
+    },
+    {
+     "v": 12,
+     "text": "If you do not believe when I have spoken to you of things on earth, how will you believe when I speak of things in heaven?"
+    },
+    {
+     "v": 13,
+     "text": "No one has gone up into heaven except the one who came down out of heaven, the Son of Man.{d}"
+    },
+    {
+     "v": 14,
+     "text": "And just as Moses raised up the snake in the desert,{e} even so must the Son of Man be raised up,{f}"
+    },
+    {
+     "v": 15,
+     "text": "in order that each one who believes may possess eternal life in him.{g}"
+    },
+    {
+     "v": 16,
+     "text": "“For God loved the world in this way: he gave his only Son,{h} so that whoever believes in him should not perish but have eternal life."
+    },
+    {
+     "v": 17,
+     "text": "God did not send the Son into the world to pass judgment on the world, but so that through him the world might be saved."
+    },
+    {
+     "v": 18,
+     "text": "Whoever believes in him does not come under judgment; whoever does not believe stands judged already, for not having believed in the name of God’s only Son."
+    },
+    {
+     "v": 19,
+     "text": "And this is the judgment: the light has come into the world, and people loved the darkness more than the light, because what they did was evil."
+    },
+    {
+     "v": 20,
+     "text": "For everyone who practices wicked things hates the light and will not come to the light, lest his deeds be exposed."
+    },
+    {
+     "v": 21,
+     "text": "But the one who practices the truth comes to the light, so that his deeds may be shown to have been wrought in God.”"
+    },
+    {
+     "v": 22,
+     "text": "After this Jesus and his disciples went into the land of Judea, and he spent time there with them and was baptizing."
+    },
+    {
+     "v": 23,
+     "text": "John also was baptizing at Aenon near Salim,{i} since there was much water in that place, and people were coming to be baptized."
+    },
+    {
+     "v": 24,
+     "text": "John had not yet been put in prison at that time."
+    },
+    {
+     "v": 25,
+     "text": "A dispute then arose between John’s disciples and a Jew{j} over purification."
+    },
+    {
+     "v": 26,
+     "text": "So they went to John and told him, “Rabbi, that man who was with you beyond the Jordan, to whom you bore witness, is now baptizing, and the whole world is flocking to him.”"
+    },
+    {
+     "v": 27,
+     "text": "John replied, “A person can receive nothing unless it has been granted him from heaven."
+    },
+    {
+     "v": 28,
+     "text": "You can testify for me yourselves that I said, ‘I am not the Messiah; rather, I have been sent before him.’"
+    },
+    {
+     "v": 29,
+     "text": "The bridegroom is the one who has the bride. The bridegroom’s friend, who stands by and listens for him, is overjoyed at the bridegroom’s voice. So this joy of mine is now complete."
+    },
+    {
+     "v": 30,
+     "text": "He must grow greater, and I must grow less.”{k}"
+    },
+    {
+     "v": 31,
+     "text": "The one who comes from above is over all. The one who is of the earth belongs to the earth and speaks in an earthly way. The one who comes from heaven is over all."
+    },
+    {
+     "v": 32,
+     "text": "What he has seen and heard, to that he bears witness, yet his testimony no one receives."
+    },
+    {
+     "v": 33,
+     "text": "Whoever has accepted his testimony has set his seal to this: that God is true."
+    },
+    {
+     "v": 34,
+     "text": "For the one whom God has sent speaks the words of God, since he does not give the Spirit by measure."
+    },
+    {
+     "v": 35,
+     "text": "The Father loves the Son and has put everything into his hand."
+    },
+    {
+     "v": 36,
+     "text": "Anyone who believes in the Son possesses eternal life; anyone who refuses to obey the Son will not see life, and God’s wrath stays upon him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Nicodemus: a Greek name, “victor over the people.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:3",
+     "text": "From above: Greek *anōthen* means both “from above” and “again, anew.” Nicodemus takes it in the second sense (3:4); Jesus means the first (3:31)."
+    },
+    {
+     "m": "c",
+     "ref": "3:8",
+     "text": "Wind: Greek *pneuma* means both “wind” and “spirit,” as does Hebrew *ruach*."
+    },
+    {
+     "m": "d",
+     "ref": "3:13",
+     "text": "Many later manuscripts add “who is in heaven.” The Westcott–Hort text, with P66, P75, Sinaiticus and Vaticanus, does not include it."
+    },
+    {
+     "m": "e",
+     "ref": "3:14",
+     "text": "Num 21:8–9."
+    },
+    {
+     "m": "f",
+     "ref": "3:14",
+     "text": "Raised up: Greek *hypsōthēnai*, “lifted up,”, used in John both of being raised up on the cross and of exaltation to glory (8:28; 12:32–34)."
+    },
+    {
+     "m": "g",
+     "ref": "3:15",
+     "text": "Or “so that each one who believes in him may possess eternal life.” Some interpreters end Jesus’ words at 3:15 and take 3:16–21 as the evangelist’s comment; the Greek did not mark quotations. The same uncertainty applies to 3:31–36."
+    },
+    {
+     "m": "h",
+     "ref": "3:16",
+     "text": "His only Son: Greek *ton huion ton monogenē*; see the note on 1:14."
+    },
+    {
+     "m": "i",
+     "ref": "3:23",
+     "text": "Aenon near Salim: *Aenon* means “springs.” The location is uncertain, perhaps in the Jordan valley south of Scythopolis, or in Samaria near Shechem. *Salim* may be related to *shalom*, “peace.”"
+    },
+    {
+     "m": "j",
+     "ref": "3:25",
+     "text": "A Jew: so the Westcott–Hort text and most manuscripts; P66, Sinaiticus (first hand), and some others read “the Jews.”"
+    },
+    {
+     "m": "k",
+     "ref": "3:30",
+     "text": "Grow greater … grow less: or “increase … decrease.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    7,
+    16,
+    27,
+    31,
+    39,
+    43,
+    46
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now when the Lord{a} learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John"
+    },
+    {
+     "v": 2,
+     "text": "(though in fact it was not Jesus himself who baptized, but his disciples),"
+    },
+    {
+     "v": 3,
+     "text": "he left Judea and went away again to Galilee."
+    },
+    {
+     "v": 4,
+     "text": "He had to pass through Samaria.{b}"
+    },
+    {
+     "v": 5,
+     "text": "So he comes to a town of Samaria called Sychar,{c} near the piece of land that Jacob{d} gave to his son Joseph."
+    },
+    {
+     "v": 6,
+     "text": "Jacob’s well{e} was there, and Jesus, worn out from the journey, was sitting just as he was beside the well. It was about noon.{f}"
+    },
+    {
+     "v": 7,
+     "text": "A woman of Samaria comes to draw water. Jesus says to her, “Give me a drink.”"
+    },
+    {
+     "v": 8,
+     "text": "His disciples had gone away into the town to purchase food."
+    },
+    {
+     "v": 9,
+     "text": "So the Samaritan woman says to him, “How is it that you, a Jew, ask for a drink from me, a Samaritan woman?” (Jews, you see, have no dealings with Samaritans.){g}"
+    },
+    {
+     "v": 10,
+     "text": "Jesus answered her, “If you knew the gift of God, and who it is that says to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”{h}"
+    },
+    {
+     "v": 11,
+     "text": "The woman says to him, “Sir,{i} you have no bucket, and the well is deep. From where, then, do you get that living water?"
+    },
+    {
+     "v": 12,
+     "text": "You are not greater than our father Jacob, are you? He gave us the well, and drank from it himself, as did his sons and his livestock.”"
+    },
+    {
+     "v": 13,
+     "text": "Jesus answered her, “Everyone who drinks of this water will be thirsty again;"
+    },
+    {
+     "v": 14,
+     "text": "but anyone who drinks the water that I will give him will never thirst again; rather, the water I will give him will become within him a spring of water leaping up to eternal life.”"
+    },
+    {
+     "v": 15,
+     "text": "The woman says to him, “Sir, give me this water, so that I will not be thirsty or have to keep coming here to draw.”"
+    },
+    {
+     "v": 16,
+     "text": "He says to her, “Go, call your husband, and come back here.”"
+    },
+    {
+     "v": 17,
+     "text": "The woman answered him, “I have no husband.” Jesus says to her, “You spoke rightly in saying, ‘I have no husband,’"
+    },
+    {
+     "v": 18,
+     "text": "You have had five husbands, and the man you now have is no husband of yours. In this you have spoken truly.”"
+    },
+    {
+     "v": 19,
+     "text": "“Sir,” the woman says to him, “I perceive you are a prophet."
+    },
+    {
+     "v": 20,
+     "text": "Our ancestors worshiped on this mountain,{j} but you people say that the place where one ought to worship is in Jerusalem.”"
+    },
+    {
+     "v": 21,
+     "text": "Jesus says to her, “Woman, believe me: the hour is coming when it will be neither on this mountain nor in Jerusalem that you worship the Father."
+    },
+    {
+     "v": 22,
+     "text": "You worship something you do not know; we worship something we know, since it is from the Jews that salvation comes."
+    },
+    {
+     "v": 23,
+     "text": "But an hour is coming, and is here now, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking people such as these to worship him."
+    },
+    {
+     "v": 24,
+     "text": "God is spirit, and those who worship him must worship in spirit and truth.”"
+    },
+    {
+     "v": 25,
+     "text": "The woman says to him, “I know that Messiah is coming” (the one called Christ). “When he comes, he will declare everything to us.”"
+    },
+    {
+     "v": 26,
+     "text": "Jesus says to her, “I am he,{k} the one who is speaking to you.”"
+    },
+    {
+     "v": 27,
+     "text": "At that point his disciples arrived, and they were surprised to find him speaking with a woman. Still, none of them said, “What are you after?” or, “Why do you speak with her?”"
+    },
+    {
+     "v": 28,
+     "text": "The woman then left her water jar, went off into the town, and says to the people,"
+    },
+    {
+     "v": 29,
+     "text": "“Come, see a man who told me everything I ever did! Can this be the Messiah?”"
+    },
+    {
+     "v": 30,
+     "text": "They went out of the town and were making their way to him."
+    },
+    {
+     "v": 31,
+     "text": "Meanwhile the disciples were urging him, “Rabbi, eat.”"
+    },
+    {
+     "v": 32,
+     "text": "But he said to them, “I have food to eat that you know nothing about.”"
+    },
+    {
+     "v": 33,
+     "text": "The disciples therefore began asking one another, “Has anyone brought him food?”"
+    },
+    {
+     "v": 34,
+     "text": "Jesus says to them, “My food is doing the will of him who sent me, and finishing his work."
+    },
+    {
+     "v": 35,
+     "text": "Do you not say, ‘Four months more, and then comes the harvest’? Look, I tell you, raise your eyes and see the fields: they are white for harvest already."
+    },
+    {
+     "v": 36,
+     "text": "Already the reaper is drawing his pay and bringing in a harvest for eternal life, that sower and reaper alike may be glad."
+    },
+    {
+     "v": 37,
+     "text": "In this the saying is true: ‘One person sows, another reaps.’"
+    },
+    {
+     "v": 38,
+     "text": "I sent you to reap what you have not labored for. Others have labored, and you have entered into their labor.”"
+    },
+    {
+     "v": 39,
+     "text": "From that town many Samaritans came to believe in him on account of the woman’s testimony, “He told me all that I ever did.”"
+    },
+    {
+     "v": 40,
+     "text": "When therefore the Samaritans came to him, they begged him to remain with them, and he remained there for two days."
+    },
+    {
+     "v": 41,
+     "text": "And far more believed because of his own word."
+    },
+    {
+     "v": 42,
+     "text": "And they told the woman, “We no longer believe because of your talk; we have heard him ourselves, and we know that this is truly the Savior of the world.”"
+    },
+    {
+     "v": 43,
+     "text": "After the two days he left there for Galilee."
+    },
+    {
+     "v": 44,
+     "text": "(For Jesus himself had testified that a prophet has no honor in his own homeland.)"
+    },
+    {
+     "v": 45,
+     "text": "When he arrived in Galilee, the Galileans received him, having seen all he did at Jerusalem during the feast, since they too had gone up for the feast."
+    },
+    {
+     "v": 46,
+     "text": "Then he came once more to Cana in Galilee, where he had turned the water into wine. At Capernaum there was a certain royal official{l} whose son was ill."
+    },
+    {
+     "v": 47,
+     "text": "When this man heard that Jesus had come from Judea into Galilee, he went to him and begged him to come down and heal his son, who was at the point of death."
+    },
+    {
+     "v": 48,
+     "text": "So Jesus said to him, “Unless you all see signs and wonders, you will not believe at all.”"
+    },
+    {
+     "v": 49,
+     "text": "The official says to him, “Sir, come down before my little boy dies.”"
+    },
+    {
+     "v": 50,
+     "text": "Jesus says to him, “Go; your son lives.” The man believed the word that Jesus spoke to him and set off."
+    },
+    {
+     "v": 51,
+     "text": "While he was still on his way down, his servants met him and told him that his boy was living."
+    },
+    {
+     "v": 52,
+     "text": "He inquired of them at what hour the boy had started to improve. “Yesterday, at one in the afternoon,”{m} they said, “the fever went from him.”"
+    },
+    {
+     "v": 53,
+     "text": "The father realized that this was the very hour when Jesus had said to him, “Your son lives.” And he himself believed, along with his whole household."
+    },
+    {
+     "v": 54,
+     "text": "This again was the second sign that Jesus did after coming from Judea into Galilee."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "The Lord: Greek *ho kyrios*, used here of Jesus. Many manuscripts, including P66 and P75 as reported, read “Jesus”; the Westcott–Hort text reads “the Lord.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:4",
+     "text": "Samaria: the region between Judea and Galilee, named after the city of Samaria (Hebrew *Shomron*, perhaps “watch-post”). Jews traveling between Judea and Galilee sometimes went around it by way of the Jordan valley."
+    },
+    {
+     "m": "c",
+     "ref": "4:5",
+     "text": "Sychar: probably the village of Askar near ancient Shechem, at the foot of Mount Gerizim; some identify it with Shechem itself."
+    },
+    {
+     "m": "d",
+     "ref": "4:5",
+     "text": "Jacob: Hebrew *Yaakov*, explained in Gen 25:26 and 27:36 as “heel-grabber” or “one who supplants.” For the land given to Joseph, see Gen 33:19; 48:22; Josh 24:32."
+    },
+    {
+     "m": "e",
+     "ref": "4:6",
+     "text": "Well: Greek *pēgē*, “spring,” here and in 4:14; in 4:11–12 the word is *phrear*, “well, cistern.” The well was fed by an underground spring."
+    },
+    {
+     "m": "f",
+     "ref": "4:6",
+     "text": "About noon: literally “about the sixth hour,” counting from sunrise (about 6 a.m.). On the view that John counts from midnight, which would make the time about 6 a.m. or 6 p.m., see the note on 1:39."
+    },
+    {
+     "m": "g",
+     "ref": "4:9",
+     "text": "Many interpreters take the parenthesis as the evangelist’s comment. The words *sunchrōntai* may mean “have no dealings with” or, more narrowly, “do not use vessels in common with.” Sinaiticus (first hand) and a few other witnesses omit the sentence; the Westcott–Hort text places it in brackets."
+    },
+    {
+     "m": "h",
+     "ref": "4:10",
+     "text": "Living water: an idiom for running water from a spring or stream, as opposed to still water in a cistern; Jesus uses it of the life he gives (compare 7:37–39; Jer 2:13)."
+    },
+    {
+     "m": "i",
+     "ref": "4:11",
+     "text": "Sir: Greek *kyrie*, which can be a polite address (“sir”) or a title (“Lord”)."
+    },
+    {
+     "m": "j",
+     "ref": "4:20",
+     "text": "This mountain: Mount Gerizim, near Sychar, where the Samaritans had built a temple (destroyed about 110 BC) and continued to worship (compare Deut 11:29; 27:12)."
+    },
+    {
+     "m": "k",
+     "ref": "4:26",
+     "text": "I am he: literally “I am” (Greek *egō eimi*). See the note on 6:20 and 8:58."
+    },
+    {
+     "m": "l",
+     "ref": "4:46",
+     "text": "Royal official: Greek *basilikos*, an officer in the service of the king, here probably Herod Antipas, tetrarch of Galilee."
+    },
+    {
+     "m": "m",
+     "ref": "4:52",
+     "text": "One in the afternoon: literally “the seventh hour,” counting from sunrise. See the note on 1:39."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    10,
+    19,
+    30
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Some time later there was a festival of the Jews,{a} and Jesus went up to Jerusalem."
+    },
+    {
+     "v": 2,
+     "text": "Now in Jerusalem, by the Sheep Gate, there is a pool, called in Hebrew{b} Bethzatha,{c} which has five colonnades."
+    },
+    {
+     "v": 3,
+     "text": "In these lay a crowd of invalids: blind, lame, withered.{d}"
+    },
+    {
+     "v": 4,
+     "text": "{e}"
+    },
+    {
+     "v": 5,
+     "text": "One man there had been in his illness thirty-eight years."
+    },
+    {
+     "v": 6,
+     "text": "When Jesus saw him lying there and knew that he had already been that way a long time, he says to him, “Do you want to become well?”"
+    },
+    {
+     "v": 7,
+     "text": "The sick man answered him, “Sir, I have nobody to put me into the pool when the water is stirred up; and while I am on my way, someone else steps down ahead of me.”"
+    },
+    {
+     "v": 8,
+     "text": "“Rise,” Jesus says to him, “take up your pallet and walk about.”"
+    },
+    {
+     "v": 9,
+     "text": "At once the man became well, and he picked up his mat and began to walk. Now that day was a Sabbath.{f}"
+    },
+    {
+     "v": 10,
+     "text": "The Jews therefore told the healed man, “This is the Sabbath; it is not lawful for you to be carrying your pallet.”"
+    },
+    {
+     "v": 11,
+     "text": "But he answered them, “The man who made me well, he is the one who told me, ‘Take up your pallet and walk.’”"
+    },
+    {
+     "v": 12,
+     "text": "They questioned him, “Who is the man that told you, ‘Take it up and walk’?”"
+    },
+    {
+     "v": 13,
+     "text": "But the man who had been healed had no idea who it was, for Jesus had slipped away, there being a crowd in the place."
+    },
+    {
+     "v": 14,
+     "text": "Afterward Jesus finds him in the temple and said to him, “See, you have become well. Sin no more, so that nothing worse befalls you.”"
+    },
+    {
+     "v": 15,
+     "text": "The man went off and told the Jews that it was Jesus who had made him well."
+    },
+    {
+     "v": 16,
+     "text": "That is why the Jews began to hound Jesus: he was doing such things on a Sabbath."
+    },
+    {
+     "v": 17,
+     "text": "But Jesus answered them, “My Father is at work until now, and I am at work too.”"
+    },
+    {
+     "v": 18,
+     "text": "For this reason the Jews were all the more seeking to kill him, because not only was he breaking the Sabbath, but he was also calling God his own Father, making himself equal to God."
+    },
+    {
+     "v": 19,
+     "text": "So Jesus responded to them, “Amen, amen, I tell you, the Son is able to do nothing by himself, except what he sees the Father doing; for whatever things the Father does, these the Son does in like manner."
+    },
+    {
+     "v": 20,
+     "text": "The Father has affection for the Son and lets him see everything he himself is doing, and greater works than these he will let him see, to your amazement."
+    },
+    {
+     "v": 21,
+     "text": "For just as the Father raises the dead and gives them life, so the Son too gives life to whomever he wills."
+    },
+    {
+     "v": 22,
+     "text": "Nor does the Father judge anyone; he has entrusted all judgment to the Son,"
+    },
+    {
+     "v": 23,
+     "text": "that all may honor the Son as they honor the Father. Whoever withholds honor from the Son withholds it from the Father who sent him."
+    },
+    {
+     "v": 24,
+     "text": "Amen, amen, I tell you, whoever hears my word and believes the one who sent me has eternal life; he does not come into judgment but has crossed over out of death into life."
+    },
+    {
+     "v": 25,
+     "text": "Amen, amen, I tell you, an hour is coming, and is here now, when the dead will hear the voice of the Son of God, and those who hear will live."
+    },
+    {
+     "v": 26,
+     "text": "For as the Father has life in himself, so he has granted the Son also to have life in himself."
+    },
+    {
+     "v": 27,
+     "text": "And he has given him authority to execute judgment, because he is the Son of Man.{g}"
+    },
+    {
+     "v": 28,
+     "text": "Do not be amazed at this; the hour is coming when everyone lying in the graves will hear his voice"
+    },
+    {
+     "v": 29,
+     "text": "and come out: those who have done good, to a resurrection of life, and those who have practiced evil, to a resurrection of judgment."
+    },
+    {
+     "v": 30,
+     "text": "“I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of the one who sent me."
+    },
+    {
+     "v": 31,
+     "text": "If I bear witness about myself, my witness is not true.{h}"
+    },
+    {
+     "v": 32,
+     "text": "There is another who bears witness about me, and I know that the witness he gives concerning me is true."
+    },
+    {
+     "v": 33,
+     "text": "You yourselves sent messengers to John, and his testimony was to the truth."
+    },
+    {
+     "v": 34,
+     "text": "Not that the testimony I accept is from a human being; but I say these things so that you may be saved."
+    },
+    {
+     "v": 35,
+     "text": "He was the lamp that burns and shines, and you were willing for a while to rejoice in his light."
+    },
+    {
+     "v": 36,
+     "text": "But the testimony I have is greater than John’s. The works that the Father has given me to bring to completion, the very works I am doing, testify about me that the Father has sent me."
+    },
+    {
+     "v": 37,
+     "text": "And the Father who sent me, he has borne witness about me. You have never heard his voice or seen his form,"
+    },
+    {
+     "v": 38,
+     "text": "and his word you do not have abiding in you, because you do not believe the one he sent."
+    },
+    {
+     "v": 39,
+     "text": "You pore over the Scriptures{i} because you suppose you possess eternal life in them; yet these are the very writings that testify about me."
+    },
+    {
+     "v": 40,
+     "text": "Yet you are unwilling to come to me to have life."
+    },
+    {
+     "v": 41,
+     "text": "Glory from human beings I do not receive."
+    },
+    {
+     "v": 42,
+     "text": "But I have come to know you, and the love of God is not in you."
+    },
+    {
+     "v": 43,
+     "text": "I have come in my Father’s name, and you do not receive me; if someone else comes in his own name, him you will receive."
+    },
+    {
+     "v": 44,
+     "text": "How are you able to believe, you who accept honor from each other and do not look for the honor that is from the only God?{j}"
+    },
+    {
+     "v": 45,
+     "text": "Do not imagine that it is I who will bring charges against you before the Father. The one who brings charges against you is Moses, in whom you have placed your hope."
+    },
+    {
+     "v": 46,
+     "text": "For if you believed Moses, you would believe me, for it was about me that he wrote."
+    },
+    {
+     "v": 47,
+     "text": "But if you do not believe his writings, how will you believe my words?”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "A festival of the Jews: the festival is not named. Sinaiticus and some other manuscripts read “the festival,” which would probably mean Passover or Tabernacles."
+    },
+    {
+     "m": "b",
+     "ref": "5:2",
+     "text": "In Hebrew: that is, in the Hebrew or Aramaic language spoken in Judea (so also 19:13, 17; 20:16)."
+    },
+    {
+     "m": "c",
+     "ref": "5:2",
+     "text": "Bethzatha: so the Westcott–Hort text, with Sinaiticus and a few others. Other manuscripts read *Bethesda* (“house of mercy,” or perhaps “house of the outpouring”), and P66, P75 and Vaticanus are reported to read *Bethsaida*. *Bethzatha* may mean “house of olives,” or be the name of the northern quarter of the city (Bezetha). A double pool with five porticoes has been excavated near the Church of St. Anne, north of the temple area."
+    },
+    {
+     "m": "d",
+     "ref": "5:3",
+     "text": "Withered: that is, paralyzed. Many later manuscripts add at the end of verse 3 “waiting for the moving of the water,” and add verse 4: “For an angel of the Lord went down at certain times into the pool and stirred up the water; whoever then first stepped in after the stirring of the water was made well of whatever disease he had.” Neither addition is found in the earliest manuscripts, including P66, P75, Sinaiticus and Vaticanus (as reported), and the wording of verse 4 varies greatly among the manuscripts that have it. The Westcott–Hort text does not include them."
+    },
+    {
+     "m": "e",
+     "ref": "5:4",
+     "text": "The verse number is kept here only to preserve the traditional verse numbering. See the note on 5:3."
+    },
+    {
+     "m": "f",
+     "ref": "5:9",
+     "text": "Sabbath: from Hebrew *shabbat*, “rest” or “ceasing,” the seventh day of the week, from sunset Friday to sunset Saturday, on which work was forbidden (Exod 20:8–11). Carrying a load from one place to another was counted as work (compare Jer 17:21–22)."
+    },
+    {
+     "m": "g",
+     "ref": "5:27",
+     "text": "Or “because he is a son of man,” that is, a human being; the Greek has no article. Compare Dan 7:13–14."
+    },
+    {
+     "m": "h",
+     "ref": "5:31",
+     "text": "True: that is, valid as legal evidence. The Law required two or three witnesses (Deut 19:15; compare 8:13–18)."
+    },
+    {
+     "m": "i",
+     "ref": "5:39",
+     "text": "Or, as a command, “Pore over the Scriptures.”"
+    },
+    {
+     "m": "j",
+     "ref": "5:44",
+     "text": "The only God: some early witnesses, including P66, P75 and Vaticanus (as reported), read “the only one.” The Westcott–Hort text prints “God” in brackets."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    16,
+    22,
+    41,
+    52,
+    60,
+    66
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Afterward Jesus went away to the far side of the Sea of Galilee, that is, the Sea of Tiberias.{a}"
+    },
+    {
+     "v": 2,
+     "text": "A great crowd kept following him, because they were watching the signs he did on the sick."
+    },
+    {
+     "v": 3,
+     "text": "Jesus climbed the hill and was sitting there with his disciples."
+    },
+    {
+     "v": 4,
+     "text": "It was close to the Passover, the Jewish festival."
+    },
+    {
+     "v": 5,
+     "text": "Lifting his eyes and seeing that a great crowd was coming toward him, Jesus says to Philip, “Where shall we buy bread, so that these people may eat?”"
+    },
+    {
+     "v": 6,
+     "text": "He said this to test him, for he himself knew what he was going to do."
+    },
+    {
+     "v": 7,
+     "text": "Philip answered him, “Two hundred days’ wages{b} would not buy bread enough for each of them to have a mouthful.”"
+    },
+    {
+     "v": 8,
+     "text": "One of his disciples, Andrew, Simon Peter’s brother, says to him,"
+    },
+    {
+     "v": 9,
+     "text": "“There is a boy here who has five barley loaves and two small fish. But what are they among so many?”"
+    },
+    {
+     "v": 10,
+     "text": "Jesus said, “Have the people recline.” There was much grass in the place. So the men reclined, about five thousand in number."
+    },
+    {
+     "v": 11,
+     "text": "Then Jesus took the loaves, and when he had given thanks, he distributed them to those who were reclining; so also with the fish, as much as they wanted."
+    },
+    {
+     "v": 12,
+     "text": "And when they were filled, he tells his disciples, “Gather up the pieces left over, so that nothing goes to waste.”"
+    },
+    {
+     "v": 13,
+     "text": "So they gathered them up, and from the five barley loaves they filled twelve baskets with pieces left over by those who had eaten."
+    },
+    {
+     "v": 14,
+     "text": "Seeing the sign he had done, the people said, “This must surely be the Prophet who was to come into the world!”"
+    },
+    {
+     "v": 15,
+     "text": "Then Jesus, aware that they were about to come and seize him to make him king, withdrew again to the mountain by himself."
+    },
+    {
+     "v": 16,
+     "text": "When evening came, his disciples went down to the sea,"
+    },
+    {
+     "v": 17,
+     "text": "got into a boat, and set out across the sea toward Capernaum. Darkness had already fallen, and Jesus had not yet come to them."
+    },
+    {
+     "v": 18,
+     "text": "The sea was being whipped up by a strong wind."
+    },
+    {
+     "v": 19,
+     "text": "When they had rowed about three or four miles,{c} they see Jesus walking on the sea and drawing near the boat, and they were terrified."
+    },
+    {
+     "v": 20,
+     "text": "But he says to them, “It is I;{d} do not be afraid.”"
+    },
+    {
+     "v": 21,
+     "text": "Then they were glad to take him into the boat, and immediately the boat reached the shore they were heading for."
+    },
+    {
+     "v": 22,
+     "text": "The next day the crowd that remained on the other side of the sea saw that there had been only one small boat there, and that Jesus had not gone aboard with his disciples, but that his disciples had gone away alone."
+    },
+    {
+     "v": 23,
+     "text": "Other boats, however, came from Tiberias near the place where they had eaten the bread after the Lord gave thanks.{e}"
+    },
+    {
+     "v": 24,
+     "text": "When the crowd realized that Jesus was not there, and his disciples were gone as well, they boarded the small boats themselves and came to Capernaum searching for Jesus."
+    },
+    {
+     "v": 25,
+     "text": "And when they found him on the other side of the sea, they said to him, “Rabbi, when did you get here?”"
+    },
+    {
+     "v": 26,
+     "text": "Jesus answered them, “Amen, amen, I tell you, it is not because you saw signs that you seek me, but because you ate of the loaves and were filled."
+    },
+    {
+     "v": 27,
+     "text": "Do not work for the food that perishes, but for the food that lasts for eternal life, which the Son of Man will give you; for on him God the Father has set his seal.”"
+    },
+    {
+     "v": 28,
+     "text": "So they asked him, “What should we be doing, so as to do God’s works?”"
+    },
+    {
+     "v": 29,
+     "text": "Jesus answered them, “This is the work of God: that you believe in the one he has sent.”"
+    },
+    {
+     "v": 30,
+     "text": "They said to him, “What sign, then, will you do, so we may see and put our faith in you? What are you going to accomplish?"
+    },
+    {
+     "v": 31,
+     "text": "Our ancestors ate the manna{f} in the wilderness, as it is written, ‘He gave them bread out of heaven to eat.’”{g}"
+    },
+    {
+     "v": 32,
+     "text": "Jesus then said to them, “Amen, amen, I tell you, it was not Moses who gave you the bread out of heaven; my Father is giving you the true bread out of heaven."
+    },
+    {
+     "v": 33,
+     "text": "For the bread of God is the one who comes down out of heaven and gives life to the world.”"
+    },
+    {
+     "v": 34,
+     "text": "“Sir,” they said to him, “always give us this bread.”"
+    },
+    {
+     "v": 35,
+     "text": "Jesus said to them, “I am the bread of life.{h} Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty again."
+    },
+    {
+     "v": 36,
+     "text": "But I told you that you have seen me and still you do not believe."
+    },
+    {
+     "v": 37,
+     "text": "Everyone the Father gives me will come to me, and anyone who comes to me I will by no means cast out."
+    },
+    {
+     "v": 38,
+     "text": "For I have come down from heaven not to do my own will but the will of the one who sent me."
+    },
+    {
+     "v": 39,
+     "text": "And the will of him who sent me is this, that of all he has given me I lose none, but raise it to life on the last day."
+    },
+    {
+     "v": 40,
+     "text": "For this is the will of my Father, that everyone who looks to the Son and believes in him should have eternal life; and I will raise him up on the last day.”"
+    },
+    {
+     "v": 41,
+     "text": "Then the Jews began to grumble about him because he said, “I am the bread that came down out of heaven.”"
+    },
+    {
+     "v": 42,
+     "text": "They were saying, “Is this not Jesus, Joseph’s son, whose father and mother we know? How can he now say, ‘I have come down out of heaven’?”"
+    },
+    {
+     "v": 43,
+     "text": "Jesus answered them, “Stop grumbling among yourselves."
+    },
+    {
+     "v": 44,
+     "text": "No one can come to me unless the Father who sent me draws him; and I will raise him up on the last day."
+    },
+    {
+     "v": 45,
+     "text": "It is written in the Prophets, ‘And they will all be taught by God.’{i} Everyone who has heard from the Father and has learned comes to me."
+    },
+    {
+     "v": 46,
+     "text": "Not that anyone has seen the Father, except the one who is from God; he has seen the Father."
+    },
+    {
+     "v": 47,
+     "text": "Amen, amen, I tell you, whoever believes{j} has eternal life."
+    },
+    {
+     "v": 48,
+     "text": "I am the bread of life."
+    },
+    {
+     "v": 49,
+     "text": "Your ancestors ate the manna in the wilderness, and they died."
+    },
+    {
+     "v": 50,
+     "text": "This is the bread that comes down out of heaven, so that one may eat of it and not die."
+    },
+    {
+     "v": 51,
+     "text": "I am the living bread that came down out of heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh.”"
+    },
+    {
+     "v": 52,
+     "text": "The Jews then began to argue sharply with one another, saying, “How can this man give us his flesh to eat?”"
+    },
+    {
+     "v": 53,
+     "text": "So Jesus said to them, “Amen, amen, I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in yourselves."
+    },
+    {
+     "v": 54,
+     "text": "Whoever feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day."
+    },
+    {
+     "v": 55,
+     "text": "For my flesh is food indeed, and my blood is drink indeed."
+    },
+    {
+     "v": 56,
+     "text": "The one who feeds on my flesh and drinks my blood remains in me, and I remain in him."
+    },
+    {
+     "v": 57,
+     "text": "Just as the living Father sent me, and I live because of the Father, so the one who feeds on me will also live because of me."
+    },
+    {
+     "v": 58,
+     "text": "This is the bread that came down out of heaven, not like the bread the ancestors ate and died. Whoever feeds on this bread will live forever.”"
+    },
+    {
+     "v": 59,
+     "text": "He said these things while teaching in a synagogue at Capernaum."
+    },
+    {
+     "v": 60,
+     "text": "When they heard this, many of his disciples said, “This is a hard saying. Who can listen to it?”"
+    },
+    {
+     "v": 61,
+     "text": "But Jesus, knowing within himself that his disciples were grumbling about this, said to them, “Does this offend you?"
+    },
+    {
+     "v": 62,
+     "text": "What, then, if you see the Son of Man going up to where he was before?"
+    },
+    {
+     "v": 63,
+     "text": "It is the Spirit that gives life; the flesh is of no use at all. The words I have spoken to you are spirit and they are life."
+    },
+    {
+     "v": 64,
+     "text": "But there are some of you who do not believe.” For Jesus knew from the beginning who those were who did not believe, and who it was who would betray him."
+    },
+    {
+     "v": 65,
+     "text": "And he said, “That is why I told you that no one can come to me unless it has been granted him by the Father.”"
+    },
+    {
+     "v": 66,
+     "text": "From that point many of his disciples drew back and would no longer go about with him."
+    },
+    {
+     "v": 67,
+     "text": "Jesus then asked the Twelve, “And you, do you also want to leave?”"
+    },
+    {
+     "v": 68,
+     "text": "“Lord,” Simon Peter answered, “to whom would we go? It is you who have words of eternal life;"
+    },
+    {
+     "v": 69,
+     "text": "and we for our part have believed and know that you are the Holy One of God.”{k}"
+    },
+    {
+     "v": 70,
+     "text": "“Was it not I who chose you Twelve?” Jesus answered them. “Yet one of you is a devil.”"
+    },
+    {
+     "v": 71,
+     "text": "He was speaking of Judas son of Simon Iscariot,{l} who, though he was one of the Twelve, was going to hand him over."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "Sea of Tiberias: another name for the Sea of Galilee, from the city of Tiberias on its western shore, founded by Herod Antipas about AD 20 and named in honor of the emperor Tiberius."
+    },
+    {
+     "m": "b",
+     "ref": "6:7",
+     "text": "Two hundred days’ wages: literally “two hundred denarii.” A denarius was a silver coin, the usual day’s wage for a laborer (Matt 20:2), so the sum is about eight months’ wages."
+    },
+    {
+     "m": "c",
+     "ref": "6:19",
+     "text": "Three or four miles: literally “twenty-five or thirty stadia.” A stadion was about 607 feet (185 m), so the distance is about 3–3½ miles (5–6 km)."
+    },
+    {
+     "m": "d",
+     "ref": "6:20",
+     "text": "It is I: literally “I am” (Greek *egō eimi*), the ordinary way of saying “It is I,” but in John it may also echo God’s self-designation in the Greek Old Testament (Exod 3:14; Isa 41:4; 43:10, 25). In John Jesus uses *egō eimi* both absolutely (here; 8:24, 28, 58; 13:19; 18:5–8) and with a predicate in seven sayings: “I am the bread of life” (6:35), “the light of the world” (8:12), “the door” (10:7, 9), “the good shepherd” (10:11, 14), “the resurrection and the life” (11:25), “the way, the truth, and the life” (14:6), and “the true vine” (15:1)."
+    },
+    {
+     "m": "e",
+     "ref": "6:23",
+     "text": "After the Lord gave thanks: a few Western witnesses, including Codex Bezae, omit these words."
+    },
+    {
+     "m": "f",
+     "ref": "6:31",
+     "text": "Manna: the food God provided for Israel in the wilderness (Exod 16). Exod 16:15 explains the name by the question *man hu*, “What is it?”"
+    },
+    {
+     "m": "g",
+     "ref": "6:31",
+     "text": "Compare Ps 78:24; Exod 16:4, 15; Neh 9:15."
+    },
+    {
+     "m": "h",
+     "ref": "6:35",
+     "text": "I am the bread of life: the first of the seven “I am” sayings with a predicate; see the note on 6:20."
+    },
+    {
+     "m": "i",
+     "ref": "6:45",
+     "text": "Isa 54:13."
+    },
+    {
+     "m": "j",
+     "ref": "6:47",
+     "text": "Whoever believes: many later manuscripts add “in me.”"
+    },
+    {
+     "m": "k",
+     "ref": "6:69",
+     "text": "The Holy One of God: so the earliest manuscripts and the Westcott–Hort text. Later manuscripts read “the Messiah, the Son of the living God” or similar (compare Matt 16:16)."
+    },
+    {
+     "m": "l",
+     "ref": "6:71",
+     "text": "Iscariot: probably from Hebrew *ish Qeriyyot*, “man of Kerioth,” a town in Judea (Josh 15:25), though other explanations have been proposed. *Judas* is the Greek form of *Judah*, “praised” (Gen 29:35)."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    10,
+    14,
+    25,
+    32,
+    37,
+    40,
+    45
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this Jesus moved about in Galilee; he chose not to go about in Judea, since the Jews were seeking to kill him."
+    },
+    {
+     "v": 2,
+     "text": "But the Jewish festival of Booths{a} was near."
+    },
+    {
+     "v": 3,
+     "text": "So his brothers said to him, “Leave this place and go to Judea, so that your disciples there too may see the works you are doing."
+    },
+    {
+     "v": 4,
+     "text": "No one who wants to be widely known keeps his doings hidden. Since you do such things, display yourself to the world.”"
+    },
+    {
+     "v": 5,
+     "text": "For not even his brothers believed in him."
+    },
+    {
+     "v": 6,
+     "text": "Jesus therefore says to them, “My time has not yet arrived, but for you any time will do."
+    },
+    {
+     "v": 7,
+     "text": "The world cannot hate you, but me it hates, because I testify against it that its works are evil."
+    },
+    {
+     "v": 8,
+     "text": "Go on up to the feast, all of you. I am not yet{b} going up to this feast, for my time is not yet complete.”"
+    },
+    {
+     "v": 9,
+     "text": "Having told them this, he stayed on in Galilee."
+    },
+    {
+     "v": 10,
+     "text": "But once his brothers had gone up to the festival, then he too went up, not openly but as it were in secret."
+    },
+    {
+     "v": 11,
+     "text": "Meanwhile at the feast the Jews kept searching for him and asking, “Where can he be?”"
+    },
+    {
+     "v": 12,
+     "text": "The crowds were full of whispered talk about him. “He is a good man,” some said; others said, “Not so; he deceives the people.”"
+    },
+    {
+     "v": 13,
+     "text": "Yet for fear of the Jews nobody would speak openly about him."
+    },
+    {
+     "v": 14,
+     "text": "About the middle of the feast Jesus went up to the temple and taught."
+    },
+    {
+     "v": 15,
+     "text": "The Jews were astonished and said, “How does this man know letters, when he has never studied?”{c}"
+    },
+    {
+     "v": 16,
+     "text": "Jesus answered them, “What I teach is not mine; it belongs to the one who sent me."
+    },
+    {
+     "v": 17,
+     "text": "If anyone resolves to do his will, he will come to know whether my teaching is from God or whether I speak on my own authority."
+    },
+    {
+     "v": 18,
+     "text": "The one who speaks on his own authority seeks glory for himself; but the one who seeks the glory of him who sent him is truthful, and there is no wrongdoing in him."
+    },
+    {
+     "v": 19,
+     "text": "Did Moses not give you the Law? And yet not one of you keeps the Law. Why are you trying to kill me?”"
+    },
+    {
+     "v": 20,
+     "text": "“You are possessed by a demon!” the crowd answered. “Who wants to kill you?”"
+    },
+    {
+     "v": 21,
+     "text": "Jesus answered them, “I did a single work, and you all wonder at it."
+    },
+    {
+     "v": 22,
+     "text": "Moses gave you circumcision for this reason{d} (though it did not originate with Moses but with the fathers),{e} and on the Sabbath you circumcise a male."
+    },
+    {
+     "v": 23,
+     "text": "If a man receives circumcision on the Sabbath so that the Law of Moses may not be broken, are you angry with me because I made a whole man well on the Sabbath?"
+    },
+    {
+     "v": 24,
+     "text": "Stop judging by appearances; judge with right judgment.”"
+    },
+    {
+     "v": 25,
+     "text": "Some of the people of Jerusalem were therefore saying, “Is this not the man they are seeking to kill?"
+    },
+    {
+     "v": 26,
+     "text": "And look, he speaks boldly, and they say nothing to him. Can it be that the rulers really know that this is the Messiah?"
+    },
+    {
+     "v": 27,
+     "text": "Yet we know where this man comes from; but when the Messiah comes, no one will know where he is from.”"
+    },
+    {
+     "v": 28,
+     "text": "So as he taught in the temple courts Jesus called out loudly, “So you know me, and you know my origin? Yet it was not on my own initiative that I came; the one who sent me is genuine, and him you do not know."
+    },
+    {
+     "v": 29,
+     "text": "I know him, because I am from him, and he sent me.”"
+    },
+    {
+     "v": 30,
+     "text": "So they tried to arrest him, yet no one laid a hand on him, because his hour had not yet come."
+    },
+    {
+     "v": 31,
+     "text": "Many of the crowd, though, believed in him and said, “When the Messiah comes, will he do more signs than this man has done?”"
+    },
+    {
+     "v": 32,
+     "text": "The Pharisees heard the crowd murmuring these things about him, and the chief priests and Pharisees sent officers{f} to seize him."
+    },
+    {
+     "v": 33,
+     "text": "Jesus then said, “Only a little while longer am I with you, and then I go to the one who sent me."
+    },
+    {
+     "v": 34,
+     "text": "You will seek me and not find me; and where I am, you cannot come.”"
+    },
+    {
+     "v": 35,
+     "text": "The Jews then asked among themselves, “Where is this fellow about to go, that we will not be able to find him? Surely he does not mean to go to the Dispersion{g} among the Greeks and teach Greeks?"
+    },
+    {
+     "v": 36,
+     "text": "What is this saying of his, ‘You will seek me and not find me,’ and, ‘Where I am, you cannot come’?”"
+    },
+    {
+     "v": 37,
+     "text": "On the last day of the festival, the great day, Jesus stood and cried out, “If anyone is thirsty, let him come to me and drink."
+    },
+    {
+     "v": 38,
+     "text": "Whoever believes in me, as the Scripture has said, ‘Rivers of living water will flow from within him.’”{h}"
+    },
+    {
+     "v": 39,
+     "text": "He was speaking of the Spirit, whom those believing in him were to receive; for as yet there was no Spirit,{i} since Jesus had not yet been glorified."
+    },
+    {
+     "v": 40,
+     "text": "On hearing these words, some of the crowd said, “This really is the Prophet.”"
+    },
+    {
+     "v": 41,
+     "text": "Others said, “This is the Messiah.” But some said, “What? Is the Messiah to come out of Galilee?"
+    },
+    {
+     "v": 42,
+     "text": "Has the Scripture not said that the Messiah comes from the offspring of David,{j} and from Bethlehem,{k} the village where David was?”"
+    },
+    {
+     "v": 43,
+     "text": "So a division arose in the crowd because of him."
+    },
+    {
+     "v": 44,
+     "text": "Some of them wanted to seize him, but no one laid hands on him."
+    },
+    {
+     "v": 45,
+     "text": "The officers then went back to the chief priests and Pharisees, who said to them, “Why have you not brought him?”"
+    },
+    {
+     "v": 46,
+     "text": "The officers answered, “Never has anyone spoken the way this man speaks!”"
+    },
+    {
+     "v": 47,
+     "text": "The Pharisees answered them, “Have you been taken in as well?"
+    },
+    {
+     "v": 48,
+     "text": "Has any of the rulers believed in him, or any of the Pharisees?"
+    },
+    {
+     "v": 49,
+     "text": "But this rabble that does not know the Law, they are accursed.”"
+    },
+    {
+     "v": 50,
+     "text": "Nicodemus, who had come to him earlier and was one of them, says to them,"
+    },
+    {
+     "v": 51,
+     "text": "“Does our Law condemn a man without first hearing from him and learning what he is doing?”"
+    },
+    {
+     "v": 52,
+     "text": "They answered him, “Are you from Galilee too? Search, and you will see that no prophet arises out of Galilee.”{l}"
+    },
+    {
+     "v": 53,
+     "text": "[[{m}Then they went each to his own house."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:2",
+     "text": "Booths: Greek *skēnopēgia*, “tent-pitching,” the festival of Booths or Tabernacles (Hebrew *Sukkot*), held for seven days in the autumn (Lev 23:33–43), with an eighth day of solemn assembly (7:37)."
+    },
+    {
+     "m": "b",
+     "ref": "7:8",
+     "text": "Not yet: so P66, P75, Vaticanus (as reported) and the Westcott–Hort text. Sinaiticus, Codex Bezae and some other witnesses read “I am not going up.”"
+    },
+    {
+     "m": "c",
+     "ref": "7:15",
+     "text": "Know letters: that is, have learning, especially in the Scriptures, without having studied under a rabbi."
+    },
+    {
+     "m": "d",
+     "ref": "7:22",
+     "text": "For this reason: the Greek phrase may instead go with the end of 7:21: “and you all wonder at it for this reason.”"
+    },
+    {
+     "m": "e",
+     "ref": "7:22",
+     "text": "Circumcision was commanded to Abraham (Gen 17:10–12) before it was included in the Law of Moses (Lev 12:3). Since a male child was to be circumcised on the eighth day, the rite was performed even when that day fell on a Sabbath."
+    },
+    {
+     "m": "f",
+     "ref": "7:32",
+     "text": "Officers: Greek *hypēretai*, the temple police under the authority of the chief priests."
+    },
+    {
+     "m": "g",
+     "ref": "7:35",
+     "text": "The Dispersion: Greek *diaspora*, the Jewish communities living outside the land of Israel."
+    },
+    {
+     "m": "h",
+     "ref": "7:38",
+     "text": "The source of the quotation is uncertain; compare Isa 44:3; 55:1; 58:11; Ezek 47:1–12; Zech 14:8. *From within him* is literally “out of his belly.” The punctuation is also disputed: some join “whoever believes in me” to 7:37 (“let him come to me and drink, whoever believes in me”), so that the rivers flow from within Jesus."
+    },
+    {
+     "m": "i",
+     "ref": "7:39",
+     "text": "As yet there was no Spirit: literally “the Spirit was not yet,” that is, had not yet been given. So the Westcott–Hort text with P66 (first hand), P75 and Sinaiticus (as reported); many manuscripts add “given,” and Vaticanus and others reportedly read “the Holy Spirit was not yet given.”"
+    },
+    {
+     "m": "j",
+     "ref": "7:42",
+     "text": "Compare 2 Sam 7:12; Ps 89:3–4; Mic 5:2. *David* may mean “beloved.”"
+    },
+    {
+     "m": "k",
+     "ref": "7:42",
+     "text": "Bethlehem: “house of bread.”"
+    },
+    {
+     "m": "l",
+     "ref": "7:52",
+     "text": "P66 and some later witnesses are reported to read “the Prophet,” that is, the expected prophet like Moses."
+    },
+    {
+     "m": "m",
+     "ref": "7:53",
+     "text": "The account of the woman caught in adultery (7:53–8:11) is placed in double brackets because it is almost certainly not part of the original Gospel. It is absent from the earliest Greek manuscripts, including P66 and P75 (about AD 200), Sinaiticus and Vaticanus (fourth century), and probably from Alexandrinus and Ephraemi (which are defective here, but whose missing leaves are too short to have held it); from the earliest Syriac and Coptic versions and many Old Latin manuscripts; and no Greek writer comments on it before the twelfth century. Its earliest Greek witness is Codex Bezae (D, fifth century); it is found in the great majority of later manuscripts and in the Latin Vulgate, and was known to some Western writers such as Ambrose and Augustine, and in a related form perhaps to Papias and the *Didascalia* (third century). In manuscripts that include it, it appears in different places: most often after 7:52, but in some after 7:36, 7:44, or 21:25, and in one group (family 13) after Luke 21:38. Many manuscripts that place it here mark it with asterisks or obeli as doubtful, and its text varies more than any other passage in the Gospels. Its vocabulary and style are closer to Luke than to John. Most scholars regard it as an authentic early tradition about Jesus that circulated independently and was later inserted into the Gospels. Westcott and Hort printed it in double brackets after the end of John; it is placed here, at its traditional position, so as to keep the familiar verse numbering."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    2,
+    12,
+    21,
+    31,
+    48
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But Jesus went to the Mount of Olives."
+    },
+    {
+     "v": 2,
+     "text": "At daybreak he came back into the temple. All the people came to him, and he sat down and began to teach them."
+    },
+    {
+     "v": 3,
+     "text": "The scribes and the Pharisees bring a woman who had been caught in adultery, and after making her stand in the middle,"
+    },
+    {
+     "v": 4,
+     "text": "and they say to him, “Teacher, this woman was caught in the act, committing adultery."
+    },
+    {
+     "v": 5,
+     "text": "Now in the Law Moses commanded us to stone such women.{a} So what do you say?”"
+    },
+    {
+     "v": 6,
+     "text": "They said this to test him, in order to have grounds for accusing him. But Jesus stooped down and began writing on the ground with his finger."
+    },
+    {
+     "v": 7,
+     "text": "And as they persisted in asking him, he stood up straight and told them, “The one among you who is sinless, let him throw the first stone at her.”"
+    },
+    {
+     "v": 8,
+     "text": "And again he bent down and went on writing on the ground."
+    },
+    {
+     "v": 9,
+     "text": "When they heard this, they went out one by one, beginning with the elders, and he was left alone with the woman standing there in the middle."
+    },
+    {
+     "v": 10,
+     "text": "Then Jesus stood up and asked her, “Woman, where have they gone? Has nobody condemned you?”"
+    },
+    {
+     "v": 11,
+     "text": "She said, “No one, sir.” And Jesus said, “Neither do I condemn you. Go, and from now on sin no more.”]]"
+    },
+    {
+     "v": 12,
+     "text": "Once more Jesus addressed them: “I am the light of the world.{b} Anyone who follows me will not walk about in the darkness; he will possess the light of life.”"
+    },
+    {
+     "v": 13,
+     "text": "So the Pharisees said to him, “You testify on your own behalf; your testimony is not valid.”"
+    },
+    {
+     "v": 14,
+     "text": "“Though I bear witness concerning myself,” Jesus answered them, “my witness holds true, since I know from where I came and to where I go. You, though, know neither my origin nor my destination."
+    },
+    {
+     "v": 15,
+     "text": "You judge according to the flesh;{c} I pass judgment on nobody."
+    },
+    {
+     "v": 16,
+     "text": "Yet even if I do judge, my judgment is true, because I am not alone; it is I and the Father who sent me."
+    },
+    {
+     "v": 17,
+     "text": "In your own Law it is written that the testimony of two persons is valid.{d}"
+    },
+    {
+     "v": 18,
+     "text": "I am one who testifies about myself, and the Father who sent me testifies about me.”"
+    },
+    {
+     "v": 19,
+     "text": "Then they said to him, “Where is your Father?” Jesus answered, “You know neither me nor my Father. If you knew me, you would know my Father as well.”"
+    },
+    {
+     "v": 20,
+     "text": "These words he spoke in the treasury{e} while he taught in the temple; and no one seized him, because his hour had not yet come."
+    },
+    {
+     "v": 21,
+     "text": "He spoke to them once more: “I am going away. You will search for me, and you will die in your sin. You are not able to come where I am going.”"
+    },
+    {
+     "v": 22,
+     "text": "At this the Jews said, “He will not kill himself, will he? Is that why he says, ‘You are not able to come where I am going’?”"
+    },
+    {
+     "v": 23,
+     "text": "He said to them, “You are from below; I am from above. You are of this world; I am not of this world."
+    },
+    {
+     "v": 24,
+     "text": "So I told you that you would die in your sins; for unless you believe that I am he,{f} you will die in your sins.”"
+    },
+    {
+     "v": 25,
+     "text": "Then they said to him, “Who are you?” Jesus said to them, “Just what I have been telling you from the beginning.{g}"
+    },
+    {
+     "v": 26,
+     "text": "There is much I could say about you and much I could judge; but the one who sent me is true, and what I heard from him is what I tell the world.”"
+    },
+    {
+     "v": 27,
+     "text": "They did not grasp that he was talking to them of the Father."
+    },
+    {
+     "v": 28,
+     "text": "So Jesus said, “When you have lifted up the Son of Man, then you will know that I am he, and that I do nothing on my own, but speak just as the Father taught me."
+    },
+    {
+     "v": 29,
+     "text": "The one who sent me stays with me; he has not left me on my own, for I always do the things that please him.”"
+    },
+    {
+     "v": 30,
+     "text": "As he was saying these things, many believed in him."
+    },
+    {
+     "v": 31,
+     "text": "Then Jesus said to the Jews who had put their faith in him, “If you remain in my word, you are my disciples indeed;"
+    },
+    {
+     "v": 32,
+     "text": "and you will know the truth, and the truth will set you free.”"
+    },
+    {
+     "v": 33,
+     "text": "They answered him, “We are Abraham’s offspring{h} and have never been slaves to anyone. How can you say, ‘You will become free’?”"
+    },
+    {
+     "v": 34,
+     "text": "Jesus answered them, “Amen, amen, I tell you, everyone who commits sin is a slave of sin.{i}"
+    },
+    {
+     "v": 35,
+     "text": "The slave does not remain in the household forever; the son remains forever."
+    },
+    {
+     "v": 36,
+     "text": "If therefore the Son makes you free, you will truly be free."
+    },
+    {
+     "v": 37,
+     "text": "I know that you are Abraham’s offspring; yet you seek to kill me, because my word finds no room in you."
+    },
+    {
+     "v": 38,
+     "text": "I speak of what I have seen with the Father; and you, then, do what you have heard from the father.”{j}"
+    },
+    {
+     "v": 39,
+     "text": "They answered him, “Our father is Abraham.” Jesus says to them, “If you are children of Abraham, do the works of Abraham.{k}"
+    },
+    {
+     "v": 40,
+     "text": "But now you are seeking to kill me, a man who has told you the truth that I heard from God. This Abraham did not do."
+    },
+    {
+     "v": 41,
+     "text": "You are doing the works of your father.” They said to him, “We were not born of sexual immorality. We have one Father, God himself.”"
+    },
+    {
+     "v": 42,
+     "text": "Jesus said to them, “If God were your Father, you would love me, for I came out from God and have arrived here. I have not come on my own; he sent me."
+    },
+    {
+     "v": 43,
+     "text": "Why do you not understand what I say? Because you cannot bear to hear my word."
+    },
+    {
+     "v": 44,
+     "text": "You come from your father the devil, and you are set on doing what your father desires. From the beginning he was a murderer, and he has not stood in the truth, for truth is not in him. When he speaks a lie, he is speaking out of his own nature, for he is a liar and the father of lies.{l}"
+    },
+    {
+     "v": 45,
+     "text": "But because I speak the truth, you do not believe me."
+    },
+    {
+     "v": 46,
+     "text": "Which of you convicts me of sin? If I speak the truth, why do you not believe me?"
+    },
+    {
+     "v": 47,
+     "text": "Whoever is of God hears the words of God. The reason you do not hear is that you are not of God.”"
+    },
+    {
+     "v": 48,
+     "text": "“Are we not right,” the Jews replied, “when we say you are a Samaritan and demon-possessed?”"
+    },
+    {
+     "v": 49,
+     "text": "Jesus answered, “I do not have a demon; I honor my Father, and you dishonor me."
+    },
+    {
+     "v": 50,
+     "text": "I do not seek my own glory; there is one who seeks it, and he judges."
+    },
+    {
+     "v": 51,
+     "text": "Amen, amen, I tell you, if anyone keeps my word, he will never see death.”"
+    },
+    {
+     "v": 52,
+     "text": "The Jews said to him, “Now we know that you have a demon! Abraham died, and so did the prophets; and you say, ‘If anyone keeps my word, he will never taste death.’"
+    },
+    {
+     "v": 53,
+     "text": "Are you greater than our father Abraham, who died? The prophets died too! Who do you make yourself out to be?”"
+    },
+    {
+     "v": 54,
+     "text": "Jesus answered, “If I glorify myself, my glory is nothing. It is my Father who glorifies me, of whom you say, ‘He is our God.’"
+    },
+    {
+     "v": 55,
+     "text": "You have never known him, but I do know him. Were I to say I do not know him, I would be a liar, as you are. But I know him, and his word I keep."
+    },
+    {
+     "v": 56,
+     "text": "Abraham your father was overjoyed at the thought of seeing my day; and he did see it, and rejoiced.”"
+    },
+    {
+     "v": 57,
+     "text": "So the Jews said to him, “You are not yet fifty years old, and you have seen Abraham?”{m}"
+    },
+    {
+     "v": 58,
+     "text": "Jesus said to them, “Amen, amen, I tell you, before Abraham came to be, I am.”{n}"
+    },
+    {
+     "v": 59,
+     "text": "So they picked up stones to throw at him; but Jesus hid himself and went out of the temple."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:5",
+     "text": "Lev 20:10 and Deut 22:22 prescribe death for both the man and the woman; Deut 22:23–24 specifies stoning for a betrothed woman and the man."
+    },
+    {
+     "m": "b",
+     "ref": "8:12",
+     "text": "I am the light of the world: the second of the “I am” sayings with a predicate (see the note on 6:20). Lamps were lit in the temple’s Court of the Women during the festival of Booths."
+    },
+    {
+     "m": "c",
+     "ref": "8:15",
+     "text": "According to the flesh: that is, by human standards."
+    },
+    {
+     "m": "d",
+     "ref": "8:17",
+     "text": "Compare Deut 17:6; 19:15."
+    },
+    {
+     "m": "e",
+     "ref": "8:20",
+     "text": "The treasury: probably the area of the Court of the Women where the offering chests stood (compare Mark 12:41)."
+    },
+    {
+     "m": "f",
+     "ref": "8:24",
+     "text": "That I am he: literally “that I am” (Greek *egō eimi*), used absolutely; compare Isa 43:10 (Greek Old Testament), “that you may know and believe … that I am.” See the note on 6:20; also 8:28, 58; 13:19."
+    },
+    {
+     "m": "g",
+     "ref": "8:25",
+     "text": "The Greek of Jesus’ answer (*tēn archēn ho ti kai lalō hymin*) is notoriously difficult. Other possible renderings include “Why do I speak to you at all?” and “I am from the beginning what I am telling you.” P66 (as reported) adds “I told you” at the beginning."
+    },
+    {
+     "m": "h",
+     "ref": "8:33",
+     "text": "Offspring: literally “seed.”"
+    },
+    {
+     "m": "i",
+     "ref": "8:34",
+     "text": "Of sin: Codex Bezae and a few other witnesses omit these words."
+    },
+    {
+     "m": "j",
+     "ref": "8:38",
+     "text": "From the father: many later manuscripts read “from your father,” which makes clear that the devil is meant (8:44); others read “I speak of what I have seen with my Father.” Without the pronoun, the sentence may also be a command: “and you, then, do what you have heard from the Father.”"
+    },
+    {
+     "m": "k",
+     "ref": "8:39",
+     "text": "If you are … do: some manuscripts read “If you were … you would do.”"
+    },
+    {
+     "m": "l",
+     "ref": "8:44",
+     "text": "Father of lies: or “the father of the liar,” or “a liar, and so was his father”; the Greek is ambiguous."
+    },
+    {
+     "m": "m",
+     "ref": "8:57",
+     "text": "Seen Abraham: P75, Sinaiticus (first hand) and a few other witnesses are reported to read “and Abraham has seen you?”"
+    },
+    {
+     "m": "n",
+     "ref": "8:58",
+     "text": "I am: Greek *egō eimi*, used absolutely, without a predicate. Contrasted with Abraham’s “coming to be,” the phrase claims an existence before Abraham and recalls God’s self-naming in Exod 3:14 (“I am who I am”; the Greek Old Testament has *egō eimi ho ōn*) and Isa 43:10–13. The response in 8:59 shows that the hearers took it as blasphemy. See the note on 6:20."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    8,
+    13,
+    18,
+    24,
+    35
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As he went along, he saw a man blind from his birth."
+    },
+    {
+     "v": 2,
+     "text": "His disciples asked him, “Rabbi, whose sin caused him to be born blind, this man’s or his parents’?”"
+    },
+    {
+     "v": 3,
+     "text": "Jesus answered, “Neither he nor his parents sinned; it happened so that the works of God might be put on display in him."
+    },
+    {
+     "v": 4,
+     "text": "We{a} must carry out the works of the one who sent me while it is day. Night is coming, when nobody is able to work."
+    },
+    {
+     "v": 5,
+     "text": "While I am in the world, I am the world’s light.”"
+    },
+    {
+     "v": 6,
+     "text": "After saying this, he spat on the ground, made mud with the saliva, and smeared the mud on the man’s eyes,"
+    },
+    {
+     "v": 7,
+     "text": "and told him, “Go and wash in the pool of Siloam” (a name that means “Sent”).{b} So the man went off and washed, and came back able to see."
+    },
+    {
+     "v": 8,
+     "text": "His neighbors, and those who had formerly seen him as a beggar, began saying, “Is this not the fellow who used to sit and beg?”"
+    },
+    {
+     "v": 9,
+     "text": "Some said, “It is he”; others said, “No, but he resembles him.” He kept saying, “I am the man.”"
+    },
+    {
+     "v": 10,
+     "text": "“How then,” they asked him, “did your eyes come to be opened?”"
+    },
+    {
+     "v": 11,
+     "text": "He replied, “That man they call Jesus made some mud and rubbed it on my eyes and said to me, ‘Off to Siloam, and wash.’ I went off and washed, and my sight came back.”"
+    },
+    {
+     "v": 12,
+     "text": "“Where is he?” they asked him. He says, “I do not know.”"
+    },
+    {
+     "v": 13,
+     "text": "They bring the man who had once been blind to the Pharisees."
+    },
+    {
+     "v": 14,
+     "text": "Now it was a Sabbath on the day Jesus made the mud and opened his eyes."
+    },
+    {
+     "v": 15,
+     "text": "So the Pharisees in their turn questioned him about how he had received his sight. He told them, “He put mud on my eyes, and I washed, and I see.”"
+    },
+    {
+     "v": 16,
+     "text": "Some of the Pharisees therefore said, “This man is not from God, for he does not observe the Sabbath.” But others said, “How can a sinful man perform signs like these?” And they were split among themselves."
+    },
+    {
+     "v": 17,
+     "text": "So again they say to the blind man, “What do you say about him, since it was your eyes he opened?” He said, “He is a prophet.”"
+    },
+    {
+     "v": 18,
+     "text": "The Jews would not believe that he had been blind and had received his sight until they summoned the parents of the man who had gained his sight,"
+    },
+    {
+     "v": 19,
+     "text": "and questioned them: “Is this your son, the one you say was born blind? How is it, then, that he now sees?”"
+    },
+    {
+     "v": 20,
+     "text": "His parents answered, “We know this is our son, and we know he was born blind."
+    },
+    {
+     "v": 21,
+     "text": "But how he can see now, or who it was that opened his eyes, we do not know. He is old enough; put your questions to him. He will speak about himself.”"
+    },
+    {
+     "v": 22,
+     "text": "His parents said this because they were afraid of the Jews; for the Jews had already agreed that anyone who confessed him as Messiah would be put out of the synagogue.{c}"
+    },
+    {
+     "v": 23,
+     "text": "That is why his parents said, “He is of age; question him.”"
+    },
+    {
+     "v": 24,
+     "text": "So they summoned once more the man who had been blind and said, “Give glory to God!{d} This man, we know, is a sinner.”"
+    },
+    {
+     "v": 25,
+     "text": "He answered, “Whether he is a sinner, I cannot say. One thing I do know: I was blind, and now I see.”"
+    },
+    {
+     "v": 26,
+     "text": "They said to him, “What did he do to you? How did he open your eyes?”"
+    },
+    {
+     "v": 27,
+     "text": "He answered them, “I have told you already, and you would not listen. Why do you want to hear it again? You do not want to become his disciples as well, do you?”"
+    },
+    {
+     "v": 28,
+     "text": "Then they heaped insults on him and said, “You are that man’s disciple; we are disciples of Moses."
+    },
+    {
+     "v": 29,
+     "text": "We know that God has spoken to Moses, but as for this fellow, we do not know where he is from.”"
+    },
+    {
+     "v": 30,
+     "text": "“Well, here is an astonishing thing!” the man replied. “You have no idea where he comes from, and yet he has opened my eyes."
+    },
+    {
+     "v": 31,
+     "text": "We know God does not hear sinners; rather, if anyone is God-fearing and does what God wills, him God hears."
+    },
+    {
+     "v": 32,
+     "text": "Since the world began it has never been heard that anyone opened the eyes of a man born blind."
+    },
+    {
+     "v": 33,
+     "text": "If this man were not from God, he could do nothing at all.”"
+    },
+    {
+     "v": 34,
+     "text": "They answered him, “You were born steeped in sin, and you would teach us?” And they threw him out."
+    },
+    {
+     "v": 35,
+     "text": "Jesus heard that they had thrown him out, and when he found him he said, “Do you believe in the Son of Man?”{e}"
+    },
+    {
+     "v": 36,
+     "text": "He answered, “And who is he, sir, that I may believe in him?”"
+    },
+    {
+     "v": 37,
+     "text": "“You have seen him,” Jesus said to him. “He is the very one who is talking with you.”"
+    },
+    {
+     "v": 38,
+     "text": "He said, “Lord, I believe,” and he worshiped him.{f}"
+    },
+    {
+     "v": 39,
+     "text": "And Jesus said, “I came into this world for judgment: that the sightless might see, and that those with sight might be made blind.”"
+    },
+    {
+     "v": 40,
+     "text": "Some Pharisees who were near him heard this and asked him, “We are not blind as well, are we?”"
+    },
+    {
+     "v": 41,
+     "text": "Jesus said to them, “If you were blind, you would have no sin. But now that you say, ‘We see,’ your sin remains.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:4",
+     "text": "We: so the earliest manuscripts and the Westcott–Hort text; many later manuscripts read “I.” Some early witnesses also read “the one who sent us.”"
+    },
+    {
+     "m": "b",
+     "ref": "9:7",
+     "text": "Siloam: from Hebrew *Shiloach*, “sending” (Isa 8:6), the pool at the south end of the City of David, fed by Hezekiah’s tunnel from the Gihon spring. John interprets the name as “Sent,” pointing to Jesus as the one sent by the Father."
+    },
+    {
+     "m": "c",
+     "ref": "9:22",
+     "text": "Put out of the synagogue: Greek *aposynagōgos*, excluded from the synagogue community (also 12:42; 16:2)."
+    },
+    {
+     "m": "d",
+     "ref": "9:24",
+     "text": "Give glory to God: a solemn charge to tell the truth (compare Josh 7:19)."
+    },
+    {
+     "m": "e",
+     "ref": "9:35",
+     "text": "The Son of Man: so P66, P75, Sinaiticus, Vaticanus (as reported) and the Westcott–Hort text; many later manuscripts read “the Son of God.”"
+    },
+    {
+     "m": "f",
+     "ref": "9:38",
+     "text": "P75, Sinaiticus (first hand) and a few other witnesses are reported to omit 9:38 and the opening words of 9:39 (“Jesus said”)."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    7,
+    11,
+    19,
+    22,
+    31,
+    40
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Amen, amen, I tell you, whoever does not go into the sheepfold through the gate but climbs in some other way, that man is a thief and a bandit."
+    },
+    {
+     "v": 2,
+     "text": "But the one who goes in through the gate is shepherd of the sheep."
+    },
+    {
+     "v": 3,
+     "text": "For him the gatekeeper opens, and the sheep hear his voice; he calls his own sheep by name and leads them out."
+    },
+    {
+     "v": 4,
+     "text": "When he has brought out all his own, he walks on ahead of them, and the sheep follow him, because they know his voice."
+    },
+    {
+     "v": 5,
+     "text": "A stranger they will never follow; they will flee from him, because they do not know the voice of strangers.”"
+    },
+    {
+     "v": 6,
+     "text": "This was the figure of speech{a} Jesus used with them, but what he was telling them they did not understand."
+    },
+    {
+     "v": 7,
+     "text": "So Jesus spoke again: “Amen, amen, I tell you, I am the gate{b} for the sheep."
+    },
+    {
+     "v": 8,
+     "text": "All who came ahead of me are thieves and robbers; but the sheep paid them no heed."
+    },
+    {
+     "v": 9,
+     "text": "I am the gate. If anyone enters through me, he will be saved, and will go in and go out and find pasture."
+    },
+    {
+     "v": 10,
+     "text": "The thief comes only to steal and slaughter and destroy. I came so that they may have life, and have it beyond measure."
+    },
+    {
+     "v": 11,
+     "text": "“I am the good shepherd.{c} The good shepherd lays down his life for the sheep."
+    },
+    {
+     "v": 12,
+     "text": "The hired hand, who is no shepherd and does not own the sheep, sees the wolf coming, abandons the sheep, and runs off; and the wolf snatches them and scatters the flock."
+    },
+    {
+     "v": 13,
+     "text": "He runs because he works for wages and the sheep are no concern of his."
+    },
+    {
+     "v": 14,
+     "text": "I am the good shepherd. I know my own, and my own know me,"
+    },
+    {
+     "v": 15,
+     "text": "just as the Father knows me and I know the Father; and I lay down my life for the sheep."
+    },
+    {
+     "v": 16,
+     "text": "Other sheep too I have, which are not of this fold. These also I must lead, and they will listen for my voice, and they will become one flock with one shepherd."
+    },
+    {
+     "v": 17,
+     "text": "For this reason the Father loves me: because I lay down my life, so that I may take it up again."
+    },
+    {
+     "v": 18,
+     "text": "No one has taken it{d} from me; I lay it down of my own free will. I have authority to lay it down, and I have authority to take it up again. This charge I received from my Father.”"
+    },
+    {
+     "v": 19,
+     "text": "Once more the Jews were divided over these words."
+    },
+    {
+     "v": 20,
+     "text": "Many of them were saying, “He is demon-possessed and raving. Why pay attention to him?”"
+    },
+    {
+     "v": 21,
+     "text": "Others said, “These are not the sayings of someone possessed by a demon. Can a demon open the eyes of the blind?”"
+    },
+    {
+     "v": 22,
+     "text": "The festival of Dedication{e} was then being held in Jerusalem; it was the winter season,"
+    },
+    {
+     "v": 23,
+     "text": "and Jesus was walking about in the temple, in Solomon’s Colonnade.{f}"
+    },
+    {
+     "v": 24,
+     "text": "The Jews therefore surrounded him and kept saying, “How long are you going to hold us in suspense?{g} If you are the Messiah, say so openly.”"
+    },
+    {
+     "v": 25,
+     "text": "Jesus answered them, “I told you, and you do not believe. The works that I do in my Father’s name, these testify about me."
+    },
+    {
+     "v": 26,
+     "text": "But you do not believe, because you are not among my sheep."
+    },
+    {
+     "v": 27,
+     "text": "My sheep hear my voice, and I know them, and they come after me."
+    },
+    {
+     "v": 28,
+     "text": "I give them eternal life, and they will never perish, and no one will snatch them out of my hand."
+    },
+    {
+     "v": 29,
+     "text": "What my Father has given me is greater than all things,{h} and nobody can snatch anything out of my Father’s hand."
+    },
+    {
+     "v": 30,
+     "text": "I and the Father are one.”{i}"
+    },
+    {
+     "v": 31,
+     "text": "Again the Jews picked up stones to stone him."
+    },
+    {
+     "v": 32,
+     "text": "Jesus answered them, “I have shown you many good works from the Father. For which of them are you stoning me?”"
+    },
+    {
+     "v": 33,
+     "text": "“We are not stoning you for any good work,” the Jews answered him, “but for blasphemy: you are a man, and you make yourself God.”"
+    },
+    {
+     "v": 34,
+     "text": "Jesus answered them, “Is it not written in your Law, ‘I said, you are gods’?{j}"
+    },
+    {
+     "v": 35,
+     "text": "If he called them gods to whom the word of God came (and Scripture cannot be set aside),"
+    },
+    {
+     "v": 36,
+     "text": "do you say of the one whom the Father consecrated and sent into the world, ‘You are blaspheming,’ because I said, ‘I am God’s Son’?"
+    },
+    {
+     "v": 37,
+     "text": "If I am not doing my Father’s works, do not believe me."
+    },
+    {
+     "v": 38,
+     "text": "But if I am doing them, even if you do not believe me, believe the works, so that you may come to know and keep on knowing that the Father is in me and I am in the Father.”"
+    },
+    {
+     "v": 39,
+     "text": "Again they tried to seize him, but he slipped out of their hands."
+    },
+    {
+     "v": 40,
+     "text": "He went away again across the Jordan to the place where John had first been baptizing, and he stayed there."
+    },
+    {
+     "v": 41,
+     "text": "Many people came out to him, saying, “John did no sign at all, yet all that John said of this man has proved true.”"
+    },
+    {
+     "v": 42,
+     "text": "And many believed in him there."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:6",
+     "text": "Figure of speech: Greek *paroimia*, a proverb or riddle, an illustration with a hidden meaning (also 16:25, 29)."
+    },
+    {
+     "m": "b",
+     "ref": "10:7",
+     "text": "Gate: or “door.” The third of the “I am” sayings with a predicate (see the note on 6:20). P75 and the Sahidic Coptic version are reported to read “I am the shepherd of the sheep.”"
+    },
+    {
+     "m": "c",
+     "ref": "10:11",
+     "text": "I am the good shepherd: the fourth “I am” saying with a predicate. *Good* translates Greek *kalos*, which can also mean “noble” or “model.” Compare Ezek 34; Ps 23."
+    },
+    {
+     "m": "d",
+     "ref": "10:18",
+     "text": "Has taken it: Greek *ēren*, “took,” the reading of the Westcott–Hort text with P45, Sinaiticus (first hand) and Vaticanus (as reported). Most manuscripts read “takes” (*airei*)."
+    },
+    {
+     "m": "e",
+     "ref": "10:22",
+     "text": "Dedication: Greek *enkainia*, Hebrew *Hanukkah*, the eight-day festival in December commemorating the rededication of the temple by Judas Maccabeus in 164 BC after its profanation by Antiochus IV (1 Macc 4:36–59)."
+    },
+    {
+     "m": "f",
+     "ref": "10:23",
+     "text": "Solomon’s Colonnade: a covered portico along the east side of the temple court (compare Acts 3:11; 5:12). *Solomon* is related to Hebrew *shalom*, “peace.”"
+    },
+    {
+     "m": "g",
+     "ref": "10:24",
+     "text": "Hold us in suspense: literally “lift up our soul,” perhaps “keep annoying us.”"
+    },
+    {
+     "m": "h",
+     "ref": "10:29",
+     "text": "What my Father has given me is greater than all things: so the Westcott–Hort text, following Vaticanus (first hand) and some others, with a neuter relative and adjective. Many manuscripts read instead “My Father, who has given them to me, is greater than all.” The manuscript tradition here is complex."
+    },
+    {
+     "m": "i",
+     "ref": "10:30",
+     "text": "One: Greek *hen*, neuter, “one thing,” not “one person” (masculine *heis*); unity of action and purpose is in view, which the hearers took as a claim to deity (10:33)."
+    },
+    {
+     "m": "j",
+     "ref": "10:34",
+     "text": "Ps 82:6."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    17,
+    28,
+    38,
+    45,
+    54,
+    55
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A certain man was sick, Lazarus{a} of Bethany, the village of Mary{b} and her sister Martha.{c}"
+    },
+    {
+     "v": 2,
+     "text": "(This Mary, whose brother Lazarus was ill, was the one who anointed the Lord with perfume and wiped his feet dry with her hair.){d}"
+    },
+    {
+     "v": 3,
+     "text": "The sisters therefore sent a message to him: “Lord, look, your dear friend is ill.”"
+    },
+    {
+     "v": 4,
+     "text": "When Jesus heard it, he said, “This sickness will not end in death; it is for God’s glory, that the Son of God may be glorified through it.”"
+    },
+    {
+     "v": 5,
+     "text": "Now Jesus loved Martha and her sister and Lazarus."
+    },
+    {
+     "v": 6,
+     "text": "Yet when he heard that Lazarus was ill, he remained where he was for two more days."
+    },
+    {
+     "v": 7,
+     "text": "Only then did he say to the disciples, “Let us go back to Judea.”"
+    },
+    {
+     "v": 8,
+     "text": "“Rabbi,” the disciples say to him, “just now the Jews were wanting to stone you, and are you going back there?”"
+    },
+    {
+     "v": 9,
+     "text": "Jesus answered, “Does the day not have twelve hours? A man who walks by day does not stumble, because he sees by the light of this world."
+    },
+    {
+     "v": 10,
+     "text": "But a man who walks by night stumbles, because the light is not in him.”"
+    },
+    {
+     "v": 11,
+     "text": "He said this, and then he tells them, “Our friend Lazarus has fallen asleep, but I am going there to wake him.”"
+    },
+    {
+     "v": 12,
+     "text": "So the disciples said to him, “Lord, if he has fallen asleep, he will recover.”"
+    },
+    {
+     "v": 13,
+     "text": "Jesus, however, had been speaking of his death, while they thought he meant ordinary sleep."
+    },
+    {
+     "v": 14,
+     "text": "So then Jesus told them in plain words, “Lazarus has died,"
+    },
+    {
+     "v": 15,
+     "text": "and for your sake I am glad that I was not there, so that you may believe. But let us go to him.”"
+    },
+    {
+     "v": 16,
+     "text": "Then Thomas, called the Twin,{e} said to his fellow disciples, “Let us go as well, so that we may die with him.”"
+    },
+    {
+     "v": 17,
+     "text": "On his arrival Jesus found that Lazarus had now been four days in the tomb."
+    },
+    {
+     "v": 18,
+     "text": "Bethany was close to Jerusalem, less than two miles{f} away,"
+    },
+    {
+     "v": 19,
+     "text": "and many of the Jews had come to Martha and Mary to console them over their brother."
+    },
+    {
+     "v": 20,
+     "text": "As soon as Martha heard that Jesus was coming, she went out to meet him, while Mary stayed seated in the house."
+    },
+    {
+     "v": 21,
+     "text": "Martha said to Jesus, “Lord, had you been here, my brother would not have died."
+    },
+    {
+     "v": 22,
+     "text": "Even now I know that whatever you ask of God, God will grant you.”"
+    },
+    {
+     "v": 23,
+     "text": "Jesus says to her, “Your brother will rise again.”"
+    },
+    {
+     "v": 24,
+     "text": "Martha says to him, “I know he will rise again in the resurrection on the last day.”"
+    },
+    {
+     "v": 25,
+     "text": "Jesus said to her, “I am the resurrection and the life.{g} The one who believes in me will live, even though he dies;"
+    },
+    {
+     "v": 26,
+     "text": "and no one who lives and believes in me will ever die. Do you believe this?”"
+    },
+    {
+     "v": 27,
+     "text": "“Yes, Lord,” she says to him. “I have believed, and I still believe, that you are the Messiah, God’s Son, who was to come into the world.”"
+    },
+    {
+     "v": 28,
+     "text": "After saying this she went off and called her sister Mary, telling her privately, “The Teacher is here and is asking for you.”"
+    },
+    {
+     "v": 29,
+     "text": "When Mary heard it, she rose quickly and went to him."
+    },
+    {
+     "v": 30,
+     "text": "Jesus had not yet come into the village; he was still in the place where Martha had gone out to him."
+    },
+    {
+     "v": 31,
+     "text": "The Jews who had been in the house with Mary to comfort her saw how quickly she rose and left, and they went after her, thinking she was on her way to the tomb to weep."
+    },
+    {
+     "v": 32,
+     "text": "Mary came to where Jesus was, and on seeing him she dropped at his feet. “Lord,” she said, “if you had been here, my brother would not have died.”"
+    },
+    {
+     "v": 33,
+     "text": "When Jesus saw her weeping, and the Jews who had come with her weeping too, he was deeply moved in spirit{h} and greatly troubled,"
+    },
+    {
+     "v": 34,
+     "text": "and he said, “Where have you laid him?” They say to him, “Lord, come and see.”"
+    },
+    {
+     "v": 35,
+     "text": "Jesus wept."
+    },
+    {
+     "v": 36,
+     "text": "So the Jews said, “See how fond of him he was!”"
+    },
+    {
+     "v": 37,
+     "text": "But some of them said, “Could not this man, who opened the blind man’s eyes, have kept this man from dying?”"
+    },
+    {
+     "v": 38,
+     "text": "Jesus, once more deeply moved within, comes to the tomb. It was a cave, and a stone was lying against it."
+    },
+    {
+     "v": 39,
+     "text": "Jesus says, “Take away the stone.” Martha, the dead man’s sister, says to him, “Lord, by now there will be a stench; it has been four days.”"
+    },
+    {
+     "v": 40,
+     "text": "“Did I not tell you,” Jesus says to her, “that you would see God’s glory if you believed?”"
+    },
+    {
+     "v": 41,
+     "text": "So they took away the stone. And Jesus lifted up his eyes and said, “Father, I thank you for having heard me."
+    },
+    {
+     "v": 42,
+     "text": "I knew you hear me at all times; yet I spoke on account of the crowd that stands here, that they may come to believe you sent me.”"
+    },
+    {
+     "v": 43,
+     "text": "With these words he cried out with a great voice, “Lazarus, here, outside!”"
+    },
+    {
+     "v": 44,
+     "text": "The dead man came out, his feet and hands bound with strips of cloth, and his face wrapped around with a cloth. Jesus says to them, “Unbind him, and let him go.”"
+    },
+    {
+     "v": 45,
+     "text": "So, many of the Jews who had come to visit Mary, and who had watched what he did, put their faith in him."
+    },
+    {
+     "v": 46,
+     "text": "But some of them went off to the Pharisees and told them what Jesus had done."
+    },
+    {
+     "v": 47,
+     "text": "The chief priests and the Pharisees therefore convened the council{i} and said, “What are we doing? Here is this man working many signs."
+    },
+    {
+     "v": 48,
+     "text": "If we let him go on like this, everyone will believe in him, and the Romans will come and take away both our place{j} and our nation.”"
+    },
+    {
+     "v": 49,
+     "text": "But one of them, Caiaphas,{k} who was high priest that year, said to them, “You know nothing at all,"
+    },
+    {
+     "v": 50,
+     "text": "nor do you consider that it is to your advantage for one man to die on behalf of the people, rather than for the entire nation to be lost.”"
+    },
+    {
+     "v": 51,
+     "text": "It was not from himself that he said this; rather, as high priest that year he prophesied that Jesus would die on behalf of the nation,"
+    },
+    {
+     "v": 52,
+     "text": "and not for the nation only, but also to gather into one the scattered children of God."
+    },
+    {
+     "v": 53,
+     "text": "From that day, then, their counsel was to put him to death."
+    },
+    {
+     "v": 54,
+     "text": "For this reason Jesus no longer walked about in public among the Jews. He left that place for the country close to the wilderness, to a town called Ephraim,{l} and stayed there with the disciples."
+    },
+    {
+     "v": 55,
+     "text": "Now the Passover of the Jews was near, and many went up from the countryside to Jerusalem before the Passover to purify themselves."
+    },
+    {
+     "v": 56,
+     "text": "They were looking for Jesus, and as they stood in the temple they said to one another, “What do you think? Surely he will not come to the festival?”"
+    },
+    {
+     "v": 57,
+     "text": "Now the chief priests and the Pharisees had given orders that anyone who knew where he was should report it, so that they might arrest him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:1",
+     "text": "Lazarus: a Greek form of Hebrew *Eleazar*, “God has helped.”"
+    },
+    {
+     "m": "b",
+     "ref": "11:1",
+     "text": "Mary: Greek *Mariam* or *Maria*, from Hebrew *Miryam* (Miriam), a name of uncertain meaning."
+    },
+    {
+     "m": "c",
+     "ref": "11:1",
+     "text": "Martha: Aramaic, “lady” or “mistress.”"
+    },
+    {
+     "m": "d",
+     "ref": "11:2",
+     "text": "The anointing is narrated in 12:1–8; John refers to it here as already known to his readers."
+    },
+    {
+     "m": "e",
+     "ref": "11:16",
+     "text": "Thomas … the Twin: *Thomas* is from Aramaic *toma*, “twin,” and Greek *Didymos* also means “twin.”"
+    },
+    {
+     "m": "f",
+     "ref": "11:18",
+     "text": "Less than two miles: literally “about fifteen stadia,” about 1¾ miles (2.8 km)."
+    },
+    {
+     "m": "g",
+     "ref": "11:25",
+     "text": "I am the resurrection and the life: the fifth “I am” saying with a predicate (see the note on 6:20). P45 and a few other witnesses are reported to omit “and the life.”"
+    },
+    {
+     "m": "h",
+     "ref": "11:33",
+     "text": "Deeply moved in spirit: Greek *enebrimēsato*, a strong word that elsewhere expresses indignation or stern rebuke (Mark 1:43; 14:5); here perhaps anger at the power of death, or intense distress. So also in 11:38."
+    },
+    {
+     "m": "i",
+     "ref": "11:47",
+     "text": "Council: Greek *synedrion*, the Sanhedrin, the supreme Jewish council in Jerusalem, presided over by the high priest."
+    },
+    {
+     "m": "j",
+     "ref": "11:48",
+     "text": "Our place: probably the temple (compare Acts 6:13–14), or perhaps Jerusalem or the council’s position."
+    },
+    {
+     "m": "k",
+     "ref": "11:49",
+     "text": "Caiaphas: Joseph Caiaphas, high priest AD 18–36, son-in-law of Annas (18:13). *That year* means “in that fateful year.”"
+    },
+    {
+     "m": "l",
+     "ref": "11:54",
+     "text": "Ephraim: perhaps et-Taiyibeh, about 12 miles (19 km) northeast of Jerusalem. The name means “doubly fruitful” (Gen 41:52)."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    9,
+    12,
+    20,
+    27,
+    37,
+    44
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Six days before the Passover Jesus came to Bethany, where Lazarus was, whom Jesus had raised from the dead."
+    },
+    {
+     "v": 2,
+     "text": "There they gave a dinner for him. Martha was serving, and Lazarus was one of those reclining at table with him."
+    },
+    {
+     "v": 3,
+     "text": "Then Mary took a pound{a} of very costly perfume, pure nard,{b} anointed Jesus’ feet, and wiped his feet with her hair; and the house was filled with the fragrance of the perfume."
+    },
+    {
+     "v": 4,
+     "text": "But Judas Iscariot, one of his disciples, who was about to betray him, says,"
+    },
+    {
+     "v": 5,
+     "text": "“Why was this ointment not sold for three hundred days’ wages,{c} and the proceeds given to the poor?”"
+    },
+    {
+     "v": 6,
+     "text": "He said this not because he cared about the poor, but because he was a thief; he kept the money bag and used to help himself to what was put in it."
+    },
+    {
+     "v": 7,
+     "text": "So Jesus said, “Let her alone; she was to keep it for the day of my burial.{d}"
+    },
+    {
+     "v": 8,
+     "text": "For you always have the poor with you, but you do not always have me.”"
+    },
+    {
+     "v": 9,
+     "text": "Then a large crowd of the Jews found out he was there, and they came, not for Jesus’ sake alone, but to see Lazarus too, whom he had raised from the dead."
+    },
+    {
+     "v": 10,
+     "text": "The chief priests, however, resolved to kill Lazarus also,"
+    },
+    {
+     "v": 11,
+     "text": "because many of the Jews were leaving them for his sake and putting their faith in Jesus."
+    },
+    {
+     "v": 12,
+     "text": "On the following day the large crowd who had come up for the feast, hearing that Jesus was on his way into Jerusalem,"
+    },
+    {
+     "v": 13,
+     "text": "So they took branches of palm trees and went out to meet him, shouting, “Hosanna!{e} Blessed is he who comes in the name of the Lord,{f} even the King of Israel!”"
+    },
+    {
+     "v": 14,
+     "text": "Jesus came upon a young donkey and seated himself on it, just as Scripture says,"
+    },
+    {
+     "v": 15,
+     "text": "“Fear not, daughter of Zion; look, your king comes, sitting on the colt of a donkey.”{g}"
+    },
+    {
+     "v": 16,
+     "text": "His disciples did not understand these things at first; but when Jesus was glorified, they remembered that these things had been written about him and that they had done these things to him."
+    },
+    {
+     "v": 17,
+     "text": "The crowd that had been with him when he called Lazarus out of the tomb and raised him from the dead kept bearing witness."
+    },
+    {
+     "v": 18,
+     "text": "That was the reason the crowd went to meet him: they had heard that he had performed this sign."
+    },
+    {
+     "v": 19,
+     "text": "So the Pharisees said to one another, “You see, you are getting nowhere. Look, the world has gone after him!”"
+    },
+    {
+     "v": 20,
+     "text": "Among those who went up to worship at the festival were some Greeks."
+    },
+    {
+     "v": 21,
+     "text": "They approached Philip, who was from Bethsaida in Galilee, and made a request of him: “Sir, we wish to see Jesus.”"
+    },
+    {
+     "v": 22,
+     "text": "Philip goes and tells Andrew; Andrew and Philip go and tell Jesus."
+    },
+    {
+     "v": 23,
+     "text": "And Jesus answers them, “The hour has come for the Son of Man to be glorified."
+    },
+    {
+     "v": 24,
+     "text": "Amen, amen, I tell you, unless a grain of wheat falls into the earth and dies, it remains a single grain; but if it dies, it bears much fruit."
+    },
+    {
+     "v": 25,
+     "text": "The one who loves his life is losing it, and the one who hates his life in this world will guard it to life eternal."
+    },
+    {
+     "v": 26,
+     "text": "If anyone would serve me, let him follow me; and where I am, there my servant will be too. If anyone serves me, the Father will honor him."
+    },
+    {
+     "v": 27,
+     "text": "“Now my soul is troubled. And what shall I say? ‘Father, save me from this hour’? But it was for this very reason that I came to this hour."
+    },
+    {
+     "v": 28,
+     "text": "Father, glorify your name.” Then a voice came out of heaven: “I have glorified it, and I will glorify it again.”"
+    },
+    {
+     "v": 29,
+     "text": "The crowd standing there heard it and said it had thundered. Others said, “An angel has spoken to him.”"
+    },
+    {
+     "v": 30,
+     "text": "Jesus replied, “It was not on my account that this voice came, but on yours."
+    },
+    {
+     "v": 31,
+     "text": "Now is the judgment of this world; now the ruler of this world will be driven out."
+    },
+    {
+     "v": 32,
+     "text": "And I, when I am lifted up from the earth, will draw all people to myself.”{h}"
+    },
+    {
+     "v": 33,
+     "text": "He said this to indicate by what kind of death he was going to die."
+    },
+    {
+     "v": 34,
+     "text": "The crowd answered him, “We have heard out of the Law that the Messiah abides forever.{i} So how do you say the Son of Man has to be lifted up? Who is he, this Son of Man?”"
+    },
+    {
+     "v": 35,
+     "text": "Jesus then said to them, “For only a short time more the light is with you. Keep walking as long as you have the light, lest darkness seize you; the one who walks in darkness has no idea where he goes."
+    },
+    {
+     "v": 36,
+     "text": "While you have the light, believe in the light, so that you may become children of light.” After Jesus had said this, he went away and hid himself from them."
+    },
+    {
+     "v": 37,
+     "text": "But for all the signs he had done in their sight, they did not believe in him,"
+    },
+    {
+     "v": 38,
+     "text": "so that the word spoken by Isaiah the prophet might be fulfilled: “Lord, who has believed what we have heard? And to whom has the arm of the Lord been revealed?”{j}"
+    },
+    {
+     "v": 39,
+     "text": "That is why they could not believe; for again Isaiah said,"
+    },
+    {
+     "v": 40,
+     "text": "“He has made their eyes blind and their heart hard, lest they see with the eyes and grasp with the heart and turn back, and I heal them.”{k}"
+    },
+    {
+     "v": 41,
+     "text": "Isaiah said these things because{l} he saw his glory and spoke about him."
+    },
+    {
+     "v": 42,
+     "text": "Nevertheless, many even of the rulers believed in him; but because of the Pharisees they did not confess it, so as not to be put out of the synagogue;"
+    },
+    {
+     "v": 43,
+     "text": "They loved the glory people give more than the glory God gives."
+    },
+    {
+     "v": 44,
+     "text": "Then Jesus cried out and said, “Whoever believes in me believes not in me but in the one who sent me."
+    },
+    {
+     "v": 45,
+     "text": "And whoever sees me sees the one who sent me."
+    },
+    {
+     "v": 46,
+     "text": "I, a light, have come into the world, that whoever believes in me may not be left in the dark."
+    },
+    {
+     "v": 47,
+     "text": "If someone hears my sayings and fails to keep them, it is not I who judge him. I came not to condemn the world but to save it."
+    },
+    {
+     "v": 48,
+     "text": "Whoever sets me aside and will not accept my sayings has one who judges him: the very word I have spoken will be his judge on the last day."
+    },
+    {
+     "v": 49,
+     "text": "I did not speak from myself; the Father who sent me gave me his own command about what I should say and how I should speak."
+    },
+    {
+     "v": 50,
+     "text": "And I know that his command is life eternal. So the things I speak, I speak as the Father has said them to me.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:3",
+     "text": "A pound: literally “a litra,” the Roman pound (Latin *libra*), about 12 ounces (327 g)."
+    },
+    {
+     "m": "b",
+     "ref": "12:3",
+     "text": "Pure nard: Greek *nardos pistikē*, an aromatic oil made from a plant of the Himalayas; the meaning of *pistikē* is uncertain (perhaps “genuine” or a place name)."
+    },
+    {
+     "m": "c",
+     "ref": "12:5",
+     "text": "Three hundred days’ wages: literally “three hundred denarii,” about a year’s wages for a laborer. See the note on 6:7."
+    },
+    {
+     "m": "d",
+     "ref": "12:7",
+     "text": "She was to keep it for the day of my burial: the Greek is difficult. Many later manuscripts read “she has kept it for the day of my burial.” Others take it as “Let her keep it for the day of my burial.”"
+    },
+    {
+     "m": "e",
+     "ref": "12:13",
+     "text": "Hosanna: a Greek transliteration of Hebrew *hoshiah na*, “Save, we pray!” (Ps 118:25), which had become a shout of praise."
+    },
+    {
+     "m": "f",
+     "ref": "12:13",
+     "text": "Ps 118:26. In the Hebrew text, “the Lord” is Yahweh."
+    },
+    {
+     "m": "g",
+     "ref": "12:15",
+     "text": "Zech 9:9, abbreviated; *do not be afraid* may come from Isa 40:9 or Zeph 3:16. *Zion* is the hill of Jerusalem, and by extension the city and its people."
+    },
+    {
+     "m": "h",
+     "ref": "12:32",
+     "text": "All people: P66 (as reported), Sinaiticus (first hand), Codex Bezae and the Latin versions read “all things.”"
+    },
+    {
+     "m": "i",
+     "ref": "12:34",
+     "text": "Compare Ps 89:36–37; Isa 9:7; Ezek 37:25; Dan 7:14. *The Law* here means the Scriptures generally."
+    },
+    {
+     "m": "j",
+     "ref": "12:38",
+     "text": "Isa 53:1, following the Greek Old Testament, which adds the opening “Lord” (addressed to God). In the Hebrew text, “the arm of the Lord” is “the arm of Yahweh.”"
+    },
+    {
+     "m": "k",
+     "ref": "12:40",
+     "text": "Isa 6:10, in a form that differs from both the Hebrew and the Greek Old Testament."
+    },
+    {
+     "m": "l",
+     "ref": "12:41",
+     "text": "Because: so the Westcott–Hort text with the earliest manuscripts; many later manuscripts read “when.” Isaiah’s vision of the Lord’s glory is in Isa 6:1–5."
+    }
+   ]
+  }
+ ]
+}
