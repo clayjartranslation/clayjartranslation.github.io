@@ -1854,9 +1854,11 @@
    "id": "philemon",
    "name": "Philemon",
    "division": "New Testament",
-   "chapterCount": "1",
-   "translated": [],
-   "file": null
+   "chapterCount": 1,
+   "translated": [
+    1
+   ],
+   "file": "data/books/philemon.json"
   },
   {
    "id": "hebrews",

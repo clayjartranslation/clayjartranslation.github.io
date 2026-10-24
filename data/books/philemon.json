@@ -1,0 +1,217 @@
+{
+ "id": "philemon",
+ "name": "Philemon",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Philemon is preserved in Codex Sinaiticus and other early manuscripts; the third-century papyrus P87 contains parts of verses 13–15 and 24–25, as reported in the standard editions. Greek *kyrios* is rendered “Lord.” *Christos* is rendered “Christ” where it functions as part of Jesus’ name, as it usually does in Paul’s letters. Philemon is one of the seven letters whose authorship by Paul is accepted by nearly all scholars. It was written from prison (verses 1, 9–10, 13), probably in Rome (about AD 60–62) or Ephesus (about AD 53–55); the place is debated. It is closely linked with Colossians, which names the same companions (Col 4:7–17).",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    4,
+    8,
+    21,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Paul,{a} a prisoner of Christ Jesus, and Timothy{b} our brother, to Philemon,{c} our dear friend and fellow worker,"
+    },
+    {
+     "v": 2,
+     "text": "and to Apphia{d} our sister, and to Archippus{e} our fellow soldier, and to the church that meets in your house."
+    },
+    {
+     "v": 3,
+     "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+     "v": 4,
+     "text": "I always give thanks to my God when I remember you in my prayers,"
+    },
+    {
+     "v": 5,
+     "text": "because I keep hearing of your love and of the faith that you have toward the Lord Jesus and toward all God’s holy people.{f}"
+    },
+    {
+     "v": 6,
+     "text": "My prayer is that the sharing that springs from your faith may prove active and powerful, through a full knowledge of all the good that is ours in Christ.{g}"
+    },
+    {
+     "v": 7,
+     "text": "For I have had much joy and encouragement from your love, because the hearts{h} of the holy people have been refreshed through you, brother."
+    },
+    {
+     "v": 8,
+     "text": "For this reason, though in Christ I have every right to be bold and to order you to do what is fitting,"
+    },
+    {
+     "v": 9,
+     "text": "yet for love’s sake I prefer to make a request. Being who I am, Paul, an old man,{i} and at present a prisoner of Christ Jesus as well,"
+    },
+    {
+     "v": 10,
+     "text": "appeal to you for my child, whom I fathered in my chains: Onesimus.{j}"
+    },
+    {
+     "v": 11,
+     "text": "Once he was useless to you, but now he is truly useful,{k} both to you and to me."
+    },
+    {
+     "v": 12,
+     "text": "I am sending him back to you, and in sending him I am sending my very heart."
+    },
+    {
+     "v": 13,
+     "text": "I wanted to keep him here with me, so that he might serve me on your behalf while I am in chains for the good news.{l}"
+    },
+    {
+     "v": 14,
+     "text": "But I chose to do nothing without your agreement, so that your goodness would not come from compulsion but from your own free will."
+    },
+    {
+     "v": 15,
+     "text": "Perhaps this is why he was parted from you for a short time,{m} so that you might have him back for ever,"
+    },
+    {
+     "v": 16,
+     "text": "no longer as a slave but as more than a slave, as a dear brother. He is especially dear to me, and how much more to you, both as a man{n} and in the Lord."
+    },
+    {
+     "v": 17,
+     "text": "So if you count me as your partner, welcome him as you would welcome me."
+    },
+    {
+     "v": 18,
+     "text": "And if he has done you any wrong, or is in debt to you at all, put it down to me."
+    },
+    {
+     "v": 19,
+     "text": "I, Paul, am writing this with my own hand: I will repay it. I need not mention to you that you owe me your very self."
+    },
+    {
+     "v": 20,
+     "text": "Yes, brother, let me have some benefit{o} from you in the Lord. Refresh my heart in Christ."
+    },
+    {
+     "v": 21,
+     "text": "I am writing to you confident of your obedience, knowing that you will do even more than I say."
+    },
+    {
+     "v": 22,
+     "text": "And one more thing: prepare a guest room for me, because I hope that through your prayers I will be given back to you.{p}"
+    },
+    {
+     "v": 23,
+     "text": "Epaphras,{q} my fellow prisoner in Christ Jesus, sends you greetings,"
+    },
+    {
+     "v": 24,
+     "text": "and so do Mark, Aristarchus, Demas, and Luke, my fellow workers.{r}"
+    },
+    {
+     "v": 25,
+     "text": "The grace of the Lord Jesus Christ be with your spirit.{s}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "*Timothy*: Greek *Timotheos*, “one who honors God.” He was Paul’s long-time coworker (Acts 16:1–3)."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "*Philemon*: Greek, “affectionate” or “one who loves.” He was evidently a believer of some means in Colossae (compare Col 4:9, 17), in whose house the church met."
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "*Apphia*: a name known from inscriptions in Phrygia; its meaning is uncertain. She is often thought to be Philemon’s wife, but the letter does not say so."
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "*Archippus*: Greek, “master of horses” (compare Col 4:17)."
+    },
+    {
+     "m": "f",
+     "ref": "1:5",
+     "text": "God’s holy people: Greek *hagioi*, “holy ones,” traditionally “saints,” the believers as set apart for God; also in verse 7."
+    },
+    {
+     "m": "g",
+     "ref": "1:6",
+     "text": "The Greek of this verse is compressed and has been understood in several ways. *Fellowship* (*koinōnia*) may mean the sharing that comes from faith, or Philemon’s generous sharing with others. *Ours*: literally “in us”; some manuscripts read “in you.” *In Christ*: literally “into Christ,” which may mean “for the sake of Christ,” “bringing us closer to Christ,” or “to the glory of Christ.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:7",
+     "text": "Hearts: Greek *splanchna*, literally “inward parts,” the seat of the affections; also in verses 12 and 20."
+    },
+    {
+     "m": "i",
+     "ref": "1:9",
+     "text": "An old man: Greek *presbytēs*. Some scholars suggest emending it to *presbeutēs*, “ambassador” (compare Eph 6:20), but no manuscript is known to read this, and the text is kept."
+    },
+    {
+     "m": "j",
+     "ref": "1:10",
+     "text": "*Onesimus*: Greek, “useful” or “profitable,” a name common among slaves. Paul plays on its meaning in verse 11 and again in verse 20. *Fathered*: that is, Paul led him to faith while in prison."
+    },
+    {
+     "m": "k",
+     "ref": "1:11",
+     "text": "Useless … useful: Greek *achrēstos* … *euchrēstos*, a play on the name *Onesimus*. The words may also echo *Christos*, which was pronounced much like *chrēstos*, “useful” or “kind.”"
+    },
+    {
+     "m": "l",
+     "ref": "1:13",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel.”"
+    },
+    {
+     "m": "m",
+     "ref": "1:15",
+     "text": "A short time: literally “for an hour,” an idiom for a brief period, not a clock time."
+    },
+    {
+     "m": "n",
+     "ref": "1:16",
+     "text": "As a man: literally “in the flesh,” that is, in ordinary human relationships, including his place in Philemon’s household."
+    },
+    {
+     "m": "o",
+     "ref": "1:20",
+     "text": "Have some benefit: Greek *onaimēn*, from the same root as *Onesimus*, another play on the name."
+    },
+    {
+     "m": "p",
+     "ref": "1:22",
+     "text": "Your prayers … to you: here “you” is plural, addressing the whole church, as also in verses 3 and 25."
+    },
+    {
+     "m": "q",
+     "ref": "1:23",
+     "text": "*Epaphras*: a shortened form of *Epaphroditus*, “charming” or “belonging to Aphrodite.” He was from Colossae and founded the church there (Col 1:7; 4:12). He is probably a different person from the Epaphroditus of Philippians."
+    },
+    {
+     "m": "r",
+     "ref": "1:24",
+     "text": "*Mark*: Latin *Marcus*, probably “of Mars”; he is John Mark (Acts 12:12; Col 4:10). *Aristarchus*: Greek, “best ruler,” from Thessalonica (Acts 19:29; 27:2). *Demas*: probably short for *Demetrius*, “belonging to Demeter” (compare 2 Tim 4:10). *Luke*: Greek *Loukas*, a Latin name probably meaning “from Lucania” (Col 4:14)."
+    },
+    {
+     "m": "s",
+     "ref": "1:25",
+     "text": "Some later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}
