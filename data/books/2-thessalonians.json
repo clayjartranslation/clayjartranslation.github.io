@@ -1,0 +1,388 @@
+{
+ "id": "2-thessalonians",
+ "name": "2 Thessalonians",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The chief early manuscripts are Codex Sinaiticus and Codex Vaticanus (4th century), with portions in the papyrus P92 (3rd–4th century); where their readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation or phrase, a note says so. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. Authorship: the letter names Paul, Silvanus and Timothy as its senders (1:1) and closes with Paul’s signature (3:17). Many scholars accept it as Paul’s, written from Corinth soon after 1 Thessalonians, about AD 50–51. Many others think it was written later in Paul’s name, pointing to its close imitation of the wording of 1 Thessalonians alongside a different teaching about the timing of the end (compare 2:1–12 with 1 Thess 5:1–3), and to the warning about letters falsely claiming to come from Paul (2:2; 3:17). The question remains open.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Paul,{a} Silvanus{b} and Timothy,{c} to the Thessalonians’ church,{d} which is in God our Father and the Lord Jesus Christ:{e}"
+    },
+    {
+     "v": 2,
+     "text": "grace and peace be yours from God the Father{f} and the Lord Jesus Christ."
+    },
+    {
+     "v": 3,
+     "text": "We are bound to thank God for you at all times, brothers,{g} and rightly so, because your faith is growing beyond measure, and the love that every one of you has for one another keeps on increasing."
+    },
+    {
+     "v": 4,
+     "text": "So we ourselves boast about you among God’s churches, telling of your endurance and faith through all the persecutions and troubles you are bearing."
+    },
+    {
+     "v": 5,
+     "text": "This is evidence of God’s just judgment, and its purpose is that you should be counted worthy of God’s kingdom, for which you are indeed suffering."
+    },
+    {
+     "v": 6,
+     "text": "For it is surely just in God’s eyes to repay with trouble those who are troubling you,"
+    },
+    {
+     "v": 7,
+     "text": "and to give relief to you who are troubled, and to us as well, when the Lord Jesus is revealed from heaven with his mighty angels"
+    },
+    {
+     "v": 8,
+     "text": "in a blaze of fire,{h} dealing out vengeance to those who have no knowledge of God and to those who will not heed the good news{i} of our Lord Jesus."
+    },
+    {
+     "v": 9,
+     "text": "These will pay the penalty of everlasting ruin, shut out from the face of the Lord and from the glory of his might,{j}"
+    },
+    {
+     "v": 10,
+     "text": "on that day when he comes to be glorified in his holy ones and to be marveled at among all who have believed; and you are among them, because you believed our testimony.{k}"
+    },
+    {
+     "v": 11,
+     "text": "With this in view we pray for you constantly, asking our God to make you worthy of his calling and by his power to bring to completion every desire you have for goodness and every work that faith produces,"
+    },
+    {
+     "v": 12,
+     "text": "so that the name of our Lord Jesus may be glorified in you, and you in him, by the grace of our God and the Lord Jesus Christ.{l}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "*Silvanus*: Latin, “of the forest,” the Roman form of the name *Silas* (Acts 15:40; 17:4)."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "*Timothy*: Greek *Timotheos*, “one who honors God.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "Thessalonians: the people of Thessalonica, the capital of the Roman province of Macedonia (see 1 Thess 1:1)."
+    },
+    {
+     "m": "e",
+     "ref": "1:1",
+     "text": "*Jesus*: the Greek form of Hebrew *Yeshua* (Joshua), “Yahweh saves.” *Christ*: Greek *Christos*, “Anointed One,” equivalent to Hebrew *mashiach*, “Messiah.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:2",
+     "text": "God the Father: some manuscripts read “God our Father.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:3",
+     "text": "Brothers: Greek *adelphoi*, the usual term for fellow believers, including both men and women; so throughout."
+    },
+    {
+     "m": "h",
+     "ref": "1:8",
+     "text": "In a blaze of fire: literally “in a fire of flame,” echoing Isa 66:15 and Exod 3:2. Some manuscripts read “in flaming fire.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:8",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel”; so throughout."
+    },
+    {
+     "m": "j",
+     "ref": "1:9",
+     "text": "From the face of the Lord and from the glory of his might: words from Isa 2:10, 19, 21 in the Greek Old Testament, where the Hebrew has “from before the terror of Yahweh and from the splendor of his majesty.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:10",
+     "text": "Glorified in his holy ones … that day: echoing Ps 89:7 (88:8 in the Greek Old Testament) and Isa 2:11, 17, where the glory and the day belong to Yahweh."
+    },
+    {
+     "m": "l",
+     "ref": "1:12",
+     "text": "So that the name … may be glorified: echoing Isa 66:5 in the Greek Old Testament. *Our God and the Lord Jesus Christ*: or “our God and Lord, Jesus Christ.” Because “Lord” lacks the article in Greek, a few interpreters take both titles to refer to Jesus (compare Titus 2:13); but “Lord Jesus Christ” often occurs without the article, and most take the phrase to name God and Jesus separately."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    13,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now, brothers, concerning the coming{a} of our Lord Jesus Christ and our being gathered together to him, we ask you"
+    },
+    {
+     "v": 2,
+     "text": "not to be quickly shaken in your thinking or alarmed, whether by a spirit, or by a spoken word, or by a letter supposed to be from us, claiming that the day of the Lord has already arrived.{b}"
+    },
+    {
+     "v": 3,
+     "text": "Do not let anyone lead you astray in any way. That day will not come unless the rebellion{c} happens first, and the man of lawlessness is revealed, the one destined for destruction.{d}"
+    },
+    {
+     "v": 4,
+     "text": "He is the adversary who lifts himself up over everything that people call a god or venerate, until he goes so far as to sit down in God’s temple and display himself as being God.{e}"
+    },
+    {
+     "v": 5,
+     "text": "Do you not remember that I kept telling you these things when I was still with you?"
+    },
+    {
+     "v": 6,
+     "text": "And you know what is holding him back now, so that he will be revealed at his proper time."
+    },
+    {
+     "v": 7,
+     "text": "For the secret{f} of lawlessness is already at work; only the one who now holds it back will do so until he is taken out of the way.{g}"
+    },
+    {
+     "v": 8,
+     "text": "And then the lawless one will be revealed, whom the Lord{h} will slay with the breath of his mouth and bring to nothing by the splendor of his coming.{i}"
+    },
+    {
+     "v": 9,
+     "text": "The coming of the lawless one is by the working of Satan,{j} with all power and with signs and wonders that serve the lie,"
+    },
+    {
+     "v": 10,
+     "text": "and with every kind of unrighteous trickery aimed at the perishing, who would not welcome a love for the truth that would have saved them."
+    },
+    {
+     "v": 11,
+     "text": "For this reason God sends them a power that leads them astray, so that they believe what is false,"
+    },
+    {
+     "v": 12,
+     "text": "in order that all who have not believed the truth but have delighted in wickedness may be condemned."
+    },
+    {
+     "v": 13,
+     "text": "But we are bound to thank God for you always, brothers loved by the Lord, because God chose you from the beginning{k} to be saved, through the Spirit’s work of making you holy and through your faith in the truth."
+    },
+    {
+     "v": 14,
+     "text": "To this he called you through our good news, so that you might obtain the glory of our Lord Jesus Christ."
+    },
+    {
+     "v": 15,
+     "text": "So then, brothers, stand firm and hold on to the traditions that you were taught by us, whether by word of mouth or by our letter."
+    },
+    {
+     "v": 16,
+     "text": "Now may our Lord Jesus Christ himself, and God our Father, who loved us and by grace gave us eternal encouragement and good hope,"
+    },
+    {
+     "v": 17,
+     "text": "encourage your hearts and strengthen them in every good work and word."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Coming: Greek *parousia*, “presence,” “arrival,” used of the visit of a ruler; also in verses 8 and 9."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "The day of the Lord: in the Old Testament, the day of Yahweh, when God comes to judge and to save (Amos 5:18–20; Joel 2:31); here applied to the coming of the Lord Jesus. Later manuscripts read “the day of Christ.” *By a spirit*: that is, by a prophetic utterance."
+    },
+    {
+     "m": "c",
+     "ref": "2:3",
+     "text": "Rebellion: Greek *apostasia*, “revolt,” “falling away.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:3",
+     "text": "Man of lawlessness: many manuscripts read “man of sin.” *The one destined for destruction*: literally “the son of destruction,” a Hebrew idiom."
+    },
+    {
+     "m": "e",
+     "ref": "2:4",
+     "text": "Compare Dan 11:36; Ezek 28:2."
+    },
+    {
+     "m": "f",
+     "ref": "2:7",
+     "text": "Secret: Greek *mystērion*, traditionally “mystery,” here the hidden working of lawlessness."
+    },
+    {
+     "m": "g",
+     "ref": "2:7",
+     "text": "The one who now holds it back: Greek *ho katechōn* (masculine), following *to katechon* (neuter), “what is holding him back,” in verse 6. Paul’s readers knew what he meant (verse 5), but it is unknown today. Suggestions include the Roman empire and its emperor, the preaching of the good news and Paul himself, an angel, or God’s own restraint."
+    },
+    {
+     "m": "h",
+     "ref": "2:8",
+     "text": "The Lord: the Westcott–Hort text adds “Jesus” in brackets, with Sinaiticus and Alexandrinus as reported."
+    },
+    {
+     "m": "i",
+     "ref": "2:8",
+     "text": "Slay with the breath of his mouth: from Isa 11:4, where the shoot of Jesse “will kill the wicked with the breath of his lips.” Some manuscripts read “consume” for “slay.” *Splendor*: Greek *epiphaneia*, “appearing,” “manifestation.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:9",
+     "text": "Satan: Hebrew, “adversary,” “accuser.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:13",
+     "text": "From the beginning: some manuscripts, reportedly including Vaticanus, read *aparchēn*, “as firstfruits,” instead of *ap’ archēs*, “from the beginning.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    6,
+    16,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Finally, brothers, pray for us, that the word of the Lord may spread swiftly and be honored, as it was among you,{a}"
+    },
+    {
+     "v": 2,
+     "text": "and that we may be rescued from perverse and evil people; for not everyone has faith."
+    },
+    {
+     "v": 3,
+     "text": "Yet the Lord keeps faith: he will make you firm and protect you from the evil one.{b}"
+    },
+    {
+     "v": 4,
+     "text": "Our trust in the Lord concerning you is that you are carrying out our instructions now and will keep carrying them out."
+    },
+    {
+     "v": 5,
+     "text": "May the Lord direct your hearts to the love of God and to the endurance of Christ."
+    },
+    {
+     "v": 6,
+     "text": "Now we command you, brothers, in the name of the Lord Jesus Christ, to keep away from every brother who is living in idleness{c} and not according to the tradition that they received from us.{d}"
+    },
+    {
+     "v": 7,
+     "text": "You know well enough how to follow our example: there was nothing idle in our conduct while we lived among you."
+    },
+    {
+     "v": 8,
+     "text": "We did not take free meals from anybody; we toiled and labored, working night and day, so that we would be a burden to none of you."
+    },
+    {
+     "v": 9,
+     "text": "Not that we lack the right to support; we wanted to make ourselves a pattern for you to copy."
+    },
+    {
+     "v": 10,
+     "text": "For even when we were with you, we gave you this command: if anyone is not willing to work, let him not eat."
+    },
+    {
+     "v": 11,
+     "text": "For we hear that some among you are living in idleness, not busy at work but busybodies.{e}"
+    },
+    {
+     "v": 12,
+     "text": "Such people we instruct and appeal to in the Lord Jesus Christ: let them settle down to their work quietly and eat bread they have earned.{f}"
+    },
+    {
+     "v": 13,
+     "text": "But you, brothers, must never tire of doing what is right."
+    },
+    {
+     "v": 14,
+     "text": "Should anyone refuse to heed our word in this letter, mark him out and keep apart from him, so that he will feel shame."
+    },
+    {
+     "v": 15,
+     "text": "Yet do not treat him as a foe; admonish him as you would a brother."
+    },
+    {
+     "v": 16,
+     "text": "Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with you all."
+    },
+    {
+     "v": 17,
+     "text": "This greeting is in my own handwriting: Paul. It is the sign of genuineness in all my letters; this is my hand.{g}"
+    },
+    {
+     "v": 18,
+     "text": "The grace of our Lord Jesus Christ be with you all.{h}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Spread swiftly: literally “run”; compare Ps 147:15 (147:4 in the Greek Old Testament)."
+    },
+    {
+     "m": "b",
+     "ref": "3:3",
+     "text": "The evil one: or “evil.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:6",
+     "text": "In idleness: Greek *ataktōs*, “in a disorderly way,” “out of line”; also in verses 7 and 11. The context shows that the disorder was a refusal to work."
+    },
+    {
+     "m": "d",
+     "ref": "3:6",
+     "text": "They received: some manuscripts read “you received.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:11",
+     "text": "Not busy … busybodies: a wordplay in Greek, *mēden ergazomenous alla periergazomenous*."
+    },
+    {
+     "m": "f",
+     "ref": "3:12",
+     "text": "Eat bread they have earned: literally “eat their own bread.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:17",
+     "text": "Paul usually dictated his letters to a scribe and added a closing in his own handwriting (1 Cor 16:21; Gal 6:11; Col 4:18)."
+    },
+    {
+     "m": "h",
+     "ref": "3:18",
+     "text": "Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}

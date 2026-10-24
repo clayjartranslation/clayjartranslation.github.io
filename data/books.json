@@ -1856,9 +1856,13 @@
    "id": "2-thessalonians",
    "name": "2 Thessalonians",
    "division": "New Testament",
-   "chapterCount": "3",
-   "translated": [],
-   "file": null
+   "chapterCount": 3,
+   "translated": [
+    1,
+    2,
+    3
+   ],
+   "file": "data/books/2-thessalonians.json"
   },
   {
    "id": "1-timothy",
