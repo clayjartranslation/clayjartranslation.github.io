@@ -1,0 +1,97 @@
+{
+ "id": "psalm-151",
+ "name": "Psalm 151",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of Psalm 151 as printed by H. B. Swete (The Old Testament in Greek according to the Septuagint, 1887–1894), which follows Codex Vaticanus, with Codex Sinaiticus and Codex Alexandrinus also containing the psalm. In the Septuagint the psalm stands after Psalm 150 and is described in its title as “outside the number.” It was received as Scripture in the Eastern Orthodox churches and is included in the Apocrypha of some English Bibles, but it is not in the Hebrew Masoretic Psalter, the Latin Vulgate, or the King James Version Apocrypha. A longer Hebrew form was reported in 1965 from the Great Psalms Scroll from Qumran Cave 11 (11QPs-a, published by J. A. Sanders). There, as reported, the material appears as two separate compositions: Psalm 151A, a hymn of seven or eight verses about David the young shepherd-musician whom God chose over his brothers and had Samuel anoint; and Psalm 151B, of which only the opening lines survive, about David’s fight with the Philistine. The Greek appears to condense these into one psalm (verses 1–5 corresponding to 151A and verses 6–7 to 151B), and scholars generally regard the Hebrew as nearer the original. Psalm 151 is also found, as reported, in Syriac manuscripts as the first of five additional psalms (Syriac Psalms 151–155), two of which (154 and 155) also appear in Hebrew in 11QPs-a. The footnotes point out the main differences reported for the Hebrew; this translation does not reproduce the Hebrew text. Greek Kyrios is translated “Lord.” The verse numbering is the standard English one (7 verses), with the Greek superscription given as the title.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I was small among my brothers, and the youngest in my father's house; I kept my father's sheep.{d}"
+    },
+    {
+     "v": 2,
+     "text": "My hands made an instrument, my fingers fitted together a harp.{e}"
+    },
+    {
+     "v": 3,
+     "text": "And who will tell my lord?{f} The Lord himself, he himself gives ear."
+    },
+    {
+     "v": 4,
+     "text": "He himself sent his messenger{g} and took me from my father's sheep, and anointed me with the oil of his anointing."
+    },
+    {
+     "v": 5,
+     "text": "My brothers were handsome and great, yet the Lord took no delight in them.{h}"
+    },
+    {
+     "v": 6,
+     "text": "I went forth to encounter the foreigner,{i} and he called down curses on me by his idols."
+    },
+    {
+     "v": 7,
+     "text": "But I drew the sword from his side and cut off his head, and I took away disgrace from the sons of Israel.{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:0",
+     "text": "Greek idiographos eis Dauid, “written with his own hand, belonging to David”; the phrase may also mean “of David’s own, unique,” that is, a psalm peculiar to David. David means “beloved.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:0",
+     "text": "That is, outside the numbered collection of 150 psalms. In Swete’s edition the superscription is printed with the psalm after Psalm 150. In some Greek manuscripts (and in the Syriac, as reported) the title differs."
+    },
+    {
+     "m": "c",
+     "ref": "1:0",
+     "text": "Goliath of Gath, the Philistine champion of 1 Samuel 17. The name’s meaning is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "Compare 1 Samuel 16:11 and 17:14–15. Jesse’s youngest son was keeping the sheep when Samuel came to anoint a king."
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Greek organon, “instrument,” perhaps a pipe or flute; psaltērion, a stringed instrument. The Hebrew Psalm 151A from Cave 11 (see the source note) reportedly names a flute (ʿugav) and a lyre (kinnor). Compare 1 Samuel 16:16–23, where David plays the lyre for Saul."
+    },
+    {
+     "m": "f",
+     "ref": "1:3",
+     "text": "Greek tō kyriō mou, “to my lord,” probably meaning God (some take it as Samuel or Saul). The Greek of this verse is abrupt; the Hebrew 11QPs-a text is reported to read here a fuller passage in which David says the mountains and hills do not bear witness for him, but that God sees and hears everything. The Septuagint uses Kyrios, “Lord,” for the divine name YHWH."
+    },
+    {
+     "m": "g",
+     "ref": "1:4",
+     "text": "Greek angelos, “messenger, angel.” In 1 Samuel 16:1–13 it is the prophet Samuel who comes and anoints David; the Hebrew Psalm 151A is reported to name Samuel here."
+    },
+    {
+     "m": "h",
+     "ref": "1:5",
+     "text": "Compare 1 Samuel 16:6–10: “Yahweh does not see as a man sees.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:6",
+     "text": "Greek allophylos, “one of another race,” the Septuagint’s usual word for a Philistine (1 Samuel 17:10, 23, etc.)."
+    },
+    {
+     "m": "j",
+     "ref": "1:7",
+     "text": "Compare 1 Samuel 17:43–51. The Hebrew Psalm 151B, preserved only in its opening lines in 11QPs-a, is reported to begin “At the beginning of David’s power, after the prophet of God had anointed him,” and then to break off as it speaks of the Philistine; the Greek verses 6–7 correspond to this second psalm."
+    }
+   ],
+   "title": "This psalm was written by David's own hand,{a} and it is outside the number,{b} when he fought Goliath{c} in single combat."
+  }
+ ]
+}
