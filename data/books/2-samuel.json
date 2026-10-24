@@ -1,0 +1,1341 @@
+{
+ "id": "2-samuel",
+ "name": "2 Samuel",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Septuagint (where 2 Samuel is called 2 Kingdoms) and against the Dead Sea Scrolls of Samuel, chiefly 4QSam-a, the largest of them. In Samuel the traditional Hebrew text has suffered more copying damage than in most books, and the Septuagint and 4QSam-a often preserve an older or fuller wording; the most important differences are footnoted (for example, in David’s lament for Saul and Jonathan, the list of David’s mighty men, and the census account). Every Septuagint reading cited in the footnotes was checked against Brenton’s public-domain English translation (quoted in modernized wording). Readings of the Dead Sea Scrolls are stated in general terms (“is reported to read”) until they can be checked against the critical editions. Verse numbers follow the standard English Bible; where the Hebrew numbering differs (18:33; 19:1–43), a footnote says so. Measurements are given in modern US units, and times and dates use modern equivalents, with the originals in the footnotes.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    11,
+    13,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now it came about after the death of Saul, when David had returned from striking down the Amalekites, that David remained two days in Ziklag."
+    },
+    {
+     "v": 2,
+     "text": "On the third day, look, a man came out of the camp from Saul, with his garments torn and earth upon his head. And as he came to David, he fell to the ground and did obeisance."
+    },
+    {
+     "v": 3,
+     "text": "David said to him, “From where do you come?” He said to him, “Out of the camp of Israel I have escaped.”"
+    },
+    {
+     "v": 4,
+     "text": "David said to him, “How did the matter go? Tell me, I pray.” He answered, “The people fled from the battle, and many of the people also have fallen and are dead; and Saul and Jonathan his son are dead too.”"
+    },
+    {
+     "v": 5,
+     "text": "Then David said to the young man who was telling him, “How do you know that Saul and Jonathan his son are dead?”"
+    },
+    {
+     "v": 6,
+     "text": "The young man who brought him the report said, “I chanced to come upon Mount Gilboa, and look, Saul was propped upon his spear, and look, the chariots and the masters of horse were following hard upon him."
+    },
+    {
+     "v": 7,
+     "text": "When he looked behind him, he saw me and called to me. And I answered, ‘Here am I.’"
+    },
+    {
+     "v": 8,
+     "text": "He said to me, ‘Who are you?’ I answered him, ‘I am an Amalekite.’"
+    },
+    {
+     "v": 9,
+     "text": "He said to me, ‘Stand over me, I pray, and kill me, for dizziness{a} has seized me, though my life is still whole in me.’"
+    },
+    {
+     "v": 10,
+     "text": "So I stood over him and killed him, because I was sure that he could not live after he had fallen. And I took the crown that was on his head and the band that was on his arm, and I have brought them here to my lord.”"
+    },
+    {
+     "v": 11,
+     "text": "Then David seized his clothes and rent them; likewise every man that was with him."
+    },
+    {
+     "v": 12,
+     "text": "They mourned and wept and fasted until evening for Saul and for Jonathan his son and for the people of Yahweh{b} and for the house of Israel, because they had fallen by the sword."
+    },
+    {
+     "v": 13,
+     "text": "David said to the young man who told him, “Where are you from?” He answered, “I am the son of a sojourner, an Amalekite.”"
+    },
+    {
+     "v": 14,
+     "text": "David said to him, “How were you not afraid to put forth your hand to destroy Yahweh’s anointed?”"
+    },
+    {
+     "v": 15,
+     "text": "Then David called one of the young men and said, “Go near and fall upon him.” And he struck him so that he died."
+    },
+    {
+     "v": 16,
+     "text": "David said to him, “Your blood be upon your own head, for your own mouth has testified against you, saying, ‘I have killed Yahweh’s anointed.’”"
+    },
+    {
+     "v": 17,
+     "text": "Then David lamented with this lament over Saul and over Jonathan his son,"
+    },
+    {
+     "v": 18,
+     "text": "and he said it should be taught to the sons of Judah: the Bow.{c} Look, it is written in the Book of Jashar.{d}"
+    },
+    {
+     "v": 19,
+     "text": "“Your glory,{e} O Israel, is slain upon your high places! How are the mighty fallen!"
+    },
+    {
+     "v": 20,
+     "text": "Do not tell it in Gath; do not announce it in the streets of Ashkelon, lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised exult."
+    },
+    {
+     "v": 21,
+     "text": "You mountains of Gilboa, let there be no dew nor rain upon you, nor fields of offerings!{f} For there the shield of the mighty was defiled, the shield of Saul, not anointed with oil.{g}"
+    },
+    {
+     "v": 22,
+     "text": "From the blood of the slain, from the fat of the mighty, the bow of Jonathan turned not back, and the sword of Saul returned not empty."
+    },
+    {
+     "v": 23,
+     "text": "Saul and Jonathan, beloved and lovely! In their lives and in their death they were not divided. They were swifter than eagles; they were stronger than lions."
+    },
+    {
+     "v": 24,
+     "text": "You daughters of Israel, weep over Saul, who clothed you in scarlet with delights, who put ornaments of gold upon your apparel."
+    },
+    {
+     "v": 25,
+     "text": "How are the mighty fallen in the midst of the battle! Jonathan lies slain upon your high places."
+    },
+    {
+     "v": 26,
+     "text": "I am distressed for you, my brother Jonathan; very pleasant have you been to me. Your love to me was wonderful, surpassing the love of women."
+    },
+    {
+     "v": 27,
+     "text": "How are the mighty fallen, and the weapons of war perished!”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:9",
+     "text": "The meaning of the Hebrew word is uncertain; perhaps “cramp” or “agony.” The Septuagint reads “a dreadful darkness” (Brenton)."
+    },
+    {
+     "m": "b",
+     "ref": "1:12",
+     "text": "The Septuagint reads “for the people of Judah” (reported)."
+    },
+    {
+     "m": "c",
+     "ref": "1:18",
+     "text": "The Hebrew is uncertain. “The Bow” may be the title of the lament (see verse 22). The Septuagint lacks the word (Brenton, “he gave orders to teach it the sons of Judah”)."
+    },
+    {
+     "m": "d",
+     "ref": "1:18",
+     "text": "Jashar means “upright.” The Book of Jashar was an ancient collection of poems, now lost (see also Joshua 10:13). The Septuagint reads “the book of Right” (Brenton)."
+    },
+    {
+     "m": "e",
+     "ref": "1:19",
+     "text": "Or “The gazelle.” The Hebrew word tsevi can mean either “beauty” or “gazelle.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:21",
+     "text": "The Hebrew is uncertain. The Septuagint reads “nor fields of first-fruits” (Brenton)."
+    },
+    {
+     "m": "g",
+     "ref": "1:21",
+     "text": "Leather shields were rubbed with oil before battle. The Septuagint likewise reads “the shield of Saul was not anointed with oil” (Brenton). Some read the phrase as referring to Saul himself, “no longer anointed” (scholarly review)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    8,
+    12,
+    18,
+    24,
+    30
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this David inquired of Yahweh, saying, “Shall I go up into any of the towns of Judah?” Yahweh said to him, “Go up.” David said, “To where shall I go up?” And he said, “To Hebron.”{a}"
+    },
+    {
+     "v": 2,
+     "text": "So David went up there, and his two wives as well, Ahinoam of Jezreel and Abigail, who had been the wife of Nabal of Carmel."
+    },
+    {
+     "v": 3,
+     "text": "And David brought up his men who were with him, every man with his household, and they settled in the towns of Hebron."
+    },
+    {
+     "v": 4,
+     "text": "Then the men of Judah came, and there they anointed David king over the house of Judah. ¶They told David, “It was the men of Jabesh-gilead who buried Saul.”"
+    },
+    {
+     "v": 5,
+     "text": "So David sent messengers to the men of Jabesh-gilead and said to them, “Blessed be you of Yahweh, because you have shown this kindness to your lord, to Saul, and have buried him."
+    },
+    {
+     "v": 6,
+     "text": "Now may Yahweh show steadfast love and faithfulness to you. And I also will do you good, because you have done this thing."
+    },
+    {
+     "v": 7,
+     "text": "So now strengthen your hands and be sons of valor; for Saul your master is dead, and me the house of Judah has anointed as king over them.”"
+    },
+    {
+     "v": 8,
+     "text": "But Abner son of Ner, captain of Saul’s army, had taken Ish-bosheth{b} son of Saul and brought him over to Mahanaim,{c}"
+    },
+    {
+     "v": 9,
+     "text": "and he made him king over Gilead and over the Ashurites{d} and over Jezreel and over Ephraim and over Benjamin and over all Israel."
+    },
+    {
+     "v": 10,
+     "text": "Ish-bosheth, Saul’s son, was forty years old when he began to reign over Israel, and he reigned two years. But the house of Judah followed David."
+    },
+    {
+     "v": 11,
+     "text": "The number of the days that David was king in Hebron over the house of Judah was seven years and six months."
+    },
+    {
+     "v": 12,
+     "text": "Abner son of Ner and the servants of Ish-bosheth son of Saul went out from Mahanaim to Gibeon."
+    },
+    {
+     "v": 13,
+     "text": "And Joab{e} son of Zeruiah and the servants of David went out and met them by the pool of Gibeon. They sat down, the one band on the one side of the pool and the other on the other side of the pool."
+    },
+    {
+     "v": 14,
+     "text": "Abner said to Joab, “Let the young men arise now and contend before us.” Joab said, “Let them arise.”"
+    },
+    {
+     "v": 15,
+     "text": "Then they arose and went over by number, twelve for Benjamin and for Ish-bosheth son of Saul, and twelve of the servants of David."
+    },
+    {
+     "v": 16,
+     "text": "Each man caught his fellow by the head and thrust his sword into his fellow’s side, and they fell down together. Therefore that place was called Helkath-hazzurim,{f} which is in Gibeon."
+    },
+    {
+     "v": 17,
+     "text": "And the fighting grew exceedingly hard that day, and Abner was beaten, and the men of Israel with him, before David’s servants."
+    },
+    {
+     "v": 18,
+     "text": "The three sons of Zeruiah were there, Joab and Abishai and Asahel.{g} Asahel was as light of foot as one of the gazelles in the field."
+    },
+    {
+     "v": 19,
+     "text": "Asahel pursued after Abner, and in going he turned neither to the right hand nor to the left from following Abner."
+    },
+    {
+     "v": 20,
+     "text": "Then Abner looked behind him and said, “Is that you, Asahel?” He answered, “It is I.”"
+    },
+    {
+     "v": 21,
+     "text": "Abner said to him, “Turn aside to your right hand or to your left, and lay hold of one of the young men and take his gear for yourself.” But Asahel would not turn aside from following him."
+    },
+    {
+     "v": 22,
+     "text": "Abner said again to Asahel, “Turn aside from following me. Why should I strike you to the ground? How then could I lift up my face to Joab your brother?”"
+    },
+    {
+     "v": 23,
+     "text": "Yet he refused to turn aside. So Abner smote him in the belly with the hinder end of the spear, and the spear went out behind him; and he fell there and died in his place. And every one who came to the spot where Asahel fell and died halted."
+    },
+    {
+     "v": 24,
+     "text": "But Joab and Abishai chased after Abner. And the sun went down as they reached the hill of Ammah, that lies before Giah by the road to the wilderness of Gibeon."
+    },
+    {
+     "v": 25,
+     "text": "The sons of Benjamin gathered themselves together behind Abner and became one band, and they stood on the top of a hill."
+    },
+    {
+     "v": 26,
+     "text": "Then Abner called to Joab, “Shall the sword devour forever? Do you not know that it will be bitterness in the end? How long will it be, then, before you bid the people turn back from following their brothers?”"
+    },
+    {
+     "v": 27,
+     "text": "Joab said, “As God lives, if you had not spoken, surely the people would have gone away in the morning, each from following his brother.”{h}"
+    },
+    {
+     "v": 28,
+     "text": "So Joab blew the trumpet, and all the people stood still and pursued Israel no more, nor did they fight any more."
+    },
+    {
+     "v": 29,
+     "text": "Abner and his men went all that night through the Arabah. They crossed the Jordan and went through all the Bithron{i} and came to Mahanaim."
+    },
+    {
+     "v": 30,
+     "text": "Joab returned from following Abner. When he had gathered all the people together, there were missing of David’s servants nineteen men, besides Asahel."
+    },
+    {
+     "v": 31,
+     "text": "But the servants of David had struck of Benjamin and of Abner’s men three hundred and sixty men, and they died."
+    },
+    {
+     "v": 32,
+     "text": "They took up Asahel and buried him in the tomb of his father, which was in Bethlehem. And Joab and his men went all night, and the day broke upon them at Hebron."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Hebron was the chief city of Judah, about 19 miles (31 kilometers) south of Jerusalem. Its name perhaps means “association” or “alliance.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:8",
+     "text": "Ish-bosheth means “man of shame.” His original name was Ishbaal or Eshbaal, “man of the lord” (1 Chronicles 8:33); scribes replaced “baal” with “bosheth” (“shame”) to avoid the name of the god Baal. The Septuagint reads “Jebosthe” (Brenton). Likewise throughout."
+    },
+    {
+     "m": "c",
+     "ref": "2:8",
+     "text": "Mahanaim means “two camps” (Genesis 32:2), a town east of the Jordan."
+    },
+    {
+     "m": "d",
+     "ref": "2:9",
+     "text": "So the Hebrew. Some ancient versions read “Geshurites” (reported); others suggest “Asherites.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:13",
+     "text": "Joab means “Yahweh is father.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:16",
+     "text": "Helkath-hazzurim means “field of flints” or “field of blades” (uncertain). The Septuagint reads “Portion of the Treacherous ones” (reported)."
+    },
+    {
+     "m": "g",
+     "ref": "2:18",
+     "text": "Asahel means “God has made.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:27",
+     "text": "Or “If you had not spoken, the people would have given up the pursuit of their brothers only in the morning.” The Hebrew can be read either way."
+    },
+    {
+     "m": "i",
+     "ref": "2:29",
+     "text": "Or “the whole morning”; the Hebrew word bitron may be a place name or mean “ravine.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    2,
+    6,
+    12,
+    17,
+    22,
+    28,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now the war between Saul’s house and David’s house was long. And David went on growing ever stronger, but the house of Saul went on growing ever weaker."
+    },
+    {
+     "v": 2,
+     "text": "Sons were born to David in Hebron. His firstborn was Amnon,{a} by Ahinoam the Jezreelitess;"
+    },
+    {
+     "v": 3,
+     "text": "his second, Chileab,{b} whose mother was Abigail, formerly wife of Nabal of Carmel; and the third, Absalom{c} son of Maacah, daughter of Talmai king of Geshur;"
+    },
+    {
+     "v": 4,
+     "text": "the fourth, Adonijah{d} the son of Haggith; the fifth, Shephatiah{e} the son of Abital;"
+    },
+    {
+     "v": 5,
+     "text": "and the sixth, Ithream,{f} by Eglah, David’s wife. These were born to David in Hebron."
+    },
+    {
+     "v": 6,
+     "text": "While there was war between the house of Saul and the house of David, Abner was making himself strong in the house of Saul."
+    },
+    {
+     "v": 7,
+     "text": "Now Saul had had a concubine whose name was Rizpah,{g} the daughter of Aiah. And Ish-bosheth{h} said to Abner, “Why have you gone in to my father’s concubine?”"
+    },
+    {
+     "v": 8,
+     "text": "Then Abner was very angry over the words of Ish-bosheth and said, “Am I a dog’s head that belongs to Judah? To this day I keep showing loyalty to the household of your father Saul, to his kinsmen and to his companions, and I have not handed you over into David’s hand; and yet you charge me today with a fault concerning this woman!"
+    },
+    {
+     "v": 9,
+     "text": "So may God do to Abner and more also, if I do not accomplish for David what Yahweh has sworn to him,"
+    },
+    {
+     "v": 10,
+     "text": "to transfer the kingdom from the house of Saul and to set up the throne of David over Israel and over Judah, from Dan to Beersheba.”"
+    },
+    {
+     "v": 11,
+     "text": "And Ish-bosheth could not answer Abner another word, because he feared him."
+    },
+    {
+     "v": 12,
+     "text": "Abner sent messengers to David on his behalf,{i} saying, “Whose is the land? Make your covenant with me, and look, my hand shall be with you to bring all Israel over to you.”"
+    },
+    {
+     "v": 13,
+     "text": "He said, “Good. I will make a covenant with you. But one thing I require of you: you shall not see my face unless you first bring Michal, Saul’s daughter, when you come to see my face.”"
+    },
+    {
+     "v": 14,
+     "text": "Then David sent messengers to Ish-bosheth, Saul’s son, saying, “Give me my wife Michal, whom I betrothed to myself for a hundred foreskins of the Philistines.”"
+    },
+    {
+     "v": 15,
+     "text": "So Ish-bosheth sent and took her from her husband, from Paltiel the son of Laish."
+    },
+    {
+     "v": 16,
+     "text": "But her husband went with her, weeping as he went behind her as far as Bahurim. Then Abner said to him, “Go, return.” And he returned."
+    },
+    {
+     "v": 17,
+     "text": "Now Abner had held counsel with Israel’s elders, saying, “Both yesterday and the day before you were seeking to have David as king over you."
+    },
+    {
+     "v": 18,
+     "text": "Now then do it. For Yahweh has spoken of David, saying, ‘By the hand of my servant David I will save my people Israel from the hand of the Philistines and from the hand of all their enemies.’”"
+    },
+    {
+     "v": 19,
+     "text": "Abner also spoke in the ears of Benjamin. And Abner went to speak in the ears of David at Hebron all that seemed good to Israel and to the whole house of Benjamin."
+    },
+    {
+     "v": 20,
+     "text": "When Abner came to David at Hebron with twenty men, David made a feast for Abner and the men who were with him."
+    },
+    {
+     "v": 21,
+     "text": "Abner said to David, “Let me arise and go and gather all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your soul desires.” So David sent Abner away, and he went in peace."
+    },
+    {
+     "v": 22,
+     "text": "Just then the servants of David and Joab came from a raid and brought much spoil with them. But Abner was not with David in Hebron, for he had sent him away, and he had gone in peace."
+    },
+    {
+     "v": 23,
+     "text": "When Joab and all the army that was with him came, they told Joab, “Abner the son of Ner came to the king, and he has sent him away, and he has gone in peace.”"
+    },
+    {
+     "v": 24,
+     "text": "Then Joab came to the king and said, “What have you done? Look, Abner came to you. Why is it that you have sent him away, and he is quite gone?"
+    },
+    {
+     "v": 25,
+     "text": "You know Abner the son of Ner, that he came to deceive you, and to know your going out and your coming in, and to know all that you are doing.”"
+    },
+    {
+     "v": 26,
+     "text": "When Joab had gone out from David, he sent messengers after Abner, and they turned him back from the well of Sirah;{j} and David knew nothing of it."
+    },
+    {
+     "v": 27,
+     "text": "When Abner returned to Hebron, Joab took him aside into the midst of the gate to speak with him quietly, and there he smote him in the stomach, and he died, for the blood of Asahel his brother."
+    },
+    {
+     "v": 28,
+     "text": "Afterward, when David heard of it, he said, “I and my kingdom are guiltless before Yahweh forever of the blood of Abner the son of Ner."
+    },
+    {
+     "v": 29,
+     "text": "May it whirl{k} upon the head of Joab and upon all his father’s house. And may there never be lacking from the house of Joab one who has a discharge, or one who is leprous,{l} or one who leans on a staff,{m} or one who falls by the sword, or one who lacks bread!”"
+    },
+    {
+     "v": 30,
+     "text": "So Joab and Abishai his brother killed Abner, because he had put their brother Asahel to death at Gibeon in the battle."
+    },
+    {
+     "v": 31,
+     "text": "Then David said to Joab and to all the people who were with him, “Tear your clothes, and gird yourselves with sackcloth, and mourn before Abner.” And King David followed the bier."
+    },
+    {
+     "v": 32,
+     "text": "They buried Abner in Hebron. And the king lifted up his voice and wept at the grave of Abner, and all the people wept."
+    },
+    {
+     "v": 33,
+     "text": "Then the king chanted a lament over Abner, and said, “Was Abner to die the death of a fool?"
+    },
+    {
+     "v": 34,
+     "text": "Your hands were not bound, nor your feet put into fetters. As one falls before the sons of wickedness, so you fell.” And all the people wept over him again."
+    },
+    {
+     "v": 35,
+     "text": "Then all the people came to cause David to eat bread while it was yet day. But David took an oath: “God do so to me, and more as well, if I taste bread or anything else before sunset!”"
+    },
+    {
+     "v": 36,
+     "text": "All the people took notice of it, and it pleased them, as everything that the king did pleased all the people."
+    },
+    {
+     "v": 37,
+     "text": "So all the people and all Israel understood that day that it had not been from the king to put to death Abner the son of Ner."
+    },
+    {
+     "v": 38,
+     "text": "And the king spoke to his servants: “Know you not that a prince and a great man has fallen this day in Israel?"
+    },
+    {
+     "v": 39,
+     "text": "I am weak today, though anointed king, and these men, the sons of Zeruiah, are too hard for me. May Yahweh repay the evildoer according to his evil!”{n}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:2",
+     "text": "Amnon means “faithful.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:3",
+     "text": "Called Daniel in 1 Chronicles 3:1. The meaning of Chileab is uncertain. The Septuagint reads “Dalouia” (reported)."
+    },
+    {
+     "m": "c",
+     "ref": "3:3",
+     "text": "Absalom means “my father is peace.” Maacah means “oppression” (uncertain); Talmai perhaps means “furrowed” (uncertain). Geshur was a small Aramean kingdom northeast of the Sea of Galilee."
+    },
+    {
+     "m": "d",
+     "ref": "3:4",
+     "text": "Adonijah means “my lord is Yahweh.” Haggith means “festal.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:4",
+     "text": "Shephatiah means “Yahweh has judged.” The meaning of Abital is “my father is dew” (uncertain)."
+    },
+    {
+     "m": "f",
+     "ref": "3:5",
+     "text": "Ithream means “remainder of the people” (uncertain). The meaning of Eglah is “heifer.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:7",
+     "text": "Rizpah means “glowing coal.” Aiah means “falcon.”"
+    },
+    {
+     "m": "h",
+     "ref": "3:7",
+     "text": "So some Hebrew manuscripts and the Septuagint (Brenton, “Jebosthe the son of Saul”). The traditional Hebrew text lacks the name here."
+    },
+    {
+     "m": "i",
+     "ref": "3:12",
+     "text": "Or “where he was.” The Hebrew is uncertain."
+    },
+    {
+     "m": "j",
+     "ref": "3:26",
+     "text": "Sirah means “thorn” (uncertain)."
+    },
+    {
+     "m": "k",
+     "ref": "3:29",
+     "text": "Or “fall.”"
+    },
+    {
+     "m": "l",
+     "ref": "3:29",
+     "text": "The Hebrew word covered various skin diseases."
+    },
+    {
+     "m": "m",
+     "ref": "3:29",
+     "text": "Or “who holds a spindle,” that is, one who is unfit for war (uncertain)."
+    },
+    {
+     "m": "n",
+     "ref": "3:39",
+     "text": "The Septuagint reads “I am this day a mere kinsman of his, and as it were a subject” (Brenton, modernized). The Hebrew is difficult."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    4,
+    5,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Saul’s son{a} heard that Abner had died in Hebron, his hands grew feeble, and all Israel was troubled."
+    },
+    {
+     "v": 2,
+     "text": "Now Saul’s son had two men who were captains of raiding bands. The name of the one was Baanah, and the name of the other Rechab,{b} sons of Rimmon a man of Beeroth, of the sons of Benjamin (for Beeroth also is reckoned to Benjamin;"
+    },
+    {
+     "v": 3,
+     "text": "the Beerothites fled to Gittaim and have been sojourners there until this day)."
+    },
+    {
+     "v": 4,
+     "text": "Jonathan, Saul’s son, had a son who was lame in his feet. He was five years old when the news about Saul and Jonathan came out of Jezreel, and his nurse took him up and fled. And as she made haste to flee, he fell and became lame. His name was Mephibosheth.{c}"
+    },
+    {
+     "v": 5,
+     "text": "Then Rechab and Baanah, sons of Rimmon of Beeroth, went off, and in the heat of the day they reached the house of Ish-bosheth, while he was lying down for his midday rest."
+    },
+    {
+     "v": 6,
+     "text": "They came there into the middle of the house as though to fetch wheat, and they struck him in the belly. Then Rechab and Baanah his brother escaped.{d}"
+    },
+    {
+     "v": 7,
+     "text": "When they came into the house, as he lay on his bed in his bedchamber, they struck him and killed him and beheaded him. They took his head and went by the way of the Arabah all night."
+    },
+    {
+     "v": 8,
+     "text": "They brought the head of Ish-bosheth to David at Hebron and said to the king, “Here is the head of Ish-bosheth the son of Saul your enemy, who sought your life. Yahweh has given my lord the king vengeance this day on Saul and on his offspring.”"
+    },
+    {
+     "v": 9,
+     "text": "But David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said to them, “As Yahweh lives, who has redeemed my soul out of all adversity,"
+    },
+    {
+     "v": 10,
+     "text": "when one told me, ‘Look, Saul is dead,’ and in his own eyes he was a bearer of good tidings, I seized him and slew him at Ziklag, which was the reward I gave him for his news."
+    },
+    {
+     "v": 11,
+     "text": "How much more, when wicked men have killed a righteous man in his own house on his bed, shall I not now require his blood at your hand and take you away from the earth?”"
+    },
+    {
+     "v": 12,
+     "text": "And David commanded his young men, and they killed them and cut off their hands and their feet and hanged them up by the pool in Hebron. But the head of Ish-bosheth they took and laid in Abner’s grave in Hebron."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "The Hebrew lacks the name here; the Septuagint reads “Memphibosthe” (reported), but most interpreters understand Ish-bosheth."
+    },
+    {
+     "m": "b",
+     "ref": "4:2",
+     "text": "Baanah means “son of affliction” (uncertain). Rechab means “rider.” Rimmon means “pomegranate.” Beeroth means “wells.”"
+    },
+    {
+     "m": "c",
+     "ref": "4:4",
+     "text": "Mephibosheth means “from the mouth of shame.” He is called Merib-baal (“Baal contends” or “the lord is advocate”) in 1 Chronicles 8:34; see the note on Ish-bosheth at 2:8."
+    },
+    {
+     "m": "d",
+     "ref": "4:6",
+     "text": "The Septuagint reads differently: “And behold, the porter of the house was winnowing wheat, and she slumbered and slept, and the brothers Rechab and Baanah slipped into the house” (Brenton, modernized)."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    6,
+    11,
+    13,
+    17,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then all the tribes of Israel came to David at Hebron and spoke, saying, “See, we are your bone and your flesh."
+    },
+    {
+     "v": 2,
+     "text": "Even in time past, when Saul was king over us, it was you who led Israel out and brought Israel in. And Yahweh said to you, ‘You shall shepherd my people Israel, and you shall be prince over Israel.’”"
+    },
+    {
+     "v": 3,
+     "text": "So all the elders of Israel came to the king at Hebron, and King David cut a covenant with them in Hebron before Yahweh, and they anointed David king over Israel."
+    },
+    {
+     "v": 4,
+     "text": "Thirty years old was David at his becoming king, and forty years he reigned."
+    },
+    {
+     "v": 5,
+     "text": "In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah."
+    },
+    {
+     "v": 6,
+     "text": "The king and his men marched to Jerusalem against the Jebusites, the inhabitants of the land. They said to David, “You shall not come in here; even the blind and the lame will turn you back,” thinking, “David cannot come in here.”"
+    },
+    {
+     "v": 7,
+     "text": "Nevertheless David captured the stronghold of Zion,{a} which is the City of David."
+    },
+    {
+     "v": 8,
+     "text": "David said on that day, “Whoever would strike the Jebusites, let him reach through the water shaft{b} to the lame and the blind, who are hated by David’s soul.” Therefore they say, “The blind and the lame shall not come into the house.”"
+    },
+    {
+     "v": 9,
+     "text": "David dwelt in the stronghold and called it the City of David. And David built round about from the Millo{c} inward."
+    },
+    {
+     "v": 10,
+     "text": "And David went on and grew great, for Yahweh God of Armies was with him."
+    },
+    {
+     "v": 11,
+     "text": "Hiram{d} king of Tyre sent messengers to David, and cedar trees, and carpenters and masons,{e} and they built David a house."
+    },
+    {
+     "v": 12,
+     "text": "And David perceived that Yahweh had established him king over Israel, and that he had exalted his kingdom for the sake of his people Israel."
+    },
+    {
+     "v": 13,
+     "text": "David took more concubines and wives out of Jerusalem after he came from Hebron, and more sons and daughters were born to David."
+    },
+    {
+     "v": 14,
+     "text": "These are the names of those born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,{f}"
+    },
+    {
+     "v": 15,
+     "text": "Ibhar, Elishua, Nepheg, Japhia,"
+    },
+    {
+     "v": 16,
+     "text": "Elishama, Eliada, and Eliphelet.{g}"
+    },
+    {
+     "v": 17,
+     "text": "When the Philistines heard that they had anointed David king over Israel, all the Philistines went up to seek David. David heard of it and went down to the stronghold."
+    },
+    {
+     "v": 18,
+     "text": "Now the Philistines had come and spread themselves out in the Valley of Rephaim.{h}"
+    },
+    {
+     "v": 19,
+     "text": "And David inquired of Yahweh, “Shall I go up against the Philistines? Will you give them into my hand?” Yahweh said to David, “Go up, for I will surely give the Philistines into your hand.”"
+    },
+    {
+     "v": 20,
+     "text": "So David came to Baal-perazim, and David struck them there. And he said, “Yahweh has broken through my enemies before me, like a breaking through of waters.” Therefore he called the name of that place Baal-perazim.{i}"
+    },
+    {
+     "v": 21,
+     "text": "They abandoned their idols there, and David and his men carried them away.{j}"
+    },
+    {
+     "v": 22,
+     "text": "Yet again the Philistines came up and spread themselves out in the Valley of Rephaim."
+    },
+    {
+     "v": 23,
+     "text": "When David inquired of Yahweh, he said, “You shall not go up. Circle around behind them, and come upon them opposite the balsam trees.{k}"
+    },
+    {
+     "v": 24,
+     "text": "And when you hear the sound of marching in the tops of the balsam trees, then bestir yourself, for then Yahweh has gone out before you to strike the camp of the Philistines.”"
+    },
+    {
+     "v": 25,
+     "text": "And David did so, as Yahweh had commanded him, and struck the Philistines from Geba{l} all the way to Gezer."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:7",
+     "text": "Zion was the fortified hill of the Jebusite city, the southeastern ridge of Jerusalem. The meaning of the name is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "5:8",
+     "text": "The Hebrew word tsinnor is uncertain; perhaps “water shaft” or “channel,” or a kind of hook or weapon (scholarly review). The Septuagint reads “let him attack with the dagger” (Brenton, modernized)."
+    },
+    {
+     "m": "c",
+     "ref": "5:9",
+     "text": "Millo means “filling,” probably a terraced earthwork."
+    },
+    {
+     "m": "d",
+     "ref": "5:11",
+     "text": "Hiram means “my brother is exalted” (uncertain)."
+    },
+    {
+     "m": "e",
+     "ref": "5:11",
+     "text": "Hebrew “craftsmen of wood and craftsmen of stone for walls.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:14",
+     "text": "Shammua means “heard.” Shobab perhaps means “returning” (uncertain). Nathan means “he has given.” Solomon is related to the word for “peace.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:16",
+     "text": "Ibhar means “he chooses.” Elishua means “God is salvation.” Nepheg perhaps means “sprout” (uncertain). Japhia means “he shines forth.” Elishama means “God has heard.” Eliada means “God knows.” Eliphelet means “God is deliverance.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:18",
+     "text": "Rephaim means “ghosts” or the name of an ancient people of great stature; the valley lay southwest of Jerusalem."
+    },
+    {
+     "m": "i",
+     "ref": "5:20",
+     "text": "Baal-perazim means “lord of breaking through.”"
+    },
+    {
+     "m": "j",
+     "ref": "5:21",
+     "text": "First Chronicles 14:12 adds that they were burned."
+    },
+    {
+     "m": "k",
+     "ref": "5:23",
+     "text": "Or “baka shrubs”; the exact kind of tree is uncertain. Likewise in verse 24."
+    },
+    {
+     "m": "l",
+     "ref": "5:25",
+     "text": "So the Hebrew. The Septuagint and 1 Chronicles 14:16 read “Gibeon” (reported)."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    6,
+    12,
+    16,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "David again gathered all the chosen men of Israel, thirty thousand."
+    },
+    {
+     "v": 2,
+     "text": "And David arose and went with all the people who were with him from Baale-judah,{a} to bring up from there the ark of God, which is called by the name, the name of Yahweh of Armies, who sits enthroned on the cherubim."
+    },
+    {
+     "v": 3,
+     "text": "They placed the ark of God upon a new wagon and brought it out from Abinadab’s house on the hill; and Uzzah and Ahio,{b} Abinadab’s sons, drove the new wagon,"
+    },
+    {
+     "v": 4,
+     "text": "with the ark of God;{c} and Ahio went before the ark."
+    },
+    {
+     "v": 5,
+     "text": "David and all the house of Israel were making merry before Yahweh with all kinds of instruments of fir wood,{d} with lyres and harps and tambourines and rattles and cymbals."
+    },
+    {
+     "v": 6,
+     "text": "When they came to the threshing floor of Nacon,{e} Uzzah put out his hand to the ark of God and took hold of it, because the oxen stumbled."
+    },
+    {
+     "v": 7,
+     "text": "And the anger of Yahweh was kindled against Uzzah, and God struck him there for his error,{f} and he died there beside the ark of God."
+    },
+    {
+     "v": 8,
+     "text": "David was angry because Yahweh had broken out against Uzzah. And he called that place Perez-uzzah,{g} as it is named to this day."
+    },
+    {
+     "v": 9,
+     "text": "David was afraid of Yahweh that day, and he said, “How can the ark of Yahweh come to me?”"
+    },
+    {
+     "v": 10,
+     "text": "So David would not take the ark of Yahweh to himself into the City of David, but David turned it aside to the house of Obed-edom{h} the Gittite."
+    },
+    {
+     "v": 11,
+     "text": "The ark of Yahweh remained in the house of Obed-edom the Gittite three months, and Yahweh blessed Obed-edom and all his household."
+    },
+    {
+     "v": 12,
+     "text": "It was told King David, “Yahweh has blessed the household of Obed-edom and all that belongs to him because of the ark of God.” So David went and brought up the ark of God from the house of Obed-edom to the City of David with rejoicing."
+    },
+    {
+     "v": 13,
+     "text": "When those who carried the ark of Yahweh had gone six paces, he sacrificed an ox and a fattened animal."
+    },
+    {
+     "v": 14,
+     "text": "And David danced before Yahweh with all his might, and David was girded with a linen ephod."
+    },
+    {
+     "v": 15,
+     "text": "So David and all the house of Israel brought up the ark of Yahweh with shouting and with the sound of the horn."
+    },
+    {
+     "v": 16,
+     "text": "As the ark of Yahweh came into the City of David, Michal the daughter of Saul looked out through the window and saw King David leaping and whirling before Yahweh, and she despised him in her heart."
+    },
+    {
+     "v": 17,
+     "text": "They brought in the ark of Yahweh and set it in its place, inside the tent that David had pitched for it. And David offered burnt offerings and peace offerings before Yahweh."
+    },
+    {
+     "v": 18,
+     "text": "When David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of Yahweh of Armies."
+    },
+    {
+     "v": 19,
+     "text": "And he apportioned to all the people, to the whole throng of Israel, to man and to woman, one loaf of bread apiece, a cake of dates,{i} and a cake of raisins. Then all the people departed, each to his house."
+    },
+    {
+     "v": 20,
+     "text": "David returned to bless his household. And Michal the daughter of Saul came out to meet David and said, “How glorious was the king of Israel today, who uncovered himself today in the eyes of his servants’ maids, as one of the empty fellows shamelessly uncovers himself!”"
+    },
+    {
+     "v": 21,
+     "text": "David said to Michal, “It was before Yahweh, who chose me above your father and above all his house, to appoint me prince over the people of Yahweh, over Israel; and I will make merry before Yahweh."
+    },
+    {
+     "v": 22,
+     "text": "I will make myself yet more lightly esteemed than this, and I will be lowly in my own eyes.{j} But with the maids you speak of, with them I shall have honor.”"
+    },
+    {
+     "v": 23,
+     "text": "And Michal the daughter of Saul had no child to the day of her death."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Baale-judah means “lords of Judah,” another name for Kiriath-jearim (1 Chronicles 13:6; Joshua 15:9). Some Hebrew manuscripts and other witnesses reportedly read “Baalah of Judah.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:3",
+     "text": "Uzzah means “strength.” Ahio means “his brother” (uncertain); the Septuagint reads “his brothers” (reported)."
+    },
+    {
+     "m": "c",
+     "ref": "6:4",
+     "text": "The Hebrew repeats part of verse 3 here: “and they carried it out of the house of Abinadab, which was on the hill, with the ark of God.” The Septuagint has a shorter text (reported)."
+    },
+    {
+     "m": "d",
+     "ref": "6:5",
+     "text": "So the traditional Hebrew text, literally “with all woods of cypress.” The Septuagint and 1 Chronicles 13:8 read “with all their might and with songs” (Brenton, “on well-tuned instruments mightily, and with songs,” modernized)."
+    },
+    {
+     "m": "e",
+     "ref": "6:6",
+     "text": "Nacon means “prepared” (uncertain). First Chronicles 13:9 reads “Chidon.” The Septuagint reads “Nachor” (Brenton)."
+    },
+    {
+     "m": "f",
+     "ref": "6:7",
+     "text": "The Hebrew word is uncertain. First Chronicles 13:10 reads “because he put out his hand to the ark.”"
+    },
+    {
+     "m": "g",
+     "ref": "6:8",
+     "text": "Perez-uzzah means “breaking out against Uzzah.”"
+    },
+    {
+     "m": "h",
+     "ref": "6:10",
+     "text": "Obed-edom means “servant of Edom” (uncertain)."
+    },
+    {
+     "m": "i",
+     "ref": "6:19",
+     "text": "The Hebrew word is uncertain; perhaps “a portion of meat.” The Septuagint reads “a joint of meat” (Brenton)."
+    },
+    {
+     "m": "j",
+     "ref": "6:22",
+     "text": "So the Hebrew. The Septuagint reads “in your eyes” (reported)."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    4,
+    18,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now it came to pass, when the king lived in his house and Yahweh had given him rest from all his enemies round about,"
+    },
+    {
+     "v": 2,
+     "text": "that the king said to Nathan the prophet, “See now, I dwell in a house of cedar, but the ark of God dwells within curtains.”"
+    },
+    {
+     "v": 3,
+     "text": "And Nathan said to the king, “Go, do all that is in your heart, for Yahweh is with you.”"
+    },
+    {
+     "v": 4,
+     "text": "But that same night the word of Yahweh came to Nathan, saying,"
+    },
+    {
+     "v": 5,
+     "text": "“Go and tell my servant David, ‘Thus says Yahweh: Would you build me a house for me to dwell in?"
+    },
+    {
+     "v": 6,
+     "text": "For I have not dwelt in a house from the day I brought the sons of Israel up out of Egypt even until this day, but I have gone about in a tent and in a tabernacle."
+    },
+    {
+     "v": 7,
+     "text": "In all places where I have walked with all the sons of Israel, did I speak a word with any of the tribes{a} of Israel, whom I commanded to shepherd my people Israel, saying, “Why have you not built me a house of cedar?”’"
+    },
+    {
+     "v": 8,
+     "text": "Now then, speak thus to my servant David: ‘So says Yahweh of Armies: From the sheepfold I took you, from behind the flock, that you should be prince over my people, over Israel."
+    },
+    {
+     "v": 9,
+     "text": "I have been with you wherever you went and have cut off all your enemies from your presence. And I will make you a great name, like the name of the great ones who are on the earth."
+    },
+    {
+     "v": 10,
+     "text": "And I will appoint a place for my people Israel and will plant them, that they may dwell in their own place and be troubled no more. And the sons of wickedness shall afflict them no more, as at the first,"
+    },
+    {
+     "v": 11,
+     "text": "from the day that I commanded judges to be over my people Israel. And I will give you rest from all your enemies. Moreover, Yahweh declares to you that Yahweh will make you a house.{b}"
+    },
+    {
+     "v": 12,
+     "text": "When your days are complete and you sleep with your fathers, I will raise up your seed after you, which shall proceed out of your bowels, and I will make his kingdom firm."
+    },
+    {
+     "v": 13,
+     "text": "He shall build a house for my name, and I will establish the throne of his kingdom forever."
+    },
+    {
+     "v": 14,
+     "text": "I will be his father, and he shall be my son. If he does wrong, I will correct him with the rod of men and with the blows of the sons of Adam,"
+    },
+    {
+     "v": 15,
+     "text": "but my steadfast love shall not depart from him, as I took it from Saul, whom I put away from before you."
+    },
+    {
+     "v": 16,
+     "text": "And your house and your kingdom shall be made sure forever before you.{c} Your throne shall stand firm forever.’”"
+    },
+    {
+     "v": 17,
+     "text": "According to all these words and according to all this vision, so Nathan spoke to David."
+    },
+    {
+     "v": 18,
+     "text": "Then King David went in and sat before Yahweh and said, “Who am I, Lord Yahweh, and what is my house, that you have brought me thus far?"
+    },
+    {
+     "v": 19,
+     "text": "And yet this was a small thing in your eyes, Lord Yahweh. You have spoken also of your servant’s house for a great while to come, and this is the instruction for mankind,{d} Lord Yahweh!"
+    },
+    {
+     "v": 20,
+     "text": "And what more can David say to you? For you know your servant, Lord Yahweh!"
+    },
+    {
+     "v": 21,
+     "text": "Because of your word, and according to your own heart, you have done all this greatness, to make your servant know it."
+    },
+    {
+     "v": 22,
+     "text": "Therefore you are great, Lord Yahweh. For there is none like you, and there is no God besides you, according to all that we have heard with our ears."
+    },
+    {
+     "v": 23,
+     "text": "And what one nation on the earth is like your people, like Israel, whom God went to redeem for himself as a people, and to make himself a name, and to do great and awesome things for them,{e} by driving out before your people, whom you redeemed for yourself from Egypt, nations and their gods?"
+    },
+    {
+     "v": 24,
+     "text": "And you established for yourself your people Israel to be your people forever, and you, Yahweh, became their God."
+    },
+    {
+     "v": 25,
+     "text": "And now, Yahweh God, the word that you have spoken concerning your servant and concerning his house, confirm it forever, and do as you have spoken."
+    },
+    {
+     "v": 26,
+     "text": "And may your name be magnified forever, saying, ‘Yahweh of Armies is God over Israel,’ and the house of your servant David shall be established before you."
+    },
+    {
+     "v": 27,
+     "text": "For you, Yahweh of Armies, the God of Israel, have revealed to your servant, saying, ‘I will build you a house.’ Therefore your servant has found courage{f} to pray this prayer to you."
+    },
+    {
+     "v": 28,
+     "text": "And now, Lord Yahweh, you are God, and your words are truth, and you have promised this good thing to your servant."
+    },
+    {
+     "v": 29,
+     "text": "Now therefore let it please you to bless the house of your servant, that it may continue forever before you. For you, Lord Yahweh, have spoken it, and with your blessing shall the house of your servant be blessed forever.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:7",
+     "text": "So the Hebrew, shivte. First Chronicles 17:6 reads “judges” (shofte), a very similar word."
+    },
+    {
+     "m": "b",
+     "ref": "7:11",
+     "text": "That is, a royal dynasty. The Septuagint reads “and the Lord will tell you that you shall build a house to him” (Brenton, modernized)."
+    },
+    {
+     "m": "c",
+     "ref": "7:16",
+     "text": "So the Hebrew. Some Hebrew manuscripts and the Septuagint read “before me” (reported)."
+    },
+    {
+     "m": "d",
+     "ref": "7:19",
+     "text": "The Hebrew is obscure, literally “and this is the law of man.” First Chronicles 17:17 reads differently."
+    },
+    {
+     "m": "e",
+     "ref": "7:23",
+     "text": "The Hebrew is difficult, literally “for you,” “for your land”; compare 1 Chronicles 17:21 and the Septuagint (Brenton, “to do mightily and nobly, so that you should cast out nations and their tabernacles,” modernized)."
+    },
+    {
+     "m": "f",
+     "ref": "7:27",
+     "text": "Literally “found his heart.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    3,
+    9,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this it came to pass that David struck the Philistines and subdued them, and David took Metheg-ammah{a} out of the hand of the Philistines."
+    },
+    {
+     "v": 2,
+     "text": "He struck Moab and measured them with a line, making them lie down on the ground. Two lines he measured to put to death, and one full line to keep alive. And the Moabites became servants to David and brought tribute."
+    },
+    {
+     "v": 3,
+     "text": "David struck also Hadadezer{b} the son of Rehob, king of Zobah, as he went to restore his power{c} at the river Euphrates."
+    },
+    {
+     "v": 4,
+     "text": "David took from him a thousand seven hundred horsemen{d} and twenty thousand foot soldiers. And David hamstrung all the chariot horses, but left of them enough for a hundred chariots."
+    },
+    {
+     "v": 5,
+     "text": "When the Arameans{e} of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand men of the Arameans."
+    },
+    {
+     "v": 6,
+     "text": "Then David put garrisons in Aram of Damascus, and the Arameans became servants to David and brought tribute. And Yahweh gave victory to David wherever he went."
+    },
+    {
+     "v": 7,
+     "text": "David took the shields of gold that were on the servants of Hadadezer and brought them to Jerusalem.{f}"
+    },
+    {
+     "v": 8,
+     "text": "And from Betah and from Berothai,{g} towns of Hadadezer, King David took a very great quantity of bronze.{h}"
+    },
+    {
+     "v": 9,
+     "text": "When Toi{i} king of Hamath heard that David had struck all the army of Hadadezer,"
+    },
+    {
+     "v": 10,
+     "text": "Toi sent Joram{j} his son to King David to ask after his welfare and to bless him, because he had fought against Hadadezer and struck him; for Hadadezer had often been at war with Toi. And in his hand were vessels of silver and vessels of gold and vessels of bronze."
+    },
+    {
+     "v": 11,
+     "text": "These also King David set apart to Yahweh, with the silver and the gold that he had set apart from every nation that he brought under,"
+    },
+    {
+     "v": 12,
+     "text": "from Aram,{k} from Moab, from the Ammonites, from the Philistines, from Amalek, and out of the plunder of Hadadezer son of Rehob, king of Zobah."
+    },
+    {
+     "v": 13,
+     "text": "And David made a name for himself when he returned from striking down the Arameans{l} in the Valley of Salt, eighteen thousand men."
+    },
+    {
+     "v": 14,
+     "text": "He put garrisons in Edom; throughout all Edom he put garrisons, and all the Edomites became servants to David. And Yahweh gave victory to David wherever he went."
+    },
+    {
+     "v": 15,
+     "text": "So David reigned over all Israel, and David executed justice and righteousness for all his people."
+    },
+    {
+     "v": 16,
+     "text": "Joab the son of Zeruiah was over the army, and Jehoshaphat{m} the son of Ahilud was recorder,"
+    },
+    {
+     "v": 17,
+     "text": "and Zadok the son of Ahitub and Ahimelech the son of Abiathar{n} were priests, and Seraiah{o} was secretary,"
+    },
+    {
+     "v": 18,
+     "text": "and Benaiah{p} the son of Jehoiada was over the Cherethites and the Pelethites,{q} and David’s sons were priests.{r}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "Metheg-ammah means “bridle of the mother city” (uncertain); 1 Chronicles 18:1 reads “Gath and its villages.”"
+    },
+    {
+     "m": "b",
+     "ref": "8:3",
+     "text": "Hadadezer means “Hadad is help”; Hadad was the Aramean storm god."
+    },
+    {
+     "m": "c",
+     "ref": "8:3",
+     "text": "Literally “his hand,” that is, his control or a monument (uncertain)."
+    },
+    {
+     "m": "d",
+     "ref": "8:4",
+     "text": "So the Hebrew. The Septuagint and 1 Chronicles 18:4 read “a thousand chariots and seven thousand horsemen” (Brenton, modernized)."
+    },
+    {
+     "m": "e",
+     "ref": "8:5",
+     "text": "Hebrew “Aram” and “Arameans” (Syrians). Likewise throughout."
+    },
+    {
+     "m": "f",
+     "ref": "8:7",
+     "text": "Or “golden quivers” (uncertain). The Septuagint reads “golden bracelets” and adds, “And Susakim king of Egypt took them, when he went up to Jerusalem in the days of Rehoboam son of Solomon” (Brenton, modernized)."
+    },
+    {
+     "m": "g",
+     "ref": "8:8",
+     "text": "Betah is called Tibhath in 1 Chronicles 18:8; the Septuagint reads “Metebac” (Brenton). Berothai means “my wells” (uncertain)."
+    },
+    {
+     "m": "h",
+     "ref": "8:8",
+     "text": "The Septuagint adds “with that Solomon made the bronze sea, and the pillars, and the basins, and all the furnishings” (Brenton, modernized; compare 1 Chronicles 18:8)."
+    },
+    {
+     "m": "i",
+     "ref": "8:9",
+     "text": "Called Tou in 1 Chronicles 18:9. The meaning of the name is uncertain."
+    },
+    {
+     "m": "j",
+     "ref": "8:10",
+     "text": "Joram means “Yahweh is exalted.” First Chronicles 18:10 reads “Hadoram.”"
+    },
+    {
+     "m": "k",
+     "ref": "8:12",
+     "text": "So the Hebrew. Some Hebrew manuscripts, the Septuagint (Brenton, “out of Idumea”), and 1 Chronicles 18:11 read “Edom,” a word very similar in Hebrew."
+    },
+    {
+     "m": "l",
+     "ref": "8:13",
+     "text": "So the Hebrew. Some Hebrew manuscripts and 1 Chronicles 18:12 read “Edomites”; the Septuagint reads “he smote Idumea” (Brenton). See verse 14."
+    },
+    {
+     "m": "m",
+     "ref": "8:16",
+     "text": "Jehoshaphat means “Yahweh has judged.”"
+    },
+    {
+     "m": "n",
+     "ref": "8:17",
+     "text": "So the Hebrew. The Syriac reportedly reads “Abiathar son of Ahimelech” (compare 1 Samuel 22:20). Zadok means “righteous.”"
+    },
+    {
+     "m": "o",
+     "ref": "8:17",
+     "text": "Seraiah means “Yahweh has prevailed” (uncertain). He is called Shavsha in 1 Chronicles 18:16."
+    },
+    {
+     "m": "p",
+     "ref": "8:18",
+     "text": "Benaiah means “Yahweh has built.” Jehoiada means “Yahweh knows.”"
+    },
+    {
+     "m": "q",
+     "ref": "8:18",
+     "text": "The Cherethites and Pelethites were royal guards, perhaps from Crete and Philistia."
+    },
+    {
+     "m": "r",
+     "ref": "8:18",
+     "text": "Hebrew kohanim, the usual word for priests. First Chronicles 18:17 reads “chief officials at the king’s side”; the Septuagint reads “princes of the court” (Brenton)."
+    }
+   ]
+  }
+ ]
+}
