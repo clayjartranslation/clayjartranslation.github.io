@@ -1,0 +1,328 @@
+{
+ "id": "nahum",
+ "name": "Nahum",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex (the Masoretic Text). It was checked against the Hebrew Minor Prophets scrolls from Qumran (4QXII, especially 4QXII-g) and Wadi Murabba‘at (MurXII, early 2nd century AD), whose text is very close to the Masoretic Text. The transcriptions used are Martin Abegg’s, as published in the ETCBC Dead Sea Scrolls dataset. It was also checked against the Septuagint, using Brenton’s public-domain English translation. Portions of Nahum also survive in the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr, about the turn of the era), which is a revision of the Septuagint toward the Hebrew. Its readings could not be checked directly, so any that are cited are marked “reported.” Significant differences are footnoted; differences of spelling and damage to the scrolls are not. Poetry is printed line by line. Verse numbers follow the standard English Bible: English 1:15 is Hebrew 2:1, and English 2:1–13 is Hebrew 2:2–14.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    9,
+    12,
+    14,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "An oracle concerning Nineveh. The book of the vision of Nahum the Elkoshite.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Yahweh is a jealous God and an avenger;{b}\nYahweh avenges, and is a master of wrath.\nYahweh takes vengeance on his adversaries,\nand he keeps wrath for his enemies."
+    },
+    {
+     "v": 3,
+     "text": "Yahweh is slow to anger and great in power,\nand Yahweh will by no means clear the guilty.\nHis way is in the whirlwind and in the storm,\nand the clouds are the dust of his feet."
+    },
+    {
+     "v": 4,
+     "text": "He rebukes the sea and dries it,\nand all the rivers he makes dry.\nBashan languishes, and Carmel,\nand the flower of Lebanon fades."
+    },
+    {
+     "v": 5,
+     "text": "The mountains quake because of him,\nand the hills melt away.\nThe earth heaves at his presence,\nthe world and all who dwell in it."
+    },
+    {
+     "v": 6,
+     "text": "Who can stand before his indignation?\nAnd who can rise up in the heat of his anger?\nHis wrath is poured out like fire,\nand the rocks are torn apart by him."
+    },
+    {
+     "v": 7,
+     "text": "Yahweh is good,\na stronghold in the day of distress;\nand he knows those who take refuge in him."
+    },
+    {
+     "v": 8,
+     "text": "But with an overflowing flood\nhe will make a full end of her place,{c}\nand darkness shall pursue his enemies."
+    },
+    {
+     "v": 9,
+     "text": "What do you devise against Yahweh?\nHe will make a full end;\ndistress shall not rise up a second time."
+    },
+    {
+     "v": 10,
+     "text": "For though they are tangled like thorns\nand drunk as with their drink,\nthey shall be devoured like stubble fully dried.{d}"
+    },
+    {
+     "v": 11,
+     "text": "From you has gone out one\nwho devises evil against Yahweh,\na counselor of worthlessness.{e}"
+    },
+    {
+     "v": 12,
+     "text": "Thus says Yahweh:\n“Though they are at full strength and many as well,\neven so they shall be cut down and pass away.\nThough I have afflicted you,\nI will afflict you no more."
+    },
+    {
+     "v": 13,
+     "text": "And now I will break his yoke from off you,\nand I will tear your bonds apart.”"
+    },
+    {
+     "v": 14,
+     "text": "And Yahweh has given command concerning you:\n“No more of your name shall be sown;\nout of the house of your gods I will cut off\nthe graven image and the molten image.\nI will prepare your grave, for you are vile.”"
+    },
+    {
+     "v": 15,
+     "text": "Behold, upon the mountains the feet of him who brings good news,\nwho proclaims peace!{f}\nCelebrate your feasts, O Judah;\npay your vows;\nfor the worthless one shall not again pass through you;\nhe is cut off completely."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "“Oracle”: Hebrew massa’, which can also mean “burden.” The name Nahum means “comfort” or “comforter.” Where Elkosh was is not known."
+    },
+    {
+     "m": "b",
+     "ref": "1:2",
+     "text": "Hebrew El qanno’. The poem in verses 2–8 seems partly to follow the order of the Hebrew alphabet (an acrostic), though the pattern is incomplete. In the next line, “a master of wrath” is literally “a lord (ba‘al) of wrath,” meaning one full of wrath."
+    },
+    {
+     "m": "c",
+     "ref": "1:8",
+     "text": "“Her place” refers to Nineveh. The Septuagint has “those that rise up against him,” reading the Hebrew letters differently. The next line can also be translated “and he will pursue his enemies into darkness.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:10",
+     "text": "The Hebrew of this verse is obscure, and the translation is uncertain."
+    },
+    {
+     "m": "e",
+     "ref": "1:11",
+     "text": "Hebrew beliyya‘al, “worthlessness, wickedness.” The same word is translated “the worthless one” in verse 15."
+    },
+    {
+     "m": "f",
+     "ref": "1:15",
+     "text": "Compare Isaiah 52:7, which Romans 10:15 quotes. In Hebrew this verse is 2:1, so English 2:1–13 is Hebrew 2:2–14."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    3,
+    11,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "One who scatters has come up against your face.{a}\nGuard the rampart;\nwatch the road;\nbrace your loins;\ngather all your strength."
+    },
+    {
+     "v": 2,
+     "text": "For Yahweh is restoring the majesty of Jacob\nlike the majesty of Israel,\nfor the emptiers have emptied them out\nand destroyed their vine branches."
+    },
+    {
+     "v": 3,
+     "text": "The shield of his mighty men is made red;\nthe warriors are clothed in scarlet;\nthe chariots gleam with the fire of steel\non the day he prepares for battle,\nand the spears of cypress are brandished.{b}"
+    },
+    {
+     "v": 4,
+     "text": "The chariots rage in the streets;\nthey rush to and fro in the squares;\ntheir appearance is like torches;\nthey dart about like the lightning."
+    },
+    {
+     "v": 5,
+     "text": "He calls to mind his nobles;\nthey stumble as they march;\nthey hurry to her wall,\nand the siege shield is set up."
+    },
+    {
+     "v": 6,
+     "text": "The gates of the rivers are opened,\nand the palace melts away."
+    },
+    {
+     "v": 7,
+     "text": "It is decided: she is stripped; she is carried off,{c}\nand her maidservants moan like the sound of doves,\nbeating upon their breasts."
+    },
+    {
+     "v": 8,
+     "text": "Nineveh has been like a pool of water all her days,{d}\nand now they flee.\n“Stand! Stand!” they cry,\nbut no one turns back."
+    },
+    {
+     "v": 9,
+     "text": "Take the spoil of silver, take the spoil of gold!\nFor the store has no end,\nwealth of every precious thing."
+    },
+    {
+     "v": 10,
+     "text": "Emptiness, desolation, and ruin!\nHearts melt and knees give way;\nanguish is in all loins,\nand all their faces grow pale."
+    },
+    {
+     "v": 11,
+     "text": "Where is the lions’ den,\nthe feeding place of the young lions,\nwhere the lion and the lioness went,\nand the lion’s cub, with none to frighten them?"
+    },
+    {
+     "v": 12,
+     "text": "The lion tore enough for his cubs\nand strangled prey for his lionesses;\nhe filled his caves with prey\nand his dens with torn flesh."
+    },
+    {
+     "v": 13,
+     "text": "“Behold, I am against you,” declares Yahweh of Armies,{e}\n“and I will burn your chariots in smoke,{f}\nand the sword shall devour your young lions;\nI will cut off your prey from the earth,\nand the voice of your messengers shall be heard no more.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Hebrew 2:2. “One who scatters” can also be translated “a shatterer.” The Septuagint differs: “one who has been delivered from affliction has come up panting into your presence.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:3",
+     "text": "Literally “and the cypresses are made to quiver.” The Septuagint has “and the horsemen shall be thrown into confusion,” reading parashim (“horsemen”) for beroshim (“cypresses”). The Hebrew word translated “steel” (peladot) is rare, and its meaning is uncertain; some take it to mean “torches.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:7",
+     "text": "The Hebrew word translated “It is decided” (hutstsav) is obscure. Some older translations treat it as a name (“Huzzab”); others take it to mean the queen or a goddess’s image."
+    },
+    {
+     "m": "d",
+     "ref": "2:8",
+     "text": "The Hebrew phrase translated “all her days” is difficult. The Septuagint has “her waters shall be as a pool of water.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:13",
+     "text": "Hebrew YHWH Tseva’ot, traditionally “the LORD of hosts.” The “armies” are the forces of heaven (the angels and the stars) and sometimes the armies of Israel. The title is given as “Yahweh of Armies” throughout. In Hebrew this verse is 2:14."
+    },
+    {
+     "m": "f",
+     "ref": "2:13",
+     "text": "Hebrew “her chariots.” The Septuagint has “your multitude.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    5,
+    8,
+    14,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Woe to the city of blood,\nall of it full of lies and plunder;\nthe prey never departs!"
+    },
+    {
+     "v": 2,
+     "text": "The crack of the whip and the rumble of the wheel,\nthe galloping horse and the bounding chariot!"
+    },
+    {
+     "v": 3,
+     "text": "Horsemen charging, the flashing sword and the glittering spear,\na multitude of slain, a mass of corpses,\ndead bodies without end;\nthey stumble over their dead."
+    },
+    {
+     "v": 4,
+     "text": "All for the countless harlotries of the harlot,\ngraceful and charming, a mistress of sorceries,\nwho sells nations by her harlotries\nand peoples by her sorceries."
+    },
+    {
+     "v": 5,
+     "text": "“Behold, I am against you,” declares Yahweh of Armies,\n“and I will lift up your skirts over your face,\nand I will show the nations your nakedness\nand the kingdoms your shame."
+    },
+    {
+     "v": 6,
+     "text": "I will cast filth upon you\nand disgrace you,\nand set you up as a gazingstock."
+    },
+    {
+     "v": 7,
+     "text": "And it shall come to pass that all who look on you shall shrink from you and say,\n‘Nineveh is laid waste; who will grieve for her?’\nWhere shall I seek comforters for you?”{a}"
+    },
+    {
+     "v": 8,
+     "text": "Are you better than No-amon,{b}\nthat sat by the Nile channels,\nwith water all around her,\nwhose rampart was the sea,\nand water her wall?{c}"
+    },
+    {
+     "v": 9,
+     "text": "Cush was her strength, and Egypt, without limit;\nPut and the Libyans were your helpers.{d}"
+    },
+    {
+     "v": 10,
+     "text": "Yet she too went into exile;\nshe went into captivity;\nher little ones also were dashed to pieces\nat the head of every street;\nthey cast lots for her honored men,\nand all her great men were bound in chains."
+    },
+    {
+     "v": 11,
+     "text": "You also shall be drunk;\nyou shall go into hiding;\nyou also shall seek a refuge from the enemy."
+    },
+    {
+     "v": 12,
+     "text": "All your strongholds are fig trees with the firstfruits:\nif they are shaken,\nthey fall into the mouth of the eater."
+    },
+    {
+     "v": 13,
+     "text": "Behold, your troops in your midst are women.\nThe gates of your land are thrown wide open to your enemies;\nfire has devoured your bars."
+    },
+    {
+     "v": 14,
+     "text": "Draw water for the siege;\nstrengthen your fortresses;\ngo into the clay and tread the mortar;\ntake hold of the brick mold!"
+    },
+    {
+     "v": 15,
+     "text": "There the fire shall devour you;\nthe sword shall cut you off;\nit shall devour you as the young locust devours.\nMultiply yourself like the young locust;\nmultiply yourself like the locust swarm!{e}"
+    },
+    {
+     "v": 16,
+     "text": "You have multiplied your merchants\nmore than the stars of the heavens;\nthe young locust strips and flies away."
+    },
+    {
+     "v": 17,
+     "text": "Your guardsmen are like the locust swarm,\nand your officials like clouds of grasshoppers\nthat settle in the walls on a cold day;\nwhen the sun rises, they flee,\nand no one knows the place where they are.{f}"
+    },
+    {
+     "v": 18,
+     "text": "Your shepherds slumber, O king of Assyria;\nyour nobles lie still.\nYour people are scattered on the mountains,\nwith no one to gather them."
+    },
+    {
+     "v": 19,
+     "text": "There is no relief for your breaking;\nyour stroke is incurable.\nAll who hear the news of you\nclap their hands over you.\nFor upon whom has your evil not passed continually?"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:7",
+     "text": "“Comforters” (menahamim) plays on the name Nahum (“comfort”)."
+    },
+    {
+     "m": "b",
+     "ref": "3:8",
+     "text": "No-amon, “city of Amon,” is Thebes in Upper Egypt. The Assyrians sacked it about 663 BC."
+    },
+    {
+     "m": "c",
+     "ref": "3:8",
+     "text": "Here “the sea” (yam) means the broad waters of the Nile. “And water her wall” is literally “from the sea her wall.” The Septuagint has “and whose walls are water.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:9",
+     "text": "Cush is the upper Nile region (ancient Nubia). Put was probably in Libya, though some place it on the African coast of the Red Sea. The Hebrew has “your helpers,” but the Septuagint has “her helpers.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:15",
+     "text": "The Hebrew uses several words for locusts (yeleq, ’arbeh, and gov in verse 17). The kinds or stages of locust they refer to are uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "3:17",
+     "text": "The words translated “guardsmen” (minzarim) and “officials” (tifsarim) are rare. The second may be a loanword from Akkadian, and the precise meaning of both is uncertain."
+    }
+   ]
+  }
+ ]
+}
