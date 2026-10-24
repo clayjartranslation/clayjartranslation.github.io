@@ -1,0 +1,2179 @@
+{
+ "id": "numbers",
+ "name": "Numbers",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Samaritan Pentateuch, the Septuagint, and the Dead Sea Scrolls of Numbers. Every Septuagint reading cited in the footnotes was checked against Brenton’s public-domain English translation of the Septuagint (Codex Vaticanus, with Codex Alexandrinus where it differs). Readings of the Samaritan Pentateuch, the Dead Sea Scrolls (especially 4QNumᵇ), and other ancient versions are stated in general terms unless they could be confirmed from published scholarship. Verse numbers follow the standard English Bible; where the Hebrew numbering differs (Hebrew 17:1–28 = English 16:36–17:13; Hebrew 25:19 = English 26:1a; Hebrew 30:1–17 = English 29:40–30:16), a footnote says so. Census figures are given exactly as in the Hebrew; on the meaning of the word “thousand” (elef), see the note at 1:46. Measurements are given in modern US units, with the original units and metric figures in the footnotes.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    5,
+    17,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    47
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses in the Wilderness of Sinai,{a} in the tent of meeting, on the first day of the second month (in April–May){b}, in the second year after they had come out of the land of Egypt, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Take a census{c} of all the congregation of the Israelites, by their clans, by their fathers’ houses, according to the number of names, every male, head by head."
+    },
+    {
+     "v": 3,
+     "text": "From twenty years old and upward, everyone in Israel who is able to go out to war, you and Aaron are to count them by their divisions.{d}"
+    },
+    {
+     "v": 4,
+     "text": "With you there is to be a man from each tribe, each one the head of his father’s house."
+    },
+    {
+     "v": 5,
+     "text": "“These are the names of the men who are to stand with you: from Reuben, Elizur{e} son of Shedeur;"
+    },
+    {
+     "v": 6,
+     "text": "from Simeon, Shelumiel son of Zurishaddai;{f}"
+    },
+    {
+     "v": 7,
+     "text": "from Judah, Nahshon son of Amminadab;"
+    },
+    {
+     "v": 8,
+     "text": "from Issachar, Nethanel son of Zuar;"
+    },
+    {
+     "v": 9,
+     "text": "from Zebulun, Eliab son of Helon;"
+    },
+    {
+     "v": 10,
+     "text": "from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;"
+    },
+    {
+     "v": 11,
+     "text": "from Benjamin, Abidan son of Gideoni;"
+    },
+    {
+     "v": 12,
+     "text": "from Dan, Ahiezer son of Ammishaddai;"
+    },
+    {
+     "v": 13,
+     "text": "from Asher, Pagiel son of Ochran;"
+    },
+    {
+     "v": 14,
+     "text": "from Gad, Eliasaph son of Deuel;{g}"
+    },
+    {
+     "v": 15,
+     "text": "from Naphtali, Ahira son of Enan.”"
+    },
+    {
+     "v": 16,
+     "text": "These were the ones called from the congregation, the leaders of their ancestral tribes; they were the heads of the thousands{h} of Israel."
+    },
+    {
+     "v": 17,
+     "text": "Moses and Aaron took these men who had been designated by name,"
+    },
+    {
+     "v": 18,
+     "text": "and on the first day of the second month (in April–May) they assembled all the congregation. They registered their descent by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, head by head,"
+    },
+    {
+     "v": 19,
+     "text": "as Yahweh had commanded Moses. So he counted them in the Wilderness of Sinai."
+    },
+    {
+     "v": 20,
+     "text": "The descendants of Reuben, Israel’s firstborn, their generations, by their clans, by their fathers’ houses, according to the number of names, head by head, every male from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 21,
+     "text": "those counted of the tribe of Reuben were 46,500."
+    },
+    {
+     "v": 22,
+     "text": "Of the descendants of Simeon, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 23,
+     "text": "those counted of the tribe of Simeon were 59,300."
+    },
+    {
+     "v": 24,
+     "text": "Of the descendants of Gad, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 25,
+     "text": "those counted of the tribe of Gad were 45,650."
+    },
+    {
+     "v": 26,
+     "text": "Of the descendants of Judah, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 27,
+     "text": "those counted of the tribe of Judah were 74,600."
+    },
+    {
+     "v": 28,
+     "text": "Of the descendants of Issachar, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 29,
+     "text": "those counted of the tribe of Issachar were 54,400."
+    },
+    {
+     "v": 30,
+     "text": "Of the descendants of Zebulun, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 31,
+     "text": "those counted of the tribe of Zebulun were 57,400."
+    },
+    {
+     "v": 32,
+     "text": "Of the sons of Joseph: of the descendants of Ephraim, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 33,
+     "text": "those counted of the tribe of Ephraim were 40,500."
+    },
+    {
+     "v": 34,
+     "text": "Of the descendants of Manasseh, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 35,
+     "text": "those counted of the tribe of Manasseh were 32,200."
+    },
+    {
+     "v": 36,
+     "text": "Of the descendants of Benjamin, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 37,
+     "text": "those counted of the tribe of Benjamin were 35,400."
+    },
+    {
+     "v": 38,
+     "text": "Of the descendants of Dan, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 39,
+     "text": "those counted of the tribe of Dan were 62,700."
+    },
+    {
+     "v": 40,
+     "text": "Of the descendants of Asher, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 41,
+     "text": "those counted of the tribe of Asher were 41,500."
+    },
+    {
+     "v": 42,
+     "text": "Of the descendants of Naphtali, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, everyone able to go out to war:"
+    },
+    {
+     "v": 43,
+     "text": "those counted of the tribe of Naphtali were 53,400."
+    },
+    {
+     "v": 44,
+     "text": "These are those who were counted, whom Moses and Aaron counted with the leaders of Israel, twelve men, each representing his father’s house."
+    },
+    {
+     "v": 45,
+     "text": "So all those counted of the Israelites, by their fathers’ houses, from twenty years old and upward, everyone in Israel able to go out to war,"
+    },
+    {
+     "v": 46,
+     "text": "all those counted were 603,550.{i}"
+    },
+    {
+     "v": 47,
+     "text": "But the Levites were not counted among them by their ancestral tribe."
+    },
+    {
+     "v": 48,
+     "text": "For Yahweh had spoken to Moses, saying,"
+    },
+    {
+     "v": 49,
+     "text": "“Only the tribe of Levi you are not to count, and you are not to take a census of them among the Israelites."
+    },
+    {
+     "v": 50,
+     "text": "Instead, appoint the Levites over the tabernacle of the testimony, over all its furnishings, and over all that belongs to it. They are to carry the tabernacle and all its furnishings, they are to minister to it, and they are to camp around the tabernacle."
+    },
+    {
+     "v": 51,
+     "text": "When the tabernacle is to set out, the Levites are to take it down, and when the tabernacle is to be pitched, the Levites are to set it up. Any outsider{j} who comes near is to be put to death."
+    },
+    {
+     "v": 52,
+     "text": "The Israelites are to camp each in his own camp and each by his own banner, by their divisions."
+    },
+    {
+     "v": 53,
+     "text": "But the Levites are to camp around the tabernacle of the testimony, so that there may be no wrath on the congregation of the Israelites. The Levites are to keep guard over the tabernacle of the testimony.”"
+    },
+    {
+     "v": 54,
+     "text": "The Israelites did so; according to all that Yahweh commanded Moses, so they did."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Hebrew midbar, “wilderness,” open grazing land or steppe as well as desert. The book’s Hebrew title is Bemidbar, “In the Wilderness,” from this verse. The English title “Numbers” comes from the Septuagint (Arithmoi) and the Vulgate (Numeri), after the two censuses of chapters 1 and 26."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Hebrew “on the first of the second month,” counting from the spring new year (Exodus 12:2). The second month, later called Iyyar (Ziv in 1 Kings 6:1), fell in April–May. Because the months were lunar, each overlaps two of ours. This was one month after the tabernacle was set up (Exodus 40:17)."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Hebrew “lift up the head,” an idiom for counting."
+    },
+    {
+     "m": "d",
+     "ref": "1:3",
+     "text": "Or “by their armies.” Hebrew tsava’, used of organized hosts, especially for war."
+    },
+    {
+     "m": "e",
+     "ref": "1:5",
+     "text": "Many of the names in this list contain the name of God: El (“God”), Shaddai (see the note at Exodus 6:3), or Tsur (“Rock”). Elizur means “my God is a rock.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:6",
+     "text": "Shelumiel means “God is my peace”; Zurishaddai means “Shaddai is my rock.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:14",
+     "text": "Most Hebrew manuscripts read “Deuel” here and in 7:42, 47; 10:20, but “Reuel” in 2:14. The letters d and r look very similar in Hebrew script. The Septuagint reads Ragouel throughout."
+    },
+    {
+     "m": "h",
+     "ref": "1:16",
+     "text": "Or “clans,” “units.” See the note at verse 46."
+    },
+    {
+     "m": "i",
+     "ref": "1:46",
+     "text": "The census figures in this chapter and in chapter 26 add up exactly, and they are given here as the Hebrew has them. A total of 603,550 fighting men would imply a population of perhaps two million or more. Because the Hebrew word elef, normally “thousand,” can also mean a clan or a military unit (see verse 16; Judges 6:15; 1 Samuel 10:19), some scholars have proposed that the figures originally counted units and men (for example, “46 units, 500 men”). Others hold that the numbers are meant literally, or that they are deliberately large, symbolic figures. The same total appears in Exodus 38:26, and a similar one in Exodus 12:37. This translation keeps the numbers as written."
+    },
+    {
+     "m": "j",
+     "ref": "1:51",
+     "text": "Hebrew zar, someone who is not a Levite."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    3,
+    10,
+    17,
+    18,
+    25,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses and to Aaron, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“The Israelites are to camp each by his own banner, with the emblems{a} of their fathers’ houses. They are to camp facing the tent of meeting on every side, at a distance."
+    },
+    {
+     "v": 3,
+     "text": "“On the east side, toward the sunrise, those who camp are to be of the banner of the camp of Judah, by their divisions. The leader of the descendants of Judah is Nahshon son of Amminadab,"
+    },
+    {
+     "v": 4,
+     "text": "and his division, as counted, is 74,600."
+    },
+    {
+     "v": 5,
+     "text": "Those who camp next to him are to be the tribe of Issachar. The leader of the descendants of Issachar is Nethanel son of Zuar,"
+    },
+    {
+     "v": 6,
+     "text": "and his division, as counted, is 54,400."
+    },
+    {
+     "v": 7,
+     "text": "Those who camp next to him are to be the tribe of Zebulun. The leader of the descendants of Zebulun is Eliab son of Helon,"
+    },
+    {
+     "v": 8,
+     "text": "and his division, as counted, is 57,400."
+    },
+    {
+     "v": 9,
+     "text": "All those counted of the camp of Judah are 186,400, by their divisions. They are to set out first."
+    },
+    {
+     "v": 10,
+     "text": "“On the south side, those who camp are to be of the banner of the camp of Reuben, by their divisions. The leader of the descendants of Reuben is Elizur son of Shedeur,"
+    },
+    {
+     "v": 11,
+     "text": "and his division, as counted, is 46,500."
+    },
+    {
+     "v": 12,
+     "text": "Those who camp next to him are to be the tribe of Simeon. The leader of the descendants of Simeon is Shelumiel son of Zurishaddai,"
+    },
+    {
+     "v": 13,
+     "text": "and his division, as counted, is 59,300."
+    },
+    {
+     "v": 14,
+     "text": "Those who camp next to him are to be the tribe of Gad. The leader of the descendants of Gad is Eliasaph son of Reuel{b},"
+    },
+    {
+     "v": 15,
+     "text": "and his division, as counted, is 45,650."
+    },
+    {
+     "v": 16,
+     "text": "All those counted of the camp of Reuben are 151,450, by their divisions. They are to set out second."
+    },
+    {
+     "v": 17,
+     "text": "“Then the tent of meeting is to set out, with the camp of the Levites in the middle of the camps. As they camp, so they are to set out, each in his place, by their banners."
+    },
+    {
+     "v": 18,
+     "text": "“On the west side, those who camp are to be of the banner of the camp of Ephraim, by their divisions. The leader of the descendants of Ephraim is Elishama son of Ammihud,"
+    },
+    {
+     "v": 19,
+     "text": "and his division, as counted, is 40,500."
+    },
+    {
+     "v": 20,
+     "text": "Those who camp next to him are to be the tribe of Manasseh. The leader of the descendants of Manasseh is Gamaliel son of Pedahzur,"
+    },
+    {
+     "v": 21,
+     "text": "and his division, as counted, is 32,200."
+    },
+    {
+     "v": 22,
+     "text": "Those who camp next to him are to be the tribe of Benjamin. The leader of the descendants of Benjamin is Abidan son of Gideoni,"
+    },
+    {
+     "v": 23,
+     "text": "and his division, as counted, is 35,400."
+    },
+    {
+     "v": 24,
+     "text": "All those counted of the camp of Ephraim are 108,100, by their divisions. They are to set out third."
+    },
+    {
+     "v": 25,
+     "text": "“On the north side, those who camp are to be of the banner of the camp of Dan, by their divisions. The leader of the descendants of Dan is Ahiezer son of Ammishaddai,"
+    },
+    {
+     "v": 26,
+     "text": "and his division, as counted, is 62,700."
+    },
+    {
+     "v": 27,
+     "text": "Those who camp next to him are to be the tribe of Asher. The leader of the descendants of Asher is Pagiel son of Ochran,"
+    },
+    {
+     "v": 28,
+     "text": "and his division, as counted, is 41,500."
+    },
+    {
+     "v": 29,
+     "text": "Those who camp next to him are to be the tribe of Naphtali. The leader of the descendants of Naphtali is Ahira son of Enan,"
+    },
+    {
+     "v": 30,
+     "text": "and his division, as counted, is 53,400."
+    },
+    {
+     "v": 31,
+     "text": "All those counted of the camp of Dan are 157,600, by their divisions. They are to set out last, by their banners.”"
+    },
+    {
+     "v": 32,
+     "text": "These are those of the Israelites who were counted by their fathers’ houses. All those counted in the camps by their divisions were 603,550."
+    },
+    {
+     "v": 33,
+     "text": "But the Levites were not counted among the Israelites, as Yahweh had commanded Moses."
+    },
+    {
+     "v": 34,
+     "text": "The Israelites did according to all that Yahweh commanded Moses. So they camped by their banners, and so they set out, each by his clan, according to his father’s house."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:2",
+     "text": "Or “signs,” perhaps flags or standards. Hebrew degel (“banner”) marks each group of three tribes, and ot (“sign”) each father’s house."
+    },
+    {
+     "m": "b",
+     "ref": "2:14",
+     "text": "Hebrew Reuel. Elsewhere in Numbers most manuscripts read Deuel; see the note at 1:14."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    5,
+    11,
+    14,
+    21,
+    27,
+    33,
+    38,
+    40,
+    44
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "These are the generations of Aaron and Moses at the time when Yahweh spoke with Moses on Mount Sinai."
+    },
+    {
+     "v": 2,
+     "text": "These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar."
+    },
+    {
+     "v": 3,
+     "text": "These are the names of the sons of Aaron, the anointed priests, whom he ordained{a} to serve as priests."
+    },
+    {
+     "v": 4,
+     "text": "But Nadab and Abihu died before Yahweh when they offered unauthorized fire before Yahweh in the Wilderness of Sinai, and they had no sons.{b} So Eleazar and Ithamar served as priests in the lifetime of Aaron their father."
+    },
+    {
+     "v": 5,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 6,
+     "text": "“Bring the tribe of Levi near and set them before Aaron the priest, so that they may minister to him."
+    },
+    {
+     "v": 7,
+     "text": "They are to keep his duties and the duties of the whole congregation before the tent of meeting, as they do the service of the tabernacle."
+    },
+    {
+     "v": 8,
+     "text": "They are to take care of all the furnishings of the tent of meeting and keep the duties of the Israelites, as they do the service of the tabernacle."
+    },
+    {
+     "v": 9,
+     "text": "You are to give the Levites to Aaron and his sons; they are given wholly to him{c} from among the Israelites."
+    },
+    {
+     "v": 10,
+     "text": "You are to appoint Aaron and his sons, and they are to keep their priesthood. Any outsider who comes near is to be put to death.”"
+    },
+    {
+     "v": 11,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 12,
+     "text": "“Look, I myself have taken the Levites from among the Israelites in place of every firstborn who opens the womb among the Israelites. The Levites are to be mine,"
+    },
+    {
+     "v": 13,
+     "text": "for every firstborn is mine. On the day that I struck down every firstborn in the land of Egypt, I consecrated for myself every firstborn in Israel, both human and animal. They are to be mine. I am Yahweh.”"
+    },
+    {
+     "v": 14,
+     "text": "Yahweh spoke to Moses in the Wilderness of Sinai, saying,"
+    },
+    {
+     "v": 15,
+     "text": "“Count the descendants of Levi by their fathers’ houses, by their clans. You are to count every male from a month old and upward.”"
+    },
+    {
+     "v": 16,
+     "text": "So Moses counted them at the word{d} of Yahweh, as he was commanded."
+    },
+    {
+     "v": 17,
+     "text": "These were the sons of Levi by their names: Gershon, Kohath, and Merari."
+    },
+    {
+     "v": 18,
+     "text": "These are the names of the sons of Gershon by their clans: Libni and Shimei."
+    },
+    {
+     "v": 19,
+     "text": "The sons of Kohath by their clans: Amram, Izhar, Hebron, and Uzziel."
+    },
+    {
+     "v": 20,
+     "text": "The sons of Merari by their clans: Mahli and Mushi. These are the clans of the Levites by their fathers’ houses."
+    },
+    {
+     "v": 21,
+     "text": "To Gershon belonged the clan of the Libnites and the clan of the Shimeites; these were the clans of the Gershonites."
+    },
+    {
+     "v": 22,
+     "text": "Those counted of them, by the number of all the males from a month old and upward, were 7,500."
+    },
+    {
+     "v": 23,
+     "text": "The clans of the Gershonites were to camp behind the tabernacle, on the west."
+    },
+    {
+     "v": 24,
+     "text": "The leader of the father’s house of the Gershonites was Eliasaph son of Lael."
+    },
+    {
+     "v": 25,
+     "text": "The duty of the descendants of Gershon in the tent of meeting was the tabernacle, the tent, its covering, the screen for the entrance of the tent of meeting,"
+    },
+    {
+     "v": 26,
+     "text": "the hangings of the courtyard, the screen for the entrance of the courtyard, which is around the tabernacle and the altar, and its cords, with all the service connected with them."
+    },
+    {
+     "v": 27,
+     "text": "To Kohath belonged the clan of the Amramites, the clan of the Izharites, the clan of the Hebronites, and the clan of the Uzzielites; these were the clans of the Kohathites."
+    },
+    {
+     "v": 28,
+     "text": "By the number of all the males from a month old and upward, there were 8,600,{e} keeping the duties of the sanctuary."
+    },
+    {
+     "v": 29,
+     "text": "The clans of the descendants of Kohath were to camp on the south side of the tabernacle."
+    },
+    {
+     "v": 30,
+     "text": "The leader of the father’s house of the clans of the Kohathites was Elizaphan son of Uzziel."
+    },
+    {
+     "v": 31,
+     "text": "Their duty was the ark, the table, the lampstand, the altars, the utensils of the sanctuary with which they minister, and the screen, with all the service connected with them."
+    },
+    {
+     "v": 32,
+     "text": "The chief of the leaders of the Levites was Eleazar son of Aaron the priest, with oversight of those who kept the duties of the sanctuary."
+    },
+    {
+     "v": 33,
+     "text": "To Merari belonged the clan of the Mahlites and the clan of the Mushites; these were the clans of Merari."
+    },
+    {
+     "v": 34,
+     "text": "Those counted of them, by the number of all the males from a month old and upward, were 6,200."
+    },
+    {
+     "v": 35,
+     "text": "The leader of the father’s house of the clans of Merari was Zuriel son of Abihail. They were to camp on the north side of the tabernacle."
+    },
+    {
+     "v": 36,
+     "text": "The appointed duty of the descendants of Merari was the frames of the tabernacle, its crossbars, its posts, its bases, and all its equipment, with all the service connected with them,"
+    },
+    {
+     "v": 37,
+     "text": "and the posts of the courtyard all around, with their bases, their tent pegs, and their cords."
+    },
+    {
+     "v": 38,
+     "text": "Those who were to camp before the tabernacle on the east, in front of the tent of meeting toward the sunrise, were Moses and Aaron and his sons, keeping the duties of the sanctuary as the duty for the Israelites. Any outsider who came near was to be put to death."
+    },
+    {
+     "v": 39,
+     "text": "All those counted of the Levites, whom Moses and Aaron{f} counted at the word of Yahweh by their clans, all the males from a month old and upward, were 22,000.{g}"
+    },
+    {
+     "v": 40,
+     "text": "Yahweh said to Moses, “Count all the firstborn males of the Israelites from a month old and upward, and take the number of their names."
+    },
+    {
+     "v": 41,
+     "text": "You are to take the Levites for me, I am Yahweh, in place of all the firstborn among the Israelites, and the livestock of the Levites in place of all the firstborn among the livestock of the Israelites.”"
+    },
+    {
+     "v": 42,
+     "text": "So Moses counted, as Yahweh commanded him, all the firstborn among the Israelites."
+    },
+    {
+     "v": 43,
+     "text": "All the firstborn males, by the number of names, from a month old and upward, as counted, were 22,273."
+    },
+    {
+     "v": 44,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 45,
+     "text": "“Take the Levites in place of all the firstborn among the Israelites, and the livestock of the Levites in place of their livestock. The Levites are to be mine. I am Yahweh."
+    },
+    {
+     "v": 46,
+     "text": "As the redemption price for the 273 firstborn of the Israelites who outnumber the Levites,"
+    },
+    {
+     "v": 47,
+     "text": "you are to take about 2 ounces of silver{h} for each one, head by head; you are to take it by the sanctuary standard."
+    },
+    {
+     "v": 48,
+     "text": "You are to give the money to Aaron and his sons as the redemption price for those who are in excess among them.”"
+    },
+    {
+     "v": 49,
+     "text": "So Moses took the redemption money from those who were in excess beyond those redeemed by the Levites."
+    },
+    {
+     "v": 50,
+     "text": "From the firstborn of the Israelites he took the money, about 34 pounds of silver,{i} by the sanctuary standard."
+    },
+    {
+     "v": 51,
+     "text": "Moses gave the redemption money to Aaron and his sons, at the word of Yahweh, as Yahweh had commanded Moses."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:3",
+     "text": "Hebrew “whose hand he filled,” the expression for installing priests (Exodus 28:41)."
+    },
+    {
+     "m": "b",
+     "ref": "3:4",
+     "text": "See Leviticus 10:1–2."
+    },
+    {
+     "m": "c",
+     "ref": "3:9",
+     "text": "Hebrew “given, given,” stressing that they are wholly given. The Septuagint and some other ancient witnesses read “given to me”; compare 8:16."
+    },
+    {
+     "m": "d",
+     "ref": "3:16",
+     "text": "Hebrew “mouth.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:28",
+     "text": "So the Hebrew and the Septuagint. Some scholars propose “8,300,” which would make the three Levite clans add up to the total of 22,000 in verse 39 (7,500 + 8,300 + 6,200). In Hebrew, “six” (shesh) and “three” (shalosh) differ by a single letter."
+    },
+    {
+     "m": "f",
+     "ref": "3:39",
+     "text": "In the Hebrew text the words “and Aaron” are marked with extraordinary dots above the letters, a sign that ancient scribes doubted whether they belonged. Some ancient witnesses lack them."
+    },
+    {
+     "m": "g",
+     "ref": "3:39",
+     "text": "The clan figures in verses 22, 28, and 34 add up to 22,300. See the note at verse 28."
+    },
+    {
+     "m": "h",
+     "ref": "3:47",
+     "text": "Hebrew “five shekels,” about 57 grams. A shekel was about 0.4 ounce (11.5 grams); standards varied. The text adds, “the shekel is twenty gerahs”; a gerah was one-twentieth of a shekel. On the “sanctuary shekel,” see Exodus 30:13."
+    },
+    {
+     "m": "i",
+     "ref": "3:50",
+     "text": "Hebrew “1,365 shekels,” about 15.7 kilograms."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5,
+    16,
+    17,
+    21,
+    29,
+    34,
+    38,
+    42,
+    46
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses and to Aaron, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Take a census of the descendants of Kohath from among the sons of Levi, by their clans, by their fathers’ houses,"
+    },
+    {
+     "v": 3,
+     "text": "from thirty years old and upward to fifty years old, all who enter the service{a} to do the work in the tent of meeting."
+    },
+    {
+     "v": 4,
+     "text": "This is the service of the descendants of Kohath in the tent of meeting: the most holy things."
+    },
+    {
+     "v": 5,
+     "text": "“When the camp is to set out, Aaron and his sons are to go in and take down the veil of the screen and cover the ark of the testimony with it."
+    },
+    {
+     "v": 6,
+     "text": "They are to put over it a covering of fine leather{b} and spread over that a cloth all of blue, and put in its poles."
+    },
+    {
+     "v": 7,
+     "text": "Over the table of the Presence they are to spread a cloth of blue and put on it the plates, the dishes, the bowls, and the jars for the drink offering; the regular bread is to be on it."
+    },
+    {
+     "v": 8,
+     "text": "They are to spread over them a cloth of scarlet and cover it with a covering of fine leather, and put in its poles."
+    },
+    {
+     "v": 9,
+     "text": "They are to take a cloth of blue and cover the lampstand for the light, with its lamps, its snuffers, its trays, and all the vessels for its oil with which they serve it."
+    },
+    {
+     "v": 10,
+     "text": "They are to put it and all its utensils in a covering of fine leather and put it on the carrying frame."
+    },
+    {
+     "v": 11,
+     "text": "Over the golden altar they are to spread a cloth of blue and cover it with a covering of fine leather, and put in its poles."
+    },
+    {
+     "v": 12,
+     "text": "They are to take all the utensils of service with which they minister in the sanctuary, put them in a cloth of blue, cover them with a covering of fine leather, and put them on the carrying frame."
+    },
+    {
+     "v": 13,
+     "text": "They are to remove the ashes from the altar and spread a purple cloth over it."
+    },
+    {
+     "v": 14,
+     "text": "They are to put on it all its utensils with which they minister there, the firepans, the forks, the shovels, and the basins, all the utensils of the altar. They are to spread over it a covering of fine leather and put in its poles.{c}"
+    },
+    {
+     "v": 15,
+     "text": "When Aaron and his sons have finished covering the sanctuary and all the furnishings of the sanctuary, as the camp sets out, after that the descendants of Kohath are to come to carry them; but they must not touch the holy things, or they will die. These are the things in the tent of meeting that the descendants of Kohath are to carry."
+    },
+    {
+     "v": 16,
+     "text": "“Eleazar son of Aaron the priest is to have oversight of the oil for the light, the fragrant incense, the regular grain offering, and the anointing oil, the oversight of the whole tabernacle and all that is in it, the sanctuary and its furnishings.”"
+    },
+    {
+     "v": 17,
+     "text": "Yahweh spoke to Moses and to Aaron, saying,"
+    },
+    {
+     "v": 18,
+     "text": "“Do not let the tribe of the clans of the Kohathites be cut off from among the Levites."
+    },
+    {
+     "v": 19,
+     "text": "Do this for them, so that they may live and not die when they come near the most holy things: Aaron and his sons are to go in and appoint each of them to his service and to his load."
+    },
+    {
+     "v": 20,
+     "text": "But they must not go in to look at the holy things even for a moment,{d} or they will die.”"
+    },
+    {
+     "v": 21,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 22,
+     "text": "“Take a census of the descendants of Gershon also, by their fathers’ houses, by their clans."
+    },
+    {
+     "v": 23,
+     "text": "From thirty years old and upward to fifty years old you are to count them, all who enter to perform the service, to do the work in the tent of meeting."
+    },
+    {
+     "v": 24,
+     "text": "This is the service of the clans of the Gershonites, in serving and in carrying:"
+    },
+    {
+     "v": 25,
+     "text": "they are to carry the curtains of the tabernacle and the tent of meeting, its covering, the covering of fine leather that is on top of it, the screen for the entrance of the tent of meeting,"
+    },
+    {
+     "v": 26,
+     "text": "the hangings of the courtyard, the screen for the entrance of the gate of the courtyard, which is around the tabernacle and the altar, their cords, and all the equipment for their service. They are to do all that needs to be done with them."
+    },
+    {
+     "v": 27,
+     "text": "All the service of the descendants of the Gershonites, in all their carrying and in all their service, is to be at the command{e} of Aaron and his sons. You are to assign to them as their duty all that they are to carry."
+    },
+    {
+     "v": 28,
+     "text": "This is the service of the clans of the descendants of the Gershonites in the tent of meeting. Their duties are to be under the direction{f} of Ithamar son of Aaron the priest."
+    },
+    {
+     "v": 29,
+     "text": "“As for the descendants of Merari, you are to count them by their clans, by their fathers’ houses."
+    },
+    {
+     "v": 30,
+     "text": "From thirty years old and upward to fifty years old you are to count them, everyone who enters the service, to do the work of the tent of meeting."
+    },
+    {
+     "v": 31,
+     "text": "This is what they are charged to carry, as all their service in the tent of meeting: the frames of the tabernacle, its crossbars, its posts, and its bases,"
+    },
+    {
+     "v": 32,
+     "text": "and the posts of the courtyard all around with their bases, tent pegs, and cords, with all their equipment and all their service. You are to assign by name the items that they are charged to carry."
+    },
+    {
+     "v": 33,
+     "text": "This is the service of the clans of the descendants of Merari, all their service in the tent of meeting, under the direction of Ithamar son of Aaron the priest.”"
+    },
+    {
+     "v": 34,
+     "text": "Moses and Aaron and the leaders of the congregation counted the descendants of the Kohathites by their clans and by their fathers’ houses,"
+    },
+    {
+     "v": 35,
+     "text": "from thirty years old and upward to fifty years old, everyone who entered the service for work in the tent of meeting."
+    },
+    {
+     "v": 36,
+     "text": "Those counted of them by their clans were 2,750."
+    },
+    {
+     "v": 37,
+     "text": "These were those counted of the clans of the Kohathites, all who served in the tent of meeting, whom Moses and Aaron counted at the word of Yahweh through Moses."
+    },
+    {
+     "v": 38,
+     "text": "Those counted of the descendants of Gershon, by their clans and by their fathers’ houses,"
+    },
+    {
+     "v": 39,
+     "text": "from thirty years old and upward to fifty years old, everyone who entered the service for work in the tent of meeting,"
+    },
+    {
+     "v": 40,
+     "text": "those counted of them by their clans, by their fathers’ houses, were 2,630."
+    },
+    {
+     "v": 41,
+     "text": "These were those counted of the clans of the descendants of Gershon, all who served in the tent of meeting, whom Moses and Aaron counted at the word of Yahweh."
+    },
+    {
+     "v": 42,
+     "text": "Those counted of the clans of the descendants of Merari, by their clans, by their fathers’ houses,"
+    },
+    {
+     "v": 43,
+     "text": "from thirty years old and upward to fifty years old, everyone who entered the service for work in the tent of meeting,"
+    },
+    {
+     "v": 44,
+     "text": "those counted of them by their clans were 3,200."
+    },
+    {
+     "v": 45,
+     "text": "These were those counted of the clans of the descendants of Merari, whom Moses and Aaron counted at the word of Yahweh through Moses."
+    },
+    {
+     "v": 46,
+     "text": "All those counted of the Levites, whom Moses and Aaron and the leaders of Israel counted, by their clans and by their fathers’ houses,"
+    },
+    {
+     "v": 47,
+     "text": "from thirty years old and upward to fifty years old, everyone who entered to do the work of service and the work of carrying in the tent of meeting,"
+    },
+    {
+     "v": 48,
+     "text": "those counted of them were 8,580."
+    },
+    {
+     "v": 49,
+     "text": "At the word of Yahweh through Moses they were appointed, each to his service and to his load. So they were counted by him, as Yahweh commanded Moses."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:3",
+     "text": "Hebrew tsava’, “host,” here the organized service of the Levites. In 8:24 the starting age is twenty-five; compare 1 Chronicles 23:24–27, where it is twenty."
+    },
+    {
+     "m": "b",
+     "ref": "4:6",
+     "text": "Hebrew tahash; see the note at Exodus 25:5. So also in verses 8–14 and 25."
+    },
+    {
+     "m": "c",
+     "ref": "4:14",
+     "text": "The Samaritan Pentateuch and the Septuagint add, “They are to take a purple cloth and cover the basin and its stand, put it in a covering of fine leather, and put it on the carrying frame.” This is one of the longer readings that the Samaritan Pentateuch shares with other witnesses in Numbers; see the note at 10:10."
+    },
+    {
+     "m": "d",
+     "ref": "4:20",
+     "text": "Hebrew “as a swallowing,” perhaps “even for the time it takes to swallow.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:27",
+     "text": "Hebrew “mouth.”"
+    },
+    {
+     "m": "f",
+     "ref": "4:28",
+     "text": "Hebrew “hand.” So also in verse 33."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    5,
+    11,
+    16,
+    23,
+    29
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Command the Israelites to send out of the camp everyone with a skin disease,{a} everyone who has a discharge, and everyone who is unclean through contact with a dead person."
+    },
+    {
+     "v": 3,
+     "text": "You are to send out both male and female; you are to send them outside the camp, so that they do not defile their camps, in the midst of which I dwell.”"
+    },
+    {
+     "v": 4,
+     "text": "The Israelites did so and sent them outside the camp. As Yahweh had spoken to Moses, so the Israelites did."
+    },
+    {
+     "v": 5,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 6,
+     "text": "“Speak to the Israelites: When a man or a woman commits any of the sins that people commit, acting unfaithfully against Yahweh, and that person becomes guilty,"
+    },
+    {
+     "v": 7,
+     "text": "he is to confess the sin that he has committed. He is to make restitution for his guilt in full, add a fifth to it, and give it to the one he has wronged."
+    },
+    {
+     "v": 8,
+     "text": "But if the man has no relative{b} to whom restitution may be made for the wrong, the restitution for the wrong is to go to Yahweh for the priest, in addition to the ram of atonement with which atonement is made for him."
+    },
+    {
+     "v": 9,
+     "text": "Every contribution of all the holy things of the Israelites, which they bring to the priest, is to be his."
+    },
+    {
+     "v": 10,
+     "text": "Each person’s holy things are his own; whatever anyone gives to the priest is to be the priest’s.”"
+    },
+    {
+     "v": 11,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 12,
+     "text": "“Speak to the Israelites and say to them: If any man’s wife goes astray and is unfaithful to him,"
+    },
+    {
+     "v": 13,
+     "text": "and a man lies with her sexually, and it is hidden from the eyes of her husband and kept secret, and she has defiled herself, and there is no witness against her, and she was not caught,"
+    },
+    {
+     "v": 14,
+     "text": "and a spirit of jealousy comes over him and he is jealous of his wife, and she has defiled herself; or if a spirit of jealousy comes over him and he is jealous of his wife, though she has not defiled herself,"
+    },
+    {
+     "v": 15,
+     "text": "then the man is to bring his wife to the priest. He is to bring the offering required for her, about 2 quarts of barley flour.{c} He is not to pour oil on it or put frankincense on it, for it is a grain offering of jealousy, a grain offering of remembrance, bringing iniquity to remembrance."
+    },
+    {
+     "v": 16,
+     "text": "“The priest is to bring her near and set her before Yahweh."
+    },
+    {
+     "v": 17,
+     "text": "The priest is to take holy water in an earthen vessel, and the priest is to take some of the dust that is on the floor of the tabernacle and put it into the water."
+    },
+    {
+     "v": 18,
+     "text": "The priest is to set the woman before Yahweh, let the hair of the woman’s head hang loose, and put in her hands the grain offering of remembrance, which is the grain offering of jealousy. In the priest’s hand is to be the water of bitterness that brings the curse."
+    },
+    {
+     "v": 19,
+     "text": "Then the priest is to make her take an oath and say to the woman, ‘If no man has lain with you, and if you have not gone astray into uncleanness while under your husband’s authority, be free from this water of bitterness that brings the curse."
+    },
+    {
+     "v": 20,
+     "text": "But if you have gone astray while under your husband’s authority, and if you have defiled yourself and some man other than your husband has lain with you,’"
+    },
+    {
+     "v": 21,
+     "text": "then the priest is to make the woman take the oath of the curse, and the priest is to say to the woman, ‘May Yahweh make you a curse and an oath among your people, when Yahweh makes your thigh fall away and your belly swell.{d}"
+    },
+    {
+     "v": 22,
+     "text": "May this water that brings the curse go into your body and make your belly swell and your thigh fall away.’ And the woman is to say, ‘Amen, Amen.’{e}"
+    },
+    {
+     "v": 23,
+     "text": "“Then the priest is to write these curses in a scroll and wash them off into the water of bitterness."
+    },
+    {
+     "v": 24,
+     "text": "He is to make the woman drink the water of bitterness that brings the curse, and the water that brings the curse is to enter her and cause bitter pain."
+    },
+    {
+     "v": 25,
+     "text": "The priest is to take the grain offering of jealousy from the woman’s hand, wave the grain offering before Yahweh, and bring it to the altar."
+    },
+    {
+     "v": 26,
+     "text": "The priest is to take a handful of the grain offering as its memorial portion and burn it on the altar, and afterward he is to make the woman drink the water."
+    },
+    {
+     "v": 27,
+     "text": "When he has made her drink the water, then, if she has defiled herself and has been unfaithful to her husband, the water that brings the curse will enter her and cause bitter pain, her belly will swell, and her thigh will fall away, and the woman will become a curse among her people."
+    },
+    {
+     "v": 28,
+     "text": "But if the woman has not defiled herself and is clean, then she will be free and will conceive children."
+    },
+    {
+     "v": 29,
+     "text": "“This is the law of jealousy, when a wife, while under her husband’s authority, goes astray and defiles herself,"
+    },
+    {
+     "v": 30,
+     "text": "or when a spirit of jealousy comes over a man and he is jealous of his wife. He is to set the woman before Yahweh, and the priest is to carry out for her all this law."
+    },
+    {
+     "v": 31,
+     "text": "The man will be free from iniquity, but the woman will bear her iniquity.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:2",
+     "text": "Hebrew tsara‘at, a term for various skin diseases (Leviticus 13–14), traditionally translated “leprosy,” though it is not limited to what is now called leprosy (Hansen’s disease)."
+    },
+    {
+     "m": "b",
+     "ref": "5:8",
+     "text": "Hebrew go’el, the nearest relative, who had the right and duty to receive or pay redemption for a family member."
+    },
+    {
+     "m": "c",
+     "ref": "5:15",
+     "text": "Hebrew “a tenth of an ephah of barley flour,” about 2.2 liters. An ephah was about three-fifths of a bushel (22 liters); standards varied."
+    },
+    {
+     "m": "d",
+     "ref": "5:21",
+     "text": "The exact meaning of “thigh” (perhaps a euphemism for the reproductive organs) and of the physical effects is uncertain. They may describe a miscarriage or infertility (compare verse 28)."
+    },
+    {
+     "m": "e",
+     "ref": "5:22",
+     "text": "Hebrew amen, “so be it,” a word of solemn agreement."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    5,
+    6,
+    9,
+    13,
+    21,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak to the Israelites and say to them: When a man or a woman makes a special vow, the vow of a Nazirite,{a} to separate himself to Yahweh,"
+    },
+    {
+     "v": 3,
+     "text": "he is to separate himself from wine and strong drink. He must not drink vinegar made from wine or vinegar made from strong drink, and he must not drink any grape juice or eat grapes, fresh or dried."
+    },
+    {
+     "v": 4,
+     "text": "All the days of his separation he must not eat anything produced by the grapevine, from the seeds to the skins.{b}"
+    },
+    {
+     "v": 5,
+     "text": "“All the days of his vow of separation no razor is to pass over his head. Until the days are fulfilled for which he separates himself to Yahweh, he is to be holy. He is to let the locks of the hair of his head grow long."
+    },
+    {
+     "v": 6,
+     "text": "“All the days that he separates himself to Yahweh he must not go near a dead person."
+    },
+    {
+     "v": 7,
+     "text": "Not even for his father or for his mother, for his brother or for his sister, if they die, is he to make himself unclean, because his separation to God is on his head."
+    },
+    {
+     "v": 8,
+     "text": "All the days of his separation he is holy to Yahweh."
+    },
+    {
+     "v": 9,
+     "text": "“If anyone dies very suddenly beside him and he defiles his consecrated head, he is to shave his head on the day of his cleansing; on the seventh day he is to shave it."
+    },
+    {
+     "v": 10,
+     "text": "On the eighth day he is to bring two turtledoves or two young pigeons to the priest, to the entrance of the tent of meeting."
+    },
+    {
+     "v": 11,
+     "text": "The priest is to offer one as a sin offering and the other as a burnt offering and make atonement for him, because he sinned by reason of the dead body. He is to consecrate his head that same day."
+    },
+    {
+     "v": 12,
+     "text": "He is to separate to Yahweh the days of his separation and bring a male lamb a year old as a guilt offering. The previous days will not count,{c} because his separation was defiled."
+    },
+    {
+     "v": 13,
+     "text": "“This is the law of the Nazirite when the days of his separation are fulfilled. He is to be brought to the entrance of the tent of meeting,"
+    },
+    {
+     "v": 14,
+     "text": "and he is to present his offering to Yahweh: one male lamb a year old without blemish as a burnt offering, one ewe lamb a year old without blemish as a sin offering, one ram without blemish as a peace offering,"
+    },
+    {
+     "v": 15,
+     "text": "a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers spread with oil, with their grain offering and their drink offerings."
+    },
+    {
+     "v": 16,
+     "text": "The priest is to present them before Yahweh and offer his sin offering and his burnt offering."
+    },
+    {
+     "v": 17,
+     "text": "He is to offer the ram as a sacrifice of peace offering to Yahweh, with the basket of unleavened bread. The priest is also to offer its grain offering and its drink offering."
+    },
+    {
+     "v": 18,
+     "text": "The Nazirite is to shave his consecrated head at the entrance of the tent of meeting, take the hair from his consecrated head, and put it on the fire that is under the sacrifice of the peace offering."
+    },
+    {
+     "v": 19,
+     "text": "The priest is to take the boiled shoulder of the ram, one unleavened cake out of the basket, and one unleavened wafer, and put them on the palms of the Nazirite after he has shaved his consecrated head."
+    },
+    {
+     "v": 20,
+     "text": "The priest is to wave them as a wave offering before Yahweh. They are a holy portion for the priest, together with the breast that is waved and the thigh that is contributed. After that the Nazirite may drink wine."
+    },
+    {
+     "v": 21,
+     "text": "“This is the law of the Nazirite who vows his offering to Yahweh for his separation, in addition to whatever else he can afford. In keeping with the vow that he makes, so he must do according to the law of his separation.”"
+    },
+    {
+     "v": 22,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 23,
+     "text": "“Speak to Aaron and his sons, saying, ‘This is how you are to bless the Israelites. Say to them:{d}"
+    },
+    {
+     "v": 24,
+     "text": "“May Yahweh bless you and keep you;"
+    },
+    {
+     "v": 25,
+     "text": "may Yahweh make his face shine on you and be gracious to you;"
+    },
+    {
+     "v": 26,
+     "text": "may Yahweh lift up his face toward you and give you peace.”’{e}"
+    },
+    {
+     "v": 27,
+     "text": "So they are to put my name on the Israelites, and I will bless them.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Hebrew nazir, from nazar, “to separate” or “to dedicate.” Compare Samson (Judges 13:5), Samuel (1 Samuel 1:11), and Acts 18:18; 21:23–26."
+    },
+    {
+     "m": "b",
+     "ref": "6:4",
+     "text": "The meaning of the two Hebrew words hartsannim and zag is uncertain; they may refer to unripe grapes and grape skins, or to seeds and skins."
+    },
+    {
+     "m": "c",
+     "ref": "6:12",
+     "text": "Hebrew “will fall.”"
+    },
+    {
+     "m": "d",
+     "ref": "6:23",
+     "text": "The blessing in verses 24–26 is three lines of growing length, each naming Yahweh. A form of it is inscribed on two small silver scrolls found at Ketef Hinnom in Jerusalem, dated to around 600 BC, among the oldest known texts of any biblical passage."
+    },
+    {
+     "m": "e",
+     "ref": "6:26",
+     "text": "Hebrew shalom, wholeness and well-being, not merely the absence of conflict."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    4,
+    10,
+    12,
+    18,
+    24,
+    30,
+    36,
+    42,
+    48,
+    54,
+    60,
+    66,
+    72,
+    78,
+    84,
+    89
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the day when Moses had finished setting up the tabernacle, and had anointed and consecrated it with all its furnishings, and had anointed and consecrated the altar with all its utensils,"
+    },
+    {
+     "v": 2,
+     "text": "the leaders of Israel, the heads of their fathers’ houses, presented offerings. They were the leaders of the tribes, who were over those who were counted."
+    },
+    {
+     "v": 3,
+     "text": "They brought their offering before Yahweh, six covered wagons{a} and twelve oxen, a wagon for every two leaders and an ox for each one. They presented them in front of the tabernacle."
+    },
+    {
+     "v": 4,
+     "text": "Then Yahweh said to Moses,"
+    },
+    {
+     "v": 5,
+     "text": "“Accept these from them, and let them be used in doing the service of the tent of meeting. Give them to the Levites, to each according to his service.”"
+    },
+    {
+     "v": 6,
+     "text": "So Moses took the wagons and the oxen and gave them to the Levites."
+    },
+    {
+     "v": 7,
+     "text": "He gave two wagons and four oxen to the descendants of Gershon, according to their service."
+    },
+    {
+     "v": 8,
+     "text": "He gave four wagons and eight oxen to the descendants of Merari, according to their service, under the direction of Ithamar son of Aaron the priest."
+    },
+    {
+     "v": 9,
+     "text": "But to the descendants of Kohath he gave none, because their service was with the holy things, which they had to carry on their shoulders."
+    },
+    {
+     "v": 10,
+     "text": "The leaders presented offerings for the dedication{b} of the altar on the day it was anointed; the leaders presented their offering in front of the altar."
+    },
+    {
+     "v": 11,
+     "text": "Yahweh said to Moses, “They are to present their offering, one leader each day, for the dedication of the altar.”"
+    },
+    {
+     "v": 12,
+     "text": "The one who presented his offering on the first day was Nahshon son of Amminadab, of the tribe of Judah."
+    },
+    {
+     "v": 13,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds,{c} by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 14,
+     "text": "one gold dish of about 4 ounces,{d} full of incense;"
+    },
+    {
+     "v": 15,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 16,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 17,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nahshon son of Amminadab."
+    },
+    {
+     "v": 18,
+     "text": "On the second day Nethanel son of Zuar, the leader of the descendants of Issachar, presented an offering."
+    },
+    {
+     "v": 19,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 20,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 21,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 22,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 23,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nethanel son of Zuar."
+    },
+    {
+     "v": 24,
+     "text": "On the third day Eliab son of Helon, the leader of the descendants of Zebulun, presented an offering."
+    },
+    {
+     "v": 25,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 26,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 27,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 28,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 29,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliab son of Helon."
+    },
+    {
+     "v": 30,
+     "text": "On the fourth day Elizur son of Shedeur, the leader of the descendants of Reuben, presented an offering."
+    },
+    {
+     "v": 31,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 32,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 33,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 34,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 35,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elizur son of Shedeur."
+    },
+    {
+     "v": 36,
+     "text": "On the fifth day Shelumiel son of Zurishaddai, the leader of the descendants of Simeon, presented an offering."
+    },
+    {
+     "v": 37,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 38,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 39,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 40,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 41,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Shelumiel son of Zurishaddai."
+    },
+    {
+     "v": 42,
+     "text": "On the sixth day Eliasaph son of Deuel, the leader of the descendants of Gad, presented an offering."
+    },
+    {
+     "v": 43,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 44,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 45,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 46,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 47,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliasaph son of Deuel."
+    },
+    {
+     "v": 48,
+     "text": "On the seventh day Elishama son of Ammihud, the leader of the descendants of Ephraim, presented an offering."
+    },
+    {
+     "v": 49,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 50,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 51,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 52,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 53,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elishama son of Ammihud."
+    },
+    {
+     "v": 54,
+     "text": "On the eighth day Gamaliel son of Pedahzur, the leader of the descendants of Manasseh, presented an offering."
+    },
+    {
+     "v": 55,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 56,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 57,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 58,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 59,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Gamaliel son of Pedahzur."
+    },
+    {
+     "v": 60,
+     "text": "On the ninth day Abidan son of Gideoni, the leader of the descendants of Benjamin, presented an offering."
+    },
+    {
+     "v": 61,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 62,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 63,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 64,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 65,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Abidan son of Gideoni."
+    },
+    {
+     "v": 66,
+     "text": "On the tenth day Ahiezer son of Ammishaddai, the leader of the descendants of Dan, presented an offering."
+    },
+    {
+     "v": 67,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 68,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 69,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 70,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 71,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer son of Ammishaddai."
+    },
+    {
+     "v": 72,
+     "text": "On the eleventh day Pagiel son of Ochran, the leader of the descendants of Asher, presented an offering."
+    },
+    {
+     "v": 73,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 74,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 75,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 76,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 77,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Pagiel son of Ochran."
+    },
+    {
+     "v": 78,
+     "text": "On the twelfth day Ahira son of Enan, the leader of the descendants of Naphtali, presented an offering."
+    },
+    {
+     "v": 79,
+     "text": "His offering was one silver plate weighing about 3¼ pounds and one silver bowl of about 1¾ pounds, by the sanctuary standard, both of them full of fine flour mixed with oil for a grain offering;"
+    },
+    {
+     "v": 80,
+     "text": "one gold dish of about 4 ounces, full of incense;"
+    },
+    {
+     "v": 81,
+     "text": "one young bull, one ram, and one male lamb a year old, for a burnt offering;"
+    },
+    {
+     "v": 82,
+     "text": "one male goat for a sin offering;"
+    },
+    {
+     "v": 83,
+     "text": "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahira son of Enan."
+    },
+    {
+     "v": 84,
+     "text": "This was the dedication offering for the altar from the leaders of Israel, on the day when it was anointed: twelve silver plates, twelve silver bowls, and twelve gold dishes."
+    },
+    {
+     "v": 85,
+     "text": "Each silver plate weighed about 3¼ pounds and each bowl about 1¾ pounds, and all the silver of the vessels came to about 60 pounds,{e} by the sanctuary standard."
+    },
+    {
+     "v": 86,
+     "text": "The twelve gold dishes full of incense weighed about 4 ounces each, by the sanctuary standard, and all the gold of the dishes came to about 3 pounds.{f}"
+    },
+    {
+     "v": 87,
+     "text": "All the livestock for the burnt offering were twelve bulls, twelve rams, and twelve male lambs a year old, with their grain offering; and twelve male goats for a sin offering."
+    },
+    {
+     "v": 88,
+     "text": "All the livestock for the sacrifice of peace offerings were twenty-four bulls, sixty rams, sixty male goats, and sixty male lambs a year old. This was the dedication offering for the altar after it was anointed."
+    },
+    {
+     "v": 89,
+     "text": "When Moses went into the tent of meeting to speak with him,{g} he heard the voice speaking to him from above the atonement cover that was on the ark of the testimony, from between the two cherubim; and he spoke to him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:3",
+     "text": "Hebrew tsav, perhaps “covered” or “litter-like.” The meaning is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "7:10",
+     "text": "Hebrew hanukkah, “dedication,” the word later used for the festival of the rededication of the temple in 164 BC. So also in verses 11, 84, and 88."
+    },
+    {
+     "m": "c",
+     "ref": "7:13",
+     "text": "Hebrew “one silver plate, its weight a hundred thirty shekels, one silver bowl of seventy shekels,” about 1.5 kilograms and 0.8 kilogram. A shekel was about 0.4 ounce (11.5 grams); standards varied. On the sanctuary shekel, see Exodus 30:13. The same weights apply in each of the twelve offerings that follow."
+    },
+    {
+     "m": "d",
+     "ref": "7:14",
+     "text": "Hebrew “ten shekels,” about 115 grams."
+    },
+    {
+     "m": "e",
+     "ref": "7:85",
+     "text": "Hebrew “2,400 shekels,” about 27.6 kilograms."
+    },
+    {
+     "m": "f",
+     "ref": "7:86",
+     "text": "Hebrew “ten shekels each … 120 shekels,” about 115 grams each and 1.4 kilograms in all."
+    },
+    {
+     "m": "g",
+     "ref": "7:89",
+     "text": "That is, with Yahweh. The Hebrew form translated “speaking” (middabber) is unusual; some interpreters take it to mean that the voice was speaking, as it were, to itself, with Moses overhearing."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    5,
+    14,
+    20,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak to Aaron and say to him, ‘When you set up the lamps, the seven lamps are to give light in front of the lampstand.’”"
+    },
+    {
+     "v": 3,
+     "text": "Aaron did so. He set up its lamps to give light in front of the lampstand, as Yahweh had commanded Moses."
+    },
+    {
+     "v": 4,
+     "text": "This was how the lampstand was made: hammered work of gold. From its base to its flowers it was hammered work. According to the pattern that Yahweh had shown Moses, so he made the lampstand."
+    },
+    {
+     "v": 5,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 6,
+     "text": "“Take the Levites from among the Israelites and cleanse them."
+    },
+    {
+     "v": 7,
+     "text": "This is what you are to do to them to cleanse them: sprinkle the water of purification{a} on them, and let them pass a razor over their whole body, wash their clothes, and so cleanse themselves."
+    },
+    {
+     "v": 8,
+     "text": "Then let them take a young bull with its grain offering of fine flour mixed with oil, and you are to take another young bull for a sin offering."
+    },
+    {
+     "v": 9,
+     "text": "You are to bring the Levites in front of the tent of meeting and assemble the whole congregation of the Israelites."
+    },
+    {
+     "v": 10,
+     "text": "When you bring the Levites before Yahweh, the Israelites are to lay their hands on the Levites,"
+    },
+    {
+     "v": 11,
+     "text": "and Aaron is to present the Levites before Yahweh as a wave offering{b} from the Israelites, so that they may do the service of Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "Then the Levites are to lay their hands on the heads of the bulls, and you are to offer one as a sin offering and the other as a burnt offering to Yahweh, to make atonement for the Levites."
+    },
+    {
+     "v": 13,
+     "text": "You are to have the Levites stand before Aaron and his sons and present them as a wave offering to Yahweh."
+    },
+    {
+     "v": 14,
+     "text": "“In this way you are to separate the Levites from among the Israelites, and the Levites will be mine."
+    },
+    {
+     "v": 15,
+     "text": "After that the Levites may go in to serve at the tent of meeting, once you have cleansed them and presented them as a wave offering."
+    },
+    {
+     "v": 16,
+     "text": "For they are wholly given to me from among the Israelites. I have taken them for myself in place of all who open the womb, the firstborn of all the Israelites."
+    },
+    {
+     "v": 17,
+     "text": "For every firstborn among the Israelites is mine, both of people and of animals. On the day that I struck down every firstborn in the land of Egypt I consecrated them for myself."
+    },
+    {
+     "v": 18,
+     "text": "And I have taken the Levites in place of all the firstborn among the Israelites."
+    },
+    {
+     "v": 19,
+     "text": "I have given the Levites as a gift to Aaron and his sons from among the Israelites, to do the service of the Israelites at the tent of meeting and to make atonement for the Israelites, so that no plague may come on the Israelites when the Israelites come near the sanctuary.”"
+    },
+    {
+     "v": 20,
+     "text": "Moses and Aaron and the whole congregation of the Israelites did this to the Levites. According to all that Yahweh had commanded Moses concerning the Levites, so the Israelites did to them."
+    },
+    {
+     "v": 21,
+     "text": "The Levites purified themselves from sin and washed their clothes, and Aaron presented them as a wave offering before Yahweh, and Aaron made atonement for them to cleanse them."
+    },
+    {
+     "v": 22,
+     "text": "After that the Levites went in to do their service at the tent of meeting before Aaron and before his sons. As Yahweh had commanded Moses concerning the Levites, so they did to them."
+    },
+    {
+     "v": 23,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 24,
+     "text": "“This is what applies to the Levites: from twenty-five years old and upward they are to come to serve in the work of the tent of meeting.{c}"
+    },
+    {
+     "v": 25,
+     "text": "From the age of fifty years they are to retire from the work of the service and serve no more."
+    },
+    {
+     "v": 26,
+     "text": "They may assist their brothers in the tent of meeting by keeping guard, but they are to do no work. This is how you are to deal with the Levites in their duties.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:7",
+     "text": "Hebrew “water of sin,” that is, water that removes sin and impurity."
+    },
+    {
+     "m": "b",
+     "ref": "8:11",
+     "text": "Hebrew tenufah, an offering formally presented before Yahweh, possibly with a lifting or waving motion."
+    },
+    {
+     "m": "c",
+     "ref": "8:24",
+     "text": "Compare 4:3, where the age is thirty. The difference may reflect a period of apprenticeship or a change in practice. The Septuagint has twenty-five in both places (4:3, 23, 30)."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    6,
+    9,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses in the Wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt (in March–April),{a} saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Let the Israelites keep the Passover at its appointed time."
+    },
+    {
+     "v": 3,
+     "text": "On the fourteenth day of this month (in March–April), at twilight,{b} you are to keep it at its appointed time. You are to keep it according to all its statutes and all its rules.”"
+    },
+    {
+     "v": 4,
+     "text": "So Moses told the Israelites to keep the Passover."
+    },
+    {
+     "v": 5,
+     "text": "They kept the Passover in the first month, on the fourteenth day of the month (in March–April), at twilight, in the Wilderness of Sinai. According to all that Yahweh had commanded Moses, so the Israelites did."
+    },
+    {
+     "v": 6,
+     "text": "But there were some men who were unclean through contact with a dead person, so that they could not keep the Passover on that day. They came before Moses and Aaron on that day,"
+    },
+    {
+     "v": 7,
+     "text": "and those men said to him, “We are unclean through contact with a dead person. Why should we be kept from presenting Yahweh’s offering at its appointed time among the Israelites?”"
+    },
+    {
+     "v": 8,
+     "text": "Moses said to them, “Wait, so that I may hear what Yahweh will command concerning you.”"
+    },
+    {
+     "v": 9,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 10,
+     "text": "“Speak to the Israelites, saying, ‘If any one of you or of your descendants is unclean because of a dead body, or is on a long journey, he may still keep the Passover to Yahweh.{c}"
+    },
+    {
+     "v": 11,
+     "text": "In the second month, on the fourteenth day (in April–May), at twilight, they are to keep it. They are to eat it with unleavened bread and bitter herbs."
+    },
+    {
+     "v": 12,
+     "text": "They must leave none of it until morning or break any of its bones. They are to keep it according to all the statute of the Passover."
+    },
+    {
+     "v": 13,
+     "text": "But the man who is clean and is not on a journey, and fails to keep the Passover, that person is to be cut off from his people, because he did not present Yahweh’s offering at its appointed time. That man will bear his sin."
+    },
+    {
+     "v": 14,
+     "text": "If a foreigner who lives among you wants to keep the Passover to Yahweh, he is to do so according to the statute of the Passover and according to its rule. You are to have one statute, both for the foreigner and for the native of the land.’”"
+    },
+    {
+     "v": 15,
+     "text": "On the day the tabernacle was set up, the cloud covered the tabernacle, the tent of the testimony. And from evening until morning it was over the tabernacle like the appearance of fire."
+    },
+    {
+     "v": 16,
+     "text": "So it was continually: the cloud covered it by day,{d} and the appearance of fire by night."
+    },
+    {
+     "v": 17,
+     "text": "Whenever the cloud was lifted from over the tent, after that the Israelites set out; and in the place where the cloud settled, there the Israelites camped."
+    },
+    {
+     "v": 18,
+     "text": "At the command of Yahweh the Israelites set out, and at the command of Yahweh they camped. As long as the cloud rested over the tabernacle, they remained in camp."
+    },
+    {
+     "v": 19,
+     "text": "Even when the cloud lingered over the tabernacle many days, the Israelites kept Yahweh’s charge and did not set out."
+    },
+    {
+     "v": 20,
+     "text": "Sometimes the cloud was over the tabernacle a few days. At the command of Yahweh they remained in camp, and at the command of Yahweh they set out."
+    },
+    {
+     "v": 21,
+     "text": "Sometimes the cloud remained from evening until morning. When the cloud was lifted in the morning, they set out. Whether by day or by night, when the cloud was lifted, they set out."
+    },
+    {
+     "v": 22,
+     "text": "Whether it was two days, or a month, or a longer time{e} that the cloud lingered over the tabernacle, resting on it, the Israelites remained in camp and did not set out; but when it was lifted, they set out."
+    },
+    {
+     "v": 23,
+     "text": "At the command of Yahweh they camped, and at the command of Yahweh they set out. They kept Yahweh’s charge, at the command of Yahweh through Moses."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "The first month of Israel’s religious calendar, which began in spring, was Abib, later called Nisan (Exodus 12:2; 13:4). Because the months were lunar, the dates fall in different parts of March and April from year to year. This is one month before the census of 1:1."
+    },
+    {
+     "m": "b",
+     "ref": "9:3",
+     "text": "Hebrew “between the two evenings,” probably the time between sunset and dark. So also in verses 5 and 11. See the note at Exodus 12:6."
+    },
+    {
+     "m": "c",
+     "ref": "9:10",
+     "text": "This is the provision for a “second Passover” one month later, in the second month (Iyyar, also called Ziv)."
+    },
+    {
+     "m": "d",
+     "ref": "9:16",
+     "text": "The Septuagint and other ancient versions read “by day.” The traditional Hebrew text lacks the words."
+    },
+    {
+     "m": "e",
+     "ref": "9:22",
+     "text": "Hebrew yamim, “days,” which can mean a year or an indefinite period."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    11,
+    17,
+    21,
+    25,
+    29,
+    33,
+    35
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Make two trumpets of silver. Make them of hammered work. You are to use them for summoning the congregation and for breaking camp."
+    },
+    {
+     "v": 3,
+     "text": "When both are blown, the whole congregation is to gather to you at the entrance of the tent of meeting."
+    },
+    {
+     "v": 4,
+     "text": "But if only one is blown, then the leaders, the heads of the thousands{a} of Israel, are to gather to you."
+    },
+    {
+     "v": 5,
+     "text": "When you sound an alarm,{b} the camps that are on the east side are to set out."
+    },
+    {
+     "v": 6,
+     "text": "When you sound an alarm a second time, the camps that are on the south side are to set out. An alarm is to be sounded whenever they are to set out.{c}"
+    },
+    {
+     "v": 7,
+     "text": "But when the assembly is to be gathered, you are to blow, but not sound an alarm."
+    },
+    {
+     "v": 8,
+     "text": "The sons of Aaron, the priests, are to blow the trumpets. This is to be a permanent statute for you throughout your generations."
+    },
+    {
+     "v": 9,
+     "text": "When you go to war in your land against the adversary who oppresses you, you are to sound an alarm with the trumpets, so that you may be remembered before Yahweh your God and be saved from your enemies."
+    },
+    {
+     "v": 10,
+     "text": "On the day of your gladness also, and at your appointed festivals and at the beginnings of your months,{d} you are to blow the trumpets over your burnt offerings and over the sacrifices of your peace offerings. They will be a reminder of you before your God. I am Yahweh your God.”{e}"
+    },
+    {
+     "v": 11,
+     "text": "In the second year, in the second month, on the twentieth day of the month (in April–May),{f} the cloud was lifted from over the tabernacle of the testimony,"
+    },
+    {
+     "v": 12,
+     "text": "and the Israelites set out by stages from the Wilderness of Sinai. The cloud settled in the Wilderness of Paran."
+    },
+    {
+     "v": 13,
+     "text": "They set out for the first time at the command of Yahweh through Moses."
+    },
+    {
+     "v": 14,
+     "text": "The banner of the camp of the descendants of Judah set out first by their divisions, and over their army was Nahshon son of Amminadab."
+    },
+    {
+     "v": 15,
+     "text": "Over the army of the tribe of the descendants of Issachar was Nethanel son of Zuar."
+    },
+    {
+     "v": 16,
+     "text": "Over the army of the tribe of the descendants of Zebulun was Eliab son of Helon."
+    },
+    {
+     "v": 17,
+     "text": "Then the tabernacle was taken down, and the descendants of Gershon and the descendants of Merari, who carried the tabernacle, set out."
+    },
+    {
+     "v": 18,
+     "text": "The banner of the camp of Reuben set out by their divisions, and over their army was Elizur son of Shedeur."
+    },
+    {
+     "v": 19,
+     "text": "Over the army of the tribe of the descendants of Simeon was Shelumiel son of Zurishaddai."
+    },
+    {
+     "v": 20,
+     "text": "Over the army of the tribe of the descendants of Gad was Eliasaph son of Deuel."
+    },
+    {
+     "v": 21,
+     "text": "Then the Kohathites set out, carrying the holy things, and the tabernacle was set up before they arrived."
+    },
+    {
+     "v": 22,
+     "text": "The banner of the camp of the descendants of Ephraim set out by their divisions, and over their army was Elishama son of Ammihud."
+    },
+    {
+     "v": 23,
+     "text": "Over the army of the tribe of the descendants of Manasseh was Gamaliel son of Pedahzur."
+    },
+    {
+     "v": 24,
+     "text": "Over the army of the tribe of the descendants of Benjamin was Abidan son of Gideoni."
+    },
+    {
+     "v": 25,
+     "text": "Then the banner of the camp of the descendants of Dan, the rear guard of all the camps, set out by their divisions, and over their army was Ahiezer son of Ammishaddai."
+    },
+    {
+     "v": 26,
+     "text": "Over the army of the tribe of the descendants of Asher was Pagiel son of Ochran."
+    },
+    {
+     "v": 27,
+     "text": "Over the army of the tribe of the descendants of Naphtali was Ahira son of Enan."
+    },
+    {
+     "v": 28,
+     "text": "This was the order of march of the Israelites by their divisions when they set out."
+    },
+    {
+     "v": 29,
+     "text": "Moses said to Hobab son of Reuel{g} the Midianite, Moses’ father-in-law, “We are setting out for the place of which Yahweh said, ‘I will give it to you.’ Come with us, and we will treat you well, for Yahweh has promised good things to Israel.”"
+    },
+    {
+     "v": 30,
+     "text": "But he said to him, “I will not go. I will go back to my own land and to my relatives.”"
+    },
+    {
+     "v": 31,
+     "text": "Moses said, “Please do not leave us, for you know where we should camp in the wilderness, and you will serve as eyes for us."
+    },
+    {
+     "v": 32,
+     "text": "If you do go with us, whatever good Yahweh does for us, we will do the same for you.”"
+    },
+    {
+     "v": 33,
+     "text": "So they set out from the mountain of Yahweh three days’ journey. The ark of the covenant of Yahweh went before them three days’ journey,{h} to seek out a resting place for them."
+    },
+    {
+     "v": 34,
+     "text": "The cloud of Yahweh was over them by day when they set out from the camp."
+    },
+    {
+     "v": 35,
+     "text": "Whenever the ark set out,{i} Moses would say, “Arise, Yahweh, and let your enemies be scattered, and let those who hate you flee before you.”"
+    },
+    {
+     "v": 36,
+     "text": "And when it rested, he would say, “Return, Yahweh, to the countless thousands of Israel.”{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:4",
+     "text": "Or “clans.” See the note at 1:16."
+    },
+    {
+     "m": "b",
+     "ref": "10:5",
+     "text": "Hebrew teru‘ah, a loud blast or series of blasts, as distinct from an ordinary blowing of the trumpet."
+    },
+    {
+     "m": "c",
+     "ref": "10:6",
+     "text": "The Septuagint adds that at a third and a fourth alarm the camps on the west and on the north are to set out. The Hebrew lacks this."
+    },
+    {
+     "m": "d",
+     "ref": "10:10",
+     "text": "Hebrew “heads of your months,” the new moon at the beginning of each lunar month."
+    },
+    {
+     "m": "e",
+     "ref": "10:10",
+     "text": "At this point the Samaritan Pentateuch adds a long passage taken from Deuteronomy 1:6–8, in which Yahweh commands Israel to leave Horeb and go into the hill country of the Amorites. Similar harmonizing expansions, drawn from Deuteronomy or from elsewhere in Numbers, occur in the Samaritan Pentateuch at 12:16; 13:33; 14:40, 45; 20:13; 21; 27:23; and 31:20. Several are also preserved in fragments of Numbers from the Dead Sea Scrolls. They are not found in the traditional Hebrew text and most are absent from the Septuagint."
+    },
+    {
+     "m": "f",
+     "ref": "10:11",
+     "text": "Second month: Iyyar, also called Ziv, of the spring-start religious calendar; because the months were lunar, the date falls in different parts of April and May. Israel had been at Sinai about eleven months (Exodus 19:1)."
+    },
+    {
+     "m": "g",
+     "ref": "10:29",
+     "text": "Hobab means “beloved.” Reuel means “friend of God.” He is also called Jethro in Exodus 3:1; 18:1. Here it is not certain whether “Moses’ father-in-law” refers to Hobab or to Reuel; Judges 4:11 calls Hobab Moses’ father-in-law."
+    },
+    {
+     "m": "h",
+     "ref": "10:33",
+     "text": "The repetition of “three days’ journey” is unusual; some interpreters suspect that the second occurrence arose from a copying error."
+    },
+    {
+     "m": "i",
+     "ref": "10:35",
+     "text": "In the traditional Hebrew text, verses 35–36 are set off by a reversed Hebrew letter nun before and after them, the so-called “inverted nuns.” Ancient rabbis explained these marks as showing that the passage stands out of its proper place or forms a separate book. The Septuagint places verse 34 after verses 35–36."
+    },
+    {
+     "m": "j",
+     "ref": "10:36",
+     "text": "Or “Return, Yahweh, the countless thousands of Israel,” that is, bring them back. Hebrew “ten thousands of thousands.”"
+    }
+   ]
+  }
+ ]
+}
