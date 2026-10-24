@@ -3883,6 +3883,2849 @@
      "text": "This doxology closes Book One of the Psalms (Psalms 1–41). Each of the five books ends with a similar blessing (41:13; 72:18–19; 89:52; 106:48), and Psalm 150 closes the whole."
     }
    ]
+  },
+  {
+   "n": 42,
+   "heading": "Book Two (Psalms 42–72)",
+   "title": "For the choir leader. A Maskil of the sons of Korah.{a}",
+   "paras": [
+    1,
+    5,
+    9,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As a deer longs for streams of water,\nso my soul longs for you, O God."
+    },
+    {
+     "v": 2,
+     "text": "My soul thirsts for God, for the living God.\nWhen shall I come and appear before the face of God?"
+    },
+    {
+     "v": 3,
+     "text": "My tears have been my food day and night,\nwhile all day long they say to me,\n“Where is your God?”"
+    },
+    {
+     "v": 4,
+     "text": "These things I call to mind, and I pour out my soul within me:\nhow I used to go with the crowd\nand walk at their head to the house of God\nwith the voice of joy and praise,\na throng keeping holy day."
+    },
+    {
+     "v": 5,
+     "text": "Why are you bowed down, O my soul,\nand why do you moan within me?\nHope in God, for I shall again praise him,\nthe salvation of his presence.{b}"
+    },
+    {
+     "v": 6,
+     "text": "O my God, my soul is bowed down within me;\ntherefore I remember you from the land of the Jordan\nand of the Hermons, from Mount Mizar.{c}"
+    },
+    {
+     "v": 7,
+     "text": "Deep calls out to deep\nat the thunder of your cataracts;\nall your breakers and your billows\nhave swept over me."
+    },
+    {
+     "v": 8,
+     "text": "By day Yahweh commands his covenant love,\nand in the night his song is with me,\na prayer to the God of my life."
+    },
+    {
+     "v": 9,
+     "text": "I say to God, my rock,\n“Why have you forgotten me?\nWhy must I walk in mourning\nunder the oppression of the enemy?”"
+    },
+    {
+     "v": 10,
+     "text": "As with a shattering in my bones,{d} my foes revile me,\nsaying to me every day,\n“Where is your God?”"
+    },
+    {
+     "v": 11,
+     "text": "Why are you bowed down, O my soul,\nand why do you moan within me?\nHope in God, for I shall again praise him,\nthe salvation of my face and my God."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "42 title",
+     "text": "Book Two of the Psalms (Psalms 42–72). In much of this collection (Psalms 42–83, the so-called Elohistic Psalter) the divine name Yahweh is used far less often and the general word “God” (Elohim) far more often than elsewhere; compare Psalm 14 with Psalm 53, and Psalm 40:13–17 with Psalm 70. The sons of Korah were a guild of Levitical singers and gatekeepers descended from Korah (Numbers 26:11; 1 Chronicles 9:19; 2 Chronicles 20:19). Psalms 42–49, 84–85, and 87–88 bear their name. Many Hebrew manuscripts treat Psalms 42 and 43 as a single psalm; they share a refrain (42:5, 11; 43:5)."
+    },
+    {
+     "m": "b",
+     "ref": "42:5",
+     "text": "Hebrew “the salvations of his face.” Some Hebrew manuscripts, the Septuagint, and the Syriac join the first word of verse 6 to this verse and read “the salvation of my face, and my God,” as in verse 11 and 43:5."
+    },
+    {
+     "m": "c",
+     "ref": "42:6",
+     "text": "Mount Mizar, “the little mountain,” is otherwise unknown; the setting is the headwaters of the Jordan below Mount Hermon."
+    },
+    {
+     "m": "d",
+     "ref": "42:10",
+     "text": "Or “like a sword in my bones.” The Hebrew is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "paras": [
+    1,
+    3,
+    5
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Vindicate me, O God, and plead my cause\nagainst an unfaithful nation;\nfrom the man of deceit and injustice\ndeliver me!"
+    },
+    {
+     "v": 2,
+     "text": "For you are the God of my refuge;\nwhy have you cast me off?\nWhy do I walk in mourning\nunder the oppression of the enemy?"
+    },
+    {
+     "v": 3,
+     "text": "Send out your light and your truth; let them lead me;\nlet them bring me to your holy mountain\nand to your dwelling places!"
+    },
+    {
+     "v": 4,
+     "text": "Then I will go in to the altar of God,\nto God, my exceeding joy,\nand on the harp I will give you thanks,\nO God, my God."
+    },
+    {
+     "v": 5,
+     "text": "Why are you bowed down, O my soul,\nand why do you moan within me?\nHope in God, for I shall again praise him,\nthe salvation of my face and my God."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 44,
+   "title": "For the choir leader. Of the sons of Korah. A Maskil.",
+   "paras": [
+    1,
+    4,
+    9,
+    17,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "O God, we have heard with our ears;\nour fathers have recounted to us\nthe work you did in their days,\nin the days of old:"
+    },
+    {
+     "v": 2,
+     "text": "With your hand you dispossessed the nations\nand planted our fathers;\nyou brought harm on the peoples\nand sent our fathers spreading out.{a}"
+    },
+    {
+     "v": 3,
+     "text": "For it was not by their sword that they took the land in possession,\nand it was not their arm that gave them victory,\nbut your right hand, your arm,\nand the light of your face,\nfor you favored them."
+    },
+    {
+     "v": 4,
+     "text": "You are my King, O God;\ncommand victories{b} for Jacob!"
+    },
+    {
+     "v": 5,
+     "text": "Through you we push back our adversaries;\nthrough your name we trample those who rise up against us."
+    },
+    {
+     "v": 6,
+     "text": "For I will not rely on my bow,\nand my sword will not give me victory."
+    },
+    {
+     "v": 7,
+     "text": "But you have saved us from our adversaries\nand have put to shame those who hate us."
+    },
+    {
+     "v": 8,
+     "text": "In God we have boasted continually,\nand we will give thanks to your name forever.\nSelah"
+    },
+    {
+     "v": 9,
+     "text": "Yet you have spurned us and disgraced us\nand do not go out with our armies."
+    },
+    {
+     "v": 10,
+     "text": "You make us retreat before the adversary,\nand those who hate us plunder at will."
+    },
+    {
+     "v": 11,
+     "text": "You have handed us over like sheep for eating\nand have scattered us among the nations."
+    },
+    {
+     "v": 12,
+     "text": "You sell your people for a trifle,\nand you gain nothing by their price."
+    },
+    {
+     "v": 13,
+     "text": "You have made us the reproach of our neighbors,\nthe derision and mockery of those around us."
+    },
+    {
+     "v": 14,
+     "text": "You have made us a byword among the nations,\na shaking of the head among the peoples."
+    },
+    {
+     "v": 15,
+     "text": "My dishonor is before me every day,\nand the shame of my face has covered me,"
+    },
+    {
+     "v": 16,
+     "text": "because of the voice of the one who reproaches and blasphemes,\nbecause of the enemy who takes revenge."
+    },
+    {
+     "v": 17,
+     "text": "All this has befallen us,\nand still we have not forgotten you\nor dealt falsely with your covenant."
+    },
+    {
+     "v": 18,
+     "text": "Our heart has not turned back,\nnor have our steps strayed from your path,"
+    },
+    {
+     "v": 19,
+     "text": "that you should have crushed us in the haunt of jackals{c}\nand covered us over with deep darkness."
+    },
+    {
+     "v": 20,
+     "text": "If we had forgotten the name of our God\nor spread out our hands to a foreign god,"
+    },
+    {
+     "v": 21,
+     "text": "would not God search this out?\nFor he knows the secrets of the heart."
+    },
+    {
+     "v": 22,
+     "text": "But for your sake we are slain all the day long;\nwe are reckoned as sheep for slaughter.{d}"
+    },
+    {
+     "v": 23,
+     "text": "Wake up! Why do you sleep, Lord?\nRouse yourself! Do not cast us off forever!"
+    },
+    {
+     "v": 24,
+     "text": "Why is your face hidden?\nWhy have you forgotten our misery and our oppression?"
+    },
+    {
+     "v": 25,
+     "text": "For our soul is sunk down to the dust;\nour belly clings to the ground."
+    },
+    {
+     "v": 26,
+     "text": "Arise and help us!\nRedeem us because of your covenant love!"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "44:2",
+     "text": "Or “but them you set free.”"
+    },
+    {
+     "m": "b",
+     "ref": "44:4",
+     "text": "So the Hebrew; the Septuagint and Syriac have “You are my King and my God, who commands victories.”"
+    },
+    {
+     "m": "c",
+     "ref": "44:19",
+     "text": "So the Hebrew; some manuscripts read “sea monster.”"
+    },
+    {
+     "m": "d",
+     "ref": "44:22",
+     "text": "Quoted in Romans 8:36."
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "title": "For the choir leader: according to “Lilies.”{a} Of the sons of Korah. A Maskil. A song of love.{b}",
+   "paras": [
+    1,
+    2,
+    6,
+    10,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "My heart is stirred by a noble word;\nI speak what I have composed for the king;\nmy tongue is the pen of a nimble writer."
+    },
+    {
+     "v": 2,
+     "text": "You are the fairest of the sons of men;\ngrace is poured upon your lips;\ntherefore God has blessed you forever."
+    },
+    {
+     "v": 3,
+     "text": "Strap your sword upon your thigh, O mighty one,\nyour splendor and your majesty!"
+    },
+    {
+     "v": 4,
+     "text": "And in your majesty ride on to victory\nfor the cause of truth and meekness and righteousness;{c}\nlet your right hand teach you awesome deeds."
+    },
+    {
+     "v": 5,
+     "text": "Your arrows are sharp in the heart of the king’s enemies;\npeoples fall beneath you."
+    },
+    {
+     "v": 6,
+     "text": "Your throne, O God, endures forever and ever.{d}\nA scepter of equity is the scepter of your kingdom."
+    },
+    {
+     "v": 7,
+     "text": "You have loved righteousness and hated wickedness.\nTherefore God, your God, has anointed you\nwith the oil of gladness beyond your companions."
+    },
+    {
+     "v": 8,
+     "text": "Myrrh and aloes and cassia scent all your garments;\nout of ivory palaces strings make you glad."
+    },
+    {
+     "v": 9,
+     "text": "Daughters of kings are among your honored women;\nat your right hand stands the queen in gold of Ophir."
+    },
+    {
+     "v": 10,
+     "text": "Listen, daughter; consider and bend your ear:\nforget your own people and the house of your father,"
+    },
+    {
+     "v": 11,
+     "text": "so shall the king long for your beauty.\nHe is your lord; bow before him."
+    },
+    {
+     "v": 12,
+     "text": "The daughter of Tyre comes bearing a present;\nthe wealthy among the people entreat your favor."
+    },
+    {
+     "v": 13,
+     "text": "All glorious is the king’s daughter within the palace;{e}\nher gown is interwoven with gold."
+    },
+    {
+     "v": 14,
+     "text": "In robes of many colors she is brought to the king;\nthe maidens who follow her, her companions,\nare brought in to you."
+    },
+    {
+     "v": 15,
+     "text": "With gladness and rejoicing they are led along;\nthey enter the palace of the king."
+    },
+    {
+     "v": 16,
+     "text": "Your sons shall take the place of your fathers;\nyou shall make them rulers over all the land."
+    },
+    {
+     "v": 17,
+     "text": "I will cause your name to be remembered in all generations;\ntherefore peoples will praise you forever and ever."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "45 title",
+     "text": "Hebrew shoshannim, probably the name of a tune (also in the titles of Psalms 60, 69, and 80)."
+    },
+    {
+     "m": "b",
+     "ref": "45 title",
+     "text": "A song for a royal wedding, addressed to the king (verses 2–9) and to his bride (verses 10–15)."
+    },
+    {
+     "m": "c",
+     "ref": "45:4",
+     "text": "The Hebrew is unusual; perhaps “for truth and humble righteousness.”"
+    },
+    {
+     "m": "d",
+     "ref": "45:6",
+     "text": "So the Hebrew, the Septuagint, and other ancient versions, which address the king as “God” (’elohim). Hebrews 1:8–9 quotes verses 6–7 in this form of the Son. Other proposed renderings are “Your throne is God’s, forever and ever,” “Your divine throne endures forever,” or “Your throne is like God’s throne,” but the direct address is the most natural reading of the Hebrew."
+    },
+    {
+     "m": "e",
+     "ref": "45:13",
+     "text": "Hebrew “within.”"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "title": "For the choir leader. Of the sons of Korah. According to Alamoth.{a} A song.",
+   "paras": [
+    1,
+    4,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "God is our refuge and strength,\na help in troubles, readily found."
+    },
+    {
+     "v": 2,
+     "text": "Therefore we will not fear though the earth be changed,\nthough the mountains slip into the heart of the seas,"
+    },
+    {
+     "v": 3,
+     "text": "though its waters roar and churn,\nthough the mountains shake with its surging.\nSelah"
+    },
+    {
+     "v": 4,
+     "text": "There is a river whose streams gladden the city of God,\nthe holy dwelling place of the Most High."
+    },
+    {
+     "v": 5,
+     "text": "God is in her midst; she shall not be moved;\nGod will help her at the turning of the morning."
+    },
+    {
+     "v": 6,
+     "text": "Nations raged; kingdoms tottered;\nhe gave forth his voice; the earth melted."
+    },
+    {
+     "v": 7,
+     "text": "Yahweh of Armies is with us;\nthe God of Jacob is our high fortress.\nSelah"
+    },
+    {
+     "v": 8,
+     "text": "Come, see the works of Yahweh,\nhow he has brought desolations on the earth."
+    },
+    {
+     "v": 9,
+     "text": "He makes wars cease to the end of the earth;\nhe breaks the bow and snaps the spear;\nhe burns the chariots{b} with fire."
+    },
+    {
+     "v": 10,
+     "text": "“Be still, and know that I am God.\nI will be exalted among the nations;\nI will be exalted in the earth!”"
+    },
+    {
+     "v": 11,
+     "text": "Yahweh of Armies is with us;\nthe God of Jacob is our high fortress.\nSelah"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "46 title",
+     "text": "Hebrew ‘alamot, perhaps “young women,” that is, for soprano voices (compare 1 Chronicles 15:20)."
+    },
+    {
+     "m": "b",
+     "ref": "46:9",
+     "text": "So the Hebrew; the Septuagint has “shields.”"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "title": "For the choir leader. Of the sons of Korah. A psalm.",
+   "paras": [
+    1,
+    5
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Clap your hands, all you peoples!\nShout to God with a ringing cry!"
+    },
+    {
+     "v": 2,
+     "text": "For Yahweh, the Most High, is fearsome,\na great King over the whole earth."
+    },
+    {
+     "v": 3,
+     "text": "He subdues peoples under us,\nand nations under our feet."
+    },
+    {
+     "v": 4,
+     "text": "He selects our inheritance for us,\nthe pride of Jacob, his beloved.\nSelah"
+    },
+    {
+     "v": 5,
+     "text": "God has gone up with a shout,\nYahweh with the blast of a trumpet.{a}"
+    },
+    {
+     "v": 6,
+     "text": "Sing praises to God, sing praises!\nSing praises to our King, sing praises!"
+    },
+    {
+     "v": 7,
+     "text": "For God is the King of all the earth;\nsing praises with a skillful psalm!{b}"
+    },
+    {
+     "v": 8,
+     "text": "God reigns over the nations;\nGod sits on his holy throne."
+    },
+    {
+     "v": 9,
+     "text": "The nobles of the peoples are gathered\nas the people of the God of Abraham;\nfor the shields{c} of the earth belong to God;\nhe is highly exalted."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "47:5",
+     "text": "Hebrew shofar, a ram’s horn."
+    },
+    {
+     "m": "b",
+     "ref": "47:7",
+     "text": "Hebrew maskil; see the note on Psalm 32 title."
+    },
+    {
+     "m": "c",
+     "ref": "47:9",
+     "text": "That is, the rulers."
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "title": "A song. A psalm of the sons of Korah.",
+   "paras": [
+    1,
+    4,
+    9,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Great is Yahweh and greatly to be praised\nin the city of our God, his holy mountain."
+    },
+    {
+     "v": 2,
+     "text": "Beautiful in elevation, the joy of all the earth,\nis Mount Zion, in the far reaches of the north,{a}\nthe city of the great King."
+    },
+    {
+     "v": 3,
+     "text": "God, in her strongholds,\nhas shown himself a sure defense."
+    },
+    {
+     "v": 4,
+     "text": "For behold, the kings assembled;\nthey came on together."
+    },
+    {
+     "v": 5,
+     "text": "They saw, and so they were astounded;\nthey were terrified; they hurried away."
+    },
+    {
+     "v": 6,
+     "text": "Trembling seized them there,\nanguish like that of a woman in labor,"
+    },
+    {
+     "v": 7,
+     "text": "as when the east wind\nshatters the ships of Tarshish."
+    },
+    {
+     "v": 8,
+     "text": "As we have heard, so have we seen\nin the city of Yahweh of Armies,\nin the city of our God,\nwhich God will establish forever.\nSelah"
+    },
+    {
+     "v": 9,
+     "text": "We have pondered your covenant love, O God,\nin the midst of your temple."
+    },
+    {
+     "v": 10,
+     "text": "Like your name, O God,\nyour praise extends to the ends of the earth;\nrighteousness fills your right hand."
+    },
+    {
+     "v": 11,
+     "text": "Let Mount Zion be glad!\nLet the daughters of Judah rejoice\nbecause of your judgments!"
+    },
+    {
+     "v": 12,
+     "text": "Walk about Zion; go all around her;\ncount her towers;"
+    },
+    {
+     "v": 13,
+     "text": "mark well her ramparts;\npass through her citadels,\nthat you may tell it to the generation to come,"
+    },
+    {
+     "v": 14,
+     "text": "that this is God,\nour God forever and ever.\nHe will guide us beyond death.{b}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "48:2",
+     "text": "Hebrew tsaphon, “north,” also the name of the sacred mountain of Canaanite myth (Mount Zaphon); the psalm claims for Zion the honor others gave to Zaphon."
+    },
+    {
+     "m": "b",
+     "ref": "48:14",
+     "text": "Hebrew ‘al-mut, “over death” or “to death.” The Septuagint and some Hebrew manuscripts read ‘olamot, “forever.” The phrase may also be a musical direction belonging with the title of the next psalm (compare Psalm 9 title)."
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "title": "For the choir leader. Of the sons of Korah. A psalm.",
+   "paras": [
+    1,
+    5,
+    10,
+    13,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear this, all you peoples!\nGive ear, all inhabitants of the world,"
+    },
+    {
+     "v": 2,
+     "text": "both low and high,{a}\nrich and poor together!"
+    },
+    {
+     "v": 3,
+     "text": "My mouth shall speak wisdom;\nthe meditation of my heart shall be understanding."
+    },
+    {
+     "v": 4,
+     "text": "I will turn my ear to a proverb;\nI will open my riddle with the lyre."
+    },
+    {
+     "v": 5,
+     "text": "Why should I fear in days of evil,\nwhen the iniquity of those who would trip me surrounds me,{b}"
+    },
+    {
+     "v": 6,
+     "text": "men who rely on their possessions\nand glory in the greatness of their riches?"
+    },
+    {
+     "v": 7,
+     "text": "None of them can by any means redeem his brother,{c}\nnor give God a ransom for him,"
+    },
+    {
+     "v": 8,
+     "text": "for the ransom of their soul is costly,\nand it fails forever,"
+    },
+    {
+     "v": 9,
+     "text": "that he should go on living forever\nand not see corruption."
+    },
+    {
+     "v": 10,
+     "text": "For he sees that even the wise die;\nthe fool and the brute alike perish\nand leave their wealth to others."
+    },
+    {
+     "v": 11,
+     "text": "Their tombs{d} are their houses forever,\ntheir dwellings from generation to generation;\nthey call their lands by their own names."
+    },
+    {
+     "v": 12,
+     "text": "Man in his splendor does not remain;\nhe is like the beasts that perish."
+    },
+    {
+     "v": 13,
+     "text": "This is the way of those who are foolish in their confidence,\nand of those after them who approve their sayings.\nSelah"
+    },
+    {
+     "v": 14,
+     "text": "Like sheep they are appointed for Sheol;\ndeath shall shepherd them,\nand the upright shall rule over them in the morning.\nTheir form shall waste away in Sheol,\nfar from any lofty dwelling.{e}"
+    },
+    {
+     "v": 15,
+     "text": "But God will ransom my soul\nfrom the grasp of Sheol,\nfor he will receive me.\nSelah"
+    },
+    {
+     "v": 16,
+     "text": "Do not be afraid when a man grows rich,\nwhen the glory of his house increases."
+    },
+    {
+     "v": 17,
+     "text": "For when he dies he will carry nothing away;\nhis glory will not go down after him."
+    },
+    {
+     "v": 18,
+     "text": "Though while he lived he blessed his soul—\nand men praise you when you do well for yourself—"
+    },
+    {
+     "v": 19,
+     "text": "he shall go to the company of his fathers;\nthey shall never see the light."
+    },
+    {
+     "v": 20,
+     "text": "Man in his splendor, yet without understanding,\nis like the beasts that perish."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "49:2",
+     "text": "Hebrew “both sons of man and sons of a man.”"
+    },
+    {
+     "m": "b",
+     "ref": "49:5",
+     "text": "Hebrew “the iniquity of my heels.”"
+    },
+    {
+     "m": "c",
+     "ref": "49:7",
+     "text": "Or “Truly no one can ransom a brother.” Some Hebrew manuscripts read “Surely a man cannot ransom himself.”"
+    },
+    {
+     "m": "d",
+     "ref": "49:11",
+     "text": "So the Septuagint and Syriac; the Hebrew has “their inward thought.”"
+    },
+    {
+     "m": "e",
+     "ref": "49:14",
+     "text": "The second half of this verse is very difficult in Hebrew."
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "title": "A psalm of Asaph.{a}",
+   "paras": [
+    1,
+    3,
+    7,
+    16,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Mighty One, God, Yahweh,{b} speaks\nand summons the earth\nfrom the rising of the sun to its setting."
+    },
+    {
+     "v": 2,
+     "text": "Out of Zion, the perfection of beauty,\nGod shines forth."
+    },
+    {
+     "v": 3,
+     "text": "Our God comes and will not stay silent;\nfire devours before him,\nand round about him the storm rages."
+    },
+    {
+     "v": 4,
+     "text": "He calls to the heavens above\nand to the earth, to judge his people:"
+    },
+    {
+     "v": 5,
+     "text": "“Assemble to me my godly ones,\nthose who sealed a covenant with me by sacrifice!”"
+    },
+    {
+     "v": 6,
+     "text": "The heavens declare his righteousness,\nfor God himself is judge!\nSelah"
+    },
+    {
+     "v": 7,
+     "text": "“Hear, O my people, and I will speak;\nO Israel, I will testify against you.\nI am God, your God."
+    },
+    {
+     "v": 8,
+     "text": "I do not reprove you for your sacrifices,\nnor for your burnt offerings, ever before me."
+    },
+    {
+     "v": 9,
+     "text": "I will not take a bull from your house\nor he-goats from your folds."
+    },
+    {
+     "v": 10,
+     "text": "For every creature of the woods belongs to me,\nand the beasts on a thousand hills."
+    },
+    {
+     "v": 11,
+     "text": "I know every bird of the mountains,\nand all that moves in the field is mine."
+    },
+    {
+     "v": 12,
+     "text": "If I were hungry, I would not tell you,\nfor the world and its fullness are mine."
+    },
+    {
+     "v": 13,
+     "text": "Do I eat the flesh of bulls\nor drink the blood of goats?"
+    },
+    {
+     "v": 14,
+     "text": "Offer to God a sacrifice of thanksgiving,\nand pay your vows to the Most High,"
+    },
+    {
+     "v": 15,
+     "text": "and call upon me in the day of trouble;\nI will rescue you, and you shall glorify me.”"
+    },
+    {
+     "v": 16,
+     "text": "But to the wicked man God says:\n“What business have you reciting my statutes\nor taking my covenant into your mouth?"
+    },
+    {
+     "v": 17,
+     "text": "For you loathe instruction\nand fling my words behind your back."
+    },
+    {
+     "v": 18,
+     "text": "When you see a thief, you go along with him,\nand with adulterers you take your share."
+    },
+    {
+     "v": 19,
+     "text": "Your mouth you let loose for evil,\nand your tongue weaves deceit."
+    },
+    {
+     "v": 20,
+     "text": "You sit and speak against your brother;\nyou slander your own mother’s son."
+    },
+    {
+     "v": 21,
+     "text": "These things you did, and I held my peace;\nyou imagined I was altogether such a one as you.\nBut I will reprove you and set it all in order before your eyes."
+    },
+    {
+     "v": 22,
+     "text": "“Consider this, you who forget God,\nlest I tear you apart, and there be none to deliver!"
+    },
+    {
+     "v": 23,
+     "text": "He who brings thanksgiving as his offering gives me glory;\nand to him who keeps to the right way\nI will show the salvation of God!”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "50 title",
+     "text": "Asaph was a Levite whom David appointed over the temple singers (1 Chronicles 15:17; 16:5; 25:1), and the name came to be borne by a guild of singers descended from him (Ezra 2:41). Psalms 50 and 73–83 bear his name."
+    },
+    {
+     "m": "b",
+     "ref": "50:1",
+     "text": "Hebrew ’el ’elohim YHWH, three names of God set side by side, as in Joshua 22:22."
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "title": "For the choir leader. A psalm of David, when Nathan the prophet came to him after he had gone in to Bathsheba.{a}",
+   "paras": [
+    1,
+    10,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Be gracious to me, O God, according to your covenant love;\naccording to the greatness of your compassion\nwipe away my transgressions."
+    },
+    {
+     "v": 2,
+     "text": "Wash me thoroughly from my iniquity\nand make me clean from my sin!"
+    },
+    {
+     "v": 3,
+     "text": "For I know my transgressions,\nand my sin is before me at all times."
+    },
+    {
+     "v": 4,
+     "text": "Against you, you alone, have I sinned\nand done this evil in your eyes,\nso that you are just when you speak\nand blameless when you judge.{b}"
+    },
+    {
+     "v": 5,
+     "text": "Behold, in iniquity I was brought forth,\nand in sin my mother conceived me."
+    },
+    {
+     "v": 6,
+     "text": "Behold, you take pleasure in truth in the inner being,\nand in the secret place you teach me wisdom."
+    },
+    {
+     "v": 7,
+     "text": "Cleanse me with hyssop,{c} and I shall be clean;\nwash me, and I shall be whiter than snow."
+    },
+    {
+     "v": 8,
+     "text": "Let me hear gladness and joy;\nlet the bones you have crushed rejoice."
+    },
+    {
+     "v": 9,
+     "text": "Turn your face away from my sins,\nand wipe out all my iniquities."
+    },
+    {
+     "v": 10,
+     "text": "Create a clean heart in me, O God,\nand make a steadfast spirit new within me."
+    },
+    {
+     "v": 11,
+     "text": "Do not thrust me from your presence,\nand do not remove your Holy Spirit from me."
+    },
+    {
+     "v": 12,
+     "text": "Return to me the joy of your salvation,\nand hold me up with a willing spirit."
+    },
+    {
+     "v": 13,
+     "text": "Then I will teach transgressors your ways,\nand sinners will turn back to you."
+    },
+    {
+     "v": 14,
+     "text": "Rescue me from bloodguilt, O God,\nO God of my salvation,\nand my tongue will sing for joy of your righteousness."
+    },
+    {
+     "v": 15,
+     "text": "Lord, open my lips,\nand my mouth will declare your praise."
+    },
+    {
+     "v": 16,
+     "text": "For you do not delight in sacrifice, or I would give it;\nyou are not pleased with burnt offering."
+    },
+    {
+     "v": 17,
+     "text": "The sacrifices of God are a broken spirit;\na broken and crushed heart, O God, you will not despise."
+    },
+    {
+     "v": 18,
+     "text": "In your good pleasure do good to Zion;\nbuild up the walls of Jerusalem."
+    },
+    {
+     "v": 19,
+     "text": "Then you will delight in right sacrifices,\nin burnt offering and whole offering;\nthen bulls will be offered on your altar."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "51 title",
+     "text": "See 2 Samuel 11–12. In Hebrew the title is counted as verses 1–2, so Hebrew verse numbers in this psalm are two higher than the English."
+    },
+    {
+     "m": "b",
+     "ref": "51:4",
+     "text": "Quoted from the Septuagint in Romans 3:4, “that you may be justified in your words and prevail when you are judged.”"
+    },
+    {
+     "m": "c",
+     "ref": "51:7",
+     "text": "Hyssop, a small bushy plant, was used to sprinkle water and blood in rites of cleansing (Exodus 12:22; Leviticus 14:4–7; Numbers 19:18)."
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "title": "For the choir leader. A Maskil of David, when Doeg the Edomite came and told Saul, “David has come to the house of Ahimelech.”{a}",
+   "paras": [
+    1,
+    5,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Why do you glory in evil, O mighty man?\nThe covenant love of God endures all the day.{b}"
+    },
+    {
+     "v": 2,
+     "text": "Your tongue plots destruction,\nlike a sharpened razor, you worker of deceit."
+    },
+    {
+     "v": 3,
+     "text": "You love evil more than good,\nlying more than speaking what is right.\nSelah"
+    },
+    {
+     "v": 4,
+     "text": "You love all words that devour,\nO tongue of deceit."
+    },
+    {
+     "v": 5,
+     "text": "God will likewise break you down forever;\nhe will snatch you and tear you from your tent\nand root you out of the land of the living.\nSelah"
+    },
+    {
+     "v": 6,
+     "text": "The righteous shall see it and fear,\nand they shall laugh at him, saying,"
+    },
+    {
+     "v": 7,
+     "text": "“See, here is the man who would not make God his stronghold,\nbut trusted in his great riches\nand grew strong in his destruction!”{c}"
+    },
+    {
+     "v": 8,
+     "text": "But as for me, I am like a flourishing olive tree in the house of God;\nI trust in the covenant love of God forever and ever."
+    },
+    {
+     "v": 9,
+     "text": "I will give you thanks forever for what you have done;\nI will wait on your name, for it is good,\nin the presence of your faithful ones."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "52 title",
+     "text": "See 1 Samuel 21:1–9; 22:9–19. In Hebrew the title is counted as verses 1–2."
+    },
+    {
+     "m": "b",
+     "ref": "52:1",
+     "text": "Hebrew “the khesed of God is all the day.” The Syriac has “against the godly.”"
+    },
+    {
+     "m": "c",
+     "ref": "52:7",
+     "text": "Or “in his desire,” with the Syriac and Targum."
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "title": "For the choir leader: according to Mahalath.{a} A Maskil of David.",
+   "paras": [
+    1,
+    4
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The fool has said in his heart, “There is no God.”\nThey are corrupt; they commit abominable injustice;\nthere is no one who does good."
+    },
+    {
+     "v": 2,
+     "text": "God looks down from heaven\nupon the children of man,\nto see if there is any who understands,\nwho seeks after God."
+    },
+    {
+     "v": 3,
+     "text": "Every one of them has turned back; together they have become rotten;\nthere is none who does good,\nnot even one."
+    },
+    {
+     "v": 4,
+     "text": "Have they no knowledge, those workers of iniquity,\nwho devour my people as they devour bread,\nand do not call upon God?"
+    },
+    {
+     "v": 5,
+     "text": "There they were in great terror,\nwhere there was nothing to fear!{b}\nFor God scatters the bones of him who camps against you;\nyou have put them to shame, for God has rejected them."
+    },
+    {
+     "v": 6,
+     "text": "Oh, that the salvation of Israel would come out of Zion!\nWhen God restores the fortunes of his people,{c}\nJacob shall rejoice, Israel shall be glad."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "53 title",
+     "text": "Hebrew mahalat, a word of uncertain meaning, perhaps the name of a tune or a term meaning “sickness” or “sorrow” (also in Psalm 88). This psalm is nearly identical to Psalm 14, but uses “God” (Elohim) where Psalm 14 has “Yahweh,” and verse 5 differs."
+    },
+    {
+     "m": "b",
+     "ref": "53:5",
+     "text": "Compare Psalm 14:5–6, which reads differently."
+    },
+    {
+     "m": "c",
+     "ref": "53:6",
+     "text": "Or “brings back the captivity of his people,” as in Psalm 14:7."
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "title": "For the choir leader: with stringed instruments.{a} A Maskil of David, when the men of Ziph came and told Saul, “David is hiding with us, is he not?”",
+   "paras": [
+    1,
+    4
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "O God, by your name save me,\nand by your power defend my cause."
+    },
+    {
+     "v": 2,
+     "text": "O God, hear my prayer;\ngive ear to the words of my mouth."
+    },
+    {
+     "v": 3,
+     "text": "For strangers{b} have stood up against me,\nand violent men hunt for my life;\nthey have not set God in front of them.\nSelah"
+    },
+    {
+     "v": 4,
+     "text": "Behold, God is my helper;\nthe Lord is the upholder of my life.{c}"
+    },
+    {
+     "v": 5,
+     "text": "He will turn back the evil on my enemies;{d}\nby your truth make an end of them."
+    },
+    {
+     "v": 6,
+     "text": "With a freewill offering I will sacrifice to you;\nI will give thanks to your name, Yahweh, for it is good."
+    },
+    {
+     "v": 7,
+     "text": "For he has delivered me out of all distress,\nand my eye has gazed upon my enemies."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "54 title",
+     "text": "Hebrew neginot. See 1 Samuel 23:19; 26:1. In Hebrew the title is counted as verses 1–2."
+    },
+    {
+     "m": "b",
+     "ref": "54:3",
+     "text": "Some Hebrew manuscripts and the Targum have “arrogant men,” as in Psalm 86:14."
+    },
+    {
+     "m": "c",
+     "ref": "54:4",
+     "text": "Or “the Lord is among those who uphold my life.”"
+    },
+    {
+     "m": "d",
+     "ref": "54:5",
+     "text": "So the qere; the ketiv has “The evil will return to my enemies.”"
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "title": "For the choir leader: with stringed instruments. A Maskil of David.",
+   "paras": [
+    1,
+    4,
+    9,
+    12,
+    16,
+    20,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Listen to my prayer, O God,\nand do not hide yourself from my plea!"
+    },
+    {
+     "v": 2,
+     "text": "Attend to me and answer me;\nI am restless in my complaint, and I moan,"
+    },
+    {
+     "v": 3,
+     "text": "because of the voice of the enemy,\nbecause of the pressure of the wicked;\nfor they bring down trouble upon me,\nand in anger they bear a grudge against me."
+    },
+    {
+     "v": 4,
+     "text": "My heart writhes within me;\nthe terrors of death have fallen upon me."
+    },
+    {
+     "v": 5,
+     "text": "Fear and trembling come into me,\nand horror has wrapped me round."
+    },
+    {
+     "v": 6,
+     "text": "And I said, “Oh, that I had wings like a dove!\nI would fly off and find rest."
+    },
+    {
+     "v": 7,
+     "text": "Yes, I would wander far off\nand stay in the desert.\nSelah"
+    },
+    {
+     "v": 8,
+     "text": "I would make haste to my place of escape\nfrom the raging wind and tempest.”"
+    },
+    {
+     "v": 9,
+     "text": "Swallow them up, Lord; split their speech;{a}\nfor I have seen violence and quarreling in the city."
+    },
+    {
+     "v": 10,
+     "text": "Day and night they make the rounds on its walls,\nand wickedness and trouble are in its midst;"
+    },
+    {
+     "v": 11,
+     "text": "ruin is within it;\noppression and fraud never leave its marketplace."
+    },
+    {
+     "v": 12,
+     "text": "For it was not an enemy who reproached me;\nthat I could endure;\nit was not one who hated me who lifted himself against me;\nfrom him I could have hidden."
+    },
+    {
+     "v": 13,
+     "text": "But it was you, a man of my own rank,\nmy close friend, whom I knew well."
+    },
+    {
+     "v": 14,
+     "text": "We used to share sweet counsel together;\nwe walked with the throng in the house of God."
+    },
+    {
+     "v": 15,
+     "text": "Let death come upon them by surprise;\nlet them go down alive to Sheol!{b}\nFor evil is in their dwelling, in their very midst."
+    },
+    {
+     "v": 16,
+     "text": "But I call to God,\nand Yahweh will save me."
+    },
+    {
+     "v": 17,
+     "text": "Evening and morning and noon\nI complain and groan,\nand he hears my voice."
+    },
+    {
+     "v": 18,
+     "text": "He has ransomed my soul in peace\nfrom the war against me,\nfor many are against me."
+    },
+    {
+     "v": 19,
+     "text": "God will hear and answer them,\nhe who sits enthroned of old,\nSelah\nthose who have no changes\nand who have no fear of God."
+    },
+    {
+     "v": 20,
+     "text": "That man{c} put forth his hands against those at peace with him;\nhe broke his covenant."
+    },
+    {
+     "v": 21,
+     "text": "His speech was smoother than butter,\nyet war was in his heart;\nhis words were softer than oil,\nyet they were drawn swords."
+    },
+    {
+     "v": 22,
+     "text": "Throw your burden{d} on Yahweh, and he will sustain you;\nhe will never let the righteous be shaken."
+    },
+    {
+     "v": 23,
+     "text": "But you, O God, will bring them down\ninto the pit of destruction;\nmen of blood and deceit\nshall not live out half their days.\nBut I will trust in you."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "55:9",
+     "text": "Compare Genesis 11:1–9."
+    },
+    {
+     "m": "b",
+     "ref": "55:15",
+     "text": "Compare Numbers 16:30–33. “Let death come upon them by surprise” follows the qere; the ketiv has “Desolations be upon them.”"
+    },
+    {
+     "m": "c",
+     "ref": "55:20",
+     "text": "Hebrew “He.”"
+    },
+    {
+     "m": "d",
+     "ref": "55:22",
+     "text": "Or “what he has given you.” Compare 1 Peter 5:7."
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "title": "For the choir leader: according to “The Silent Dove of Distant Places.”{a} A Miktam{b} of David, when the Philistines laid hold of him at Gath.",
+   "paras": [
+    1,
+    5,
+    8,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Have mercy on me, O God, for man would swallow me up;\nthe fighter presses me all the day."
+    },
+    {
+     "v": 2,
+     "text": "My watchful foes would swallow me up all day long,\nfor many are those who war against me proudly.{c}"
+    },
+    {
+     "v": 3,
+     "text": "On the day I am afraid,\nI put my trust in you."
+    },
+    {
+     "v": 4,
+     "text": "In God I praise his word;\nin God I have put my trust; I will not be afraid.\nWhat can flesh do to me?"
+    },
+    {
+     "v": 5,
+     "text": "All day long they twist my words;\nall their plans are against me for evil."
+    },
+    {
+     "v": 6,
+     "text": "They band together; they lie in ambush;\nthey watch my heels,\nas they have waited for my life."
+    },
+    {
+     "v": 7,
+     "text": "Because of their iniquity, cast them out;{d}\nin anger bring down the peoples, O God!"
+    },
+    {
+     "v": 8,
+     "text": "You have tallied my wanderings;\nplace my tears in your flask.\nAre they not recorded in your book?"
+    },
+    {
+     "v": 9,
+     "text": "Then shall my enemies be turned back\non the day I call;\nthis I know: God is on my side."
+    },
+    {
+     "v": 10,
+     "text": "In God, whose word I praise,\nin Yahweh, whose word I praise,"
+    },
+    {
+     "v": 11,
+     "text": "in God I trust; I will not fear.\nWhat can man do to me?"
+    },
+    {
+     "v": 12,
+     "text": "Your vows are upon me, O God;\nI will render thank offerings to you."
+    },
+    {
+     "v": 13,
+     "text": "For you have delivered my soul from death,\nyes, my feet from stumbling,\nthat I may walk before God\nin the light of the living."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "56 title",
+     "text": "Hebrew yonat ’elem rehoqim, probably the name of a tune. See 1 Samuel 21:10–15."
+    },
+    {
+     "m": "b",
+     "ref": "56 title",
+     "text": "Hebrew miktam, a term of uncertain meaning (also in the titles of Psalms 16 and 57–60)."
+    },
+    {
+     "m": "c",
+     "ref": "56:2",
+     "text": "Or “O Most High.”"
+    },
+    {
+     "m": "d",
+     "ref": "56:7",
+     "text": "Hebrew “For iniquity, deliverance for them?” The text is difficult."
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "title": "For the choir leader: “Do Not Destroy.”{a} A Miktam of David, when he fled from Saul, in the cave.",
+   "paras": [
+    1,
+    4,
+    7
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Be gracious to me, O God, be gracious to me,\nfor in you my soul takes refuge;\nin the shadow of your wings I will take refuge\nuntil the storms of destruction pass by."
+    },
+    {
+     "v": 2,
+     "text": "I cry out to God Most High,\nto God who brings about his purpose for me."
+    },
+    {
+     "v": 3,
+     "text": "He will send from heaven and save me;\nhe will shame the one who tramples on me.\nSelah\nGod will send out his covenant love and his faithfulness!"
+    },
+    {
+     "v": 4,
+     "text": "My soul is in the midst of lions;\nI lie down among those who breathe fire,\nthe children of man, whose teeth are spears and arrows,\nwhose tongues are sharp swords."
+    },
+    {
+     "v": 5,
+     "text": "Be exalted, O God, above the heavens!\nLet your glory be over all the earth!"
+    },
+    {
+     "v": 6,
+     "text": "They spread a net for my feet;\nmy soul was bent low;\nthey dug a pit before me,\nand into the middle of it they themselves have fallen.\nSelah"
+    },
+    {
+     "v": 7,
+     "text": "My heart is firm, O God, my heart is firm!\nI will sing and make music!"
+    },
+    {
+     "v": 8,
+     "text": "Wake up, my glory!{b}\nWake up, lute and harp!\nI will rouse the dawn!"
+    },
+    {
+     "v": 9,
+     "text": "I will give thanks to you, Lord, among the peoples;\nI will sing your praise among the nations."
+    },
+    {
+     "v": 10,
+     "text": "For your covenant love is great, reaching to the heavens,\nand your faithfulness to the clouds."
+    },
+    {
+     "v": 11,
+     "text": "Be exalted, O God, above the heavens!\nLet your glory be over all the earth!"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "57 title",
+     "text": "Hebrew ’al-tashhet, probably the name of a tune (also in the titles of Psalms 58, 59, and 75). See 1 Samuel 22:1; 24:3. Verses 7–11 appear again as Psalm 108:1–5."
+    },
+    {
+     "m": "b",
+     "ref": "57:8",
+     "text": "That is, my soul, or my whole being."
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "title": "For the choir leader: “Do Not Destroy.” A Miktam of David.",
+   "paras": [
+    1,
+    3,
+    6,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Do you indeed speak righteousness, you gods?{a}\nDo you judge uprightly the sons of men?"
+    },
+    {
+     "v": 2,
+     "text": "No, in your hearts you devise wrongs;\non the earth your hands deal out violence."
+    },
+    {
+     "v": 3,
+     "text": "The wicked go astray from the womb;\nliars, they wander off from birth."
+    },
+    {
+     "v": 4,
+     "text": "Their poison is like a snake’s poison,\nlike a deaf adder that stops up its ear,"
+    },
+    {
+     "v": 5,
+     "text": "so that it does not hear the voice of the charmers,\nof the cunning enchanter."
+    },
+    {
+     "v": 6,
+     "text": "O God, shatter their teeth in their mouth;\nbreak out the jaw teeth of the young lions, Yahweh!"
+    },
+    {
+     "v": 7,
+     "text": "Let them flow away like waters that run off;\nwhen he bends his bow, let his arrows be blunted.{b}"
+    },
+    {
+     "v": 8,
+     "text": "Let them be like the snail that melts away as it goes,\nlike a stillborn child that never sees the sun."
+    },
+    {
+     "v": 9,
+     "text": "Before your pots can feel the heat of the thorns,\nwhether green or burning, may he sweep them away!{c}"
+    },
+    {
+     "v": 10,
+     "text": "The righteous will rejoice when he sees vengeance;\nhe will bathe his feet in the blood of the wicked."
+    },
+    {
+     "v": 11,
+     "text": "And mankind will say, “Surely there is a reward for the righteous;\nsurely there is a God who judges on earth.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "58:1",
+     "text": "Hebrew ’elem, “silence,” probably to be read ’elim, “gods,” that is, rulers or heavenly beings who are set over the nations (compare Psalm 82)."
+    },
+    {
+     "m": "b",
+     "ref": "58:7",
+     "text": "The meaning of the Hebrew is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "58:9",
+     "text": "The meaning of the Hebrew is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "title": "For the choir leader: “Do Not Destroy.” A Miktam of David, when Saul sent and they guarded the house to put him to death.{a}",
+   "paras": [
+    1,
+    6,
+    11,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Rescue me from my enemies, O my God;\nset me high above those who rise against me;"
+    },
+    {
+     "v": 2,
+     "text": "rescue me from those who work iniquity,\nand save me from men of blood."
+    },
+    {
+     "v": 3,
+     "text": "For behold, they lie in wait for my life;\nfierce men band together against me,\nnot for my transgression nor for my sin, Yahweh,"
+    },
+    {
+     "v": 4,
+     "text": "for no guilt of mine they run and make ready.\nRouse yourself to meet me, and see!"
+    },
+    {
+     "v": 5,
+     "text": "You, Yahweh, God of Armies, God of Israel,\narise to visit all the nations;\nshow no mercy to any wicked traitors.\nSelah"
+    },
+    {
+     "v": 6,
+     "text": "They come back at nightfall;\nthey snarl like a dog\nand go all around the city."
+    },
+    {
+     "v": 7,
+     "text": "Look, they spew out with their mouths,\nwith swords in their lips—\n“for who,” they say, “will hear us?”"
+    },
+    {
+     "v": 8,
+     "text": "But you, Yahweh, will laugh at them;\nyou will mock all the nations."
+    },
+    {
+     "v": 9,
+     "text": "O my Strength, I will keep watch for you,{b}\nfor God is my high tower."
+    },
+    {
+     "v": 10,
+     "text": "My God in his covenant love will meet me;{c}\nGod will let me look in triumph on my enemies."
+    },
+    {
+     "v": 11,
+     "text": "Do not kill them, or my people may forget;\nmake them wander by your power and bring them down,\nO Lord, our shield!"
+    },
+    {
+     "v": 12,
+     "text": "For the sin of their mouth, the word of their lips,\nmay they be trapped in their pride,\nand for the curses and falsehood they tell."
+    },
+    {
+     "v": 13,
+     "text": "Finish them off in wrath; finish them, so they are gone,\nand let them know to the ends of the earth\nthat God is ruler in Jacob.\nSelah"
+    },
+    {
+     "v": 14,
+     "text": "They come back at nightfall;\nthey snarl like a dog\nand go all around the city."
+    },
+    {
+     "v": 15,
+     "text": "They wander up and down for food,\nand if they are not filled, they stay all night.{d}"
+    },
+    {
+     "v": 16,
+     "text": "But I will sing of your strength;\nI will sing aloud of your covenant love in the morning.\nFor you have been a fortress to me\nand a refuge in the day of my distress."
+    },
+    {
+     "v": 17,
+     "text": "O my Strength, to you I will make music,\nfor God is my high tower,\nthe God who shows me covenant love."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "59 title",
+     "text": "See 1 Samuel 19:11–17."
+    },
+    {
+     "m": "b",
+     "ref": "59:9",
+     "text": "So some Hebrew manuscripts, the Septuagint, and the Targum (compare verse 17); most Hebrew manuscripts have “his strength.”"
+    },
+    {
+     "m": "c",
+     "ref": "59:10",
+     "text": "So the qere; the ketiv has “The God of my covenant love.”"
+    },
+    {
+     "m": "d",
+     "ref": "59:15",
+     "text": "So the Hebrew; the Septuagint and Vulgate read “and grumble.”"
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "title": "For the choir leader: set to “Lily of the Testimony.”{a} A Miktam of David, to be taught, when he made war with Aram-naharaim and Aram-zobah, and Joab came back and slew 12,000 of Edom in the Valley of Salt.{b}",
+   "paras": [
+    1,
+    5,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "O God, you have rejected us and broken through our defenses;{c}\nyou have been angry. Restore us again!"
+    },
+    {
+     "v": 2,
+     "text": "You have made the land quake; you have split it open;\nmend its cracks, for it totters."
+    },
+    {
+     "v": 3,
+     "text": "You have shown your people harsh things;\nyou have made us drink a wine of reeling."
+    },
+    {
+     "v": 4,
+     "text": "You have given a banner to those who fear you,\nto be raised up because of the truth.{d}\nSelah"
+    },
+    {
+     "v": 5,
+     "text": "That your beloved ones may be delivered,\nsave with your right hand and answer us!{e}"
+    },
+    {
+     "v": 6,
+     "text": "God has spoken in his holiness:{f}\n“I will exult; I will divide up Shechem\nand measure out the Valley of Succoth."
+    },
+    {
+     "v": 7,
+     "text": "Gilead is mine; Manasseh is mine;\nEphraim is the helmet on my head;\nJudah is my scepter."
+    },
+    {
+     "v": 8,
+     "text": "Moab is the basin I wash in;\nover Edom I throw my sandal;{g}\nover Philistia I raise my shout.”"
+    },
+    {
+     "v": 9,
+     "text": "Who will bring me into the strong city?\nWho will guide me to Edom?"
+    },
+    {
+     "v": 10,
+     "text": "Is it not you, O God, who have cast us off?\nYou, O God, who no longer go out with our armies?"
+    },
+    {
+     "v": 11,
+     "text": "Give us help against the adversary,\nfor vain is the deliverance of man!"
+    },
+    {
+     "v": 12,
+     "text": "With God we shall do valiantly;\nit is he who will trample our adversaries."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "60 title",
+     "text": "Hebrew shushan ‘edut, probably the name of a tune. In Hebrew the title is counted as verses 1–2."
+    },
+    {
+     "m": "b",
+     "ref": "60 title",
+     "text": "See 2 Samuel 8:3–14 and 1 Chronicles 18:3–13, where Abishai is credited with 18,000. Verses 5–12 appear again as Psalm 108:6–13."
+    },
+    {
+     "m": "c",
+     "ref": "60:1",
+     "text": "Hebrew “broken us.”"
+    },
+    {
+     "m": "d",
+     "ref": "60:4",
+     "text": "Or “that they may flee to it from the bow.” The Hebrew is uncertain."
+    },
+    {
+     "m": "e",
+     "ref": "60:5",
+     "text": "So the qere; the ketiv has “answer me.”"
+    },
+    {
+     "m": "f",
+     "ref": "60:6",
+     "text": "Or “in his sanctuary.”"
+    },
+    {
+     "m": "g",
+     "ref": "60:8",
+     "text": "A gesture of taking possession (compare Ruth 4:7)."
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "title": "For the choir leader: on stringed instruments. Of David.",
+   "paras": [
+    1,
+    5
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear my crying, O God;\ngive heed to my prayer."
+    },
+    {
+     "v": 2,
+     "text": "From the far end of the earth I call to you\nas my heart grows faint.\nLead me to a rock too high for me,"
+    },
+    {
+     "v": 3,
+     "text": "for you have been my refuge,\na tower of strength in the face of the enemy."
+    },
+    {
+     "v": 4,
+     "text": "Let me be a guest in your tent forever!\nLet me shelter under the cover of your wings!\nSelah"
+    },
+    {
+     "v": 5,
+     "text": "For you, O God, have listened to my vows;\nyou have given me the heritage of those who fear your name."
+    },
+    {
+     "v": 6,
+     "text": "Add days to the days of the king;\nmay his years be as generation upon generation!"
+    },
+    {
+     "v": 7,
+     "text": "May he sit enthroned before God forever;\nappoint covenant love and faithfulness to guard him!"
+    },
+    {
+     "v": 8,
+     "text": "So will I sing praise to your name forever,\nas I fulfill my vows day after day."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 62,
+   "title": "For the choir leader: according to Jeduthun. A psalm of David.",
+   "paras": [
+    1,
+    3,
+    5,
+    9,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Truly my soul is silent{a} before God alone;\nfrom him comes my salvation."
+    },
+    {
+     "v": 2,
+     "text": "He alone is my rock and my salvation,\nmy high fortress; I shall not be greatly shaken."
+    },
+    {
+     "v": 3,
+     "text": "How long will you assault a man,\nall of you, to batter him down,\nas you would a leaning wall, a tottering fence?"
+    },
+    {
+     "v": 4,
+     "text": "They only plan to thrust him from his high place;\nthey take pleasure in falsehood.\nWith their mouths they bless,\nbut inwardly they curse.\nSelah"
+    },
+    {
+     "v": 5,
+     "text": "My soul, be silent before God alone,\nfor my hope comes from him."
+    },
+    {
+     "v": 6,
+     "text": "He alone is my rock and my salvation,\nmy high fortress; I shall not be shaken."
+    },
+    {
+     "v": 7,
+     "text": "Upon God rests my salvation and my glory;\nmy rock of strength, my refuge, is in God."
+    },
+    {
+     "v": 8,
+     "text": "Trust in him at every time, O people;\npour out your hearts before him;\nGod is a refuge for us.\nSelah"
+    },
+    {
+     "v": 9,
+     "text": "Men of low birth are only a breath;\nmen of high birth are a lie;\nput on the scales, they go up;\ntogether they weigh less than a breath."
+    },
+    {
+     "v": 10,
+     "text": "Put no trust in extortion;\nset no vain hope on robbery;\nif riches increase, do not set your heart on them."
+    },
+    {
+     "v": 11,
+     "text": "Once God has spoken;\ntwice I have heard this:\nthat power belongs to God,"
+    },
+    {
+     "v": 12,
+     "text": "and to you, Lord, belongs covenant love.\nFor you repay each one according to his deeds.{b}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "62:1",
+     "text": "Or “waits in stillness.” The word recurs in verse 5."
+    },
+    {
+     "m": "b",
+     "ref": "62:12",
+     "text": "Compare Matthew 16:27; Romans 2:6."
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "title": "A psalm of David, while he was in the desert of Judah.{a}",
+   "paras": [
+    1,
+    5,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "O God, you are my God; earnestly I search for you;\nmy soul is thirsty for you;\nmy body longs for you,\nas in a parched and weary land where no water is."
+    },
+    {
+     "v": 2,
+     "text": "Thus I have gazed on you in the holy place,\nto see your might and your glory."
+    },
+    {
+     "v": 3,
+     "text": "Because your covenant love is better than life,\nmy lips shall praise you."
+    },
+    {
+     "v": 4,
+     "text": "Therefore I will bless you all my life;\nI will raise my hands in your name."
+    },
+    {
+     "v": 5,
+     "text": "My soul shall be satisfied as with fat and rich food,\nand my mouth shall praise you with songs of joy on my lips,"
+    },
+    {
+     "v": 6,
+     "text": "when I call you to mind upon my bed\nand think on you through the watches of the night;"
+    },
+    {
+     "v": 7,
+     "text": "for you have been my help,\nand in the shadow of your wings I sing for joy."
+    },
+    {
+     "v": 8,
+     "text": "My soul holds fast to you;\nyour right hand keeps hold of me."
+    },
+    {
+     "v": 9,
+     "text": "But those who hunt my life to ruin it\nwill go down to the lowest parts of the earth;"
+    },
+    {
+     "v": 10,
+     "text": "they shall be given over to the power of the sword;\nthey shall be a portion for jackals."
+    },
+    {
+     "v": 11,
+     "text": "And the king will be glad in God;\neveryone who swears by him will boast,\nfor the mouth of those who speak lies will be stopped."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "63 title",
+     "text": "See 1 Samuel 22:5; 23:14; 2 Samuel 15:23–28."
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "title": "For the choir leader. A psalm of David.",
+   "paras": [
+    1,
+    7
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear my voice, O God, in my complaint;\nguard my life from dread of the enemy."
+    },
+    {
+     "v": 2,
+     "text": "Hide me from the secret plotting of evildoers,\nfrom the throng of those who do iniquity,"
+    },
+    {
+     "v": 3,
+     "text": "who whet their tongue like a sword\nand fit their arrows, bitter words, to the bow,"
+    },
+    {
+     "v": 4,
+     "text": "to shoot in secret at the upright;\nall at once they shoot at him and are not afraid."
+    },
+    {
+     "v": 5,
+     "text": "They strengthen themselves in an evil plan;\nthey talk of laying snares in secret;\nthey think, “Who will see them?”{a}"
+    },
+    {
+     "v": 6,
+     "text": "They search out injustices, saying,\n“We have perfected a well-planned scheme!”\nFor the inward mind and heart of a man are deep."
+    },
+    {
+     "v": 7,
+     "text": "But God will shoot his arrow at them;\nsuddenly they will be wounded."
+    },
+    {
+     "v": 8,
+     "text": "They will be made to stumble, their own tongues turned against them;\nall who see them will shake their heads."
+    },
+    {
+     "v": 9,
+     "text": "And all men will be afraid;\nthey will declare the work of God\nand consider wisely what he has done."
+    },
+    {
+     "v": 10,
+     "text": "The righteous one will rejoice in Yahweh\nand take refuge in him.\nAll the upright in heart will glory!"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "64:5",
+     "text": "So the Hebrew; some manuscripts and the Syriac have “see us.”"
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "title": "For the choir leader. A psalm of David. A song.",
+   "paras": [
+    1,
+    5,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Praise waits for you,{a} O God, in Zion,\nand to you shall vows be paid."
+    },
+    {
+     "v": 2,
+     "text": "You who listen to prayer,\nall flesh will come before you."
+    },
+    {
+     "v": 3,
+     "text": "Deeds of iniquity overpower me;\nour transgressions you cover over."
+    },
+    {
+     "v": 4,
+     "text": "Happy is the man whom you choose and draw near\nto live in your courts!\nWe will be filled with the goodness of your house,\nyour holy temple."
+    },
+    {
+     "v": 5,
+     "text": "By awesome deeds you answer us in righteousness,\nO God of our salvation,\nthe hope of all the ends of the earth\nand of the farthest seas;"
+    },
+    {
+     "v": 6,
+     "text": "who by his strength set the mountains firm,\nbeing girded with might;"
+    },
+    {
+     "v": 7,
+     "text": "who stills the roaring of the seas,\nthe roaring of their waves,\nand the tumult of the peoples,"
+    },
+    {
+     "v": 8,
+     "text": "Those who dwell at the earth’s far edges stand in awe of your wonders;\nthe gateways of morning and evening you make to sing for joy."
+    },
+    {
+     "v": 9,
+     "text": "You visit the earth and water it;\nyou greatly enrich it;\nthe river of God is full of water;\nyou provide their grain,\nfor so you have prepared the land."
+    },
+    {
+     "v": 10,
+     "text": "You drench its furrows,\nyou level its ridges,\nyou soften it with showers,\nand you bless its growth."
+    },
+    {
+     "v": 11,
+     "text": "You crown the year with your goodness;\nyour tracks overflow with abundance.{b}"
+    },
+    {
+     "v": 12,
+     "text": "The wilderness grasslands drip with plenty,\nand the hills are wrapped in rejoicing;"
+    },
+    {
+     "v": 13,
+     "text": "the meadows put on flocks like a garment;\nthe valleys wrap themselves in grain;\nthey shout for joy; yes, they sing."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "65:1",
+     "text": "So the Hebrew vowels (“silence is praise to you”); the Septuagint has “Praise is fitting for you.”"
+    },
+    {
+     "m": "b",
+     "ref": "65:11",
+     "text": "Hebrew “drip with fatness,” the image of the wheel ruts of God’s chariot spilling plenty as it passes."
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "title": "For the choir leader. A song. A psalm.",
+   "paras": [
+    1,
+    5,
+    8,
+    13,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Raise a shout to God, all the earth!"
+    },
+    {
+     "v": 2,
+     "text": "Sing out the glory of his name;\nmake his praise glorious!"
+    },
+    {
+     "v": 3,
+     "text": "Say to God, “How fearsome are your works!\nBecause of your great strength your enemies feign obedience to you."
+    },
+    {
+     "v": 4,
+     "text": "The whole earth worships you;\nthey sing to you;\nthey sing out your name.”\nSelah"
+    },
+    {
+     "v": 5,
+     "text": "Come and look at the works of God,\nfearsome in his dealings with the children of man."
+    },
+    {
+     "v": 6,
+     "text": "He turned the sea into dry ground;\nthey passed through the river on foot.{a}\nThere we rejoiced in him,"
+    },
+    {
+     "v": 7,
+     "text": "He rules forever by his might;\nhis eyes watch over the nations;\nlet the rebels not raise themselves up.{b}\nSelah"
+    },
+    {
+     "v": 8,
+     "text": "O peoples, bless our God;\nmake the voice of his praise heard,"
+    },
+    {
+     "v": 9,
+     "text": "who keeps our soul alive\nand has not let our feet be shaken."
+    },
+    {
+     "v": 10,
+     "text": "For you, O God, have tested us;\nyou have refined us as silver is refined."
+    },
+    {
+     "v": 11,
+     "text": "You led us into the snare;\nyou put heavy affliction on our loins;"
+    },
+    {
+     "v": 12,
+     "text": "you made men ride over our heads;\nthrough fire and through water we went;\nthen you led us out into abundance.{c}"
+    },
+    {
+     "v": 13,
+     "text": "I will come into your house with burnt offerings;\nI will pay you my vows,"
+    },
+    {
+     "v": 14,
+     "text": "the vows my lips spoke\nand my mouth promised when I was in distress."
+    },
+    {
+     "v": 15,
+     "text": "Burnt offerings of fatlings I will bring you,\nwith the sweet smoke of rams;\nbulls with goats I will prepare.\nSelah"
+    },
+    {
+     "v": 16,
+     "text": "Come and listen, all you who fear God,\nand I will tell what he has done for my soul."
+    },
+    {
+     "v": 17,
+     "text": "I called out to him with my mouth,\nand his praise was under my tongue."
+    },
+    {
+     "v": 18,
+     "text": "If I had cherished iniquity in my heart,\nthe Lord would not have listened."
+    },
+    {
+     "v": 19,
+     "text": "But truly God has listened;\nhe has attended to the voice of my prayer."
+    },
+    {
+     "v": 20,
+     "text": "Blessed be God,\nwho has not turned away my prayer\nor withdrawn his covenant love from me!"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "66:6",
+     "text": "Compare Exodus 14:21–22; Joshua 3:14–17."
+    },
+    {
+     "m": "b",
+     "ref": "66:7",
+     "text": "So the qere; the ketiv has a different form of the verb."
+    },
+    {
+     "m": "c",
+     "ref": "66:12",
+     "text": "So the Hebrew; the Septuagint, Syriac, and Jerome have “to a place of refreshment.”"
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "title": "For the choir leader: on stringed instruments. A psalm. A song.",
+   "paras": [
+    1,
+    6
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "May God be gracious to us and bless us\nand make his face shine upon us,{a}\nSelah"
+    },
+    {
+     "v": 2,
+     "text": "so that your way may become known on earth,\nyour saving power among all the nations."
+    },
+    {
+     "v": 3,
+     "text": "Let the peoples give thanks to you, O God;\nlet all the peoples give thanks to you!"
+    },
+    {
+     "v": 4,
+     "text": "Let the nations be glad and sing aloud,\nfor you will judge the peoples in uprightness\nand guide the nations on the earth.\nSelah"
+    },
+    {
+     "v": 5,
+     "text": "Let the peoples give thanks to you, O God;\nlet all the peoples give thanks to you!"
+    },
+    {
+     "v": 6,
+     "text": "The earth has yielded its harvest;\nGod, our God, blesses us."
+    },
+    {
+     "v": 7,
+     "text": "God will bless us,\nand all the ends of the earth will fear him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "67:1",
+     "text": "Echoing the priestly blessing of Numbers 6:24–26."
+    }
+   ]
+  },
+  {
+   "n": 68,
+   "title": "For the choir leader. Of David. A psalm. A song.",
+   "paras": [
+    1,
+    4,
+    7,
+    11,
+    15,
+    19,
+    24,
+    28,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "God rises up; his enemies scatter;\nthose who hate him run from his face.{a}"
+    },
+    {
+     "v": 2,
+     "text": "As smoke is blown away, so blow them away;\nas wax melts at the fire,\nso let the wicked perish before God."
+    },
+    {
+     "v": 3,
+     "text": "But let the righteous be glad and exult before God;\nlet them be jubilant with joy."
+    },
+    {
+     "v": 4,
+     "text": "Sing to God; make music to his name;\nbuild up a highway for him who rides through the deserts;{b}\nYah is his name;{c} exult before him."
+    },
+    {
+     "v": 5,
+     "text": "Father of the fatherless and defender of widows\nis God in his holy dwelling."
+    },
+    {
+     "v": 6,
+     "text": "God gives the lonely a home to live in;\nhe leads out the prisoners into prosperity,\nbut the rebellious live in a sun-scorched land."
+    },
+    {
+     "v": 7,
+     "text": "O God, when you went out before your people,\nwhen you strode through the wasteland,\nSelah"
+    },
+    {
+     "v": 8,
+     "text": "the earth trembled; the heavens poured down\nbefore the face of God, the One of Sinai,{d}\nbefore the face of God, the God of Israel."
+    },
+    {
+     "v": 9,
+     "text": "You shed abroad a generous rain, O God;\nyour inheritance was weary, and you restored it."
+    },
+    {
+     "v": 10,
+     "text": "Your company of creatures{e} settled there;\nout of your bounty, O God, you made ready for the afflicted."
+    },
+    {
+     "v": 11,
+     "text": "The Lord gives the word;\nthe women who bring the news are a great army:{f}"
+    },
+    {
+     "v": 12,
+     "text": "“Kings of armies flee, they flee!”\nThe woman who stays at home divides the plunder."
+    },
+    {
+     "v": 13,
+     "text": "Though you lie down among the sheepfolds,{g}\nthere are wings of a dove overlaid with silver,\nits pinions with yellow-green gold."
+    },
+    {
+     "v": 14,
+     "text": "As Shaddai{h} scattered the kings in it,\nit was snowing on Zalmon.{i}"
+    },
+    {
+     "v": 15,
+     "text": "A mountain of God is Bashan’s mountain;\na mountain of many summits is Bashan’s mountain!"
+    },
+    {
+     "v": 16,
+     "text": "Why do you look with envy, you many-peaked mountains,\non the mount that God desired for his dwelling?\nYes, Yahweh will dwell there forever."
+    },
+    {
+     "v": 17,
+     "text": "God’s chariots number twenty thousand, thousands repeated;\nthe Lord is in their midst; Sinai is in holiness.{j}"
+    },
+    {
+     "v": 18,
+     "text": "You went up to the height; you led captives captive;\nyou received gifts among men,\neven among the rebellious, that Yah God might dwell there.{k}"
+    },
+    {
+     "v": 19,
+     "text": "Blessed be the Lord, who carries us{l} day by day,\nthe God who is our salvation.\nSelah"
+    },
+    {
+     "v": 20,
+     "text": "Our God is a God of saving acts,\nand to Yahweh the Lord belong the ways out from death."
+    },
+    {
+     "v": 21,
+     "text": "Surely God will crush the heads of his enemies,\nthe hairy crown of him who walks on in his guilt."
+    },
+    {
+     "v": 22,
+     "text": "The Lord has said, “From Bashan I will bring back;\nI will bring back from the deep places of the sea,"
+    },
+    {
+     "v": 23,
+     "text": "that you may strike your foot in blood,{m}\nand the tongues of your dogs may have their share of the enemy.”"
+    },
+    {
+     "v": 24,
+     "text": "Your processions are seen, O God,\nthe processions of my God, my King, into the sanctuary:"
+    },
+    {
+     "v": 25,
+     "text": "singers in front, musicians last,\nbetween them young women playing tambourines:"
+    },
+    {
+     "v": 26,
+     "text": "“In the great assemblies bless God,\nbless Yahweh, you who are from Israel’s fountain!”"
+    },
+    {
+     "v": 27,
+     "text": "There is Benjamin, the least, leading them;\nthe princes of Judah in their throng,\nthe princes of Zebulun, the princes of Naphtali."
+    },
+    {
+     "v": 28,
+     "text": "Your God has commanded your strength;{n}\nshow your strength, O God, you who have acted for us."
+    },
+    {
+     "v": 29,
+     "text": "Because of your temple above Jerusalem,\nkings will bring gifts to you."
+    },
+    {
+     "v": 30,
+     "text": "Rebuke the beast among the reeds,{o}\nthe herd of bulls with the calves of the peoples,\ntrampling those who delight in silver;{p}\nscatter the peoples who take pleasure in war."
+    },
+    {
+     "v": 31,
+     "text": "Envoys will come from Egypt;\nCush{q} will hurry to stretch out her hands to God."
+    },
+    {
+     "v": 32,
+     "text": "Kingdoms of the earth, sing to God;\nmake music to the Lord,\nSelah"
+    },
+    {
+     "v": 33,
+     "text": "to him who rides in the heavens, the ancient heavens;\nsee, he sends out his voice, a voice of power."
+    },
+    {
+     "v": 34,
+     "text": "Ascribe power to God;\nhis splendor rests over Israel,\nand his might is in the clouds."
+    },
+    {
+     "v": 35,
+     "text": "Awesome are you, O God, from your sanctuaries;\nthe God of Israel is he who gives strength and power to the people.\nBlessed be God!"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "68:1",
+     "text": "Compare Numbers 10:35, the cry when the ark set out."
+    },
+    {
+     "m": "b",
+     "ref": "68:4",
+     "text": "Or “extol him who rides on the clouds.” Hebrew ʿarabot, “desert plains”; compare verse 33."
+    },
+    {
+     "m": "c",
+     "ref": "68:4",
+     "text": "Yah is the short form of the name Yahweh; compare Exodus 15:2."
+    },
+    {
+     "m": "d",
+     "ref": "68:8",
+     "text": "Or “even Sinai quaked.” Compare Judges 5:4–5."
+    },
+    {
+     "m": "e",
+     "ref": "68:10",
+     "text": "Hebrew khayyah, “living things,” perhaps here “your flock” or “your people.”"
+    },
+    {
+     "m": "f",
+     "ref": "68:11",
+     "text": "The Hebrew participle is feminine; compare Exodus 15:20; 1 Samuel 18:6."
+    },
+    {
+     "m": "g",
+     "ref": "68:13",
+     "text": "The meaning of the Hebrew word is uncertain; compare Judges 5:16."
+    },
+    {
+     "m": "h",
+     "ref": "68:14",
+     "text": "Shaddai, traditionally “the Almighty.”"
+    },
+    {
+     "m": "i",
+     "ref": "68:14",
+     "text": "Zalmon is a hill near Shechem (Judges 9:48), or “it snowed in the darkness.” The verse is obscure."
+    },
+    {
+     "m": "j",
+     "ref": "68:17",
+     "text": "Or “the Lord has come from Sinai into the holy place,” with a slight change to the Hebrew."
+    },
+    {
+     "m": "k",
+     "ref": "68:18",
+     "text": "Ephesians 4:8 quotes this line in the form “gave gifts to men,” agreeing with the Aramaic Targum and the Syriac."
+    },
+    {
+     "m": "l",
+     "ref": "68:19",
+     "text": "Or “who bears our burdens.”"
+    },
+    {
+     "m": "m",
+     "ref": "68:23",
+     "text": "So the Hebrew (“crush”); the Septuagint and Syriac have “dip your foot.”"
+    },
+    {
+     "m": "n",
+     "ref": "68:28",
+     "text": "So the Hebrew; the Septuagint, Syriac, and some Hebrew manuscripts have “Command your strength, O God.”"
+    },
+    {
+     "m": "o",
+     "ref": "68:30",
+     "text": "Probably Egypt, pictured as a crocodile or hippopotamus."
+    },
+    {
+     "m": "p",
+     "ref": "68:30",
+     "text": "Or “until each one submits with bars of silver.” The Hebrew is very difficult."
+    },
+    {
+     "m": "q",
+     "ref": "68:31",
+     "text": "The upper Nile region, south of Egypt."
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "title": "For the choir leader: according to “Lilies.” Of David.",
+   "paras": [
+    1,
+    5,
+    13,
+    19,
+    22,
+    29,
+    34
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Rescue me, O God,\nfor the waters have reached my throat.{a}"
+    },
+    {
+     "v": 2,
+     "text": "I have sunk in deep mud,\nand there is no foothold;\nI have come into the depths of the waters,\nand the flood sweeps over me."
+    },
+    {
+     "v": 3,
+     "text": "I am weary from calling out; my throat is dry;\nmy eyes fail as I wait for my God."
+    },
+    {
+     "v": 4,
+     "text": "More than the hairs on my head\nare those who hate me for no reason;{b}\nmighty are those who would destroy me,\nmy enemies without cause.\nWhat I did not steal\nmust I now give back?"
+    },
+    {
+     "v": 5,
+     "text": "You, O God, know my foolishness,\nand my guilty deeds are not concealed from you."
+    },
+    {
+     "v": 6,
+     "text": "Let none who wait for you be ashamed on my account,\nLord Yahweh of Armies;\nlet none who seek you be humiliated on my account,\nO God of Israel."
+    },
+    {
+     "v": 7,
+     "text": "For your sake I have endured insult;\ndisgrace has covered my face."
+    },
+    {
+     "v": 8,
+     "text": "I have become a stranger to my brothers,\na foreigner to the sons of my mother."
+    },
+    {
+     "v": 9,
+     "text": "Zeal for your house has eaten me up,{c}\nand the scorn of those who scorn you has fallen on me.{d}"
+    },
+    {
+     "v": 10,
+     "text": "When I wept, with my soul in fasting,\nthat became a reproach against me."
+    },
+    {
+     "v": 11,
+     "text": "When I made sackcloth my clothing,\nI became a byword to them."
+    },
+    {
+     "v": 12,
+     "text": "Those who sit at the gate talk about me,\nand drunkards make songs about me."
+    },
+    {
+     "v": 13,
+     "text": "But as for me, my prayer is to you, Yahweh,\nat a time of favor.\nO God, in the abundance of your covenant love,\nanswer me with your sure salvation."
+    },
+    {
+     "v": 14,
+     "text": "Pull me out of the mud, and do not let me sink;\nlet me be rescued from those who hate me\nand from the deep waters."
+    },
+    {
+     "v": 15,
+     "text": "Let not the torrent sweep over me,\nnor the deep swallow me,\nnor the pit close its mouth over me."
+    },
+    {
+     "v": 16,
+     "text": "Answer me, Yahweh, for your covenant love is good;\nin the greatness of your compassion turn to me."
+    },
+    {
+     "v": 17,
+     "text": "Do not hide your face from your servant,\nfor I am in distress; quickly answer me."
+    },
+    {
+     "v": 18,
+     "text": "Come near to my soul and redeem it;\nransom me because of my enemies."
+    },
+    {
+     "v": 19,
+     "text": "You know the insults I bear,\nmy shame and my dishonor;\nall my adversaries are in your sight."
+    },
+    {
+     "v": 20,
+     "text": "Insults have broken my heart, and I am sick;\nI looked for pity, but there was none,\nfor comforters, but I found no one."
+    },
+    {
+     "v": 21,
+     "text": "They put poison{e} in my food,\nand for my thirst they gave me sour wine to drink.{f}"
+    },
+    {
+     "v": 22,
+     "text": "Let their table before them become a trap,\nand for those at ease, a snare.{g}"
+    },
+    {
+     "v": 23,
+     "text": "Let their eyes grow dark so they cannot see,\nand make their loins shake without ceasing."
+    },
+    {
+     "v": 24,
+     "text": "Pour out your fury on them,\nand let the heat of your anger catch them."
+    },
+    {
+     "v": 25,
+     "text": "Let their camp become a ruin;\nlet no one live in their tents.{h}"
+    },
+    {
+     "v": 26,
+     "text": "For they persecute the one you have struck,\nand they recount the pain of those you have wounded."
+    },
+    {
+     "v": 27,
+     "text": "Add guilt to their guilt;\nlet them have no share in your righteousness."
+    },
+    {
+     "v": 28,
+     "text": "Let them be blotted from the book of life;\nlet them not be written down with the righteous."
+    },
+    {
+     "v": 29,
+     "text": "But I am lowly and in sorrow;\nlet your saving help, O God, set me on high."
+    },
+    {
+     "v": 30,
+     "text": "I will praise God’s name with song;\nI will magnify him with thanks."
+    },
+    {
+     "v": 31,
+     "text": "This will please Yahweh better than an ox,\na young bull with horns and split hoofs."
+    },
+    {
+     "v": 32,
+     "text": "The lowly have seen and rejoice;\nyou seekers of God, may your heart live."
+    },
+    {
+     "v": 33,
+     "text": "For Yahweh listens to the needy\nand does not scorn his own who are captive."
+    },
+    {
+     "v": 34,
+     "text": "Let heaven and earth praise him,\nthe seas and everything that moves in them."
+    },
+    {
+     "v": 35,
+     "text": "For God will save Zion\nand rebuild the cities of Judah,\nand they shall live there and possess it;"
+    },
+    {
+     "v": 36,
+     "text": "the offspring of his servants shall inherit it,\nand those who love his name shall dwell in it."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "69:1",
+     "text": "Hebrew nephesh, here in its basic sense of “throat” or “neck.”"
+    },
+    {
+     "m": "b",
+     "ref": "69:4",
+     "text": "Quoted in John 15:25."
+    },
+    {
+     "m": "c",
+     "ref": "69:9",
+     "text": "Quoted in John 2:17."
+    },
+    {
+     "m": "d",
+     "ref": "69:9",
+     "text": "Quoted in Romans 15:3."
+    },
+    {
+     "m": "e",
+     "ref": "69:21",
+     "text": "Hebrew rosh, a bitter, poisonous plant; the Septuagint has “gall.”"
+    },
+    {
+     "m": "f",
+     "ref": "69:21",
+     "text": "Compare Matthew 27:34, 48; John 19:28–29."
+    },
+    {
+     "m": "g",
+     "ref": "69:22",
+     "text": "Or “and their peace offerings a snare.” Verses 22–23 are quoted in Romans 11:9–10, following the Septuagint."
+    },
+    {
+     "m": "h",
+     "ref": "69:25",
+     "text": "Quoted in Acts 1:20."
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "title": "For the choir leader. Of David. For a memorial offering.{a}",
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "O God, hurry to rescue me!\nYahweh, hurry to help me!"
+    },
+    {
+     "v": 2,
+     "text": "Let them be shamed and put to confusion\nwho seek after my life!\nLet them be driven back and humiliated\nwho take pleasure in my hurt!"
+    },
+    {
+     "v": 3,
+     "text": "Let those who cry, “Aha, aha!”\nbe turned back as the wage of their shame."
+    },
+    {
+     "v": 4,
+     "text": "May all who seek you\nbe glad and rejoice in you!\nMay those who love your salvation\nalways say, “God is great!”"
+    },
+    {
+     "v": 5,
+     "text": "But I am afflicted and needy;\nhurry to me, O God!\nYou are my help and the one who sets me free;\nYahweh, do not delay!"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "70 title",
+     "text": "Compare the title of Psalm 38. This psalm closely matches Psalm 40:13–17. In Hebrew numbering the title is verse 1, so the Hebrew has six verses."
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "paras": [
+    1,
+    7,
+    14,
+    17,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In you, Yahweh, I have found refuge;{a}\nlet me never be shamed."
+    },
+    {
+     "v": 2,
+     "text": "By your righteousness rescue me and set me free;\nbend your ear to me and save me."
+    },
+    {
+     "v": 3,
+     "text": "Be a rock of dwelling for me,\nwhere I may always come;\nyou have given the command to save me,\nfor you are my rock and my stronghold."
+    },
+    {
+     "v": 4,
+     "text": "My God, rescue me from the hand of the wicked,\nfrom the grasp of the unjust and the ruthless."
+    },
+    {
+     "v": 5,
+     "text": "For you are my hope, Lord Yahweh,\nmy confidence from my youth."
+    },
+    {
+     "v": 6,
+     "text": "On you I have leaned from birth;\nyou are the one who brought me from my mother’s womb;{b}\nmy praise is always of you."
+    },
+    {
+     "v": 7,
+     "text": "I have become like a portent to many,\nbut you are my strong refuge."
+    },
+    {
+     "v": 8,
+     "text": "My mouth is full of your praise,\nof your splendor all day long."
+    },
+    {
+     "v": 9,
+     "text": "Do not throw me away when I am old;\ndo not abandon me as my strength fails."
+    },
+    {
+     "v": 10,
+     "text": "For my enemies talk against me;\nthose who watch for my life plot together,"
+    },
+    {
+     "v": 11,
+     "text": "saying, “God has left him;\nchase him and seize him,\nfor no one will rescue him.”"
+    },
+    {
+     "v": 12,
+     "text": "O God, do not stay far from me;\nmy God, hurry to my help!{c}"
+    },
+    {
+     "v": 13,
+     "text": "Let my accusers be shamed and consumed;\nlet those who seek my harm\nbe wrapped in insult and disgrace."
+    },
+    {
+     "v": 14,
+     "text": "But I will always hope\nand will praise you more and more."
+    },
+    {
+     "v": 15,
+     "text": "My mouth will tell of your righteousness,\nof your saving deeds all the day,\nthough their number is past my knowing."
+    },
+    {
+     "v": 16,
+     "text": "I will come with the mighty acts of the Lord Yahweh;\nI will make mention of your righteousness, yours alone."
+    },
+    {
+     "v": 17,
+     "text": "O God, you have taught me since my youth,\nand until now I proclaim your wonders."
+    },
+    {
+     "v": 18,
+     "text": "And now, when I am old and gray-haired,\nO God, do not forsake me,\ntill I declare your arm to this generation,\nyour power to everyone yet to come."
+    },
+    {
+     "v": 19,
+     "text": "Your righteousness, O God, reaches the heights;\nyou have done great things;\nO God, who is like you?"
+    },
+    {
+     "v": 20,
+     "text": "You who have shown me{d} many bitter troubles\nwill make me live once more;\nfrom the deeps of the earth\nyou will raise me up again."
+    },
+    {
+     "v": 21,
+     "text": "You will increase my greatness\nand turn again to comfort me."
+    },
+    {
+     "v": 22,
+     "text": "I also will praise you with the harp\nfor your faithfulness, my God;\nI will make music to you with the lyre,\nO Holy One of Israel."
+    },
+    {
+     "v": 23,
+     "text": "My lips will shout for joy when I make music to you,\nand my soul, which you have redeemed."
+    },
+    {
+     "v": 24,
+     "text": "My tongue also will speak of your righteousness all day long,\nfor those who sought my harm\nhave been put to shame and disgraced."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "71:1",
+     "text": "This psalm has no title. Verses 1–3 closely follow Psalm 31:1–3."
+    },
+    {
+     "m": "b",
+     "ref": "71:6",
+     "text": "Or “who cut the cord,” an uncertain Hebrew word."
+    },
+    {
+     "m": "c",
+     "ref": "71:12",
+     "text": "So the qere; the ketiv has a variant spelling."
+    },
+    {
+     "m": "d",
+     "ref": "71:20",
+     "text": "So the qere throughout this verse; the ketiv has “us.”"
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "title": "Of Solomon.{a}",
+   "paras": [
+    1,
+    5,
+    8,
+    12,
+    15,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "O God, give the king your judgments,\nand your righteousness to the son of the king."
+    },
+    {
+     "v": 2,
+     "text": "May he judge your people with righteousness\nand your afflicted ones with justice."
+    },
+    {
+     "v": 3,
+     "text": "Let the mountains bear peace for the people,\nand the hills, through righteousness."
+    },
+    {
+     "v": 4,
+     "text": "May he do justice for the lowly among the people,\nsave the sons of the needy,\nand break the oppressor in pieces."
+    },
+    {
+     "v": 5,
+     "text": "May they fear you{b} while the sun endures,\nand as long as the moon, through all generations."
+    },
+    {
+     "v": 6,
+     "text": "May he be like rain falling on the mown field,\nlike showers that water the land."
+    },
+    {
+     "v": 7,
+     "text": "Let the righteous flourish in his days,\nand let there be much peace until the moon is gone."
+    },
+    {
+     "v": 8,
+     "text": "May he rule from sea to sea,\nand from the River{c} to the ends of the earth."
+    },
+    {
+     "v": 9,
+     "text": "May the desert dwellers bow down before him,\nand his enemies lick the dust."
+    },
+    {
+     "v": 10,
+     "text": "May the kings of Tarshish and of the coastlands\nrender tribute;\nmay the kings of Sheba and Seba\nbring gifts."
+    },
+    {
+     "v": 11,
+     "text": "May all kings fall down before him,\nall nations serve him."
+    },
+    {
+     "v": 12,
+     "text": "For he rescues the needy who cry out,\nthe afflicted, and the one who has no helper."
+    },
+    {
+     "v": 13,
+     "text": "He will spare the poor and needy one\nand will save the souls of the needy."
+    },
+    {
+     "v": 14,
+     "text": "From oppression and violence he redeems their lives,\nand their blood is precious in his eyes."
+    },
+    {
+     "v": 15,
+     "text": "So may he live, and may Sheba’s gold be given him;\nmay they pray for him continually\nand bless him all day long."
+    },
+    {
+     "v": 16,
+     "text": "Let there be an abundance of grain in the land,\nwaving on the mountaintops;\nlet its fruit sway like Lebanon,\nand let those of the city blossom like the grass of the earth."
+    },
+    {
+     "v": 17,
+     "text": "May his name endure forever;\nmay his name increase{d} as long as the sun!\nMay all nations be blessed in him{e}\nand call him happy!"
+    },
+    {
+     "v": 18,
+     "text": "Blessed be Yahweh God, the God of Israel,\nwho alone does wonders."
+    },
+    {
+     "v": 19,
+     "text": "Blessed be his glorious name forever;\nmay the whole earth be filled with his glory!\nAmen and Amen!{f}"
+    },
+    {
+     "v": 20,
+     "text": "The prayers of David the son of Jesse are ended.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "72 title",
+     "text": "Or “For Solomon.” A prayer for the king, closing Book Two."
+    },
+    {
+     "m": "b",
+     "ref": "72:5",
+     "text": "So the Hebrew; the Septuagint has “May he endure.”"
+    },
+    {
+     "m": "c",
+     "ref": "72:8",
+     "text": "The Euphrates."
+    },
+    {
+     "m": "d",
+     "ref": "72:17",
+     "text": "So the qere; the ketiv has a variant form, “sprout.”"
+    },
+    {
+     "m": "e",
+     "ref": "72:17",
+     "text": "Compare Genesis 12:3; 22:18."
+    },
+    {
+     "m": "f",
+     "ref": "72:19",
+     "text": "Verses 18–19 are the doxology that closes Book Two of the Psalms; compare 41:13; 89:52; 106:48; and Psalm 150."
+    },
+    {
+     "m": "g",
+     "ref": "72:20",
+     "text": "An editorial note closing an earlier collection of David’s psalms; some psalms of David still follow (for example, 86, 101, 103, 108–110, 138–145)."
+    }
+   ]
   }
  ]
 }
