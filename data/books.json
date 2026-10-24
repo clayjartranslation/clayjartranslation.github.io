@@ -2041,9 +2041,15 @@
    "id": "1-peter",
    "name": "1 Peter",
    "division": "New Testament",
-   "chapterCount": "5",
-   "translated": [],
-   "file": null
+   "chapterCount": 5,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "file": "data/books/1-peter.json"
   },
   {
    "id": "2-peter",

@@ -1,0 +1,715 @@
+{
+ "id": "1-peter",
+ "name": "1 Peter",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The letter names its author as Peter, the apostle (1:1), writing with the help of Silvanus (5:12) from “Babylon” (5:13), probably a figurative name for Rome. Many scholars accept it as Peter’s, perhaps in the early 60s AD; others date it later and regard it as written in his name. The chief early witnesses include the papyrus P72 (3rd–4th century) and Codices Sinaiticus, Alexandrinus and Vaticanus.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    10,
+    13,
+    17,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Peter,{a} an apostle of Jesus Christ, to God’s chosen ones living as foreigners scattered through Pontus, Galatia, Cappadocia, Asia and Bithynia,{b}"
+    },
+    {
+     "v": 2,
+     "text": "whom God the Father chose as he knew beforehand, set apart by the Spirit to obey Jesus Christ and to be sprinkled with his blood. Grace and peace be multiplied to you.{c}"
+    },
+    {
+     "v": 3,
+     "text": "Blessed be the God and Father of our Lord Jesus Christ! In his great mercy he has caused us to be born anew to a living hope through the resurrection of Jesus Christ from the dead,"
+    },
+    {
+     "v": 4,
+     "text": "to an inheritance that cannot decay or be defiled or fade, kept safe in the heavens for you,"
+    },
+    {
+     "v": 5,
+     "text": "who by God’s power are being guarded through faith for a salvation ready to be unveiled in the last time."
+    },
+    {
+     "v": 6,
+     "text": "In this you are overjoyed, even though now for a little while, if it must be, you have been grieved by trials of various kinds,"
+    },
+    {
+     "v": 7,
+     "text": "Their purpose is that your faith, once proven genuine, a thing of greater value than gold (which perishes, though fire tests it), may bring praise and glory and honor at the unveiling of Jesus Christ."
+    },
+    {
+     "v": 8,
+     "text": "You have not seen him, yet you love him; and though you do not see him now, you trust him and are overjoyed with a joy beyond words and filled with glory,{d}"
+    },
+    {
+     "v": 9,
+     "text": "as you receive the goal of your faith, the salvation of your souls."
+    },
+    {
+     "v": 10,
+     "text": "Concerning this salvation the prophets who spoke beforehand of the grace meant for you searched and inquired with care,"
+    },
+    {
+     "v": 11,
+     "text": "They probed what person or what period the Spirit of Christ in them meant, when it bore witness ahead of time to the sufferings Christ would undergo and the glories that would come after them."
+    },
+    {
+     "v": 12,
+     "text": "To them it was disclosed that their ministry was not for their own benefit but for yours, in those matters now reported to you by the ones who preached the gospel to you through the Holy Spirit sent from heaven; into these things angels yearn to peer."
+    },
+    {
+     "v": 13,
+     "text": "So gird up the loins of your mind, keep sober, and set your hope fully on the grace that is being brought to you when Jesus Christ is unveiled.{e}"
+    },
+    {
+     "v": 14,
+     "text": "As obedient children, do not shape yourselves to the desires you once had in your ignorance."
+    },
+    {
+     "v": 15,
+     "text": "Rather, as the one who called you is holy, become holy yourselves in all your conduct,"
+    },
+    {
+     "v": 16,
+     "text": "since it is written, “You shall be holy, because I am holy.”{f}"
+    },
+    {
+     "v": 17,
+     "text": "And if you call on him as Father who judges each person’s work impartially, live out the time of your stay as foreigners in reverent fear,"
+    },
+    {
+     "v": 18,
+     "text": "knowing that it was not with perishable things like silver or gold that you were ransomed from the empty way of life handed down from your ancestors,"
+    },
+    {
+     "v": 19,
+     "text": "but with precious blood, as of a lamb without blemish or spot, the blood of Christ."
+    },
+    {
+     "v": 20,
+     "text": "He was foreknown before the founding of the world but was made manifest at the end of the times for your sake,"
+    },
+    {
+     "v": 21,
+     "text": "who through him trust in God, who raised him from the dead and gave him glory, so that your faith and hope are in God."
+    },
+    {
+     "v": 22,
+     "text": "Now that you have purified your souls by obeying the truth, so as to have a sincere love for the brothers, love one another earnestly from the heart,{g}"
+    },
+    {
+     "v": 23,
+     "text": "You have been begotten again from seed that does not perish rather than seed that does, by means of God’s word, which lives and abides."
+    },
+    {
+     "v": 24,
+     "text": "For\n“all humankind is grass,\nand all its splendor like a wildflower.\nThe grass dries up,\nand the flower falls,"
+    },
+    {
+     "v": 25,
+     "text": "but what the Lord has spoken stands for all time.”\nThat spoken word is the gospel which was preached to you.{h}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Peter*: Greek *Petros*, “rock,” “stone,” the name Jesus gave to Simon (John 1:42), the Greek equivalent of Aramaic *Kēphas*."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Living as foreigners scattered: literally “sojourners of the dispersion” (Greek *diaspora*). The places named are Roman provinces in what is now Turkey."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Sprinkled with his blood: compare Exod 24:7–8."
+    },
+    {
+     "m": "d",
+     "ref": "1:8",
+     "text": "Not seen him: later manuscripts read “not known him.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:13",
+     "text": "Gird up the loins of your mind: the image is of tucking up a long robe to be ready for action."
+    },
+    {
+     "m": "f",
+     "ref": "1:16",
+     "text": "Lev 11:44–45; 19:2. Westcott and Hort bracket the Greek word introducing the quotation."
+    },
+    {
+     "m": "g",
+     "ref": "1:22",
+     "text": "Brothers: Greek *adelphoi*, here in the compound *philadelphia*, “love of brothers,” which includes sisters. *From the heart*: some manuscripts read “from a pure heart.” Later manuscripts add “through the Spirit” after “the truth.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:25",
+     "text": "Isa 40:6–8 in the Greek Old Testament, where the Hebrew reads “the word of our God.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    4,
+    9,
+    11,
+    13,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So put away all malice and all deceit, hypocrisy, envy and all slander."
+    },
+    {
+     "v": 2,
+     "text": "As babies just born crave milk, crave the unadulterated milk of the word, so that you may be nourished by it and grow toward salvation,{a}"
+    },
+    {
+     "v": 3,
+     "text": "if indeed you have tasted that the Lord is good.{b}"
+    },
+    {
+     "v": 4,
+     "text": "Come to him, a living stone rejected by people but chosen and precious in God’s sight,"
+    },
+    {
+     "v": 5,
+     "text": "and you yourselves, like living stones, are being built up as a spiritual house, to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ."
+    },
+    {
+     "v": 6,
+     "text": "For scripture contains this:\n“See, I set down in Zion a stone,\na cornerstone, chosen, of great worth;\nwhoever puts his trust in him will never be disgraced.”{c}"
+    },
+    {
+     "v": 7,
+     "text": "To you who trust, then, there is honor; but for those who do not trust,\n“the stone which the builders rejected\nhas become the head of the corner,”{d}"
+    },
+    {
+     "v": 8,
+     "text": "and\n“a stone over which they stumble,\na rock that makes them fall.”\nThey stumble by refusing to obey the word, and to this end they were appointed.{e}"
+    },
+    {
+     "v": 9,
+     "text": "But you are a chosen race, a royal priesthood, a holy nation, a people God has made his own, so that you may declare the excellencies of the one who called you out of darkness into his marvelous light.{f}"
+    },
+    {
+     "v": 10,
+     "text": "You were once “not a people,” and now you are the people of God; you were “shown no mercy,” and now mercy has been shown you.{g}"
+    },
+    {
+     "v": 11,
+     "text": "Dear friends, I appeal to you as foreigners and exiles to keep away from the desires of the flesh, which wage war against the soul."
+    },
+    {
+     "v": 12,
+     "text": "Let your way of life among the nations be honorable, so that in the very matter in which they accuse you of evildoing they may observe your fine actions and give glory to God on the day of his coming.{h}"
+    },
+    {
+     "v": 13,
+     "text": "For the Lord’s sake submit to every human institution, whether to the emperor as supreme,{i}"
+    },
+    {
+     "v": 14,
+     "text": "or to governors as sent by him to punish wrongdoers and to praise those who do good."
+    },
+    {
+     "v": 15,
+     "text": "It is God’s purpose that by your good conduct you muzzle the ignorant talk of senseless people."
+    },
+    {
+     "v": 16,
+     "text": "Live as free people, yet not using your freedom as a cover for evil, but as slaves of God."
+    },
+    {
+     "v": 17,
+     "text": "Show honor to all. Love the brotherhood. Revere God. Give the emperor his due honor.{j}"
+    },
+    {
+     "v": 18,
+     "text": "Household servants, submit to your masters with all respect, not only to the good and gentle ones but also to the harsh.{k}"
+    },
+    {
+     "v": 19,
+     "text": "For it is a mark of grace when someone, because he is conscious of God, endures pain while suffering unjustly."
+    },
+    {
+     "v": 20,
+     "text": "What credit is there if you endure a beating for doing wrong? But if you endure suffering when you do good, this is grace in God’s sight."
+    },
+    {
+     "v": 21,
+     "text": "For it was to this that you were called, since Christ also suffered for you, leaving you an example so that you should follow in his footsteps.{l}"
+    },
+    {
+     "v": 22,
+     "text": "“No sin did he commit,\nnor was any lie detected on his lips.”{m}"
+    },
+    {
+     "v": 23,
+     "text": "Reviled, he hurled back no abuse; suffering, he made no threats; instead he left his cause with the one whose judgment is just."
+    },
+    {
+     "v": 24,
+     "text": "In his own body he bore our sins up onto the tree, so that we, having parted from sins, might live to righteousness. By his bruises you have been made whole.{n}"
+    },
+    {
+     "v": 25,
+     "text": "For you were straying like sheep, but now you have returned to the shepherd and guardian of your souls.{o}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:2",
+     "text": "Of the word: or “spiritual” (Greek *logikon*). *Into salvation*: later manuscripts omit these words."
+    },
+    {
+     "m": "b",
+     "ref": "2:3",
+     "text": "Ps 34:8 (Greek Old Testament 33:9), where the Hebrew has *Yahweh*."
+    },
+    {
+     "m": "c",
+     "ref": "2:6",
+     "text": "Isa 28:16 in the Greek Old Testament."
+    },
+    {
+     "m": "d",
+     "ref": "2:7",
+     "text": "Ps 118:22 (Greek Old Testament 117:22). *There is honor*: or “he is precious.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:8",
+     "text": "Isa 8:14."
+    },
+    {
+     "m": "f",
+     "ref": "2:9",
+     "text": "Exod 19:5–6; Isa 43:20–21. *Excellencies*: or “praises,” “mighty deeds.”"
+    },
+    {
+     "m": "g",
+     "ref": "2:10",
+     "text": "Compare Hos 1:6, 9; 2:23."
+    },
+    {
+     "m": "h",
+     "ref": "2:12",
+     "text": "Nations: or “Gentiles,” here meaning those who do not know God. *The day of his coming*: literally “the day of visitation.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:13",
+     "text": "Emperor: Greek *basileus*, “king,” the usual title for the Roman emperor in the Greek-speaking east."
+    },
+    {
+     "m": "j",
+     "ref": "2:17",
+     "text": "Brotherhood: Greek *adelphotēs*, the community of believers."
+    },
+    {
+     "m": "k",
+     "ref": "2:18",
+     "text": "Household servants: Greek *oiketai*, slaves in a household."
+    },
+    {
+     "m": "l",
+     "ref": "2:21",
+     "text": "Suffered: some manuscripts read “died.”"
+    },
+    {
+     "m": "m",
+     "ref": "2:22",
+     "text": "Isa 53:9."
+    },
+    {
+     "m": "n",
+     "ref": "2:24",
+     "text": "Isa 53:4–5, 12. *Tree*: that is, the cross."
+    },
+    {
+     "m": "o",
+     "ref": "2:25",
+     "text": "Isa 53:6. *Guardian*: Greek *episkopos*, “overseer.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    7,
+    8,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Wives, likewise, be subject to your husbands, so that if any of them refuse to believe the message, they may be won without words through the way their wives live,"
+    },
+    {
+     "v": 2,
+     "text": "when they see your pure and reverent conduct."
+    },
+    {
+     "v": 3,
+     "text": "Do not let your beauty be the outward kind, braided hair and gold ornaments and fine clothing,"
+    },
+    {
+     "v": 4,
+     "text": "Let it rather be the inner self hidden in the heart, adorned with the lasting beauty of a meek and tranquil spirit, which God counts as costly."
+    },
+    {
+     "v": 5,
+     "text": "For this is how the holy women of old who hoped in God used to adorn themselves, submitting to their own husbands,"
+    },
+    {
+     "v": 6,
+     "text": "as Sarah obeyed Abraham, calling him lord. You have become her daughters if you do good and do not give way to fear.{a}"
+    },
+    {
+     "v": 7,
+     "text": "Husbands, in the same way, live with your wives with understanding, showing honor to the woman as the weaker vessel, since they are also heirs with you of the gracious gift of life, so that your prayers may not be hindered."
+    },
+    {
+     "v": 8,
+     "text": "Finally, all of you, be of one mind, sympathetic, loving as brothers, tenderhearted and humble."
+    },
+    {
+     "v": 9,
+     "text": "Do not repay evil for evil or insult for insult, but bless instead, because it was for this that you were called, so that you may inherit a blessing."
+    },
+    {
+     "v": 10,
+     "text": "For\n“whoever wants to love life\nand see good days\nmust keep his tongue from evil\nand his lips from speaking deceit;"
+    },
+    {
+     "v": 11,
+     "text": "let him shun evil and do right;\nlet him look for peace and go after it."
+    },
+    {
+     "v": 12,
+     "text": "For the eyes of the Lord are on the righteous,\nand his ears are open to their prayer;\nbut the face of the Lord is against those who do evil.”{b}"
+    },
+    {
+     "v": 13,
+     "text": "And who will do you harm if you are zealous for the good?"
+    },
+    {
+     "v": 14,
+     "text": "Yet even if you have to suffer because you do right, you are happy. “Have no fear of them, and do not be shaken,”{c}"
+    },
+    {
+     "v": 15,
+     "text": "but in your hearts revere Christ as holy, as Lord, and be prepared at all times to make a defense to anyone who asks you to account for your hope,{d}"
+    },
+    {
+     "v": 16,
+     "text": "yet doing it with gentleness and reverence, keeping a good conscience, so that when you are slandered, those who abuse your good conduct in Christ may be put to shame."
+    },
+    {
+     "v": 17,
+     "text": "It is better, should God so will, to suffer for doing right than to suffer for doing wrong."
+    },
+    {
+     "v": 18,
+     "text": "For Christ too died once for all for sins, the righteous for the unrighteous, so that he might bring you to God. He was put to death in the flesh but made alive in the spirit,{e}"
+    },
+    {
+     "v": 19,
+     "text": "in which he went also to the spirits held in prison and preached to them,{f}"
+    },
+    {
+     "v": 20,
+     "text": "who had disobeyed long ago, when God’s patience waited in the days of Noah while the ark was being built. In it a few, that is, eight souls, were brought safely through water.{g}"
+    },
+    {
+     "v": 21,
+     "text": "And baptism, which corresponds to this, now saves you also, not as a removal of dirt from the flesh but as the pledge of a good conscience toward God, through the resurrection of Jesus Christ,{h}"
+    },
+    {
+     "v": 22,
+     "text": "He has passed into heaven and sits at God’s right hand, and angels and authorities and powers have been placed under him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:6",
+     "text": "Gen 18:12. *Sarah*: “princess.” *Abraham*: “father of a multitude.” *Give way to fear*: compare Prov 3:25."
+    },
+    {
+     "m": "b",
+     "ref": "3:12",
+     "text": "Ps 34:12–16 (Greek Old Testament 33:13–17), where the Hebrew has *Yahweh*."
+    },
+    {
+     "m": "c",
+     "ref": "3:14",
+     "text": "Isa 8:12. *Have no fear of them*: literally “do not fear their fear,” that is, either what they fear or the fear they cause. *Happy*: or “blessed.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:15",
+     "text": "Isa 8:13, where the Hebrew has *Yahweh*. Later manuscripts read “the Lord God” in place of “Christ as Lord.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:18",
+     "text": "Died: Westcott and Hort read *apethanen*, “died,” with Sinaiticus and Alexandrinus as reported; many manuscripts read *epathen*, “suffered.” *You*: some manuscripts read “us.” *In the spirit*: or “by the Spirit.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:19",
+     "text": "In which: or “in whom,” that is, in the spirit. The passage is much debated. The spirits have been understood as the fallen angels of Gen 6:1–4 (compare 2 Pet 2:4; Jude 6 and the book of 1 Enoch), as the dead of Noah’s generation, or as those to whom Christ spoke through Noah; the proclamation as either a message of victory or the good news (compare 4:6)."
+    },
+    {
+     "m": "g",
+     "ref": "3:20",
+     "text": "Gen 6–8. *Noah*: “rest.”"
+    },
+    {
+     "m": "h",
+     "ref": "3:21",
+     "text": "Corresponds to this: Greek *antitypon*, “antitype,” “counterpart.” *Pledge*: or “appeal” (Greek *eperōtēma*)."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    7,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So, since Christ has suffered in the flesh, you too must arm yourselves with that same resolve, because the one who has suffered in the flesh has broken with sin,{a}"
+    },
+    {
+     "v": 2,
+     "text": "so as to live the rest of his time in the flesh no longer for human desires but for the will of God."
+    },
+    {
+     "v": 3,
+     "text": "For the time already past is enough for doing what the Gentiles want to do, living in debauchery, lusts, drunkenness, wild parties, drinking bouts and lawless idolatry."
+    },
+    {
+     "v": 4,
+     "text": "They are surprised that you do not plunge with them into the same flood of reckless living, and they abuse you;"
+    },
+    {
+     "v": 5,
+     "text": "but they will give an account to the one who is ready to judge the living and the dead."
+    },
+    {
+     "v": 6,
+     "text": "For this is why the good news was proclaimed even to the dead, that though they had been judged in the flesh as human beings are, they might live in the spirit as God does."
+    },
+    {
+     "v": 7,
+     "text": "The end of all things has drawn near. So be sensible and sober for the sake of your prayers."
+    },
+    {
+     "v": 8,
+     "text": "Above all, keep your love for one another constant, since love covers a multitude of sins.{b}"
+    },
+    {
+     "v": 9,
+     "text": "Be hospitable to one another without grumbling."
+    },
+    {
+     "v": 10,
+     "text": "As each has received a gift, use it in serving one another, as good stewards of the varied grace of God:"
+    },
+    {
+     "v": 11,
+     "text": "whoever speaks, as one speaking God’s words; whoever serves, as one serving by the strength God supplies, so that in all things God may be glorified through Jesus Christ. To him belong the glory and the power forever and ever. Amen."
+    },
+    {
+     "v": 12,
+     "text": "Dear friends, do not be bewildered by the blaze of trial that has come among you to test you, as if something unheard of were befalling you."
+    },
+    {
+     "v": 13,
+     "text": "But to the extent that you share the sufferings of Christ, rejoice, so that you may also rejoice and be overjoyed when his glory is revealed."
+    },
+    {
+     "v": 14,
+     "text": "If you are insulted for the name of Christ, you are blessed, because the Spirit of glory, the Spirit of God, rests on you.{c}"
+    },
+    {
+     "v": 15,
+     "text": "But let none of you suffer as a murderer or thief or evildoer or as a meddler."
+    },
+    {
+     "v": 16,
+     "text": "But if anyone suffers as a Christian, he should not be ashamed but should glorify God in that name.{d}"
+    },
+    {
+     "v": 17,
+     "text": "For it is time for the judgment to start with God’s own household; and if it starts with us, how will it end for those who refuse to obey God’s good news?{e}"
+    },
+    {
+     "v": 18,
+     "text": "And\n“if it is hard for the righteous to be saved,\nwhere will the godless and the sinner appear?”{f}"
+    },
+    {
+     "v": 19,
+     "text": "Let those, then, who suffer as God wills commit their souls to the Creator, who is faithful, and go on doing good."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "In the flesh: later manuscripts add “for us” after “suffered.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:8",
+     "text": "Prov 10:12."
+    },
+    {
+     "m": "c",
+     "ref": "4:14",
+     "text": "Compare Isa 11:2. Later manuscripts add “and of power” after “glory,” and some add “On their part he is blasphemed, but on your part he is glorified.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:16",
+     "text": "Christian: Greek *Christianos*, “follower of Christ”; compare Acts 11:26; 26:28. *In that name*: later manuscripts read “in this respect.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:17",
+     "text": "It is time: Westcott and Hort bracket the Greek article before “time.”"
+    },
+    {
+     "m": "f",
+     "ref": "4:18",
+     "text": "Prov 11:31 in the Greek Old Testament."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    5,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "To the elders among you, then, I make my appeal, as one who is an elder with you, who witnessed Christ’s sufferings and will share also in the glory soon to be disclosed:"
+    },
+    {
+     "v": 2,
+     "text": "shepherd the flock of God among you, watching over it not under compulsion but willingly, as God would have it, not for shameful gain but eagerly,{a}"
+    },
+    {
+     "v": 3,
+     "text": "not domineering over the portions allotted to you, but setting a pattern for the flock."
+    },
+    {
+     "v": 4,
+     "text": "Then when the head shepherd is made manifest, you will win the crown of glory that never withers."
+    },
+    {
+     "v": 5,
+     "text": "Likewise, you younger ones, be subject to those who are older. All of you, tie on humility like an apron in dealing with each other, for\n“God sets himself against the arrogant,\nbut to the lowly he gives grace.”{b}"
+    },
+    {
+     "v": 6,
+     "text": "So humble yourselves under the mighty hand of God, so that he may lift you up at the proper time,"
+    },
+    {
+     "v": 7,
+     "text": "casting all your anxiety on him, because he cares for you.{c}"
+    },
+    {
+     "v": 8,
+     "text": "Stay sober and alert. The devil, your opponent, roams about like a lion roaring in search of someone to swallow."
+    },
+    {
+     "v": 9,
+     "text": "Resist him, firm in the faith, knowing that the same kinds of suffering are being laid on your family of believers throughout the world.{d}"
+    },
+    {
+     "v": 10,
+     "text": "And after you have suffered a little while, the God of all grace, who called you to his eternal glory in Christ, will himself restore, establish, strengthen and settle you."
+    },
+    {
+     "v": 11,
+     "text": "To him be the power forever. Amen."
+    },
+    {
+     "v": 12,
+     "text": "Through Silvanus, a faithful brother as I regard him, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand firm in it.{e}"
+    },
+    {
+     "v": 13,
+     "text": "She who is in Babylon, chosen together with you, sends you greetings, and so does Mark my son.{f}"
+    },
+    {
+     "v": 14,
+     "text": "Greet one another with a kiss of love. Peace to all of you who are in Christ.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:2",
+     "text": "Watching over it: some manuscripts lack these words. *As God would have it*: some manuscripts lack these words."
+    },
+    {
+     "m": "b",
+     "ref": "5:5",
+     "text": "Prov 3:34 in the Greek Old Testament."
+    },
+    {
+     "m": "c",
+     "ref": "5:7",
+     "text": "Compare Ps 55:22 (Greek Old Testament 54:23)."
+    },
+    {
+     "m": "d",
+     "ref": "5:9",
+     "text": "Family of believers: Greek *adelphotēs*, “brotherhood.”"
+    },
+    {
+     "m": "e",
+     "ref": "5:12",
+     "text": "*Silvanus*: a Latin name, perhaps from *silva*, “forest”; probably the Silas of Acts 15:22–40. *Through Silvanus*: that is, either as secretary or as bearer of the letter."
+    },
+    {
+     "m": "f",
+     "ref": "5:13",
+     "text": "*She who is in Babylon*: probably the church in Rome, called by the name of the ancient capital of exile; compare Rev 17:5. *Mark*: Latin *Marcus*, perhaps “of Mars”; compare Acts 12:12."
+    },
+    {
+     "m": "g",
+     "ref": "5:14",
+     "text": "Later manuscripts add “Jesus. Amen.”"
+    }
+   ]
+  }
+ ]
+}
