@@ -1155,8 +1155,10 @@
    "name": "Obadiah",
    "division": "Old Testament",
    "chapterCount": "1",
-   "translated": [],
-   "file": null
+   "translated": [
+    1
+   ],
+   "file": "data/books/obadiah.json"
   },
   {
    "id": "jonah",
