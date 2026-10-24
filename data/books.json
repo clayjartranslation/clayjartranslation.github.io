@@ -1855,9 +1855,19 @@
    "id": "2-corinthians",
    "name": "2 Corinthians",
    "division": "New Testament",
-   "chapterCount": "13",
-   "translated": [],
-   "file": null
+   "chapterCount": 13,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "file": "data/books/2-corinthians.json"
   },
   {
    "id": "galatians",

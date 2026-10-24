@@ -1,0 +1,1075 @@
+{
+ "id": "2-corinthians",
+ "name": "2 Corinthians",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), in the public-domain electronic edition of Maurice A. Robinson, with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The earliest substantial manuscript of the letter is P46 (Chester Beatty papyrus, usually dated about AD 200); its readings, like those of other manuscripts, are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation, a note says so. Old Testament quotations are translated afresh from Paul’s Greek, with the source given in a note. Greek *Christos* is rendered “Christ,” as part of Jesus’ name. Greek *adelphoi*, “brothers,” addresses the whole congregation, women and men. The letter is undisputedly Paul’s, sent in the name of Paul and Timothy (1:1) from Macedonia (2:13; 7:5; 9:2), probably about AD 55–56, after 1 Corinthians and before Romans. Its integrity is much debated. Every manuscript presents the letter as it stands here, with no trace of another arrangement; but many scholars think it was assembled from two or more of Paul’s letters to Corinth. The main proposals are these: (1) chapters 10–13, with their abrupt change to sharp self-defense and rebuke, belong to a different letter from chapters 1–9, either the earlier “tearful letter” mentioned in 2:3–4 and 7:8 or a later letter written after fresh trouble; (2) 6:14–7:1, which interrupts the appeal of 6:13 and 7:2 and has unusual vocabulary, is an insertion, whether Paul’s own (perhaps a fragment of the earlier letter mentioned in 1 Cor 5:9) or not; (3) chapters 8 and 9, each of which introduces the collection for Jerusalem as if afresh, were originally separate notes; and (4) 2:14–7:4 is a separate defense of Paul’s ministry set into an account of his travels (2:13 resumes at 7:5). Others defend the unity of the letter as it stands, explaining its shifts by pauses in dictation, fresh news, or a deliberate rhetorical strategy that saves the hardest words for the end. The “tearful letter” itself may be lost, may survive in chapters 10–13, or (in an older view) may be 1 Corinthians. This translation follows the canonical order without rearrangement.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    8,
+    12,
+    15,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "From Paul, by God’s will an apostle of Christ Jesus, and from Timothy{a} our brother, to God’s church at Corinth,{b} together with all the saints throughout Achaia:{c}"
+    },
+    {
+     "v": 2,
+     "text": "grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+     "v": 3,
+     "text": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and the God who gives every comfort,{d}"
+    },
+    {
+     "v": 4,
+     "text": "who comforts us in all our trouble, so that we in turn can comfort those in any trouble through the comfort with which God himself comforts us."
+    },
+    {
+     "v": 5,
+     "text": "For just as Christ’s sufferings overflow into our lives, so too through Christ our comfort overflows."
+    },
+    {
+     "v": 6,
+     "text": "If we are afflicted, it is for your comfort and salvation; if we are comforted, it is for your comfort, which takes effect when you patiently bear the same sufferings that we also suffer."
+    },
+    {
+     "v": 7,
+     "text": "Our hope for you is unshaken; we know that as partners in the sufferings you are partners in the comfort too."
+    },
+    {
+     "v": 8,
+     "text": "We would not have you unaware, brothers, of the trouble that came upon us in Asia.{e} We were weighed down far past our strength, so much so that we gave up hope even of staying alive."
+    },
+    {
+     "v": 9,
+     "text": "In our own minds we had heard our death sentence pronounced. That happened to make us trust not in ourselves but in the God who brings the dead back to life."
+    },
+    {
+     "v": 10,
+     "text": "He rescued us from so deadly a peril, and he will rescue us; on him we have fixed our hope that he will go on rescuing us,"
+    },
+    {
+     "v": 11,
+     "text": "as you too join in helping us by your prayers, so that thanks may be given on our behalf by many people for the favor granted to us through the prayers of many."
+    },
+    {
+     "v": 12,
+     "text": "For this is what we take pride in: the testimony of our conscience that we have conducted ourselves in the world, and above all toward you, with holiness{f} and godly sincerity, not by worldly wisdom but by the grace of God."
+    },
+    {
+     "v": 13,
+     "text": "Nothing we write to you is beyond what you can read and take in, and I hope you will take it in completely,"
+    },
+    {
+     "v": 14,
+     "text": "as you have already understood us in part, that we are your ground for pride, as you also are ours, on the day of our Lord Jesus.{g}"
+    },
+    {
+     "v": 15,
+     "text": "It was in this confidence that I intended to come first to you, so that you might have a second joy,{h}"
+    },
+    {
+     "v": 16,
+     "text": "My plan was to visit you on the way to Macedonia, then to return to you after Macedonia, and to be sent on by you toward Judea."
+    },
+    {
+     "v": 17,
+     "text": "When I planned this, was I being fickle? Or do I make my plans in a worldly way, ready to say “Yes, yes” and “No, no” in the same breath?"
+    },
+    {
+     "v": 18,
+     "text": "God is faithful, and as surely as he is, our message to you was never “Yes” that was also “No.”"
+    },
+    {
+     "v": 19,
+     "text": "For the Son of God, Jesus Christ, whom we preached among you, Silvanus{i} and Timothy and I, did not turn out to be “Yes” and “No”; rather, in him it has always been “Yes.”"
+    },
+    {
+     "v": 20,
+     "text": "For however many are God’s promises, in him they find their “Yes.” That is why it is through him also that we say the “Amen” to God, for his glory."
+    },
+    {
+     "v": 21,
+     "text": "Now it is God who makes both us and you secure in Christ, and who has anointed us;"
+    },
+    {
+     "v": 22,
+     "text": "He has stamped us with his seal, and has put his Spirit in our hearts as the first installment of what is to come.{j}"
+    },
+    {
+     "v": 23,
+     "text": "With my life at stake I call God to bear witness: I stayed away from Corinth in order to spare you."
+    },
+    {
+     "v": 24,
+     "text": "Not that we lord it over your faith; we are working with you for your joy, for it is by faith that you stand firm."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Timothy: Greek, “one who honors God.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Corinth: capital of the Roman province of Achaia."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Achaia: the Roman province of southern Greece."
+    },
+    {
+     "m": "d",
+     "ref": "1:3",
+     "text": "Every comfort: Greek *paraklēsis*, which can mean comfort, encouragement, or appeal; the related verb occurs throughout vv. 3–7."
+    },
+    {
+     "m": "e",
+     "ref": "1:8",
+     "text": "Asia: the Roman province in western Asia Minor, whose capital was Ephesus."
+    },
+    {
+     "m": "f",
+     "ref": "1:12",
+     "text": "Holiness: so the Westcott–Hort text, with P46, Sinaiticus, Alexandrinus and Vaticanus (as reported); many manuscripts read “simplicity” or “frankness.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:14",
+     "text": "Our Lord Jesus: many manuscripts add “Christ.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:15",
+     "text": "Second joy: so the Westcott–Hort text, with the corrected Sinaiticus, Vaticanus and a few others (as reported); most manuscripts read *charin*, “favor” or “benefit” (“a second benefit”), and the two words differ by one letter in Greek."
+    },
+    {
+     "m": "i",
+     "ref": "1:19",
+     "text": "Silvanus: Latin form of *Silas* (Acts 15:22), probably from Aramaic *sheila*, “asked for”; associated in Latin with *silva*, “forest.”"
+    },
+    {
+     "m": "j",
+     "ref": "1:22",
+     "text": "The first installment of what is to come: Greek *arrabōn*, a first installment that guarantees the rest."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    5,
+    12,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So I made up my mind not to pay you another painful visit."
+    },
+    {
+     "v": 2,
+     "text": "For if I cause you pain, who is left to cheer me except the very one I have pained?"
+    },
+    {
+     "v": 3,
+     "text": "And I wrote just as I did{a} so that when I came I would not be pained by those who ought to make me glad, for I am confident about all of you that my joy is the joy of you all."
+    },
+    {
+     "v": 4,
+     "text": "Out of deep affliction and heartache I wrote to you, shedding many tears,{b} not to grieve you but so that you would know how overflowing my love for you is."
+    },
+    {
+     "v": 5,
+     "text": "Whoever has given grief has grieved not me alone but, to a degree (I do not want to press the point too hard), every one of you."
+    },
+    {
+     "v": 6,
+     "text": "For such a person this punishment by the majority is enough,"
+    },
+    {
+     "v": 7,
+     "text": "so that now, instead, you should rather forgive and comfort him, or he may be overwhelmed by excessive grief."
+    },
+    {
+     "v": 8,
+     "text": "So I urge you to confirm your love for him."
+    },
+    {
+     "v": 9,
+     "text": "For this was my purpose in writing too: to test you and find out whether you are obedient in everything."
+    },
+    {
+     "v": 10,
+     "text": "Whomever you pardon, I pardon too. And what I have pardoned, if there was anything for me to pardon, I have pardoned for your sake before Christ,"
+    },
+    {
+     "v": 11,
+     "text": "so that Satan may not gain the advantage over us; for we are not ignorant of his designs."
+    },
+    {
+     "v": 12,
+     "text": "When I came to Troas{c} for the gospel of Christ, though a door was opened for me in the Lord,"
+    },
+    {
+     "v": 13,
+     "text": "I had no peace of mind, since my brother Titus{d} was nowhere to be found; so I took leave of them and set out for Macedonia."
+    },
+    {
+     "v": 14,
+     "text": "But thanks be to God, who always leads us as captives in Christ’s triumphal procession{e} and through us spreads everywhere the fragrance of the knowledge of him."
+    },
+    {
+     "v": 15,
+     "text": "We are Christ’s sweet scent offered up to God, both among people on the way to salvation and among people on the way to ruin:"
+    },
+    {
+     "v": 16,
+     "text": "to the one, a smell of death leading to death; to the other, a fragrance of life leading to life. And who is equal to such a task?"
+    },
+    {
+     "v": 17,
+     "text": "For we are not like so many,{f} peddling the word of God for profit; we speak in Christ with sincerity, as men sent from God, in God’s presence."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:3",
+     "text": "I wrote just as I did: this and v. 4 refer to a letter written “with many tears” between 1 Corinthians and this letter, often called the “tearful letter.” See the introduction."
+    },
+    {
+     "m": "b",
+     "ref": "2:4",
+     "text": "Shedding many tears: see the note on v. 3."
+    },
+    {
+     "m": "c",
+     "ref": "2:12",
+     "text": "Troas: Alexandria Troas, a port in northwestern Asia Minor."
+    },
+    {
+     "m": "d",
+     "ref": "2:13",
+     "text": "Titus: a Latin name, of uncertain meaning; a Gentile co-worker of Paul (Gal 2:1–3)."
+    },
+    {
+     "m": "e",
+     "ref": "2:14",
+     "text": "Triumphal procession: the Roman victory parade, in which captives were led along; the image may be of God leading his apostles either as captives or as fellow victors."
+    },
+    {
+     "m": "f",
+     "ref": "2:17",
+     "text": "So many: many manuscripts read “the rest.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    4,
+    7,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Is this the start of more self-commendation? Or must we, as certain others do, present letters of reference to you, or ask you for them?"
+    },
+    {
+     "v": 2,
+     "text": "Our letter is you yourselves, inscribed on our hearts,{a} recognized and read by all the world."
+    },
+    {
+     "v": 3,
+     "text": "It is clear that you are Christ’s letter, delivered by us, inscribed not in ink but by the living God’s Spirit, not on stone tablets but on the tablets of human hearts.{b}"
+    },
+    {
+     "v": 4,
+     "text": "That is the kind of trust we place in God, through Christ."
+    },
+    {
+     "v": 5,
+     "text": "Not that we are competent by ourselves to reckon anything as coming from us; our competence comes from God,"
+    },
+    {
+     "v": 6,
+     "text": "who has made us competent as ministers of a new covenant, not of the letter but of the Spirit. For the letter kills, but the Spirit gives life."
+    },
+    {
+     "v": 7,
+     "text": "The ministry that brought death was engraved in letters on stones, and yet it came in glory, so much so that the sons of Israel were unable to fix their eyes on Moses’ face because of the glory shining there, glory that was fading.{c}"
+    },
+    {
+     "v": 8,
+     "text": "Then surely the Spirit’s ministry will have still greater glory!"
+    },
+    {
+     "v": 9,
+     "text": "If the ministry that brought condemnation was glorious, far richer in glory is the ministry that brings righteousness."
+    },
+    {
+     "v": 10,
+     "text": "In fact, set beside this surpassing glory, the thing that was once glorified has lost its glory altogether."
+    },
+    {
+     "v": 11,
+     "text": "For if what was fading away came with glory, much more does what lasts remain in glory."
+    },
+    {
+     "v": 12,
+     "text": "Possessing a hope like this, we speak out with complete frankness."
+    },
+    {
+     "v": 13,
+     "text": "We are not like Moses, who would cover his face with a veil to stop the sons of Israel from staring at the end of a glory that was being abolished.{d}"
+    },
+    {
+     "v": 14,
+     "text": "But their minds were hardened. For to this day, when the old covenant is read, that same veil remains unlifted, because only in Christ is it done away with."
+    },
+    {
+     "v": 15,
+     "text": "To this present day a veil covers their hearts whenever Moses is read aloud;"
+    },
+    {
+     "v": 16,
+     "text": "but whenever someone turns to the Lord, the veil is taken away.{e}"
+    },
+    {
+     "v": 17,
+     "text": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom."
+    },
+    {
+     "v": 18,
+     "text": "And all of us, with unveiled faces reflecting{f} as in a mirror the glory of the Lord, are being transformed into the same image from one degree of glory to another, as it comes from the Lord, the Spirit.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:2",
+     "text": "Our hearts: a few manuscripts, including Sinaiticus (as reported), read “your hearts.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:3",
+     "text": "Tablets of human hearts: literally “tablets that are hearts of flesh,” echoing Exod 24:12; 31:18 and Ezek 11:19; 36:26; compare Jer 31:33."
+    },
+    {
+     "m": "c",
+     "ref": "3:7",
+     "text": "Fading: compare Exod 34:29–35."
+    },
+    {
+     "m": "d",
+     "ref": "3:13",
+     "text": "The end of a glory that was being abolished: or “the outcome of what was being abolished,” or “the goal of what was fading.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:16",
+     "text": "Taken away: echoing Exod 34:34, where “the Lord” is Yahweh; the subject (“someone,” or “Moses,” or “their heart”) is unexpressed in Greek."
+    },
+    {
+     "m": "f",
+     "ref": "3:18",
+     "text": "Reflecting: or “beholding.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:18",
+     "text": "The Lord, the Spirit: or “the Spirit of the Lord,” or “the Lord who is the Spirit.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    7,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Because we hold this ministry by God’s mercy, we never give up."
+    },
+    {
+     "v": 2,
+     "text": "We have renounced shameful, underhanded ways; we do not practice cunning or tamper with God’s word; but by openly declaring the truth we commend ourselves to everyone’s conscience in the sight of God."
+    },
+    {
+     "v": 3,
+     "text": "And even if our gospel is veiled, it is veiled to those who are perishing."
+    },
+    {
+     "v": 4,
+     "text": "The god of this present age has blinded the unbelieving minds of these people, so that the light of the gospel, which displays the glory of Christ, God’s image, does not dawn on them."
+    },
+    {
+     "v": 5,
+     "text": "It is not ourselves that we proclaim; we proclaim Jesus Christ as Lord, and ourselves as your servants{a} on account of Jesus."
+    },
+    {
+     "v": 6,
+     "text": "For the God who said, “Light shall shine out of darkness,”{b} is the one who has shone in our hearts to give the light of the knowledge of God’s glory in the face of Christ.{c}"
+    },
+    {
+     "v": 7,
+     "text": "But we hold this treasure in clay jars,{d} to show that the surpassing power belongs to God and does not come from us."
+    },
+    {
+     "v": 8,
+     "text": "We are hard pressed on every side, but not hemmed in; at a loss, but not at our wits’ end;"
+    },
+    {
+     "v": 9,
+     "text": "hunted down, but not abandoned; knocked to the ground, but not destroyed;"
+    },
+    {
+     "v": 10,
+     "text": "always carrying about in our body the dying of Jesus, so that the life of Jesus may also be revealed in our body."
+    },
+    {
+     "v": 11,
+     "text": "While we live, we are continually being surrendered to death because of Jesus, so that Jesus’ life may be displayed in our mortal flesh as well."
+    },
+    {
+     "v": 12,
+     "text": "Death, then, is busy in us, and life is busy in you."
+    },
+    {
+     "v": 13,
+     "text": "Yet since we have the same spirit of faith as is shown in what is written, “I believed, and so I spoke,”{e} we too believe, and so we also speak,"
+    },
+    {
+     "v": 14,
+     "text": "knowing that he who raised the Lord Jesus{f} will raise us also with Jesus and bring us with you into his presence."
+    },
+    {
+     "v": 15,
+     "text": "All this is for your benefit, so that as grace spreads to more and more people it may make thanksgiving abound all the more, and God may be glorified."
+    },
+    {
+     "v": 16,
+     "text": "That is why we never give up. Though our outward person is decaying, our inward person is renewed from one day to the next."
+    },
+    {
+     "v": 17,
+     "text": "The light trouble of this passing moment is working out for us a glory that is eternal and weighty, past all comparison,"
+    },
+    {
+     "v": 18,
+     "text": "for our gaze is fixed not on what is visible but on what is invisible. What is visible lasts for a time; what is invisible lasts for ever."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:5",
+     "text": "Servants: literally “slaves.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:6",
+     "text": "Gen 1:3; compare Isa 9:2."
+    },
+    {
+     "m": "c",
+     "ref": "4:6",
+     "text": "Face of Christ: many manuscripts read “Jesus Christ,” and some “Christ Jesus.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:7",
+     "text": "Clay jars: or “earthenware vessels,” cheap and fragile pottery."
+    },
+    {
+     "m": "e",
+     "ref": "4:13",
+     "text": "Ps 116:10 (115:1 Greek), following the Greek Old Testament."
+    },
+    {
+     "m": "f",
+     "ref": "4:14",
+     "text": "The Lord Jesus: “Lord” is bracketed in the Westcott–Hort text."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    6,
+    11,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "We know that if the tent that is our earthly house is taken down, we have a building from God, a house not built by human hands, everlasting in the heavens."
+    },
+    {
+     "v": 2,
+     "text": "Meanwhile we groan in this tent, longing to put on over it our dwelling from heaven,"
+    },
+    {
+     "v": 3,
+     "text": "assuming that, once we have put it on,{a} we will not be found naked."
+    },
+    {
+     "v": 4,
+     "text": "For while we remain in this tent we groan under our burden, not because we wish to be unclothed, but because we wish to be further clothed, so that what is mortal may be swallowed up by life."
+    },
+    {
+     "v": 5,
+     "text": "It is God who has fashioned us for this very purpose, and he has given us the Spirit as a pledge of what is to come."
+    },
+    {
+     "v": 6,
+     "text": "So we are always full of courage. We know that while we are at home in the body we are away from the Lord,"
+    },
+    {
+     "v": 7,
+     "text": "for our life is guided by faith, not by sight."
+    },
+    {
+     "v": 8,
+     "text": "We are full of courage, I say, and would much prefer to leave our home in the body and make our home with the Lord."
+    },
+    {
+     "v": 9,
+     "text": "Whether we are in our home or away from it, then, our one ambition is to be pleasing to him."
+    },
+    {
+     "v": 10,
+     "text": "Every one of us must be exposed to view before Christ’s tribunal, so that each person may receive his due for the deeds done through the body, good or evil."
+    },
+    {
+     "v": 11,
+     "text": "Since we know the fear of the Lord, we seek to win people over. God sees us as we are, and I trust that your consciences see us so as well."
+    },
+    {
+     "v": 12,
+     "text": "We are not commending ourselves to you again; we are giving you an occasion to take pride in us, so that you may have an answer for those who take pride in appearances and not in what is in the heart."
+    },
+    {
+     "v": 13,
+     "text": "If we have lost our senses, that is God’s concern; if we are sober-minded, that is for your benefit."
+    },
+    {
+     "v": 14,
+     "text": "For Christ’s love holds us fast, since we have reached this conclusion: one man died for all, and therefore all have died."
+    },
+    {
+     "v": 15,
+     "text": "His death was for all, so that the living should stop living to please themselves and live instead for the one who died and rose again on their behalf."
+    },
+    {
+     "v": 16,
+     "text": "So from now on we regard no one from a merely human point of view. Even if we once regarded Christ in that way, we no longer do."
+    },
+    {
+     "v": 17,
+     "text": "So if anyone is in Christ, there is a new creation.{b} The old things have gone; look, new things have come into being!{c}"
+    },
+    {
+     "v": 18,
+     "text": "Everything is God’s doing. He has reconciled us to himself by means of Christ, and has assigned to us the service of reconciling others:"
+    },
+    {
+     "v": 19,
+     "text": "that God was in Christ reconciling the world to himself,{d} not counting people’s trespasses against them, and entrusting to us the message of reconciliation."
+    },
+    {
+     "v": 20,
+     "text": "We are envoys, then, representing Christ, and God is appealing to you through our words. On Christ’s behalf we plead with you: be reconciled to God."
+    },
+    {
+     "v": 21,
+     "text": "The one who knew no sin God made to be sin{e} for our sake, so that in him we might become the righteousness of God."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:3",
+     "text": "Once we have put it on: so the Westcott–Hort text and most manuscripts (as reported), *endysamenoi*; the original hand of Claromontanus and a few others read *ekdysamenoi*, “once we have taken it off,” which some editors prefer as less obvious."
+    },
+    {
+     "m": "b",
+     "ref": "5:17",
+     "text": "There is a new creation: or “he is a new creature.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:17",
+     "text": "New things have come into being: many later manuscripts read “all things have become new.”"
+    },
+    {
+     "m": "d",
+     "ref": "5:19",
+     "text": "God was in Christ reconciling the world to himself: or “in Christ God was reconciling the world to himself.”"
+    },
+    {
+     "m": "e",
+     "ref": "5:21",
+     "text": "Sin: or “a sin offering,” a sense the Hebrew word for “sin” can bear (for example Lev 4:24)."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    11,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As God’s fellow workers, then, we also appeal to you not to let the grace of God you have received go for nothing."
+    },
+    {
+     "v": 2,
+     "text": "For he says, “At a favorable time I listened to you, and on a day of salvation I came to your aid.”{a} Look, now is the favorable time; look, now is the day of salvation!"
+    },
+    {
+     "v": 3,
+     "text": "We give nobody any cause for offense in anything, so that our service may not be discredited."
+    },
+    {
+     "v": 4,
+     "text": "Instead, as God’s servants we commend ourselves in every way: by great endurance, in afflictions, in hardships, in distresses,"
+    },
+    {
+     "v": 5,
+     "text": "in floggings, in imprisonments, in riots, in labors, in sleepless nights, in hunger;"
+    },
+    {
+     "v": 6,
+     "text": "in integrity, in understanding, in forbearance, in goodness, in the Holy Spirit, in love without pretense,"
+    },
+    {
+     "v": 7,
+     "text": "in the message of truth, in God’s power; armed with righteousness in right hand and left;"
+    },
+    {
+     "v": 8,
+     "text": "through honor and dishonor, through slander and praise; treated as impostors, and yet true;"
+    },
+    {
+     "v": 9,
+     "text": "as unknown, and yet well known; as dying, and look, we live on; as punished, and yet not put to death;"
+    },
+    {
+     "v": 10,
+     "text": "as grieving, yet always rejoicing; as poor, yet making many rich; as having nothing, yet possessing everything."
+    },
+    {
+     "v": 11,
+     "text": "We have spoken freely to you, Corinthians; our heart is wide open to you."
+    },
+    {
+     "v": 12,
+     "text": "It is not on our side that you are cramped; you are cramped in your own affections."
+    },
+    {
+     "v": 13,
+     "text": "In return (I speak as to my children), open wide your hearts as well."
+    },
+    {
+     "v": 14,
+     "text": "Do not be yoked unequally with unbelievers.{b} For what partnership can righteousness have with lawlessness? What fellowship has light with darkness?"
+    },
+    {
+     "v": 15,
+     "text": "What harmony is there between Christ and Beliar?{c} What does a believer share with an unbeliever?"
+    },
+    {
+     "v": 16,
+     "text": "What agreement does God’s temple have with idols? For we{d} are the temple of the living God, as God said: “I will live among them and walk among them, and I will be their God, and they will be my people.”{e}"
+    },
+    {
+     "v": 17,
+     "text": "So “Leave their company and keep yourselves apart, says the Lord, and lay no hand on what is unclean;{f} then I will receive you,{g}"
+    },
+    {
+     "v": 18,
+     "text": "I will be a Father to you, and to me you will be sons and daughters, declares the Lord Almighty.”{h}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Isa 49:8, following the Greek Old Testament. In the Hebrew text the speaker is Yahweh."
+    },
+    {
+     "m": "b",
+     "ref": "6:14",
+     "text": "Yoked unequally with unbelievers: compare Deut 22:10; Lev 19:19."
+    },
+    {
+     "m": "c",
+     "ref": "6:15",
+     "text": "Beliar: a form of *Belial* (Hebrew, “worthlessness”), used in Jewish writings of the period as a name for Satan."
+    },
+    {
+     "m": "d",
+     "ref": "6:16",
+     "text": "We: many manuscripts read “you.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:16",
+     "text": "Lev 26:11–12; compare Ezek 37:27."
+    },
+    {
+     "m": "f",
+     "ref": "6:17",
+     "text": "Isa 52:11. In the Hebrew text, “the Lord” is Yahweh."
+    },
+    {
+     "m": "g",
+     "ref": "6:17",
+     "text": "Ezek 20:34, following the Greek Old Testament."
+    },
+    {
+     "m": "h",
+     "ref": "6:18",
+     "text": "2 Sam 7:14, 8; compare Isa 43:6. “The Lord Almighty” renders the Greek Old Testament’s *kyrios pantokratōr*, which translates the Hebrew “Yahweh of hosts.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    2,
+    5
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "These, dear friends, are the promises we hold; so let us purify ourselves of everything that pollutes flesh or spirit, and in reverence for God bring our holiness to completion."
+    },
+    {
+     "v": 2,
+     "text": "Open your hearts to us. Not one person have we wronged, corrupted, or exploited."
+    },
+    {
+     "v": 3,
+     "text": "I am not saying this to condemn you; I have told you before that you are in our hearts, to die together and to live together."
+    },
+    {
+     "v": 4,
+     "text": "My frankness with you is great, and great is my pride in you. I am full to the brim with encouragement; through all our troubles my joy overflows."
+    },
+    {
+     "v": 5,
+     "text": "For even when we came into Macedonia, our flesh had no relief; we were afflicted at every turn: conflicts outside, fears within."
+    },
+    {
+     "v": 6,
+     "text": "Yet God, the comforter of the lowly, gave us comfort when Titus arrived,"
+    },
+    {
+     "v": 7,
+     "text": "and not only by his arrival but also by the comfort he had received from you, as he told us of your longing, your sorrow, your zeal for me, so that I rejoiced still more."
+    },
+    {
+     "v": 8,
+     "text": "Granted that my letter grieved you, I have no regrets about it. I did regret it at the time (for I see that the letter pained you, if only briefly),{a}"
+    },
+    {
+     "v": 9,
+     "text": "but now I am glad, not that you were pained, but that the pain brought you to repentance. Your sorrow was of God’s kind, so that we did you no damage in any respect."
+    },
+    {
+     "v": 10,
+     "text": "For grief as God intends it produces a repentance that leads to salvation and leaves no regret, but the world’s grief produces death."
+    },
+    {
+     "v": 11,
+     "text": "Look at what this godly sorrow has brought about in you: such diligence, such eagerness to be cleared, such outrage, such dread, such yearning, such ardor, such determination to set things right! In every way you have proved yourselves blameless in this affair."
+    },
+    {
+     "v": 12,
+     "text": "So my letter was written not for the sake of the offender or for the sake of the injured party, but so that before God you yourselves might see clearly how devoted you are to us.{b}"
+    },
+    {
+     "v": 13,
+     "text": "This is what has brought us comfort. And on top of our comfort, we were made gladder still by Titus’ gladness, because all of you have refreshed his spirit."
+    },
+    {
+     "v": 14,
+     "text": "Whatever boasts I made to him about you, you did not let me down; we have always spoken the truth to you, and in the same way the boast we made to Titus has turned out to be the truth."
+    },
+    {
+     "v": 15,
+     "text": "And his affection for you is all the greater as he remembers the obedience of all of you, how you received him with fear and trembling."
+    },
+    {
+     "v": 16,
+     "text": "I rejoice that in everything I can have confidence in you."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:8",
+     "text": "If only briefly: the punctuation of vv. 8–9 is uncertain; the sentence may instead run “even if I regretted it, I see that the letter pained you, if only briefly; now I am glad…”"
+    },
+    {
+     "m": "b",
+     "ref": "7:12",
+     "text": "How devoted you are to us: literally “your earnestness on our behalf”; many later manuscripts read “our earnestness on your behalf.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    8,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Brothers, we want you to know about the grace God has bestowed on the churches of Macedonia."
+    },
+    {
+     "v": 2,
+     "text": "In the midst of a severe ordeal of affliction, their overflowing joy and their deep poverty have welled up in a wealth of generosity."
+    },
+    {
+     "v": 3,
+     "text": "They gave as far as their means allowed, I can testify, and beyond their means, of their own free will,"
+    },
+    {
+     "v": 4,
+     "text": "begging us with much entreaty for the privilege of taking part in this service to the saints."
+    },
+    {
+     "v": 5,
+     "text": "And they did not do merely what we had hoped; they gave themselves first to the Lord and then, by God’s will, to us."
+    },
+    {
+     "v": 6,
+     "text": "So we have urged Titus that, as he had made a beginning, he should also bring this act of grace to completion among you."
+    },
+    {
+     "v": 7,
+     "text": "You excel in everything: in faith, in speech, in knowledge, in every kind of eagerness, and in the love from us that lives in you.{a} See that you excel in this act of grace as well."
+    },
+    {
+     "v": 8,
+     "text": "I am not saying this as an order; I am testing the genuineness of your love by the eagerness of others."
+    },
+    {
+     "v": 9,
+     "text": "You are familiar with the generosity of our Lord Jesus Christ:{b} he was rich, yet for your sakes he made himself poor, so that by his poverty you might be made rich."
+    },
+    {
+     "v": 10,
+     "text": "And in this matter I am giving you my advice. It is to your advantage, since a year ago you were the first not only to act but even to want to act."
+    },
+    {
+     "v": 11,
+     "text": "So now finish the task, so that the eagerness of your intention may be matched by its accomplishment, as your means allow."
+    },
+    {
+     "v": 12,
+     "text": "For if the willingness is there, a gift is acceptable in proportion to what a person has, not what he does not have."
+    },
+    {
+     "v": 13,
+     "text": "The aim is not that others should have relief while you are hard pressed, but that there should be equality."
+    },
+    {
+     "v": 14,
+     "text": "At the present time your surplus can meet their need, so that their surplus may in turn meet your need, and so there may be equality."
+    },
+    {
+     "v": 15,
+     "text": "As it is written, “The one who gathered much had nothing left over, and the one who gathered little did not go short.”{c}"
+    },
+    {
+     "v": 16,
+     "text": "But thanks be to God, who puts into Titus’ heart the same eager concern for you that I have."
+    },
+    {
+     "v": 17,
+     "text": "For he not only welcomed our appeal; being very eager himself, he is going to you of his own accord."
+    },
+    {
+     "v": 18,
+     "text": "Along with him we are sending the brother whose service in the gospel has won him praise in every church."
+    },
+    {
+     "v": 19,
+     "text": "More than that, he has been appointed by the churches to travel with us as we administer this act of grace, for the glory of the Lord himself and to show our goodwill."
+    },
+    {
+     "v": 20,
+     "text": "We are taking this precaution so that no one may blame us about the way we are administering this generous gift."
+    },
+    {
+     "v": 21,
+     "text": "Our purpose is to do what is right not just before the Lord but before human eyes as well.{d}"
+    },
+    {
+     "v": 22,
+     "text": "And with them we are sending our brother whom we have often tested in many matters and found eager, and who is now much more eager because of his great confidence in you."
+    },
+    {
+     "v": 23,
+     "text": "As for Titus, he is my partner and fellow worker in your service; as for our brothers, they are envoys{e} of the churches, a glory to Christ."
+    },
+    {
+     "v": 24,
+     "text": "So before the churches give them proof of your love and of our reason for boasting about you."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:7",
+     "text": "The love from us that lives in you: so the Westcott–Hort text, with P46 and Vaticanus (as reported); many manuscripts read “your love for us.”"
+    },
+    {
+     "m": "b",
+     "ref": "8:9",
+     "text": "Our Lord Jesus Christ: “Christ” is bracketed in the Westcott–Hort text."
+    },
+    {
+     "m": "c",
+     "ref": "8:15",
+     "text": "Exod 16:18."
+    },
+    {
+     "m": "d",
+     "ref": "8:21",
+     "text": "Prov 3:4, following the Greek Old Testament."
+    },
+    {
+     "m": "e",
+     "ref": "8:23",
+     "text": "Envoys: Greek *apostoloi*, “apostles,” here in the general sense of messengers sent by the churches."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    6
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "It is quite unnecessary for me to write to you about this service to the saints,"
+    },
+    {
+     "v": 2,
+     "text": "I am well aware how willing you are; I keep boasting of you to the Macedonians that Achaia has been prepared since a year ago, and your enthusiasm has stirred up most of them."
+    },
+    {
+     "v": 3,
+     "text": "Still, I am sending the brothers, so that our boast of you on this point may not be proved hollow, and so that you will be prepared, just as I kept saying."
+    },
+    {
+     "v": 4,
+     "text": "Otherwise, if any Macedonians come with me and find you unprepared, we (to say nothing of you) would be humiliated for having been so confident.{a}"
+    },
+    {
+     "v": 5,
+     "text": "I therefore judged it needful to ask the brothers to go to you ahead of me and get your promised gift ready beforehand, so that it may be on hand as a free gift, not one extracted from you.{b}"
+    },
+    {
+     "v": 6,
+     "text": "Remember this: whoever sows sparingly will reap sparingly, and whoever sows generously will reap generously."
+    },
+    {
+     "v": 7,
+     "text": "Each one should give as he has made up his mind, not grudgingly or under compulsion, for “God loves a cheerful giver.”{c}"
+    },
+    {
+     "v": 8,
+     "text": "And God is able to make every grace overflow to you, so that, always having enough of everything, you may overflow in every good work."
+    },
+    {
+     "v": 9,
+     "text": "As it is written, “He has scattered his gifts, he has given to the poor; his righteousness endures for ever.”{d}"
+    },
+    {
+     "v": 10,
+     "text": "He who supplies seed to the sower and bread for food{e} will supply and multiply your seed and increase the harvest of your righteousness."
+    },
+    {
+     "v": 11,
+     "text": "In every way you will be made rich enough for every kind of generosity, and your generosity, passed on by us, will lead to thanksgiving to God."
+    },
+    {
+     "v": 12,
+     "text": "For the carrying out of this public service is not only filling up what the saints lack; it also spills over into abundant thanks to God."
+    },
+    {
+     "v": 13,
+     "text": "Through the proof that this service provides, they will glorify God for the obedience of your confession of the gospel of Christ and for the generosity of your sharing with them and with all,"
+    },
+    {
+     "v": 14,
+     "text": "and their longing for you and their prayers for you will reflect God’s grace, which surpasses all bounds in you."
+    },
+    {
+     "v": 15,
+     "text": "Thanks be to God for his indescribable gift!"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:4",
+     "text": "So confident: many later manuscripts add “in this boasting.”"
+    },
+    {
+     "m": "b",
+     "ref": "9:5",
+     "text": "Extracted from you: literally “as greed,” that is, as an extortion."
+    },
+    {
+     "m": "c",
+     "ref": "9:7",
+     "text": "Prov 22:8, in the Greek Old Testament only."
+    },
+    {
+     "m": "d",
+     "ref": "9:9",
+     "text": "Ps 112:9."
+    },
+    {
+     "m": "e",
+     "ref": "9:10",
+     "text": "Bread for food: Isa 55:10."
+    }
+   ]
+  }
+ ]
+}
