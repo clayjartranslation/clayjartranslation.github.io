@@ -1,0 +1,840 @@
+{
+ "id": "1-timothy",
+ "name": "1 Timothy",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The chief early manuscripts are Codex Sinaiticus, Codex Alexandrinus and Codex Ephraemi (4th–5th century); Codex Vaticanus lacks this letter. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation, a note says so. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. Authorship: 1 Timothy, 2 Timothy and Titus, often called the Pastoral Letters, name Paul as their author. The traditional view holds that Paul wrote them near the end of his life, perhaps after a release from the imprisonment described in Acts 28. Many modern scholars think they were written by a follower of Paul in his name, perhaps around AD 80–110, pointing to differences from the undisputed letters in vocabulary, style, church organization and the settings they describe. Others hold that Paul wrote them, perhaps through a secretary who shaped their wording. The question remains open.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    8,
+    12,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Paul,{a} apostle{b} of Christ Jesus under orders from God our Savior and from Christ Jesus, who is our hope,{c}"
+    },
+    {
+     "v": 2,
+     "text": "to Timothy,{d} his true son in the faith: grace, mercy, peace from God the Father and Christ Jesus our Lord."
+    },
+    {
+     "v": 3,
+     "text": "When I was setting out for Macedonia,{e} I urged you to stay on in Ephesus{f} so that you could order certain people to stop teaching a different doctrine"
+    },
+    {
+     "v": 4,
+     "text": "and to stop occupying themselves with myths and with genealogies that go on without end. These breed speculation rather than God’s ordering of things,{g} which is known by faith."
+    },
+    {
+     "v": 5,
+     "text": "The aim of that charge is love, springing from a clean heart, a good conscience and faith without pretense."
+    },
+    {
+     "v": 6,
+     "text": "Some have missed the mark here and wandered off into empty talk."
+    },
+    {
+     "v": 7,
+     "text": "They want to be teachers of the law, yet they have no understanding either of the words they use or of the matters they insist on so confidently."
+    },
+    {
+     "v": 8,
+     "text": "Now we know that the law is a fine thing, provided it is used lawfully,"
+    },
+    {
+     "v": 9,
+     "text": "with this understanding: law is not laid down for an upright person but for those who flout law and will not be ruled, for the godless and sinful, for the unholy and profane, for those who strike their fathers or mothers, for murderers,"
+    },
+    {
+     "v": 10,
+     "text": "the sexually immoral, men who lie with males,{h} kidnappers,{i} liars, perjurers, and whatever else stands opposed to healthy teaching,"
+    },
+    {
+     "v": 11,
+     "text": "in keeping with the glorious good news{j} of the blessed God, which was entrusted to me."
+    },
+    {
+     "v": 12,
+     "text": "I am grateful to the one who has given me strength, Christ Jesus our Lord, because he judged me trustworthy and appointed me to his service,"
+    },
+    {
+     "v": 13,
+     "text": "though in time past I was a blasphemer, a persecutor and a man of violence. But I was shown mercy, because I acted in ignorance, in unbelief,"
+    },
+    {
+     "v": 14,
+     "text": "and the grace of our Lord overflowed beyond measure, together with the faith and love that are in Christ Jesus."
+    },
+    {
+     "v": 15,
+     "text": "Here is a saying to be trusted and worthy of complete acceptance:{k} Christ Jesus came into the world to save sinners. And of these I am the foremost."
+    },
+    {
+     "v": 16,
+     "text": "Yet this is exactly why mercy was shown me: Christ Jesus meant to make me, the chief of sinners, the first showcase of all his patience, a pattern for those who would later put their trust in him and gain life everlasting."
+    },
+    {
+     "v": 17,
+     "text": "To the King of the ages, immortal, invisible, the only God,{l} be honor and glory for ever and ever. Amen."
+    },
+    {
+     "v": 18,
+     "text": "This charge I commit to you, Timothy my son, in line with the prophecies once spoken about you, so that by their help you may fight the good fight,{m}"
+    },
+    {
+     "v": 19,
+     "text": "holding on to faith and a good conscience. By thrusting conscience aside, some have made shipwreck of their faith."
+    },
+    {
+     "v": 20,
+     "text": "Among them are Hymenaeus and Alexander,{n} whom I have handed over to Satan{o} so that they may be taught by discipline not to blaspheme."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Apostle: Greek *apostolos*, “one sent,” a messenger or envoy."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "*Jesus*: the Greek form of Hebrew *Yeshua* (Joshua), “Yahweh saves.” *Christ*: Greek *Christos*, “Anointed One,” equivalent to Hebrew *mashiach*, “Messiah.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "*Timothy*: Greek *Timotheos*, “one who honors God.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:3",
+     "text": "Macedonia: the Roman province in northern Greece."
+    },
+    {
+     "m": "f",
+     "ref": "1:3",
+     "text": "Ephesus: the chief city of the Roman province of Asia, on the western coast of modern Turkey."
+    },
+    {
+     "m": "g",
+     "ref": "1:4",
+     "text": "God’s ordering of things: Greek *oikonomia theou*, “God’s household management,” that is, his plan or arrangement; some manuscripts read *oikodomēn*, “God’s building up.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:10",
+     "text": "Men who lie with males: Greek *arsenokoitai*, a rare compound of “male” and “bed,” apparently drawn from Lev 18:22 and 20:13 in the Greek Old Testament; compare 1 Cor 6:9. Its precise range of meaning is debated."
+    },
+    {
+     "m": "i",
+     "ref": "1:10",
+     "text": "Kidnappers: or “slave traders,” those who seize people to sell them."
+    },
+    {
+     "m": "j",
+     "ref": "1:11",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel”; so throughout."
+    },
+    {
+     "m": "k",
+     "ref": "1:15",
+     "text": "A saying to be trusted: literally “faithful is the word,” a formula found in these letters (3:1; 4:9; 2 Tim 2:11; Titus 3:8) to introduce or confirm a saying."
+    },
+    {
+     "m": "l",
+     "ref": "1:17",
+     "text": "The only God: later manuscripts read “the only wise God.”"
+    },
+    {
+     "m": "m",
+     "ref": "1:18",
+     "text": "Fight the good fight: literally “wage the good warfare.”"
+    },
+    {
+     "m": "n",
+     "ref": "1:20",
+     "text": "*Hymenaeus*: Greek, named after Hymen, the god of weddings; compare 2 Tim 2:17. *Alexander*: Greek, “defender of men”; perhaps the man of 2 Tim 4:14."
+    },
+    {
+     "m": "o",
+     "ref": "1:20",
+     "text": "Satan: Hebrew, “adversary,” “accuser.” *Handed over to Satan*: compare 1 Cor 5:5; probably exclusion from the church’s fellowship."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "My first request, then, is this: let petitions, prayers, pleas and thanksgivings be made for everyone,"
+    },
+    {
+     "v": 2,
+     "text": "for kings and all who hold high positions, so that we may lead a peaceful and quiet life in all godliness and dignity."
+    },
+    {
+     "v": 3,
+     "text": "This is good, and pleasing in the sight of God our Savior,"
+    },
+    {
+     "v": 4,
+     "text": "whose will is that all people be saved and come to know the truth."
+    },
+    {
+     "v": 5,
+     "text": "For there is one God, and one mediator also between God and humankind, the man Christ Jesus,"
+    },
+    {
+     "v": 6,
+     "text": "who gave himself as a ransom for all, the testimony given at the proper time.{a}"
+    },
+    {
+     "v": 7,
+     "text": "For this I was appointed a herald and an apostle (I speak the truth, I am not lying),{b} a teacher of the Gentiles in faith and truth."
+    },
+    {
+     "v": 8,
+     "text": "So my wish is that in every place the men should pray, lifting up holy hands, free from anger and argument."
+    },
+    {
+     "v": 9,
+     "text": "Likewise the women should adorn themselves in fitting dress, with modesty and good sense, not with braided hair and gold or pearls{c} or costly clothes,"
+    },
+    {
+     "v": 10,
+     "text": "but with what suits women who profess reverence for God, namely good works."
+    },
+    {
+     "v": 11,
+     "text": "A woman should learn in quietness, in full submission."
+    },
+    {
+     "v": 12,
+     "text": "I do not permit a woman to teach or to domineer over a man;{d} she is to remain quiet."
+    },
+    {
+     "v": 13,
+     "text": "For Adam was formed first, and Eve after him.{e}"
+    },
+    {
+     "v": 14,
+     "text": "And it was not Adam who was deceived; it was the woman who was deceived and fell into transgression.{f}"
+    },
+    {
+     "v": 15,
+     "text": "Yet she will be saved through childbearing, if they continue in faith and love and holiness, with good sense.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:6",
+     "text": "The testimony given at the proper time: literally “the testimony in its own times.” Verses 5–6 may quote an early confession; the setting as verse here is editorial."
+    },
+    {
+     "m": "b",
+     "ref": "2:7",
+     "text": "I speak the truth: later manuscripts add “in Christ.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:9",
+     "text": "Pearls: in the ancient world among the costliest of gems."
+    },
+    {
+     "m": "d",
+     "ref": "2:12",
+     "text": "Domineer over: Greek *authentein*, found only here in the New Testament. Its sense is debated: “have authority over,” “assume authority over,” or “dominate.” *A woman … a man*: or “a wife … her husband”; the same Greek words serve for both."
+    },
+    {
+     "m": "e",
+     "ref": "2:13",
+     "text": "*Adam*: Hebrew, “human being,” related to *adamah*, “ground” (Gen 2:7). *Eve*: Hebrew *Chawwah*, “living” (Gen 3:20)."
+    },
+    {
+     "m": "f",
+     "ref": "2:14",
+     "text": "Compare Gen 3:13."
+    },
+    {
+     "m": "g",
+     "ref": "2:15",
+     "text": "Saved through childbearing: the meaning is much debated. Proposals include being kept safe in childbirth; being saved through the birth of the Messiah (compare Gen 3:15); or being saved while fulfilling an ordinary role as wife and mother. *They*: probably women generally, or the women and their children."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    8,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Here is a trustworthy saying:{a} whoever sets his heart on being an overseer{b} is longing for a fine task."
+    },
+    {
+     "v": 2,
+     "text": "An overseer, then, must be above reproach, the husband of one wife,{c} clear-headed, self-controlled, orderly, hospitable, able to teach,"
+    },
+    {
+     "v": 3,
+     "text": "not a heavy drinker,{d} not a brawler but gentle, not quarrelsome, free from the love of money."
+    },
+    {
+     "v": 4,
+     "text": "He should govern his own home well and have children who obey him with all proper respect."
+    },
+    {
+     "v": 5,
+     "text": "If someone cannot govern his own home, how can he look after the church of God?"
+    },
+    {
+     "v": 6,
+     "text": "He should not be newly converted,{e} in case pride goes to his head and he falls into the condemnation that came on the devil.{f}"
+    },
+    {
+     "v": 7,
+     "text": "He must also be well thought of by outsiders, so that he does not fall into disgrace and into the devil’s trap."
+    },
+    {
+     "v": 8,
+     "text": "Deacons{g} likewise must be worthy of respect, not double-tongued, not addicted to much wine, not out for shameful gain."
+    },
+    {
+     "v": 9,
+     "text": "They must hold the secret{h} of the faith with a clear conscience."
+    },
+    {
+     "v": 10,
+     "text": "And they too should first be tested; then, if no charge can be brought against them, let them serve as deacons."
+    },
+    {
+     "v": 11,
+     "text": "Women, likewise,{i} must be worthy of respect, not slanderers, clear-headed, faithful in everything."
+    },
+    {
+     "v": 12,
+     "text": "Each deacon is to be the husband of one wife and to govern his children and his home well."
+    },
+    {
+     "v": 13,
+     "text": "Those who serve well in this office win for themselves an honorable rank and much confidence in the faith that rests in Christ Jesus."
+    },
+    {
+     "v": 14,
+     "text": "Though I expect to be with you soon, I am sending you these instructions"
+    },
+    {
+     "v": 15,
+     "text": "so that, should I be held up, you may know what conduct befits those in God’s house, the church of the living God, which upholds the truth as a pillar and a base."
+    },
+    {
+     "v": 16,
+     "text": "And beyond all question great is the secret of our godliness: He who was made visible in the flesh,{j} was vindicated in the Spirit,{k} was seen by angels, was proclaimed among the nations, was believed in throughout the world, was taken up in glory."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "A trustworthy saying: some manuscripts read “a human saying,” perhaps meaning “a common saying.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:1",
+     "text": "Overseer: Greek *episkopos*, “one who watches over,” traditionally “bishop.” In these letters the overseers appear to be the same as the elders (compare Titus 1:5–7)."
+    },
+    {
+     "m": "c",
+     "ref": "3:2",
+     "text": "The husband of one wife: literally “a man of one woman.” This may forbid polygamy, remarriage after divorce or after a spouse’s death, or unfaithfulness; the precise sense is debated. So also in verse 12."
+    },
+    {
+     "m": "d",
+     "ref": "3:3",
+     "text": "Not a heavy drinker: literally “not given to wine.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:6",
+     "text": "Newly converted: Greek *neophytos*, “newly planted.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:6",
+     "text": "The devil: Greek *diabolos*, “slanderer”; so also in verse 7. *The condemnation that came on the devil*: or “the condemnation the devil brings.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:8",
+     "text": "Deacons: Greek *diakonoi*, “servants,” “ministers”; here church officers."
+    },
+    {
+     "m": "h",
+     "ref": "3:9",
+     "text": "Secret: Greek *mystērion*, traditionally “mystery”; so also in verse 16."
+    },
+    {
+     "m": "i",
+     "ref": "3:11",
+     "text": "Women: or “wives,” that is, the deacons’ wives; or women who serve as deacons (compare Rom 16:1)."
+    },
+    {
+     "m": "j",
+     "ref": "3:16",
+     "text": "He who: so the earliest manuscripts, reportedly including Sinaiticus before correction, Alexandrinus and Ephraemi before correction (Greek *hos*). Some manuscripts read “which” (*ho*), agreeing with “secret.” Later manuscripts read “God” (*theos*), a change easily made in Greek manuscripts, where *hos* (ΟΣ) and the abbreviation for *theos* (ΘΣ) differ by two small strokes. The lines that follow are widely thought to quote an early hymn; the setting as verse is editorial."
+    },
+    {
+     "m": "k",
+     "ref": "3:16",
+     "text": "Vindicated in the Spirit: or “justified by the Spirit,” or “shown to be righteous in spirit.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    6,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now the Spirit says in plain words that in later times some will desert the faith, giving heed to spirits that lead astray and to teachings that come from demons,"
+    },
+    {
+     "v": 2,
+     "text": "through the hypocrisy of liars whose consciences have been seared as with a branding iron."
+    },
+    {
+     "v": 3,
+     "text": "They prohibit marrying and insist that people keep away from foods, which God made to be shared with thanks by those who have faith and have come to know the truth."
+    },
+    {
+     "v": 4,
+     "text": "For everything God has created is good, and nothing is to be rejected if it is received with thanksgiving,"
+    },
+    {
+     "v": 5,
+     "text": "since God’s word and prayer consecrate it."
+    },
+    {
+     "v": 6,
+     "text": "If you lay these things before the brothers,{a} you will be a good servant of Christ Jesus, nourished on the words of the faith and of the good teaching you have followed."
+    },
+    {
+     "v": 7,
+     "text": "But have nothing to do with profane myths fit only for old women. Train yourself for godliness instead.{b}"
+    },
+    {
+     "v": 8,
+     "text": "Bodily training has some little value; godliness has value in every way, holding promise for the present life and for the life to come."
+    },
+    {
+     "v": 9,
+     "text": "This saying is to be trusted and worthy of complete acceptance."
+    },
+    {
+     "v": 10,
+     "text": "That is why we toil and struggle,{c} because we have set our hope on the living God, who is the Savior of all people, especially of those who believe."
+    },
+    {
+     "v": 11,
+     "text": "Give these instructions and teach them."
+    },
+    {
+     "v": 12,
+     "text": "Do not let anyone think little of you because you are young.{d} Instead, be a pattern for the faithful in what you say and how you live, in love, faith and purity."
+    },
+    {
+     "v": 13,
+     "text": "Till I arrive, give your attention to reading Scripture aloud,{e} to exhorting and to teaching."
+    },
+    {
+     "v": 14,
+     "text": "Do not neglect the gift that is in you, which was given to you through prophecy when the council of elders{f} laid their hands on you."
+    },
+    {
+     "v": 15,
+     "text": "Make these things your care and your whole occupation, so that your advance is evident to everyone."
+    },
+    {
+     "v": 16,
+     "text": "Keep a close watch on yourself and on your teaching; persist in these things, for by doing so you will save both yourself and those who listen to you."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:6",
+     "text": "Brothers: Greek *adelphoi*, the usual term for fellow believers, including both men and women."
+    },
+    {
+     "m": "b",
+     "ref": "4:7",
+     "text": "Train: Greek *gymnaze*, from the word for athletic exercise; so also “training” in verse 8."
+    },
+    {
+     "m": "c",
+     "ref": "4:10",
+     "text": "Struggle: some manuscripts read “suffer reproach.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:12",
+     "text": "Young: in Greek usage the term for youth could cover adults up to about forty."
+    },
+    {
+     "m": "e",
+     "ref": "4:13",
+     "text": "Reading Scripture aloud: literally “the reading,” that is, reading aloud in the assembly."
+    },
+    {
+     "m": "f",
+     "ref": "4:14",
+     "text": "Council of elders: Greek *presbyterion*, the body of elders (*presbyteroi*)."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    3,
+    9,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Do not rebuke an older man harshly, but appeal to him as you would to a father. Treat younger men as brothers,"
+    },
+    {
+     "v": 2,
+     "text": "elderly women as you would mothers, and young women as sisters, with complete purity."
+    },
+    {
+     "v": 3,
+     "text": "Honor widows who are truly in need.{a}"
+    },
+    {
+     "v": 4,
+     "text": "But if a widow has children or grandchildren, let them learn first to show godliness toward their own family and to make some return to their parents, for this is pleasing in God’s sight.{b}"
+    },
+    {
+     "v": 5,
+     "text": "A real widow, one left on her own, has put her hope in God and continues day and night in petitions and prayers."
+    },
+    {
+     "v": 6,
+     "text": "But a widow who gives herself to luxury is dead though she is alive."
+    },
+    {
+     "v": 7,
+     "text": "Give these instructions too, so that they may be beyond reproach."
+    },
+    {
+     "v": 8,
+     "text": "Anyone who does not provide for his own relatives, and especially for members of his household, has denied the faith and is worse than an unbeliever."
+    },
+    {
+     "v": 9,
+     "text": "Let a widow be put on the list only if she is not under sixty years of age and has been the wife of one husband,{c}"
+    },
+    {
+     "v": 10,
+     "text": "and is known for good works: if she has brought up children, if she has shown hospitality, if she has washed the feet of God’s people,{d} if she has helped the afflicted, if she has devoted herself to every kind of good work."
+    },
+    {
+     "v": 11,
+     "text": "But refuse to enroll younger widows, for when their desires draw them away from Christ, they want to marry,"
+    },
+    {
+     "v": 12,
+     "text": "and so they incur condemnation for having set aside their first pledge.{e}"
+    },
+    {
+     "v": 13,
+     "text": "Besides, they learn to be idle, going around from house to house; and not only idle, but gossips and busybodies too, saying what they should not."
+    },
+    {
+     "v": 14,
+     "text": "So I would have younger widows marry, bear children, manage their homes, and give the adversary no opening for abuse."
+    },
+    {
+     "v": 15,
+     "text": "For some have already turned aside to follow Satan."
+    },
+    {
+     "v": 16,
+     "text": "If any believing woman has widows in her family,{f} she should assist them, and the church should not be burdened, so that it can assist those who are truly widows in need."
+    },
+    {
+     "v": 17,
+     "text": "Elders who lead well should be considered worthy of a double honor,{g} especially those who labor in preaching and teaching."
+    },
+    {
+     "v": 18,
+     "text": "Scripture says, “Do not muzzle an ox as it threshes,”{h} and, “The laborer has earned his pay.”{i}"
+    },
+    {
+     "v": 19,
+     "text": "Do not entertain a charge brought against an elder unless two or three witnesses bear it out.{j}"
+    },
+    {
+     "v": 20,
+     "text": "Any who keep on sinning you should reprove publicly, so that the others will be afraid."
+    },
+    {
+     "v": 21,
+     "text": "I solemnly charge you before God and Christ Jesus and the chosen angels to keep these rules without prejudging anyone, doing nothing out of partiality."
+    },
+    {
+     "v": 22,
+     "text": "Do not be hasty in laying hands on anyone,{k} and do not share in other people’s sins. Keep yourself pure."
+    },
+    {
+     "v": 23,
+     "text": "Stop drinking water alone; use a little wine because of your stomach and the illnesses you so often have."
+    },
+    {
+     "v": 24,
+     "text": "Some people’s sins are plain to see, going ahead of them to judgment, but the sins of others follow after them."
+    },
+    {
+     "v": 25,
+     "text": "So too good works are plain to see, and those that are not cannot remain hidden."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:3",
+     "text": "Honor: the word may include financial support; so also “honor” in verse 17."
+    },
+    {
+     "m": "b",
+     "ref": "5:4",
+     "text": "Pleasing: later manuscripts read “good and pleasing.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:9",
+     "text": "The wife of one husband: literally “a woman of one man”; compare 3:2."
+    },
+    {
+     "m": "d",
+     "ref": "5:10",
+     "text": "God’s people: literally “the holy ones,” traditionally “the saints.” Washing the feet of guests was a menial act of hospitality (John 13:14)."
+    },
+    {
+     "m": "e",
+     "ref": "5:12",
+     "text": "First pledge: literally “first faith,” probably a pledge to remain unmarried in the service of Christ."
+    },
+    {
+     "m": "f",
+     "ref": "5:16",
+     "text": "Believing woman: later manuscripts read “believing man or woman.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:17",
+     "text": "Elders: Greek *presbyteroi*, the leaders of the congregation; in verse 1 the same word means simply “older man.” *Double honor*: probably including payment; compare verse 18."
+    },
+    {
+     "m": "h",
+     "ref": "5:18",
+     "text": "Do not muzzle an ox as it threshes: Deut 25:4; compare 1 Cor 9:9. Oxen were driven over the harvested grain to loosen the kernels."
+    },
+    {
+     "m": "i",
+     "ref": "5:18",
+     "text": "The laborer has earned his pay: a saying of Jesus, found in Luke 10:7 and in a slightly different form in Matt 10:10. Here it is cited alongside Scripture."
+    },
+    {
+     "m": "j",
+     "ref": "5:19",
+     "text": "Compare Deut 19:15."
+    },
+    {
+     "m": "k",
+     "ref": "5:22",
+     "text": "Laying hands on: that is, appointing someone to office (4:14), or possibly restoring someone who has sinned."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    11,
+    17,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Let all who are under the yoke as slaves regard their own masters as deserving all honor, so that the name of God and the teaching may not be spoken against."
+    },
+    {
+     "v": 2,
+     "text": "Those who have believing masters must not think less of them because they are brothers; rather, they should serve them all the better, since those who benefit from their good service are believers and dear to God.{a} Teach and urge these things."
+    },
+    {
+     "v": 3,
+     "text": "If anyone teaches a different doctrine and does not hold to the healthy words of our Lord Jesus Christ and to the teaching that accords with godliness,"
+    },
+    {
+     "v": 4,
+     "text": "he is swollen with conceit and understands nothing. He has a sick craving for controversies and quarrels about words, from which come envy, strife, slander, evil suspicions,"
+    },
+    {
+     "v": 5,
+     "text": "and constant friction among people who are corrupted in mind and robbed of the truth, who imagine that godliness is a means of gain.{b}"
+    },
+    {
+     "v": 6,
+     "text": "There is indeed great gain in godliness combined with contentment."
+    },
+    {
+     "v": 7,
+     "text": "For we brought nothing into the world, and so we can take nothing out of it.{c}"
+    },
+    {
+     "v": 8,
+     "text": "Having food and clothing,{d} we will be satisfied with that."
+    },
+    {
+     "v": 9,
+     "text": "People who want to be rich, however, tumble into temptation and a snare, and into many foolish and hurtful cravings that drag them down into ruin and destruction."
+    },
+    {
+     "v": 10,
+     "text": "For the love of money is a root of all kinds of evil,{e} and some, in reaching for it, have wandered from the faith and pierced themselves through with many pangs."
+    },
+    {
+     "v": 11,
+     "text": "But you, man of God, flee from these things. Pursue righteousness, godliness, faith, love, endurance, gentleness."
+    },
+    {
+     "v": 12,
+     "text": "Fight the good fight{f} of the faith; take hold of the eternal life to which you were called when you made the good confession in the presence of many witnesses."
+    },
+    {
+     "v": 13,
+     "text": "I charge you in the sight of God, who gives life to all things, and of Christ Jesus, who made the good confession in his testimony before Pontius Pilate,{g}"
+    },
+    {
+     "v": 14,
+     "text": "to keep the commandment spotless and blameless until the appearing{h} of our Lord Jesus Christ,"
+    },
+    {
+     "v": 15,
+     "text": "This he will make manifest in his own good time, he the blessed and sole Ruler, the King of kings and Lord of lords,{i}"
+    },
+    {
+     "v": 16,
+     "text": "who alone is immortal, living in light no one can approach, whom no human eye has ever seen or is able to see. His be the honor and the everlasting power. Amen."
+    },
+    {
+     "v": 17,
+     "text": "Those who are rich in this present world you must instruct not to think too highly of themselves and not to pin their hopes on wealth, which is so uncertain, but on God, who gives us all things in abundance for our enjoyment."
+    },
+    {
+     "v": 18,
+     "text": "Tell them to do good, to grow rich in fine deeds, to give freely and share with others,"
+    },
+    {
+     "v": 19,
+     "text": "and so lay up treasure for themselves as a sound foundation for what is to come, in order to grasp the life that is real life."
+    },
+    {
+     "v": 20,
+     "text": "Timothy, guard what has been entrusted to you. Turn away from godless chatter and the contradictions of what is falsely called knowledge,{j}"
+    },
+    {
+     "v": 21,
+     "text": "which some have professed and so have missed the mark concerning the faith. Grace be with you all.{k}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Those who benefit from their good service: or “those who devote themselves to good service,” referring to the masters. *Dear to God*: literally “beloved.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:5",
+     "text": "Later manuscripts add “From such people withdraw.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:7",
+     "text": "And so: the Greek is awkward, literally “that.” Later manuscripts read “and it is clear that.” Compare Job 1:21; Eccl 5:15."
+    },
+    {
+     "m": "d",
+     "ref": "6:8",
+     "text": "Clothing: or “shelter”; the Greek word means “coverings.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:10",
+     "text": "A root of all kinds of evil: or “the root of all evils.”"
+    },
+    {
+     "m": "f",
+     "ref": "6:12",
+     "text": "Fight the good fight: literally “contend in the good contest,” an image from athletic competition."
+    },
+    {
+     "m": "g",
+     "ref": "6:13",
+     "text": "*Pontius Pilate*: the Roman governor of Judea, AD 26–36, under whom Jesus was crucified. *Pilate*: Latin *Pilatus*, perhaps “armed with a javelin.”"
+    },
+    {
+     "m": "h",
+     "ref": "6:14",
+     "text": "Appearing: Greek *epiphaneia*, “appearance,” “manifestation.”"
+    },
+    {
+     "m": "i",
+     "ref": "6:15",
+     "text": "King of kings and Lord of lords: literally “the King of those who reign and Lord of those who rule”; compare Deut 10:17; Rev 17:14; 19:16."
+    },
+    {
+     "m": "j",
+     "ref": "6:20",
+     "text": "Knowledge: Greek *gnōsis*. Later groups claiming special knowledge were called “Gnostics,” but whether such teaching is in view here is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "6:21",
+     "text": "With you all: the “you” is plural. Later manuscripts read “with you” (singular) and add “Amen.”"
+    }
+   ]
+  }
+ ]
+}
