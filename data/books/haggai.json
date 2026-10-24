@@ -1,0 +1,292 @@
+{
+ "id": "haggai",
+ "name": "Haggai",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex (the Masoretic Text). It was checked against the Hebrew Minor Prophets scrolls from Qumran (4QXII, 4QXII-b and -e) and Wadi Murabba‘at (MurXII, early 2nd century AD), whose text is very close to the Masoretic Text. The transcriptions used are Martin Abegg’s, as published in the ETCBC Dead Sea Scrolls dataset. It was also checked against the Septuagint, using Brenton’s public-domain English translation. Portions of Haggai also survive (reportedly) in the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr, about the turn of the era), which is a revision of the Septuagint toward the Hebrew. Its readings could not be checked directly, so any that are cited are marked “reported.” Significant differences are footnoted; differences of spelling and damage to the scrolls are not. The divine title YHWH Tseva’ot is translated “Yahweh of Armies” (see the note at 1:2). Dates are given with their approximate modern months; the notes give the original month and, where it is commonly reckoned, the exact date. Verse numbers follow the standard English Bible: in Haggai, English and Hebrew verse numbers are the same.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    7,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the second year of Darius the king, in the sixth month (in August–September), on the first day of the month,{a} the word of Yahweh came by the hand of Haggai the prophet{b} to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest,{c} saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Thus says Yahweh of Armies:{d} This people says, ‘The time has not come, the time for the house of Yahweh to be rebuilt.’”"
+    },
+    {
+     "v": 3,
+     "text": "Then the word of Yahweh came by the hand of Haggai the prophet, saying,"
+    },
+    {
+     "v": 4,
+     "text": "“Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?{e}"
+    },
+    {
+     "v": 5,
+     "text": "Now therefore, thus says Yahweh of Armies: Set your heart on your ways."
+    },
+    {
+     "v": 6,
+     "text": "You have sown much and brought in little; you eat, but never to fullness; you drink, but never to drunkenness; you clothe yourselves, but no one is warm. And he who earns wages earns them for a bag pierced with holes."
+    },
+    {
+     "v": 7,
+     "text": "“Thus says Yahweh of Armies: Set your heart on your ways."
+    },
+    {
+     "v": 8,
+     "text": "Go up to the hill country and bring wood and build the house, that I may take pleasure in it and be glorified, says Yahweh."
+    },
+    {
+     "v": 9,
+     "text": "You looked for much, and behold, it came to little; and when you brought it home, I blew on it. Why? declares Yahweh of Armies. Because of my house that lies in ruins, while each of you runs to his own house."
+    },
+    {
+     "v": 10,
+     "text": "Therefore over you the heavens have held back the dew, and the earth has held back its produce."
+    },
+    {
+     "v": 11,
+     "text": "And I have called for a drought{f} on the land and on the hills, on the grain, on the new wine, on the oil, on what the ground brings forth, on man and on beast, and on all the labor of the hands.”"
+    },
+    {
+     "v": 12,
+     "text": "Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of Yahweh their God and the words of Haggai the prophet, as Yahweh their God had sent him. And the people feared before Yahweh."
+    },
+    {
+     "v": 13,
+     "text": "Then Haggai, the messenger of Yahweh, spoke to the people with Yahweh’s message,{g} saying, “I am with you, declares Yahweh.”"
+    },
+    {
+     "v": 14,
+     "text": "And Yahweh stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people. And they came and did work on the house of Yahweh of Armies, their God,"
+    },
+    {
+     "v": 15,
+     "text": "on the twenty-fourth day of the month, in the sixth month (in August–September), in the second year of Darius the king.{h}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Hebrew “in the sixth month,” that is, Elul, in the calendar whose year begins in the spring. The second year of Darius I (who reigned 522–486 BC) is 520 BC. As the dates are commonly reckoned, this day was about August 29, 520 BC. Because the Hebrew months were lunar, each corresponds to parts of two modern months."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Haggai probably means “festal” (from hag, “feast”). The Septuagint has “Speak to Zerubbabel the son of Shealtiel, of the tribe of Judah.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Zerubbabel probably means “seed of Babylon”; Shealtiel, “I have asked God”; Joshua, “Yahweh saves” (in Greek, Iēsous, “Jesus”); Jehozadak, “Yahweh is righteous.” Joshua is called Jeshua in Ezra and Nehemiah."
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Hebrew YHWH Tseva’ot, traditionally “the LORD of hosts.” The “armies” are the forces of heaven (the angels and the stars) and sometimes the armies of Israel. The title is translated “Yahweh of Armies” throughout."
+    },
+    {
+     "m": "e",
+     "ref": "1:4",
+     "text": "Hebrew harev, “in ruins.” The same word appears in verse 9."
+    },
+    {
+     "m": "f",
+     "ref": "1:11",
+     "text": "Hebrew horev, “drought,” plays on harev, “in ruins” (verses 4 and 9): because the house lies in ruins (harev), Yahweh calls a drought (horev)."
+    },
+    {
+     "m": "g",
+     "ref": "1:13",
+     "text": "Or “with Yahweh’s commission.” The word “messenger” (mal’akh) is the same word as in Malachi (“my messenger”)."
+    },
+    {
+     "m": "h",
+     "ref": "1:15",
+     "text": "About September 21, 520 BC. Some scholars attach the date to the beginning of 2:1."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    6,
+    10,
+    15,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the seventh month (in September–October), on the twenty-first day of the month,{a} the word of Yahweh came by the hand of Haggai the prophet,{b} saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to the remnant of the people, saying,"
+    },
+    {
+     "v": 3,
+     "text": "‘Who is left among you who saw this house in its former glory? And how do you see it now? Is it not as nothing in your eyes?"
+    },
+    {
+     "v": 4,
+     "text": "Yet now be strong, O Zerubbabel, declares Yahweh. Be strong, O Joshua son of Jehozadak, the high priest. Be strong, all you people of the land, declares Yahweh. Work, for I am with you, declares Yahweh of Armies,"
+    },
+    {
+     "v": 5,
+     "text": "according to the word that I covenanted with you when you came out of Egypt.{c} My Spirit is standing in your midst. Do not fear."
+    },
+    {
+     "v": 6,
+     "text": "“‘For thus says Yahweh of Armies: Yet once more, in a little while, I will shake the heavens and the earth and the sea and the dry land.{d}"
+    },
+    {
+     "v": 7,
+     "text": "And I will make all nations tremble, and the desirable things of every nation shall come,{e} and I will fill this house with glory, says Yahweh of Armies."
+    },
+    {
+     "v": 8,
+     "text": "The silver is mine, and the gold is mine, declares Yahweh of Armies."
+    },
+    {
+     "v": 9,
+     "text": "The latter glory of this house shall be greater than the former, says Yahweh of Armies. And in this place I will give peace, declares Yahweh of Armies.’”{f}"
+    },
+    {
+     "v": 10,
+     "text": "On the twenty-fourth day of the ninth month (in November–December), in the second year of Darius,{g} the word of Yahweh came to Haggai the prophet, saying,"
+    },
+    {
+     "v": 11,
+     "text": "“Thus says Yahweh of Armies: Ask the priests for a ruling:{h}"
+    },
+    {
+     "v": 12,
+     "text": "‘If a man carries holy meat in the fold of his garment, and with his fold touches bread or pottage or wine or oil or any food, will it be made holy?’” And the priests answered, “No.”"
+    },
+    {
+     "v": 13,
+     "text": "Then Haggai said, “If someone defiled by a corpse touches any of these, will it be defiled?” And the priests answered, “It will be defiled.”"
+    },
+    {
+     "v": 14,
+     "text": "Then Haggai answered and said, “So is this people, and so is this nation before me, declares Yahweh, and so is every work of their hands; and what they offer there is unclean.{i}"
+    },
+    {
+     "v": 15,
+     "text": "“And now, set your heart on it from this day onward.{j} Before stone was laid upon stone in the temple of Yahweh,"
+    },
+    {
+     "v": 16,
+     "text": "how did you fare? When one came to a heap of twenty measures, there were but ten; when one came to the wine vat to draw fifty measures, there were but twenty.{k}"
+    },
+    {
+     "v": 17,
+     "text": "I struck you with blight and with mildew and with hail in all the work of your hands, yet you did not turn to me,{l} declares Yahweh."
+    },
+    {
+     "v": 18,
+     "text": "Set your heart from this day onward, from the twenty-fourth day of the ninth month (in November–December), from the day that the foundation of the temple of Yahweh was laid—set your heart on it:"
+    },
+    {
+     "v": 19,
+     "text": "Is the seed yet in the barn? As for the vine, the fig tree, the pomegranate, and the olive tree, they have borne nothing. From this day on I will bless you.”"
+    },
+    {
+     "v": 20,
+     "text": "And the word of Yahweh came a second time to Haggai on the twenty-fourth day of the month, saying,"
+    },
+    {
+     "v": 21,
+     "text": "“Speak to Zerubbabel, governor of Judah, saying, I am about to shake the heavens and the earth,"
+    },
+    {
+     "v": 22,
+     "text": "and I will overturn the throne of kingdoms and destroy the strength of the kingdoms of the nations. I will overturn the chariot and its riders, and the horses and their riders shall go down, each by the sword of his brother."
+    },
+    {
+     "v": 23,
+     "text": "On that day, declares Yahweh of Armies, I will take you, O Zerubbabel my servant, the son of Shealtiel, declares Yahweh, and I will make you like a signet ring,{m} for I have chosen you, declares Yahweh of Armies.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Tishri, the seventh month. The twenty-first day was the last day of the Feast of Booths (Leviticus 23:34–36). As commonly reckoned, it was about October 17, 520 BC."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "The Wadi Murabba‘at Minor Prophets scroll reads “came to Haggai.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:5",
+     "text": "The Septuagint lacks the first clause, “according to the word that I covenanted with you when you came out of Egypt.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:6",
+     "text": "Quoted in Hebrews 12:26–27. The Septuagint has “Yet once I will shake the heaven, and the earth.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:7",
+     "text": "Or “the desire of all nations shall come.” The Hebrew noun is singular (“desire,” “what is desired”), but the verb is plural, which suggests valued things. The Latin Vulgate’s “the desired one of all nations will come” gave rise to a messianic reading. The Septuagint has “the choice portions of all the nations.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:9",
+     "text": "The Septuagint adds “even peace of soul for a possession to everyone who builds, to raise up this temple.”"
+    },
+    {
+     "m": "g",
+     "ref": "2:10",
+     "text": "About December 18, 520 BC. Kislev is the ninth month."
+    },
+    {
+     "m": "h",
+     "ref": "2:11",
+     "text": "Hebrew torah, “instruction” or “law.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:14",
+     "text": "The Septuagint adds “and whoever approaches them shall be defiled because of their early burdens; they shall be pained because of their toils; and you have hated him who reproved in the gates” (compare Amos 5:10)."
+    },
+    {
+     "m": "j",
+     "ref": "2:15",
+     "text": "Hebrew “upward,” meaning either “from this day forward” or “backward from this day.” The same expression appears in verse 18."
+    },
+    {
+     "m": "k",
+     "ref": "2:16",
+     "text": "The measures are not named in the Hebrew. The Septuagint has “twenty measures of barley.” In the second clause, the Hebrew “fifty” is literally “fifty of the winepress” (purah)."
+    },
+    {
+     "m": "l",
+     "ref": "2:17",
+     "text": "Compare Amos 4:9. The Hebrew is literally “yet there was not you to me.” The Septuagint has “yet you did not return to me.”"
+    },
+    {
+     "m": "m",
+     "ref": "2:23",
+     "text": "A signet ring was a royal seal, a sign of authority. This reverses the word against Zerubbabel’s grandfather Jehoiachin (Coniah) in Jeremiah 22:24."
+    }
+   ]
+  }
+ ]
+}

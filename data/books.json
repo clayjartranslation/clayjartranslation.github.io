@@ -1245,8 +1245,11 @@
    "name": "Haggai",
    "division": "Old Testament",
    "chapterCount": "2",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2
+   ],
+   "file": "data/books/haggai.json"
   },
   {
    "id": "zechariah",
