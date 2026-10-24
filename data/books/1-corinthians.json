@@ -513,7 +513,7 @@
     },
     {
      "v": 17,
-     "text": "That is why I sent you Timothy, my beloved and faithful child in the Lord, who will remind you of my ways in Christ Jesus,{c} just as I teach them everywhere in every church."
+     "text": "That is why I sent you Timothy,{c} my beloved and faithful child in the Lord, who will remind you of my ways in Christ Jesus,{d} just as I teach them everywhere in every church."
     },
     {
      "v": 18,
@@ -545,6 +545,11 @@
     },
     {
      "m": "c",
+     "ref": "4:17",
+     "text": "Timothy: Greek, “one who honors God.”"
+    },
+    {
+     "m": "d",
      "ref": "4:17",
      "text": "Jesus: bracketed in the Westcott–Hort text."
     }
@@ -972,6 +977,1552 @@
      "m": "h",
      "ref": "7:39",
      "text": "Dies: literally “falls asleep.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    4,
+    7
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now about food offered to idols: we know that “all of us possess knowledge.”{a} Knowledge inflates; love builds up."
+    },
+    {
+     "v": 2,
+     "text": "If anyone imagines he has come to know something, he has not yet come to know it as he ought."
+    },
+    {
+     "v": 3,
+     "text": "But if anyone loves God, that person is known by him."
+    },
+    {
+     "v": 4,
+     "text": "So then, regarding the eating of food sacrificed to idols, we know that “an idol is nothing at all in the world” and that “there is no God but one.”"
+    },
+    {
+     "v": 5,
+     "text": "Granted, there may be beings called gods in heaven or on earth (and indeed there are plenty of “gods” and plenty of “lords”),"
+    },
+    {
+     "v": 6,
+     "text": "yet for us there is one God, the Father, from whom all things come and for whom we exist, and one Lord, Jesus Christ, through whom all things come and through whom we exist.{b}"
+    },
+    {
+     "v": 7,
+     "text": "Not everyone, however, has this knowledge. Some, through being accustomed to the idol until now, eat the food as something actually sacrificed to an idol, and their conscience, being weak, is defiled."
+    },
+    {
+     "v": 8,
+     "text": "Food will not bring us before God. We are no worse off if we abstain, and no better off if we eat.{c}"
+    },
+    {
+     "v": 9,
+     "text": "Only watch out that this liberty of yours does not trip up those who are weak."
+    },
+    {
+     "v": 10,
+     "text": "For if someone sees you, who have knowledge, reclining at table in an idol’s temple, will not his conscience, weak as he is, be emboldened to eat food sacrificed to idols?"
+    },
+    {
+     "v": 11,
+     "text": "And so the weak one, the brother for whom Christ died, is destroyed by your knowledge."
+    },
+    {
+     "v": 12,
+     "text": "When you sin in this way against the brothers and wound their weak conscience, you sin against Christ."
+    },
+    {
+     "v": 13,
+     "text": "Therefore, if what I eat causes my brother to fall, I will never again eat meat, so as not to cause my brother to fall."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "All of us possess knowledge: probably a Corinthian slogan, as also the phrases quoted in v. 4."
+    },
+    {
+     "m": "b",
+     "ref": "8:6",
+     "text": "Through whom we exist: compare Deut 6:4, where “one Lord” stands for Yahweh; Paul here divides the confession between the Father and Jesus."
+    },
+    {
+     "m": "c",
+     "ref": "8:8",
+     "text": "The order of the two clauses in this verse is reversed in many manuscripts."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    3,
+    15,
+    19,
+    24
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Am I not free? Am I not an apostle?{a} Have I not seen Jesus our Lord? Are you not my work in the Lord?"
+    },
+    {
+     "v": 2,
+     "text": "If to others I am no apostle, at least to you I am, for you are the seal that certifies my apostleship in the Lord."
+    },
+    {
+     "v": 3,
+     "text": "This is my defense to those who would put me on trial."
+    },
+    {
+     "v": 4,
+     "text": "Have we no right to eat and drink?"
+    },
+    {
+     "v": 5,
+     "text": "Have we no right to take along a sister as wife, as the other apostles do, and the Lord’s brothers, and Cephas?"
+    },
+    {
+     "v": 6,
+     "text": "Or are Barnabas{b} and I the only ones obliged to earn our own keep?"
+    },
+    {
+     "v": 7,
+     "text": "What soldier ever pays his own wages? What man plants vines and never tastes the grapes? What shepherd gets no milk from his flock?"
+    },
+    {
+     "v": 8,
+     "text": "Is this mere human reasoning? Does the Law not say it too?"
+    },
+    {
+     "v": 9,
+     "text": "For in the Law of Moses it is written, “You shall not muzzle an ox while it treads out the grain.”{c} Is it oxen God is concerned about?"
+    },
+    {
+     "v": 10,
+     "text": "Or is he not speaking entirely for our sake? It was written for our sake, because the plowman ought to plow in hope and the thresher thresh in hope of a share."
+    },
+    {
+     "v": 11,
+     "text": "Since we have sown in you the things of the Spirit, is it so great a thing for us to harvest your material goods?"
+    },
+    {
+     "v": 12,
+     "text": "If others share this right over you, do not we have a stronger claim? Yet we have not made use of this right; instead we bear with everything rather than put any obstacle in the way of the gospel of Christ."
+    },
+    {
+     "v": 13,
+     "text": "Do you not know that those who perform the temple services eat from the temple, and those who wait on the altar share with the altar in what is offered?"
+    },
+    {
+     "v": 14,
+     "text": "In the same way, the Lord directed that those who proclaim the gospel should get their living from the gospel."
+    },
+    {
+     "v": 15,
+     "text": "But I have made use of none of these rights. And I am not writing this so that it may be done in my case. I would sooner die than have anyone make my boast an empty one."
+    },
+    {
+     "v": 16,
+     "text": "Preaching the gospel is nothing for me to boast of, for I am under compulsion. How wretched I would be if I failed to preach it!"
+    },
+    {
+     "v": 17,
+     "text": "If I do this of my own will, I have a reward; but if not of my own will, I have been entrusted with a stewardship."
+    },
+    {
+     "v": 18,
+     "text": "So what is my pay? Just this: to make the gospel available without cost when I preach, and so not to press my rights in the gospel to the full."
+    },
+    {
+     "v": 19,
+     "text": "Free as I am from everyone, I have enslaved myself to everyone, in order to gain all the more of them."
+    },
+    {
+     "v": 20,
+     "text": "With Jews I lived as a Jew in order to gain Jews; with those under the Law, as someone under the Law, though I myself am not under the Law,{d} in order to gain those under the Law."
+    },
+    {
+     "v": 21,
+     "text": "With those without the Law, I lived as one without the Law (not that I am free from God’s law; I am bound by Christ’s law), in order to gain those without the Law."
+    },
+    {
+     "v": 22,
+     "text": "To the weak I became weak, to win the weak. I have become all things to all people, so that by all means I may save some."
+    },
+    {
+     "v": 23,
+     "text": "I do it all for the sake of the gospel, that I may have a share in it."
+    },
+    {
+     "v": 24,
+     "text": "In a race, as you know, all the runners compete, yet a single one carries off the prize. Run so as to carry it off."
+    },
+    {
+     "v": 25,
+     "text": "Every athlete exercises self-control in all things. They do it to receive a wreath that withers, but we a wreath that never withers."
+    },
+    {
+     "v": 26,
+     "text": "That is why I do not run without a finish line in view, and I do not throw punches at empty air."
+    },
+    {
+     "v": 27,
+     "text": "Instead I pummel my body and make it my slave, for fear that after preaching to others I myself might be disqualified."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "Am I not free? Am I not an apostle?: many later manuscripts reverse the order of these two questions."
+    },
+    {
+     "m": "b",
+     "ref": "9:6",
+     "text": "Barnabas: explained in Acts 4:36 as “son of encouragement.”"
+    },
+    {
+     "m": "c",
+     "ref": "9:9",
+     "text": "Deut 25:4."
+    },
+    {
+     "m": "d",
+     "ref": "9:20",
+     "text": "Though I myself am not under the Law: absent from many later manuscripts."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    6,
+    14,
+    23,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I want you to understand, brothers, that our forefathers were every one of them beneath the cloud, and every one of them went through the sea,"
+    },
+    {
+     "v": 2,
+     "text": "and all were baptized into Moses in the cloud and in the sea,"
+    },
+    {
+     "v": 3,
+     "text": "and all ate the same spiritual food,"
+    },
+    {
+     "v": 4,
+     "text": "and all drank the same spiritual drink; for they drank from a spiritual rock that went along with them, and the rock was Christ."
+    },
+    {
+     "v": 5,
+     "text": "Yet with most of them God was not pleased, for they were struck down in the wilderness.{a}"
+    },
+    {
+     "v": 6,
+     "text": "These events serve as patterns for us, warning us not to set our hearts on evil as they did."
+    },
+    {
+     "v": 7,
+     "text": "Do not become idolaters, as some of them were; as it is written, “The people sat down to eat and drink, and rose up to play.”{b}"
+    },
+    {
+     "v": 8,
+     "text": "Nor should we commit sexual sin, as some of them did, so that twenty-three thousand died in one day.{c}"
+    },
+    {
+     "v": 9,
+     "text": "Nor should we try the Lord’s{d} patience, as some of them did, and the serpents killed them."
+    },
+    {
+     "v": 10,
+     "text": "Nor should we murmur, as some of them murmured and perished at the hand of the Destroyer."
+    },
+    {
+     "v": 11,
+     "text": "Now these things happened to them by way of example, and they were written down as a warning for us, on whom the ends of the ages have come."
+    },
+    {
+     "v": 12,
+     "text": "So let anyone who thinks he is standing take care that he does not fall."
+    },
+    {
+     "v": 13,
+     "text": "Every trial that has come upon you is the ordinary human lot. And God can be trusted: he will not allow you to be tried past what you can endure. Along with the trial he will make an exit as well, so that you are able to withstand it."
+    },
+    {
+     "v": 14,
+     "text": "Therefore, my dear friends, flee from idolatry."
+    },
+    {
+     "v": 15,
+     "text": "I am addressing people of good sense; weigh what I say for yourselves."
+    },
+    {
+     "v": 16,
+     "text": "The cup of blessing over which we say the blessing: is it not participation in Christ’s blood? The bread we break: is it not participation in Christ’s body?"
+    },
+    {
+     "v": 17,
+     "text": "Because there is one loaf, we who are many are one body, for we all partake of the one loaf."
+    },
+    {
+     "v": 18,
+     "text": "Consider Israel according to the flesh: are not those who eat the sacrifices partners in the altar?"
+    },
+    {
+     "v": 19,
+     "text": "What am I saying, then? That food sacrificed to idols is anything, or that an idol is anything?"
+    },
+    {
+     "v": 20,
+     "text": "No, but that what they{e} sacrifice, they sacrifice to demons and not to God.{f} I do not want you to become partners with demons."
+    },
+    {
+     "v": 21,
+     "text": "You cannot drink the cup of the Lord and the cup of demons. You cannot partake of the table of the Lord and the table of demons."
+    },
+    {
+     "v": 22,
+     "text": "Or are we trying to provoke the Lord to jealousy?{g} Are we stronger than he is?"
+    },
+    {
+     "v": 23,
+     "text": "“Anything is allowed,” but not everything helps. “Anything is allowed,” but not everything builds up."
+    },
+    {
+     "v": 24,
+     "text": "No one should look out for himself; let him look out for his neighbor."
+    },
+    {
+     "v": 25,
+     "text": "Anything on sale in the market you may eat, without asking questions on grounds of conscience,"
+    },
+    {
+     "v": 26,
+     "text": "for “the earth is the Lord’s, and everything in it.”{h}"
+    },
+    {
+     "v": 27,
+     "text": "If one of the unbelievers invites you to dinner and you want to go, eat whatever is set before you without raising any question for conscience’ sake."
+    },
+    {
+     "v": 28,
+     "text": "But should anyone tell you, “This meat came from a sacrifice,” then abstain from it, out of regard for the person who pointed it out, and for conscience’ sake.{i}"
+    },
+    {
+     "v": 29,
+     "text": "I mean not your own conscience, but the other person’s. For why should my freedom be judged by someone else’s conscience?"
+    },
+    {
+     "v": 30,
+     "text": "If I partake with thanksgiving, why am I denounced because of something I give thanks for?"
+    },
+    {
+     "v": 31,
+     "text": "Whatever you are doing, then, eating or drinking or anything else, do it all to bring glory to God."
+    },
+    {
+     "v": 32,
+     "text": "Give no offense to Jews or to Greeks or to the church of God,"
+    },
+    {
+     "v": 33,
+     "text": "just as I try to please everyone in everything, not seeking my own advantage but that of the many, so that they may be saved."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:5",
+     "text": "Struck down in the wilderness: see Num 14:16, 29–30."
+    },
+    {
+     "m": "b",
+     "ref": "10:7",
+     "text": "Exod 32:6."
+    },
+    {
+     "m": "c",
+     "ref": "10:8",
+     "text": "Twenty-three thousand: Num 25:9 gives twenty-four thousand."
+    },
+    {
+     "m": "d",
+     "ref": "10:9",
+     "text": "The Lord’s: so the Westcott–Hort text, with Vaticanus and Sinaiticus (as reported); P46 and many other manuscripts read “Christ,” and a few “God.” See Num 21:5–6."
+    },
+    {
+     "m": "e",
+     "ref": "10:20",
+     "text": "They: “the nations” (that is, the pagans) is bracketed in the Westcott–Hort text."
+    },
+    {
+     "m": "f",
+     "ref": "10:20",
+     "text": "To demons and not to God: echoing Deut 32:17."
+    },
+    {
+     "m": "g",
+     "ref": "10:22",
+     "text": "Provoke the Lord to jealousy: echoing Deut 32:21, where the Lord is Yahweh."
+    },
+    {
+     "m": "h",
+     "ref": "10:26",
+     "text": "Ps 24:1. In the Hebrew text, “the Lord” is Yahweh."
+    },
+    {
+     "m": "i",
+     "ref": "10:28",
+     "text": "Conscience’ sake: many later manuscripts add “for the earth is the Lord’s, and everything in it” (compare v. 26)."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    2,
+    17,
+    23,
+    27,
+    33
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Take me as your model, just as I take Christ as mine."
+    },
+    {
+     "v": 2,
+     "text": "I commend you for keeping me in mind in everything and for holding fast to the traditions just as I passed them on to you."
+    },
+    {
+     "v": 3,
+     "text": "Yet I would have you understand that Christ is every man’s head,{a} a husband is his wife’s head, and God is Christ’s head."
+    },
+    {
+     "v": 4,
+     "text": "Any man who prays or prophesies with something hanging down over his head brings shame on his head."
+    },
+    {
+     "v": 5,
+     "text": "And any woman who prays or prophesies with her head uncovered brings shame on her head, for it is just the same as if her head were shaved."
+    },
+    {
+     "v": 6,
+     "text": "For if a woman will not cover herself, she might as well cut her hair short; but if it is shameful for a woman to have her hair cut short or shaved, let her cover herself."
+    },
+    {
+     "v": 7,
+     "text": "A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of the man."
+    },
+    {
+     "v": 8,
+     "text": "Man was not taken out of woman; woman was taken out of man."
+    },
+    {
+     "v": 9,
+     "text": "Nor was man made for woman’s sake; woman was made for man’s."
+    },
+    {
+     "v": 10,
+     "text": "That is why the woman ought to have authority over her head,{b} because of the angels."
+    },
+    {
+     "v": 11,
+     "text": "In the Lord, though, neither is woman anything apart from man, nor man apart from woman."
+    },
+    {
+     "v": 12,
+     "text": "For as woman came from man, so too man comes into being through woman; and all things come from God."
+    },
+    {
+     "v": 13,
+     "text": "Decide among yourselves: is it fitting for a woman to pray to God uncovered?"
+    },
+    {
+     "v": 14,
+     "text": "Does not nature itself teach you that if a man wears his hair long it is a disgrace to him,"
+    },
+    {
+     "v": 15,
+     "text": "but if a woman wears her hair long it is her glory? For her long hair has been given to her as a covering."
+    },
+    {
+     "v": 16,
+     "text": "If anyone is inclined to be contentious about this, we recognize no such custom,{c} nor do the churches of God."
+    },
+    {
+     "v": 17,
+     "text": "In giving the following instructions I do not commend you, because your meetings do more harm than good."
+    },
+    {
+     "v": 18,
+     "text": "To begin with, I hear that when you gather as a church there are divisions among you, and in part I believe it."
+    },
+    {
+     "v": 19,
+     "text": "For there must indeed be factions among you, so that the genuine among you may stand out."
+    },
+    {
+     "v": 20,
+     "text": "So when you meet together, it is not really the Lord’s supper that you eat."
+    },
+    {
+     "v": 21,
+     "text": "For as you eat, each of you goes ahead with his own supper, and one stays hungry while another gets drunk."
+    },
+    {
+     "v": 22,
+     "text": "Really! Do you lack homes where you can eat and drink? Or do you hold God’s church in contempt and put to shame those who are poor? What shall I tell you? Should I praise you? On this point, no praise from me!"
+    },
+    {
+     "v": 23,
+     "text": "What I passed on to you I myself received from the Lord: on the night of his betrayal the Lord Jesus took a loaf,"
+    },
+    {
+     "v": 24,
+     "text": "and after giving thanks he broke it and said, “This is my body, which is for you.{d} Do this to remember me.”"
+    },
+    {
+     "v": 25,
+     "text": "Likewise, when supper was over, he took the cup too and said, “This cup is the new covenant, sealed in my blood. Every time you drink it, do this to remember me.”"
+    },
+    {
+     "v": 26,
+     "text": "For as often as you eat this bread and drink the cup, you proclaim the Lord’s death until he comes."
+    },
+    {
+     "v": 27,
+     "text": "Anyone, then, who eats the bread or drinks the Lord’s cup unworthily will be held guilty of sinning against the Lord’s body and blood."
+    },
+    {
+     "v": 28,
+     "text": "Let a person test himself, then, and only so eat of the bread and drink of the cup."
+    },
+    {
+     "v": 29,
+     "text": "Whoever eats and drinks{e} without recognizing the body brings judgment on himself by his eating and drinking."
+    },
+    {
+     "v": 30,
+     "text": "That is why many among you are weak and sick, and a number have died.{f}"
+    },
+    {
+     "v": 31,
+     "text": "If we would examine ourselves properly, we would escape judgment."
+    },
+    {
+     "v": 32,
+     "text": "When we are judged by the Lord, however, we are being disciplined, so that we may not be condemned along with the world."
+    },
+    {
+     "v": 33,
+     "text": "So then, my brothers, when you gather to eat, wait for one another."
+    },
+    {
+     "v": 34,
+     "text": "If anyone is hungry, let him eat at home, so that your gatherings do not lead to judgment. The remaining matters I will set in order when I come."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:3",
+     "text": "Head: Greek *kephalē*. “Man” and “woman” may also be rendered “husband” and “wife” throughout this passage. Whether the word here implies authority, source, or prominence is debated."
+    },
+    {
+     "m": "b",
+     "ref": "11:10",
+     "text": "Authority over her head: or “a sign of authority on her head”; the Greek is simply “authority on (or over) her head.” Some early Latin and Greek witnesses (as reported) read “a veil.”"
+    },
+    {
+     "m": "c",
+     "ref": "11:16",
+     "text": "No such custom: that is, no custom of contentiousness, or of praying uncovered."
+    },
+    {
+     "m": "d",
+     "ref": "11:24",
+     "text": "For you: many later manuscripts read “broken for you,” and some “given for you” (compare Luke 22:19)."
+    },
+    {
+     "m": "e",
+     "ref": "11:29",
+     "text": "Eats and drinks: many later manuscripts add “unworthily” and, after “body,” add “of the Lord.”"
+    },
+    {
+     "m": "f",
+     "ref": "11:30",
+     "text": "Died: literally “are sleeping.”"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    4,
+    12,
+    14,
+    27
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the subject of spiritual gifts,{a} brothers, I would not have you left in ignorance."
+    },
+    {
+     "v": 2,
+     "text": "You know that when you were pagans you were drawn away, however you were led, to idols that cannot speak."
+    },
+    {
+     "v": 3,
+     "text": "Understand, then, that nobody who speaks by God’s Spirit ever says, “A curse on Jesus!” and nobody can say, “Jesus is Lord!” except by the Holy Spirit."
+    },
+    {
+     "v": 4,
+     "text": "There are distributions of gifts, but the same Spirit;"
+    },
+    {
+     "v": 5,
+     "text": "distributions of service, and the same Lord;"
+    },
+    {
+     "v": 6,
+     "text": "distributions of activity, and the same God, who brings about all of them in everyone."
+    },
+    {
+     "v": 7,
+     "text": "To each one the Spirit is made manifest for the common good."
+    },
+    {
+     "v": 8,
+     "text": "To one is given through the Spirit a word of wisdom, to another a word of knowledge according to the same Spirit,"
+    },
+    {
+     "v": 9,
+     "text": "to another faith by the same Spirit, to another gifts of healing by the one Spirit,"
+    },
+    {
+     "v": 10,
+     "text": "to another powers to work wonders, to another prophecy, to another discernment of spirits, to another different kinds of tongues, and to another the interpreting of tongues."
+    },
+    {
+     "v": 11,
+     "text": "All these are the work of one and the same Spirit, who apportions to each individually just as he wills."
+    },
+    {
+     "v": 12,
+     "text": "For just as the body is one and has many members, and all the members of the body, many as they are, make up one body, so it is with Christ."
+    },
+    {
+     "v": 13,
+     "text": "In one Spirit we were all baptized into one body, Jews and Greeks, slaves and free alike, and of one Spirit we were all given to drink."
+    },
+    {
+     "v": 14,
+     "text": "For indeed the body is not one member but many."
+    },
+    {
+     "v": 15,
+     "text": "If the foot should say, “Because I am not a hand, I am no part of the body,” it would not for that reason cease to belong to the body."
+    },
+    {
+     "v": 16,
+     "text": "And if the ear should say, “Because I am not an eye, I am no part of the body,” it would not for that reason cease to belong to the body."
+    },
+    {
+     "v": 17,
+     "text": "If the whole body were an eye, where would hearing be? If the whole were hearing, where would the sense of smell be?"
+    },
+    {
+     "v": 18,
+     "text": "But as it is, God has arranged the members, each one of them, in the body as he chose."
+    },
+    {
+     "v": 19,
+     "text": "Were they all one single member, what would become of the body?"
+    },
+    {
+     "v": 20,
+     "text": "In reality there are numerous members but a single body."
+    },
+    {
+     "v": 21,
+     "text": "The eye cannot say to the hand, “I have no need of you,” or again the head to the feet, “I have no need of you.”"
+    },
+    {
+     "v": 22,
+     "text": "Quite the reverse: the members of the body that appear feebler are the ones we cannot do without,"
+    },
+    {
+     "v": 23,
+     "text": "and those parts of the body we think less honorable we clothe with greater honor, and our unpresentable parts are treated with greater modesty,"
+    },
+    {
+     "v": 24,
+     "text": "which the more presentable parts have no need of. God has put the body together so as to give more honor to the part that was lacking it,"
+    },
+    {
+     "v": 25,
+     "text": "so that there may be no division in the body, but that the members may have the same concern for one another."
+    },
+    {
+     "v": 26,
+     "text": "If one member suffers, all the members suffer with it; if one member is honored, all the members rejoice with it."
+    },
+    {
+     "v": 27,
+     "text": "Now you are Christ’s body, and individually members of it."
+    },
+    {
+     "v": 28,
+     "text": "And God has placed in the church first apostles, second prophets, third teachers, then miracles, then gifts of healing, helping, guiding, and various kinds of tongues."
+    },
+    {
+     "v": 29,
+     "text": "Are all apostles? Are all prophets? Are all teachers? Do all work miracles?"
+    },
+    {
+     "v": 30,
+     "text": "Do all possess healing gifts? Do all speak with tongues? Do all give interpretations?"
+    },
+    {
+     "v": 31,
+     "text": "Set your hearts on the greater gifts.{b} And now I will point you to a way that surpasses them all."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:1",
+     "text": "Spiritual gifts: or “spiritual people”; the Greek *pneumatikōn* can be masculine or neuter."
+    },
+    {
+     "m": "b",
+     "ref": "12:31",
+     "text": "Set your hearts on the greater gifts: or, as a statement, “You set your hearts for the greater gifts.” Many later manuscripts read “the better gifts.”"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1,
+    4,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Though I speak with human tongues and angelic tongues, if I lack love I am a noisy gong or a clashing cymbal."
+    },
+    {
+     "v": 2,
+     "text": "And if I have prophecy and understand all mysteries and all knowledge, and if I have all faith so as to move mountains, but have no love, I am nothing."
+    },
+    {
+     "v": 3,
+     "text": "Though I hand out all my possessions in food for others, and though I give up my body so that I may boast,{a} if I lack love it profits me nothing."
+    },
+    {
+     "v": 4,
+     "text": "Love is patient; love is kind; love is not jealous; love does not brag, is not puffed up,"
+    },
+    {
+     "v": 5,
+     "text": "does not behave shamefully, does not seek its own interests, is not easily angered, does not keep account of wrongs,"
+    },
+    {
+     "v": 6,
+     "text": "takes no delight in injustice but rejoices with the truth;"
+    },
+    {
+     "v": 7,
+     "text": "it bears all things, believes all things, hopes all things, endures all things."
+    },
+    {
+     "v": 8,
+     "text": "Love never fails. As for prophecies, they will be done away with; as for tongues, they will cease; as for knowledge, it will be done away with."
+    },
+    {
+     "v": 9,
+     "text": "For we know in part, and we prophesy in part;"
+    },
+    {
+     "v": 10,
+     "text": "but when what is complete comes, what is partial will be done away with."
+    },
+    {
+     "v": 11,
+     "text": "In my childhood my speech, my thinking, and my reasoning were a child’s; now that I am grown, I have laid aside childish ways."
+    },
+    {
+     "v": 12,
+     "text": "For the present we see as by reflection in a mirror, indistinctly,{b} but then we shall see face to face. For the present my knowledge is partial; then I shall know as completely as I have been known."
+    },
+    {
+     "v": 13,
+     "text": "So now faith, hope, and love remain, these three; but the greatest of these is love."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:3",
+     "text": "So that I may boast: Greek *hina kauchēsōmai*, the reading of the Westcott–Hort text, supported by P46, Sinaiticus, Alexandrinus and Vaticanus (as reported). Many other manuscripts and early translations read *hina kauthēsomai* (or *kauthēsōmai*), “to be burned,” a difference of a single letter in Greek. “So that I may boast” is generally taken to mean boasting in self-sacrifice (compare 9:15–16; 2 Cor 11:30), or possibly selling oneself into slavery; “to be burned” would refer to martyrdom, or to branding as a slave."
+    },
+    {
+     "m": "b",
+     "ref": "13:12",
+     "text": "Indistinctly: literally “in a riddle.” Ancient mirrors were of polished metal."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    6,
+    13,
+    20,
+    26,
+    34
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Make love your aim, and be eager for spiritual gifts, especially that you may prophesy."
+    },
+    {
+     "v": 2,
+     "text": "For one who speaks in a tongue speaks not to people but to God; no one understands him, and he utters mysteries in the Spirit."
+    },
+    {
+     "v": 3,
+     "text": "The one who prophesies, by contrast, speaks to people for their upbuilding, encouragement, and comfort."
+    },
+    {
+     "v": 4,
+     "text": "Tongue-speaking edifies the speaker; prophesying edifies the church."
+    },
+    {
+     "v": 5,
+     "text": "I would be glad if every one of you spoke in tongues, but gladder still if you prophesied. Prophesying ranks above speaking in tongues, unless the tongue is interpreted so that the church gains from it."
+    },
+    {
+     "v": 6,
+     "text": "Suppose, brothers, I came to you speaking in tongues: what use would I be to you, if I brought you no revelation, no knowledge, no prophecy, no teaching?"
+    },
+    {
+     "v": 7,
+     "text": "Think of lifeless things that make a sound, a pipe or a lyre: unless the notes are distinct, how can anyone tell the tune on pipe or lyre?"
+    },
+    {
+     "v": 8,
+     "text": "And if the trumpet gives an uncertain call, who will get ready for battle?"
+    },
+    {
+     "v": 9,
+     "text": "You are in the same position: if the speech your tongue produces is not clear, how can anyone follow what you say? Your words will be lost on the wind."
+    },
+    {
+     "v": 10,
+     "text": "There are, it may be, ever so many kinds of languages in the world, and none is without meaning."
+    },
+    {
+     "v": 11,
+     "text": "So if I do not grasp what the sounds mean, the speaker and I will be strangers babbling to each other.{a}"
+    },
+    {
+     "v": 12,
+     "text": "So it is with you: since you are eager for spirits,{b} strive to excel in building up the church."
+    },
+    {
+     "v": 13,
+     "text": "That is why someone who speaks in a tongue ought to pray to be able to interpret it."
+    },
+    {
+     "v": 14,
+     "text": "For{c} if I pray in a tongue, my spirit prays, but my mind is unproductive."
+    },
+    {
+     "v": 15,
+     "text": "What then? I will pray with the spirit, and I will pray with the mind as well; I will sing praise with the spirit, and I will sing praise with the mind as well."
+    },
+    {
+     "v": 16,
+     "text": "Else, when you bless God in the spirit, how is the uninstructed person{d} sitting among you to add his “Amen” to your thanksgiving? He has no idea what you are saying."
+    },
+    {
+     "v": 17,
+     "text": "Your thanksgiving may be fine, but it does nothing to build up your neighbor."
+    },
+    {
+     "v": 18,
+     "text": "Thank God, I speak with tongues more than any of you."
+    },
+    {
+     "v": 19,
+     "text": "but in church I would rather speak five words with my mind, in order to instruct others as well, than ten thousand words in a tongue."
+    },
+    {
+     "v": 20,
+     "text": "Brothers, stop thinking like children. Be babies when it comes to malice, but adults in your thinking."
+    },
+    {
+     "v": 21,
+     "text": "The Law has it written: “Through men of other tongues and through foreign lips I will speak to this people, and not even so will they hear me, says the Lord.”{e}"
+    },
+    {
+     "v": 22,
+     "text": "Tongues, then, serve as a sign for unbelievers, not believers; prophecy serves as a sign for believers, not unbelievers."
+    },
+    {
+     "v": 23,
+     "text": "If, then, the whole church assembles and all speak in tongues, and outsiders or unbelievers come in, will they not say that you are out of your minds?"
+    },
+    {
+     "v": 24,
+     "text": "But if all prophesy, and an unbeliever or outsider comes in, he is convicted by all and called to account by all;"
+    },
+    {
+     "v": 25,
+     "text": "the secrets of his heart are laid bare, and so, falling on his face, he will worship God and declare, “God is really among you!”{f}"
+    },
+    {
+     "v": 26,
+     "text": "What then, brothers? When you come together, each one has a psalm, a teaching, a revelation, a tongue, an interpretation. Let everything be done for building up."
+    },
+    {
+     "v": 27,
+     "text": "As for tongue-speaking, let two speak, or three at the most, taking turns, and have someone interpret."
+    },
+    {
+     "v": 28,
+     "text": "But if there is no interpreter, let him keep silent in the church and speak to himself and to God."
+    },
+    {
+     "v": 29,
+     "text": "Let two or three prophets speak, and let the others weigh what is said."
+    },
+    {
+     "v": 30,
+     "text": "If a revelation comes to another person sitting there, let the first one be silent."
+    },
+    {
+     "v": 31,
+     "text": "All of you are able to prophesy in succession, so that everyone may be taught and everyone encouraged."
+    },
+    {
+     "v": 32,
+     "text": "Prophets’ spirits are under the control of the prophets."
+    },
+    {
+     "v": 33,
+     "text": "For God is the God not of confusion but of peace, as in all the churches of the saints.{g}"
+    },
+    {
+     "v": 34,
+     "text": "Let the women keep silence in the assemblies,{h} for it is not granted them to speak; let them rather be subordinate, as the Law also says."
+    },
+    {
+     "v": 35,
+     "text": "If they want to learn something, let them ask their own husbands at home. For it is shameful for a woman to speak in church."
+    },
+    {
+     "v": 36,
+     "text": "Was it from you that God’s word went out? Or has it come to you and nobody else?"
+    },
+    {
+     "v": 37,
+     "text": "Anyone who considers himself a prophet or a spiritual person must recognize that the things I write to you are the Lord’s command.{i}"
+    },
+    {
+     "v": 38,
+     "text": "If anyone disregards this, he is disregarded.{j}"
+    },
+    {
+     "v": 39,
+     "text": "In short, my brothers, set your hearts on prophesying, and do not prevent anyone from speaking in tongues."
+    },
+    {
+     "v": 40,
+     "text": "But let everything be done decently and in order."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:11",
+     "text": "Strangers babbling to each other: literally “I will be a barbarian to the speaker, and the speaker a barbarian to me.” Greek *barbaros*, “foreigner,” is one whose speech sounds like babbling."
+    },
+    {
+     "m": "b",
+     "ref": "14:12",
+     "text": "Spirits: that is, manifestations of the Spirit."
+    },
+    {
+     "m": "c",
+     "ref": "14:14",
+     "text": "For: bracketed in the Westcott–Hort text."
+    },
+    {
+     "m": "d",
+     "ref": "14:16",
+     "text": "The uninstructed person: Greek *idiōtēs*, a non-specialist; perhaps an enquirer or an uninstructed believer."
+    },
+    {
+     "m": "e",
+     "ref": "14:21",
+     "text": "Isa 28:11–12, in a form that differs from both the Hebrew and the Greek Old Testament. In the Hebrew text, “the Lord” is Yahweh. “The Law” here refers to Scripture generally."
+    },
+    {
+     "m": "f",
+     "ref": "14:25",
+     "text": "Compare Isa 45:14; Zech 8:23."
+    },
+    {
+     "m": "g",
+     "ref": "14:33",
+     "text": "As in all the churches of the saints: the punctuation is disputed. These words may instead begin v. 34 (“As in all the churches of the saints, let the women keep silent…”)."
+    },
+    {
+     "m": "h",
+     "ref": "14:34",
+     "text": "Let the women keep silence in the assemblies: vv. 34–35 stand here in all known Greek manuscripts and in the Westcott–Hort text, but in a group of Western witnesses (Codex Claromontanus [D], Codex Augiensis [F], Codex Boernerianus [G], some Old Latin manuscripts, and the Latin writer Ambrosiaster, as reported) they are placed after v. 40. Some scholars infer from this, and from scribal sigla reported in Codex Vaticanus and Codex Fuldensis, that the verses began as a marginal gloss that was later copied into the text at two different points; others hold that they are Paul’s and that the Western order is a scribal relocation intended to keep the discussion of prophecy together. How the instruction relates to 11:5, where women pray and prophesy, is also debated. The traditional verse order is kept here."
+    },
+    {
+     "m": "i",
+     "ref": "14:37",
+     "text": "The Lord’s command: many manuscripts read “the Lord’s commands,” and some omit “command.”"
+    },
+    {
+     "m": "j",
+     "ref": "14:38",
+     "text": "He is disregarded: that is, he is not recognized (by God). So the Westcott–Hort text with Sinaiticus and Alexandrinus (as reported); P46, Vaticanus and many later manuscripts read “let him be ignorant.”"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1,
+    12,
+    20,
+    29,
+    35,
+    50,
+    58
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now, brothers, I am reminding you of the gospel I proclaimed to you, which you also accepted, on which you have taken your stand,"
+    },
+    {
+     "v": 2,
+     "text": "and through which you are being saved, if you hold firmly to the message as I preached it to you; unless your believing was to no purpose."
+    },
+    {
+     "v": 3,
+     "text": "For among the first things I handed on to you was what I in turn had received: that Christ died for our sins in keeping with the Scriptures,"
+    },
+    {
+     "v": 4,
+     "text": "that he was buried, that he was raised on the third day in keeping with the Scriptures,"
+    },
+    {
+     "v": 5,
+     "text": "He appeared to Cephas, and after that to the Twelve."
+    },
+    {
+     "v": 6,
+     "text": "After that he appeared to upward of five hundred brothers at one time, most of whom are alive to this day, though some have fallen asleep."
+    },
+    {
+     "v": 7,
+     "text": "After that he appeared to James,{a} then to the apostles as a body."
+    },
+    {
+     "v": 8,
+     "text": "And last of all he appeared to me also, as though to one born out of due time.{b}"
+    },
+    {
+     "v": 9,
+     "text": "For I am the least of the apostles, not worthy to be called an apostle, since I persecuted God’s church."
+    },
+    {
+     "v": 10,
+     "text": "But by God’s grace I am what I am, and his grace toward me did not prove fruitless. On the contrary, I toiled harder than all of them, though it was not I but the grace of God that was with me."
+    },
+    {
+     "v": 11,
+     "text": "So whether it was I or they, this is how we preach, and this is how you came to believe."
+    },
+    {
+     "v": 12,
+     "text": "Now if Christ is preached as raised from the dead, how can some of you be saying that there is no resurrection of the dead?"
+    },
+    {
+     "v": 13,
+     "text": "If there is no resurrection of the dead, then Christ has not been raised either;"
+    },
+    {
+     "v": 14,
+     "text": "and if Christ has not been raised, then our preaching is empty and your faith is empty as well."
+    },
+    {
+     "v": 15,
+     "text": "Worse, we are found to be false witnesses about God, because we testified of God that he raised Christ, whom he did not raise if in fact the dead are not raised."
+    },
+    {
+     "v": 16,
+     "text": "For if the dead are not raised, neither has Christ been raised;"
+    },
+    {
+     "v": 17,
+     "text": "and if Christ has not been raised, your faith is futile; you are still in your sins."
+    },
+    {
+     "v": 18,
+     "text": "It would follow that those who have died in Christ{c} are lost."
+    },
+    {
+     "v": 19,
+     "text": "If for this life only we have set our hope on Christ, of all people we are the most to be pitied."
+    },
+    {
+     "v": 20,
+     "text": "But as things are, Christ has been raised from the dead, the firstfruits of those who have fallen asleep."
+    },
+    {
+     "v": 21,
+     "text": "For since death came through a man, through a man has come also the resurrection of the dead."
+    },
+    {
+     "v": 22,
+     "text": "For as in Adam{d} all die, so too in Christ will all be made alive."
+    },
+    {
+     "v": 23,
+     "text": "Each, however, in proper sequence: first Christ, the firstfruits; afterward, at his coming, Christ’s own people."
+    },
+    {
+     "v": 24,
+     "text": "Then the end will come, when he delivers the kingdom to his God and Father, once he has put down all rule and all authority and power."
+    },
+    {
+     "v": 25,
+     "text": "For he must reign until he has put all his enemies under his feet.{e}"
+    },
+    {
+     "v": 26,
+     "text": "The last enemy to be abolished is death."
+    },
+    {
+     "v": 27,
+     "text": "For “he has put all things in subjection under his feet.”{f} But when it says “all things” are subjected, it is evident that he who subjected all things to him is excepted."
+    },
+    {
+     "v": 28,
+     "text": "When all things have been subjected to him, then the Son himself also will be subjected to the one who subjected all things to him, so that God may be all in all."
+    },
+    {
+     "v": 29,
+     "text": "Otherwise, what will those people accomplish who are baptized on behalf of the dead?{g} If the dead are not raised at all, why are people baptized on their behalf?"
+    },
+    {
+     "v": 30,
+     "text": "And why are we ourselves in danger every hour?"
+    },
+    {
+     "v": 31,
+     "text": "I die every day! That is as sure, brothers, as my pride in you, which I have in Christ Jesus our Lord."
+    },
+    {
+     "v": 32,
+     "text": "If with merely human hopes I fought with wild beasts at Ephesus,{h} what have I gained? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”{i}"
+    },
+    {
+     "v": 33,
+     "text": "Make no mistake: “Evil associations spoil good morals.”{j}"
+    },
+    {
+     "v": 34,
+     "text": "Sober up, as is right, and stop sinning; for some have no knowledge of God. I say this to your shame."
+    },
+    {
+     "v": 35,
+     "text": "But someone will ask, “How are the dead raised? With what kind of body do they come?”"
+    },
+    {
+     "v": 36,
+     "text": "You fool! The seed you sow is not brought to life unless it first dies."
+    },
+    {
+     "v": 37,
+     "text": "And the thing you sow is not the body that is to come into being but a bare seed, of wheat, say, or of some other grain."
+    },
+    {
+     "v": 38,
+     "text": "Then God clothes it with a body of his own choosing, giving each seed its proper body."
+    },
+    {
+     "v": 39,
+     "text": "Flesh is not all alike: human flesh is one sort, and animal flesh another; birds have another, and fish another."
+    },
+    {
+     "v": 40,
+     "text": "Bodies exist in heaven and bodies on earth, but the glory of those in heaven differs from the glory of those on earth."
+    },
+    {
+     "v": 41,
+     "text": "There is one splendor of the sun, another of the moon, and another of the stars; for star differs from star in splendor."
+    },
+    {
+     "v": 42,
+     "text": "So it is with the resurrection of the dead. What is sown perishable is raised imperishable."
+    },
+    {
+     "v": 43,
+     "text": "It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power."
+    },
+    {
+     "v": 44,
+     "text": "It is sown a natural{k} body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body."
+    },
+    {
+     "v": 45,
+     "text": "So also it is written, “The first man, Adam, became a living being”;{l} the last Adam became a life-giving spirit."
+    },
+    {
+     "v": 46,
+     "text": "Yet the spiritual does not come first; the natural comes first, and afterward the spiritual."
+    },
+    {
+     "v": 47,
+     "text": "The first man came out of the earth, a man of dust; the second man comes out of heaven.{m}"
+    },
+    {
+     "v": 48,
+     "text": "The earthly are like the earthly man; the heavenly are like the heavenly man."
+    },
+    {
+     "v": 49,
+     "text": "And just as we have borne the likeness of the man of dust, let us also bear{n} the likeness of the man of heaven."
+    },
+    {
+     "v": 50,
+     "text": "What I am saying, brothers, is that flesh and blood can have no share in God’s kingdom, and decay can have no share in what does not decay."
+    },
+    {
+     "v": 51,
+     "text": "Listen, I tell you a mystery: we shall not all fall asleep, but we shall all be changed,{o}"
+    },
+    {
+     "v": 52,
+     "text": "in a moment, in the blink of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed."
+    },
+    {
+     "v": 53,
+     "text": "For this perishable body must clothe itself with the imperishable, and this mortal body must clothe itself with immortality."
+    },
+    {
+     "v": 54,
+     "text": "And once this mortal nature is clothed in immortality,{p} the word of Scripture will be fulfilled: “Death is swallowed up in victory.”{q}"
+    },
+    {
+     "v": 55,
+     "text": "“Death, where is your conquest? Death,{r} where is your sting?”{s}"
+    },
+    {
+     "v": 56,
+     "text": "The sting of death is sin, and the power of sin is the Law."
+    },
+    {
+     "v": 57,
+     "text": "But thanks be to God, who gives us the victory through our Lord Jesus Christ!"
+    },
+    {
+     "v": 58,
+     "text": "So then, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:7",
+     "text": "James: Hebrew *Yaakov* (Jacob), traditionally “he grasps the heel” or “may he protect”; here the Lord’s brother (Gal 1:19)."
+    },
+    {
+     "m": "b",
+     "ref": "15:8",
+     "text": "Born out of due time: Greek *ektrōma*, a premature or stillborn birth; perhaps a term of abuse used of Paul."
+    },
+    {
+     "m": "c",
+     "ref": "15:18",
+     "text": "Died in Christ: literally “fallen asleep in Christ.”"
+    },
+    {
+     "m": "d",
+     "ref": "15:22",
+     "text": "Adam: Hebrew, “human being,” related to *adamah*, “ground.”"
+    },
+    {
+     "m": "e",
+     "ref": "15:25",
+     "text": "Ps 110:1."
+    },
+    {
+     "m": "f",
+     "ref": "15:27",
+     "text": "Ps 8:6."
+    },
+    {
+     "m": "g",
+     "ref": "15:29",
+     "text": "Baptized on behalf of the dead: the practice referred to is unknown, and its meaning has been widely debated."
+    },
+    {
+     "m": "h",
+     "ref": "15:32",
+     "text": "Fought with wild beasts at Ephesus: probably figurative, for fierce opposition."
+    },
+    {
+     "m": "i",
+     "ref": "15:32",
+     "text": "Isa 22:13."
+    },
+    {
+     "m": "j",
+     "ref": "15:33",
+     "text": "A line from the comic poet Menander (*Thaïs*), which had become proverbial."
+    },
+    {
+     "m": "k",
+     "ref": "15:44",
+     "text": "Natural: Greek *psychikos*, “belonging to the soul (*psychē*),” that is, animated by ordinary life; so also in v. 46."
+    },
+    {
+     "m": "l",
+     "ref": "15:45",
+     "text": "Gen 2:7, with “first” and “Adam” added."
+    },
+    {
+     "m": "m",
+     "ref": "15:47",
+     "text": "Out of heaven: many later manuscripts read “the Lord out of heaven.”"
+    },
+    {
+     "m": "n",
+     "ref": "15:49",
+     "text": "Let us also bear: so the Westcott–Hort text, with P46, Sinaiticus, Alexandrinus, Claromontanus and most manuscripts (as reported); Vaticanus and some others read “we shall also bear,” a difference of one vowel in Greek (*phoresōmen* / *phoresomen*) which many editors prefer on grounds of context."
+    },
+    {
+     "m": "o",
+     "ref": "15:51",
+     "text": "We shall not all fall asleep, but we shall all be changed: so the Westcott–Hort text, with P46 (in part), Vaticanus and most manuscripts (as reported). Sinaiticus, Alexandrinus and some others (as reported) read “we shall all fall asleep, but not all of us shall be changed,” and the original hand of Claromontanus and the Latin Vulgate (as reported) read “we shall all rise, but not all of us shall be changed.” P46 is reported to read “we shall all not fall asleep, but not all shall be changed.” The variants apparently arose because Paul’s generation had in fact died."
+    },
+    {
+     "m": "p",
+     "ref": "15:54",
+     "text": "Clothed in immortality: the Westcott–Hort text, with P46, the original hand of Sinaiticus and others (as reported), lacks the words “and this perishable nature is clothed in the imperishable,” which most manuscripts include before this phrase."
+    },
+    {
+     "m": "q",
+     "ref": "15:54",
+     "text": "Isa 25:8, in a form close to the later Greek versions of Theodotion and Aquila."
+    },
+    {
+     "m": "r",
+     "ref": "15:55",
+     "text": "Death: many later manuscripts read “Hades.”"
+    },
+    {
+     "m": "s",
+     "ref": "15:55",
+     "text": "Hos 13:14, adapted from the Greek Old Testament."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paras": [
+    1,
+    5,
+    10,
+    12,
+    13,
+    15,
+    19,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As for the collection for the saints: follow the directions I gave the churches of Galatia."
+    },
+    {
+     "v": 2,
+     "text": "On the first day of every week, each of you is to set something aside at home, storing up whatever he has been able to spare, so that collections will not have to be made when I arrive."
+    },
+    {
+     "v": 3,
+     "text": "When I get there, I will send whomever you approve, with letters of introduction, to carry your gift to Jerusalem."
+    },
+    {
+     "v": 4,
+     "text": "And if it seems right that I should make the journey as well, they will travel with me."
+    },
+    {
+     "v": 5,
+     "text": "I will come to you after passing through Macedonia, since I intend to pass through Macedonia,"
+    },
+    {
+     "v": 6,
+     "text": "and perhaps I will remain with you a while, or even winter with you, so that you may speed me on to wherever I travel next."
+    },
+    {
+     "v": 7,
+     "text": "I would rather not see you only briefly on my way through; I am hoping to stay with you for a time, Lord permitting."
+    },
+    {
+     "v": 8,
+     "text": "But I will remain in Ephesus until Pentecost,{a}"
+    },
+    {
+     "v": 9,
+     "text": "because a wide door for effective work has opened to me, and there are many who oppose me."
+    },
+    {
+     "v": 10,
+     "text": "Should Timothy come, make sure he has no reason for fear among you; he is working at the Lord’s work as I am."
+    },
+    {
+     "v": 11,
+     "text": "No one is to treat him with contempt. Speed him on his journey peacefully so he can rejoin me, since I am waiting for him with the brothers."
+    },
+    {
+     "v": 12,
+     "text": "As for our brother Apollos, I strongly urged him to visit you with the brothers, but it was not at all his will{b} to come now. He will come when he has an opportunity."
+    },
+    {
+     "v": 13,
+     "text": "Keep alert; stand firm in the faith; show courage; be strong."
+    },
+    {
+     "v": 14,
+     "text": "Let all that you do be done in love."
+    },
+    {
+     "v": 15,
+     "text": "You are aware that Stephanas’ household were the first converts in Achaia,{c} and that they have appointed themselves to minister to the saints. So I appeal to you, brothers,"
+    },
+    {
+     "v": 16,
+     "text": "to subordinate yourselves to people like these, and to all who labor and toil alongside them."
+    },
+    {
+     "v": 17,
+     "text": "I am glad that Stephanas, Fortunatus, and Achaicus{d} have arrived, because they have made up for your absence."
+    },
+    {
+     "v": 18,
+     "text": "They have put fresh heart into me, and into you too. Value men like these."
+    },
+    {
+     "v": 19,
+     "text": "Greetings to you from the churches of Asia.{e} Aquila and Prisca,{f} and the church in their home, greet you heartily in the Lord."
+    },
+    {
+     "v": 20,
+     "text": "All the brothers here send you greetings. Greet one another with a holy kiss."
+    },
+    {
+     "v": 21,
+     "text": "This greeting is in my own hand: Paul."
+    },
+    {
+     "v": 22,
+     "text": "A curse on anyone who does not love the Lord!{g} *Marana tha!*{h}"
+    },
+    {
+     "v": 23,
+     "text": "The grace of the Lord Jesus{i} be with you."
+    },
+    {
+     "v": 24,
+     "text": "My love be with you all in Christ Jesus.{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:8",
+     "text": "Pentecost: Greek, “fiftieth (day),” the Jewish Festival of Weeks (Shavuot), seven weeks after Passover."
+    },
+    {
+     "m": "b",
+     "ref": "16:12",
+     "text": "His will: or “God’s will”; the Greek says simply “it was not at all the will.”"
+    },
+    {
+     "m": "c",
+     "ref": "16:15",
+     "text": "First converts in Achaia: literally “the firstfruits of Achaia,” the Roman province of southern Greece, of which Corinth was the capital."
+    },
+    {
+     "m": "d",
+     "ref": "16:17",
+     "text": "Fortunatus, and Achaicus: *Fortunatus* is Latin, “fortunate”; *Achaicus* is Greek, “the Achaean,” perhaps a name for a freedman."
+    },
+    {
+     "m": "e",
+     "ref": "16:19",
+     "text": "Asia: the Roman province in western Asia Minor, whose capital was Ephesus."
+    },
+    {
+     "m": "f",
+     "ref": "16:19",
+     "text": "Aquila and Prisca: *Aquila* is Latin, “eagle”; *Prisca* (diminutive *Priscilla*, Acts 18:2) is Latin, “ancient, venerable.” Many later manuscripts read “Priscilla.” They had lived in Corinth (Acts 18:1–3)."
+    },
+    {
+     "m": "g",
+     "ref": "16:22",
+     "text": "A curse: Greek *anathema*, “let him be accursed.”"
+    },
+    {
+     "m": "h",
+     "ref": "16:22",
+     "text": "*Marana tha*: Aramaic, “Our Lord, come!” The Greek letters can also be divided *maran atha*, “Our Lord has come” (or “is coming”). Compare Rev 22:20."
+    },
+    {
+     "m": "i",
+     "ref": "16:23",
+     "text": "The Lord Jesus: many later manuscripts read “our Lord Jesus Christ.”"
+    },
+    {
+     "m": "j",
+     "ref": "16:24",
+     "text": "In Christ Jesus: many manuscripts add “Amen.”"
     }
    ]
   }
