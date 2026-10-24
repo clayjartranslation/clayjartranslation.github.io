@@ -1,0 +1,1064 @@
+{
+ "id": "galatians",
+ "name": "Galatians",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The oldest substantial manuscript of Galatians is the papyrus P46 (about AD 200), with Codex Sinaiticus and Codex Vaticanus (4th century); where papyrus readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation or phrase, a note says so. Old Testament quotations are translated afresh from Paul’s Greek, with the source given in a note. *Christos* is rendered “Christ” where it functions as part of Jesus’ name, as it usually does in Paul’s letters. Galatians is one of the seven letters whose authorship by Paul is accepted by nearly all scholars. Whether it was sent to the ethnic Galatians of north-central Asia Minor or to the churches of the Roman province of Galatia founded on Paul’s first journey (Acts 13–14) is debated, and dates proposed range from about AD 48 to the mid-50s.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    6,
+    10,
+    11,
+    13,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Paul,{a} an apostle,{b} sent not from human beings nor through a human being, but through Jesus Christ{c} and God the Father, who raised him from the dead,"
+    },
+    {
+     "v": 2,
+     "text": "and all the brothers{d} who are with me, to the churches of Galatia:{e}"
+    },
+    {
+     "v": 3,
+     "text": "May grace and peace be yours from God our Father and from the Lord Jesus Christ,{f}"
+    },
+    {
+     "v": 4,
+     "text": "who gave himself for our sins to rescue us from this present evil age, according to the will of our God and Father,"
+    },
+    {
+     "v": 5,
+     "text": "to whom be the glory for ever and ever. Amen."
+    },
+    {
+     "v": 6,
+     "text": "It amazes me that you are turning away so soon from the one who called you in the grace of Christ, and are going over to a gospel of another kind,{g}"
+    },
+    {
+     "v": 7,
+     "text": "which is not another gospel at all. It is only that there are some people who are unsettling you and want to twist the gospel of Christ."
+    },
+    {
+     "v": 8,
+     "text": "But even if we, or an angel from heaven, should proclaim to you a gospel contrary to the one we proclaimed to you, let him be accursed.{h}"
+    },
+    {
+     "v": 9,
+     "text": "As we have said before, so now I say again: if anyone is proclaiming to you a gospel contrary to what you received, let him be accursed."
+    },
+    {
+     "v": 10,
+     "text": "Am I now trying to win the approval of people, or of God? Or am I seeking to please people? If I were still pleasing people, I would not be a slave{i} of Christ."
+    },
+    {
+     "v": 11,
+     "text": "For I want you to know, brothers, that the gospel I proclaimed is not of human origin."
+    },
+    {
+     "v": 12,
+     "text": "I did not receive it from a human being, nor was I taught it; it came to me through a revelation of Jesus Christ.{j}"
+    },
+    {
+     "v": 13,
+     "text": "You have heard how I once lived as a follower of Judaism: how violently I hunted down God’s church and set out to ravage it."
+    },
+    {
+     "v": 14,
+     "text": "I was advancing in Judaism beyond many of my own age among my people, and I was far more zealous for the traditions of my ancestors."
+    },
+    {
+     "v": 15,
+     "text": "But when God, who set me apart before I was born{k} and called me by his grace, was pleased"
+    },
+    {
+     "v": 16,
+     "text": "to reveal his Son in me, so that I might proclaim him among the Gentiles,{l} I did not immediately consult with any human being,{m}"
+    },
+    {
+     "v": 17,
+     "text": "nor did I go up to Jerusalem to those who were apostles before me. Instead I went away into Arabia,{n} and then returned to Damascus."
+    },
+    {
+     "v": 18,
+     "text": "Three years later I did go up to Jerusalem, to become acquainted with Cephas,{o} and I spent fifteen days in his company."
+    },
+    {
+     "v": 19,
+     "text": "Of the other apostles I saw no one, apart from James, the brother of the Lord.{p}"
+    },
+    {
+     "v": 20,
+     "text": "As for the things I write to you, look: before God, I am telling no lie."
+    },
+    {
+     "v": 21,
+     "text": "Then I went into the regions of Syria and Cilicia.{q}"
+    },
+    {
+     "v": 22,
+     "text": "The churches in Judea that are in Christ still did not know my face."
+    },
+    {
+     "v": 23,
+     "text": "All they had heard was this: “The one who used to persecute us now proclaims as good news the faith that he once set out to ravage.”"
+    },
+    {
+     "v": 24,
+     "text": "And they glorified God because of me."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Paul*: Latin *Paulus*, “small.” Paul also had the Jewish name *Saul* (Acts 13:9), after the first king of Israel (“asked for”)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Apostle: Greek *apostolos*, “one who is sent,” a messenger with authority from the one who sends him."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "*Jesus*: the Greek form of Hebrew *Yeshua* (Joshua), “Yahweh saves.” *Christ*: Greek *Christos*, “Anointed One,” equivalent to Hebrew *mashiach*, “Messiah.” In Paul’s letters it usually functions as part of Jesus’ name and is rendered “Christ.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Brothers: Greek *adelphoi*, the usual term for fellow believers, including both men and women; so throughout the letter."
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Galatia: a region and Roman province in central Asia Minor (modern Turkey), named after the Gauls (Celts) who settled there in the third century BC."
+    },
+    {
+     "m": "f",
+     "ref": "1:3",
+     "text": "From God our Father and the Lord: so the Westcott–Hort text, with Sinaiticus and Alexandrinus. Many other manuscripts, reportedly including P46 and Vaticanus, read “from God the Father and our Lord.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:6",
+     "text": "Gospel: Greek *euangelion*, “good news”; so throughout."
+    },
+    {
+     "m": "h",
+     "ref": "1:8",
+     "text": "Accursed: Greek *anathema*, something handed over to God for destruction, the Greek Old Testament’s word for Hebrew *ḥerem* (Josh 6:17)."
+    },
+    {
+     "m": "i",
+     "ref": "1:10",
+     "text": "Slave: Greek *doulos*, a slave or bond-servant, one wholly owned by a master."
+    },
+    {
+     "m": "j",
+     "ref": "1:12",
+     "text": "A revelation of Jesus Christ: either a revelation that came from Jesus Christ, or one in which Jesus Christ was revealed (compare verse 16)."
+    },
+    {
+     "m": "k",
+     "ref": "1:15",
+     "text": "Before I was born: literally “from my mother’s womb,” echoing the calls of the prophets (Isa 49:1; Jer 1:5)."
+    },
+    {
+     "m": "l",
+     "ref": "1:16",
+     "text": "Gentiles: Greek *ethnē*, “nations,” the non-Jewish peoples."
+    },
+    {
+     "m": "m",
+     "ref": "1:16",
+     "text": "Any human being: literally “flesh and blood.”"
+    },
+    {
+     "m": "n",
+     "ref": "1:17",
+     "text": "Arabia: probably the Nabatean kingdom, which lay south and east of Damascus and extended into the Sinai (compare 4:25)."
+    },
+    {
+     "m": "o",
+     "ref": "1:18",
+     "text": "*Cephas*: Aramaic *Kepha*, “rock,” the name Jesus gave to Simon; its Greek equivalent is *Peter* (John 1:42)."
+    },
+    {
+     "m": "p",
+     "ref": "1:19",
+     "text": "*James*: the English form of Greek *Iakōbos*, that is, *Jacob* (“heel-grabber” or “he supplants,” Gen 25:26). This James led the Jerusalem church (Acts 15:13; 21:18). The Greek can also be read, “I saw no other apostle, only James.”"
+    },
+    {
+     "m": "q",
+     "ref": "1:21",
+     "text": "Cilicia: the region on the southeast coast of Asia Minor, whose chief city was Tarsus, Paul’s birthplace (Acts 22:3)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    11,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then after fourteen years{a} I went up again to Jerusalem with Barnabas,{b} taking Titus{c} along also."
+    },
+    {
+     "v": 2,
+     "text": "I went up because of a revelation, and I laid before them the gospel that I proclaim among the Gentiles. I did so privately before those who were held in high esteem, for fear that I might be running, or had run, in vain."
+    },
+    {
+     "v": 3,
+     "text": "Yet Titus, my companion, though a Greek, was not forced to undergo circumcision."
+    },
+    {
+     "v": 4,
+     "text": "The pressure came from false brothers who had been smuggled in, men who crept in to spy out the freedom that is ours in Christ Jesus, intending to enslave us.{d}"
+    },
+    {
+     "v": 5,
+     "text": "We did not give in to them by submitting even for a moment,{e} so that the truth of the gospel might remain with you."
+    },
+    {
+     "v": 6,
+     "text": "And from those who were held in esteem (whatever they once were makes no difference to me; God shows no partiality){f} — those esteemed men added nothing to my message."
+    },
+    {
+     "v": 7,
+     "text": "Quite the reverse: they saw that the gospel for the uncircumcised had been put into my hands, as the gospel for the circumcised had been put into Peter’s.{g}"
+    },
+    {
+     "v": 8,
+     "text": "For God, who empowered Peter for his mission as apostle to the circumcised, empowered me as well for mine to the Gentiles."
+    },
+    {
+     "v": 9,
+     "text": "James, Cephas, and John,{h} who were reputed to be pillars, acknowledged the grace granted to me, and they gave Barnabas and me their right hands in partnership: we were to go to the Gentiles, and they to the circumcised."
+    },
+    {
+     "v": 10,
+     "text": "Their one request was that we keep the poor in mind, and that was the very thing I had made it my concern to do."
+    },
+    {
+     "v": 11,
+     "text": "But when Cephas came to Antioch,{i} I opposed him to his face, because he stood condemned."
+    },
+    {
+     "v": 12,
+     "text": "Until certain people arrived from James, he had been eating with Gentiles; but once they came he started to withdraw and hold himself aloof, fearing the advocates of circumcision."
+    },
+    {
+     "v": 13,
+     "text": "The rest of the Jews joined him in this pretense,{j} so that even Barnabas was carried away by their pretense."
+    },
+    {
+     "v": 14,
+     "text": "I saw that they were not walking straight with the truth of the gospel, and I said to Cephas before everyone, “You are a Jew, yet you live in Gentile fashion and not in Jewish fashion. How then can you force the Gentiles to adopt Jewish ways?”"
+    },
+    {
+     "v": 15,
+     "text": "We are Jews by nature, not sinners of Gentile stock,"
+    },
+    {
+     "v": 16,
+     "text": "but we know that no one is put right with God{k} by works of the law, only through faith in Jesus Christ.{l} And so we ourselves came to believe in Christ Jesus, so as to be put right by faith in Christ and not by works of the law; for by works of the law no human being{m} will be put right."
+    },
+    {
+     "v": 17,
+     "text": "But if, while we seek to be justified in Christ, we ourselves are also found to be sinners, does that make Christ a servant of sin? Certainly not!"
+    },
+    {
+     "v": 18,
+     "text": "For if I rebuild what I once tore down, I prove that I am a lawbreaker."
+    },
+    {
+     "v": 19,
+     "text": "Through the law I have died to the law, in order to live to God. With Christ I have been crucified.{n}"
+    },
+    {
+     "v": 20,
+     "text": "It is no longer I who live, but Christ who lives in me. And the life I now live in the body,{o} I live by faith in the Son of God, who loved me and gave himself for me."
+    },
+    {
+     "v": 21,
+     "text": "I do not set aside the grace of God; for if righteousness came through the law, then Christ died for nothing."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "After fourteen years: counted either from his conversion or from the visit of 1:18."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "*Barnabas*: interpreted in Acts 4:36 as “son of encouragement”; the derivation is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "2:1",
+     "text": "*Titus*: a Latin name of uncertain meaning; he was a Gentile coworker of Paul (2 Cor 8:23; Titus 1:4)."
+    },
+    {
+     "m": "d",
+     "ref": "2:4",
+     "text": "The Greek sentence of verses 4–5 is broken off and does not complete its grammar; the opening words have been supplied to make the sense clear."
+    },
+    {
+     "m": "e",
+     "ref": "2:5",
+     "text": "A moment: literally “an hour,” an idiom for a brief time. A few Western witnesses lack “to them, not even,” which reverses the sense (“we gave in for a moment”); the earliest manuscripts, including P46, have the negative."
+    },
+    {
+     "m": "f",
+     "ref": "2:6",
+     "text": "Shows no partiality: literally “does not receive the face of a person,” a Hebrew idiom for judging by appearances."
+    },
+    {
+     "m": "g",
+     "ref": "2:7",
+     "text": "*Peter*: Greek *Petros*, “rock,” the Greek equivalent of *Cephas* (1:18)."
+    },
+    {
+     "m": "h",
+     "ref": "2:9",
+     "text": "*John*: the Greek form of Hebrew *Yohanan*, “Yahweh has been gracious.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:11",
+     "text": "Antioch: Antioch in Syria, on the Orontes River, the third city of the Roman Empire and a center of the early Gentile mission (Acts 11:19–26)."
+    },
+    {
+     "m": "j",
+     "ref": "2:13",
+     "text": "Pretense: Greek *hypokrisis*, “play-acting,” traditionally “hypocrisy.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:16",
+     "text": "Justified: Greek *dikaioō*, to declare or put in the right before God; related to *dikaiosynē*, “righteousness.”"
+    },
+    {
+     "m": "l",
+     "ref": "2:16",
+     "text": "Faith in Jesus Christ: Greek *pistis Iēsou Christou*, which may also be translated “the faithfulness of Jesus Christ”; so also later in the verse, in 2:20 and 3:22. Scholars are divided."
+    },
+    {
+     "m": "m",
+     "ref": "2:16",
+     "text": "No one: literally “all flesh shall not,” echoing Ps 143:2 (142:2 in the Greek Old Testament)."
+    },
+    {
+     "m": "n",
+     "ref": "2:19",
+     "text": "In the Greek text, “I have been crucified with Christ” begins verse 20."
+    },
+    {
+     "m": "o",
+     "ref": "2:20",
+     "text": "In the body: literally “in the flesh.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    6,
+    10,
+    15,
+    19,
+    21,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Senseless Galatians! Who has put you under a spell, you before whose eyes Jesus Christ was publicly displayed on the cross?{a}"
+    },
+    {
+     "v": 2,
+     "text": "This is the only thing I want to learn from you: did you receive the Spirit by works of the law, or by hearing with faith?{b}"
+    },
+    {
+     "v": 3,
+     "text": "Are you so foolish? Having begun with the Spirit, are you now finishing with the flesh?{c}"
+    },
+    {
+     "v": 4,
+     "text": "Have you experienced so much to no purpose? If it really was to no purpose.{d}"
+    },
+    {
+     "v": 5,
+     "text": "When God gives you the Spirit and works deeds of power among you, is it because you do works of the law, or because you heard and believed?"
+    },
+    {
+     "v": 6,
+     "text": "It was the same with Abraham: “He believed God, and it was counted to him as righteousness.”{e}"
+    },
+    {
+     "v": 7,
+     "text": "You see, then, that the people of faith are the real children{f} of Abraham."
+    },
+    {
+     "v": 8,
+     "text": "And Scripture, foreseeing that God would justify the Gentiles by faith, proclaimed the gospel beforehand to Abraham, saying, “In you all the nations shall be blessed.”{g}"
+    },
+    {
+     "v": 9,
+     "text": "Accordingly the people of faith share the blessing with Abraham, who had faith."
+    },
+    {
+     "v": 10,
+     "text": "All who depend on works of the law live under a curse, for it stands written, “A curse is on everyone who does not abide by all that is written in the book of the law, to do it.”{h}"
+    },
+    {
+     "v": 11,
+     "text": "That no one is put right with God by the law is clear, because “By faith the righteous one will live.”{i}"
+    },
+    {
+     "v": 12,
+     "text": "But the law does not rest on faith; on the contrary, “The one who does them will live by them.”{j}"
+    },
+    {
+     "v": 13,
+     "text": "Christ redeemed us from the curse of the law by becoming a curse for us, for it is written, “Cursed is everyone who is hung on a tree.”{k}"
+    },
+    {
+     "v": 14,
+     "text": "This was so that the blessing of Abraham might reach the Gentiles in Christ Jesus, and that through faith we might receive the Spirit who was promised."
+    },
+    {
+     "v": 15,
+     "text": "Brothers, let me give an example from daily life:{l} even with a human covenant, once it has been ratified, no one sets it aside or adds to it."
+    },
+    {
+     "v": 16,
+     "text": "The promises were spoken to Abraham and to his offspring. Scripture does not say “offsprings,” referring to many, but speaks of one: “and to your offspring,”{m} that is, Christ."
+    },
+    {
+     "v": 17,
+     "text": "My point is this: a covenant that God had already ratified is not annulled by the law, which came into being four hundred and thirty years afterward,{n} so as to make the promise void."
+    },
+    {
+     "v": 18,
+     "text": "If the inheritance depended on the law, it would no longer depend on a promise; yet it was by a promise that God freely granted it to Abraham."
+    },
+    {
+     "v": 19,
+     "text": "Why then the law? It was added because of transgressions,{o} until the offspring should come to whom the promise had been made; and it was put in place through angels by the hand of a mediator.{p}"
+    },
+    {
+     "v": 20,
+     "text": "A go-between does not act for one party alone; but God is one.{q}"
+    },
+    {
+     "v": 21,
+     "text": "Does this set the law against the promises of God? By no means! If a law had been given that was able to make alive, righteousness would truly have been by the law."
+    },
+    {
+     "v": 22,
+     "text": "But Scripture has locked up everything under the power of sin, so that what was promised might be given, by faith in Jesus Christ, to those who believe."
+    },
+    {
+     "v": 23,
+     "text": "Until faith came, we were kept under guard by the law, confined until the coming faith should be revealed."
+    },
+    {
+     "v": 24,
+     "text": "So the law became our guardian{r} until Christ came, so that we might be justified by faith."
+    },
+    {
+     "v": 25,
+     "text": "But now that faith has come, we are no longer under a guardian."
+    },
+    {
+     "v": 26,
+     "text": "For in Christ Jesus you are all children of God through faith."
+    },
+    {
+     "v": 27,
+     "text": "All of you who were baptized into Christ have put on Christ like a garment."
+    },
+    {
+     "v": 28,
+     "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female,{s} for you are all one in Christ Jesus."
+    },
+    {
+     "v": 29,
+     "text": "If you are Christ’s, you are Abraham’s offspring, and heirs as the promise said."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Publicly portrayed: Greek *prographō*, to placard or post a public notice. Later manuscripts add “that you should not obey the truth” and “among you.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "Hearing with faith: or “the message of faith”; Greek *akoē* means both “hearing” and “what is heard”; also in verse 5."
+    },
+    {
+     "m": "c",
+     "ref": "3:3",
+     "text": "The flesh: Greek *sarx*, here human nature apart from God, and perhaps also a pointed allusion to circumcision."
+    },
+    {
+     "m": "d",
+     "ref": "3:4",
+     "text": "Suffer: or “experience”; the Greek verb *paschō* can be used of good experiences as well as of suffering."
+    },
+    {
+     "m": "e",
+     "ref": "3:6",
+     "text": "Gen 15:6, in the wording of the Greek Old Testament. *Abraham* means “father of a multitude” (Gen 17:5)."
+    },
+    {
+     "m": "f",
+     "ref": "3:7",
+     "text": "Children: literally “sons”; so also in 3:26 and 4:6–7, where it carries the legal sense of heirs."
+    },
+    {
+     "m": "g",
+     "ref": "3:8",
+     "text": "Gen 12:3, combined with Gen 18:18. *Nations* and *Gentiles* translate the same Greek word, *ethnē*."
+    },
+    {
+     "m": "h",
+     "ref": "3:10",
+     "text": "Deut 27:26, quoted freely from the Greek Old Testament, with wording drawn from Deut 28:58."
+    },
+    {
+     "m": "i",
+     "ref": "3:11",
+     "text": "Hab 2:4. The Hebrew reads “by his faithfulness”; the Greek Old Testament reads “by my faithfulness.” The Greek can also be read “The one who is righteous by faith will live.”"
+    },
+    {
+     "m": "j",
+     "ref": "3:12",
+     "text": "Lev 18:5. In the Hebrew text it is introduced by “I am Yahweh.”"
+    },
+    {
+     "m": "k",
+     "ref": "3:13",
+     "text": "Deut 21:23, quoted freely. *Tree*: Greek *xylon*, “wood,” also used of the cross (Acts 5:30)."
+    },
+    {
+     "m": "l",
+     "ref": "3:15",
+     "text": "Literally “I speak according to man.”"
+    },
+    {
+     "m": "m",
+     "ref": "3:16",
+     "text": "Offspring: literally “seed,” a collective noun in Hebrew and Greek. The promise is found in Gen 12:7; 13:15; 17:8; 24:7."
+    },
+    {
+     "m": "n",
+     "ref": "3:17",
+     "text": "Four hundred and thirty years: compare Exod 12:40, where the Greek Old Testament and the Samaritan Pentateuch count this period as including the time in Canaan as well as Egypt; the Hebrew counts it for Egypt alone."
+    },
+    {
+     "m": "o",
+     "ref": "3:19",
+     "text": "Because of transgressions: either to restrain them, or to expose them and define them as such (compare Rom 4:15; 5:20)."
+    },
+    {
+     "m": "p",
+     "ref": "3:19",
+     "text": "Through angels: a Jewish tradition held that angels took part in giving the law at Sinai (Deut 33:2 in the Greek Old Testament; Acts 7:53; Heb 2:2). *Mediator*: Moses."
+    },
+    {
+     "m": "q",
+     "ref": "3:20",
+     "text": "This verse is notoriously difficult and has been interpreted in hundreds of ways. Its point may be that the law came indirectly, through intermediaries, while the promise came directly from the one God."
+    },
+    {
+     "m": "r",
+     "ref": "3:24",
+     "text": "Guardian: Greek *paidagōgos*, a household slave who escorted a boy to school and supervised his conduct until he came of age; not a teacher."
+    },
+    {
+     "m": "s",
+     "ref": "3:28",
+     "text": "Male and female: the wording echoes Gen 1:27 in the Greek Old Testament; note the change from “nor” to “and.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    8,
+    12,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I mean this: so long as the heir is under age, he is no better off than a slave, even though all the property is his."
+    },
+    {
+     "v": 2,
+     "text": "Guardians and stewards have charge of him until the time his father has fixed."
+    },
+    {
+     "v": 3,
+     "text": "So with us also: when we were minors, we were enslaved under the elemental forces of the world.{a}"
+    },
+    {
+     "v": 4,
+     "text": "But when the full time had arrived, God sent out his Son, born of a woman, born subject to the law,"
+    },
+    {
+     "v": 5,
+     "text": "so that he might buy freedom for those subject to the law, and that we might be adopted as children.{b}"
+    },
+    {
+     "v": 6,
+     "text": "And because you are children, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!”{c}"
+    },
+    {
+     "v": 7,
+     "text": "You are therefore no longer a slave but a son, and since you are a son, God has also made you an heir.{d}"
+    },
+    {
+     "v": 8,
+     "text": "In the past, not knowing God, you served as slaves those who by nature are not gods."
+    },
+    {
+     "v": 9,
+     "text": "But now you know God, or rather God knows you. How can you go back again to those feeble and beggarly elemental forces, and long to be their slaves once more?"
+    },
+    {
+     "v": 10,
+     "text": "You are observing special days and months and seasons and years!"
+    },
+    {
+     "v": 11,
+     "text": "I fear for you, that I may have labored over you in vain."
+    },
+    {
+     "v": 12,
+     "text": "Brothers, I beg you, become as I am, because I also have become as you are. You did me no wrong."
+    },
+    {
+     "v": 13,
+     "text": "As you know, it was an illness of the body{e} that first gave me the occasion to preach the gospel to you,"
+    },
+    {
+     "v": 14,
+     "text": "and although my condition put you to the test,{f} you neither scorned nor spurned me;{g} instead you made me welcome as though I were an angel of God, even as though I were Christ Jesus."
+    },
+    {
+     "v": 15,
+     "text": "Where then is your sense of blessing? For I can testify that, if it had been possible, you would have torn out your eyes and given them to me."
+    },
+    {
+     "v": 16,
+     "text": "Have I then become your enemy by telling you the truth?"
+    },
+    {
+     "v": 17,
+     "text": "These people are zealously courting you, but not for good. They want to shut you out, so that you will court them."
+    },
+    {
+     "v": 18,
+     "text": "It is good to be courted for a good purpose at all times, and not only when I am present with you."
+    },
+    {
+     "v": 19,
+     "text": "My little children, I am once again in labor pains for you, until Christ takes shape in you."
+    },
+    {
+     "v": 20,
+     "text": "I wish I could be present with you now and change my tone, because I am at a loss about you."
+    },
+    {
+     "v": 21,
+     "text": "Tell me, you who want to be under the law, do you not listen to the law?"
+    },
+    {
+     "v": 22,
+     "text": "For it is written that Abraham had two sons, one by the slave woman and one by the free woman.{h}"
+    },
+    {
+     "v": 23,
+     "text": "But the son of the slave woman was born according to the flesh, and the son of the free woman through the promise."
+    },
+    {
+     "v": 24,
+     "text": "These things are being taken figuratively:{i} these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar.{j}"
+    },
+    {
+     "v": 25,
+     "text": "Hagar stands for Mount Sinai in Arabia;{k} she matches the Jerusalem of today, which is enslaved along with her children."
+    },
+    {
+     "v": 26,
+     "text": "The Jerusalem that is above, though, is free, and that city is our mother."
+    },
+    {
+     "v": 27,
+     "text": "Scripture says,\n“Be glad, you barren one who never gave birth;\nburst into song and cry aloud, you who never felt labor pains;\nfor many more are the children of the forsaken one\nthan of the one who has a husband.”{l}"
+    },
+    {
+     "v": 28,
+     "text": "Now you, brothers, like Isaac, are children of the promise.{m}"
+    },
+    {
+     "v": 29,
+     "text": "But just as at that time the son born according to the flesh persecuted the son born according to the Spirit, so it is now also."
+    },
+    {
+     "v": 30,
+     "text": "But what does Scripture say? “Drive out the slave woman and her son, for the son of the slave woman shall never share the inheritance with the son of the free woman.”{n}"
+    },
+    {
+     "v": 31,
+     "text": "So, brothers, we are not the slave woman’s children but the free woman’s."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:3",
+     "text": "Elemental forces: Greek *stoicheia*, “basic elements,” meaning either the elementary principles of religion, or the physical elements and the spiritual powers thought to rule them; also in verse 9."
+    },
+    {
+     "m": "b",
+     "ref": "4:5",
+     "text": "Adoption as children: Greek *huiothesia*, the legal adoption of a son, which gave him full rights as heir."
+    },
+    {
+     "m": "c",
+     "ref": "4:6",
+     "text": "*Abba*: Aramaic for “father,” the word Jesus used in prayer (Mark 14:36); Paul gives the Greek translation after it."
+    },
+    {
+     "m": "d",
+     "ref": "4:7",
+     "text": "Through God: later manuscripts read “an heir of God through Christ.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:13",
+     "text": "A bodily illness: literally “a weakness of the flesh.” Its nature is unknown; verse 15 has suggested to some an eye disease."
+    },
+    {
+     "m": "f",
+     "ref": "4:14",
+     "text": "My condition was a trial to you: so the earliest manuscripts; later ones read “my trial that was in my flesh.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:14",
+     "text": "Reject: literally “spit out,” perhaps alluding to the ancient practice of spitting to ward off evil from someone sick."
+    },
+    {
+     "m": "h",
+     "ref": "4:22",
+     "text": "Gen 16:15; 21:2. The slave woman is Hagar, the free woman Sarah."
+    },
+    {
+     "m": "i",
+     "ref": "4:24",
+     "text": "Taken figuratively: Greek *allēgoroumena*, “spoken as an allegory.”"
+    },
+    {
+     "m": "j",
+     "ref": "4:24",
+     "text": "*Hagar*: perhaps related to Arabic *hajara*, “to flee” or “to emigrate”; the meaning is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "4:25",
+     "text": "Now Hagar is Mount Sinai in Arabia: so the Westcott–Hort text. Some manuscripts, including Sinaiticus, read “For Sinai is a mountain in Arabia.” Paul may be playing on an Arabic word for rock or mountain that sounded like *Hagar*; this is uncertain."
+    },
+    {
+     "m": "l",
+     "ref": "4:27",
+     "text": "Isa 54:1, in the wording of the Greek Old Testament."
+    },
+    {
+     "m": "m",
+     "ref": "4:28",
+     "text": "*Isaac*: Hebrew *Yitsḥaq*, “he laughs” (Gen 21:6). Some manuscripts read “we … are.”"
+    },
+    {
+     "m": "n",
+     "ref": "4:30",
+     "text": "Gen 21:10, where Sarah says “with my son Isaac.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    2,
+    7,
+    13,
+    16,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Christ freed us so that we might be free. So stand your ground, and do not let yourselves be held once more under a slave’s yoke."
+    },
+    {
+     "v": 2,
+     "text": "Take note: I, Paul, say to you plainly that Christ will be of no use to you at all if you let yourselves be circumcised."
+    },
+    {
+     "v": 3,
+     "text": "I declare again to every man who accepts circumcision that he is bound to carry out the entire law."
+    },
+    {
+     "v": 4,
+     "text": "You who look to the law to put you right with God have been severed from Christ; you have dropped out of grace."
+    },
+    {
+     "v": 5,
+     "text": "But we, by the Spirit and through faith, wait eagerly for the righteousness we hope for."
+    },
+    {
+     "v": 6,
+     "text": "For in Christ Jesus neither circumcision nor uncircumcision counts for anything; what counts is faith working through love."
+    },
+    {
+     "v": 7,
+     "text": "You were running a good race. Who blocked your way and kept you from obeying the truth?"
+    },
+    {
+     "v": 8,
+     "text": "Such persuading does not come from him who calls you."
+    },
+    {
+     "v": 9,
+     "text": "It takes only a little yeast to work through all the dough."
+    },
+    {
+     "v": 10,
+     "text": "I am confident in the Lord about you that you will take no other view. But the one who is unsettling you will bear the penalty, whoever he may be."
+    },
+    {
+     "v": 11,
+     "text": "But if I, brothers, am still preaching circumcision, why am I still being persecuted? In that case the stumbling block of the cross has been removed."
+    },
+    {
+     "v": 12,
+     "text": "I wish those who are disturbing you would go so far as to castrate themselves!{a}"
+    },
+    {
+     "v": 13,
+     "text": "Brothers, you were called to be free. But do not let freedom become a foothold for the flesh; instead, be slaves to one another through love."
+    },
+    {
+     "v": 14,
+     "text": "For the whole law is summed up in a single command: “You shall love your neighbor as yourself.”{b}"
+    },
+    {
+     "v": 15,
+     "text": "If you go on biting and tearing at one another, watch out, or you will be eaten up by one another."
+    },
+    {
+     "v": 16,
+     "text": "This is what I say: let the Spirit direct your steps, and you will never satisfy the cravings of the flesh."
+    },
+    {
+     "v": 17,
+     "text": "What the flesh craves is contrary to the Spirit, and what the Spirit desires is contrary to the flesh; the two are at war with each other, to keep you from doing whatever you wish."
+    },
+    {
+     "v": 18,
+     "text": "But if you are led by the Spirit, you are not under the law."
+    },
+    {
+     "v": 19,
+     "text": "Now the works of the flesh are plain: sexual immorality, impurity, indecency,"
+    },
+    {
+     "v": 20,
+     "text": "idolatry, sorcery,{c} hatreds, strife, jealousy, fits of rage, selfish rivalries, divisions, factions,"
+    },
+    {
+     "v": 21,
+     "text": "envy,{d} drunken bouts, wild revelry, and the like. I tell you now, as I told you before, that people who do such things will have no share in the kingdom of God."
+    },
+    {
+     "v": 22,
+     "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,"
+    },
+    {
+     "v": 23,
+     "text": "gentleness, self-control. Against such things there is no law."
+    },
+    {
+     "v": 24,
+     "text": "And those who belong to Christ Jesus have crucified the flesh with its passions and desires."
+    },
+    {
+     "v": 25,
+     "text": "Since the Spirit gives us life, let the Spirit also order our steps."
+    },
+    {
+     "v": 26,
+     "text": "Let us not become conceited, provoking one another and envying one another."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:12",
+     "text": "Castrate themselves: Greek *apokoptō*, “cut off,” a bitter play on circumcision, perhaps alluding to the self-castration practiced by priests of the goddess Cybele in Galatia."
+    },
+    {
+     "m": "b",
+     "ref": "5:14",
+     "text": "Lev 19:18."
+    },
+    {
+     "m": "c",
+     "ref": "5:20",
+     "text": "Sorcery: Greek *pharmakeia*, the use of drugs and potions in magic."
+    },
+    {
+     "m": "d",
+     "ref": "5:21",
+     "text": "Envy: later manuscripts add “murders.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    6,
+    11,
+    17,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Brothers, if someone is caught in any wrongdoing, you who are spiritual should restore such a person in a spirit of gentleness. Watch yourself, so that you also are not tempted."
+    },
+    {
+     "v": 2,
+     "text": "Carry one another’s burdens, and in this way fulfill the law of Christ.{a}"
+    },
+    {
+     "v": 3,
+     "text": "Anyone who imagines he is something, when he is nothing, is fooling himself."
+    },
+    {
+     "v": 4,
+     "text": "Let each one examine his own work, and then his reason for pride will be in himself alone, and not in comparison with someone else."
+    },
+    {
+     "v": 5,
+     "text": "For each will carry his own load.{b}"
+    },
+    {
+     "v": 6,
+     "text": "Whoever is being instructed in the word should share every good thing with his instructor."
+    },
+    {
+     "v": 7,
+     "text": "Do not be deceived: God is not mocked. Whatever a person sows, that he will also reap."
+    },
+    {
+     "v": 8,
+     "text": "Sow to please your own flesh, and from the flesh you will reap ruin; sow to please the Spirit, and from the Spirit you will reap eternal life."
+    },
+    {
+     "v": 9,
+     "text": "We must not tire of doing what is right, for when the time comes we shall reap, if we do not lose heart."
+    },
+    {
+     "v": 10,
+     "text": "So then, as we have opportunity, let us do good to everyone, and especially to those who belong to the household of faith."
+    },
+    {
+     "v": 11,
+     "text": "Notice how large the letters are as I now write to you in my own hand!{c}"
+    },
+    {
+     "v": 12,
+     "text": "Those who want to make a good showing in the flesh are the ones who are trying to compel you to be circumcised, only so that they may not be persecuted for the cross of Christ."
+    },
+    {
+     "v": 13,
+     "text": "Even those who are circumcised do not keep the law themselves; they want you circumcised so that they can boast of your flesh."
+    },
+    {
+     "v": 14,
+     "text": "But as for me, may I never boast except in the cross of our Lord Jesus Christ, through which{d} the world has been crucified to me, and I to the world."
+    },
+    {
+     "v": 15,
+     "text": "For neither circumcision nor uncircumcision is anything; what matters is a new creation."
+    },
+    {
+     "v": 16,
+     "text": "And for all who will follow this rule, peace be upon them, and mercy, and upon the Israel of God.{e}"
+    },
+    {
+     "v": 17,
+     "text": "For the rest, let no one make trouble for me, because I carry the marks of Jesus branded on my body.{f}"
+    },
+    {
+     "v": 18,
+     "text": "The grace of our Lord Jesus Christ be with your spirit, brothers. Amen."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Fulfill: the Westcott–Hort text has the command; other manuscripts, among them Vaticanus as reported, read “you will fulfill.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:5",
+     "text": "Load: Greek *phortion*, a person’s own pack, distinct from the heavy “burdens” (*barē*) of verse 2."
+    },
+    {
+     "m": "c",
+     "ref": "6:11",
+     "text": "With my own hand: Paul usually dictated his letters to a scribe (Rom 16:22) and added a closing in his own handwriting (1 Cor 16:21; 2 Thess 3:17)."
+    },
+    {
+     "m": "d",
+     "ref": "6:14",
+     "text": "Through which: or “through whom.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:16",
+     "text": "And upon the Israel of God: or “that is, upon the Israel of God.” The phrase may refer to the church of Jews and Gentiles together, or to Jewish believers, or to the Jewish people as a whole. Compare the Jewish benediction “Peace be upon Israel” (Ps 125:5; 128:6)."
+    },
+    {
+     "m": "f",
+     "ref": "6:17",
+     "text": "Marks: Greek *stigmata*, brands such as were put on slaves to show who owned them; here the scars of Paul’s sufferings for Jesus (2 Cor 11:23–25)."
+    }
+   ]
+  }
+ ]
+}
