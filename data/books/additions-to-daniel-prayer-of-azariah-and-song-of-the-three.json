@@ -1,0 +1,377 @@
+{
+ "id": "additions-to-daniel-prayer-of-azariah-and-song-of-the-three",
+ "name": "Additions to Daniel: Prayer of Azariah and Song of the Three",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek of Daniel 3:24–90 in the version of Theodotion, as printed in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 3 (1899; public domain), which gives on facing pages the Old Greek (Septuagint proper, preserved in full only in the Chigi manuscript 88 and the Syro-Hexapla, with Papyrus 967 reported in later editions) and the Theodotion text that replaced it in church use. Differences of substance in the Old Greek are given in the notes. These verses are part of the Greek and Latin book of Daniel, standing between Dan 3:23 and 3:24 of the Hebrew-Aramaic text; in the Latin Vulgate and Catholic Bibles they are numbered Daniel 3:24–90, and the verse numbers here (1–68) follow NRSV and do not correspond one-for-one with those. They include the Prayer of Azariah (vv. 1–22), a prose narrative (vv. 23–27), and the Song of the Three (vv. 28–68), whose second part (vv. 35–68, the Benedicite) has long been sung in Christian worship. No Semitic text survives; many scholars hold that the prayer and song were composed in Hebrew, perhaps in the 2nd century BC. Azariah, Hananiah and Mishael are the Hebrew names of Abednego, Shadrach and Meshach (Dan 1:6–7). These additions are received as Scripture by Catholic and Orthodox churches; Protestant churches place them among the Apocrypha. Greek *kyrios* is rendered “Lord” and *theos* “God.” Measures are given in US units with the original and metric values in the notes; dates are given as BC/AD. Readings not checked directly against the manuscripts are cited “as reported.” Brenton's English (1844), which translates the Old Greek, was consulted only as a check and not copied. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    23,
+    28,
+    35,
+    42,
+    52,
+    60,
+    66
+   ],
+   "subheads": {
+    "1": "The Prayer of Azariah",
+    "23": "The Furnace",
+    "28": "The Song of the Three"
+   },
+   "verses": [
+    {
+     "v": 1,
+     "text": "And they walked about in the midst of the flame, singing hymns to God and blessing the Lord.{a}"
+    },
+    {
+     "v": 2,
+     "text": "And Azariah stood up and prayed thus, and opening his mouth in the midst of the fire he said:"
+    },
+    {
+     "v": 3,
+     "text": "Blessed are you, Lord, God of our fathers,\nand praiseworthy, and your name is glorified to the ages."
+    },
+    {
+     "v": 4,
+     "text": "For you are righteous in all that you have done to us,\nand all your works are true, and your ways are straight,\nand all your judgments are truth."
+    },
+    {
+     "v": 5,
+     "text": "And judgments of truth you have carried out\nin all that you brought upon us\nand upon Jerusalem, the holy city of our fathers;\nfor in truth and in judgment you brought all these things\nupon us because of our sins."
+    },
+    {
+     "v": 6,
+     "text": "For we sinned and did lawlessly in departing from you,\nand we sinned in everything,\nand to the commandments of your law we did not listen;"
+    },
+    {
+     "v": 7,
+     "text": "nor did we keep them or do as you commanded us,\nso that it might go well with us."
+    },
+    {
+     "v": 8,
+     "text": "And all that you brought upon us,\nand everything that you did to us,\nyou did in true judgment."
+    },
+    {
+     "v": 9,
+     "text": "And you handed us over into the hands of lawless enemies,\nmost hateful apostates,\nand to a king unjust and the most wicked in all the earth.{b}"
+    },
+    {
+     "v": 10,
+     "text": "And now it is not for us to open our mouth;\nshame and reproach have come to your slaves\nand to those who worship you."
+    },
+    {
+     "v": 11,
+     "text": "Do not hand us over to the end, for your name's sake,\nand do not annul your covenant,"
+    },
+    {
+     "v": 12,
+     "text": "and do not take your mercy away from us,\nfor the sake of Abraham, the one beloved by you,\nand for the sake of Isaac your servant\nand Israel your holy one,"
+    },
+    {
+     "v": 13,
+     "text": "to whom you spoke, saying that you would multiply their seed\nas the stars of heaven\nand as the sand that is on the shore of the sea.{c}"
+    },
+    {
+     "v": 14,
+     "text": "For, Master, we have been made fewer than every nation\nand are brought low today in all the earth because of our sins."
+    },
+    {
+     "v": 15,
+     "text": "And there is not at this time ruler and prophet and leader,\nnor whole burnt offering nor sacrifice nor offering nor incense,\nnor a place to bring first fruits before you and find mercy.{d}"
+    },
+    {
+     "v": 16,
+     "text": "But with a crushed soul and a humbled spirit may we be received,{e}"
+    },
+    {
+     "v": 17,
+     "text": "as with whole burnt offerings of rams and bulls\nand as with ten thousands of fat lambs;\nso let our sacrifice be before you today\nand be fully accomplished behind you,{f}\nfor there is no shame for those who trust in you."
+    },
+    {
+     "v": 18,
+     "text": "And now we follow with the whole heart,\nand we fear you and seek your face.\nDo not put us to shame,"
+    },
+    {
+     "v": 19,
+     "text": "but deal with us according to your gentleness\nand according to the abundance of your mercy."
+    },
+    {
+     "v": 20,
+     "text": "And rescue us according to your wonders,\nand give glory to your name, Lord."
+    },
+    {
+     "v": 21,
+     "text": "And let all who show evil to your slaves be turned back,\nand let them be put to shame, stripped of all power,\nand let their strength be crushed;"
+    },
+    {
+     "v": 22,
+     "text": "and let them know that you alone are Lord God,\nand glorious over the whole inhabited world."
+    },
+    {
+     "v": 23,
+     "text": "And the king's servants who had thrown them in did not stop heating the furnace with naphtha and pitch and tow and brushwood."
+    },
+    {
+     "v": 24,
+     "text": "And the flame poured out above the furnace to about seventy-three feet;{g}"
+    },
+    {
+     "v": 25,
+     "text": "and it spread out and burned up those of the Chaldeans whom it found around the furnace."
+    },
+    {
+     "v": 26,
+     "text": "But the angel of the Lord came down together with those around Azariah into the furnace and shook the flame of the fire out of the furnace,"
+    },
+    {
+     "v": 27,
+     "text": "and made the middle of the furnace as if a wind of dew were whistling through it; and the fire did not touch them at all, nor give them pain, nor trouble them."
+    },
+    {
+     "v": 28,
+     "text": "Then the three, as from one mouth, sang a hymn and glorified and blessed God in the furnace, saying:"
+    },
+    {
+     "v": 29,
+     "text": "Blessed are you, Lord, God of our fathers,\nand praiseworthy and exalted above all to the ages;"
+    },
+    {
+     "v": 30,
+     "text": "and blessed is the holy name of your glory,\nand greatly praised and exalted above all to all the ages."
+    },
+    {
+     "v": 31,
+     "text": "Blessed are you in the temple of your holy glory,\nand hymned above all and glorified above all to the ages.{h}"
+    },
+    {
+     "v": 32,
+     "text": "Blessed are you who look upon the abysses,\nseated on the cherubim,\nand praiseworthy and exalted above all to the ages."
+    },
+    {
+     "v": 33,
+     "text": "Blessed are you on the throne of your kingship,\nand hymned above all and exalted above all to the ages."
+    },
+    {
+     "v": 34,
+     "text": "Blessed are you in the firmament of heaven,\nand hymned and glorified to the ages."
+    },
+    {
+     "v": 35,
+     "text": "Bless the Lord, all you works of the Lord;{i}\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 36,
+     "text": "Bless the Lord, you heavens;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 37,
+     "text": "Bless the Lord, you angels of the Lord;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 38,
+     "text": "Bless the Lord, all you waters above the heaven;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 39,
+     "text": "Bless the Lord, all you powers;{j}\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 40,
+     "text": "Bless the Lord, sun and moon;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 41,
+     "text": "Bless the Lord, you stars of heaven;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 42,
+     "text": "Bless the Lord, every shower and dew;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 43,
+     "text": "Bless the Lord, all you winds;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 44,
+     "text": "Bless the Lord, fire and burning heat;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 45,
+     "text": "Bless the Lord, chill and scorching;{k}\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 46,
+     "text": "Bless the Lord, dews and snowfalls;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 47,
+     "text": "Bless the Lord, nights and days;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 48,
+     "text": "Bless the Lord, light and darkness;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 49,
+     "text": "Bless the Lord, frost and cold;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 50,
+     "text": "Bless the Lord, hoarfrosts and snows;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 51,
+     "text": "Bless the Lord, lightnings and clouds;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 52,
+     "text": "Let the earth bless the Lord;\nlet it hymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 53,
+     "text": "Bless the Lord, mountains and hills;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 54,
+     "text": "Bless the Lord, all things that spring up on the earth;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 55,
+     "text": "Bless the Lord, you springs;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 56,
+     "text": "Bless the Lord, seas and rivers;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 57,
+     "text": "Bless the Lord, you sea monsters{l} and all things that move in the waters;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 58,
+     "text": "Bless the Lord, all you birds of heaven;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 59,
+     "text": "Bless the Lord, you wild beasts and all you cattle;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 60,
+     "text": "Bless the Lord, you sons of human beings;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 61,
+     "text": "Bless the Lord, Israel;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 62,
+     "text": "Bless the Lord, you priests of the Lord;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 63,
+     "text": "Bless the Lord, you slaves of the Lord;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 64,
+     "text": "Bless the Lord, you spirits and souls of the righteous;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 65,
+     "text": "Bless the Lord, you who are holy and lowly in heart;\nhymn him and exalt him above all to the ages."
+    },
+    {
+     "v": 66,
+     "text": "Bless the Lord, Hananiah, Azariah, Mishael;{m}\nhymn him and exalt him above all to the ages;\nfor he has drawn us out of Hades\nand saved us from the hand of death\nand rescued us from the midst of the burning flame\nand from the midst of the fire he rescued us."
+    },
+    {
+     "v": 67,
+     "text": "Give thanks to the Lord, for he is kind,\nfor his mercy is to the ages.{n}"
+    },
+    {
+     "v": 68,
+     "text": "Bless, all you who revere the Lord, the God of gods;\nhymn him and give thanks,\nfor his mercy is to the ages.{o}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Inserted after Dan 3:23. The Old Greek opens instead: “So Hananiah and Azariah and Mishael prayed and sang hymns to the Lord when the king commanded that they be thrown into the furnace.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:9",
+     "text": "Nebuchadnezzar, or, in the author's own day, perhaps Antiochus IV Epiphanes (175–164 BC)."
+    },
+    {
+     "m": "c",
+     "ref": "1:13",
+     "text": "Gen 15:5; 22:17."
+    },
+    {
+     "m": "d",
+     "ref": "1:15",
+     "text": "Compare Hos 3:4. The line fits the time when the temple worship was halted (167–164 BC; 1 Macc 1:41–64), as many hold."
+    },
+    {
+     "m": "e",
+     "ref": "1:16",
+     "text": "Ps 51:17."
+    },
+    {
+     "m": "f",
+     "ref": "1:17",
+     "text": "The Greek line “and be fully accomplished behind you” (ekteleisai opisthen sou) is obscure; the Old Greek, as reported, reads differently here, and some correct the text to “and may we wholly follow you.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:24",
+     "text": "Greek “forty-nine cubits,” about 22 m; a cubit is about 18 inches (45 cm)."
+    },
+    {
+     "m": "h",
+     "ref": "1:31",
+     "text": "The order of verses 31–34 differs somewhat between Theodotion and the Old Greek, as reported."
+    },
+    {
+     "m": "i",
+     "ref": "1:35",
+     "text": "Verses 35–68 are the canticle known from its Latin opening as the Benedicite. The refrain renders hymneite kai hyperypsoute auton eis tous aiōnas."
+    },
+    {
+     "m": "j",
+     "ref": "1:39",
+     "text": "The heavenly hosts."
+    },
+    {
+     "m": "k",
+     "ref": "1:45",
+     "text": "The sequence of the elements named in verses 42–51 differs between Theodotion and the Old Greek, as reported."
+    },
+    {
+     "m": "l",
+     "ref": "1:57",
+     "text": "Greek kētē, the great creatures of the sea, including whales."
+    },
+    {
+     "m": "m",
+     "ref": "1:66",
+     "text": "Dan 1:6–7: Shadrach, Abednego and Meshach."
+    },
+    {
+     "m": "n",
+     "ref": "1:67",
+     "text": "Ps 136:1."
+    },
+    {
+     "m": "o",
+     "ref": "1:68",
+     "text": "The Greek and Latin text of Daniel continues at 3:24 of the Hebrew-Aramaic (“Then King Nebuchadnezzar was astonished…”), numbered Dan 3:91 in the Vulgate."
+    }
+   ]
+  }
+ ]
+}
