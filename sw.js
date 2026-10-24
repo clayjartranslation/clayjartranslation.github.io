@@ -1,7 +1,7 @@
 /* Service worker: saves the whole site for offline reading. Bump VERSION when files change
    (tools/add-book.js does this automatically). All paths are relative, so the site works
    from a domain root or a subpath such as https://USER.github.io/cjt-bible/. */
-const VERSION = 'cjt-v25';
+const VERSION = 'cjt-v26';
 const CORE = [
   './', 'index.html', 'css/style.css', 'js/app.js', 'manifest.webmanifest',
   'data/books.json', 'data/front-matter.json',
@@ -12,12 +12,12 @@ const CORE = [
 self.addEventListener('install', (event) => {
   event.waitUntil((async () => {
     const cache = await caches.open(VERSION);
-    await cache.addAll(CORE);
+    await cache.addAll(CORE.map((u) => new Request(u, { cache: 'reload' })));
     // Also save every translated book listed in the catalog.
     const res = await cache.match('data/books.json');
     const cat = await res.json();
     const files = cat.books.filter((b) => b.file).map((b) => b.file);
-    await cache.addAll(files);
+    await cache.addAll(files.map((u) => new Request(u, { cache: 'reload' })));
     await self.skipWaiting();
   })());
 });
@@ -35,10 +35,19 @@ self.addEventListener('fetch', (event) => {
   const isData = /\/data\/.+\.json$/.test(new URL(req.url).pathname);
   event.respondWith((async () => {
     const cache = await caches.open(VERSION);
+    if (isData) {
+      // Data: always try the network first (bypassing the browser cache) so new chapters show up;
+      // fall back to the saved copy when offline.
+      try {
+        const res = await fetch(req, { cache: 'no-cache' });
+        if (res.ok) { cache.put(req, res.clone()); return res; }
+      } catch (e) { /* offline */ }
+      const saved = await cache.match(req, { ignoreSearch: true });
+      return saved || Response.error();
+    }
     const cached = await cache.match(req, { ignoreSearch: true });
-    // Data: show the saved copy at once, refresh it in the background (stale-while-revalidate).
     const network = fetch(req).then((res) => { if (res.ok) cache.put(req, res.clone()); return res; }).catch(() => null);
-    if (cached) { if (isData) event.waitUntil(network); return cached; }
+    if (cached) { event.waitUntil(network); return cached; }
     const res = await network;
     if (res) return res;
     if (req.mode === 'navigate') return (await cache.match('index.html')) || Response.error();
