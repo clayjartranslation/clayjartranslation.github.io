@@ -1,0 +1,2641 @@
+{
+ "id": "1-esdras",
+ "name": "1 Esdras",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of Esdras A as printed by H. B. Swete (The Old Testament in Greek according to the Septuagint, vol. 2, 1891), which follows Codex Vaticanus (4th century) with the variants of Codex Alexandrinus and others in its apparatus. Swete’s readings are followed unless a note says otherwise; where his text is plainly damaged (especially in numbers and lists of names), the parallel in Chronicles, Ezra, or Nehemiah is noted and sometimes followed.\n\nThe name. The same book is called 1 Esdras in the English Apocrypha (and in the King James Version), 3 Esdras in the Latin Vulgate (where it is printed in an appendix), and Esdras A (Esdras α) in the Septuagint. The confusion comes from the different ways the Ezra books were counted: in the Septuagint, Esdras A is this book and Esdras B is the Greek translation of Ezra–Nehemiah; in the Vulgate, 1 Esdras is Ezra, 2 Esdras is Nehemiah, 3 Esdras is this book, and 4 Esdras is the apocalypse known in English as 2 Esdras. Esdras is the Greek form of the name Ezra (“help”). In Eastern Orthodox Bibles the book is reportedly also called 2 Esdras, with the canonical Ezra–Nehemiah as 3 Esdras (usage varies).\n\nContents and parallels. The book is a Greek retelling of the history of the temple from Josiah’s Passover to Ezra’s reading of the law. Almost all of it parallels canonical books, in a different order: 1:1–55 ≈ 2 Chronicles 35:1–36:21; 2:1–14 ≈ Ezra 1:1–11; 2:15–25 ≈ Ezra 4:7–24 (moved earlier, before the return under Zerubbabel); 3:1–5:6 has no parallel; 5:7–70 ≈ Ezra 2:1–4:5; 6:1–7:15 ≈ Ezra 5:1–6:22; 8:1–9:36 ≈ Ezra 7:1–10:44; 9:37–55 ≈ Nehemiah 7:73–8:12. Nehemiah himself appears only through the title Attharates (5:40; 9:49). The one section without a parallel, the Story of the Three Youths (3:1–5:6), is a contest of wisdom at the court of Darius over what is strongest (wine, the king, women, or truth); it was probably an independent tale that has been attached to Zerubbabel, who wins the contest and is rewarded with permission to rebuild Jerusalem. The book ends abruptly in mid-narrative (see the note at 9:55). Josephus (Antiquities 11, late 1st century AD) reportedly used 1 Esdras rather than the Hebrew Ezra as his source for this period. The date of the Greek is uncertain (perhaps the 2nd century BC); whether it was translated from a lost Hebrew-Aramaic form of the story or composed in Greek on the basis of the Septuagint is debated.\n\nStatus. 1 Esdras is part of the Apocrypha in Protestant Bibles and of the canon in Eastern Orthodox churches; in Roman Catholic Bibles it appears (as 3 Esdras) only in the appendix to the Vulgate, together with the Prayer of Manasseh and 4 Esdras.\n\nVersification. The chapter and verse numbering follows Swete (9 chapters, 431 verses), which some recent English versions also use. The King James Version, the Revised Standard Version, and many other versions number many verses differently within chapters 1, 4, 5, 8, and 9 (for example, its 1:58 is 1:55 here, and its 8:96 is 8:92 here). In 4:18–19 Swete prints a single verse; it is divided here at the conventional point. Greek Kyrios is translated “Lord” (see the note at 1:1), and Pantokratōr “Almighty.” Measures, weights, and dates are given in modern terms in the text, with the Greek units and the months of the Jewish calendar in the notes.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    7,
+    10,
+    16,
+    23,
+    32,
+    37,
+    41
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "And Josiah{a} kept the Passover in Jerusalem to his Lord,{b} and they sacrificed the Passover on the fourteenth day of the first month (in March–April),{c}"
+    },
+    {
+     "v": 2,
+     "text": "having set the priests according to their daily courses, arrayed in their vestments, in the temple of the Lord."
+    },
+    {
+     "v": 3,
+     "text": "And he told the Levites, the temple servants of Israel, to sanctify themselves to the Lord for the placing of the holy ark of the Lord in the house that King Solomon the son of David had built:"
+    },
+    {
+     "v": 4,
+     "text": "“You shall not carry it upon your shoulders any longer. Now therefore serve the Lord your God, and minister to his nation Israel, and prepare yourselves by your families and your tribes, according to the writing of David king of Israel and according to the magnificence of Solomon his son;"
+    },
+    {
+     "v": 5,
+     "text": "and standing in the holy place according to the divisions of the families of you Levites, who serve before your brothers the sons of Israel,"
+    },
+    {
+     "v": 6,
+     "text": "in order, sacrifice the Passover, and make ready the sacrifices for your brothers, and keep the Passover according to the commandment of the Lord which was given to Moses.”"
+    },
+    {
+     "v": 7,
+     "text": "And Josiah gave to the people who were present thirty thousand lambs and kids, and three thousand calves; these were given out of the king’s possessions, as he had promised, to the people and to the priests and Levites."
+    },
+    {
+     "v": 8,
+     "text": "And Hilkiah and Zechariah and Esyelus,{d} the overseers of the temple, gave to the priests for the Passover two thousand six hundred sheep and three hundred calves."
+    },
+    {
+     "v": 9,
+     "text": "And Jeconiah and Shemaiah and Nathanael his brother, and Hashabiah and Ochielus and Joram, captains over thousands, gave to the Levites for the Passover a thousand sheep{e} and seven hundred calves."
+    },
+    {
+     "v": 10,
+     "text": "And when these things had been done, the priests and the Levites stood in fair order, having the unleavened bread, according to the tribes and according to the divisions of the fathers’ houses, before the people, to make offering to the Lord as it is written in the book of Moses; and so they did in the morning."
+    },
+    {
+     "v": 11,
+     "text": "And they roasted the Passover with fire as was fitting, and boiled the sacrifices in the brass pots and caldrons with a sweet savor, and carried them to all the people."
+    },
+    {
+     "v": 12,
+     "text": "And after this they made ready for themselves and for the priests their brothers, the sons of Aaron;"
+    },
+    {
+     "v": 13,
+     "text": "for the priests were offering the fat until late at night; and the Levites made ready for themselves and for the priests their brothers, the sons of Aaron."
+    },
+    {
+     "v": 14,
+     "text": "And the holy singers, the sons of Asaph, were in their order according to what had been ordained by David, and Asaph and Zechariah and Eddinus,{f} who were of the king’s appointing;"
+    },
+    {
+     "v": 15,
+     "text": "and the gatekeepers were at every gate; none needed to depart from his own course, for their brothers the Levites made ready for them."
+    },
+    {
+     "v": 16,
+     "text": "So the things belonging to the sacrifice of the Lord were accomplished on that day: the Passover was kept, and the sacrifices were offered upon the altar of the Lord, according to the command of King Josiah."
+    },
+    {
+     "v": 17,
+     "text": "And the sons of Israel who were present at that time kept the Passover and the feast of unleavened bread seven days."
+    },
+    {
+     "v": 18,
+     "text": "And there had not been kept such a Passover in Israel from the time of the prophet Samuel;"
+    },
+    {
+     "v": 19,
+     "text": "and none of the kings of Israel kept such a Passover as Josiah kept, with the priests and the Levites and the Jews and all Israel who were found dwelling in Jerusalem."
+    },
+    {
+     "v": 20,
+     "text": "This Passover was held in the eighteenth year that Josiah reigned."
+    },
+    {
+     "v": 21,
+     "text": "And the works of Josiah were upright before his Lord, with a heart full of godliness."
+    },
+    {
+     "v": 22,
+     "text": "The events of his time have been recorded in former times, concerning those who sinned and acted ungodly toward the Lord beyond every nation and kingdom, and how they grieved him;{g} and the words of the Lord rose up against Israel."
+    },
+    {
+     "v": 23,
+     "text": "And after all these acts of Josiah, it came to pass that Pharaoh king of Egypt came to make war at Carchemish{h} on the Euphrates, and Josiah went out against him."
+    },
+    {
+     "v": 24,
+     "text": "And the king of Egypt sent to him, saying, “What have I to do with you, O king of Judea?"
+    },
+    {
+     "v": 25,
+     "text": "I have not been sent against you by the Lord God, for my war is upon the Euphrates. And now the Lord is with me; yes, the Lord is with me, urging me on. Withdraw, and do not oppose the Lord.”"
+    },
+    {
+     "v": 26,
+     "text": "But Josiah did not turn his chariot back from him, but undertook to fight him, not heeding the words of Jeremiah{i} the prophet from the mouth of the Lord."
+    },
+    {
+     "v": 27,
+     "text": "He joined battle with him in the plain of Megiddo,{j} and the commanders came down against King Josiah."
+    },
+    {
+     "v": 28,
+     "text": "And the king said to his servants, “Carry me out of the fight, for I am grievously weak.” And at once his servants bore him away out of the battle line."
+    },
+    {
+     "v": 29,
+     "text": "And he got up into his second chariot, and when he had been brought back to Jerusalem he departed this life, and was buried in the tomb of his fathers."
+    },
+    {
+     "v": 30,
+     "text": "And in all Judea they mourned for Josiah; and Jeremiah the prophet lamented for Josiah, and the chief men with the women have made lamentation for him to this day; and it was ordained that this should be done continually throughout all the nation of Israel."
+    },
+    {
+     "v": 31,
+     "text": "These things are written in the book of the histories of the kings of Judea, and every one of the deeds that Josiah did, and his glory, and his understanding in the law of the Lord; and the things that he had done before, and the things now told, are recorded in the book of the kings of Israel and Judah."
+    },
+    {
+     "v": 32,
+     "text": "And the men of the nation took Jeconiah{k} the son of Josiah and made him king in the place of Josiah his father, when he was twenty-three years old."
+    },
+    {
+     "v": 33,
+     "text": "And he reigned in Israel{l} and Jerusalem three months. And the king of Egypt deposed him from reigning in Jerusalem,"
+    },
+    {
+     "v": 34,
+     "text": "and laid a fine upon the nation of about 7,500 pounds of silver and about 75 pounds of gold.{m}"
+    },
+    {
+     "v": 35,
+     "text": "And the king of Egypt made Jehoiakim{n} his brother king of Judea and Jerusalem."
+    },
+    {
+     "v": 36,
+     "text": "And Jehoiakim bound the nobles; but Zarius{o} his brother he seized and brought up out of Egypt."
+    },
+    {
+     "v": 37,
+     "text": "Jehoiakim was twenty-five years old when he began to reign over Judea and Jerusalem, and he did what was evil before the Lord."
+    },
+    {
+     "v": 38,
+     "text": "And against him came up Nebuchadnezzar{p} king of Babylon, and bound him with a chain of bronze and carried him away to Babylon."
+    },
+    {
+     "v": 39,
+     "text": "And Nebuchadnezzar took some of the holy vessels of the Lord and carried them away and set them up in his own temple in Babylon."
+    },
+    {
+     "v": 40,
+     "text": "But the things that are reported about him, and about his uncleanness and impiety, are written in the book of the chronicles of the kings."
+    },
+    {
+     "v": 41,
+     "text": "And Jehoiakim{q} his son reigned in his place; for when he was made king he was eight years old.{r}"
+    },
+    {
+     "v": 42,
+     "text": "And he reigned three months and ten days in Jerusalem, and did what was evil before the Lord."
+    },
+    {
+     "v": 43,
+     "text": "And after a year Nebuchadnezzar sent and removed him to Babylon, together with the holy vessels of the Lord,"
+    },
+    {
+     "v": 44,
+     "text": "and made Zedekiah{s} king of Judea and Jerusalem, when Zedekiah was twenty-one years old; and he reigned eleven years."
+    },
+    {
+     "v": 45,
+     "text": "And he wrought evil before the Lord, and gave no regard to the words spoken by the prophet Jeremiah out of the Lord’s mouth."
+    },
+    {
+     "v": 46,
+     "text": "And though he had been made to swear by the name of the Lord to King Nebuchadnezzar, he broke his oath and rebelled; and he hardened his neck and his heart and transgressed the ordinances of the Lord, the God of Israel."
+    },
+    {
+     "v": 47,
+     "text": "And the leaders of the people and of the priests also did many ungodly and lawless deeds, more than all the uncleannesses of all the nations, and defiled the temple of the Lord which was sanctified in Jerusalem."
+    },
+    {
+     "v": 48,
+     "text": "And the God of their fathers sent by his messenger to call them back, because he was sparing them and his dwelling place."
+    },
+    {
+     "v": 49,
+     "text": "But they mocked his messengers, and on the day the Lord spoke, they were scoffing at his prophets, until he, being angry with his nation because of their ungodly deeds, commanded the kings of the Chaldeans{t} to come up against them."
+    },
+    {
+     "v": 50,
+     "text": "These put their youths to the sword round about the holy temple, and spared neither youth nor maiden, neither aged man nor child,{u} but he gave them all over into their hands."
+    },
+    {
+     "v": 51,
+     "text": "And they took all the holy vessels of the Lord, great and small, and the chests{v} of the Lord and the king’s treasuries, and carried them away to Babylon."
+    },
+    {
+     "v": 52,
+     "text": "And they set fire to the house of the Lord, and broke down the walls of Jerusalem, and burned its towers with fire,"
+    },
+    {
+     "v": 53,
+     "text": "and utterly made all its glorious things useless. And those who were left he carried away with the sword to Babylon;"
+    },
+    {
+     "v": 54,
+     "text": "and they were servants to him and to his sons until the Persians reigned, to fulfill the word of the Lord by the mouth of Jeremiah:"
+    },
+    {
+     "v": 55,
+     "text": "“Until the land has enjoyed its sabbaths, all the time of its desolation it shall keep sabbath, to fulfill seventy years.”{w}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Josiah means “Yahweh supports” or “Yahweh heals” (uncertain). He reigned over Judah about 640–609 BC. 1 Esdras 1:1–55 parallels 2 Chronicles 35:1–36:21 (compare 2 Kings 23:21–25:21)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Greek Kyrios, “Lord,” the word the Septuagint uses for the divine name YHWH; in 2 Chronicles 35:1 the Hebrew has “Yahweh.” “Lord” in this book renders Kyrios throughout."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Greek “on the fourteenth day of the first month,” that is, Nisan, on the spring-start calendar (Exodus 12:6)."
+    },
+    {
+     "m": "d",
+     "ref": "1:8",
+     "text": "Hebrew Jehiel in 2 Chronicles 35:8. Hilkiah means “Yahweh is my portion”; he is the high priest of 2 Kings 22."
+    },
+    {
+     "m": "e",
+     "ref": "1:9",
+     "text": "Swete’s text reads “a thousand”; 2 Chronicles 35:9 and other Greek copies (followed by the King James Version) read “five thousand.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:14",
+     "text": "In 2 Chronicles 35:15 the singers are Asaph, Heman, and Jeduthun; the Greek names here (Zechariah and Eddinus) may be corruptions of these. Asaph means “he gathers.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:22",
+     "text": "Greek “and the things which grieved him”; the Greek of this verse, which has no parallel in Chronicles, is difficult."
+    },
+    {
+     "m": "h",
+     "ref": "1:23",
+     "text": "Carchemish, a fortress city on the upper Euphrates, where Pharaoh Neco fought in 609 and 605 BC (Jeremiah 46:2). The Greek has Karkamys. Pharaoh is Neco II (2 Chronicles 35:20)."
+    },
+    {
+     "m": "i",
+     "ref": "1:26",
+     "text": "Jeremiah means “Yahweh exalts” or “Yahweh establishes” (uncertain). In 2 Chronicles 35:22 the words come “from the mouth of God” through Neco himself; 1 Esdras attributes them to Jeremiah."
+    },
+    {
+     "m": "j",
+     "ref": "1:27",
+     "text": "Greek Metaaddous, a corrupted form of Megiddo (2 Chronicles 35:22), the city guarding the pass into the plain of Jezreel."
+    },
+    {
+     "m": "k",
+     "ref": "1:32",
+     "text": "In 2 Chronicles 36:1 and 2 Kings 23:30 this son is Jehoahaz (also called Shallum, Jeremiah 22:11); the Greek here has Iechonias."
+    },
+    {
+     "m": "l",
+     "ref": "1:33",
+     "text": "Greek “in Israel,” where 2 Chronicles 36:2 has “in Jerusalem” only."
+    },
+    {
+     "m": "m",
+     "ref": "1:34",
+     "text": "Greek “a hundred talents of silver and one talent of gold.” A talent was about 75 pounds (34 kilograms), so about 3,400 kilograms of silver and 34 kilograms of gold; standards varied."
+    },
+    {
+     "m": "n",
+     "ref": "1:35",
+     "text": "Greek Iōakeim. Jehoiakim means “Yahweh raises up”; he reigned about 609–598 BC (2 Chronicles 36:4–8)."
+    },
+    {
+     "m": "o",
+     "ref": "1:36",
+     "text": "Greek Zarion (some copies Zarakēs). In 2 Chronicles 36:4 it is Jehoahaz whom Neco takes to Egypt; the Greek here has garbled the account."
+    },
+    {
+     "m": "p",
+     "ref": "1:38",
+     "text": "Nebuchadnezzar (Greek Nabouchodonosor) means “O Nabu, protect the heir” (Akkadian Nabû-kudurri-uṣur). He reigned in Babylon 605–562 BC."
+    },
+    {
+     "m": "q",
+     "ref": "1:41",
+     "text": "Greek Iōakeim again, here for the son of Jehoiakim, Jehoiachin (also called Jeconiah), who reigned in 598–597 BC (2 Chronicles 36:9)."
+    },
+    {
+     "m": "r",
+     "ref": "1:41",
+     "text": "So also 2 Chronicles 36:9 (Hebrew); 2 Kings 24:8 has “eighteen years old.”"
+    },
+    {
+     "m": "s",
+     "ref": "1:44",
+     "text": "Zedekiah means “Yahweh is righteousness”; he reigned 597–586 BC."
+    },
+    {
+     "m": "t",
+     "ref": "1:49",
+     "text": "The Chaldeans were the dominant people of the Neo-Babylonian kingdom."
+    },
+    {
+     "m": "u",
+     "ref": "1:50",
+     "text": "Greek neōteros, “younger one”; 2 Chronicles 36:17 has “the aged and the infirm,” and the Greek copies vary."
+    },
+    {
+     "m": "v",
+     "ref": "1:51",
+     "text": "Greek kibōtous, “chests, arks,” probably the treasure chests of the temple (2 Chronicles 36:18 has “the treasures of the house of Yahweh”)."
+    },
+    {
+     "m": "w",
+     "ref": "1:55",
+     "text": "Compare Leviticus 26:34–35 and Jeremiah 25:11–12; 29:10. Here 1 Esdras ends its parallel to Chronicles; 2:1–15 follows Ezra 1 (compare 2 Chronicles 36:22–23)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    7,
+    15,
+    21,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the first year of Cyrus{a} as king of the Persians, that the word of the Lord by the mouth of Jeremiah might be accomplished,"
+    },
+    {
+     "v": 2,
+     "text": "the Lord stirred up the spirit of Cyrus king of the Persians, and he made a proclamation throughout all his kingdom, and also in writing, saying,"
+    },
+    {
+     "v": 3,
+     "text": "“Thus says Cyrus king of the Persians: The Lord of Israel, the Lord Most High, has made me king of the whole world,"
+    },
+    {
+     "v": 4,
+     "text": "and has charged me to build him a house at Jerusalem in Judea."
+    },
+    {
+     "v": 5,
+     "text": "If therefore any of you are of his nation, may his Lord be with him, and let him go up to Jerusalem, which is in Judea, and build the house of the Lord of Israel; he is the Lord who dwells in Jerusalem."
+    },
+    {
+     "v": 6,
+     "text": "As many, then, as dwell in the various places, let those who are in his place help him with gold and with silver, with gifts, with horses and cattle, besides the other things added as freewill offerings{b} for the temple of the Lord which is in Jerusalem.”"
+    },
+    {
+     "v": 7,
+     "text": "Then the chief men of the families of the tribes of Judah and Benjamin rose up,{c} and the priests and the Levites, and all whose spirit the Lord had stirred to go up and build a house for the Lord in Jerusalem;"
+    },
+    {
+     "v": 8,
+     "text": "and those who lived round about them helped them in everything, with silver and gold, with horses and cattle, and with a very great number of freewill offerings from many whose minds were stirred up."
+    },
+    {
+     "v": 9,
+     "text": "King Cyrus also brought out the holy vessels of the Lord, which Nebuchadnezzar had carried away from Jerusalem and set up in his idol temple."
+    },
+    {
+     "v": 10,
+     "text": "And when Cyrus king of the Persians had brought them out, he delivered them to Mithridates{d} his treasurer,"
+    },
+    {
+     "v": 11,
+     "text": "and by him they were delivered to Sanabassar,{e} the governor of Judea."
+    },
+    {
+     "v": 12,
+     "text": "And this was the number of them: a thousand gold libation cups, a thousand silver libation cups, twenty-nine silver censers, thirty gold bowls, two thousand four hundred and ten silver bowls,{f} and a thousand other vessels."
+    },
+    {
+     "v": 13,
+     "text": "All the vessels, gold and silver, that were brought were five thousand four hundred and sixty-nine;"
+    },
+    {
+     "v": 14,
+     "text": "and they were brought up by Sanabassar together with the returning exiles from Babylon to Jerusalem."
+    },
+    {
+     "v": 15,
+     "text": "But in the time of Artaxerxes{g} king of the Persians, Belemus and Mithridates and Tabellius and Rathumus and Beeltethmus,{h} and Samellius the scribe, and the rest who were associated with them, dwelling in Samaria and the other places, wrote to him against those who were dwelling in Judea and Jerusalem the following letter:"
+    },
+    {
+     "v": 16,
+     "text": "“To King Artaxerxes, our lord, from your servants Rathumus the recorder and Samellius the scribe, and the rest of their council, and those in Coele-Syria and Phoenicia.{i}"
+    },
+    {
+     "v": 17,
+     "text": "Now be it known to our lord the king that the Jews who came up from you to us have come to Jerusalem and are building that rebellious and wicked city, repairing its marketplaces and its walls, and laying the foundations of a temple."
+    },
+    {
+     "v": 18,
+     "text": "Now if this city is built and the walls are finished, they will not only refuse to pay tribute, but will even stand out against kings. And since the work on the temple is going forward, we think it right not to neglect such a matter, but to address our lord the king, so that, if it seems good to you, search may be made in the books of your fathers."
+    },
+    {
+     "v": 19,
+     "text": "And you will find in the records what is written about these things, and you will learn that that city was rebellious, troubling both kings and cities, and that the Jews were rebels and had been raising sieges in it from of old; for which cause also this city was laid waste."
+    },
+    {
+     "v": 20,
+     "text": "Now therefore we make known to you, our lord the king, that if this city is built and its walls are set up again, you will no longer have any access to Coele-Syria and Phoenicia.”"
+    },
+    {
+     "v": 21,
+     "text": "Then the king wrote back to Rathumus the recorder, and Beeltethmus, and Samellius the scribe, and the rest who were associated with them and dwelling in Samaria and Syria and Phoenicia, as follows:"
+    },
+    {
+     "v": 22,
+     "text": "“I have read the letter which you have sent to me. Therefore I commanded that search be made, and it was found that that city from of old has set itself against kings,"
+    },
+    {
+     "v": 23,
+     "text": "and that the men in it were given to rebellions and wars, and that mighty and stern kings ruled in Jerusalem and exacted tribute from Coele-Syria and Phoenicia."
+    },
+    {
+     "v": 24,
+     "text": "Now therefore I have commanded that those men be hindered from building the city, and that heed be taken that nothing more be done contrary to this, and that such wickedness proceed no further to the annoyance of kings.”"
+    },
+    {
+     "v": 25,
+     "text": "Then, when the things written by King Artaxerxes had been read, Rathumus and Samellius the scribe and those associated with them went in haste to Jerusalem with cavalry and a crowd in battle array, and began to hinder the builders. And the building of the temple in Jerusalem ceased until the second year of the reign of Darius{j} king of the Persians."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Cyrus (Greek Kyros; Persian Kūruš, meaning uncertain) founded the Persian empire and took Babylon in 539 BC. 2:1–14 parallels Ezra 1:1–11 and 2 Chronicles 36:22–23."
+    },
+    {
+     "m": "b",
+     "ref": "2:6",
+     "text": "Greek kat’ euchas, “according to vows,” that is, offerings made in fulfillment of vows; compare Ezra 1:4."
+    },
+    {
+     "m": "c",
+     "ref": "2:7",
+     "text": "Greek “having been established,” a difficult reading; compare Ezra 1:5, “rose up.” Judah means “praised”; Benjamin means “son of the right hand.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:10",
+     "text": "Hebrew Mithredath (Ezra 1:8), a Persian name meaning “given by Mithra.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:11",
+     "text": "Hebrew Sheshbazzar (Ezra 1:8), a Babylonian name of uncertain meaning; the Greek copies spell it in several ways (Sanabassaros, Samanassaros)."
+    },
+    {
+     "m": "f",
+     "ref": "2:12",
+     "text": "Greek “silver bowls, 2,410” (written with Greek numerals); Ezra 1:10 has “410 silver bowls of a second sort.” The total in verse 13 (5,469) agrees with neither list exactly; Ezra 1:11 gives 5,400."
+    },
+    {
+     "m": "g",
+     "ref": "2:15",
+     "text": "Artaxerxes I, king of Persia 465–424 BC. 2:15–25 parallels Ezra 4:7–24, but 1 Esdras places this correspondence before the reign of Darius (chs. 3–7), out of chronological order."
+    },
+    {
+     "m": "h",
+     "ref": "2:15",
+     "text": "In Ezra 4:7–9 the writers are Bishlam, Mithredath, Tabeel, Rehum the commander (Aramaic be‘el-te‘em, “master of decree”), and Shimshai the scribe. The Greek has turned Rehum’s title into a further name, Beeltethmus."
+    },
+    {
+     "m": "i",
+     "ref": "2:16",
+     "text": "Coele-Syria, “Hollow Syria,” the Greek name for the region between the Lebanon and Anti-Lebanon ranges, here used, as often in Hellenistic Greek, for the Persian province “Beyond the River” west of the Euphrates. Phoenicia is the coastland of Tyre and Sidon."
+    },
+    {
+     "m": "j",
+     "ref": "2:25",
+     "text": "Darius I, king of Persia 522–486 BC; his second year is 520 BC (Ezra 4:24; Haggai 1:1). Darius means “holding firm the good.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    4,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now King Darius made a great feast for all who were under him, and for all who were born in his house, and for all the nobles of Media and of Persia,"
+    },
+    {
+     "v": 2,
+     "text": "and for all the satraps and generals and governors{a} who were under him, from India to Ethiopia,{b} in the hundred and twenty-seven satrapies."
+    },
+    {
+     "v": 3,
+     "text": "And they ate and drank, and when they were satisfied they went away; and Darius the king went into his bedchamber and slept, and then awoke.{c}"
+    },
+    {
+     "v": 4,
+     "text": "Then the three young men of the bodyguard, who kept watch over the king’s person, said one to another,"
+    },
+    {
+     "v": 5,
+     "text": "“Let each of us name one thing that is strongest; and he whose saying seems wiser than the others’, to him shall Darius the king give great gifts and great honors of victory:"
+    },
+    {
+     "v": 6,
+     "text": "to be clothed in purple, and to drink from gold cups, and to sleep on a gold bed, and a chariot with a gold bridle, and a turban of fine linen, and a chain about his neck;"
+    },
+    {
+     "v": 7,
+     "text": "and he shall sit next to Darius because of his wisdom, and shall be called Darius’s kinsman.”{d}"
+    },
+    {
+     "v": 8,
+     "text": "And then they each wrote his own saying, and sealed it, and put it under the pillow of Darius the king, and said,"
+    },
+    {
+     "v": 9,
+     "text": "“When the king wakes, they will give him the writing; and to whichever of us the king and the three nobles of Persia judge that his saying is wisest, to him shall the victory be given, as it is written.”"
+    },
+    {
+     "v": 10,
+     "text": "The first wrote, “Wine is strongest.”"
+    },
+    {
+     "v": 11,
+     "text": "The second wrote, “The king is strongest.”"
+    },
+    {
+     "v": 12,
+     "text": "The third wrote, “Women are strongest, but above all things truth is victor.”{e}"
+    },
+    {
+     "v": 13,
+     "text": "And when the king awoke, they took the writing and gave it to him, and he read it."
+    },
+    {
+     "v": 14,
+     "text": "And he sent and called all the nobles of Persia and of Media, and the satraps and generals and governors and chief officers, and sat down in the council chamber, and the writing was read before them."
+    },
+    {
+     "v": 15,
+     "text": "And he said, “Call the young men, and they shall explain their own sayings.” So they were called, and came in."
+    },
+    {
+     "v": 16,
+     "text": "And they said to them, “Declare to us your meaning concerning the things written.” Then the first, who had spoken of the strength of wine, began, and said thus:"
+    },
+    {
+     "v": 17,
+     "text": "“Sirs, how strong wine is! It leads astray the mind of all men who drink it."
+    },
+    {
+     "v": 18,
+     "text": "It makes the mind of the king and of the orphan to be all one, of the slave and of the free, of the poor and of the rich."
+    },
+    {
+     "v": 19,
+     "text": "It turns every thought to feasting and merriment, so that a man remembers no sorrow nor any debt."
+    },
+    {
+     "v": 20,
+     "text": "It makes every heart rich, so that a man remembers neither king nor satrap, and it makes all men talk in large sums.{f}"
+    },
+    {
+     "v": 21,
+     "text": "And when they drink they forget to show love to friends and brothers, and before long they draw their swords;"
+    },
+    {
+     "v": 22,
+     "text": "and when they wake from their wine, they do not remember what they have done."
+    },
+    {
+     "v": 23,
+     "text": "Sirs, is not wine the strongest, since it compels men to do these things?” And when he had said this, he was silent."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:2",
+     "text": "Greek toparchais, “district rulers.” 3:1–5:6, the contest of Darius’s three bodyguards (the “Story of the Three Youths” or “Three Guardsmen”), has no parallel in Ezra, Nehemiah, or any other book of the Hebrew Bible; it is the one large section of 1 Esdras found nowhere else in Scripture. Many scholars think it was an originally independent tale, perhaps first told of an anonymous youth, which was then attached to Zerubbabel (4:13) and used to explain how the rebuilding of the temple was renewed under Darius."
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "Greek Aithiopia, the land south of Egypt (Hebrew Cush). Compare Esther 1:1, which also gives 127 provinces."
+    },
+    {
+     "m": "c",
+     "ref": "3:3",
+     "text": "Greek “and became wakeful.” Some interpreters take it to mean that he slept only a little."
+    },
+    {
+     "m": "d",
+     "ref": "3:7",
+     "text": "Greek syngenēs, “kinsman,” an honorary title in the Persian and Hellenistic courts for the king’s highest favorites."
+    },
+    {
+     "m": "e",
+     "ref": "3:12",
+     "text": "Some Greek copies, as reported, lack “but above all things truth is victor,” which anticipates 4:33–41."
+    },
+    {
+     "m": "f",
+     "ref": "3:20",
+     "text": "Greek dia talantōn, “by talents,” that is, it makes people talk as though they had talents of money (a talent was about 75 pounds of silver)."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    13,
+    33,
+    42,
+    47,
+    58
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then the second, who had spoken of the strength of the king, began to speak:"
+    },
+    {
+     "v": 2,
+     "text": "“Sirs, do not men excel in strength, who bear rule over sea and land and all things in them?"
+    },
+    {
+     "v": 3,
+     "text": "Yet the king is mightier, for he is lord over them and has dominion over them, and whatever he bids them they do."
+    },
+    {
+     "v": 4,
+     "text": "If he bids them make war one against another, they do it; if he sends them forth against the enemies, they march, and break down mountains and walls and towers."
+    },
+    {
+     "v": 5,
+     "text": "They kill and are killed, and do not disobey the king’s word; if they win the victory, they bring everything to the king, whatever they take as plunder, and everything else."
+    },
+    {
+     "v": 6,
+     "text": "And those who are not soldiers and do not go to war, but till the ground, when they have sown, they reap again and bring it to the king; and they compel one another to bring the tribute to the king."
+    },
+    {
+     "v": 7,
+     "text": "And yet he is only one man: if he says to kill, they kill; if he says to spare, they spare;"
+    },
+    {
+     "v": 8,
+     "text": "if he says to strike, they strike; if he says to lay waste, they lay waste; if he says to build, they build;"
+    },
+    {
+     "v": 9,
+     "text": "if he says to cut down, they cut down; if he says to plant, they plant."
+    },
+    {
+     "v": 10,
+     "text": "And all his people and his armies obey him. Moreover he reclines at table, eats and drinks, and sleeps;"
+    },
+    {
+     "v": 11,
+     "text": "but they keep watch round about him, and none of them may go away and do his own work, nor do they disobey him."
+    },
+    {
+     "v": 12,
+     "text": "Sirs, how can the king not be strongest, when he is obeyed in this way?” And he was silent."
+    },
+    {
+     "v": 13,
+     "text": "Then the third, who had spoken of women and of truth (this was Zerubbabel{a}), began to speak:"
+    },
+    {
+     "v": 14,
+     "text": "“Sirs, is the king not great, and are men not many, and is wine not mighty? Who then has dominion over them, or who rules them? Is it not women?"
+    },
+    {
+     "v": 15,
+     "text": "Women gave birth to the king and to all the people who rule over sea and land."
+    },
+    {
+     "v": 16,
+     "text": "Of them men were born; and women nourished up those who planted the vineyards from which the wine comes."
+    },
+    {
+     "v": 17,
+     "text": "Women make men’s garments; they bring men glory;{b} and men cannot exist without women."
+    },
+    {
+     "v": 18,
+     "text": "If men gather gold and silver and every lovely thing, and then see one woman who is fair in looks and beauty,"
+    },
+    {
+     "v": 19,
+     "text": "they let all those things go and gape at her, and with mouths open they stare at her, and all choose her rather than gold or silver or any lovely thing."
+    },
+    {
+     "v": 20,
+     "text": "A man leaves his own father, who brought him up, and his own country, and cleaves to his own wife."
+    },
+    {
+     "v": 21,
+     "text": "With his wife he ends his days,{c} and remembers neither father nor mother nor country."
+    },
+    {
+     "v": 22,
+     "text": "And by this you must know that women have dominion over you: do you not labor and travail, and give and bring all to women?"
+    },
+    {
+     "v": 23,
+     "text": "A man takes his sword and goes out to make raids and to rob and steal, and to sail upon the sea and upon rivers;"
+    },
+    {
+     "v": 24,
+     "text": "he faces the lion and walks in darkness; and when he has stolen and plundered and robbed, he brings it to his beloved."
+    },
+    {
+     "v": 25,
+     "text": "A man loves his own wife more than father or mother."
+    },
+    {
+     "v": 26,
+     "text": "Yes, many have run mad for women’s sake, and many have been made bondmen for them."
+    },
+    {
+     "v": 27,
+     "text": "Many have perished, and stumbled, and sinned because of women."
+    },
+    {
+     "v": 28,
+     "text": "And now do you not believe me? Is not the king great in his power? Do not all lands fear to touch him?"
+    },
+    {
+     "v": 29,
+     "text": "Yet I have seen him with Apame,{d} the king’s concubine, the daughter of the illustrious Bartacus, sitting at the king’s right hand,"
+    },
+    {
+     "v": 30,
+     "text": "taking the crown from the king’s head and putting it on her own, and slapping the king with her left hand."
+    },
+    {
+     "v": 31,
+     "text": "And at this the king would gaze at her with his mouth open. If she smiles at him, he laughs; and if she is cross with him, he coaxes her, that she may be reconciled to him."
+    },
+    {
+     "v": 32,
+     "text": "Sirs, how can women not be strong, since they do such things?”"
+    },
+    {
+     "v": 33,
+     "text": "Then the king and the great men looked one upon another; so he began to speak of truth:"
+    },
+    {
+     "v": 34,
+     "text": "“Sirs, are women not strong? Great is the earth, high is the heaven, swift is the sun in his course, for he wheels around the compass of the heaven and runs again to his own place in one day."
+    },
+    {
+     "v": 35,
+     "text": "Is not he great who does these things? But truth is great, and stronger than all things."
+    },
+    {
+     "v": 36,
+     "text": "All the earth calls upon truth, and the heaven blesses her; all works shake and tremble at her,{e} and with her is no unrighteous thing."
+    },
+    {
+     "v": 37,
+     "text": "Wine is unrighteous, the king is unrighteous, women are unrighteous, all the sons of men are unrighteous, and all their works are unrighteous, all such things as these; there is no truth in them, and in their unrighteousness they shall perish."
+    },
+    {
+     "v": 38,
+     "text": "But truth endures and is strong for ever; she lives and conquers for evermore."
+    },
+    {
+     "v": 39,
+     "text": "With her there is no respect of persons or favoritism, but she does what is just rather than anything unjust or wicked; and all approve her works."
+    },
+    {
+     "v": 40,
+     "text": "In her judgment there is nothing unrighteous. To her belong the strength and the kingship and the authority and the majesty of all ages. Blessed be the God of truth!”"
+    },
+    {
+     "v": 41,
+     "text": "And he ceased speaking; and all the people then shouted, and said, “Great is truth, and strongest of all!”{f}"
+    },
+    {
+     "v": 42,
+     "text": "Then the king said to him, “Ask what you wish, even more than is written, and we will give it to you, inasmuch as you have been found the wisest; and you shall sit next to me and be called my kinsman.”"
+    },
+    {
+     "v": 43,
+     "text": "Then he said to the king, “Remember the vow which you vowed, to build Jerusalem, on the day you received your kingdom,"
+    },
+    {
+     "v": 44,
+     "text": "and to send back all the vessels that were taken out of Jerusalem, which Cyrus set apart when he vowed to destroy Babylon, and vowed to send them back there.{g}"
+    },
+    {
+     "v": 45,
+     "text": "You also vowed to build the temple, which the Edomites{h} burned when Judea was laid waste by the Chaldeans."
+    },
+    {
+     "v": 46,
+     "text": "And now, my lord the king, this is what I ask and request of you, and this is the magnificence that becomes you: I beg you therefore to perform the vow which you vowed with your own mouth to the King of heaven.”"
+    },
+    {
+     "v": 47,
+     "text": "Then Darius the king rose and kissed him, and wrote letters for him to all the stewards and governors and generals and satraps, that they should escort him and all who were going up with him to build Jerusalem."
+    },
+    {
+     "v": 48,
+     "text": "And he wrote letters to all the governors in Coele-Syria and Phoenicia and to those in Lebanon, to bring cedar wood from Lebanon to Jerusalem, and that they should build the city with him."
+    },
+    {
+     "v": 49,
+     "text": "Also he wrote on behalf of all the Jews that went up out of his realm into Judea, concerning their freedom, that no officer or satrap or governor or steward should forcibly enter their doors,{i}"
+    },
+    {
+     "v": 50,
+     "text": "and that all the country which they would hold should be theirs free of tribute, and that the Chaldeans{j} should give up the villages of the Jews which they held;"
+    },
+    {
+     "v": 51,
+     "text": "and that about 1,500 pounds of silver{k} should be given yearly toward the building of the temple until it was built,"
+    },
+    {
+     "v": 52,
+     "text": "and another 750 pounds or so yearly for burnt offerings to be offered on the altar every day, as they had a commandment to offer seventeen;{l}"
+    },
+    {
+     "v": 53,
+     "text": "And to all that went up from Babylonia to build the city he granted freedom, both to them and to their children, and to all the priests that went up."
+    },
+    {
+     "v": 54,
+     "text": "He wrote also concerning their support, and the priestly vestments in which they minister.{m}"
+    },
+    {
+     "v": 55,
+     "text": "And for the Levites he wrote that their support should be given them until the day when the house should be finished and Jerusalem built."
+    },
+    {
+     "v": 56,
+     "text": "And for all who guarded the city he wrote that allotments of land and wages should be given them."
+    },
+    {
+     "v": 57,
+     "text": "And he sent back all the vessels which Cyrus had set apart from Babylon; and all that Cyrus had said should be done, he also commanded to be done and sent to Jerusalem."
+    },
+    {
+     "v": 58,
+     "text": "And when the young man went out, he lifted up his face to heaven toward Jerusalem, and blessed the King of heaven, saying,"
+    },
+    {
+     "v": 59,
+     "text": "“From you comes victory, and from you comes wisdom, and yours is the glory, and I am your servant."
+    },
+    {
+     "v": 60,
+     "text": "Blessed are you, who have given me wisdom; and to you I give thanks, O Master of our fathers.”"
+    },
+    {
+     "v": 61,
+     "text": "And he took the letters, and went out to Babylon, and told it to all his brothers."
+    },
+    {
+     "v": 62,
+     "text": "And they blessed the God of their fathers, because he had given them release and liberty"
+    },
+    {
+     "v": 63,
+     "text": "to go up and build Jerusalem and the temple which is called by his name; and they feasted with music and gladness seven days."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:13",
+     "text": "Zerubbabel (Greek Zorobabel) means “seed of Babylon.” He was the grandson of King Jehoiachin (1 Chronicles 3:17–19) and governor of Judah under Darius (Haggai 1:1). The identification here of the third guardsman with Zerubbabel links the story to the return in 5:1–6."
+    },
+    {
+     "m": "b",
+     "ref": "4:17",
+     "text": "Some Greek copies, as reported, read “they make men’s garments and bring men glory,” referring the clauses to women; others connect the glory with the garments."
+    },
+    {
+     "m": "c",
+     "ref": "4:21",
+     "text": "Greek aphiēsi tēn psychēn, “lets go his life,” perhaps meaning “he gives up his life” or “he spends his life.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:29",
+     "text": "Apame, daughter of Bartacus, is otherwise unknown as a concubine of Darius. The names are Persian; an Apame was the wife of Seleucus I, and the name was common at Hellenistic courts."
+    },
+    {
+     "m": "e",
+     "ref": "4:36",
+     "text": "Greek “all the works,” that is, all created things; the Greek is literally “all works quake and tremble.”"
+    },
+    {
+     "m": "f",
+     "ref": "4:41",
+     "text": "Greek Megalē hē alētheia kai hyperischyei, “Great is truth, and it prevails over all.” In the Latin Vulgate (3 Esdras 4:41) the saying became the proverb Magna est veritas et praevalet, “Truth is great and prevails.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:44",
+     "text": "The Greek of verses 43–44 is awkward; the sense is that Cyrus, when he vowed to destroy Babylon, set apart the vessels and vowed to send them back (compare 2:9–11)."
+    },
+    {
+     "m": "h",
+     "ref": "4:45",
+     "text": "Swete’s text reads “the Jews,” evidently a corruption; other Greek witnesses, as reported, read “the Idumeans,” that is, the Edomites, who were remembered as joining in the destruction of Jerusalem in 586 BC (Psalm 137:7; Obadiah 11–14)."
+    },
+    {
+     "m": "i",
+     "ref": "4:49",
+     "text": "Literally “not come upon their doors,” that is, not intrude into their homes to requisition or tax them."
+    },
+    {
+     "m": "j",
+     "ref": "4:50",
+     "text": "Swete’s text has “Chaldeans” here; other Greek witnesses, as reported, read “Idumeans” (Edomites), as in verse 45."
+    },
+    {
+     "m": "k",
+     "ref": "4:51",
+     "text": "Greek “twenty talents.” A talent was about 75 pounds (34 kilograms); the metal is not stated, but silver is probably meant, so about 680 kilograms. Verse 52 likewise has “ten other talents” (about 750 pounds or 340 kilograms)."
+    },
+    {
+     "m": "l",
+     "ref": "4:52",
+     "text": "Swete’s text reads “to offer seventeen”; the meaning is obscure, and the number may refer to a daily quota of sacrifices."
+    },
+    {
+     "m": "m",
+     "ref": "4:54",
+     "text": "Some Greek copies, as reported, read “and the priestly vestments, in which they shall minister,” that is, Darius also provided the vestments."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    4,
+    7,
+    24,
+    29,
+    36,
+    41,
+    43,
+    46,
+    54,
+    57,
+    63
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this the chiefs of the fathers’ houses were chosen to go up according to their tribes, with their wives and sons and daughters, and their menservants and maidservants, and their cattle."
+    },
+    {
+     "v": 2,
+     "text": "And Darius sent with them a thousand horsemen to bring them back to Jerusalem in safety, with music, drums, and flutes;"
+    },
+    {
+     "v": 3,
+     "text": "and all their brothers were making merry. And he made them go up together with them."
+    },
+    {
+     "v": 4,
+     "text": "And these are the names of the men who went up, according to their fathers’ houses in their tribes, by their several divisions."
+    },
+    {
+     "v": 5,
+     "text": "The priests, the sons of Phinehas,{a} the sons of Aaron: Jeshua the son of Jozadak, son of Saraeus; and Joakim the son of Zerubbabel,{b} son of Salathiel, of the house of David, of the lineage of Phares, of the tribe of Judah,"
+    },
+    {
+     "v": 6,
+     "text": "who spoke wise words before Darius king of the Persians in the second year of his reign, in the month Nisan, the first month (March–April).{c}"
+    },
+    {
+     "v": 7,
+     "text": "And these are they of Judea who came up from the captivity of their sojourning, whom Nebuchadnezzar king of Babylon had carried away to Babylon,"
+    },
+    {
+     "v": 8,
+     "text": "and who returned to Jerusalem and to the rest of Judea, each to his own city, who came with Zerubbabel and Jeshua, Nehemiah, Zaraeus, Resaeus, Enenius, Mardochaeus, Beelsarus, Aspharasus, Borolius, Roimus, and Baana, their leaders.{d}"
+    },
+    {
+     "v": 9,
+     "text": "The number of those of the nation, and their leaders: the sons of Phoros, two thousand one hundred and seventy-two;{e}"
+    },
+    {
+     "v": 10,
+     "text": "the sons of Ares, seven hundred and fifty-six;"
+    },
+    {
+     "v": 11,
+     "text": "the sons of Phaathmoab, of the sons of Jeshua and Joab, two thousand eight hundred and two;{f}"
+    },
+    {
+     "v": 12,
+     "text": "the sons of Olamus, two;{g} the sons of Zatton, nine hundred and seventy; the sons of Chorbe, seven hundred and five; the sons of Bani, six hundred and forty-eight;"
+    },
+    {
+     "v": 13,
+     "text": "the sons of Bebai, six hundred and thirty-three; the sons of Argai,{h} one thousand three hundred and twenty-two;"
+    },
+    {
+     "v": 14,
+     "text": "the sons of Adonikam, thirty-seven;{i} the sons of Bosai, two thousand six hundred and six; the sons of Adilius, four hundred and fifty-four;"
+    },
+    {
+     "v": 15,
+     "text": "the sons of Azer of Hezekiah,{j} the sons of Kilan and Azetas, sixty-seven; the sons of Azarus, four hundred and thirty-two;"
+    },
+    {
+     "v": 16,
+     "text": "the sons of Annis, a hundred and one; the sons of Arom; the sons of Bassai, three hundred and twenty-three; the sons of Arsiphurith,{k}"
+    },
+    {
+     "v": 17,
+     "text": "the sons of Baeterus, three thousand and five; the sons of Rhagethlomon,{l} a hundred and twenty-three;"
+    },
+    {
+     "v": 18,
+     "text": "those from Netebas, fifty-five; those from Enatus, a hundred and fifty-eight; those from Baetasmon, Zammoth;{m}"
+    },
+    {
+     "v": 19,
+     "text": "those from Kartathiarius,{n} twenty-five; those from Piras and Beroth, seven hundred;"
+    },
+    {
+     "v": 20,
+     "text": "the Kadiasans and Ammidians, four hundred and twenty-two; those from Kirama and Gabbes, six hundred and twenty-one;"
+    },
+    {
+     "v": 21,
+     "text": "those from Macalon, a hundred and twenty-two; those from Betolio, fifty-two; the sons of Niphis, a hundred and fifty-six;"
+    },
+    {
+     "v": 22,
+     "text": "the sons of Kalamokalus and Onus, seven hundred and twenty-five; the sons of Jericho, two hundred and forty-five;"
+    },
+    {
+     "v": 23,
+     "text": "the sons of Sama,{o} three thousand three hundred and one."
+    },
+    {
+     "v": 24,
+     "text": "The priests: the sons of Jeddu the son of Jeshua, of the sons of Sanabis, eight hundred and seventy-two; the sons of Emmerus,{p} two hundred and fifty-two;"
+    },
+    {
+     "v": 25,
+     "text": "the sons of Phassurus, one thousand two hundred and forty-seven; the sons of Charme, two hundred and seventeen."
+    },
+    {
+     "v": 26,
+     "text": "The Levites: the sons of Jessue, of Kadmiel and Bannus and Sudius,{q} seventy-four."
+    },
+    {
+     "v": 27,
+     "text": "The holy singers: the sons of Asaph, a hundred and twenty-eight."
+    },
+    {
+     "v": 28,
+     "text": "The gatekeepers, four hundred;{r} the sons of Ishmael, the sons of Lacubatus, a thousand;{s} the sons of Tobis, in all a hundred and thirty-nine."
+    },
+    {
+     "v": 29,
+     "text": "The temple servants:{t} the sons of Esau, the sons of Gasipha, the sons of Gabaoth, the sons of Keras, the sons of Sua, the sons of Phalaeus, the sons of Labana,"
+    },
+    {
+     "v": 30,
+     "text": "the sons of Akud, the sons of Uta, the sons of Ketab, the sons of Akkaba, the sons of Subai, the sons of Anan, the sons of Kua, the sons of Keddur,"
+    },
+    {
+     "v": 31,
+     "text": "the sons of Jairus, the sons of Daesan, the sons of Noeba, the sons of Chaseba, the sons of Kazera, the sons of Ozius, the sons of Phinoe, the sons of Asara, the sons of Basthai, the sons of Assana, the sons of Mani, the sons of Naphisi, the sons of Akuph, the sons of Achiba, the sons of Asur, the sons of Pharakem, the sons of Basalem,"
+    },
+    {
+     "v": 32,
+     "text": "the sons of Dedda, the sons of Bachus, the sons of Serar, the sons of Thomthi, the sons of Nasi, the sons of Atepha."
+    },
+    {
+     "v": 33,
+     "text": "The sons of Solomon’s servants: the sons of Assaphioth, the sons of Pharida, the sons of Jeieli, the sons of Lozon, the sons of Isdael, the sons of Saphuthi,"
+    },
+    {
+     "v": 34,
+     "text": "the sons of Agia, the sons of Phakareth Sabie, the sons of Sarothi, the sons of Misaias, the sons of Gas, the sons of Addus, the sons of Subas, the sons of Apherra, the sons of Barodis, the sons of Saphag, the sons of Allon."
+    },
+    {
+     "v": 35,
+     "text": "The temple servants together with the sons of Solomon’s servants numbered in all three hundred seventy and two."
+    },
+    {
+     "v": 36,
+     "text": "These came up from Thermeleth and Thelersas, their leaders being Charaathalan and Allar;{u}"
+    },
+    {
+     "v": 37,
+     "text": "and they could not show their fathers’ houses and lineage, that they were of Israel: the sons of Asan the son of Baenan, the sons of Nekodan, six hundred and fifty-two."
+    },
+    {
+     "v": 38,
+     "text": "And of the priests, those who claimed the priesthood and were not found: the sons of Obbia, the sons of Akbos, the sons of Jaddus, who took Augia, one of the daughters of Phaezeldaeus,{v} as wife, and was called by his name."
+    },
+    {
+     "v": 39,
+     "text": "And when the record of their genealogy was sought in the register and was not found, they were excluded from serving as priests."
+    },
+    {
+     "v": 40,
+     "text": "And Nehemiah and Attharias{w} charged them not to partake of the holy things till there should rise up a priest clothed with Manifestation and Truth.{x}"
+    },
+    {
+     "v": 41,
+     "text": "All those of Israel from twelve years old and upward, besides menservants and maidservants, were forty-two thousand three hundred and sixty;{y} their menservants and maidservants, seven thousand three hundred and thirty-seven; male and female singers, two hundred and forty-five;"
+    },
+    {
+     "v": 42,
+     "text": "camels, four hundred and thirty-five; and horses, seven thousand and thirty-six;{z} mules, two hundred and forty-five; beasts of burden, five thousand five hundred and twenty-five."
+    },
+    {
+     "v": 43,
+     "text": "And some of the leaders of the fathers’ houses, when they came to the temple of God in Jerusalem, vowed to raise up the house again on its own site according to their ability,"
+    },
+    {
+     "v": 44,
+     "text": "and to give to the holy treasury for the works about 1,250 pounds of gold and about 6,250 pounds of silver,{aa} and a hundred priestly garments."
+    },
+    {
+     "v": 45,
+     "text": "And the priests and the Levites and some of the people settled in Jerusalem and the country round, and the holy singers and the gatekeepers and all Israel in their villages."
+    },
+    {
+     "v": 46,
+     "text": "When the seventh month (September–October){ab} was at hand, and the sons of Israel were each in his own place, they gathered together with one accord in the open square before the first gate toward the east."
+    },
+    {
+     "v": 47,
+     "text": "And Jeshua the son of Jozadak and his brothers the priests, and Zerubbabel the son of Salathiel and his brothers, stood up and made ready the altar of the God of Israel,"
+    },
+    {
+     "v": 48,
+     "text": "to offer burnt offerings upon it, in accordance with what is laid down in the book of Moses the man of God."
+    },
+    {
+     "v": 49,
+     "text": "And some of the other nations of the land gathered against them,{ac} but they set up the altar on its own site, for all the nations of the land were at enmity with them and were stronger than they; and they offered sacrifices at the proper times, and burnt offerings to the Lord morning and evening."
+    },
+    {
+     "v": 50,
+     "text": "And they kept the feast of booths, as it is commanded in the law, and offered sacrifices daily, as was fitting;"
+    },
+    {
+     "v": 51,
+     "text": "and after that the continual offerings, and the sacrifices of sabbaths and of new moons and of all the consecrated feasts."
+    },
+    {
+     "v": 52,
+     "text": "And all who had made any vow to God began to offer sacrifices to God from the new moon of the first month (March–April),{ad} though the temple of God was not yet built."
+    },
+    {
+     "v": 53,
+     "text": "And they gave money to the masons and the carpenters, and drink and food and cheer to the Sidonians and Tyrians, that they should bring cedar logs from Lebanon and convey them in rafts to the harbor of Joppa, according to the decree written for them by Cyrus king of the Persians."
+    },
+    {
+     "v": 54,
+     "text": "And in the second year after his coming to the temple of God in Jerusalem, in the second month (April–May), Zerubbabel the son of Salathiel and Jeshua the son of Jozadak began, with their brothers and the Levitical priests and all who had come to Jerusalem from the captivity;"
+    },
+    {
+     "v": 55,
+     "text": "and they laid the foundation of the temple of God on the new moon of the second month in the second year after they had come to Judea and Jerusalem.{ae}"
+    },
+    {
+     "v": 56,
+     "text": "And they appointed the Levites from twenty years old and upward over the works of the Lord. And Jeshua stood up, with his sons and brothers, and Damadiel his brother,{af} and the sons of Jeshua Emadabun, and the sons of Judah the son of Iliadun, with their sons and brothers, all the Levites, with one accord as taskmasters, working at the tasks in the house of the Lord. And the builders built the temple of the Lord."
+    },
+    {
+     "v": 57,
+     "text": "And the priests stood arrayed in their vestments, with musical instruments and trumpets, and the Levites, the sons of Asaph, with cymbals, singing hymns to the Lord and blessing him, after the manner of David king of Israel."
+    },
+    {
+     "v": 58,
+     "text": "And they lifted up their voice with hymns, praising the Lord, “For his goodness and his glory endure for ever over all Israel.”{ag}"
+    },
+    {
+     "v": 59,
+     "text": "And all the people sounded trumpets and shouted with a loud voice, singing hymns to the Lord for the raising up of the house of the Lord."
+    },
+    {
+     "v": 60,
+     "text": "And some of the Levitical priests and of the heads of their fathers’ houses, the old men who had seen the former house, came to the building of this one with crying out and loud weeping,"
+    },
+    {
+     "v": 61,
+     "text": "and many with trumpets and great joy, with a loud voice,"
+    },
+    {
+     "v": 62,
+     "text": "so that the people could not distinguish the trumpets for the weeping of the people; for the multitude blew loud blasts, so that the noise was heard a great way off."
+    },
+    {
+     "v": 63,
+     "text": "And when the enemies of the tribe of Judah and Benjamin heard it, they came to learn what the sound of the trumpets meant."
+    },
+    {
+     "v": 64,
+     "text": "And they learned that those who had come from the captivity were building the temple for the Lord God of Israel."
+    },
+    {
+     "v": 65,
+     "text": "And they came to Zerubbabel and Jeshua and the leaders of the fathers’ houses, and said to them, “We will build together with you."
+    },
+    {
+     "v": 66,
+     "text": "For we too obey your Lord as you do, and have sacrificed to him from the days of Asbakaphath{ah} king of the Assyrians, who brought us over hither.”"
+    },
+    {
+     "v": 67,
+     "text": "And Zerubbabel and Jeshua and the leaders of the fathers’ houses of Israel said to them, “It is not for you to build the house for the Lord our God;"
+    },
+    {
+     "v": 68,
+     "text": "for we ourselves alone will build for the Lord of Israel, in accordance with what Cyrus the king of the Persians commanded us.”"
+    },
+    {
+     "v": 69,
+     "text": "But the nations of the land pressed hard upon those in Judea, and by besieging them hindered them from building;"
+    },
+    {
+     "v": 70,
+     "text": "and by plots and stirring up the people and causing tumults they prevented the completion of the building all the time that King Cyrus lived; and they were kept from building for two years, until the reign of Darius.{ai}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:5",
+     "text": "Phinehas means “the Nubian” (an Egyptian name). 5:7–70 parallels Ezra 2:1–4:5 (compare Nehemiah 7:6–73), with many differences in the names and numbers; the names here follow Swete’s Greek, and only some of the differences are noted."
+    },
+    {
+     "m": "b",
+     "ref": "5:5",
+     "text": "Greek “and Joakim the son of Zerubbabel,” evidently a corrupt text; the sense required is “Jeshua … with Zerubbabel the son of Salathiel” (Ezra 3:2). Jeshua (Greek Iēsous) is the high priest Joshua of Haggai 1:1 and Zechariah 3:1; the name means “Yahweh saves.” Salathiel is Shealtiel, “I have asked God.” Phares is Perez (Genesis 38:29)."
+    },
+    {
+     "m": "c",
+     "ref": "5:6",
+     "text": "Greek “in the month Nisan of the first month”; Nisan is the Babylonian name of the first month of the spring-start calendar."
+    },
+    {
+     "m": "d",
+     "ref": "5:8",
+     "text": "The list of leaders parallels Ezra 2:2 (Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah). Nehemiah means “Yahweh comforts”; Mardochaeus is Mordecai, a name derived from the Babylonian god Marduk."
+    },
+    {
+     "m": "e",
+     "ref": "5:9",
+     "text": "Swete’s text reads “seventy-two thousand,” apparently by the loss of part of the number; Ezra 2:3 has 2,172, which is followed here. Phoros is Parosh (“flea”) in Ezra."
+    },
+    {
+     "m": "f",
+     "ref": "5:11",
+     "text": "So Swete; Ezra 2:6 has 2,812. Phaathmoab is Pahath-moab, “governor of Moab.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:12",
+     "text": "Swete’s text reads only “two,” and part of the number has evidently been lost; Ezra 2:7 has “the sons of Elam, 1,254.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:13",
+     "text": "Ezra 2:10–12 has “the sons of Bani (Bebai?), 623 … the sons of Azgad, 1,222.” Several Greek names and numbers in verses 12–23 differ from Ezra and Nehemiah."
+    },
+    {
+     "m": "i",
+     "ref": "5:14",
+     "text": "So Swete (37); Ezra 2:13 has 666, Nehemiah 7:18 has 667. Adonikam means “my Lord has risen.”"
+    },
+    {
+     "m": "j",
+     "ref": "5:15",
+     "text": "That is, Ater of Hezekiah (Ezra 2:16). Hezekiah means “Yahweh strengthens.”"
+    },
+    {
+     "m": "k",
+     "ref": "5:16",
+     "text": "No number is given in Swete’s text for Arom or for Arsiphurith; some numbers have evidently been lost."
+    },
+    {
+     "m": "l",
+     "ref": "5:17",
+     "text": "Probably Ramah and Geba (Ezra 2:26), run together in the Greek, as also Kirama and Gabbes in verse 20 (compare Ezra 2:26–27). The Greek place-names in verses 17–23 are often corrupt."
+    },
+    {
+     "m": "m",
+     "ref": "5:18",
+     "text": "Swete’s text gives no number here, and “Zammoth” may be a corruption of a number or a name (compare Azmaveth, Ezra 2:24)."
+    },
+    {
+     "m": "n",
+     "ref": "5:19",
+     "text": "Kiriath-jearim (“city of forests”) in Ezra 2:25. Beroth is Beeroth (“wells”)."
+    },
+    {
+     "m": "o",
+     "ref": "5:23",
+     "text": "Senaah in Ezra 2:35 (3,630). Jericho means “moon city” or “fragrant” (uncertain)."
+    },
+    {
+     "m": "p",
+     "ref": "5:24",
+     "text": "Immer in Ezra 2:37. Phassurus is Pashhur."
+    },
+    {
+     "m": "q",
+     "ref": "5:26",
+     "text": "Ezra 2:40 has “Jeshua and Kadmiel, of the sons of Hodaviah.”"
+    },
+    {
+     "m": "r",
+     "ref": "5:28",
+     "text": "So Swete. Ezra 2:42 gives the gatekeepers as 139 in all (the sons of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai); the Greek of this verse is confused."
+    },
+    {
+     "m": "s",
+     "ref": "5:28",
+     "text": "Swete’s text reads “a thousand”; the clause is lacking in the parallel lists."
+    },
+    {
+     "m": "t",
+     "ref": "5:29",
+     "text": "Greek hierodouloi, “temple servants,” the Nethinim (“given ones”) of Ezra 2:43–58. Many of the following names differ in spelling from Ezra."
+    },
+    {
+     "m": "u",
+     "ref": "5:36",
+     "text": "In Ezra 2:59 Tel-melah, Tel-harsha, Cherub, Addan, and Immer are place-names; the Greek has turned some of them into names of leaders."
+    },
+    {
+     "m": "v",
+     "ref": "5:38",
+     "text": "Barzillai the Gileadite (Ezra 2:61; 2 Samuel 19:31). The name means “man of iron.”"
+    },
+    {
+     "m": "w",
+     "ref": "5:40",
+     "text": "Hebrew hattirshata’, “the governor” (Ezra 2:63), a Persian title which the Greek takes as a personal name; Nehemiah is not named in the parallel in Ezra 2:63."
+    },
+    {
+     "m": "x",
+     "ref": "5:40",
+     "text": "Greek tēn dēlōsin kai tēn alētheian, the Septuagint’s rendering of the Urim and Thummim, the priestly lots worn in the breastpiece (Exodus 28:30)."
+    },
+    {
+     "m": "y",
+     "ref": "5:41",
+     "text": "Ezra 2:64 and Nehemiah 7:66 give the whole assembly as 42,360; the figures listed do not add up to this total in any of the lists."
+    },
+    {
+     "m": "z",
+     "ref": "5:42",
+     "text": "So Swete; Ezra 2:66 has 736 horses."
+    },
+    {
+     "m": "aa",
+     "ref": "5:44",
+     "text": "Greek “a thousand minas of gold and five thousand minas of silver.” A mina was 50 shekels, about 1¼ pounds (575 grams), so about 575 kilograms of gold and 2,875 kilograms of silver. Ezra 2:69 has 61,000 darics of gold and 5,000 minas of silver; Nehemiah 7:70–72 gives other figures."
+    },
+    {
+     "m": "ab",
+     "ref": "5:46",
+     "text": "Tishri, on the spring-start calendar (Ezra 3:1)."
+    },
+    {
+     "m": "ac",
+     "ref": "5:49",
+     "text": "Greek “And there were gathered to them some of the other nations of the land.” The Greek of this verse is difficult; compare Ezra 3:3, “for fear was on them because of the peoples of the lands.”"
+    },
+    {
+     "m": "ad",
+     "ref": "5:52",
+     "text": "So Swete, “of the first month”; Ezra 3:6 has “from the first day of the seventh month,” which suits the context better."
+    },
+    {
+     "m": "ae",
+     "ref": "5:55",
+     "text": "The second month is Iyyar or Ziv (April–May), on the spring-start calendar (Ezra 3:8)."
+    },
+    {
+     "m": "af",
+     "ref": "5:56",
+     "text": "Kadmiel in Ezra 3:9. The names in this verse are confused in the Greek; “Emadabun” and “Iliadun” correspond to Henadad in Ezra 3:9."
+    },
+    {
+     "m": "ag",
+     "ref": "5:58",
+     "text": "Compare Ezra 3:11 and Psalm 136:1."
+    },
+    {
+     "m": "ah",
+     "ref": "5:66",
+     "text": "Esarhaddon king of Assyria (681–669 BC) in Ezra 4:2; the Greek form Asbakaphath is a corruption. Compare Ezra 4:10, Osnappar (Ashurbanipal)."
+    },
+    {
+     "m": "ai",
+     "ref": "5:70",
+     "text": "Ezra 4:5 says “until the reign of Darius king of Persia.” The narrative now resumes from 2:25."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    3,
+    7,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now in the second year of the reign of Darius, Haggai and Zechariah the son of Eddin,{a} the prophets, prophesied to the Jews in Judea and Jerusalem in the name of the Lord God of Israel, which was upon them.{b}"
+    },
+    {
+     "v": 2,
+     "text": "Then Zerubbabel the son of Salathiel and Jeshua the son of Jozadak stood up and began to build the house of the Lord which is in Jerusalem, the prophets of the Lord being with them and helping them."
+    },
+    {
+     "v": 3,
+     "text": "At the same time Sisinnes{c} the governor of Syria and Phoenicia came to them, with Sathrabuzanes and their companions, and said to them,"
+    },
+    {
+     "v": 4,
+     "text": "“By whose appointment do you build this house and this roof, and finish all the other things? And who are the builders that carry out these things?”"
+    },
+    {
+     "v": 5,
+     "text": "Yet the elders of the Jews found favor, because the Lord had visited the captivity;{d}"
+    },
+    {
+     "v": 6,
+     "text": "and they were not hindered from building until word should be sent to Darius concerning them and an answer returned."
+    },
+    {
+     "v": 7,
+     "text": "A copy of the letter which Sisinnes the governor of Syria and Phoenicia, and Sathrabuzanes, and their companions the rulers in Syria and Phoenicia, wrote and sent to Darius:\n“To King Darius, greeting."
+    },
+    {
+     "v": 8,
+     "text": "Let all things be known to our lord the king, that when we came into the country of Judea and entered the city of Jerusalem, we found the elders of the Jews who were of the captivity building in the city of Jerusalem a great new house for the Lord, of hewn and costly stones, with timber laid in the walls.{e}"
+    },
+    {
+     "v": 9,
+     "text": "And those works are being done with speed, and the work prospers in their hands, and it is being finished with all glory and diligence."
+    },
+    {
+     "v": 10,
+     "text": "Then we asked these elders, saying, ‘By whose command are you building this house and laying the foundations of these works?’"
+    },
+    {
+     "v": 11,
+     "text": "We questioned them therefore in order to make known to you and write to you the men who are the leaders, and we required of them a written list of the names of their chief men."
+    },
+    {
+     "v": 12,
+     "text": "And they gave us this answer: ‘We are servants of the Lord, the maker of heaven and earth."
+    },
+    {
+     "v": 13,
+     "text": "And the house was built many years ago by a great and strong king of Israel, and was finished."
+    },
+    {
+     "v": 14,
+     "text": "But when our fathers provoked the heavenly Lord of Israel and sinned against him, he gave them over into the hands of Nebuchadnezzar king of Babylon, king of the Chaldeans;"
+    },
+    {
+     "v": 15,
+     "text": "and they pulled down the house and burned it, and carried the people captive to Babylon."
+    },
+    {
+     "v": 16,
+     "text": "But in the first year that Cyrus reigned over the country of Babylonia, King Cyrus wrote that this house should be built."
+    },
+    {
+     "v": 17,
+     "text": "And the holy vessels of gold and of silver, which Nebuchadnezzar had carried out of the house in Jerusalem and set up in his own temple, King Cyrus brought out again from the temple in Babylonia, and they were delivered to Zerubbabel and to Sanabassar the governor,"
+    },
+    {
+     "v": 18,
+     "text": "with the command that he should carry away all these vessels and put them in the temple at Jerusalem, and that the temple of the Lord should be built on its site."
+    },
+    {
+     "v": 19,
+     "text": "Then Sanabassar came and laid the foundations of the house of the Lord in Jerusalem; and from that time until now it has been in building, and it is not yet finished.’"
+    },
+    {
+     "v": 20,
+     "text": "Now therefore, O king, if it be judged good, let search be made in the royal archives of our lord the king in Babylon;"
+    },
+    {
+     "v": 21,
+     "text": "and if it is found that the building of the house of the Lord in Jerusalem was undertaken with the consent of King Cyrus, and if our lord the king so decides, let him send us word concerning these things.”"
+    },
+    {
+     "v": 22,
+     "text": "Then King Darius commanded search to be made in the archives that were laid up in Babylon; and there was found at Ecbatana,{f} the fortress in the country of Media, a scroll in which this was recorded:"
+    },
+    {
+     "v": 23,
+     "text": "“In the first year of the reign of Cyrus, King Cyrus commanded that the house of the Lord in Jerusalem be built, where they offer sacrifice with perpetual fire,"
+    },
+    {
+     "v": 24,
+     "text": "its height to be about ninety feet and its breadth about ninety feet,{g} built with three rows of polished stone and a row of new timber of the country; and the cost to be paid out of the house of King Cyrus;"
+    },
+    {
+     "v": 25,
+     "text": "and that the holy vessels of the house of the Lord, both gold and silver, which Nebuchadnezzar carried out of the house in Jerusalem and brought to Babylon, should be restored to the house in Jerusalem where they had been placed, that they might be set there.”"
+    },
+    {
+     "v": 26,
+     "text": "And he commanded that Sisinnes the governor of Syria and Phoenicia, and Sathrabuzanes, and their companions, and the rulers appointed in Syria and Phoenicia, should take care to keep away from the place, and leave Zerubbabel, the servant of the Lord and governor of Judea, and the elders of the Jews, to build that house of the Lord on its site."
+    },
+    {
+     "v": 27,
+     "text": "“And I also command that it be built completely, and that they look diligently to help those of the captivity of Judea until the house of the Lord is finished;"
+    },
+    {
+     "v": 28,
+     "text": "and that out of the tribute of Coele-Syria and Phoenicia a portion be carefully given to these men for sacrifices to the Lord, to Zerubbabel the governor, for bulls and rams and lambs;"
+    },
+    {
+     "v": 29,
+     "text": "and in like manner wheat, salt, wine, and oil, continually year by year without question, as the priests in Jerusalem may direct to be spent daily,"
+    },
+    {
+     "v": 30,
+     "text": "that drink offerings may be made to the Most High God for the king and his children, and that they may pray for their lives.”"
+    },
+    {
+     "v": 31,
+     "text": "And he commanded that whoever should transgress or make void any of the things written, a beam should be taken out of his own house and he should be hanged upon it, and his goods should be forfeited to the king."
+    },
+    {
+     "v": 32,
+     "text": "“Therefore may the Lord, whose name is called upon there, destroy every king and nation that shall stretch out his hand to hinder or to do harm to that house of the Lord in Jerusalem."
+    },
+    {
+     "v": 33,
+     "text": "I, Darius the king, have ordained that these things be done with care.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "Hebrew Iddo (Ezra 5:1; Zechariah 1:1, where Zechariah is the son of Berechiah, son of Iddo). Haggai means “festal”; Zechariah means “Yahweh remembers.” 6:1–7:15 parallels Ezra 5:1–6:22."
+    },
+    {
+     "m": "b",
+     "ref": "6:1",
+     "text": "Greek “in the name of the Lord God of Israel upon them”; compare Ezra 5:1, “in the name of the God of Israel, who was over them.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:3",
+     "text": "Hebrew Tattenai (Ezra 5:3), governor of the province Beyond the River, with Shethar-bozenai (Greek Sathrabuzanes)."
+    },
+    {
+     "m": "d",
+     "ref": "6:5",
+     "text": "Greek “And the elders of the Jews had favor, a visitation having come upon the captivity from the Lord.” Compare Ezra 5:5, “But the eye of their God was upon the elders of the Jews.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:8",
+     "text": "Greek en tois oikois, “in the houses,” probably meaning the walls or chambers."
+    },
+    {
+     "m": "f",
+     "ref": "6:22",
+     "text": "Ecbatana (Hebrew Achmetha, Ezra 6:2), the old capital of Media and a summer residence of the Persian kings; modern Hamadan in Iran."
+    },
+    {
+     "m": "g",
+     "ref": "6:24",
+     "text": "Greek “sixty cubits” in each case, about 27 meters. Ezra 6:3 also gives the height and breadth as sixty cubits; the dimensions are much larger than Solomon’s temple (1 Kings 6:2) and may be an idealized or corrupted figure."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Sisinnes the governor of Coele-Syria and Phoenicia, and Sathrabuzanes, and their companions, following the orders of King Darius,"
+    },
+    {
+     "v": 2,
+     "text": "supervised the holy works with great care, working together with the elders of the Jews and the chief officers of the temple."
+    },
+    {
+     "v": 3,
+     "text": "And the holy works prospered, while Haggai and Zechariah the prophets prophesied."
+    },
+    {
+     "v": 4,
+     "text": "And they finished these things by the command of the Lord God of Israel, and with the consent of Cyrus and Darius and Artaxerxes, kings of the Persians.{a}"
+    },
+    {
+     "v": 5,
+     "text": "And the house was finished by the twenty-third day of the month Adar (February–March),{b} in the sixth year of King Darius."
+    },
+    {
+     "v": 6,
+     "text": "And the sons of Israel and the priests and the Levites and the rest of those from the captivity who had joined them did according to what is written in the book of Moses."
+    },
+    {
+     "v": 7,
+     "text": "And for the dedication of the temple of the Lord they offered a hundred bulls, two hundred rams, four hundred lambs,"
+    },
+    {
+     "v": 8,
+     "text": "and twelve he-goats for the sin of all Israel, according to the number of the twelve chiefs of the tribes of Israel."
+    },
+    {
+     "v": 9,
+     "text": "And the priests and the Levites stood arrayed in their vestments by tribes, over the works of the Lord God of Israel, according to the book of Moses; and the gatekeepers were at every gate."
+    },
+    {
+     "v": 10,
+     "text": "And the sons of Israel who were of the captivity kept the Passover on the fourteenth day of the first month (March–April),{c} when the priests and the Levites were purified together."
+    },
+    {
+     "v": 11,
+     "text": "with all the sons of the captivity, for they were purified; for the Levites were all purified together.{d}"
+    },
+    {
+     "v": 12,
+     "text": "And they sacrificed the Passover for all the sons of the captivity, and for their brothers the priests, and for themselves."
+    },
+    {
+     "v": 13,
+     "text": "And the sons of Israel who were of the captivity ate it, all who had separated themselves from the abominations of the nations of the land and sought the Lord."
+    },
+    {
+     "v": 14,
+     "text": "And they kept the feast of unleavened bread seven days, making merry before the Lord,"
+    },
+    {
+     "v": 15,
+     "text": "because he had turned the counsel of the king of the Assyrians toward them, to strengthen their hands for the works of the Lord God of Israel.{e}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:4",
+     "text": "Artaxerxes is named also in Ezra 6:14, although he reigned after the temple was finished; the reference anticipates the work of Ezra in his reign (chs. 8–9)."
+    },
+    {
+     "m": "b",
+     "ref": "7:5",
+     "text": "Adar is the twelfth month of the spring-start calendar. Ezra 6:15 has “the third day of the month Adar.” The sixth year of Darius was 516–515 BC."
+    },
+    {
+     "m": "c",
+     "ref": "7:10",
+     "text": "Nisan, on the spring-start calendar (Ezra 6:19)."
+    },
+    {
+     "m": "d",
+     "ref": "7:11",
+     "text": "The Greek is repetitive and somewhat confused; Ezra 6:20 says that the priests and the Levites had purified themselves together and were all clean."
+    },
+    {
+     "m": "e",
+     "ref": "7:15",
+     "text": "Compare Ezra 6:22, where “the king of Assyria” refers to the Persian ruler as successor to the Assyrian kings. From here 1 Esdras moves directly to the coming of Ezra (Ezra 7)."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    8,
+    25,
+    28,
+    41,
+    49,
+    54,
+    60,
+    65,
+    68,
+    71,
+    88
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After these things, when Artaxerxes{a} king of the Persians was reigning, there came Ezra{b} the son of Azariah, son of Zechrias,{c} son of Helkias, son of Salem,"
+    },
+    {
+     "v": 2,
+     "text": "son of Sadduk, son of Ahitub, son of Amarias, son of Ozias, son of Bokkas, son of Abisue, son of Phinehas, son of Eleazar, son of Aaron the chief priest."
+    },
+    {
+     "v": 3,
+     "text": "This Ezra went up from Babylon as a scribe, skilled in the law of Moses which was given by the God of Israel."
+    },
+    {
+     "v": 4,
+     "text": "And the king did him honor, for he found favor before him in all his requests."
+    },
+    {
+     "v": 5,
+     "text": "And there went up with him to Jerusalem some of the sons of Israel, and of the priests, Levites, temple singers, gatekeepers, and temple servants,"
+    },
+    {
+     "v": 6,
+     "text": "in the seventh year of the reign of Artaxerxes, in the fifth month (July–August){d} (this was the king’s seventh year);{e} for they left Babylon on the new moon of the first month (March–April) and came to Jerusalem, according to the prosperous journey which the Lord gave them for his sake."
+    },
+    {
+     "v": 7,
+     "text": "For Ezra{f} possessed great knowledge, so that he left out nothing of the things in the law of the Lord and in the commandments, but taught all Israel the statutes and the judgments."
+    },
+    {
+     "v": 8,
+     "text": "Now the commission which King Artaxerxes sent to Ezra the priest and reader of the law of the Lord came to him, and this following is a copy of it:"
+    },
+    {
+     "v": 9,
+     "text": "“King Artaxerxes to Ezra the priest and reader of the law of the Lord, greeting."
+    },
+    {
+     "v": 10,
+     "text": "Having resolved to show kindness, I have ordered that any of the Jewish nation, and of the priests and Levites and the rest within our kingdom, who are willing and choose it, shall journey with you to Jerusalem."
+    },
+    {
+     "v": 11,
+     "text": "Let as many therefore as are so minded set out with you, as it has seemed good to me and to my seven friends the counselors,"
+    },
+    {
+     "v": 12,
+     "text": "that they may look into the affairs of Judea and Jerusalem, in keeping with what is in the law of the Lord,"
+    },
+    {
+     "v": 13,
+     "text": "and carry to Jerusalem the gifts for the Lord which I and my friends have vowed, and that all the gold and silver for the Lord at Jerusalem that may be found in the country of Babylonia, together with what has been given by the nation for the temple of their Lord in Jerusalem,"
+    },
+    {
+     "v": 14,
+     "text": "be gathered, both the gold and the silver, for bulls and rams and lambs and what goes with them,"
+    },
+    {
+     "v": 15,
+     "text": "so that sacrifices may be offered upon the altar of their Lord in Jerusalem."
+    },
+    {
+     "v": 16,
+     "text": "And whatever you and your brothers wish to do with the gold and silver, perform it according to the will of your God."
+    },
+    {
+     "v": 17,
+     "text": "And deliver the holy vessels of the Lord which are given to you for the use of the temple of your God in Jerusalem.{g} And whatever else occurs to you as needed for the temple of your God,"
+    },
+    {
+     "v": 18,
+     "text": "you shall pay for it out of the king’s treasury."
+    },
+    {
+     "v": 19,
+     "text": "And I, King Artaxerxes, behold, have commanded the treasurers of Syria and Phoenicia that whatever Ezra the priest and reader of the law of the Most High God shall send for, they shall give it to him with care, up to about seventy-five hundred pounds of silver,{h}"
+    },
+    {
+     "v": 20,
+     "text": "and likewise up to about six hundred fifty bushels of wheat and a thousand gallons of wine,{i}"
+    },
+    {
+     "v": 21,
+     "text": "Let everything be fulfilled for the Most High God as the law of God directs, lest wrath fall on the realm of the king and his sons."
+    },
+    {
+     "v": 22,
+     "text": "And to you it is declared that no tribute or any other burden is to be laid upon any of the priests, or Levites, or temple singers, or gatekeepers, or temple servants, or those employed in this temple, and that no one has authority to lay any tax upon them."
+    },
+    {
+     "v": 23,
+     "text": "And you, Ezra, according to the wisdom of God, appoint judges and magistrates to judge throughout all Syria and Phoenicia all those who know the law of your God; and those who do not know it you shall teach."
+    },
+    {
+     "v": 24,
+     "text": "And all who transgress the law of your God and of the king shall be duly punished, whether by death or by other penalty, whether by fine of money or by imprisonment.”{j}"
+    },
+    {
+     "v": 25,
+     "text": "Blessed be the Lord alone, who put these things into the heart of the king, to glorify his house which is in Jerusalem,"
+    },
+    {
+     "v": 26,
+     "text": "and who honored me in the sight of the king and his counselors and all his friends and nobles."
+    },
+    {
+     "v": 27,
+     "text": "So I was encouraged by the help of the Lord my God, and gathered men from Israel to go up with me."
+    },
+    {
+     "v": 28,
+     "text": "And these are the leaders according to their fathers’ houses and their divisions, who went up with me from Babylon in the reign of King Artaxerxes:{k}"
+    },
+    {
+     "v": 29,
+     "text": "Of the sons of Phinehas, Gershom; of the sons of Ithamar, Gamael;{l} of the sons of David, Hattush{m} the son of Shecaniah;"
+    },
+    {
+     "v": 30,
+     "text": "of the sons of Parosh, Zechariah, and with him by register a hundred fifty men;"
+    },
+    {
+     "v": 31,
+     "text": "of the sons of Pahath-moab, Eliehoenai the son of Zerahiah, and with him two hundred men;"
+    },
+    {
+     "v": 32,
+     "text": "of the sons of Zathoes, Jeconiah the son of Jethelus, and with him two hundred men; of the sons of Adin, Obed the son of Jonathan, and with him two hundred fifty men;"
+    },
+    {
+     "v": 33,
+     "text": "of the sons of Elam, Jeshaiah the son of Athaliah,{n} and with him seventy men;"
+    },
+    {
+     "v": 34,
+     "text": "of the sons of Shephatiah, Zeraiah the son of Michael, and with him seventy men;"
+    },
+    {
+     "v": 35,
+     "text": "of the sons of Joab, Obadiah the son of Jehiel, and with him two hundred twelve men;"
+    },
+    {
+     "v": 36,
+     "text": "of the sons of Bani, Shelomith the son of Josiphiah, and with him a hundred sixty men;"
+    },
+    {
+     "v": 37,
+     "text": "of the sons of Bebai, Zechariah the son of Bebai, and with him twenty-eight men;"
+    },
+    {
+     "v": 38,
+     "text": "of the sons of Azgad, Johanan the son of Hakkatan, and with him a hundred ten men;"
+    },
+    {
+     "v": 39,
+     "text": "of the sons of Adonikam, the last ones, and these are their names: Eliphelet, Jeuel, and Shemaiah, and with them seventy men;"
+    },
+    {
+     "v": 40,
+     "text": "of the sons of Bigvai, Uthai the son of Istacalcus, and with him seventy men."
+    },
+    {
+     "v": 41,
+     "text": "And I assembled them by the river named Theras,{o} and there we lay in camp three days, and I reviewed them."
+    },
+    {
+     "v": 42,
+     "text": "And when I found there none of the priests or of the Levites,"
+    },
+    {
+     "v": 43,
+     "text": "I sent for these leaders and men of learning: Eleazar, Iduel, Maasmas, Elnathan, Shemaiah, Jarib, Nathan, Elnathan, Zechariah, Meshullam;"
+    },
+    {
+     "v": 44,
+     "text": "and I bade them go to Iddo,{p} the chief man in the place of the treasury,"
+    },
+    {
+     "v": 45,
+     "text": "charging them to speak with Iddo and his kinsmen and the treasurers there, that they should send us such as might minister as priests in our Lord’s house."
+    },
+    {
+     "v": 46,
+     "text": "And they brought us a man of understanding, Sherebiah, from the sons of Mahli,{q} the descendant of Levi the son of Israel, with his sons and kinsmen, ten;"
+    },
+    {
+     "v": 47,
+     "text": "and of the sons of Chanuneus{r} and their sons, twenty men;"
+    },
+    {
+     "v": 48,
+     "text": "and of the temple servants whom David and the leaders had given for the service of the Levites, two hundred twenty temple servants; the list of all their names was reported."
+    },
+    {
+     "v": 49,
+     "text": "And there I vowed a fast for the young men before our Lord,"
+    },
+    {
+     "v": 50,
+     "text": "to seek from him a prosperous journey for us and for our children and our cattle that were with us."
+    },
+    {
+     "v": 51,
+     "text": "For I was ashamed to ask the king for horsemen and foot soldiers as an escort, to keep us safe against our adversaries;"
+    },
+    {
+     "v": 52,
+     "text": "for we had told the king, “The might of our Lord shall be with them that seek him, to set all things right.”{s}"
+    },
+    {
+     "v": 53,
+     "text": "And again we besought our Lord concerning all these things, and found him very merciful."
+    },
+    {
+     "v": 54,
+     "text": "Then I set apart twelve men of the chiefs of the priests, Sherebiah and Hashabiah, and with them ten men of their brothers;"
+    },
+    {
+     "v": 55,
+     "text": "and I weighed out to them the silver and the gold and the holy vessels of the house of our Lord, which the king and his counselors and the nobles and all Israel had given."
+    },
+    {
+     "v": 56,
+     "text": "And when I had weighed it, I delivered to them about forty-nine thousand pounds of silver, and silver vessels weighing about seventy-five hundred pounds, and about seventy-five hundred pounds of gold,{t} and twenty gold vessels, and ten{u} bronze vessels of fine bronze that glittered like gold."
+    },
+    {
+     "v": 57,
+     "text": "And I said to them, “You yourselves are holy to the Lord, and the vessels are holy, and the silver and the gold are a vow to the Lord, the Lord of our fathers."
+    },
+    {
+     "v": 58,
+     "text": "Watch and keep them until you hand them over in Jerusalem to the chiefs of the priests and Levites and the heads of Israel’s families, in the chambers of our Lord’s house.”"
+    },
+    {
+     "v": 59,
+     "text": "So the priests and the Levites who received the silver and the gold and the vessels which had been in Jerusalem{v} brought them into the temple of the Lord."
+    },
+    {
+     "v": 60,
+     "text": "And we set out from the river Theras on the twelfth day of the first month (March–April),{w} and came to Jerusalem by the mighty hand of our Lord, which was upon us; and from the beginning of our journey the Lord delivered us from every enemy, and so we came to Jerusalem."
+    },
+    {
+     "v": 61,
+     "text": "And when we had been there three days, the silver and the gold were weighed and delivered in the house of our Lord to Meremoth the priest, the son of Uriah;{x}"
+    },
+    {
+     "v": 62,
+     "text": "and with him was Eleazar the son of Phinehas, and with them were Jozabad the son of Jeshua and Moeth the son of Binnui, the Levites. All was delivered by number and weight, and the whole weight was recorded at that very hour."
+    },
+    {
+     "v": 63,
+     "text": "And those who had come out of the captivity offered sacrifices to the Lord, the God of Israel: twelve bulls for all Israel,{y} ninety-six rams, seventy-six{z} lambs, and twelve goats for a peace offering, all as a sacrifice to the Lord."
+    },
+    {
+     "v": 64,
+     "text": "And they handed over the king’s commands to the king’s stewards and the governors of Coele-Syria and Phoenicia; and these honored the nation and the temple of the Lord."
+    },
+    {
+     "v": 65,
+     "text": "Now when this was finished, the chief men approached me, saying,"
+    },
+    {
+     "v": 66,
+     "text": "“Neither the nation of Israel nor the princes nor the priests nor the Levites have separated from them the foreign peoples of the land with their uncleanness, the Canaanites, Hittites, Perizzites, Jebusites, Moabites, Egyptians, and Edomites."
+    },
+    {
+     "v": 67,
+     "text": "For both they and their sons have married their daughters, and the holy seed has been mixed with the alien peoples of the land; and from the beginning of this matter the leaders and the nobles have shared in this lawlessness.”"
+    },
+    {
+     "v": 68,
+     "text": "And as soon as I heard these things, I tore my garments and my holy robe, and pulled out the hair from my head and beard, and sat down troubled and full of grief."
+    },
+    {
+     "v": 69,
+     "text": "And all who were ever moved at the word of the Lord of Israel gathered to me while I mourned over the lawlessness, and I sat full of grief until the evening sacrifice.{aa}"
+    },
+    {
+     "v": 70,
+     "text": "Then I rose from my fasting, with my garments and my holy robe torn, and bowing my knees and stretching out my hands to the Lord, I said,"
+    },
+    {
+     "v": 71,
+     "text": "“O Lord, I am ashamed and confounded before your face."
+    },
+    {
+     "v": 72,
+     "text": "For our sins have multiplied above our heads, and our errors have risen up to heaven"
+    },
+    {
+     "v": 73,
+     "text": "ever since our fathers’ days; and to this day we are deep in sin."
+    },
+    {
+     "v": 74,
+     "text": "And for our sins and our fathers’ sins, we together with our brothers, our kings, and our priests were handed over to the earth’s kings, for the sword, for exile, and for plunder with disgrace, until this very day."
+    },
+    {
+     "v": 75,
+     "text": "And now, how great is the mercy that has come to us from you, O Lord,{ab} that there should be left to us a root and a name in your holy place,"
+    },
+    {
+     "v": 76,
+     "text": "and that you should uncover a light for us in the house of the Lord our God, and give us food in the time of our servitude!"
+    },
+    {
+     "v": 77,
+     "text": "Even while we were slaves our Lord did not forsake us, but gave us grace before the Persian kings, so that they gave us food"
+    },
+    {
+     "v": 78,
+     "text": "and glorified the temple of our Lord, and raised up desolate Zion, to give us a sure dwelling in Judea and Jerusalem."
+    },
+    {
+     "v": 79,
+     "text": "And now, O Lord, what shall we say, having these things? For we have transgressed your commandments, which you gave by your servants the prophets, saying,"
+    },
+    {
+     "v": 80,
+     "text": "‘The land which you are entering to possess is a land defiled with the pollution of the aliens of the land, and they have filled it with their uncleanness."
+    },
+    {
+     "v": 81,
+     "text": "Therefore you shall not give your daughters to their sons, nor take their daughters for your sons;"
+    },
+    {
+     "v": 82,
+     "text": "and you shall never seek to have peace with them, so that you may be strong and eat the good things of the land, and leave it for an inheritance to your children for ever.’"
+    },
+    {
+     "v": 83,
+     "text": "And all that has befallen us has come because of our evil deeds and our great sins. For you, O Lord, lightened the burden of our sins"
+    },
+    {
+     "v": 84,
+     "text": "and gave us such a root as this; yet we have turned back again to transgress your law by mingling with the uncleanness of the nations of the land."
+    },
+    {
+     "v": 85,
+     "text": "Were you not angry enough with us to destroy us, until you left us neither root nor seed nor name?{ac}"
+    },
+    {
+     "v": 86,
+     "text": "O Lord of Israel, you are true; for we are left a root this day."
+    },
+    {
+     "v": 87,
+     "text": "Behold, we are now before you in our lawlessness; for we can no longer stand before you because of these things.”"
+    },
+    {
+     "v": 88,
+     "text": "And while Ezra was praying and making his confession, weeping and lying upon the ground before the temple, there gathered to him from Jerusalem a very great crowd, men and women and youths; for there was great weeping among the multitude."
+    },
+    {
+     "v": 89,
+     "text": "Then Jeconiah the son of Jeelus, of the sons of Israel, called out and said to Ezra, “We have sinned against the Lord, for we have married foreign women of the nations of the land; and yet there is hope now for all Israel.{ad}"
+    },
+    {
+     "v": 90,
+     "text": "Let us take an oath to the Lord about this, that we will put away all our foreign wives together with their children, as you have judged, and as many as obey the law of the Lord."
+    },
+    {
+     "v": 91,
+     "text": "Rise up and carry it out; for the matter rests with you, and we are with you to act with strength.”"
+    },
+    {
+     "v": 92,
+     "text": "Then Ezra rose and put the leaders of the priests and Levites of all Israel under oath to do these things; and they swore to it."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "Artaxerxes (Persian Artakhshassa, perhaps “whose rule is through truth”), most likely Artaxerxes I (465–424 BC), although some date Ezra’s mission under Artaxerxes II (404–358 BC). 8:1–9:36 parallels Ezra 7:1–10:44."
+    },
+    {
+     "m": "b",
+     "ref": "8:1",
+     "text": "Ezra means “help.” The Greek form Esdras, used in the title of the book, renders the same name."
+    },
+    {
+     "m": "c",
+     "ref": "8:1",
+     "text": "The genealogy parallels Ezra 7:1–5 (Seraiah, Azariah, Hilkiah, Shallum, Zadok, Ahitub, Amariah, Azariah, Meraioth, Zerahiah, Uzzi, Bukki, Abishua, Phinehas, Eleazar, Aaron); the Greek forms are kept here. Aaron perhaps means “enlightened” or “mountaineer” (uncertain)."
+    },
+    {
+     "m": "d",
+     "ref": "8:6",
+     "text": "Greek “in the fifth month,” that is, Av, on the spring-start calendar (Ezra 7:8). The seventh year of Artaxerxes I is 458 BC."
+    },
+    {
+     "m": "e",
+     "ref": "8:6",
+     "text": "Greek “this was the second year for the king,” evidently a corruption; Ezra 7:8 has “the seventh year of the king.”"
+    },
+    {
+     "m": "f",
+     "ref": "8:7",
+     "text": "Swete’s Greek reads Apsaros here, a corruption of the name Ezra."
+    },
+    {
+     "m": "g",
+     "ref": "8:17",
+     "text": "Greek “and according to your holy vessels given…”; Ezra 7:19 reads “the vessels that are given to you … deliver before the God of Jerusalem.”"
+    },
+    {
+     "m": "h",
+     "ref": "8:19",
+     "text": "Greek “up to a hundred talents of silver.” A talent was about 75 pounds (34 kg), so a hundred talents is about 7,500 pounds (3,400 kg)."
+    },
+    {
+     "m": "i",
+     "ref": "8:20",
+     "text": "Greek “up to a hundred kors of wheat and a hundred measures (metrētai) of wine.” A kor was about 6½ bushels (about 220 liters); a metrētēs was about 10 gallons (39 liters). Ezra 7:22 adds a hundred baths of oil and salt without limit."
+    },
+    {
+     "m": "j",
+     "ref": "8:24",
+     "text": "Greek “not by fine of money or imprisonment,” apparently a corruption; Ezra 7:26 lists “death, banishment, confiscation of goods, or imprisonment.”"
+    },
+    {
+     "m": "k",
+     "ref": "8:28",
+     "text": "Here the narrative changes to the first person (Ezra’s own memoir), as in Ezra 7:27–9:15. The names in verses 29–48 are given in the forms of Ezra 8:1–20 where Swete’s Greek is plainly the same name (Swete has, for example, Phoros for Phinehas, Gamelos, Phares for Parosh, and Elialonias Zaraiou); the remaining Greek forms are kept."
+    },
+    {
+     "m": "l",
+     "ref": "8:29",
+     "text": "Gershom means “a stranger there” (Exodus 2:22); Ithamar perhaps means “land of palms”; Gamael corresponds to Daniel in Ezra 8:2."
+    },
+    {
+     "m": "m",
+     "ref": "8:29",
+     "text": "Swete’s Greek lacks the name and reads “of the sons of David, Phares, Zacharias”; Hattush the son of Shecaniah is supplied from Ezra 8:2–3 (other Greek copies reportedly have it as well). Hattush was a descendant of Zerubbabel (1 Chronicles 3:22)."
+    },
+    {
+     "m": "n",
+     "ref": "8:33",
+     "text": "Greek “Esias son of Gotholias,” the Jeshaiah son of Athaliah of Ezra 8:7."
+    },
+    {
+     "m": "o",
+     "ref": "8:41",
+     "text": "Greek Thera (Ezra 8:15, 21, 31, Ahava), an unidentified river or canal near Babylon."
+    },
+    {
+     "m": "p",
+     "ref": "8:44",
+     "text": "Greek Laadaios and Lodaios (the same man), Iddo in Ezra 8:17, the leader at Casiphia; the Greek has “the place of the treasury.”"
+    },
+    {
+     "m": "q",
+     "ref": "8:46",
+     "text": "Mahli means “sickly” or perhaps “shrewd.” Swete has the single name Asebebias for Sherebiah (Ezra 8:18)."
+    },
+    {
+     "m": "r",
+     "ref": "8:47",
+     "text": "Greek Chanunaios. Ezra 8:19 has “Hashabiah, and with him Jeshaiah of the sons of Merari, with his brothers and their sons, twenty”; other Greek copies reportedly have a longer text naming Hashabiah, Annunus, and Jeshaiah."
+    },
+    {
+     "m": "s",
+     "ref": "8:52",
+     "text": "Greek “for all restoration” (eis pasan epanorthōsin); Ezra 8:22 reads “The hand of our God is upon all who seek him for good.”"
+    },
+    {
+     "m": "t",
+     "ref": "8:56",
+     "text": "Greek “six hundred fifty talents of silver, and silver vessels of a hundred talents, and a hundred talents of gold.” At about 75 pounds (34 kg) to the talent, these are about 48,750 pounds (22,100 kg) of silver, about 7,500 pounds (3,400 kg) of silver vessels, and about 7,500 pounds of gold (compare Ezra 8:26)."
+    },
+    {
+     "m": "u",
+     "ref": "8:56",
+     "text": "So Swete; other Greek copies reportedly read “twelve.” Ezra 8:27 has “two vessels of fine bright bronze, precious as gold.”"
+    },
+    {
+     "m": "v",
+     "ref": "8:59",
+     "text": "Greek “the vessels in Jerusalem”; the sense is that they received them to carry to Jerusalem."
+    },
+    {
+     "m": "w",
+     "ref": "8:60",
+     "text": "Greek “on the twelfth day of the first month,” that is, Nisan, on the spring-start calendar (Ezra 8:31)."
+    },
+    {
+     "m": "x",
+     "ref": "8:61",
+     "text": "Uriah means “Yahweh is my light.” Swete has “Marmoth Ouria” (Ezra 8:33, Meremoth the son of Uriah)."
+    },
+    {
+     "m": "y",
+     "ref": "8:63",
+     "text": "Swete’s text as transcribed lacks “twelve bulls for all Israel … rams,” reading only “ninety-six”; the words are supplied from Ezra 8:35."
+    },
+    {
+     "m": "z",
+     "ref": "8:63",
+     "text": "So Swete; Ezra 8:35 has seventy-seven."
+    },
+    {
+     "m": "aa",
+     "ref": "8:69",
+     "text": "The evening offering, about 3 p.m. (the ninth hour from 6 a.m.), when Ezra 9:5 also says he rose from his fasting."
+    },
+    {
+     "m": "ab",
+     "ref": "8:75",
+     "text": "Greek “from the Lord Lord” (kyriou Kyriou), perhaps a scribal doubling; Ezra 9:8 has “from Yahweh our God.”"
+    },
+    {
+     "m": "ac",
+     "ref": "8:85",
+     "text": "Greek “You were not angry with us so as to destroy us…,” a statement; compare Ezra 9:14, which is a question. The question form is followed here."
+    },
+    {
+     "m": "ad",
+     "ref": "8:89",
+     "text": "Greek “and now all Israel is above,” a corrupt phrase; Ezra 10:2 has “yet now there is hope for Israel concerning this thing.”"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    5,
+    16,
+    18,
+    37,
+    49
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Ezra rose from the court of the temple and went to the chamber of Jehohanan the son of Eliashib,{a}"
+    },
+    {
+     "v": 2,
+     "text": "and he lodged there, and ate no bread and drank no water, mourning over the great lawlessness of the multitude."
+    },
+    {
+     "v": 3,
+     "text": "And a proclamation was made throughout all Judea and Jerusalem to all who were of the captivity, that they should assemble at Jerusalem;"
+    },
+    {
+     "v": 4,
+     "text": "and that whoever did not meet them within two or three days, according to the decision of the elders who presided, should have his cattle devoted to the temple,{b} and he himself should be cut off from the multitude of the captivity."
+    },
+    {
+     "v": 5,
+     "text": "So within three days the men of Judah and Benjamin came together at Jerusalem; it was the twentieth of the ninth month (November–December).{c}"
+    },
+    {
+     "v": 6,
+     "text": "And all the multitude sat together in the open square of the temple, shivering because of the winter that had set in.{d}"
+    },
+    {
+     "v": 7,
+     "text": "And Ezra rose and said to them, “You have broken the law and married foreign wives, and so added to the sin of Israel."
+    },
+    {
+     "v": 8,
+     "text": "And now make confession and give glory to the Lord God of our fathers,"
+    },
+    {
+     "v": 9,
+     "text": "and do his will, and separate yourselves from the nations of the land and from the foreign women.”"
+    },
+    {
+     "v": 10,
+     "text": "Then all the multitude cried out and said with a loud voice, “We will do as you have said."
+    },
+    {
+     "v": 11,
+     "text": "But the multitude is great, and it is the winter season, and we are not able to stand in the open air, and we have found no shelter;{e} and the work is not for one day or two, for we have sinned greatly in these things."
+    },
+    {
+     "v": 12,
+     "text": "So let the leaders of the multitude stay, and let all those of our settlements who have foreign wives come at appointed times,"
+    },
+    {
+     "v": 13,
+     "text": "with the elders and judges of each place, until we turn away the wrath of the Lord from us over this matter.”"
+    },
+    {
+     "v": 14,
+     "text": "Jonathan the son of Asahel and Jahzeiah the son of Tikvah{f} undertook the business accordingly, with Meshullam, Levi, and Shabbethai sitting as umpires alongside them."
+    },
+    {
+     "v": 15,
+     "text": "And those of the captivity did according to all these things."
+    },
+    {
+     "v": 16,
+     "text": "And Ezra the priest chose for himself men who were heads of their fathers’ houses, all of them by name; and they sat down together on the new moon of the tenth month (December–January){g} to examine the matter."
+    },
+    {
+     "v": 17,
+     "text": "And the cases of the men who had foreign wives were brought to an end by the new moon of the first month (March–April).{h}"
+    },
+    {
+     "v": 18,
+     "text": "And of the priests who had come together and were found to have foreign wives there were:"
+    },
+    {
+     "v": 19,
+     "text": "of the sons of Jeshua the son of Jozadak and his brothers, Maaseiah, Eleazar, Jarib, and Jodan.{i}"
+    },
+    {
+     "v": 20,
+     "text": "And they gave their hands{j} to put away their wives, and to offer rams in atonement for their error."
+    },
+    {
+     "v": 21,
+     "text": "And of the sons of Immer: Hanani, Zabdaeus, Manes, Samaeus, Hiereel, and Azariah."
+    },
+    {
+     "v": 22,
+     "text": "And of the sons of Pashhur: Elionai, Massias, Ishmael, Nathanael, Ocidelus, and Salthas.{k}"
+    },
+    {
+     "v": 23,
+     "text": "And of the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah, and Jonas."
+    },
+    {
+     "v": 24,
+     "text": "Of the temple singers: Eliashib and Bacchurus.{l}"
+    },
+    {
+     "v": 25,
+     "text": "Of the gatekeepers: Shallum and Tolbanes."
+    },
+    {
+     "v": 26,
+     "text": "Of Israel, of the sons of Parosh: Hiermas, Jeddias, Malchijah, Mijamin, Eleazar, Hashabiah, and Benaiah.{m}"
+    },
+    {
+     "v": 27,
+     "text": "Of the sons of Elam: Mattaniah, Zechariah, Jezrielus, Obadiah, Jeremoth, and Elijah."
+    },
+    {
+     "v": 28,
+     "text": "And of the sons of Zamoth: Eliadas, Eliashib, Othoniah, Jerimoth, Sabathus, and Zeralias."
+    },
+    {
+     "v": 29,
+     "text": "And of the sons of Bebai: Johanan, Hananiah, Zabdus, and Emathis."
+    },
+    {
+     "v": 30,
+     "text": "And of the sons of Mani: Olamus, Mamuchus, Jedaeus, Jashub, Asaelus, and Jeremoth."
+    },
+    {
+     "v": 31,
+     "text": "And of the sons of Addi: Naathus, Moossias, Laccunus, Naidus, Bescaspasmys, Sesthel, Balnuus, and Manasseas.{n}"
+    },
+    {
+     "v": 32,
+     "text": "And of the sons of Annan: Elionas, Asaeas, Malchijah, Sabbaeas, and Simon Chosamaeus."
+    },
+    {
+     "v": 33,
+     "text": "And of the sons of Hashum: Maltannaeus, Mattathias, Sabannaeus, Eliphalat, Manasseh, Semei."
+    },
+    {
+     "v": 34,
+     "text": "And of the sons of Bani: Jeremai, Momdis, Maerus, Joel, Mamdai, Bedeiah, Vaniah, Carabasion, Enasibus, Mamnitanaemus, Eliasis, Binnui, Elialis, Shimei, Shelemiah, and Nethaniah. And of the sons of Ezora: Shashai, Azarel, Azael, Shemaiah, Amariah, and Joseph.{o}"
+    },
+    {
+     "v": 35,
+     "text": "Of the sons of Nooma: Mazitias, Zabadaeas, Iddo, Joel, and Benaiah."
+    },
+    {
+     "v": 36,
+     "text": "Every one of these had taken foreign wives, and they sent them away with the children.{p}"
+    },
+    {
+     "v": 37,
+     "text": "And the priests and the Levites and those of Israel settled in Jerusalem and in the country. On the new moon of the seventh month (September–October),{q} when the sons of Israel were in their settlements,"
+    },
+    {
+     "v": 38,
+     "text": "the whole multitude came together as one man into the broad place before the temple gate toward the east;{r}"
+    },
+    {
+     "v": 39,
+     "text": "and they bade Ezra, priest and reader, fetch the law of Moses that the God of Israel had handed down."
+    },
+    {
+     "v": 40,
+     "text": "So Ezra the chief priest{s} brought the law to all the multitude, both men and women, and to all the priests, that they might hear the law, on the new moon of the seventh month."
+    },
+    {
+     "v": 41,
+     "text": "And from early morning until noon he read in the broad place in front of the temple gate, before men and women alike; and they gave all their attention to the law."
+    },
+    {
+     "v": 42,
+     "text": "And Ezra the priest and reader of the law stood upon the wooden platform which had been made for the purpose;"
+    },
+    {
+     "v": 43,
+     "text": "and there stood beside him on his right Mattathias, Sammus, Hananiah, Azariah, Uriah, Hezekiah, and Baalsamus;"
+    },
+    {
+     "v": 44,
+     "text": "and on his left Phaldaeus, Mishael, Malchijah, Lothasubus, Nabariah, and Zechariah."
+    },
+    {
+     "v": 45,
+     "text": "Then Ezra took up the book in the sight of the multitude, for he sat in the place of honor in the sight of all;"
+    },
+    {
+     "v": 46,
+     "text": "and when he opened the law, they all stood upright. And Azariah{t} blessed the Lord, the Most High God, the God of hosts, the Almighty;{u}"
+    },
+    {
+     "v": 47,
+     "text": "and all the multitude answered, “Amen, amen!” And lifting up their hands they fell to the ground and worshiped the Lord."
+    },
+    {
+     "v": 48,
+     "text": "Jeshua, Anniuth, Sarabias, Jadinus, Jarsubus, Abtaeus, Autaeas, Maiannas, Calitas, Azarias, Jozabdus, Annias, Phalias, the Levites, taught the law of the Lord, and read the law of the Lord to the multitude, at the same time giving the sense of what was read.{v}"
+    },
+    {
+     "v": 49,
+     "text": "And Attharates{w} spoke to Ezra, high priest and reader, and to the Levites who instructed the people, and to everyone:"
+    },
+    {
+     "v": 50,
+     "text": "“This day is holy to the Lord”; for they were all weeping as they heard the law.{x}"
+    },
+    {
+     "v": 51,
+     "text": "“Go then, and eat the fat and drink the sweet, and send portions to those who have none;"
+    },
+    {
+     "v": 52,
+     "text": "for the day is holy to the Lord; and do not be sorrowful, for the Lord will glorify you.”"
+    },
+    {
+     "v": 53,
+     "text": "The Levites likewise gave charge to the whole people: “This day is holy; be not grieved.”"
+    },
+    {
+     "v": 54,
+     "text": "Then they all went their way to eat and drink and make merry, and to give portions to those who had none, and to rejoice greatly;"
+    },
+    {
+     "v": 55,
+     "text": "for the words they had been taught had filled them with fervor. And they came together.{y}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "Greek “the chamber of Jonas the son of Naseibos” (Swete); Ezra 10:6 has Jehohanan the son of Eliashib, whose names are followed here. Jehohanan means “Yahweh is gracious”; Eliashib means “God restores.”"
+    },
+    {
+     "m": "b",
+     "ref": "9:4",
+     "text": "Greek “devoted” or “consecrated” (aniĕrōthēsontai), that is, forfeited to the sanctuary; compare Ezra 10:8, “all his property should be forfeited.”"
+    },
+    {
+     "m": "c",
+     "ref": "9:5",
+     "text": "Greek “this was the ninth month, on the twentieth of the month,” that is, Kislev, on the spring-start calendar (Ezra 10:9)."
+    },
+    {
+     "m": "d",
+     "ref": "9:6",
+     "text": "Greek “trembling because of the present winter”; Ezra 10:9 adds “because of this matter and because of the heavy rain.” Kislev falls in the rainy season."
+    },
+    {
+     "m": "e",
+     "ref": "9:11",
+     "text": "Greek “and we have not found (it),” an obscure phrase; the sense may be that they have not been able to complete the task, or that there is no shelter."
+    },
+    {
+     "m": "f",
+     "ref": "9:14",
+     "text": "Greek “Jonathas son of Azaelus and Ezekias son of Thokanos”; the names follow Ezra 10:15. Jonathan means “Yahweh has given”; Tikvah means “hope.” In Ezra 10:15 these men oppose the plan; here they carry it out."
+    },
+    {
+     "m": "g",
+     "ref": "9:16",
+     "text": "Greek “on the new moon of the tenth month,” that is, Tevet, on the spring-start calendar (Ezra 10:16)."
+    },
+    {
+     "m": "h",
+     "ref": "9:17",
+     "text": "Greek “until the new moon of the first month,” that is, Nisan, on the spring-start calendar (Ezra 10:17). The examination thus took about three months."
+    },
+    {
+     "m": "i",
+     "ref": "9:19",
+     "text": "Greek Maeēlas, Eleazaros, Ioribos, Iōdanos; the forms of Ezra 10:18 (Maaseiah, Eliezer, Jarib, Gedaliah) are partly followed. 9:18–36 parallels the list of Ezra 10:18–44; many names differ, and the Greek forms are generally kept in this list."
+    },
+    {
+     "m": "j",
+     "ref": "9:20",
+     "text": "That is, they pledged themselves (Ezra 10:19)."
+    },
+    {
+     "m": "k",
+     "ref": "9:22",
+     "text": "Swete’s forms are Phaisur, Elionais, Asseias, Ismaelos, Nathanaelos, Okaildos, Salthas; compare Ezra 10:22 (Pashhur, Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, Elasah)."
+    },
+    {
+     "m": "l",
+     "ref": "9:24",
+     "text": "Swete has Eliasebos and Bakchouros; Ezra 10:24 names only Eliashib among the singers."
+    },
+    {
+     "m": "m",
+     "ref": "9:26",
+     "text": "Swete has Phoros (Parosh), Ierma, Iezeias, Melcheias, Milelos, Eleazaros, Asebeias, Bannaias; compare Ezra 10:25."
+    },
+    {
+     "m": "n",
+     "ref": "9:31",
+     "text": "Swete has Addein; Ezra 10:30 has Pahath-moab. The Greek list in this verse differs considerably from Ezra."
+    },
+    {
+     "m": "o",
+     "ref": "9:34",
+     "text": "In Swete the list runs to the end of verse 35, and the sons of Ezora are part of verse 34. Swete’s forms here include Ierēmias, Momdeios, Maēros, Iouna, Mamdai, Pedias, Anōs, Karabaseion, Enaseibos, Mamtanaimos, Eliaseis, Bannous, Edialeis, Someeis, Selemias, Nathanias; and for the sons of Ezora, Seseis, Ezreil, Azaēlos, Samatos, Zambrei, Phosēpos. Some forms are adapted toward Ezra 10:34–42."
+    },
+    {
+     "m": "p",
+     "ref": "9:36",
+     "text": "Greek “and they sent them away with children.” Ezra 10:44 ends with an obscure Hebrew clause, often rendered “and some of the wives had borne children.”"
+    },
+    {
+     "m": "q",
+     "ref": "9:37",
+     "text": "Greek “on the new moon of the seventh month,” that is, Tishri, on the spring-start calendar. 9:37–55 parallels Nehemiah 7:73–8:12. In 1 Esdras, Nehemiah does not appear in this scene; see the note on verse 49."
+    },
+    {
+     "m": "r",
+     "ref": "9:38",
+     "text": "Nehemiah 8:1 has “the square before the Water Gate.”"
+    },
+    {
+     "m": "s",
+     "ref": "9:40",
+     "text": "Greek archiereus, “high priest”; in Nehemiah 8:2 Ezra is called “the priest.”"
+    },
+    {
+     "m": "t",
+     "ref": "9:46",
+     "text": "Azariah is not in Nehemiah 8:6, where Ezra himself blesses the Lord; Azariah has been named among those standing beside him (verse 43)."
+    },
+    {
+     "m": "u",
+     "ref": "9:46",
+     "text": "Greek Pantokratōr, “ruler of all,” the Septuagint word for the Hebrew Sabaoth (“of hosts”) and Shaddai; “Almighty” renders it in this translation. Swete reads simply “the Most High God, the Almighty”; “the Lord … the God of hosts” follows Nehemiah 8:6 and other Greek copies, as reported."
+    },
+    {
+     "m": "v",
+     "ref": "9:48",
+     "text": "Greek emphysiountes, literally “breathing into” the reading, that is, making it come alive and giving its meaning (compare Nehemiah 8:8, “they gave the sense, so that the people understood the reading”)."
+    },
+    {
+     "m": "w",
+     "ref": "9:49",
+     "text": "Greek Attharatēs, a corrupt form of the Persian title tirshatha, “governor,” given to Nehemiah in Nehemiah 8:9 (compare 1 Esdras 5:40, Attharias). 1 Esdras treats it as a personal name."
+    },
+    {
+     "m": "x",
+     "ref": "9:50",
+     "text": "Nehemiah 8:9 has “Do not mourn or weep,” and explains, “for all the people wept when they heard the words of the law.”"
+    },
+    {
+     "m": "y",
+     "ref": "9:55",
+     "text": "The book ends abruptly in the middle of the Nehemiah narrative (Nehemiah 8:12–13). The last words, “And they assembled together,” correspond to the start of Nehemiah 8:13 and suggest that the end of the book has been lost; the work may originally have continued with the Feast of Booths. Josephus, who used 1 Esdras for his account of this period (Antiquities 11), reportedly continues the story to Ezra’s death."
+    }
+   ]
+  }
+ ]
+}
