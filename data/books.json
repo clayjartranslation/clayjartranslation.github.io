@@ -1221,8 +1221,12 @@
    "name": "Habakkuk",
    "division": "Old Testament",
    "chapterCount": "3",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3
+   ],
+   "file": "data/books/habakkuk.json"
   },
   {
    "id": "zephaniah",

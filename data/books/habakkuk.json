@@ -1,0 +1,433 @@
+{
+ "id": "habakkuk",
+ "name": "Habakkuk",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex (the Masoretic Text). It was checked against several other witnesses:\n- The Habakkuk Commentary (Pesher Habakkuk, 1QpHab) from Qumran Cave 1, copied in the late 1st century BC. It quotes Habakkuk 1–2 phrase by phrase and differs from the Masoretic Text at several points.\n- The Hebrew Minor Prophets scroll from Wadi Murabba‘at (MurXII, early 2nd century AD).\n- The Septuagint, using Brenton’s public-domain English translation.\nThe scroll readings come from Martin Abegg’s transcriptions, as published in the ETCBC Dead Sea Scrolls dataset. Portions of Habakkuk also survive in the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr, about the turn of the era), a revision of the Septuagint toward the Hebrew. Its readings could not be checked directly and are marked “reported.” Significant differences are footnoted; differences of spelling and damage to the scrolls are not. The divine title YHWH Tseva’ot is translated “Yahweh of Armies” (see the note at 2:13). Poetry is printed line by line.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    5,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The oracle that Habakkuk the prophet saw.{a}"
+    },
+    {
+     "v": 2,
+     "text": "O Yahweh, how long shall I cry for help,\nand you will not hear?\nI cry out to you, “Violence!”\nand you do not save."
+    },
+    {
+     "v": 3,
+     "text": "Why do you make me see iniquity,\nand why do you look upon trouble?\nRuin and violence are before me;\nthere is strife, and contention arises."
+    },
+    {
+     "v": 4,
+     "text": "So the law grows numb,\nand justice never goes forth;\nfor the wicked hem in the righteous;\nso justice goes forth twisted."
+    },
+    {
+     "v": 5,
+     "text": "“Look among the nations, and see;{b}\nbe astonished and amazed!\nFor I am doing a work in your days\nthat you would not believe if it were told."
+    },
+    {
+     "v": 6,
+     "text": "For behold, I am raising up the Chaldeans,{c}\nthat bitter and impetuous nation,\nwhich marches through the breadth of the earth\nto seize dwellings that are not its own."
+    },
+    {
+     "v": 7,
+     "text": "It is dreadful and fearsome;\nits justice and its dignity go forth from itself."
+    },
+    {
+     "v": 8,
+     "text": "Its horses are swifter than leopards,\nand keener than wolves at evening.\nIts horsemen gallop proudly;\nits horsemen come from far away;\nthey fly like an eagle swooping to devour."
+    },
+    {
+     "v": 9,
+     "text": "They all come for violence;\nthe set of their faces is forward;{d}\nthey gather captives like sand."
+    },
+    {
+     "v": 10,
+     "text": "At kings they scoff,\nand rulers are a laughingstock to them.\nThey laugh at every fortress,\nfor they heap up earth and capture it."
+    },
+    {
+     "v": 11,
+     "text": "Then they sweep on like the wind and pass by,\nand become guilty, they whose own strength is their god.”{e}"
+    },
+    {
+     "v": 12,
+     "text": "Are you not from of old,\nO Yahweh, my God, my Holy One?\nWe shall not die.{f}\nO Yahweh, you have appointed them for judgment,\nand you, O Rock, have established them for reproof."
+    },
+    {
+     "v": 13,
+     "text": "Your eyes are too pure to look upon evil,\nand you cannot gaze upon wrong.\nWhy then do you look on the treacherous{g}\nand keep silent when the wicked swallows up\none more righteous than he?"
+    },
+    {
+     "v": 14,
+     "text": "You make mankind like the fish of the sea,\nlike creeping things that have no ruler."
+    },
+    {
+     "v": 15,
+     "text": "He lifts them all up with the angle;\nhe hauls them away in his net\nand gathers them in his dragnet;\ntherefore he rejoices and exults."
+    },
+    {
+     "v": 16,
+     "text": "Therefore he sacrifices to his net\nand burns incense to his dragnet;\nfor by them his portion is rich\nand his food is plentiful."
+    },
+    {
+     "v": 17,
+     "text": "Shall he therefore keep emptying his net,{h}\nand slaying nations continually without pity?"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "“Oracle”: Hebrew massa’, which can also mean “burden.” The meaning of the name Habakkuk is uncertain. It may come from a Hebrew root meaning “embrace,” or it may be related to the Akkadian name of a garden plant (hambaququ)."
+    },
+    {
+     "m": "b",
+     "ref": "1:5",
+     "text": "The Septuagint has “Behold, you despisers,” apparently reading bogedim (“traitors, the treacherous”) for baggoyim (“among the nations”). Acts 13:41 quotes the verse in that form. The Habakkuk Commentary from Qumran (1QpHab) quotes the line as “among the nations,” as the Masoretic Text has it. Its commentary, however, applies the passage to “the traitors.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:6",
+     "text": "The Chaldeans were the Neo-Babylonian dynasty and its people. They overthrew Assyria and conquered Judah, taking Jerusalem in 597 and 586 BC."
+    },
+    {
+     "m": "d",
+     "ref": "1:9",
+     "text": "The Hebrew phrase translated “the set of their faces” is obscure."
+    },
+    {
+     "m": "e",
+     "ref": "1:11",
+     "text": "Literally “and he shall be guilty, he whose strength is his god.” The Habakkuk Commentary from Qumran reads “and he makes his strength his god” (wayyasem instead of we’ashem)."
+    },
+    {
+     "m": "f",
+     "ref": "1:12",
+     "text": "According to an ancient Jewish tradition, this is one of the places where the scribes altered the wording out of reverence, and the original was “You shall not die.” The Habakkuk Commentary from Qumran and the Septuagint both read “we.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:13",
+     "text": "The Habakkuk Commentary from Qumran has a plural, “Why do you look on, you treacherous ones?”"
+    },
+    {
+     "m": "h",
+     "ref": "1:17",
+     "text": "The Habakkuk Commentary from Qumran reads “Therefore he keeps drawing his sword” (harbo, instead of hermo, “his net”)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    9,
+    12,
+    15,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Upon my watch I will stand,\nand set myself upon the tower;\nI will look out to see what he will speak with me,\nand what reply I shall make to my complaint.{a}"
+    },
+    {
+     "v": 2,
+     "text": "And Yahweh answered me and said:\n“Write the vision;\nmake it plain upon tablets,\nso that one may run who reads it.{b}"
+    },
+    {
+     "v": 3,
+     "text": "For the vision is still for the appointed time;\nit hastens toward the end, and it will not lie.\nIf it seems slow, wait for it;\nfor it will surely come; it will not delay.{c}"
+    },
+    {
+     "v": 4,
+     "text": "“Behold, the one who is puffed up,\nhis soul is not upright within him;\nbut the righteous shall live by his faithfulness.{d}"
+    },
+    {
+     "v": 5,
+     "text": "“Moreover, wine is treacherous;{e}\nthe arrogant man does not stay at home.\nHe opens his throat wide like Sheol,{f}\nand like death he is never satisfied.\nHe gathers to himself all the nations\nand collects for himself all the peoples.”"
+    },
+    {
+     "v": 6,
+     "text": "Shall not all these take up a taunt against him,\nwith mocking riddles about him, and say,\n“Woe to him who multiplies what does not belong to him—\nhow long?—\nand makes himself heavy with pledges!”"
+    },
+    {
+     "v": 7,
+     "text": "Shall not those who bite you rise up in a moment,\nand those wake who shake you violently?\nAnd you shall become plunder to them."
+    },
+    {
+     "v": 8,
+     "text": "Because you have plundered many nations,\nall the remnant of the peoples shall plunder you,\nfor the blood of men and violence to the earth,\nto the city and to all who dwell in it."
+    },
+    {
+     "v": 9,
+     "text": "Woe to him who gets evil gain for his house,\nto set his nest on high,\nto be delivered from the grasp of evil!"
+    },
+    {
+     "v": 10,
+     "text": "You have devised shame for your house\nby cutting off many peoples;\nyou have sinned against your own soul."
+    },
+    {
+     "v": 11,
+     "text": "For out of the wall the stone shall cry,\nand out of the timber the rafter shall answer it."
+    },
+    {
+     "v": 12,
+     "text": "Woe to him who builds a town with blood\nand founds a city on iniquity!"
+    },
+    {
+     "v": 13,
+     "text": "Behold, is it not from Yahweh of Armies{g}\nthat peoples toil only for the fire,\nand nations weary themselves for nothing?"
+    },
+    {
+     "v": 14,
+     "text": "For the earth shall be filled\nwith the knowledge of the glory of Yahweh,\nas the waters cover the sea.{h}"
+    },
+    {
+     "v": 15,
+     "text": "Woe to him who makes his neighbors drink,\npouring out your wrath and making them drunk,\nin order to look upon their nakedness!{i}"
+    },
+    {
+     "v": 16,
+     "text": "You will be sated with shame instead of glory.\nDrink, you also, and be exposed as uncircumcised!{j}\nThe cup in Yahweh’s right hand will come around to you,\nand utter disgrace will be upon your glory."
+    },
+    {
+     "v": 17,
+     "text": "For the violence done to Lebanon will cover you,\nand the destruction of the beasts will terrify you,{k}\nfor the blood of men and violence to the earth,\nto the city and to all who dwell in it."
+    },
+    {
+     "v": 18,
+     "text": "What profit is an idol\nwhen its maker has carved it,\na molten image and a teacher of falsehood,\nthat the one who shapes it should trust in what he has shaped,\nmaking idols that cannot speak?"
+    },
+    {
+     "v": 19,
+     "text": "Woe to him who says to a piece of wood, “Wake up!”\nor to a mute stone, “Arise!”\nCan this teach?\nBehold, it is plated with gold and silver,\nand there is no breath at all within it."
+    },
+    {
+     "v": 20,
+     "text": "But Yahweh is in his holy temple;\nlet all the earth keep silence before him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Or “concerning my reproof.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "Or “so that a herald may run with it.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:3",
+     "text": "Hebrews 10:37 quotes verses 3–4 in their Septuagint form. Compare “the end” here with 2 Peter 3:9."
+    },
+    {
+     "m": "d",
+     "ref": "2:4",
+     "text": "Or “by his faith.” Hebrew be’emunato: ’emunah is steadfastness, faithfulness, and trust. The Habakkuk Commentary from Qumran quotes the line as it stands in the Masoretic Text, and its commentary applies it to those whom God will deliver “because of their toil and their faith in the Teacher of Righteousness.” The Septuagint reads “by my faith” (or “by my faithfulness,” meaning God’s). Some Septuagint manuscripts read “my righteous one shall live by faith,” the form that Hebrews 10:38 follows. The Greek Minor Prophets Scroll from Nahal Hever is reported to read “by his faith,” agreeing with the Hebrew. Paul quotes the line, without a pronoun, in Romans 1:17 and Galatians 3:11."
+    },
+    {
+     "m": "e",
+     "ref": "2:5",
+     "text": "The Habakkuk Commentary from Qumran reads “wealth (hon) is treacherous” instead of “wine (hayyayin).” The Septuagint has “the arrogant man and the scorner.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:5",
+     "text": "Sheol is the realm of the dead, the grave."
+    },
+    {
+     "m": "g",
+     "ref": "2:13",
+     "text": "Compare Isaiah 11:9."
+    },
+    {
+     "m": "h",
+     "ref": "2:14",
+     "text": "Hebrew YHWH Tseva’ot, traditionally “the LORD of hosts.” The “armies” are the forces of heaven (the angels and the stars) and sometimes the armies of Israel."
+    },
+    {
+     "m": "i",
+     "ref": "2:15",
+     "text": "The Habakkuk Commentary from Qumran reads “to look upon their festivals” (mo‘adehem instead of me‘orehem, “their nakedness”). Its commentary applies the verse to an attack by “the Wicked Priest” on the Teacher of Righteousness on the Day of Atonement."
+    },
+    {
+     "m": "j",
+     "ref": "2:16",
+     "text": "The Hebrew he‘arel means “show your foreskin, be exposed as uncircumcised.” The Habakkuk Commentary from Qumran reads hera‘el, “and stagger,” with two letters reversed. The Septuagint (“shake… and quake”) and other ancient versions point the same way, and many translations follow that reading."
+    },
+    {
+     "m": "k",
+     "ref": "2:17",
+     "text": "“Will terrify you” follows the Septuagint. The Masoretic Text has a form usually read as “will terrify them,” and the Habakkuk Commentary from Qumran has another spelling of the word."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    2,
+    3,
+    8,
+    16,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A prayer of Habakkuk the prophet, according to Shigionoth.{a}"
+    },
+    {
+     "v": 2,
+     "text": "O Yahweh, I have heard the report of you,\nand I am afraid.\nO Yahweh, revive your work in the midst of the years;\nin the midst of the years make it known;\nin wrath remember mercy.{b}"
+    },
+    {
+     "v": 3,
+     "text": "God came from Teman,\nand the Holy One from Mount Paran. Selah{c}\nHis splendor covered the heavens,\nand the earth was full of his praise."
+    },
+    {
+     "v": 4,
+     "text": "His shining was as the light of day;\nrays came forth from his hand,{d}\nand there was the hiding of his power."
+    },
+    {
+     "v": 5,
+     "text": "Pestilence went before his face,\nand plague went out at his feet.{e}"
+    },
+    {
+     "v": 6,
+     "text": "He stood and measured the earth;{f}\nhe looked and made the nations tremble.\nThe everlasting mountains were shattered;\nthe ancient hills sank low.\nHis goings are as of old."
+    },
+    {
+     "v": 7,
+     "text": "Under affliction I saw the tents of Cushan;{g}\nthe curtains of Midian’s land were shaking."
+    },
+    {
+     "v": 8,
+     "text": "Was Yahweh angry with the rivers?\nWas your anger against the rivers,\nor your fury against the sea,\nwhen you rode upon your horses,\nyour chariots of salvation?"
+    },
+    {
+     "v": 9,
+     "text": "Your bow was laid bare;\nthe arrows were sworn by your word.{h} Selah\nYou split the earth with rivers."
+    },
+    {
+     "v": 10,
+     "text": "The mountains saw you and writhed;\nthe torrent of waters swept by;{i}\nthe deep uttered its voice\nand raised its hands on high."
+    },
+    {
+     "v": 11,
+     "text": "Sun and moon stood still in their dwelling\nat the light of your arrows as they flew,\nat the gleam of your flashing spear."
+    },
+    {
+     "v": 12,
+     "text": "In fury you strode over the earth;\nin wrath you threshed the nations."
+    },
+    {
+     "v": 13,
+     "text": "You went forth for the salvation of your people,\nfor the salvation of your anointed.\nYou crushed the head of the house of the wicked,\nlaying bare the foundation to the neck. Selah"
+    },
+    {
+     "v": 14,
+     "text": "You pierced with his own shafts the head of his warriors,{j}\nwho came storming out to scatter me,\nrejoicing as if to devour the poor in secret."
+    },
+    {
+     "v": 15,
+     "text": "You trampled the sea with your horses,\nthe heaving of many waters."
+    },
+    {
+     "v": 16,
+     "text": "I heard, and my body trembled;\nmy lips quivered at the sound;\nrottenness entered into my bones;\nI trembled where I stood,\nbecause I must wait quietly for the day of distress\nto come upon the people who invade us."
+    },
+    {
+     "v": 17,
+     "text": "For though the fig tree shall not flower,\nneither shall fruit be on the vines;\nthough the yield of the olive should fail,\nand the fields produce no food;\nthough the flock be cut off from the fold,\nand there be no cattle in the stalls,"
+    },
+    {
+     "v": 18,
+     "text": "yet I will rejoice in Yahweh;\nI will exult in the God of my salvation."
+    },
+    {
+     "v": 19,
+     "text": "Yahweh, the Lord, is my strength;{k}\nhe makes my feet like the feet of deer,\nand makes me tread upon my high places.\nFor the choir director: on my stringed instruments.{l}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Shigionoth is probably a musical or liturgical term. Its meaning is unknown; compare the title of Psalm 7. The Habakkuk Commentary from Qumran comments only on chapters 1–2."
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "The Septuagint has a very different text here, beginning “You shall be known between the two living creatures.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:3",
+     "text": "Teman (in Edom) and Mount Paran (in the Sinai peninsula) lie to the south of Judah. Compare Deuteronomy 33:2 and Judges 5:4. Selah is a term of uncertain meaning, probably musical or liturgical; it occurs here and in verses 9 and 13."
+    },
+    {
+     "m": "d",
+     "ref": "3:4",
+     "text": "Hebrew qarnayim, literally “horns,” used here of rays of light."
+    },
+    {
+     "m": "e",
+     "ref": "3:5",
+     "text": "Hebrew dever (“pestilence”) and reshef (“plague, burning fever”). Reshef is also the name of a Canaanite god of plague, and here it may picture plague as one of God’s attendants."
+    },
+    {
+     "m": "f",
+     "ref": "3:6",
+     "text": "Or “and shook the earth.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:7",
+     "text": "Cushan appears only here. It may be a poetic name for Cush, or the name of a tribe connected with Midian (compare Numbers 12:1)."
+    },
+    {
+     "m": "h",
+     "ref": "3:9",
+     "text": "The Hebrew of this line is notoriously obscure. Literally it is “sworn were the rods (or tribes) of the word.”"
+    },
+    {
+     "m": "i",
+     "ref": "3:10",
+     "text": "The Wadi Murabba‘at Minor Prophets scroll reads “the clouds poured out water,” as in Psalm 77:17. The Masoretic Text has “the torrent of waters swept by.”"
+    },
+    {
+     "m": "j",
+     "ref": "3:14",
+     "text": "The Hebrew of verse 14 is difficult, and the translation is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "3:19",
+     "text": "Hebrew YHWH Adonai. “My high places” are the heights."
+    },
+    {
+     "m": "l",
+     "ref": "3:19",
+     "text": "This note is addressed to the leader of the temple music, like the titles of many psalms."
+    }
+   ]
+  }
+ ]
+}
