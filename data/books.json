@@ -1279,8 +1279,13 @@
    "name": "Malachi",
    "division": "Old Testament",
    "chapterCount": "4",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "file": "data/books/malachi.json"
   },
   {
    "id": "tobit",

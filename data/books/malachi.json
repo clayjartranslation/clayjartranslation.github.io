@@ -1,0 +1,389 @@
+{
+ "id": "malachi",
+ "name": "Malachi",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex (the Masoretic Text). It was checked against the Hebrew Minor Prophets scrolls from Qumran, chiefly 4QXII-a (about 150–125 BC, among the oldest biblical manuscripts, preserving much of Malachi 2:10–4:6) and 4QXII-c, whose text is close to the Masoretic Text but with some notable differences. The transcriptions used are Martin Abegg’s, as published in the ETCBC Dead Sea Scrolls dataset. It was also checked against the Septuagint, using Brenton’s public-domain English translation. Portions of the Minor Prophets also survive (reportedly) in the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr, about the turn of the era), which is a revision of the Septuagint toward the Hebrew. Its readings could not be checked directly, and none are cited for Malachi. Significant differences are footnoted; differences of spelling and damage to the scrolls are not. The divine title YHWH Tseva’ot is translated “Yahweh of Armies” (see the note at 1:4). Verse numbers follow the standard English Bible: English Malachi 4:1–6 is Hebrew 3:19–24 (the Hebrew Bible has three chapters); elsewhere English and Hebrew verse numbers are the same.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    6
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A burden:{a} the word of Yahweh to Israel by the hand of Malachi.{b}"
+    },
+    {
+     "v": 2,
+     "text": "“I have loved you,” says Yahweh. But you say, “In what way have you loved us?” “Was not Esau brother to Jacob?” declares Yahweh. “Yet I loved Jacob,"
+    },
+    {
+     "v": 3,
+     "text": "and Esau I hated;{c} and I have made his mountains a waste and given his inheritance to the jackals of the wilderness.”"
+    },
+    {
+     "v": 4,
+     "text": "If Edom says, “We are beaten down, but we will return and build up the ruins,” thus says Yahweh of Armies:{d} “They shall build, but I will throw down; and men shall call them ‘the border of wickedness’ and ‘the people against whom Yahweh is indignant forever.’”"
+    },
+    {
+     "v": 5,
+     "text": "Your own eyes will see it, and you will say, “Great is Yahweh beyond the border of Israel!”"
+    },
+    {
+     "v": 6,
+     "text": "“A son honors a father, and a servant his master. If then I am a father, where is my honor? And if I am a master, where is the fear of me? says Yahweh of Armies to you, O priests, who despise my name. And you say, ‘Wherein have we despised your name?’"
+    },
+    {
+     "v": 7,
+     "text": "By offering defiled bread upon my altar. And you say, ‘In what way have we defiled you?’ By your saying, ‘The table of Yahweh is despicable.’"
+    },
+    {
+     "v": 8,
+     "text": "And when you bring the blind to sacrifice, is it not evil? And when you bring the lame and the sick, is it not evil? Bring it, I pray, to your governor; will he be pleased with you, or lift up your face? says Yahweh of Armies."
+    },
+    {
+     "v": 9,
+     "text": "And now, entreat, I pray, the face of God, that he may be gracious to us. From your hand this has come; will he lift up any of your faces? says Yahweh of Armies."
+    },
+    {
+     "v": 10,
+     "text": "Who is there even among you that would shut the doors, so that you would not light my altar for nothing? I have no delight in you, says Yahweh of Armies, and I will not accept an offering from your hand."
+    },
+    {
+     "v": 11,
+     "text": "For from the rising of the sun to its setting my name is great among the nations, and in every place incense is offered to my name, and a pure offering;{e} for my name is great among the nations, says Yahweh of Armies."
+    },
+    {
+     "v": 12,
+     "text": "But you are profaning it when you say, ‘The table of the Lord{f} is defiled, and its fruit, its food, is despicable.’"
+    },
+    {
+     "v": 13,
+     "text": "And you say, ‘See, what a weariness!’ and you sniff at it,{g} says Yahweh of Armies. And you bring what was torn, and the lame, and the sick; so you bring the offering. Should I accept it from your hand? says Yahweh."
+    },
+    {
+     "v": 14,
+     "text": "Cursed be the cheat who has in his flock a male and vows it, and then sacrifices a blemished thing to the Lord. For I am a great King, says Yahweh of Armies, and my name is feared among the nations."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Hebrew massa’, “burden” or “oracle,” a heavy pronouncement (compare Zechariah 9:1 and 12:1)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Malachi means “my messenger” (compare 3:1). It may be the prophet’s name or a title; the Septuagint has “by the hand of his messenger,” and Jewish tradition (the Targum) identified the author with Ezra. The book is usually dated to the fifth century BC, after the second temple was built (515 BC) and probably before the reforms of Nehemiah."
+    },
+    {
+     "m": "c",
+     "ref": "1:3",
+     "text": "Quoted in Romans 9:13. In Hebrew idiom “love” and “hate” here express choosing and not choosing (compare Genesis 25:23)."
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "Hebrew YHWH Tseva’ot, traditionally “the LORD of hosts.” The “armies” are the forces of heaven (the angels and the stars) and sometimes the armies of Israel. The title is translated “Yahweh of Armies” throughout."
+    },
+    {
+     "m": "e",
+     "ref": "1:11",
+     "text": "Or “will be offered.” The Hebrew participles can be read as present or future. The Septuagint has “my name has been glorified among the nations; and in every place incense is offered.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:12",
+     "text": "Hebrew Adonai, “Lord,” also in verse 14. Some Hebrew manuscripts reportedly have YHWH here, and verse 7 has “the table of Yahweh.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:13",
+     "text": "According to rabbinic tradition, this is one of the “corrections of the scribes” (tiqqune sopherim): the original reading was “you sniff at me,” changed out of reverence. The Septuagint has “I have utterly scorned them.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    10,
+    13,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“And now, O priests, this commandment is for you."
+    },
+    {
+     "v": 2,
+     "text": "If you will not hear, and if you will not lay it to heart to give glory to my name, says Yahweh of Armies, then I will send the curse upon you, and I will curse your blessings; yes, I have cursed them already, because you are not laying it to heart."
+    },
+    {
+     "v": 3,
+     "text": "See, I am rebuking your seed,{a} and I will spread dung on your faces, the dung of your feasts; and one will carry you away to it."
+    },
+    {
+     "v": 4,
+     "text": "And you will know that I have sent this commandment to you, that my covenant may be with Levi, says Yahweh of Armies."
+    },
+    {
+     "v": 5,
+     "text": "My covenant was with him, of life and of peace; and I gave them to him, for fear; and he feared me and stood in awe before my name."
+    },
+    {
+     "v": 6,
+     "text": "The law of truth was in his mouth, and iniquity was not found on his lips; he walked with me in peace and in uprightness, and he turned many back from iniquity."
+    },
+    {
+     "v": 7,
+     "text": "For the lips of a priest should guard knowledge, and they should seek the law from his mouth; for he is the messenger of Yahweh of Armies."
+    },
+    {
+     "v": 8,
+     "text": "But you have turned aside out of the way; you have made many stumble in the law; you have corrupted the covenant of Levi, says Yahweh of Armies."
+    },
+    {
+     "v": 9,
+     "text": "And so I also have made you despised and low before all the people, inasmuch as you are not keeping my ways but are showing partiality in the law.”"
+    },
+    {
+     "v": 10,
+     "text": "Have we not all one father? Has not one God created us? Why then do we deal treacherously each man with his brother, to profane the covenant of our fathers?"
+    },
+    {
+     "v": 11,
+     "text": "Judah has dealt treacherously, and an abomination has been committed in Israel and in Jerusalem; for Judah has profaned the holy place of Yahweh, which he loves, and has married the daughter of a foreign god.{b}"
+    },
+    {
+     "v": 12,
+     "text": "May Yahweh cut off from the tents of Jacob the man who does this, him who wakes and him who answers,{c} and him who brings an offering to Yahweh of Armies."
+    },
+    {
+     "v": 13,
+     "text": "And this second thing you do: you cover the altar of Yahweh with tears, with weeping and groaning, because he no longer turns to the offering or accepts it with favor from your hand."
+    },
+    {
+     "v": 14,
+     "text": "And you say, “For what reason?” Because Yahweh has been witness between you and the wife of your youth, with whom you have dealt treacherously,{d} though she is your companion and the wife of your covenant."
+    },
+    {
+     "v": 15,
+     "text": "And did not he make one, with a remnant of spirit belonging to him? And what was the one seeking? A seed of God.{e} So guard yourselves in your spirit, and let none deal treacherously with the wife of his youth."
+    },
+    {
+     "v": 16,
+     "text": "“For he who hates and sends away,”{f} says Yahweh, the God of Israel, “covers his garment with violence,” says Yahweh of Armies. So guard yourselves in your spirit, and do not deal treacherously."
+    },
+    {
+     "v": 17,
+     "text": "You have wearied Yahweh{g} with your words. Yet you say, “In what way have we wearied him?” By your saying, “Every one who does evil is good in the eyes of Yahweh, and in them he delights”; or, “Where is the God of justice?”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:3",
+     "text": "Or “your offspring.” The Septuagint has “I will separate the shoulder from you,” reading zeroa‘, “arm,” for zera‘, “seed,” and the Latin Vulgate has “I will throw the arm (shoulder) to you.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:11",
+     "text": "That is, has married women who worship other gods."
+    },
+    {
+     "m": "c",
+     "ref": "2:12",
+     "text": "Hebrew ‘er we‘oneh, an obscure idiom, perhaps meaning “everyone.” A Qumran Minor Prophets scroll (4QXII-a) reads ‘ed, “witness,” giving “witness and answerer” (that is, any advocate). The Septuagint has “until he is cast down.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:14",
+     "text": "A Qumran Minor Prophets scroll (4QXII-a) lacks “with whom you have dealt treacherously.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:15",
+     "text": "The Hebrew of this verse is very difficult, and the translation is uncertain. Another possible rendering is “Did not one God make her, flesh and spirit belonging to him? And what does the one God seek? Godly offspring.” A Qumran Minor Prophets scroll (4QXII-a) reads “And you said, ‘What is the one seeking?’”"
+    },
+    {
+     "m": "f",
+     "ref": "2:16",
+     "text": "Hebrew ki sane’ shallah, “for he hates, send away,” which may also mean “For I hate divorce” (traditional rendering, reading the first verb as “I hate”). A Qumran Minor Prophets scroll (4QXII-a) reads “For if you hate, send her away,” and then “they cover violence upon my garment.” The Septuagint has “But if you hate her and send her away … then ungodliness will cover your thoughts.” Compare Deuteronomy 24:1–4."
+    },
+    {
+     "m": "g",
+     "ref": "2:17",
+     "text": "A Qumran Minor Prophets scroll (4QXII-a) has “And you have wearied God.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    5,
+    6,
+    13,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“See, I am sending my messenger, and he will clear a way before me;{a} and suddenly the Lord{b} whom you are seeking will come to his temple, even the messenger of the covenant in whom you delight. See, he is coming, says Yahweh of Armies."
+    },
+    {
+     "v": 2,
+     "text": "But who can endure the day of his coming? And who can stand when he appears? For he is like a refiner’s fire and like fullers’ lye."
+    },
+    {
+     "v": 3,
+     "text": "And he will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and like silver; and they will be to Yahweh those who bring offerings in righteousness."
+    },
+    {
+     "v": 4,
+     "text": "Then the offering of Judah and Jerusalem will be pleasing to Yahweh, as in the days of old and as in former years."
+    },
+    {
+     "v": 5,
+     "text": "“And I will draw near to you for judgment, and I will be a swift witness against the sorcerers, and against the adulterers, and against those who swear falsely, and against those who oppress the hired worker in his wages, the widow and the fatherless, and against those who turn aside the sojourner, and do not fear me, says Yahweh of Armies."
+    },
+    {
+     "v": 6,
+     "text": "“For I, Yahweh, have not changed; and you, O sons of Jacob, have not come to an end."
+    },
+    {
+     "v": 7,
+     "text": "From the days of your fathers you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says Yahweh of Armies. But you say, ‘In what way shall we return?’"
+    },
+    {
+     "v": 8,
+     "text": "Will a man rob God?{c} Yet you are robbing me. But you say, ‘In what way have we robbed you?’ In the tithe and the contribution."
+    },
+    {
+     "v": 9,
+     "text": "With the curse you are cursed, for you are robbing me, the whole nation of you."
+    },
+    {
+     "v": 10,
+     "text": "Bring the whole tithe into the storehouse, and let there be food in my house; and test me, I pray, by this, says Yahweh of Armies, whether I will not open for you the windows of the heavens and pour out for you a blessing until there is no more need."
+    },
+    {
+     "v": 11,
+     "text": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruit of your ground, and the vine in the field will not be barren for you, says Yahweh of Armies."
+    },
+    {
+     "v": 12,
+     "text": "And all the nations will call you happy, for you will be a land of delight, says Yahweh of Armies."
+    },
+    {
+     "v": 13,
+     "text": "“Your words have been strong against me, says Yahweh. Yet you say, ‘What have we spoken among ourselves against you?’"
+    },
+    {
+     "v": 14,
+     "text": "You have said, ‘It is vain to serve God. What gain is it that we have kept his charge and that we have walked as mourners before Yahweh of Armies?"
+    },
+    {
+     "v": 15,
+     "text": "And now we are calling the arrogant happy; not only are the doers of wickedness built up, but they test God and escape.’”"
+    },
+    {
+     "v": 16,
+     "text": "Then those who feared Yahweh spoke with one another. And Yahweh paid attention and heard, and a book of remembrance was written before him for those who feared Yahweh and esteemed his name."
+    },
+    {
+     "v": 17,
+     "text": "“They will be mine, says Yahweh of Armies, in the day that I am preparing, a treasured possession;{d} and I will spare them as a man spares his son who serves him."
+    },
+    {
+     "v": 18,
+     "text": "Then once more you will see the difference between the righteous and the wicked, between him who serves God and him who has not served him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Quoted in Mark 1:2, Matthew 11:10, and Luke 7:27, where it is applied to John the Baptist. “My messenger” (mal’akhi) is the same word as the name Malachi (1:1). A Qumran Minor Prophets scroll (4QXII-a) begins the verse with “Therefore,” and it is that scroll’s reading that the verse begins a new section after 2:17."
+    },
+    {
+     "m": "b",
+     "ref": "3:1",
+     "text": "Hebrew ha’adon, “the Lord,” not the divine name YHWH or the title Adonai. Here it is used of God himself, who comes to his own temple."
+    },
+    {
+     "m": "c",
+     "ref": "3:8",
+     "text": "Hebrew yiqba‘, “rob,” perhaps a play on the name Jacob (ya‘aqov, verse 6). The Septuagint has “Will a man insult God?” (probably reading ya‘qov, “cheat”; compare Genesis 27:36)."
+    },
+    {
+     "m": "d",
+     "ref": "3:17",
+     "text": "Hebrew segullah, the word used in Exodus 19:5 and Deuteronomy 7:6 for Israel as God’s own treasured possession."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    4,
+    5
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“For see, the day is coming, burning like an oven,{a} and all the arrogant and every doer of wickedness will be stubble; and the day that is coming will set them ablaze, says Yahweh of Armies, so that it will leave them neither root nor branch."
+    },
+    {
+     "v": 2,
+     "text": "But to you who fear my name the sun of righteousness shall arise with healing in its wings;{b} and you will go out and leap like calves from the stall."
+    },
+    {
+     "v": 3,
+     "text": "And you will tread down the wicked, for they will be ashes under the soles of your feet in the day that I am preparing, says Yahweh of Armies."
+    },
+    {
+     "v": 4,
+     "text": "“Remember the law of Moses my servant, which I commanded him at Horeb for all Israel, statutes and judgments."
+    },
+    {
+     "v": 5,
+     "text": "“See, I am sending to you Elijah the prophet{c} before the coming of the great and fearful day of Yahweh."
+    },
+    {
+     "v": 6,
+     "text": "And he will turn the heart of fathers to sons and the heart of sons to their fathers, lest I come and strike the land with a ban of destruction.”{d}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Malachi 4:1–6 in English Bibles is 3:19–24 in the Hebrew Bible, which has only three chapters. The Septuagint, like the English Bible, has four chapters."
+    },
+    {
+     "m": "b",
+     "ref": "4:2",
+     "text": "Or “wings,” meaning the rays of the sun. The image is of a winged sun disk, a common symbol in the ancient Near East. Compare Luke 1:78."
+    },
+    {
+     "m": "c",
+     "ref": "4:5",
+     "text": "Elijah means “My God is Yahweh.” The Septuagint has “Elias the Tishbite” and places verse 4 (“Remember the law of Moses”) after verse 6, at the end of the book. In Jesus’ teaching the coming of Elijah is fulfilled in John the Baptist (Matthew 11:14; 17:10–13; Mark 9:11–13; compare Luke 1:17)."
+    },
+    {
+     "m": "d",
+     "ref": "4:6",
+     "text": "Hebrew herem, the ban that devoted something to destruction. The Septuagint has “and the heart of a man to his neighbor, lest I come and strike the land utterly.” Verse 6 is quoted in part in Luke 1:17. Because the book ends with a curse, in Jewish synagogue reading verse 5 is repeated after verse 6. In one Qumran Minor Prophets scroll (4QXII-a), Malachi is reportedly followed by Jonah, so that in that copy it did not end the collection."
+    }
+   ]
+  }
+ ]
+}
