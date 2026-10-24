@@ -1291,15 +1291,30 @@
    "id": "tobit",
    "name": "Tobit",
    "division": "Apocrypha",
-   "chapterCount": "14",
-   "translated": [],
-   "file": null
+   "chapterCount": 14,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "file": "data/books/tobit.json"
   },
   {
    "id": "judith",
    "name": "Judith",
    "division": "Apocrypha",
-   "chapterCount": "16",
+   "chapterCount": 16,
    "translated": [],
    "file": null
   },
@@ -1307,7 +1322,7 @@
    "id": "additions-to-esther",
    "name": "Additions to Esther",
    "division": "Apocrypha",
-   "chapterCount": "6 additions",
+   "chapterCount": 6,
    "translated": [],
    "file": null
   },

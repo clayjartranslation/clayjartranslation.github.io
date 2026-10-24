@@ -1,0 +1,1745 @@
+{
+ "id": "tobit",
+ "name": "Tobit",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of Tobit in A. Rahlfs, *Septuaginta* (1935), checked against H. B. Swete, *The Old Testament in Greek according to the Septuagint* (1891–94; public domain). Tobit survives in two main Greek forms. This translation follows the longer recension (“GII”), preserved chiefly in Codex Sinaiticus (ℵ), which is closer to the Aramaic and Hebrew fragments of Tobit found at Qumran (4Q196–199 in Aramaic and 4Q200 in Hebrew, reported). The shorter recension (“GI”), found in Codices Vaticanus (B) and Alexandrinus (A) and translated in the King James Apocrypha, is cited in the notes where it differs in substance. Where Sinaiticus has a gap (4:7b–19a and 13:8–10, apparently from scribal omission), the text is supplied from GI and marked in a note. Rahlfs prints Sinaiticus 9:3–4 and 14:8–9 as single verses; these are divided here according to the usual English numbering. Verse numbering follows the modern (GII-based) division; the King James Apocrypha, which follows GI, differs in a few chapters (for example, its chapter 6 has 17 verses rather than 19, and chapter 10 has 12 rather than 14). The story is set among the exiles of the northern tribes in Nineveh in the 8th–7th centuries BC; the book was probably composed in Aramaic or Hebrew in the 3rd or early 2nd century BC. Tobit is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha. Greek *kyrios* is rendered “Lord” and *theos* “God” (see the note at 3:2). Money and weights are given in US amounts with the original units and metric values in the notes; month names are given with their modern equivalents. Variant readings not checked directly against the manuscripts are cited “as reported.” Brenton's English (1844) was consulted only as a check and not copied. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    9,
+    16,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The book of the words of Tobit,{a} the son of Tobiel,{b} the son of Ananiel, the son of Aduel, the son of Gabael, the son of Raphael,{c} the son of Raguel, from the line of Asiel, from the tribe of Naphtali,"
+    },
+    {
+     "v": 2,
+     "text": "who in the days of Enemessar{d} king of the Assyrians was carried away captive from Thisbe, which lies to the right{e} of Kedesh{f} of Naphtali in Upper Galilee, above Asher,{g} behind the road toward the setting sun, to the left of Phogor."
+    },
+    {
+     "v": 3,
+     "text": "I, Tobit, walked in ways of truth and in righteous deeds all the days of my life, and I did many acts of charity{h} for my kindred{i} and for my people who had gone with me in the captivity into the land of the Assyrians, to Nineveh."
+    },
+    {
+     "v": 4,
+     "text": "When I was in my own country, in the land of Israel, while I was still young, the whole tribe of my ancestor{j} Naphtali broke away from the house of my ancestor David and from Jerusalem, the city chosen out of all the tribes of Israel as the place for all the tribes of Israel to offer sacrifice. There the temple where God dwells had been consecrated, and it was built there for all generations forever."
+    },
+    {
+     "v": 5,
+     "text": "All my kindred and the house of my ancestor Naphtali used to sacrifice to the calf made by Jeroboam king of Israel at Dan,{k} on all the mountains of Galilee."
+    },
+    {
+     "v": 6,
+     "text": "But I alone, again and again, went to Jerusalem for the festivals, as it is written for all Israel in an everlasting decree. I would hurry off to Jerusalem carrying the first fruits and the first yield of the crops, the tenth of the livestock, and the first shearings of the sheep,"
+    },
+    {
+     "v": 7,
+     "text": "and I would hand them to the priests, the sons of Aaron, for the altar. The tenth of the grain, of the wine and olive oil, of the pomegranates and the figs, and of the rest of the fruit of the trees I gave to the sons of Levi who ministered in Jerusalem. The second tenth I converted into silver in each of the six years,{l} and I would go and spend it in Jerusalem year by year."
+    },
+    {
+     "v": 8,
+     "text": "I gave the third tenth{m} to the orphans and the widows and to the converts who had joined themselves to Israel; every third year I brought it in and gave it to them, and we ate it according to the decree set down about it in the law of Moses and with the directions that Deborah,{n} the mother of our ancestor Ananiel, had given, because when my father died he left me fatherless."
+    },
+    {
+     "v": 9,
+     "text": "When I came of age I took a wife from the descendants of our own family, and I fathered a son by her, and I named him Tobias.{o}"
+    },
+    {
+     "v": 10,
+     "text": "After I was carried captive to Assyria, when I was taken as a captive and came to Nineveh, all my kindred and those of my own people were eating the food{p} of the nations,"
+    },
+    {
+     "v": 11,
+     "text": "but I guarded myself{q} and did not eat the food of the nations."
+    },
+    {
+     "v": 12,
+     "text": "Because I was mindful of my God with my whole heart,{r}"
+    },
+    {
+     "v": 13,
+     "text": "the Most High granted me favor and good standing{s} in the presence of Enemessar, and I became his buyer of everything he needed."
+    },
+    {
+     "v": 14,
+     "text": "I used to travel to Media and buy for him from there until he died. While in the land of Media I left bags of silver amounting to about 750 pounds{t} in the keeping of Gabael,{u} the brother of Gabri."
+    },
+    {
+     "v": 15,
+     "text": "But when Enemessar died and his son Sennacherib{v} became king in his place, the roads into Media became unsafe,{w} and I could no longer travel to Media."
+    },
+    {
+     "v": 16,
+     "text": "In the days of Enemessar I did many acts of charity for my kindred, those of my own people."
+    },
+    {
+     "v": 17,
+     "text": "I would give my food to the hungry and clothing to the naked, and if I saw that one of my people had died and had been thrown out behind the wall of Nineveh, I would bury him."
+    },
+    {
+     "v": 18,
+     "text": "I also buried any whom Sennacherib killed when he came back in flight from Judea, in the days of the judgment that the King of heaven carried out on him for the blasphemies he had spoken.{x} For in his anger he put many of the Israelites to death; and I would steal their bodies and bury them, and Sennacherib searched for them but did not find them."
+    },
+    {
+     "v": 19,
+     "text": "Then one of the people of Nineveh went and reported me to the king, saying that it was I who buried them, and I hid myself. When I found out that the king had learned about me and that I was being sought for execution, I was afraid, and I ran away."
+    },
+    {
+     "v": 20,
+     "text": "Everything I owned was seized; nothing at all was left to me that was not carried off to the royal treasury, except my wife Anna{y} and my son Tobias."
+    },
+    {
+     "v": 21,
+     "text": "But before forty days{z} had gone by, two of his sons murdered him and escaped to the mountains of Ararat. And his son Esarhaddon{aa} reigned after him. He appointed Ahikar,{ab} the son of my brother Anael, over the entire accounting of his kingdom, and he held authority over the whole administration."
+    },
+    {
+     "v": 22,
+     "text": "Then Ahikar spoke up for me, and I went back down to Nineveh. Now Ahikar had been chief cupbearer, keeper of the signet ring,{ac} administrator, and treasurer under Sennacherib king of the Assyrians, and Esarhaddon kept him on as second in rank.{ad} He was my nephew{ae} and one of my own relatives."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Tobit: Greek Tōbith; the shorter Greek recension (GI, Codex Vaticanus and Codex Alexandrinus) spells it Tōbit. The name probably represents Hebrew Tobi, “my good,” perhaps short for Tobiyah, “Yahweh is my good”; the Qumran Aramaic copies of Tobit are reported to spell it Tobi. This translation follows the longer Greek recension (GII) of Codex Sinaiticus throughout; footnotes note where the shorter GI differs significantly."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Tobiel: “God is my good.” Ananiel means “God has been gracious”; Aduel and Gabael are of uncertain meaning; Raguel means “friend of God”; Asiel means “God has made.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Raphael: “God heals” (Hebrew rafaʾ, “heal,” plus ʾel, “God”), here an ancestor of Tobit; the same name is borne by the angel who appears in chapter 3. GI lacks “son of Raphael, son of Raguel.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Enemessar: the Greek form of the name of Shalmaneser V, king of Assyria 727–722 B.C. Historically the people of Naphtali were deported by his predecessor Tiglath-pileser III about 733/732 B.C. (2 Kings 15:29); the book’s chronology is not precise."
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "To the right: that is, to the south, for one facing east."
+    },
+    {
+     "m": "f",
+     "ref": "1:2",
+     "text": "Kedesh: Greek Kydiōs, Kedesh in Naphtali (Joshua 20:7). GI lacks “Upper” and the rest of the verse after “Asher.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:2",
+     "text": "Asher: Greek Assēr; many take this to be Hazor (compare 2 Kings 15:29). Phogor, later in the verse, is of uncertain location (perhaps Peor); scholarly review recommended."
+    },
+    {
+     "m": "h",
+     "ref": "1:3",
+     "text": "Acts of charity: Greek eleēmosynai, “acts of mercy, almsgiving,” a key word in Tobit."
+    },
+    {
+     "m": "i",
+     "ref": "1:3",
+     "text": "Kindred: Greek “brothers,” here fellow Israelites, as often in this book."
+    },
+    {
+     "m": "j",
+     "ref": "1:4",
+     "text": "Ancestor: Greek “father,” here and in “my ancestor David.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:5",
+     "text": "The calf that Jeroboam made: see 1 Kings 12:28–30. GI reads “All the tribes that broke away together sacrificed to Baal, the heifer,” and lacks “on all the mountains of Galilee.”"
+    },
+    {
+     "m": "l",
+     "ref": "1:7",
+     "text": "In each of the six years: Greek “for the six years,” of uncertain sense; perhaps the six years of the seven-year cycle other than the sabbatical year. On the second tenth (tithe), eaten in Jerusalem, see Deuteronomy 14:22–26. GI says only that he sold the second tenth. Scholarly review recommended."
+    },
+    {
+     "m": "m",
+     "ref": "1:8",
+     "text": "The third tenth: Greek “it”; compare Deuteronomy 14:28–29 and 26:12. GI reads “the third I gave to those to whom it was due.”"
+    },
+    {
+     "m": "n",
+     "ref": "1:8",
+     "text": "Deborah: “bee.” GI calls her “my father’s mother.” Since Ananiel was Tobit’s grandfather (verse 1), “the mother of our ancestor Ananiel” would make Deborah his great-grandmother."
+    },
+    {
+     "m": "o",
+     "ref": "1:9",
+     "text": "Tobias: from Hebrew Tobiyah, “Yahweh is good.” GI names Tobit’s wife, Anna, here."
+    },
+    {
+     "m": "p",
+     "ref": "1:10",
+     "text": "Food: Greek “breads,” bread standing for food in general, here and in verse 11."
+    },
+    {
+     "m": "q",
+     "ref": "1:11",
+     "text": "Guarded myself: Greek “kept my soul.”"
+    },
+    {
+     "m": "r",
+     "ref": "1:12",
+     "text": "Heart: Greek “soul.” Sinaiticus reads “and when I was mindful”; GI reads “because I remembered God.”"
+    },
+    {
+     "m": "s",
+     "ref": "1:13",
+     "text": "Good standing: Greek morphē, “form, appearance,” here the impression he made."
+    },
+    {
+     "m": "t",
+     "ref": "1:14",
+     "text": "About 750 pounds: Greek “ten talents of silver,” about 340 kilograms; reckoned at about 75 pounds (34 kilograms) to the talent. On the Attic standard a talent was 6,000 drachmas, so ten talents were about 60,000 days’ wages for a laborer, an enormous fortune. GI adds “at Rages in Media.”"
+    },
+    {
+     "m": "u",
+     "ref": "1:14",
+     "text": "Gabael: meaning uncertain; GI spells his brother’s name Gabrias."
+    },
+    {
+     "m": "v",
+     "ref": "1:15",
+     "text": "Sennacherib: king of Assyria 705–681 B.C. He was in fact the son of Sargon II, who followed Shalmaneser V (Enemessar)."
+    },
+    {
+     "m": "w",
+     "ref": "1:15",
+     "text": "Became unsafe: Greek “broke away” (S) or “became unsettled” (GI)."
+    },
+    {
+     "m": "x",
+     "ref": "1:18",
+     "text": "The blasphemies he had spoken: see 2 Kings 18:13–19:37 and Isaiah 36–37."
+    },
+    {
+     "m": "y",
+     "ref": "1:20",
+     "text": "Anna: the Greek form of Hannah, “grace, favor.”"
+    },
+    {
+     "m": "z",
+     "ref": "1:21",
+     "text": "Forty days: GI reads “fifty days.” On the murder of Sennacherib see 2 Kings 19:37."
+    },
+    {
+     "m": "aa",
+     "ref": "1:21",
+     "text": "Esarhaddon: Greek Sacherdonos; king of Assyria 681–669 B.C."
+    },
+    {
+     "m": "ab",
+     "ref": "1:21",
+     "text": "Ahikar: Greek Achicharos (GI Achiacharos), the wise courtier who is the hero of the ancient Story of Ahikar, known from an Aramaic papyrus found at Elephantine in Egypt (fifth century B.C.) and from many later versions. A cuneiform tablet from Uruk is reported to name a scholar of Esarhaddon’s time “whom the Arameans call Ahuqar.” Tobit makes him a kinsman (see also 2:10; 11:18; 14:10). Anael is of uncertain meaning."
+    },
+    {
+     "m": "ac",
+     "ref": "1:22",
+     "text": "Keeper of the signet ring: Greek “over the ring,” the officer responsible for the king’s seal."
+    },
+    {
+     "m": "ad",
+     "ref": "1:22",
+     "text": "Second in rank: or “a second time”; the Greek ek deuteras can mean either. GI calls Ahikar only “the cupbearer” and lacks “under Sennacherib king of the Assyrians.”"
+    },
+    {
+     "m": "ae",
+     "ref": "1:22",
+     "text": "Nephew: Greek exadelphos, usually “cousin,” but here a brother’s son, as in verse 21. GI lacks “and one of my own relatives.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    8,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So in the reign of Esarhaddon I came back to my house, and Anna my wife and Tobias my son were restored to me. On our feast of Pentecost,{a} the holy Feast of Seven Weeks, a fine dinner was made ready for me, and I took my place at the table."
+    },
+    {
+     "v": 2,
+     "text": "The table was set before me, with many delicacies laid out on it, and I said to my son Tobias, “My child, go, and if you find any poor man among our kindred, among the captives from Nineveh,{b} who is mindful of God with his whole heart,{c} bring him, and he will eat together with me. See, child, I will wait for you until you come back.”"
+    },
+    {
+     "v": 3,
+     "text": "So Tobias went to look for some poor man among our kindred. He came back and said, “Father!” And I said to him, “Here I am, my child.” He answered, “Father, look, one of our people has been murdered and thrown out in the marketplace, and he was strangled right there just now.”"
+    },
+    {
+     "v": 4,
+     "text": "I jumped up and left the dinner before I had tasted any of it. I took him up from the square and laid him in one of the outbuildings until the sun went down, so that I could bury him."
+    },
+    {
+     "v": 5,
+     "text": "Then I came back, washed myself, and ate my food in mourning."
+    },
+    {
+     "v": 6,
+     "text": "And I remembered the saying of the prophet, the words Amos had spoken against Bethel:{d} “Your festivals will be turned into mourning, and all your songs into a lament.” And I wept."
+    },
+    {
+     "v": 7,
+     "text": "When the sun had set, I went off, dug a grave, and buried him."
+    },
+    {
+     "v": 8,
+     "text": "My neighbors laughed at me and said, “He is not afraid anymore! He was already hunted to be put to death for this very thing, and he ran away; and look, here he is burying the dead again!”"
+    },
+    {
+     "v": 9,
+     "text": "That same night I bathed, went into my courtyard, and lay down to sleep beside the courtyard wall, with my face uncovered because of the heat.{e}"
+    },
+    {
+     "v": 10,
+     "text": "I did not know that there were sparrows on the wall above me, and their warm droppings settled in my eyes and brought on white films.{f} I went to the physicians to be cured, but the more they smeared their ointments on me, the more my eyes were blinded by the white films, until I lost my sight entirely. For four years I could not see. All my kindred grieved for me, and Ahikar provided for me for two years before he went to Elymais.{g}"
+    },
+    {
+     "v": 11,
+     "text": "At that time my wife Anna took in women’s work for hire.{h}"
+    },
+    {
+     "v": 12,
+     "text": "She would deliver it to the owners, and they would pay her wages. On the seventh day of Dystrus (February–March){i} she cut the woven piece off the loom and delivered it to the owners, and they paid her the full wage and also gave her a young goat from their flock for a meal.{j}"
+    },
+    {
+     "v": 13,
+     "text": "When she came in to me, the young goat began to bleat. I called to her and said, “Where did this young goat come from? It is not stolen, is it? Give it back to its owners, for we have no right to eat anything stolen.”"
+    },
+    {
+     "v": 14,
+     "text": "She told me, “It was handed to me as a present, over and above my wages.” But I did not believe her, and I kept telling her to give it back to the owners, and I flushed with anger at her over it. Then she retorted, “So what of your acts of charity? What of your righteous deeds? Look, all this about you is plain to see!”{k}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Pentecost: Greek pentēkostē, “fiftieth,” the Festival of Weeks, seven weeks after Passover (Leviticus 23:15–21; Deuteronomy 16:9–10), in late spring (May–June)."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "Among the captives from Nineveh: or “among the Ninevite captives.” GI is much shorter in verses 2–5."
+    },
+    {
+     "m": "c",
+     "ref": "2:2",
+     "text": "Mindful of God with his whole heart: Greek “who remembers with his whole heart”; GI reads “who is mindful of the Lord.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:6",
+     "text": "Amos … against Bethel: Amos 8:10. Bethel means “house of God.” GI reads “I remembered the prophecy of Amos” and has “all your merrymaking” for “all your songs.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:9",
+     "text": "Because of the heat: GI instead says that, having buried him, he lay down “defiled” (compare Numbers 19:11–13) by the courtyard wall, with his face uncovered."
+    },
+    {
+     "m": "f",
+     "ref": "2:10",
+     "text": "White films: Greek leukōmata, white opacities over the eyes, apparently a form of corneal scarring. GI is shorter: “the physicians did not help me,” and lacks the four years and the two years."
+    },
+    {
+     "m": "g",
+     "ref": "2:10",
+     "text": "Elymais: the region of ancient Elam, east of Babylonia."
+    },
+    {
+     "m": "h",
+     "ref": "2:11",
+     "text": "Took in women’s work for hire: Greek ēritheueto, “worked for wages,” probably at spinning and weaving."
+    },
+    {
+     "m": "i",
+     "ref": "2:12",
+     "text": "Seventh day of Dystrus: Dystrus was a month of the Macedonian calendar, corresponding roughly to the Jewish month Adar (February–March). Sinaiticus alone gives the date and the details of the loom."
+    },
+    {
+     "m": "j",
+     "ref": "2:12",
+     "text": "For a meal: Greek “for the hearth,” of uncertain sense; perhaps “for a festive meal.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:14",
+     "text": "These things are well known about you: or “See, everything about you is known!” The sense of Anna’s retort is debated; she may mean that everyone now sees how his good deeds have turned out. GI reads “Look, everything about you is known.” Scholarly review recommended."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    7,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then, sick at heart{a} and groaning, I wept, and with groans I began to pray:"
+    },
+    {
+     "v": 2,
+     "text": "“You are righteous, O Lord,{b} and all your deeds are righteous, and all your ways are mercy and truth; you are the judge of the world.{c}"
+    },
+    {
+     "v": 3,
+     "text": "And now, O Lord, remember me and look on me. Do not punish me for my sins and for my unintentional errors, or for those of my ancestors, who sinned before you"
+    },
+    {
+     "v": 4,
+     "text": "and disobeyed your commandments. You handed us over to plunder, to captivity, and to death, and made us a byword, a thing for gossip, and an object of scorn among all the nations among whom you have scattered us."
+    },
+    {
+     "v": 5,
+     "text": "And now your many judgments are true in dealing with me for my sins, because we have not kept your commandments and have not walked in truth before you."
+    },
+    {
+     "v": 6,
+     "text": "So now deal with me as it pleases you, and command my spirit to be taken from me, so that I may be released from the face of the earth and turn to dust.{d} Death is more profitable to me than life, since I have had to hear false reproaches, and great grief is with me. Lord, give the command that I be released from this distress; release me to the everlasting place, and do not turn your face away from me, O Lord. Death is more profitable to me than to see great distress in my life and to listen to insults.”"
+    },
+    {
+     "v": 7,
+     "text": "That same day it happened that Sarah,{e} the daughter of Raguel who lived in Ecbatana{f} in Media, also heard insults, from one of her father’s maidservants."
+    },
+    {
+     "v": 8,
+     "text": "For she had been given in marriage to seven husbands, and Asmodeus,{g} the evil demon, had killed each of them before he could lie with her as is customary with wives. And the maid said to her, “You are the one who kills your husbands! See, you have already been given away to seven husbands, and you have not borne the name of a single one of them.{h}"
+    },
+    {
+     "v": 9,
+     "text": "Why are you lashing out at us? Because your husbands are dead? Go and join them! May we never see a son or a daughter of yours!”"
+    },
+    {
+     "v": 10,
+     "text": "That day she was grieved to the depths of her soul, and she wept. She went up to her father’s upper room and meant to hang herself. But she thought it over again and said, “No; they might taunt my father and say to him, ‘You had one beloved daughter, and she hanged herself because of her misery.’ Then I would bring my father in his old age down in sorrow to Hades.{i} It is more fitting for me not to hang myself, but to beg the Lord that I may die, so that I no longer have to listen to insults while I live.”"
+    },
+    {
+     "v": 11,
+     "text": "At that very time, spreading out her hands toward the window, she prayed and said, “Blessed are you, merciful God, and blessed is your name forever; may all your works bless you forever."
+    },
+    {
+     "v": 12,
+     "text": "And now I have lifted my face and my eyes to you."
+    },
+    {
+     "v": 13,
+     "text": "Give the word that I be released from the earth, so that I no longer have to hear insults."
+    },
+    {
+     "v": 14,
+     "text": "You know, Master, that I am pure of any defilement with a man,"
+    },
+    {
+     "v": 15,
+     "text": "and I have not stained my name or my father’s name in the land of my captivity. I am my father’s only child; he has no other child to be his heir, and he has no close kinsman or relative for whom I should keep myself as a wife.{j} Seven husbands of mine are already dead; why then should I live any longer? But if it does not please you to put me to death, then, Lord, listen now to the insults I suffer.”{k}"
+    },
+    {
+     "v": 16,
+     "text": "At that very time the prayers of both of them were heard in the presence of the glory of God.{l}"
+    },
+    {
+     "v": 17,
+     "text": "And Raphael was sent to heal the two of them: to strip the white films from Tobit’s eyes, so that with his own eyes he might see God’s light; and to give Sarah, Raguel’s daughter, as wife to Tobias son of Tobit, and to set her free from Asmodeus the evil demon,{m} because Tobias had the right to marry her before all others who wanted to take her. At that same moment Tobit came back from the courtyard into his house, and Sarah daughter of Raguel came down from the upper room."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Sick at heart: Greek “grieved in soul.” GI reads “And in grief I wept and prayed in anguish, saying.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "Lord: Greek kyrios, which in the Greek scriptures regularly stands for the divine name YHWH of the Hebrew text. Since Tobit survives complete only in Greek (and its Semitic original only in fragments), this translation renders kyrios as “Lord” throughout. Scholarly review recommended."
+    },
+    {
+     "m": "c",
+     "ref": "3:2",
+     "text": "You are the judge of the world: or “you judge forever.” GI reads “and you render true and righteous judgment forever.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:6",
+     "text": "Turn to dust: Greek “become earth.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:7",
+     "text": "Sarah: Hebrew Sarah, “princess.” Greek Sarra."
+    },
+    {
+     "m": "f",
+     "ref": "3:7",
+     "text": "Ecbatana: the capital of Media (modern Hamadan in Iran)."
+    },
+    {
+     "m": "g",
+     "ref": "3:8",
+     "text": "Asmodeus: Greek Asmodaios (GI Asmodaus), probably from Avestan aēshma-daēva, “demon of wrath,” the demon of fury in Persian tradition; some instead derive it from Hebrew shamad, “destroy.” In later Jewish tradition he appears as Ashmedai, king of the demons."
+    },
+    {
+     "m": "h",
+     "ref": "3:8",
+     "text": "You have not borne the name of a single one of them: Greek ouk ōnomasthēs, “you have not been named for one of them,” that is, none has lived to give you his name and a family. GI reads ouk ōnasthēs, “you have not had the benefit of one of them.”"
+    },
+    {
+     "m": "i",
+     "ref": "3:10",
+     "text": "Hades: the Greek name for the realm of the dead, corresponding to Hebrew Sheol."
+    },
+    {
+     "m": "j",
+     "ref": "3:15",
+     "text": "For whom I should keep myself as a wife: marriage within the clan was expected; see 4:12–13 and Numbers 36:6–9. GI reads “no close kinsman nor any son of his.”"
+    },
+    {
+     "m": "k",
+     "ref": "3:15",
+     "text": "Listen now to the insults I suffer: Greek “hear my reproach.” GI reads “command that I be looked on with pity, and that I no longer hear reproach.”"
+    },
+    {
+     "m": "l",
+     "ref": "3:16",
+     "text": "The glory of God: GI reads “the glory of the great Raphael.”"
+    },
+    {
+     "m": "m",
+     "ref": "3:17",
+     "text": "Set her free from Asmodeus the evil demon: GI reads “to bind Asmodeus the evil demon” (compare 8:3)."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5,
+    12,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "That day Tobit called to mind the silver he had deposited with Gabael at Rages{a} in Media,"
+    },
+    {
+     "v": 2,
+     "text": "and he said to himself, “Look, I have asked for death. Why not call my son Tobias and explain to him about this silver before I die?”"
+    },
+    {
+     "v": 3,
+     "text": "So he summoned Tobias his son, and when the boy came, he told him, “Bury me properly. Show honor to your mother; do not forsake her for the rest of her days. Do whatever pleases her, and never cause her spirit grief in any matter."
+    },
+    {
+     "v": 4,
+     "text": "Remember her, my child, for she went through many dangers on your account while she carried you in her womb. And when she dies, lay her beside me in the same grave."
+    },
+    {
+     "v": 5,
+     "text": "“Every day you live, my child, keep the Lord in mind, and do not choose to sin or to break his commandments. Practice righteousness throughout your life, and never walk in the paths of wrongdoing,"
+    },
+    {
+     "v": 6,
+     "text": "for those who act faithfully will prosper in what they do."
+    },
+    {
+     "v": 7,
+     "text": "To all who practice righteousness{b} give acts of charity out of what you possess, and do not let your eye be grudging when you give charity. Do not turn your face away from any poor person, and the face of God will not be turned away from you."
+    },
+    {
+     "v": 8,
+     "text": "Give charity in proportion to what you have: if you have much, give from your abundance; if you have little, do not be afraid to give charity even from that little."
+    },
+    {
+     "v": 9,
+     "text": "For in this way you store up a good treasure for yourself against the day of need,"
+    },
+    {
+     "v": 10,
+     "text": "because charity rescues from death and keeps one from going into the darkness."
+    },
+    {
+     "v": 11,
+     "text": "Indeed, for all who practice it, charity is a worthy offering in the sight of the Most High."
+    },
+    {
+     "v": 12,
+     "text": "“Guard yourself, my child, against all sexual immorality. Above all, marry a woman of your ancestors’ stock; do not take a foreign wife, one who is not from your father’s tribe, for we are the sons of prophets. Remember, my child, that Noah, Abraham, Isaac, and Jacob, our forefathers from the beginning, each married a woman of his own kin, and they were blessed in their children, and their offspring will possess the land."
+    },
+    {
+     "v": 13,
+     "text": "So now, my child, love your kindred, and do not be too proud at heart to take a wife for yourself from among your kindred, the sons and daughters of your people. For in pride there is ruin and great disorder, and in idleness there is loss and dire want, for idleness is the mother of famine."
+    },
+    {
+     "v": 14,
+     "text": "Do not keep back overnight the wages of anyone who works for you, but pay him at once. If you serve God, you will be repaid. Watch yourself, my child, in everything you do, and be disciplined in all your conduct."
+    },
+    {
+     "v": 15,
+     "text": "And whatever you hate, do it to no one. Drink no wine to the point of drunkenness, and do not let drunkenness travel along with you on your way."
+    },
+    {
+     "v": 16,
+     "text": "Share your food with the hungry and your clothing with those who have none. Whatever you have in excess, give as charity, and do not let your eye be grudging when you give charity."
+    },
+    {
+     "v": 17,
+     "text": "Pour out your bread on the tomb of the righteous,{c} but give nothing to sinners."
+    },
+    {
+     "v": 18,
+     "text": "Seek advice from every sensible person, and do not scorn any useful counsel."
+    },
+    {
+     "v": 19,
+     "text": "Bless the Lord God at every season, and pray to him to make your ways straight and to bring success to all your paths and purposes. For wisdom does not belong to any nation;{d} it is the Lord who will give them good counsel. But whomever the Lord wishes, he brings low, even to the lowest depths of Hades. So now, my child, keep these commandments in memory, and let them never be wiped from your heart."
+    },
+    {
+     "v": 20,
+     "text": "“And now, my child, I am making known to you that I left about 750 pounds of silver{e} in trust with Gabael son of Gabri at Rages in Media."
+    },
+    {
+     "v": 21,
+     "text": "Do not be afraid, my child, that we have fallen into poverty. Great riches are yours if you fear God, run from every sin, and do what is good before the Lord your God.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Rages: a city of Media, near modern Tehran (ancient Rhagae, modern Rey)."
+    },
+    {
+     "m": "b",
+     "ref": "4:7",
+     "text": "To all who practice righteousness: at this point Sinaiticus passes directly from these words (verse 7) to “the Lord will give them good counsel” (verse 19), apparently through a scribe’s accidental omission. The remainder of verse 7, verses 8–18, and the first part of verse 19 (through “does not belong to any nation”) are translated from GI (Vaticanus and Alexandrinus). Fragments of this section are reported to survive among the Qumran copies (4Q200). Scholarly review recommended."
+    },
+    {
+     "m": "c",
+     "ref": "4:17",
+     "text": "Pour out your bread on the tomb of the righteous: probably a reference to providing food for the mourners at the funeral of the righteous (compare Jeremiah 16:7); the sense is debated."
+    },
+    {
+     "m": "d",
+     "ref": "4:19",
+     "text": "Wisdom does not belong to any nation: Greek “every nation does not have counsel,” translated from GI. GI then reads “but the Lord himself gives all good things, and whomever he wishes he humbles, as he pleases.” The rest of the verse follows Sinaiticus."
+    },
+    {
+     "m": "e",
+     "ref": "4:20",
+     "text": "About 750 pounds of silver: Greek “ten talents of silver,” about 340 kilograms; see the note on 1:14."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    4,
+    9,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Tobias answered his father Tobit, “Father, I will do everything you have commanded me."
+    },
+    {
+     "v": 2,
+     "text": "But how can I recover it from him, seeing that the man has never met me and I have never met him? What token shall I show him, so that he knows who I am and believes me and pays out the silver? Besides, the roads into Media are unknown to me; how am I to get there?”"
+    },
+    {
+     "v": 3,
+     "text": "Tobit replied to Tobias his son, “He gave me his signature on a bond, and I gave him mine; I tore it in two, and each of us kept a half, and I put my half with the silver.{a} And now twenty years have gone by since I left this silver in his care. So now, my child, look for a dependable man to accompany you, and we will pay him wages till you come home; then fetch this silver from him.”"
+    },
+    {
+     "v": 4,
+     "text": "Tobias went out, then, in search of someone to make the journey to Media with him, a man acquainted with the road. And going out he found Raphael the angel standing right before him, though he had no idea that this was an angel of God."
+    },
+    {
+     "v": 5,
+     "text": "Tobias said to him, “Where are you from, young man?” He replied, “From the Israelites, your kindred, and I have come here to look for work.” Tobias said to him, “Do you know the road that goes to Media?”"
+    },
+    {
+     "v": 6,
+     "text": "He answered, “Yes; I have been there many times, I am familiar with it, and I know all the routes. I have gone to Media often, and I used to lodge with Gabael our kinsman, who lives at Rages in Media. From Ecbatana to Rages is a regular two days’ journey,{b} since Rages lies in the mountains.”"
+    },
+    {
+     "v": 7,
+     "text": "Tobias said, “Stay here for me, young man, while I go inside and let my father know, because I need you to come with me on the road, and I will see that you are paid.”"
+    },
+    {
+     "v": 8,
+     "text": "He said to him, “Very well, I will stay here; only do not be long.”"
+    },
+    {
+     "v": 9,
+     "text": "So Tobias went in and told his father Tobit, “Listen, I have found a man from among our kindred, the Israelites.” Tobit said to him, “Call the man in to me, so that I may learn what his family is and what tribe he is from, and whether he is reliable enough to go with you, my child.”"
+    },
+    {
+     "v": 10,
+     "text": "So Tobias went out and called him: “Young man, my father wants you.” He went in, and Tobit was the first to greet him. The young man said to him, “I wish you much joy!” But Tobit answered him, “What joy is left to me anymore? I am a man whose eyes have failed; the light of the sky is hidden from me, and I lie in the dark like the dead, who never again behold the light. I live, yet I dwell among the dead. I hear human voices, yet I cannot see the speakers.” The young man said to him, “Take courage; God will soon heal you. Take courage.” Then Tobit told him, “Tobias, my son, wishes to travel to Media. Can you go with him and guide him? I will pay what you are owed, brother.” He replied, “I am able to go with him; every road is known to me. Many times I have made the trip to Media and have crossed all its plains and its mountains; I know every road there.”"
+    },
+    {
+     "v": 11,
+     "text": "Then Tobit said to him, “Brother, what family are you from, and from what tribe? Tell me, brother.”"
+    },
+    {
+     "v": 12,
+     "text": "He said, “What need do you have of a tribe?” Tobit said to him, “I want to know truly whose son you are, brother, and what your name is.”"
+    },
+    {
+     "v": 13,
+     "text": "He answered, “I am Azariah,{c} son of Hananiah the great, from among your kindred.”"
+    },
+    {
+     "v": 14,
+     "text": "Then Tobit said to him, “Welcome, and may you be safe and well, brother! Do not take it amiss, brother, that I wished to learn the truth of your lineage. As it happens, you are a kinsman, and from a fine and worthy family. Hananiah and Nathan, the two sons of Shemeliah{d} the great, were known to me; they would make the pilgrimage to Jerusalem with me and bow in worship beside me there, and they never strayed. Good men, your kindred! Good is the root you spring from. Welcome!”"
+    },
+    {
+     "v": 15,
+     "text": "Then he said to him, “I will pay you a wage of a drachma{e} a day, and your expenses, as I do for my son."
+    },
+    {
+     "v": 16,
+     "text": "Go along with my son, and I will add still more to your pay.”"
+    },
+    {
+     "v": 17,
+     "text": "He replied, “I will go with him; have no fear. We will leave in good health and come back to you in good health, for the road is safe.” Tobit said to him, “Blessings on you, brother!” Next he summoned his son and told him, “My child, make ready what the road requires and set off with your kinsman. May the God who is in heaven keep you safe there and bring you home to me unharmed, and may his angel travel at your side to protect you, my child.” So Tobias went out to begin his journey; he kissed his father and mother, and Tobit said to him, “Go in good health.”{f}"
+    },
+    {
+     "v": 18,
+     "text": "At this his mother burst into tears and said to Tobit, “Why did you send my boy away? Is he not the staff we lean on, coming and going in our sight?"
+    },
+    {
+     "v": 19,
+     "text": "Do not let money be added to money;{g} let it rather be counted as nothing beside our child."
+    },
+    {
+     "v": 20,
+     "text": "The life the Lord has granted us is enough for us.”"
+    },
+    {
+     "v": 21,
+     "text": "But he said to her, “Do not worry. Our child will go in good health and return to us in good health. On the day he comes back to you unharmed, you will see him with your own eyes."
+    },
+    {
+     "v": 22,
+     "text": "Do not worry; have no fear for them, my sister.{h} A good angel will keep him company; he will have a prosperous journey and will return unharmed.”"
+    },
+    {
+     "v": 23,
+     "text": "And she stopped weeping."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:3",
+     "text": "He gave me his signature … with the silver: the deposit was secured by a written bond, signed by both parties and cut in two so that the halves could later be matched. GI is much shorter in verses 2–3."
+    },
+    {
+     "m": "b",
+     "ref": "5:6",
+     "text": "Two days from Ecbatana to Rages: in fact the distance from Ecbatana (Hamadan) to Rages (near Tehran) is about 185 miles (300 kilometers), and Ecbatana, not Rages, lies on the higher ground; the book’s geography is not exact."
+    },
+    {
+     "m": "c",
+     "ref": "5:13",
+     "text": "Azariah: “Yahweh has helped.” Hananiah means “Yahweh has been gracious.” Greek Azarias son of Ananias. The angel takes a fitting name, since he has come to help (compare 12:15)."
+    },
+    {
+     "m": "d",
+     "ref": "5:14",
+     "text": "Shemeliah: Greek Semelios, perhaps for Hebrew Shemaiah (“Yahweh has heard”); GI reads Semeias, and Jathan for Nathan (“he has given”)."
+    },
+    {
+     "m": "e",
+     "ref": "5:15",
+     "text": "A drachma: a Greek silver coin of about 4.3 grams (0.15 ounce), the usual daily wage of a laborer in the Hellenistic period. In modern terms, one drachma was roughly a day’s pay for an unskilled worker; its silver content alone would be worth only a few dollars today. GI has Tobit ask “what wage shall I pay you?” before naming the drachma."
+    },
+    {
+     "m": "f",
+     "ref": "5:17",
+     "text": "Go in good health: GI is much shorter in this verse and adds, “and the young man’s dog went along with them.” Sinaiticus mentions the dog at 6:1."
+    },
+    {
+     "m": "g",
+     "ref": "5:19",
+     "text": "Do not let money be added to money: the Greek is obscure; literally “may silver not reach silver (or ‘come first before silver’), but let it be the offscouring of our child,” that is, may the money be counted as worthless compared with our son. GI has the same wording."
+    },
+    {
+     "m": "h",
+     "ref": "5:22",
+     "text": "My sister: a term of affection for his wife (compare 7:15; 8:4, 7)."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    6,
+    10,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So the lad left home with the angel beside him, and the dog left with him too{a} and followed after them. The pair traveled on until night fell for the first time, and they halted for the night by the river Tigris."
+    },
+    {
+     "v": 2,
+     "text": "The young man went down to the Tigris to wash his feet, and a great fish sprang from the water, eager to gulp down the boy’s foot, and he shouted."
+    },
+    {
+     "v": 3,
+     "text": "But the angel told the young man, “Seize it! Get a firm hold on the fish!” So the young man overpowered the fish and hauled it up onto the bank."
+    },
+    {
+     "v": 4,
+     "text": "Then the angel said to him, “Slit the fish open and take out its gall, its heart, and its liver, and keep them by you, but throw the entrails away. For the gall, the heart, and the liver are useful as medicine.”"
+    },
+    {
+     "v": 5,
+     "text": "The young man cut the fish open and gathered up the gall, the heart, and the liver. He roasted part of the fish and ate it, and he salted the rest and kept it."
+    },
+    {
+     "v": 6,
+     "text": "Then the two of them traveled on together until they drew near to Media."
+    },
+    {
+     "v": 7,
+     "text": "And then the young man put a question to the angel: “Brother Azariah, what is the medicine in the heart and the liver of the fish, and in its gall?”"
+    },
+    {
+     "v": 8,
+     "text": "He told him, “As for the heart and the liver of the fish, burn them so that their smoke rises before any man or woman who suffers an assault from a demon or an evil spirit, and every such assault will flee from that person, and they will never stay with him again."
+    },
+    {
+     "v": 9,
+     "text": "And as for the gall, use it to anoint the eyes of a person on whose eyes white films have formed; blow on the films, on the eyes themselves, and they become well.”"
+    },
+    {
+     "v": 10,
+     "text": "When he had entered Media and was already approaching Ecbatana,{b}"
+    },
+    {
+     "v": 11,
+     "text": "Raphael said to the young man, “Brother Tobias!” He answered, “Here I am.” Raphael told him, “Tonight we must lodge at the home of Raguel. The man is your relative, and he has a daughter named Sarah."
+    },
+    {
+     "v": 12,
+     "text": "He has no male heir and no other daughter besides Sarah alone, and you, more than anyone else, are her nearest kinsman with the right to marry her.{c} The right to inherit her father’s possessions also falls justly to you. The girl is sensible, courageous, and very beautiful, and her father is a good man.”"
+    },
+    {
+     "v": 13,
+     "text": "And he went on, “You have the right to take her. Hear me, then, brother: this night I will talk with her father concerning the girl, to secure her as a bride for you; and once we are back from Rages we will hold her wedding. I am certain that Raguel cannot in any way withhold her from you or pledge her to someone else; he would incur the penalty of death under the ruling of the book of Moses,{d} because he knows that the right of inheritance gives you, above every other man, the claim to take his daughter. Hear me now, brother: this night we will talk about the girl and arrange your betrothal to her, and on our return from Rages we will receive her and lead her home with us to your house.”"
+    },
+    {
+     "v": 14,
+     "text": "Then Tobias answered Raphael, “Brother Azariah, I am told she has been married seven times over, and each of those husbands perished in the bridal room; the very night he went in to her, he died. People say, I have heard, that some demon was their killer."
+    },
+    {
+     "v": 15,
+     "text": "So now I am afraid. It does her no harm, but anyone who tries to come near her, it kills. I am my father’s only son. I fear I will die and bring my father’s and my mother’s life down to their grave in sorrow over me; and they have no other son to bury them.”"
+    },
+    {
+     "v": 16,
+     "text": "But Raphael said to him, “Have you forgotten the instructions of your father, who charged you to marry a woman from your father’s house? So now listen to me, brother: pay no attention to this demon, but take her. I know that before this night is over she will become your wife."
+    },
+    {
+     "v": 17,
+     "text": "Once you enter the bridal room, take a portion of the liver of the fish, along with the heart, and set them on the embers of the incense. The odor will spread; the demon will catch the smell and run away, and it will never again be seen near her for all time."
+    },
+    {
+     "v": 18,
+     "text": "And before you are to be united with her, both of you must first rise and pray, and implore the Lord of heaven to grant you mercy and deliverance. Have no fear; she was destined for you from eternity. It is you who will rescue her, and she will go away with you; I expect, too, that she will bear you children, who will be as dear to you as brothers. Do not worry.”"
+    },
+    {
+     "v": 19,
+     "text": "When Tobias heard Raphael’s words, and learned that she was his kinswoman,{e} of the lineage of his father’s house, he loved her deeply, and his heart clung to her."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "The dog came out with him: Sinaiticus mentions the dog only here and at 11:4; GI places it at 5:16. Dogs are seldom viewed favorably in the Bible, and the detail is unusual."
+    },
+    {
+     "m": "b",
+     "ref": "6:10",
+     "text": "Approaching Ecbatana: GI reads “as they came near to Rages,” evidently in error, since Raguel lived at Ecbatana (3:7)."
+    },
+    {
+     "m": "c",
+     "ref": "6:12",
+     "text": "Nearest kinsman with the right to marry her: Greek “nearest to her to inherit her.” Compare the laws on heiresses marrying within their father’s tribe (Numbers 27:1–11; 36:1–12)."
+    },
+    {
+     "m": "d",
+     "ref": "6:13",
+     "text": "The penalty of death under the ruling of the book of Moses: no such penalty appears in the law of Moses; the statement may reflect a later interpretation, and its basis is uncertain. Scholarly review recommended."
+    },
+    {
+     "m": "e",
+     "ref": "6:19",
+     "text": "Kinswoman: Greek “sister,” here a relative of his own clan. GI reads simply “when Tobias heard these things, he loved her.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    9,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When he reached Ecbatana, he said to him, “Brother Azariah, take me straight to our kinsman Raguel.” So he brought him to Raguel’s house, and they found the man seated beside the gate of the courtyard. They were the first to greet him, and he answered them, “Joy and greetings to you, brothers! You are welcome here, and safe and sound.” And he led them into his house."
+    },
+    {
+     "v": 2,
+     "text": "He said to Edna{a} his wife, “How much this young fellow looks like my kinsman Tobit!”"
+    },
+    {
+     "v": 3,
+     "text": "Edna questioned them: “Where do you come from, brothers?” They told her, “We belong to the descendants of Naphtali, who were taken captive to Nineveh.”"
+    },
+    {
+     "v": 4,
+     "text": "She asked them, “Do you know our kinsman Tobit?” They said to her, “We do know him.”"
+    },
+    {
+     "v": 5,
+     "text": "She asked them, “Is he well?” They replied, “He is alive and well.” And Tobias added, “He is my father.”"
+    },
+    {
+     "v": 6,
+     "text": "At that Raguel leaped to his feet, kissed him, and wept. Then he spoke to him: “A blessing on you, my boy, son of a fine and noble father! Oh, what a wretched misfortune, that a man so righteous, so generous in charity, should have gone blind!” And he threw his arms around the neck of his kinsman Tobias and wept."
+    },
+    {
+     "v": 7,
+     "text": "Edna his wife wept for Tobit, and Sarah their daughter wept as well."
+    },
+    {
+     "v": 8,
+     "text": "Raguel then killed a ram from his sheep and received them with eager hospitality."
+    },
+    {
+     "v": 9,
+     "text": "After they had bathed and washed and reclined to dine, Tobias said to Raphael, “Brother Azariah, speak to Raguel, so that he will give me Sarah my kinswoman.”"
+    },
+    {
+     "v": 10,
+     "text": "Raguel overheard the words and said to the young man, “Eat and drink and enjoy yourself tonight. For there is no man except you, brother, who has the right to take my daughter Sarah; and likewise I have no authority to give her to anyone but you, since you are my nearest relative. But I must tell you the truth plainly, my boy."
+    },
+    {
+     "v": 11,
+     "text": "Seven men of our kindred have received her from me in marriage, and each died the night he went in to her. But now, my boy, eat and drink; the Lord will deal kindly with you both.”"
+    },
+    {
+     "v": 12,
+     "text": "But Tobias said, “I will eat nothing here, and drink nothing, until you settle my affair.” Raguel said to him, “I will. She is yours by the ruling of the book of Moses, and heaven itself has decreed that she is to be yours. Receive your kinswoman. You are her brother from this moment, and she is your sister.{b} From today and for all time she belongs to you. My child, may the Lord of heaven grant you success this night, and may he show you mercy and peace.”"
+    },
+    {
+     "v": 13,
+     "text": "Then Raguel called for Sarah his daughter. She came, and taking her hand, he gave her over to Tobias with the words, “Receive her, in keeping with the law and with the ruling recorded in the book of Moses that grants her to you as a wife. Keep her, and bring her home unharmed to your father; the God of heaven grant you a prosperous journey in peace.”"
+    },
+    {
+     "v": 14,
+     "text": "Then he called her mother and told her to bring a scroll, and he drew up a written marriage contract,{c} recording that he was giving her to him as wife according to the ruling of the law of Moses. After that they began to eat and drink."
+    },
+    {
+     "v": 15,
+     "text": "Raguel called his wife Edna and told her, “My sister, get the second bedroom ready, and bring her into it.”"
+    },
+    {
+     "v": 16,
+     "text": "She went and spread the bed in that room, just as he had said, and led Sarah in. She wept over her; then, wiping away her tears, she said to her,"
+    },
+    {
+     "v": 17,
+     "text": "“Courage, daughter! The Lord of heaven grant you gladness instead of grief. Courage, daughter!” And she went out."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:2",
+     "text": "Edna: from Hebrew ʿednah, “pleasure, delight.”"
+    },
+    {
+     "m": "b",
+     "ref": "7:12",
+     "text": "Her brother … your sister: terms of endearment used of husband and wife (compare Song of Songs 4:9–10), here also implying kinship."
+    },
+    {
+     "m": "c",
+     "ref": "7:14",
+     "text": "Marriage contract: Greek “a written record of cohabitation”; this is among the earliest references in Jewish literature to a written marriage contract (compare the later ketubbah). GI adds that “they set their seals to it.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    10,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Once the eating and drinking were over, they were ready to go to bed; so they led the young man away and took him into the bridal room."
+    },
+    {
+     "v": 2,
+     "text": "Tobias called to mind what Raphael had said. Taking the liver and the heart of the fish from the bag he carried, he laid them on the embers of the incense."
+    },
+    {
+     "v": 3,
+     "text": "The smell of the fish held the demon back,{a} and it fled off to the regions of upper Egypt.{b} Raphael went after it, and there he bound it hand and foot and fettered it at once."
+    },
+    {
+     "v": 4,
+     "text": "The others went out and shut the door of the bedroom. Then Tobias got up from the bed and said to her, “Get up, my sister; let us pray and ask our Lord to show us mercy and grant us deliverance.”"
+    },
+    {
+     "v": 5,
+     "text": "She rose, and the two of them started praying, pleading that they might be kept safe. He began with these words: “You are blessed, God of our fathers, and your name is blessed through all the ages to come! Let the heavens and your whole creation bless you through all the ages."
+    },
+    {
+     "v": 6,
+     "text": "It was you who made Adam, and you made Eve his wife to be his helper and support; the two of them are the source of all humankind. You declared, ‘It is not good that the man should be by himself; let us make a helper for him who corresponds to him.’{c}"
+    },
+    {
+     "v": 7,
+     "text": "And now, it is not out of lust{d} that I am taking this kinswoman of mine, but in sincerity. Command that mercy be shown to her and to me, and that we may grow old side by side.”"
+    },
+    {
+     "v": 8,
+     "text": "And together they said, “Amen, amen.”"
+    },
+    {
+     "v": 9,
+     "text": "Then they slept through the night."
+    },
+    {
+     "v": 10,
+     "text": "But Raguel rose and called his servants to him, and they went out and dug a grave, for he said, “He may die, and then we would become a laughingstock and a byword.”"
+    },
+    {
+     "v": 11,
+     "text": "Once the grave was dug, Raguel returned to the house and summoned his wife,"
+    },
+    {
+     "v": 12,
+     "text": "saying, “Send one of the maids to go in and see whether he is alive. If he is dead, we can bury him without anyone knowing.”"
+    },
+    {
+     "v": 13,
+     "text": "So they sent the maid, lit the lamp, and opened the door. She went in and found the two of them sound asleep together."
+    },
+    {
+     "v": 14,
+     "text": "The maid came out and told them that he was alive and that nothing bad had happened."
+    },
+    {
+     "v": 15,
+     "text": "Then they blessed the God of heaven and said, “Blessed are you, O God, with every pure blessing; let them bless you through all the ages."
+    },
+    {
+     "v": 16,
+     "text": "Blessed are you, because you have made me glad; what I feared has not come to pass, but you have dealt with us according to your great mercy."
+    },
+    {
+     "v": 17,
+     "text": "Blessed are you, because you have had mercy on two only children. Show them mercy, Master, and deliverance; bring their lives to completion in gladness and mercy.”"
+    },
+    {
+     "v": 18,
+     "text": "After that he told his servants to shovel the earth back into the grave before dawn came."
+    },
+    {
+     "v": 19,
+     "text": "He told his wife to bake a great many loaves; and going out to the herd, he brought back two oxen and four rams and ordered them slaughtered, and they began to prepare the feast."
+    },
+    {
+     "v": 20,
+     "text": "Then he called Tobias and said to him, “For fourteen days you are not to stir from here. Stay right here, eating and drinking with me, and cheer the heart of my daughter, who has suffered so much."
+    },
+    {
+     "v": 21,
+     "text": "Take half of all I own here and now, and return to your father unharmed; the remaining half is yours when my wife and I are dead. Be of good heart, my child! From now on I am a father to you, and Edna a mother; we are yours, and your sister’s,{e} from now and forever. Be of good heart, my child!”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:3",
+     "text": "Held the demon back: or “checked” or “repelled”; the Greek verb is unusual here. GI reads “When the demon smelled the odor.”"
+    },
+    {
+     "m": "b",
+     "ref": "8:3",
+     "text": "Upper Egypt: Egypt was traditionally regarded as a home of magic and of demons. GI reads “the remotest parts of Egypt, and the angel bound him.”"
+    },
+    {
+     "m": "c",
+     "ref": "8:6",
+     "text": "It is not good for the man to be alone: Genesis 2:18."
+    },
+    {
+     "m": "d",
+     "ref": "8:7",
+     "text": "Lust: Greek porneia, “sexual immorality,” here desire without regard to God’s law."
+    },
+    {
+     "m": "e",
+     "ref": "8:21",
+     "text": "Your sister: that is, Sarah, his wife."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Tobias called Raphael and said to him,"
+    },
+    {
+     "v": 2,
+     "text": "“Brother Azariah, take along four of the servants and a pair of camels and go to Rages. Visit Gabael, hand him the bond, collect the silver, and bring him back with you to the wedding celebration."
+    },
+    {
+     "v": 3,
+     "text": "You are aware that my father must be reckoning the days, and should I be one day overdue, I would grieve him sorely;{a}"
+    },
+    {
+     "v": 4,
+     "text": "and you see what Raguel has sworn, and I cannot break his oath.”"
+    },
+    {
+     "v": 5,
+     "text": "So Raphael, with the four servants and the two camels, made the journey to Rages in Media, and they lodged with Gabael. Raphael gave him his bond and explained to him that Tobias son of Tobit had taken a wife and was inviting him to the wedding celebration. Gabael rose and counted out the bags to him, their seals intact, and they loaded them together."
+    },
+    {
+     "v": 6,
+     "text": "Early in the morning they all set out together and came to the wedding feast. Entering Raguel’s home, they found Tobias at table. He leaped up and embraced Gabael, and Gabael burst into tears and blessed him, saying, “Good and noble son of a good and noble man, righteous and generous in charity! May the Lord grant heaven’s blessing to you and your wife, to your father, and to your wife’s mother. Blessed be God, for I have seen my cousin Tobit’s very likeness!”{b}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:3",
+     "text": "Distress: Sinaiticus runs verses 3 and 4 together (Rahlfs prints them as “3–4”); they are divided here according to the usual numbering. GI lacks both verses, and in verse 2 has “take a servant” rather than four."
+    },
+    {
+     "m": "b",
+     "ref": "9:6",
+     "text": "My cousin Tobit’s very likeness: Greek “Tobit my cousin, like him,” meaning that Tobias resembles his father. GI omits the whole of Gabael’s speech, reading only “and Tobias blessed his wife.”"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Meanwhile, day after day, Tobit kept counting the days: how many it would take Tobias to get there and how many to come back. When the days had run out and his son had not appeared,"
+    },
+    {
+     "v": 2,
+     "text": "he said, “Could he have been held up there? Or could Gabael be dead, with nobody left to pay him the silver?”"
+    },
+    {
+     "v": 3,
+     "text": "And he began to be anxious."
+    },
+    {
+     "v": 4,
+     "text": "His wife Anna kept saying, “My child has perished; he is no longer among the living.” She began to weep and wail over her son, and she said,"
+    },
+    {
+     "v": 5,
+     "text": "“Alas for me, my child! Why did I allow you to go, light of my eyes?”{a}"
+    },
+    {
+     "v": 6,
+     "text": "But Tobit kept saying to her, “Hush, do not worry, my sister; he is well. No doubt something has come up to keep them busy there. His companion is a man to be trusted, a kinsman of ours. Stop grieving over him, my sister; he will soon be back.”"
+    },
+    {
+     "v": 7,
+     "text": "She answered him, “Hush yourself, and do not try to deceive me. My child has perished.” And she would rush out and watch the road her son had taken, every day, and would believe no one. When the sun went down, she would go inside and lament and weep all night long, without any sleep.{b}"
+    },
+    {
+     "v": 8,
+     "text": "When the fourteen days of the wedding celebration that Raguel had sworn to hold for his daughter were over, Tobias went to him and said, “Let me go, for I know that my father and my mother do not believe they will ever see me again. So now I beg you, father, to let me go, so that I can return to my father. I have already told you how I left him.”"
+    },
+    {
+     "v": 9,
+     "text": "Raguel urged Tobias, “Stay, child, stay here with me. I will dispatch messengers to Tobit your father, who will tell him how you are.” But Tobias said, “By no means. I beg you to send me back from here to my father.”"
+    },
+    {
+     "v": 10,
+     "text": "Then Raguel rose and handed over to Tobias his wife Sarah, together with a half share of all his goods: menservants and maidservants, cattle and flocks, donkeys and camels, garments, silver, and household utensils."
+    },
+    {
+     "v": 11,
+     "text": "He sent them away in good health. He embraced Tobias and said to him, “Farewell, my child; go in health. May the Lord of heaven make the way prosperous for you and for Sarah your wife, and may I see children of yours before I die.”"
+    },
+    {
+     "v": 12,
+     "text": "And he said to his daughter Sarah, “Go to your father-in-law’s house, for from now on they are your parents as much as those who gave you birth. Go in peace, daughter. May I hear good reports of you as long as I live.” Then he kissed them good-bye and sent them off."
+    },
+    {
+     "v": 13,
+     "text": "And Edna said to Tobias, “My son and beloved brother, may the Lord restore you safely, and may I live to see children born to you and to my daughter Sarah before my death. In the presence of the Lord I am entrusting my daughter to your keeping. Never cause her sorrow as long as you live. Go in peace, my son. Henceforth I am a mother to you, and Sarah a sister.{c} May every one of us prosper alike, every day that we live.” And she kissed them both and sent them off in good health."
+    },
+    {
+     "v": 14,
+     "text": "So Tobias left Raguel’s house in health and joy, blessing the Lord of heaven and earth, King over all things, because he had prospered his way. And he said to him,{d} “It has been granted you to honor them all the days of their life.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:5",
+     "text": "The light of my eyes: GI reads “I do not care about anything, my child, since I let you go, the light of my eyes.”"
+    },
+    {
+     "m": "b",
+     "ref": "10:7",
+     "text": "Without any sleep: GI is shorter in verses 6–7 and adds that she would not eat during the day and did not stop lamenting her son Tobias until the fourteen days of the wedding were over."
+    },
+    {
+     "m": "c",
+     "ref": "10:13",
+     "text": "A sister: here, a relative by marriage."
+    },
+    {
+     "m": "d",
+     "ref": "10:14",
+     "text": "He said to him: the Greek of Sinaiticus is apparently damaged here; the sense may be a blessing spoken to Tobias, that he would have the privilege of honoring his parents-in-law (“them”) as long as they lived. GI reads “and he blessed Raguel and Edna his wife.” Scholarly review recommended."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    5,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As they drew near to Kaserin,{a} which lies opposite Nineveh, Raphael said,"
+    },
+    {
+     "v": 2,
+     "text": "“You know the condition in which we left your father."
+    },
+    {
+     "v": 3,
+     "text": "Let us hurry on ahead of your wife and get the house ready while the others are on their way.”"
+    },
+    {
+     "v": 4,
+     "text": "So the two of them went on together. And Raphael said to him, “Keep the gall ready in your hand.” And the dog trotted along at their heels, behind Raphael and Tobias.{b}"
+    },
+    {
+     "v": 5,
+     "text": "Anna, meanwhile, sat watching the road by which her son would come."
+    },
+    {
+     "v": 6,
+     "text": "She spied him on his way and called to his father, “See, here comes your son, along with the man who went with him!”"
+    },
+    {
+     "v": 7,
+     "text": "Before Tobias came up to his father, Raphael told him, “I am sure that his eyes will be opened."
+    },
+    {
+     "v": 8,
+     "text": "Rub the gall of the fish onto his eyes; the medicine will contract the white films and strip them from his eyes, and your father will look up and behold the light.”"
+    },
+    {
+     "v": 9,
+     "text": "Anna ran up and threw her arms around her son’s neck, saying to him, “I have seen you, my child! Now I can die.” And she wept."
+    },
+    {
+     "v": 10,
+     "text": "Tobit got up and, stumbling as he went, made his way out through the courtyard door."
+    },
+    {
+     "v": 11,
+     "text": "Tobias went up to him with the fish’s gall in his hand. He blew into his eyes, took hold of him, and said, “Be brave, father!” Then he applied the remedy to him and left it on for a while.{c}"
+    },
+    {
+     "v": 12,
+     "text": "Next, using both hands, he peeled the films away from the corners of his eyes."
+    },
+    {
+     "v": 13,
+     "text": "Tobit threw his arms around his neck and wept, and said to him, “I can see you, my son, the light of my eyes!”"
+    },
+    {
+     "v": 14,
+     "text": "And he said, “Blessed is God, and blessed his great name, and blessed all his holy angels! May his great name rest upon us,{d} and blessed be all the angels to all the ages. For he afflicted me with the scourge, yet now I behold my son Tobias!”"
+    },
+    {
+     "v": 15,
+     "text": "Tobias went in rejoicing and blessing God aloud with his whole voice. He told his father that his journey had prospered, that he had brought back the silver, and how he had married Sarah, Raguel’s daughter, and that she was even now on her way and close to the gate of Nineveh."
+    },
+    {
+     "v": 16,
+     "text": "Then Tobit, rejoicing and blessing God, went out toward the gate of Nineveh to greet his son’s bride. The people of Nineveh, seeing him stride along with all his strength and with nobody leading him by the hand, were amazed. And Tobit acknowledged openly before them that God had shown him mercy and had opened his eyes."
+    },
+    {
+     "v": 17,
+     "text": "When Tobit came up to Sarah, the wife of his son Tobias, he blessed her and said to her, “Welcome in good health, daughter! Blessed is your God, who has brought you to us, daughter; blessed is your father, blessed is my son Tobias, and blessed are you, daughter. Enter your house in good health, with blessing and joy; come in, daughter.”"
+    },
+    {
+     "v": 18,
+     "text": "On that day joy came to every Jew living in Nineveh."
+    },
+    {
+     "v": 19,
+     "text": "And Ahikar and Nadab,{e} Tobit’s nephews, came to him full of joy."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:1",
+     "text": "Kaserin: an otherwise unknown place; the name may be corrupt. GI reads simply “until they came near to Nineveh.”"
+    },
+    {
+     "m": "b",
+     "ref": "11:4",
+     "text": "Behind Raphael and Tobias: the Greek of Sinaiticus is awkward here (“behind him, and Tobias”). GI places the dog “behind them” and puts the command about the gall before the departure."
+    },
+    {
+     "m": "c",
+     "ref": "11:11",
+     "text": "Left it on for a while: the sense of the Greek verb (epedōken) is uncertain. GI describes the treatment differently: Tobias sprinkled the gall on his father’s eyes, and when they smarted, Tobit rubbed them and the films scaled off."
+    },
+    {
+     "m": "d",
+     "ref": "11:14",
+     "text": "Rest upon us: literally “be upon us.” GI reads more briefly: “Blessed are you, O God, and blessed is your name forever, and blessed are all your holy angels; for you scourged me and had mercy on me.”"
+    },
+    {
+     "m": "e",
+     "ref": "11:19",
+     "text": "Ahikar and Nadab: on Ahikar see the note at 1:21. GI reads “Achiacharus and Nasbas his nephew,” and adds that Tobias’s wedding was celebrated with gladness for seven days."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    6,
+    11,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When the wedding celebration was over, Tobit called his son Tobias and said to him, “My child, see to it that you pay the man who went with you his wages, and give him something more besides.”"
+    },
+    {
+     "v": 2,
+     "text": "Tobias answered him, “Father, how much shall I pay him? It would be no loss to me to give him half of the goods he brought back with me."
+    },
+    {
+     "v": 3,
+     "text": "He has led me back safe and sound; he cured my wife; he brought the silver back with me; and he cured you too. How much more should I pay him as wages?”"
+    },
+    {
+     "v": 4,
+     "text": "Tobit said to him, “It is only right, my child, that he should receive half of everything he brought back.”"
+    },
+    {
+     "v": 5,
+     "text": "So Tobias called him and said, “Take as your wages half of everything you brought back, and go in health.”"
+    },
+    {
+     "v": 6,
+     "text": "Then Raphael called the two of them aside in secret and told them, “Bless God, and in the sight of all who live acknowledge the kindness he has shown you, so that they may bless and sing praise to his name. Make known to all people the words of God, as is fitting, and do not hesitate to give him thanks."
+    },
+    {
+     "v": 7,
+     "text": "It is right to keep a king’s secret, but the works of God are to be revealed and acknowledged with honor. Do what is good, and evil will not overtake you."
+    },
+    {
+     "v": 8,
+     "text": "Prayer with truthfulness is good, and charity with righteousness, better than wealth with wrongdoing. Better to give charity than to hoard gold.{a}"
+    },
+    {
+     "v": 9,
+     "text": "Charity rescues from death, and it purges away every sin. Those who give charity will have their fill of life."
+    },
+    {
+     "v": 10,
+     "text": "Those who commit sin and wrongdoing are enemies of their own selves."
+    },
+    {
+     "v": 11,
+     "text": "“I will disclose the whole truth to you and will keep nothing hidden from you. I have already declared it to you, saying, ‘It is right to keep a king’s secret, but the works of God are to be revealed with glory.’"
+    },
+    {
+     "v": 12,
+     "text": "Now then: when you prayed, you and Sarah, I was the one who carried the memorial of your prayer{b} into the presence of the Lord’s glory; and I did the same each time you gave burial to the dead."
+    },
+    {
+     "v": 13,
+     "text": "And when you did not hesitate to get up and leave your meal and went and laid out the dead man, then I was sent to you to test you.{c}"
+    },
+    {
+     "v": 14,
+     "text": "And God has sent me at the same time to bring healing to you and to Sarah, your son’s wife."
+    },
+    {
+     "v": 15,
+     "text": "I am Raphael, one of seven angels who attend and go in before the Lord’s glory.”{d}"
+    },
+    {
+     "v": 16,
+     "text": "The two of them were shaken; they fell on their faces in fear."
+    },
+    {
+     "v": 17,
+     "text": "But he told them, “Have no fear; peace to you. Bless God for all time."
+    },
+    {
+     "v": 18,
+     "text": "As for me, when I was with you, I was not with you by any favor of my own, but by the will of God. Bless him every day; sing his praise."
+    },
+    {
+     "v": 19,
+     "text": "You watched me, but I ate nothing; what you saw was a vision.{e}"
+    },
+    {
+     "v": 20,
+     "text": "So now bless the Lord on earth and give thanks to God. See, I am going up to the one who sent me. Record in writing everything that has befallen you.” And he went up."
+    },
+    {
+     "v": 21,
+     "text": "They rose to their feet, but he was no longer to be seen."
+    },
+    {
+     "v": 22,
+     "text": "They kept blessing God and singing hymns to him, and they gave thanks to him for these great works of his, that an angel of God had appeared to them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:8",
+     "text": "Better to give charity than to hoard gold: GI reads “Prayer is good with fasting and charity and righteousness. A little with righteousness is better than much with wrongdoing.”"
+    },
+    {
+     "m": "b",
+     "ref": "12:12",
+     "text": "The record of your prayer: Greek mnēmosynon, “memorial,” a term used of offerings that bring something to God’s remembrance (compare Leviticus 2:2; Acts 10:4)."
+    },
+    {
+     "m": "c",
+     "ref": "12:13",
+     "text": "To test you: GI reads instead “your good deed did not escape me; I was with you.”"
+    },
+    {
+     "m": "d",
+     "ref": "12:15",
+     "text": "Seven angels: compare Revelation 8:2. GI reads “one of the seven holy angels who present the prayers of the saints and enter before the glory of the Holy One.” On the meaning of Raphael’s name see the note at 1:1."
+    },
+    {
+     "m": "e",
+     "ref": "12:19",
+     "text": "A vision: that is, an appearance only. GI reads “All these days I merely appeared to you; I did not eat or drink, but you were seeing a vision.”"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Tobit said:{a}"
+    },
+    {
+     "v": 2,
+     "text": "“Blessed is God, the ever-living,\nand blessed his reign!\nFor he chastises, and he shows mercy;\nhe brings down to Hades, to the lowest depths of the earth,\nand he himself brings up from the great destruction;\nthere is nothing that can slip from his hand."
+    },
+    {
+     "v": 3,
+     "text": "Give him thanks, you children of Israel, in the sight of the nations,\nfor he himself has scattered you among them,"
+    },
+    {
+     "v": 4,
+     "text": "and there he has displayed his majesty to you.\nExalt him in the presence of all that lives,\nfor it is he who is Lord to us, he who is God to us;\nhe is Father to us, and God for all the ages."
+    },
+    {
+     "v": 5,
+     "text": "He will chastise you for your wrongdoing,\nand he will have mercy on all of you\nand gather you out of all the nations\nwherever you have been scattered among them.{b}"
+    },
+    {
+     "v": 6,
+     "text": "Once you return to him wholeheartedly, with your entire soul,\nto practice faithfulness before him,\nhe too will return to you\nand no longer conceal his face from you."
+    },
+    {
+     "v": 7,
+     "text": "Look now at all he has done with you,\nand praise him aloud with your whole mouth.\nBless the Lord of righteousness,\nand lift high the King of the ages."
+    },
+    {
+     "v": 8,
+     "text": "Here, in the country of my captivity, I praise him;\nI proclaim his might and his majesty to a sinful people.{c}\nReturn, sinners, and act righteously in his sight;\nwho can tell? He may take pleasure in you and deal kindly with you."
+    },
+    {
+     "v": 9,
+     "text": "I extol my God;\nmy soul extols heaven’s King\nand will exult in his majesty."
+    },
+    {
+     "v": 10,
+     "text": "Let everyone declare it and praise him in Jerusalem.\nJerusalem, city of holiness,\nhe will chastise you for the deeds of your children,\nyet once more he will show compassion to the offspring of the just."
+    },
+    {
+     "v": 11,
+     "text": "And once more your tent will be rebuilt for you with joy.{d}"
+    },
+    {
+     "v": 12,
+     "text": "May he bring gladness within you to every captive,\nand cherish within you all who are wretched,\nto all generations forever."
+    },
+    {
+     "v": 13,
+     "text": "A brilliant light will blaze to all the earth’s limits;\nfrom afar a multitude of nations will come to you,\nand the dwellers at the world’s remotest edges to your holy name,\ncarrying gifts in their hands for heaven’s King.\nAge upon age will give exultation within you,\nand the name of the elect city will last for every age to come."
+    },
+    {
+     "v": 14,
+     "text": "A curse on all who speak harshly of you!\nAccursed will be all who tear you down and pull down your walls,\nall who overturn your towers and set fire to your dwellings;\nbut blessed forever will be all who revere you."
+    },
+    {
+     "v": 15,
+     "text": "Then go and exult among the offspring of the just,\nsince every one of them will be assembled to bless the eternal Lord.\nHow fortunate are your lovers!\nHow fortunate those whose joy will be in your peace!"
+    },
+    {
+     "v": 16,
+     "text": "Fortunate as well are all who mourned for you\nbecause of every blow you bore;\nfor in you they will find joy,\nand they will look on the fullness of your gladness forever.\nBless the Lord, my soul, the mighty King!"
+    },
+    {
+     "v": 17,
+     "text": "For Jerusalem will be rebuilt as a city,{e} his house for all the ages.\nI will be happy if a remnant of my descendants survives\nto look on your splendor and praise heaven’s King.\nOf sapphire and emerald Jerusalem’s gates will be made,\nand of costly stone every wall of yours;\nof gold Jerusalem’s towers will be constructed,\ntheir ramparts of refined gold.\nJerusalem’s squares will be laid with garnet{f} and Ophir stone.{g}"
+    },
+    {
+     "v": 18,
+     "text": "Jerusalem’s gateways will ring with songs of gladness,\nand every house in her will shout, ‘Hallelujah!\nIsrael’s God be blessed!’\nAnd those he has blessed will praise his holy name for all time and beyond.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:1",
+     "text": "Then Tobit said: GI reads “Then Tobit wrote a prayer of rejoicing and said.”"
+    },
+    {
+     "m": "b",
+     "ref": "13:5",
+     "text": "Scattered among them: Sinaiticus reads “and he will have mercy on all of you from all the nations wherever you have been scattered among them”; the words “and gather you” are supplied from GI to complete the sense."
+    },
+    {
+     "m": "c",
+     "ref": "13:8",
+     "text": "To a nation of sinners: verses 8–10 are missing from Sinaiticus, apparently through a scribe’s eye skipping a line, and are translated here from GI (Vaticanus). Small Qumran fragments of this hymn are reported (4Q198–200), but they do not cover the whole gap. Scholarly review recommended."
+    },
+    {
+     "m": "d",
+     "ref": "13:11",
+     "text": "Your tent: that is, the Temple, pictured as God’s dwelling-tent."
+    },
+    {
+     "m": "e",
+     "ref": "13:17",
+     "text": "Rebuilt as a city: the Greek of Sinaiticus is awkward (literally “will be built for the city”); GI reads simply “Jerusalem will be built.”"
+    },
+    {
+     "m": "f",
+     "ref": "13:17",
+     "text": "Garnet: Greek anthrax, a deep-red precious stone (perhaps carbuncle or ruby). GI adds beryl."
+    },
+    {
+     "m": "g",
+     "ref": "13:17",
+     "text": "Ophir: Greek Souphir, a form of Ophir, the land famous for its gold (1 Kings 9:28)."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    3,
+    8,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So ended the words of Tobit’s song of praise.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Tobit died in peace at the age of one hundred twelve and was buried with honor in Nineveh. He had been sixty-two years old when he lost the use of his eyes, and after his sight returned he lived in prosperity, giving charity and continuing to bless God and to proclaim God’s majesty.{b}"
+    },
+    {
+     "v": 3,
+     "text": "As he lay dying, he summoned his son Tobias and gave him these instructions: “My child, take your children away"
+    },
+    {
+     "v": 4,
+     "text": "and hurry off to Media, for I put my trust in the word God spoke through Nahum{c} concerning Nineveh, that it will all come true and will overtake Assyria and Nineveh. Whatever the prophets of Israel whom God sent have spoken, all of it will happen; not one of their words will fall short, and everything will come about at its proper time. There will be more safety in Media than in Assyria or Babylon. For I know and trust that everything God has said will be carried out and will come to pass; not one word of his sayings will fail. Our kindred who live in the land of Israel will all be dispersed and carried off as captives from that good land. The whole land of Israel will become a wasteland; Samaria and Jerusalem will be a wasteland, and God’s house will be in mourning and will lie burned for a time."
+    },
+    {
+     "v": 5,
+     "text": "Yet God will once more show them mercy and restore them to Israel’s land. Again they will build the house, though it will not equal the former one, until the period of the appointed ages is fulfilled. After that they will all return from their captivity and rebuild Jerusalem in splendor, and in her God’s house will be built anew,{d} in keeping with what Israel’s prophets have foretold about her."
+    },
+    {
+     "v": 6,
+     "text": "Then all the nations throughout the whole earth will turn and fear God in truth. Every one of them will abandon the idols that have deceived them into falsehood, and they will bless the everlasting God in righteousness."
+    },
+    {
+     "v": 7,
+     "text": "All the children of Israel who are rescued in those days, who remember God faithfully, will be assembled and make their way to Jerusalem, and dwell securely in the land of Abraham forever, and it will be handed over to them. Whoever loves God in sincerity will be glad, but those who practice sin and wrongdoing will vanish from all the earth.{e}"
+    },
+    {
+     "v": 8,
+     "text": "“And now, my children, I charge you: serve God faithfully and do what pleases him. Your children are to be instructed to practice righteousness and charity, to keep God in mind, and to bless his name at every season, faithfully and with all their strength.{f}"
+    },
+    {
+     "v": 9,
+     "text": "And now you, my child, leave Nineveh; do not stay on here. On the day you bury your mother beside me, do not spend that very night within the city’s limits. For I can see that there is much wickedness in it, and great treachery is carried on there, and the people have no shame."
+    },
+    {
+     "v": 10,
+     "text": "Consider, my child, all that Nadab did to Ahikar, who had brought him up. Was not Ahikar sent down alive into the earth?{g} But God paid back the disgrace to Nadab’s face: Ahikar came out into the light, while Nadab went into the everlasting darkness, because he had tried to kill Ahikar. Because Ahikar gave charity, he escaped the deadly trap that Nadab had set for him, but Nadab himself fell into the deadly trap, and it destroyed him.{h}"
+    },
+    {
+     "v": 11,
+     "text": "So now, my children, see what charity accomplishes, and what wrongdoing accomplishes: it brings death. But now my breath is failing me.” They placed him upon his couch, and he breathed his last; and they gave him an honorable burial.{i}"
+    },
+    {
+     "v": 12,
+     "text": "After his mother’s death, Tobias laid her in the tomb with his father. Then, with his wife, he departed for Media and made his home at Ecbatana alongside Raguel, the father of his wife."
+    },
+    {
+     "v": 13,
+     "text": "He looked after them in their old age with every respect and buried them at Ecbatana in Media, and he inherited the household of Raguel as well as that of his father Tobit."
+    },
+    {
+     "v": 14,
+     "text": "He died with honor at the age of one hundred seventeen.{j}"
+    },
+    {
+     "v": 15,
+     "text": "Before his own death he witnessed and was told of the ruin of Nineveh, and he watched its prisoners being marched off to Media, those whom Cyaxares{k} king of Media had taken captive. He praised God for everything he had brought upon the inhabitants of Nineveh and Assyria. While still alive he exulted over Nineveh’s fate, and he blessed the Lord God for all ages upon ages."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:1",
+     "text": "Song of praise: Greek exomologēsis, “thanksgiving” or “confession,” referring to the hymn of chapter 13."
+    },
+    {
+     "m": "b",
+     "ref": "14:2",
+     "text": "Majesty: GI gives different figures: Tobit was fifty-eight years old when he lost his sight, and he regained it eight years later. GI also omits his age at death here, giving it instead in verse 11 (one hundred fifty-eight years)."
+    },
+    {
+     "m": "c",
+     "ref": "14:4",
+     "text": "Nahum: the prophet whose book foretells the fall of Nineveh (612 BC). GI reads “Jonah,” whose preaching announced Nineveh’s overthrow (Jonah 3:4). Some later manuscripts of GI also read “Nahum.”"
+    },
+    {
+     "m": "d",
+     "ref": "14:5",
+     "text": "Will be rebuilt: GI adds “for all generations forever, with a glorious building.” Tobit’s words look ahead to the modest Second Temple (compare Ezra 3:12; Haggai 2:3) and then to a glorious final restoration."
+    },
+    {
+     "m": "e",
+     "ref": "14:7",
+     "text": "Vanish from all the earth: GI’s verse 7 is quite different: “His people will give thanks to God, and the Lord will exalt his people, and all who love the Lord God in truth and righteousness will rejoice, showing mercy to our kindred.”"
+    },
+    {
+     "m": "f",
+     "ref": "14:8",
+     "text": "All their strength: Sinaiticus runs verses 8 and 9 together (Rahlfs prints them as “8–9”); they are divided here according to the usual numbering. GI lacks this exhortation."
+    },
+    {
+     "m": "g",
+     "ref": "14:10",
+     "text": "Sent down alive into the earth: in the Story of Ahikar (see the note at 1:21), Ahikar, falsely accused by his adopted son Nadab, was hidden alive in an underground chamber until he could be vindicated. GI names the nephew “Aman” instead of Nadab."
+    },
+    {
+     "m": "h",
+     "ref": "14:10",
+     "text": "Destroyed him: GI says that “Manasseh” (apparently a corruption of the name of Ahikar) gave charity and was rescued."
+    },
+    {
+     "m": "i",
+     "ref": "14:11",
+     "text": "Buried with honor: GI adds that he was one hundred fifty-eight years old."
+    },
+    {
+     "m": "j",
+     "ref": "14:14",
+     "text": "One hundred seventeen: GI reads “one hundred twenty-seven years, in Ecbatana of Media.”"
+    },
+    {
+     "m": "k",
+     "ref": "14:15",
+     "text": "Cyaxares: Greek Achiacharos, king of the Medes (about 625–585 BC), who with the Babylonian Nabopolassar destroyed Nineveh in 612 BC. GI reads “Nebuchadnezzar and Ahasuerus.” Neither manuscript tradition matches the historical record precisely; scholarly review recommended."
+    }
+   ]
+  }
+ ]
+}
