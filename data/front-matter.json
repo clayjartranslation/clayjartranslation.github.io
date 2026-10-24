@@ -1,6 +1,6 @@
 {
  "title": "The Clay Jar Translation™ (CJT)",
- "summary": "A new English Bible, translated afresh from the oldest available witnesses and given freely to the public domain. This is the project home: the charter, the prayer, the sources, the canon tracker, and the translated text, beginning with the complete book of Genesis.",
+ "summary": "A new English Bible, translated afresh from the oldest available witnesses and given freely to the public domain. This is the project home: the charter, the prayer, the sources, the canon tracker, and the complete book of Genesis as a sample. The full text of every translated book is on the website, clayjartranslation.github.io.",
  "sections": [
   {
    "type": "section",
@@ -162,6 +162,10 @@
         [
          "Weights and measures",
          "Given in rounded modern US amounts, with “about” where approximate. A footnote gives the Hebrew unit and number, the metric amount, and the standard assumed. Ages, years, days, and counts are left as they are. Units of unknown size are not converted. See the table below."
+        ],
+        [
+         "Dates and times",
+         "Hebrew months keep their number or name and add the approximate modern months as a two-month span, because the Hebrew year is lunar: “the second month (in April–May).” Months are counted from the spring new year (Nisan or Abib, March–April); where a passage’s calendar is uncertain, as in the flood account, a footnote says so. Daytime hours are counted from about 6 a.m. (“the ninth hour” becomes “three in the afternoon”), and night watches become clock times. “Between the two evenings” is rendered “at twilight.” A footnote gives the original. General terms such as “morning,” “evening,” and “the heat of the day” are left as they are. See the table below."
         ],
         [
          "Raised number",
@@ -328,6 +332,117 @@
       {
        "type": "text",
        "text": "Ancient standards varied by place and period (a longer “royal” cubit of about 20.5 inches, or 52 cm, was also used), so all conversions are approximate."
+      },
+      {
+       "type": "table",
+       "columns": [
+        "Hebrew month",
+        "Name",
+        "Approximate modern months"
+       ],
+       "rows": [
+        [
+         "1st",
+         "Nisan (older name Abib)",
+         "March–April"
+        ],
+        [
+         "2nd",
+         "Iyyar (older name Ziv)",
+         "April–May"
+        ],
+        [
+         "3rd",
+         "Sivan",
+         "May–June"
+        ],
+        [
+         "4th",
+         "Tammuz",
+         "June–July"
+        ],
+        [
+         "5th",
+         "Av",
+         "July–August"
+        ],
+        [
+         "6th",
+         "Elul",
+         "August–September"
+        ],
+        [
+         "7th",
+         "Tishri (older name Ethanim)",
+         "September–October"
+        ],
+        [
+         "8th",
+         "Marcheshvan (older name Bul)",
+         "October–November"
+        ],
+        [
+         "9th",
+         "Kislev",
+         "November–December"
+        ],
+        [
+         "10th",
+         "Tevet",
+         "December–January"
+        ],
+        [
+         "11th",
+         "Shevat",
+         "January–February"
+        ],
+        [
+         "12th",
+         "Adar",
+         "February–March"
+        ]
+       ]
+      },
+      {
+       "type": "table",
+       "columns": [
+        "Original",
+        "Rendered as"
+       ],
+       "rows": [
+        [
+         "Third hour",
+         "Nine in the morning"
+        ],
+        [
+         "Sixth hour",
+         "Noon"
+        ],
+        [
+         "Ninth hour",
+         "Three in the afternoon"
+        ],
+        [
+         "Tenth hour",
+         "Four in the afternoon"
+        ],
+        [
+         "Eleventh hour",
+         "Five in the afternoon"
+        ],
+        [
+         "Old Testament watches (three)",
+         "Evening watch until about 10 p.m.; middle watch until about 2 a.m.; morning watch until about 6 a.m."
+        ],
+        [
+         "New Testament watches (four, Roman)",
+         "6–9 p.m.; 9 p.m.–midnight; midnight–3 a.m.; 3–6 a.m."
+        ],
+        [
+         "Between the two evenings",
+         "At twilight"
+        ]
+       ]
       }
      ]
     }
@@ -582,8 +697,14 @@
    "id": "canon",
    "blocks": [
     {
+     "type": "callout",
+     "lead": "Read the full text online.",
+     "tone": "info",
+     "text": "The complete text of every translated book, with all footnotes, is on the Clay Jar Translation website, clayjartranslation.github.io (link below). This page is the project home and keeps Genesis as a sample of the translation."
+    },
+    {
      "type": "text",
-     "text": "Status as of 23 October 2026: Genesis is complete (chapters 1 to 50); every other book is planned. Books are grouped by tradition, not by authority. The Apocrypha are accepted as Scripture by Catholic and Orthodox churches; the Pseudepigrapha are included for study and for their place in ancient Jewish and Christian life. 1 Enoch and Jubilees are part of the Ethiopian Orthodox canon."
+     "text": "Status as of 24 October 2026: Genesis (50 chapters) and Exodus (40 chapters) are complete; Leviticus, Numbers, and Deuteronomy are in progress; every other book is planned. Books are grouped by tradition, not by authority. The Apocrypha are accepted as Scripture by Catholic and Orthodox churches; the Pseudepigrapha are included for study and for their place in ancient Jewish and Christian life. 1 Enoch and Jubilees are part of the Ethiopian Orthodox canon."
     }
    ]
   },

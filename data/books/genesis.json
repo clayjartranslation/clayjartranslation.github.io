@@ -1416,7 +1416,7 @@
     },
     {
      "v": 11,
-     "text": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month,{d} on that day all the springs of the great deep burst open, and the floodgates{e} of the heavens were opened."
+     "text": "In the six hundredth year of Noah’s life, in the second month (in April–May), on the seventeenth day of the month,{d} on that day all the springs of the great deep burst open, and the floodgates{e} of the heavens were opened."
     },
     {
      "v": 12,
@@ -1490,7 +1490,7 @@
     {
      "m": "d",
      "ref": "7:11",
-     "text": "The Septuagint reads “on the twenty-seventh day.” It also gives the twenty-seventh day in 8:4 and 8:14, so that in the Greek the flood lasts exactly one year."
+     "text": "Hebrew “in the second month.” This translation counts the months from the spring new year (Nisan, also called Abib, in March–April), as Exodus 12:2 does for Israel’s festival year, so the second month falls in April–May. The flood account does not say which calendar it follows, and some scholars, like some ancient Jewish interpreters, count from the autumn new year instead, which would put this date in October–November. Hebrew months are lunar, so every modern equivalent is approximate. The Septuagint reads “on the twenty-seventh day.” It also gives the twenty-seventh day in 8:4 and 8:14, so that in the Greek the flood lasts exactly one year."
     },
     {
      "m": "e",
@@ -1558,11 +1558,11 @@
     },
     {
      "v": 4,
-     "text": "In the seventh month, on the month’s seventeenth day,{d} the ark settled{e} on the mountains of Ararat.{f}"
+     "text": "In the seventh month (in September–October), on the month’s seventeenth day,{d} the ark settled{e} on the mountains of Ararat.{f}"
     },
     {
      "v": 5,
-     "text": "The waters continued to go down until the tenth month. In the tenth month, on the first day of the month, the tops of the mountains became visible."
+     "text": "The waters continued to go down until the tenth month. In the tenth month (in December–January), on the first day of the month,{g} the tops of the mountains became visible."
     },
     {
      "v": 6,
@@ -1570,7 +1570,7 @@
     },
     {
      "v": 7,
-     "text": "and he sent out the raven. It went out and kept going back and forth{g} until the waters had dried up from the earth."
+     "text": "and he sent out the raven. It went out and kept going back and forth{h} until the waters had dried up from the earth."
     },
     {
      "v": 8,
@@ -1578,7 +1578,7 @@
     },
     {
      "v": 9,
-     "text": "But the dove could find no place to rest{h} its foot, since water still covered the face of the whole earth, and it came back to him in the ark. He put out his hand, caught it, and took it back into the ark with him."
+     "text": "But the dove could find no place to rest{i} its foot, since water still covered the face of the whole earth, and it came back to him in the ark. He put out his hand, caught it, and took it back into the ark with him."
     },
     {
      "v": 10,
@@ -1594,11 +1594,11 @@
     },
     {
      "v": 13,
-     "text": "In the six hundred and first year,{i} in the first month, on the first day of the month, the waters had dried from the earth. Noah removed the covering of the ark and looked, and the face of the ground was dry."
+     "text": "In the six hundred and first year,{j} in the first month (in March–April),{k} on the first day of the month, the waters had dried from the earth. Noah removed the covering of the ark and looked, and the face of the ground was dry."
     },
     {
      "v": 14,
-     "text": "In the second month, on the twenty-seventh day of the month, the earth was fully dry.{j}"
+     "text": "In the second month (in April–May), on the twenty-seventh day of the month, the earth was fully dry.{l}"
     },
     {
      "v": 15,
@@ -1626,11 +1626,11 @@
     },
     {
      "v": 21,
-     "text": "Yahweh smelled the soothing aroma,{k} and Yahweh said in his heart, “Never again will I curse the ground on account of humankind, though the human heart forms evil from youth on.{l} Never again will I strike down every living thing as I have done."
+     "text": "Yahweh smelled the soothing aroma,{m} and Yahweh said in his heart, “Never again will I curse the ground on account of humankind, though the human heart forms evil from youth on.{n} Never again will I strike down every living thing as I have done."
     },
     {
      "v": 22,
-     "text": "As long as the earth remains,{m} sowing and harvest, cold and heat, summer and winter, day and night will not cease.”"
+     "text": "As long as the earth remains,{o} sowing and harvest, cold and heat, summer and winter, day and night will not cease.”"
     }
    ],
    "notes": [
@@ -1652,7 +1652,7 @@
     {
      "m": "d",
      "ref": "8:4",
-     "text": "The Septuagint reads “twenty-seventh day” (see 7:11)."
+     "text": "Hebrew “in the seventh month”: September–October on the spring-start reckoning used in this translation (see the note on 7:11); on an autumn-start reckoning, March–April. The Septuagint reads “twenty-seventh day” (see 7:11)."
     },
     {
      "m": "e",
@@ -1666,36 +1666,46 @@
     },
     {
      "m": "g",
+     "ref": "8:5",
+     "text": "Hebrew “in the tenth month”: December–January on the spring-start reckoning used in this translation (see the note on 7:11); on an autumn-start reckoning, June–July."
+    },
+    {
+     "m": "h",
      "ref": "8:7",
      "text": "Literally “going out and returning.” The Septuagint and Vulgate read that the raven “did not return.”"
     },
     {
-     "m": "h",
+     "m": "i",
      "ref": "8:9",
      "text": "Hebrew manoach, again from nuach, “rest.”"
     },
     {
-     "m": "i",
+     "m": "j",
      "ref": "8:13",
      "text": "The Septuagint reads “in the six hundred and first year of the life of Noah,” matching 7:11."
     },
     {
-     "m": "j",
-     "ref": "8:14",
-     "text": "In the Masoretic Text the flood lasts from 2/17 of Noah’s 600th year to 2/27 of his 601st: a lunar year of 354 days plus 11 days, which equals a solar year of 365 days. In the Septuagint (2/27 to 2/27) it lasts exactly one year."
+     "m": "k",
+     "ref": "8:13",
+     "text": "Hebrew “in the first month”: March–April on the spring-start reckoning (see the note on 7:11); on an autumn-start reckoning, September–October."
     },
     {
-     "m": "k",
+     "m": "l",
+     "ref": "8:14",
+     "text": "Hebrew “in the second month”: April–May on the spring-start reckoning (see the note on 7:11). In the Masoretic Text the flood lasts from 2/17 of Noah’s 600th year to 2/27 of his 601st: a lunar year of 354 days plus 11 days, which equals a solar year of 365 days. In the Septuagint (2/27 to 2/27) it lasts exactly one year."
+    },
+    {
+     "m": "m",
      "ref": "8:21",
      "text": "Hebrew reach ha-nichoach, “the restful (or soothing) aroma,” another play on Noah’s name (nuach, “rest”)."
     },
     {
-     "m": "l",
+     "m": "n",
      "ref": "8:21",
      "text": "Or “for the inclination of the human heart is evil from youth.” The same diagnosis as 6:5 now leads to mercy rather than judgment."
     },
     {
-     "m": "m",
+     "m": "o",
      "ref": "8:22",
      "text": "Literally “all the days of the earth.” The verse is a short poem of pairs."
     }
