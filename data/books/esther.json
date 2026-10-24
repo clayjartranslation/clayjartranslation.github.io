@@ -1,0 +1,1096 @@
+{
+ "id": "esther",
+ "name": "Esther",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Septuagint in Brenton’s public-domain English translation. This is the Hebrew book of Esther, which does not name God. The Greek form of Esther adds six longer passages (the Additions to Esther), which will be given with the Apocrypha. Esther is the only book of the Hebrew Bible of which no fragment has been found among the Dead Sea Scrolls. Where the written Hebrew text (ketiv) and the traditional reading (qere) differ, the footnotes give the other reading. Persian names are explained in the footnotes. Weights, measures, and money are given in modern US units, and calendar dates with their modern-month equivalents, with the originals and metric figures in the footnotes. Dates BC are approximate.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    5,
+    10,
+    13,
+    16,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "It happened in the days of Ahasuerus{a}—this is the Ahasuerus who reigned from India as far as Cush,{b} over 127 provinces—"
+    },
+    {
+     "v": 2,
+     "text": "in those days, as King Ahasuerus was seated upon the throne of his kingdom, which was in Susa the citadel,{c}"
+    },
+    {
+     "v": 3,
+     "text": "in the third year of his reign{d} he held a feast for all his officials and his servants. The army of Persia and Media, the nobles,{e} and the officials of the provinces were before him,"
+    },
+    {
+     "v": 4,
+     "text": "when for many days—180 days{f}—he made a show of the wealth of his glorious kingdom and the precious splendor of his greatness."
+    },
+    {
+     "v": 5,
+     "text": "When these days were completed, the king held for all the people who were found in Susa the citadel, from great to small, a feast of seven days in the court of the garden of the king’s palace."
+    },
+    {
+     "v": 6,
+     "text": "There were hangings of white cotton and violet, held by cords of fine linen and purple to silver rings and pillars of marble; couches of gold and silver stood on a pavement of porphyry, marble, mother-of-pearl, and costly stone.{g}"
+    },
+    {
+     "v": 7,
+     "text": "Drinks were served in vessels of gold, the vessels each different from the other, and royal wine was plentiful, as befitted the king’s bounty.{h}"
+    },
+    {
+     "v": 8,
+     "text": "And the drinking was by rule: no one was compelled, for so the king had ordered every officer of his household, to do as each man wished."
+    },
+    {
+     "v": 9,
+     "text": "Queen Vashti{i} also held a feast for the women in the royal house that belonged to King Ahasuerus."
+    },
+    {
+     "v": 10,
+     "text": "On the seventh day, when the king’s heart was merry with wine, he told Mehuman, Biztha, Harbona, Bigtha and Abagtha, Zethar and Carkas, the seven eunuchs{j} who served in the presence of King Ahasuerus,"
+    },
+    {
+     "v": 11,
+     "text": "to bring Queen Vashti before the king wearing the royal crown,{k} to show the peoples and the officials her beauty, for she was lovely to look at."
+    },
+    {
+     "v": 12,
+     "text": "But Queen Vashti refused to come at the king’s word sent by the eunuchs. Then the king was very angry, and his wrath burned within him."
+    },
+    {
+     "v": 13,
+     "text": "So the king spoke to the wise men who knew the times—for this was the king’s practice before all who knew law and judgment;"
+    },
+    {
+     "v": 14,
+     "text": "those closest to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king’s face and sat first in the kingdom—"
+    },
+    {
+     "v": 15,
+     "text": "“According to law, what must be done to Queen Vashti, since she did not carry out the order of King Ahasuerus brought by the eunuchs?”"
+    },
+    {
+     "v": 16,
+     "text": "Then Memucan{l} said before the king and the princes, “Not against the king alone has Queen Vashti done wrong, but against all the princes and all the peoples in all the provinces of King Ahasuerus."
+    },
+    {
+     "v": 17,
+     "text": "For word of what the queen did will reach every woman, so that they will look with scorn on their husbands, saying, ‘King Ahasuerus ordered Queen Vashti brought into his presence, and she would not come.’"
+    },
+    {
+     "v": 18,
+     "text": "This very day the noble ladies of Persia and Media who have heard of the queen’s deed will speak of it to all the king’s princes, and there will be contempt and wrath enough."
+    },
+    {
+     "v": 19,
+     "text": "If it pleases the king, let a royal word go out from him and be written among the laws of Persia and Media, so that it cannot pass away, that Vashti is not to come before King Ahasuerus again; and let the king give her royal position to a companion of hers who is better than she."
+    },
+    {
+     "v": 20,
+     "text": "So when the king’s decree that he makes is heard throughout all his kingdom, vast as it is, all wives will give honor to their husbands, from great to small.”"
+    },
+    {
+     "v": 21,
+     "text": "The word pleased the king and the princes, and the king did as Memucan said."
+    },
+    {
+     "v": 22,
+     "text": "And he dispatched letters to every one of the king’s provinces, each province in its writing and each people in its tongue, that every man should rule in his household and speak the tongue of his own people.{m}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Ahasuerus is the Hebrew form of the Persian name Khshayarsha, known in Greek as Xerxes; this is Xerxes I, king of Persia 486–465 BC. The Hebrew book of Esther never names God; its story tells of providence without speaking of it. The Greek (Septuagint) form of Esther includes six longer passages, with prayers and letters, that are not in the Hebrew. This translation follows the Hebrew; those Greek Additions to Esther will be given with the Apocrypha."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "That is, from the Indus valley to the upper Nile (ancient Nubia, modern Sudan)."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Susa (Hebrew Shushan), the winter capital of the Persian kings, in what is now southwestern Iran. “The citadel” is the fortified royal quarter of the city."
+    },
+    {
+     "m": "d",
+     "ref": "1:3",
+     "text": "That is, 483 BC."
+    },
+    {
+     "m": "e",
+     "ref": "1:3",
+     "text": "Hebrew partemim, a Persian loanword for nobles or men of the first rank."
+    },
+    {
+     "m": "f",
+     "ref": "1:4",
+     "text": "About six months."
+    },
+    {
+     "m": "g",
+     "ref": "1:6",
+     "text": "The identification of several of these materials is uncertain. Hebrew karpas (“cotton”) is a Persian loanword."
+    },
+    {
+     "m": "h",
+     "ref": "1:7",
+     "text": "Hebrew “according to the hand of the king.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:9",
+     "text": "Vashti is probably a Persian name meaning “the desired” or “the best.” Greek historians name Xerxes’ queen as Amestris; the relation of the two is debated."
+    },
+    {
+     "m": "j",
+     "ref": "1:10",
+     "text": "Or “officials.” Hebrew saris can mean a court officer in general, but in Persian courts it usually meant a eunuch. The names of the eunuchs and princes in this book are Persian."
+    },
+    {
+     "m": "k",
+     "ref": "1:11",
+     "text": "Hebrew keter, a turban-like crown, a Persian word found in the Bible only in Esther."
+    },
+    {
+     "m": "l",
+     "ref": "1:16",
+     "text": "So the traditional reading (qere); the written text (ketiv) has Momucan."
+    },
+    {
+     "m": "m",
+     "ref": "1:22",
+     "text": "The meaning of the last clause is uncertain; perhaps that the husband’s language was to be spoken in a household of mixed peoples."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    5,
+    8,
+    12,
+    15,
+    19,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After these things, when the wrath of King Ahasuerus had abated, he remembered Vashti and what she had done and what had been decreed against her."
+    },
+    {
+     "v": 2,
+     "text": "Then the king’s young men who attended him said, “Let young virgins of fair appearance be sought for the king."
+    },
+    {
+     "v": 3,
+     "text": "And let the king appoint overseers in all the provinces of his kingdom to gather every young virgin of fair appearance to Susa the citadel, to the house of the women, into the custody of Hegai,{a} the king’s eunuch, keeper of the women; and let their cosmetics be given them."
+    },
+    {
+     "v": 4,
+     "text": "And the girl who is good in the king’s eyes, let her be queen in place of Vashti.” The word was good in the king’s eyes, and he did so."
+    },
+    {
+     "v": 5,
+     "text": "There was a Jewish man in Susa the citadel whose name was Mordecai,{b} son of Jair, son of Shimei, son of Kish, a Benjaminite,"
+    },
+    {
+     "v": 6,
+     "text": "who had been carried away from Jerusalem with the exiles taken with Jeconiah king of Judah, whom Nebuchadnezzar king of Babylon had carried away.{c}"
+    },
+    {
+     "v": 7,
+     "text": "He was guardian of Hadassah,{d} that is, Esther, the daughter of his uncle, for she had neither father nor mother. The girl was beautiful of form and lovely to look at, and when her father and mother died, Mordecai took her as his own daughter."
+    },
+    {
+     "v": 8,
+     "text": "So when the king’s word and his decree were heard, and when many young women were gathered to Susa the citadel into the custody of Hegai, Esther also was taken into the king’s house, into the custody of Hegai, keeper of the women."
+    },
+    {
+     "v": 9,
+     "text": "The girl was good in his eyes and won his favor, and he quickly provided her cosmetics and her portions, and seven chosen young women from the king’s house, and he moved her and her young women to the best place in the house of the women."
+    },
+    {
+     "v": 10,
+     "text": "Esther had not revealed her people or her birth, because Mordecai had instructed her that she must not reveal it."
+    },
+    {
+     "v": 11,
+     "text": "Day by day Mordecai would walk up and down before the court of the women’s house to find out how Esther fared and what was being done with her."
+    },
+    {
+     "v": 12,
+     "text": "Now when each girl’s turn came to go in to King Ahasuerus, after she had been treated under the regulations for the women for twelve months—for so the days of their beautifying were completed: six months with oil of myrrh and six months with spices and the women’s cosmetics—"
+    },
+    {
+     "v": 13,
+     "text": "then in this way the girl went in to the king: whatever she asked for was given her to take with her from the house of the women to the king’s house."
+    },
+    {
+     "v": 14,
+     "text": "In the evening she would go in, and in the morning she would return to the second house of the women, into the custody of Shaashgaz,{e} the king’s eunuch, keeper of the concubines. She did not go in to the king again unless the king delighted in her and she was called by name."
+    },
+    {
+     "v": 15,
+     "text": "Now when it came the turn of Esther—daughter of Abihail, Mordecai’s uncle, whom Mordecai had taken as a daughter—to go in to the king, she requested nothing beyond what Hegai, the king’s eunuch who kept the women, told her. And Esther found favor in the sight of everyone who looked at her."
+    },
+    {
+     "v": 16,
+     "text": "So Esther was taken to King Ahasuerus, into his royal house, in the tenth month, which is the month of Tevet (December–January),{f} in the seventh year of his reign."
+    },
+    {
+     "v": 17,
+     "text": "And the king loved Esther more than all the women, and she won grace and favor before him more than all the virgins, so that he set the royal crown on her head and made her queen in place of Vashti."
+    },
+    {
+     "v": 18,
+     "text": "Then the king held a great feast for all his officials and servants, Esther’s feast. He also granted a release{g} to the provinces and gave gifts with royal bounty."
+    },
+    {
+     "v": 19,
+     "text": "When the virgins were assembled a second time, Mordecai sat in the gate of the king.{h}"
+    },
+    {
+     "v": 20,
+     "text": "Esther had not made known her kindred or her people, just as Mordecai had commanded her, for Esther did what Mordecai said, just as when she was brought up by him."
+    },
+    {
+     "v": 21,
+     "text": "During those days, as Mordecai sat in the gate of the king, two of the king’s eunuchs who guarded the threshold, Bigthan and Teresh, grew angry and plotted to strike at King Ahasuerus."
+    },
+    {
+     "v": 22,
+     "text": "The matter became known to Mordecai, and he told Queen Esther, and Esther told the king in Mordecai’s name."
+    },
+    {
+     "v": 23,
+     "text": "When the matter was investigated and found to be so, the two of them were hanged on a pole.{i} And it was written in the book of the chronicles in the king’s presence."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:3",
+     "text": "Hegai is a Persian name; in verse 8 it is spelled Hege."
+    },
+    {
+     "m": "b",
+     "ref": "2:5",
+     "text": "Mordecai is a Babylonian name, related to that of the god Marduk. A Persian official named Marduka appears in tablets from Persepolis of this period."
+    },
+    {
+     "m": "c",
+     "ref": "2:6",
+     "text": "That is, in 597 BC (2 Kings 24:10–17). The one carried away may be Kish, Mordecai’s great-grandfather, rather than Mordecai himself."
+    },
+    {
+     "m": "d",
+     "ref": "2:7",
+     "text": "Hadassah is Hebrew for “myrtle.” Esther is probably from the Persian for “star,” though some connect it with the Babylonian goddess Ishtar."
+    },
+    {
+     "m": "e",
+     "ref": "2:14",
+     "text": "A Persian name."
+    },
+    {
+     "m": "f",
+     "ref": "2:16",
+     "text": "That is, at the turn of 479 to 478 BC, four years after Vashti was put aside (1:3)."
+    },
+    {
+     "m": "g",
+     "ref": "2:18",
+     "text": "Perhaps a remission of taxes, or a holiday."
+    },
+    {
+     "m": "h",
+     "ref": "2:19",
+     "text": "That is, he held an office at the royal court; the gate complex was the seat of government business."
+    },
+    {
+     "m": "i",
+     "ref": "2:23",
+     "text": "Hebrew “on a tree” or “on wood”; probably impaled or displayed on a stake, the Persian manner of execution. Likewise throughout the book."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    7,
+    8,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After these things King Ahasuerus promoted Haman the son of Hammedatha the Agagite,{a} and lifted him up, and set his seat above all the princes who were with him."
+    },
+    {
+     "v": 2,
+     "text": "And all the king’s servants who were at the king’s gate would bow down and do homage to Haman, for the king had so commanded concerning him. But Mordecai would not bow down or do homage."
+    },
+    {
+     "v": 3,
+     "text": "And the king’s servants in the king’s gate asked Mordecai, “Why are you disobeying the order of the king?”"
+    },
+    {
+     "v": 4,
+     "text": "When they had said this{b} to him every day, and he paid them no heed, they reported it to Haman, to find out whether Mordecai’s claims would hold, for he had let them know he was a Jew."
+    },
+    {
+     "v": 5,
+     "text": "And when Haman saw that Mordecai did not bow down or do homage to him, Haman was filled with fury."
+    },
+    {
+     "v": 6,
+     "text": "Yet he scorned to lay a hand on Mordecai by himself, since they had made known to him Mordecai’s people; and Haman set out to wipe out all the Jews, Mordecai’s people, in the entire realm of Ahasuerus."
+    },
+    {
+     "v": 7,
+     "text": "In the first month, which is the month of Nisan (March–April), in the twelfth year of King Ahasuerus,{c} they cast Pur{d}—that is, the lot—before Haman, from day to day and from month to month, to the twelfth month, which is the month of Adar (February–March).{e}"
+    },
+    {
+     "v": 8,
+     "text": "Then Haman said to King Ahasuerus, “There is a certain people scattered and dispersed among the peoples in all the provinces of your kingdom. Their laws differ from those of every people, and they do not keep the king’s laws, so it is not worth the king’s while to let them be."
+    },
+    {
+     "v": 9,
+     "text": "If it pleases the king, let it be written that they be destroyed, and I will weigh out some 375 tons of silver{f} into the hands of those who do the work, to bring into the king’s treasuries.”"
+    },
+    {
+     "v": 10,
+     "text": "So the king took his signet ring from his hand and gave it to Haman the son of Hammedatha the Agagite, the adversary of the Jews."
+    },
+    {
+     "v": 11,
+     "text": "And the king said to Haman, “The silver is given to you, the people also, to do with them as is good in your eyes.”"
+    },
+    {
+     "v": 12,
+     "text": "Then the king’s scribes were called, in the first month, on its thirteenth day,{g} and it was written just as Haman commanded, to the king’s satraps and to the governors over each province and to the officials of each people, to each province in its own script and to each people in its own language. It was written in the name of King Ahasuerus and sealed with the king’s signet ring."
+    },
+    {
+     "v": 13,
+     "text": "Letters were sent by the hands of couriers to all the king’s provinces, to destroy, to kill, and to annihilate all the Jews, from young to old, children and women, on one day, the thirteenth day of the twelfth month, which is the month of Adar (February–March),{h} and to plunder their goods."
+    },
+    {
+     "v": 14,
+     "text": "A copy of the writing was to be given out as law in every province, published to all the peoples, so that they would be ready for that day."
+    },
+    {
+     "v": 15,
+     "text": "The couriers went out in haste by the king’s word, and the law was given out in Susa the citadel. And the king and Haman sat down to drink, but the city of Susa was in confusion."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Haman and Hammedatha are probably Persian names. “Agagite” recalls Agag king of Amalek, the foe of Saul son of Kish (1 Samuel 15); Mordecai is of the line of Kish (2:5)."
+    },
+    {
+     "m": "b",
+     "ref": "3:4",
+     "text": "So the traditional reading (qere); the written text (ketiv) has a slightly different form of the same verb."
+    },
+    {
+     "m": "c",
+     "ref": "3:7",
+     "text": "That is, 474 BC."
+    },
+    {
+     "m": "d",
+     "ref": "3:7",
+     "text": "Pur is a Babylonian (Akkadian) word, puru, “lot.” Its plural, Purim, gives the festival its name (9:24–26)."
+    },
+    {
+     "m": "e",
+     "ref": "3:7",
+     "text": "The Hebrew is brief; the Septuagint adds that the lot fell on the thirteenth day of Adar (see verse 13)."
+    },
+    {
+     "m": "f",
+     "ref": "3:9",
+     "text": "Hebrew “10,000 talents,” about 340 metric tons; a talent was about 75 pounds (34 kilograms). Herodotus reckons the yearly revenue of the whole Persian empire at about 15,000 talents."
+    },
+    {
+     "m": "g",
+     "ref": "3:12",
+     "text": "The thirteenth of Nisan, in March–April, the day before Passover (Leviticus 23:5)."
+    },
+    {
+     "m": "h",
+     "ref": "3:13",
+     "text": "That is, eleven months later, in 473 BC."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    4,
+    9,
+    13,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Mordecai knew everything that had been done. He tore his garments, clothed himself in sackcloth and ashes, and went out through the city, crying a great and bitter cry."
+    },
+    {
+     "v": 2,
+     "text": "He came only as far as before the gate of the king, since none might come within the gate of the king dressed in sackcloth."
+    },
+    {
+     "v": 3,
+     "text": "And in every province, wherever the king’s word and his law reached, there was great mourning among the Jews, with fasting and weeping and lamenting; many lay in sackcloth and ashes."
+    },
+    {
+     "v": 4,
+     "text": "Esther’s maids and eunuchs came and reported it to her, and the queen was in deep distress. She sent clothes for Mordecai to wear in place of his sackcloth, but he refused them."
+    },
+    {
+     "v": 5,
+     "text": "Then Esther called for Hathach,{a} one of the king’s eunuchs whom he had appointed to attend her, and ordered him to go to Mordecai to learn what this was and why it was."
+    },
+    {
+     "v": 6,
+     "text": "Hathach went out to Mordecai, to the city square before the gate of the king."
+    },
+    {
+     "v": 7,
+     "text": "And Mordecai told him all that had happened to him, and the exact sum of silver that Haman had promised to weigh out into the king’s treasuries for the Jews,{b} to destroy them."
+    },
+    {
+     "v": 8,
+     "text": "He also gave him a copy of the written law that had been given out in Susa for their destruction, to show it to Esther and explain it to her, and to charge her to go in to the king to plead with him and make request before him for her people."
+    },
+    {
+     "v": 9,
+     "text": "Hathach came and told Esther the words of Mordecai."
+    },
+    {
+     "v": 10,
+     "text": "Then Esther spoke to Hathach and gave him a message for Mordecai:"
+    },
+    {
+     "v": 11,
+     "text": "“All the king’s servants and the people of the king’s provinces know that for any man or woman who goes in to the king in the inner court without being called, there is one law: to be put to death, unless the king holds out the golden scepter to him, so that he may live. And I have not been called to come in to the king these thirty days.”"
+    },
+    {
+     "v": 12,
+     "text": "And they told Mordecai Esther’s words."
+    },
+    {
+     "v": 13,
+     "text": "Then Mordecai said to reply to Esther, “Do not imagine in your soul that in the king’s house you will escape, more than all the Jews."
+    },
+    {
+     "v": 14,
+     "text": "If you hold your peace at such a time as this, relief and rescue will rise up for the Jews from some other place,{c} while you and your father’s family will be lost. And who knows if you have not reached the throne for just such a time?”"
+    },
+    {
+     "v": 15,
+     "text": "Then Esther said to reply to Mordecai,"
+    },
+    {
+     "v": 16,
+     "text": "“Go and assemble all the Jews to be found in Susa, and fast on my behalf; neither eat nor drink for three days, night and day. My maids and I will fast in the same way. Then I will go in to the king, which is not by the law. And if I am lost, I am lost.”"
+    },
+    {
+     "v": 17,
+     "text": "So Mordecai went away and did everything Esther had commanded him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:5",
+     "text": "A Persian name."
+    },
+    {
+     "m": "b",
+     "ref": "4:7",
+     "text": "So the traditional reading (qere); the written text (ketiv) spells “the Jews” with an extra letter (hayyehudiyyim). The same difference occurs at 8:1, 8:7, 8:13, 9:15, and 9:18."
+    },
+    {
+     "m": "c",
+     "ref": "4:14",
+     "text": "Many interpreters, Jewish and Christian, have seen in “another place” a veiled reference to God, whom the book never names."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    6,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the third day Esther put on her royal robes and stood in the inner court of the king’s house, opposite the king’s house, while the king was sitting on his royal throne in the royal house, opposite the entrance of the house."
+    },
+    {
+     "v": 2,
+     "text": "And when the king saw Queen Esther standing in the court, she won favor in his eyes, and the king held out to Esther the golden scepter that was in his hand. Then Esther drew near and touched the tip of the scepter."
+    },
+    {
+     "v": 3,
+     "text": "And the king said to her, “What is it, Queen Esther? What is your request? Even to half of the kingdom, it shall be given you.”"
+    },
+    {
+     "v": 4,
+     "text": "Esther said, “If it pleases the king, let the king and Haman come today to the feast that I have prepared for him.”"
+    },
+    {
+     "v": 5,
+     "text": "Then the king said, “Bring Haman quickly, to do as Esther has said.” So the king and Haman came to the feast that Esther had prepared."
+    },
+    {
+     "v": 6,
+     "text": "And as they drank wine, the king said to Esther, “What is your petition? It shall be given you. And what is your request? Even to half of the kingdom, it shall be done.”"
+    },
+    {
+     "v": 7,
+     "text": "Then Esther answered and said, “My petition and my request is this:"
+    },
+    {
+     "v": 8,
+     "text": "if I have found favor in the king’s sight, and if the king is pleased to give what I ask and do what I request, then let the king come with Haman to a feast I shall prepare for them; and tomorrow I will do according to the king’s word.”"
+    },
+    {
+     "v": 9,
+     "text": "Haman went out that day glad and merry of heart. But when Haman saw Mordecai in the king’s gate, and that he neither rose nor trembled before him, Haman was filled with fury against Mordecai."
+    },
+    {
+     "v": 10,
+     "text": "Yet Haman held himself in check and went home, and he sent and brought his friends and Zeresh{a} his wife."
+    },
+    {
+     "v": 11,
+     "text": "And Haman recounted to them the glory of his riches, the number of his sons, and all the ways the king had promoted him, and how he had lifted him up above the princes and the servants of the king."
+    },
+    {
+     "v": 12,
+     "text": "And Haman went on, “Even Queen Esther brought nobody else besides me with the king to the feast she had made; and tomorrow, too, I am called to her with the king."
+    },
+    {
+     "v": 13,
+     "text": "But none of this satisfies me, as long as I keep seeing Mordecai the Jew seated in the gate of the king.”"
+    },
+    {
+     "v": 14,
+     "text": "Then Zeresh his wife and all his friends said to him, “Let a pole be made, 75 feet{b} high, and in the morning speak to the king, and let them hang Mordecai on it. Then go in merrily with the king to the feast.” The word pleased Haman, and he had the pole made."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:10",
+     "text": "A Persian name."
+    },
+    {
+     "m": "b",
+     "ref": "5:14",
+     "text": "Hebrew “fifty cubits,” about 23 meters."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On that night the king’s sleep fled, and he ordered the book of memorable deeds, the chronicles, to be brought, and they were read before the king."
+    },
+    {
+     "v": 2,
+     "text": "There it was found written that Mordecai had reported on Bigthana and Teresh, two eunuchs of the king who guarded the threshold, who had plotted to strike at King Ahasuerus."
+    },
+    {
+     "v": 3,
+     "text": "And the king said, “What honor and distinction has been done for Mordecai for this?” The king’s young men who attended him said, “Nothing has been done for him.”"
+    },
+    {
+     "v": 4,
+     "text": "And the king said, “Who is in the court?” Now Haman had just come into the outer court of the king’s house to speak to the king about hanging Mordecai on the pole that he had prepared for him."
+    },
+    {
+     "v": 5,
+     "text": "And the king’s young men said to him, “Look, Haman is standing in the court.” And the king said, “Let him come in.”"
+    },
+    {
+     "v": 6,
+     "text": "So Haman came in, and the king said to him, “What should be done for the man whom the king delights to honor?” And Haman said in his heart, “Whom would the king delight to honor more than me?”"
+    },
+    {
+     "v": 7,
+     "text": "And Haman said to the king, “For the man whom the king delights to honor,"
+    },
+    {
+     "v": 8,
+     "text": "let royal garments be brought in which the king has been clothed, and a horse on which the king has ridden, with a royal crown set on its head.{a}"
+    },
+    {
+     "v": 9,
+     "text": "And let the clothing and the horse be handed over to one of the king’s most noble princes, and let them clothe the man whom the king delights to honor, and lead him on horseback through the open square of the city, and proclaim before him, ‘Thus shall it be done to the man whom the king delights to honor!’”"
+    },
+    {
+     "v": 10,
+     "text": "Then the king said to Haman, “Hurry, take the clothing and the horse, as you have said, and do so to Mordecai the Jew who sits at the king’s gate. Let nothing fall short of all that you have spoken.”"
+    },
+    {
+     "v": 11,
+     "text": "So Haman took the clothing and the horse, and he clothed Mordecai and led him on horseback through the open square of the city, and he proclaimed before him, “Thus shall it be done to the man whom the king delights to honor!”"
+    },
+    {
+     "v": 12,
+     "text": "Then Mordecai returned to the king’s gate. But Haman hurried to his house, mourning, with his head covered."
+    },
+    {
+     "v": 13,
+     "text": "And Haman recounted to Zeresh his wife and all his friends everything that had befallen him. Then his wise men and Zeresh his wife said to him, “If Mordecai, before whom you have begun to fall, is of the seed of the Jews, you will not prevail against him, but you will surely fall before him.”"
+    },
+    {
+     "v": 14,
+     "text": "They were still talking with him when the king’s eunuchs came and hastily brought Haman to Esther’s feast."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:8",
+     "text": "Persian reliefs show royal horses with a crested headdress. Or “and on whose head a royal crown has been set,” referring to the man."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    7
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So the king and Haman came in to drink with Queen Esther."
+    },
+    {
+     "v": 2,
+     "text": "And on the second day, as they drank wine, the king again said to Esther, “What is your petition, Queen Esther? It shall be given you. And what is your request? Even to half of the kingdom, it shall be done.”"
+    },
+    {
+     "v": 3,
+     "text": "Then Queen Esther answered and said, “If I have found favor in your eyes, O king, and if it pleases the king, let my life be given me at my petition, and my people at my request."
+    },
+    {
+     "v": 4,
+     "text": "For I and my people have been sold off for destruction, for slaughter, and for annihilation. If we had been sold for bondmen and bondwomen, I would have kept still; such distress would not be worth the king’s trouble.”{a}"
+    },
+    {
+     "v": 5,
+     "text": "Then King Ahasuerus spoke and said to Queen Esther, “Who is he, and where is he, whose heart has filled him to do this?”"
+    },
+    {
+     "v": 6,
+     "text": "And Esther said, “An adversary and an enemy—this evil Haman!” Then Haman was terrified before the king and the queen."
+    },
+    {
+     "v": 7,
+     "text": "And the king rose in his wrath from the wine feast and went into the palace garden, but Haman stayed to beg Queen Esther for his life, for he saw that evil had been determined against him by the king."
+    },
+    {
+     "v": 8,
+     "text": "When the king returned from the palace garden to the house of the wine feast, Haman was falling on the couch where Esther was. And the king said, “Will he even assault the queen with me in the house?” As the word left the king’s mouth, they covered Haman’s face."
+    },
+    {
+     "v": 9,
+     "text": "Then Harbonah, one of the eunuchs before the king, said, “Also, look, the pole that Haman made for Mordecai, who spoke good on behalf of the king, stands at Haman’s house, 75 feet{b} high.” And the king said, “Hang him on it.”"
+    },
+    {
+     "v": 10,
+     "text": "So they hanged Haman on the pole that he had prepared for Mordecai. Then the wrath of the king abated."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:4",
+     "text": "Or “for the enemy could not make good the king’s loss.” The Hebrew is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "7:9",
+     "text": "Hebrew “fifty cubits,” about 23 meters."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    3,
+    7,
+    9,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On that day King Ahasuerus gave to Queen Esther the house of Haman, the adversary of the Jews.{a} And Mordecai came before the king, for Esther had told what he was to her."
+    },
+    {
+     "v": 2,
+     "text": "And the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. And Esther set Mordecai over the house of Haman."
+    },
+    {
+     "v": 3,
+     "text": "And once more Esther spoke before the king; she threw herself at his feet, weeping, and implored him to undo the evil of Haman the Agagite and the scheme he had laid against the Jews."
+    },
+    {
+     "v": 4,
+     "text": "The king stretched the golden scepter toward Esther, and she got up and stood in the king’s presence."
+    },
+    {
+     "v": 5,
+     "text": "And she said, “If it pleases the king, and if I have found favor before him, and the thing seems right before the king, and I am pleasing in his eyes, let it be written to revoke the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews who are in all the king’s provinces."
+    },
+    {
+     "v": 6,
+     "text": "For how can I bear to look on the evil that will befall my people? And how can I bear to look on the destruction of my kindred?”"
+    },
+    {
+     "v": 7,
+     "text": "Then King Ahasuerus said to Queen Esther and to Mordecai the Jew, “Look, I have given Esther the house of Haman, and they have hanged him on the pole because he stretched out his hand against the Jews."
+    },
+    {
+     "v": 8,
+     "text": "Now you write concerning the Jews as is good in your eyes, in the king’s name, and seal it with the king’s ring, for a writing that is written in the king’s name and sealed with the king’s ring cannot be revoked.”"
+    },
+    {
+     "v": 9,
+     "text": "Then the king’s scribes were summoned, at that time, in the third month—the month of Sivan (May–June)—on the twenty-third day.{b} And everything Mordecai ordered was written to the Jews, and to the satraps, governors, and provincial officials from India to Cush, 127 provinces, each province in its writing and each people in its tongue, and to the Jews in their own writing and tongue."
+    },
+    {
+     "v": 10,
+     "text": "He wrote in the name of King Ahasuerus and sealed it with the king’s ring, and he sent letters by the hands of couriers on horseback, riding swift royal steeds bred from the stud.{c}"
+    },
+    {
+     "v": 11,
+     "text": "In them the king granted the Jews in each city the right to assemble and defend their lives, to destroy, slay, and wipe out any armed band of a people or province that should attack them, children and women,{d} and to take their goods as spoil,"
+    },
+    {
+     "v": 12,
+     "text": "on one day throughout all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar (February–March)."
+    },
+    {
+     "v": 13,
+     "text": "A copy of the writing was to be given out as law in every province, published to all the peoples, so that the Jews would be ready{e} on that day to take vengeance on their enemies."
+    },
+    {
+     "v": 14,
+     "text": "So the couriers, mounted on the swift royal steeds, went out hurried and pressed by the king’s word. And the law was given out in Susa the citadel."
+    },
+    {
+     "v": 15,
+     "text": "And Mordecai went out from the king’s presence in royal garments of violet and white, wearing a great crown of gold and a robe of fine linen and purple; and the city of Susa cried out with joy."
+    },
+    {
+     "v": 16,
+     "text": "For the Jews there was light and gladness and joy and honor."
+    },
+    {
+     "v": 17,
+     "text": "In each and every province and city to which the king’s word and his law came, the Jews had gladness and joy, feasting, and a good day. And many of the peoples of the land became Jews,{f} because dread of the Jews had come on them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "For the spelling of “Jews” here and in verses 7 and 13, see the note on 4:7."
+    },
+    {
+     "m": "b",
+     "ref": "8:9",
+     "text": "That is, about two months after Haman’s decree (3:12), in 474 BC."
+    },
+    {
+     "m": "c",
+     "ref": "8:10",
+     "text": "The terms for the horses are Persian loanwords whose exact meaning is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "8:11",
+     "text": "The phrase echoes Haman’s decree (3:13). Some take “children and women” as the objects of the attack against the Jews rather than of their defense."
+    },
+    {
+     "m": "e",
+     "ref": "8:13",
+     "text": "So the traditional reading (qere); the written text (ketiv) has a variant spelling."
+    },
+    {
+     "m": "f",
+     "ref": "8:17",
+     "text": "Or “pretended to be Jews”; the Hebrew verb occurs only here."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    11,
+    16,
+    20,
+    29
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the twelfth month—the month of Adar (February–March)—on the thirteenth day,{a} when the king’s command and law were due to be done, the day the foes of the Jews had hoped to overpower them, the reverse happened: the Jews themselves overpowered their haters."
+    },
+    {
+     "v": 2,
+     "text": "In their cities in every province of King Ahasuerus the Jews assembled to strike at those who sought to harm them. Nobody stood against them, since dread of them had come on every people."
+    },
+    {
+     "v": 3,
+     "text": "All the officials of the provinces and the satraps and the governors and the king’s administrators{b} supported the Jews, for the fear of Mordecai had fallen on them."
+    },
+    {
+     "v": 4,
+     "text": "For Mordecai was great in the king’s house, and his fame went out through all the provinces; for the man Mordecai grew greater and greater."
+    },
+    {
+     "v": 5,
+     "text": "The Jews struck down all their foes with the sword, slaughtering and destroying, and dealt as they willed with their haters."
+    },
+    {
+     "v": 6,
+     "text": "In Susa the citadel the Jews killed and destroyed 500 men,"
+    },
+    {
+     "v": 7,
+     "text": "and Parshandatha and Dalphon and Aspatha{c}"
+    },
+    {
+     "v": 8,
+     "text": "and Poratha and Adalia and Aridatha"
+    },
+    {
+     "v": 9,
+     "text": "and Parmashta and Arisai and Aridai and Vaizatha,"
+    },
+    {
+     "v": 10,
+     "text": "the ten sons of Haman the son of Hammedatha, the adversary of the Jews. They killed them, but they did not lay their hands on the plunder."
+    },
+    {
+     "v": 11,
+     "text": "On the same day the count of the slain in Susa the citadel came before the king."
+    },
+    {
+     "v": 12,
+     "text": "Then the king said to Queen Esther, “In the citadel of Susa the Jews have slain and destroyed 500 men, and Haman’s ten sons. What must they have done in the other provinces of the king! What do you ask now? You shall have it. What more do you request? It shall be done.”"
+    },
+    {
+     "v": 13,
+     "text": "And Esther said, “If it pleases the king, let it be granted to the Jews who are in Susa to do tomorrow also according to today’s law, and let the ten sons of Haman be hanged on the pole.”{d}"
+    },
+    {
+     "v": 14,
+     "text": "So the king commanded that it be done. A law was given out in Susa, and they hanged the ten sons of Haman."
+    },
+    {
+     "v": 15,
+     "text": "And the Jews{e} in Susa assembled on the fourteenth of Adar as well and slew 300 men in Susa; but on the spoil they laid no hand."
+    },
+    {
+     "v": 16,
+     "text": "The other Jews in the king’s provinces assembled and defended their lives and had rest from their foes; they slew 75,000{f} of their haters, but on the spoil they laid no hand."
+    },
+    {
+     "v": 17,
+     "text": "This was on the thirteenth day of the month of Adar; and on its fourteenth day they rested and made it a day of feasting and gladness."
+    },
+    {
+     "v": 18,
+     "text": "But the Jews who were in Susa gathered on its thirteenth day and on its fourteenth, and on its fifteenth day they rested and made it a day of feasting and gladness."
+    },
+    {
+     "v": 19,
+     "text": "That is why the Jews of the villages, who live in the rural towns,{g} keep the fourteenth day of the month of Adar as a day of gladness and feasting, a holiday, and a day of sending portions to one another."
+    },
+    {
+     "v": 20,
+     "text": "And Mordecai wrote these things down and sent letters to all the Jews who were in all the provinces of King Ahasuerus, near and far,"
+    },
+    {
+     "v": 21,
+     "text": "to establish among them that they should keep the fourteenth day of the month of Adar and its fifteenth day,{h} year by year,"
+    },
+    {
+     "v": 22,
+     "text": "as the days on which the Jews gained rest from their enemies, and as the month that was turned for them from sorrow into gladness and from mourning into a holiday; that they should make them days of feasting and gladness, of sending portions to one another and gifts to the poor."
+    },
+    {
+     "v": 23,
+     "text": "So the Jews accepted what they had begun to do and what Mordecai had written to them."
+    },
+    {
+     "v": 24,
+     "text": "For Haman the son of Hammedatha the Agagite, the adversary of all the Jews, had plotted against the Jews to destroy them, and had cast Pur, that is, the lot, to crush{i} and to destroy them."
+    },
+    {
+     "v": 25,
+     "text": "But when it{j} came before the king, he commanded by letter that his evil plot which he had devised against the Jews should return on his own head, and that he and his sons should be hanged on the pole."
+    },
+    {
+     "v": 26,
+     "text": "Therefore they called these days Purim, after the name of Pur.{k} Therefore, because of all the words of this letter, and of what they had seen concerning this and what had come upon them,"
+    },
+    {
+     "v": 27,
+     "text": "the Jews established and took on themselves{l} and on their offspring and on all who joined them, so that it should not pass away, that they would keep these two days according to what was written and at their appointed time, year by year;"
+    },
+    {
+     "v": 28,
+     "text": "and that these days should be remembered and kept in every generation, by every family, every province, and every city, and that these days of Purim should not pass away from among the Jews, nor the memory of them cease from their offspring."
+    },
+    {
+     "v": 29,
+     "text": "And Queen Esther, Abihail’s daughter, with Mordecai the Jew, wrote with all authority to make this second Purim letter binding."
+    },
+    {
+     "v": 30,
+     "text": "And letters were sent to all the Jews, to the 127 provinces of the kingdom of Ahasuerus, words of peace and truth,"
+    },
+    {
+     "v": 31,
+     "text": "to make these days of Purim binding at their set times, as Mordecai the Jew and Queen Esther had made them binding on them, and as they had bound themselves and their descendants concerning their fasts and their cry of lament.{m}"
+    },
+    {
+     "v": 32,
+     "text": "The command of Esther confirmed these matters of Purim, and it was written in the book."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "In 473 BC."
+    },
+    {
+     "m": "b",
+     "ref": "9:3",
+     "text": "Hebrew “those who do the work that belongs to the king.”"
+    },
+    {
+     "m": "c",
+     "ref": "9:7",
+     "text": "The names of the ten sons of Haman in verses 7–9 are Persian. In Hebrew scrolls of Esther they are traditionally written in a column, each name on its own line, and they are read in one breath at the Purim reading."
+    },
+    {
+     "m": "d",
+     "ref": "9:13",
+     "text": "That is, their bodies were to be displayed publicly."
+    },
+    {
+     "m": "e",
+     "ref": "9:15",
+     "text": "For the spelling of “Jews” here and in verse 18, see the note on 4:7."
+    },
+    {
+     "m": "f",
+     "ref": "9:16",
+     "text": "The Septuagint has 15,000."
+    },
+    {
+     "m": "g",
+     "ref": "9:19",
+     "text": "So the traditional reading (qere); the written text (ketiv) has a variant form of the word. To this day, Purim is kept on the 14th of Adar, but on the 15th (“Shushan Purim”) in Jerusalem and other anciently walled cities."
+    },
+    {
+     "m": "h",
+     "ref": "9:21",
+     "text": "In the modern calendar these days fall in February or March."
+    },
+    {
+     "m": "i",
+     "ref": "9:24",
+     "text": "Or “to throw them into panic.”"
+    },
+    {
+     "m": "j",
+     "ref": "9:25",
+     "text": "Or “she,” that is, Esther."
+    },
+    {
+     "m": "k",
+     "ref": "9:26",
+     "text": "Purim means “lots,” the plural of pur (see 3:7). The festival falls on 14–15 Adar, in February or March."
+    },
+    {
+     "m": "l",
+     "ref": "9:27",
+     "text": "So the traditional reading (qere); the written text (ketiv) has the singular, “and he took on himself.”"
+    },
+    {
+     "m": "m",
+     "ref": "9:31",
+     "text": "The fast of Esther is kept on 13 Adar, the day before Purim."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "King Ahasuerus{a} laid tribute on the land and on the coastlands of the sea."
+    },
+    {
+     "v": 2,
+     "text": "And all the acts of his power and his might, and the full account of the greatness of Mordecai, to which the king raised him, are they not written in the book of the chronicles of the kings of Media and Persia?"
+    },
+    {
+     "v": 3,
+     "text": "For Mordecai the Jew was second to King Ahasuerus, and great among the Jews, and pleasing to the multitude of his brothers. He sought the good of his people and spoke peace to all his offspring."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:1",
+     "text": "So the traditional reading (qere); the written text (ketiv) spells the name without one of its letters."
+    }
+   ]
+  }
+ ]
+}
