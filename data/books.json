@@ -1233,8 +1233,12 @@
    "name": "Zephaniah",
    "division": "Old Testament",
    "chapterCount": "3",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3
+   ],
+   "file": "data/books/zephaniah.json"
   },
   {
    "id": "haggai",

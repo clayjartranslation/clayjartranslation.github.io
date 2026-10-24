@@ -1,0 +1,391 @@
+{
+ "id": "zephaniah",
+ "name": "Zephaniah",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex (the Masoretic Text). It was checked against the Hebrew Minor Prophets scrolls from Qumran (4QXII, 4QXII-b, -c, and -g) and Wadi Murabba‘at (MurXII, early 2nd century AD), whose text is very close to the Masoretic Text. The transcriptions used are Martin Abegg’s, as published in the ETCBC Dead Sea Scrolls dataset. It was also checked against the Septuagint, using Brenton’s public-domain English translation. Portions of Zephaniah also survive in the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr, about the turn of the era), which is a revision of the Septuagint toward the Hebrew. Its readings could not be checked directly, so any that are cited are marked “reported.” Significant differences are footnoted; differences of spelling and damage to the scrolls are not. The divine title YHWH Tseva’ot is translated “Yahweh of Armies” (see the note at 2:9). Poetry is printed line by line. Verse numbers follow the standard English Bible: in Zephaniah, English and Hebrew verse numbers are the same.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    7,
+    10,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The word of Yahweh that came to Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.{a}"
+    },
+    {
+     "v": 2,
+     "text": "“I will utterly sweep away everything\nfrom upon the face of the ground,” declares Yahweh."
+    },
+    {
+     "v": 3,
+     "text": "“I will sweep away man and beast;\nI will sweep away the birds of the heavens\nand the fish of the sea,\nand the stumbling blocks along with the wicked.{b}\nI will cut off mankind\nfrom upon the face of the ground,” declares Yahweh."
+    },
+    {
+     "v": 4,
+     "text": "“I will stretch out my hand against Judah\nand against all the inhabitants of Jerusalem;\nand I will cut off from this place the remnant of Baal,\nand the name of the idol priests along with the priests;{c}"
+    },
+    {
+     "v": 5,
+     "text": "those who bow down on the rooftops\nto the host of the heavens;\nthose who bow down and swear to Yahweh\nand yet swear by Malcam;{d}"
+    },
+    {
+     "v": 6,
+     "text": "those who have turned back from following Yahweh,\nwho have not sought Yahweh nor inquired of him.”"
+    },
+    {
+     "v": 7,
+     "text": "Be silent before the Lord Yahweh!\nFor the day of Yahweh is near;\nYahweh has prepared a sacrifice;\nhe has consecrated his guests."
+    },
+    {
+     "v": 8,
+     "text": "“And it shall come to pass on the day of Yahweh’s sacrifice\nthat I will punish the princes and the sons of the king,\nand all who are clothed in foreign clothing."
+    },
+    {
+     "v": 9,
+     "text": "On that day I will punish\neveryone who leaps over the threshold,{e}\nwho fill their master’s house\nwith violence and deceit."
+    },
+    {
+     "v": 10,
+     "text": "“On that day,” declares Yahweh,\n“there shall be the sound of a cry from the Fish Gate,\na wail from the Second Quarter,{f}\nand a great crash from the hills."
+    },
+    {
+     "v": 11,
+     "text": "Howl, you who dwell in the Mortar!{g}\nFor all the people of Canaan are brought to silence;\nall who weigh out silver are cut off."
+    },
+    {
+     "v": 12,
+     "text": "At that time I will search Jerusalem with lamps,\nand I will punish the men\nwho are thickening on their dregs,{h}\nwho say in their heart,\n‘Yahweh will not do good,\nnor will he do evil.’"
+    },
+    {
+     "v": 13,
+     "text": "Their wealth shall become plunder\nand their houses a waste.\nThough they build houses, they shall not dwell in them;\nthough they plant vineyards, they shall not drink their wine.”"
+    },
+    {
+     "v": 14,
+     "text": "The great day of Yahweh is near,\nit is near and hurries greatly.\nHark, the day of Yahweh! It is bitter;\nthe mighty man cries aloud there."
+    },
+    {
+     "v": 15,
+     "text": "A day of wrath is that day,{i}\na day of distress and anguish,\na day of ruin and devastation,\na day of darkness and gloom,\na day of clouds and thick darkness,"
+    },
+    {
+     "v": 16,
+     "text": "a day of the ram’s horn and of the war cry\nagainst the walled cities\nand against the high corner towers."
+    },
+    {
+     "v": 17,
+     "text": "“I will bring distress upon mankind,\nand they shall walk like the blind,\nbecause they have sinned against Yahweh;\ntheir blood shall be poured out like dust,\nand their flesh like dung.”"
+    },
+    {
+     "v": 18,
+     "text": "Their silver and their gold\nwill not be able to rescue them\nin the day of Yahweh’s wrath.\nThe whole land shall be devoured\nby the fire of his jealousy;\nfor an end, yes, a sudden end,\nhe will make of all the inhabitants of the earth."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Zephaniah means “Yahweh has hidden” or “Yahweh has treasured up”; Cushi means “Cushite”; Gedaliah, “Yahweh is great”; Amariah, “Yahweh has spoken”; and Hezekiah, “Yahweh strengthens.” This Hezekiah may be the king of that name (reigned about 715–686 BC), though the text does not say so. Josiah reigned about 640–609 BC."
+    },
+    {
+     "m": "b",
+     "ref": "1:3",
+     "text": "The Hebrew phrase “and the stumbling blocks” (perhaps meaning idols) is obscure, and the Septuagint lacks it."
+    },
+    {
+     "m": "c",
+     "ref": "1:4",
+     "text": "Hebrew kemarim, a word used for priests of foreign gods (compare 2 Kings 23:5 and Hosea 10:5). The Septuagint has “the names of the priests.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:5",
+     "text": "Malcam means “their king.” It probably refers to Milcom, the god of the Ammonites (1 Kings 11:5), and some ancient versions read “Milcom.” The Septuagint has “their king.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:9",
+     "text": "This may refer to a pagan custom (compare 1 Samuel 5:5), or to palace servants rushing in to seize the goods of others."
+    },
+    {
+     "m": "f",
+     "ref": "1:10",
+     "text": "The Fish Gate and the Second Quarter (Hebrew Mishneh) were in the northern part of Jerusalem."
+    },
+    {
+     "m": "g",
+     "ref": "1:11",
+     "text": "Hebrew Makhtesh, “mortar” or “hollow,” probably a district of Jerusalem. “The people of Canaan” may also be translated “the merchants.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:12",
+     "text": "That is, like wine left too long on its sediment: complacent and stagnant (compare Jeremiah 48:11)."
+    },
+    {
+     "m": "i",
+     "ref": "1:15",
+     "text": "In the Latin Vulgate, the opening words of this verse are Dies irae, dies illa (“A day of wrath, that day”). They gave the medieval hymn Dies irae its name."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    4,
+    8,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Gather yourselves together and gather,{a}\nO nation without shame,"
+    },
+    {
+     "v": 2,
+     "text": "before the decree brings forth—\nlike chaff the day passes by—\nbefore the fierce anger of Yahweh\ncomes upon you,\nbefore there comes upon you\nthe day of the anger of Yahweh."
+    },
+    {
+     "v": 3,
+     "text": "Seek Yahweh, all you humble of the land,\nwho do his justice;\nseek righteousness; seek humility;\nperhaps you will be hidden\non the day of the anger of Yahweh.{b}"
+    },
+    {
+     "v": 4,
+     "text": "For Gaza shall be forsaken,\nand Ashkelon a desolation;\nAshdod they shall drive out at noon,\nand Ekron shall be uprooted.{c}"
+    },
+    {
+     "v": 5,
+     "text": "Woe to the inhabitants of the seacoast,\nthe nation of the Cherethites!{d}\nThe word of Yahweh is against you,\nO Canaan, land of the Philistines;\nand I will destroy you until no inhabitant is left."
+    },
+    {
+     "v": 6,
+     "text": "And the land by the sea shall become pastures,\ncaves for shepherds, and pens for sheep.{e}"
+    },
+    {
+     "v": 7,
+     "text": "The coast shall belong to the remnant of the house of Judah;\non it they shall graze;\nin the houses of Ashkelon\nthey shall lie down at evening.\nFor Yahweh their God will visit them\nand restore their fortunes."
+    },
+    {
+     "v": 8,
+     "text": "“I have heard the taunts of Moab\nand the revilings of the sons of Ammon,\nhow they have taunted my people\nand made themselves great against their territory."
+    },
+    {
+     "v": 9,
+     "text": "Therefore, as I live,” declares Yahweh of Armies, the God of Israel,{f}\n“Moab shall become like Sodom,\nand the sons of Ammon like Gomorrah,\na place possessed by nettles and salt pits,\nand a desolation forever.\nThe remnant of my people shall plunder them,\nand the survivors of my nation shall inherit them.”"
+    },
+    {
+     "v": 10,
+     "text": "This shall be their lot in return for their pride,\nbecause they taunted and made themselves great\nagainst the people of Yahweh of Armies."
+    },
+    {
+     "v": 11,
+     "text": "Yahweh will be fearsome against them,\nfor he will starve all the gods of the earth;{g}\nand to him shall bow down, each from its own place,\nall the coastlands of the nations."
+    },
+    {
+     "v": 12,
+     "text": "You also, O Cushites,{h}\nshall be slain by my sword."
+    },
+    {
+     "v": 13,
+     "text": "And he will stretch out his hand against the north\nand destroy Assyria,\nand he will make Nineveh a desolation,\ndry as the wilderness."
+    },
+    {
+     "v": 14,
+     "text": "Herds shall lie down in her midst,\nall the beasts of every nation;{i}\nboth the desert owl and the hedgehog\nshall lodge among her column tops;\na voice shall sing in the window;\ndesolation shall be on the threshold;\nfor he has laid bare the cedar work."
+    },
+    {
+     "v": 15,
+     "text": "This is the exultant city\nthat dwelt securely,\nthat said in her heart,\n“I am, and there is none else.”\nHow she has become a desolation,\na lair for wild beasts!\nEveryone who passes by her\nhisses and shakes his fist."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "The Hebrew of verses 1–2 is difficult. The verb in verse 1 may mean “gather like stubble,” and the phrase translated “before the decree takes effect” is literally “before the decree gives birth.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:3",
+     "text": "“Hidden” (Hebrew sathar) may echo the name Zephaniah (“Yahweh has hidden”), though the verb is different."
+    },
+    {
+     "m": "c",
+     "ref": "2:4",
+     "text": "The verse plays on the Hebrew names: Gaza (‘Azzah) will be forsaken (‘azuvah), and Ekron (‘Eqron) will be uprooted (te‘aqer)."
+    },
+    {
+     "m": "d",
+     "ref": "2:5",
+     "text": "The Cherethites were a people of the coast, closely linked with the Philistines and probably from Crete (Kaphtor)."
+    },
+    {
+     "m": "e",
+     "ref": "2:6",
+     "text": "The Hebrew word translated “meadows” (keroth) is uncertain. It may refer to wells or to shepherds’ huts, and it may echo “Cherethites” in verse 5."
+    },
+    {
+     "m": "f",
+     "ref": "2:9",
+     "text": "Hebrew YHWH Tseva’ot, traditionally “the LORD of hosts.” The “armies” are the forces of heaven (the angels and the stars) and sometimes the armies of Israel. The title is translated “Yahweh of Armies” throughout."
+    },
+    {
+     "m": "g",
+     "ref": "2:11",
+     "text": "Or “he will make lean,” that is, cut off the offerings by which the gods were thought to be fed."
+    },
+    {
+     "m": "h",
+     "ref": "2:12",
+     "text": "Cush is the upper Nile region (ancient Nubia). Egypt was ruled by a Cushite dynasty until 656 BC."
+    },
+    {
+     "m": "i",
+     "ref": "2:14",
+     "text": "“Nation” may refer to any kind of creature (“every kind of beast”). The birds and animals named in this verse cannot be identified with certainty. The Septuagint differs in several places, for example “ravens in her porches.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    6,
+    8,
+    9,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Woe to her who is rebellious and defiled,\nthe oppressing city!{a}"
+    },
+    {
+     "v": 2,
+     "text": "She has not listened to the voice;\nshe has not accepted correction.\nShe has not trusted in Yahweh;\nshe has not drawn near to her God."
+    },
+    {
+     "v": 3,
+     "text": "Her officials within her are roaring lions;\nher judges are wolves of the evening\nthat leave nothing until the morning."
+    },
+    {
+     "v": 4,
+     "text": "Her prophets are reckless,\nmen of treachery;\nher priests have profaned what is holy;\nthey have done violence to the law."
+    },
+    {
+     "v": 5,
+     "text": "Yahweh within her is righteous;\nhe does no injustice;\nmorning by morning he brings his justice to light;\nhe does not fail;\nbut the unjust knows no shame."
+    },
+    {
+     "v": 6,
+     "text": "“I have cut off nations;\ntheir corner towers are desolate;\nI have laid waste their streets\nso that no one passes along them;\ntheir cities are laid waste,\nwithout a man, without an inhabitant."
+    },
+    {
+     "v": 7,
+     "text": "I said, ‘Surely you will fear me;\nyou will accept correction.’\nThen her dwelling would not be cut off,\nfor all that I appointed against her.\nBut they rose early and made all their deeds corrupt."
+    },
+    {
+     "v": 8,
+     "text": "“Therefore wait for me,” declares Yahweh,\n“until the day that I rise up for the prey.{b}\nFor my judgment is to gather the nations,\nthat I may assemble the kingdoms,\nto pour my indignation on them,\neven all my fierce anger;\nfor all the earth shall be devoured\nby the fire of my zeal."
+    },
+    {
+     "v": 9,
+     "text": "“For then I will turn to the peoples a purified lip,{c}\nthat they may all call upon Yahweh’s name\nand serve him with one shoulder.{d}"
+    },
+    {
+     "v": 10,
+     "text": "From beyond the rivers of Cush\nmy worshipers, the daughter of my scattered ones,\nshall bring my offering.{e}"
+    },
+    {
+     "v": 11,
+     "text": "In that day you will not be ashamed\nfor any of your doings\nin which you transgressed against me;\nfor then I will take away from among you\nthose who exult in their pride,\nand you shall no longer be haughty\non my holy mountain."
+    },
+    {
+     "v": 12,
+     "text": "But I will leave in your midst\na people humble and lowly,\nand they shall take refuge in the name of Yahweh."
+    },
+    {
+     "v": 13,
+     "text": "The remnant of Israel shall do no injustice\nand speak no lies,\nnor shall a deceitful tongue be found in their mouth;\nfor they shall graze and lie down,\nand none shall make them afraid.”"
+    },
+    {
+     "v": 14,
+     "text": "Sing aloud, O daughter of Zion;\nshout, O Israel!\nBe glad and exult with all your heart,\nO daughter of Jerusalem!"
+    },
+    {
+     "v": 15,
+     "text": "Yahweh has removed your judgments;\nhe has turned back your enemy.\nThe King of Israel, Yahweh, is in your midst;\nyou shall never again fear evil."
+    },
+    {
+     "v": 16,
+     "text": "On that day it shall be said to Jerusalem:\n“Do not fear, O Zion;\nlet not your hands grow weak."
+    },
+    {
+     "v": 17,
+     "text": "Yahweh your God is in your midst,\na mighty one who will save;\nhe will rejoice over you with gladness;\nhe will be quiet in his love;{f}\nhe will exult over you with loud singing.”"
+    },
+    {
+     "v": 18,
+     "text": "“I will gather those who grieve for the appointed feasts;\nthey were from you,\na burden of reproach upon her.{g}"
+    },
+    {
+     "v": 19,
+     "text": "Behold, at that time I will deal with all who afflict you,\nand I will rescue the limping\nand gather those who were driven away,\nand I will make them a praise and a name\nin every land where they were put to shame.{h}"
+    },
+    {
+     "v": 20,
+     "text": "At that time I will bring you in,\nand at that time I will gather you;\nfor I will give you renown and praise\namong all the peoples of the earth,\nwhen I restore your fortunes before your eyes,” says Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Hebrew mor’ah, “rebellious,” may play on mar’ah, “seen,” or on Moriah, the temple mount. The city is Jerusalem."
+    },
+    {
+     "m": "b",
+     "ref": "3:8",
+     "text": "Hebrew la‘ad, “for the prey.” The Septuagint has “for a witness,” reading the same letters as le‘ed."
+    },
+    {
+     "m": "c",
+     "ref": "3:9",
+     "text": "Literally “I will turn to the peoples a pure lip.” The Wadi Murabba‘at Minor Prophets scroll reads “upon the peoples.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:9",
+     "text": "That is, “side by side, with one accord.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:10",
+     "text": "The Hebrew of the second line is difficult. Some take “the daughter of Putsai” as a place name. The Septuagint has “I will receive my dispersed ones; they shall offer sacrifices to me.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:17",
+     "text": "Literally “he will be silent in his love,” perhaps meaning that he will no longer speak of their sins. The Septuagint has “and shall renew you in his love,” reading yehaddesh for yaharish."
+    },
+    {
+     "m": "g",
+     "ref": "3:18",
+     "text": "The Hebrew of this verse is obscure, and the translation is uncertain. The Septuagint has “And I will gather your afflicted ones. Alas! who has taken up a reproach against her?”"
+    },
+    {
+     "m": "h",
+     "ref": "3:19",
+     "text": "Literally “in all the earth, their shame.”"
+    }
+   ]
+  }
+ ]
+}
