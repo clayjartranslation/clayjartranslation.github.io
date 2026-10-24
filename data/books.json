@@ -1988,9 +1988,23 @@
    "id": "hebrews",
    "name": "Hebrews",
    "division": "New Testament",
-   "chapterCount": "13",
-   "translated": [],
-   "file": null
+   "chapterCount": 13,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "file": "data/books/hebrews.json"
   },
   {
    "id": "james",
