@@ -195,8 +195,20 @@
    "name": "Deuteronomy",
    "division": "Old Testament",
    "chapterCount": "34",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "file": "data/books/deuteronomy.json"
   },
   {
    "id": "joshua",
