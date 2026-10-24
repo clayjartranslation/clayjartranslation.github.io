@@ -1581,6 +1581,1405 @@
      "text": "Or “he approved.” Since the people’s sin offering (9:15) should have been eaten by the priests (6:26), Aaron may mean that after the deaths of his sons the priests were unfit to eat it, or that the deaths had defiled the sanctuary so that the offering had to be burned."
     }
    ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    9,
+    13,
+    20,
+    24,
+    29,
+    39,
+    41,
+    46
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses and to Aaron, saying to them,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak to the Israelites, saying, These are the living things that you may eat among all the animals that are on the earth."
+    },
+    {
+     "v": 3,
+     "text": "Whatever divides the hoof, having a split hoof, and chews the cud, among the animals, you may eat."
+    },
+    {
+     "v": 4,
+     "text": "Nevertheless, among those that chew the cud or divide the hoof, you must not eat these: the camel, because it chews the cud but does not divide the hoof; it is unclean to you."
+    },
+    {
+     "v": 5,
+     "text": "The rock badger,{a} because it chews the cud but does not divide the hoof; it is unclean to you."
+    },
+    {
+     "v": 6,
+     "text": "The hare, because it chews the cud{b} but does not divide the hoof; it is unclean to you."
+    },
+    {
+     "v": 7,
+     "text": "The pig, because it divides the hoof, having a split hoof, but does not chew the cud; it is unclean to you."
+    },
+    {
+     "v": 8,
+     "text": "You must not eat any of their flesh, and you must not touch their carcasses. They are unclean to you."
+    },
+    {
+     "v": 9,
+     "text": "“These you may eat of all that are in the waters: everything in the waters that has fins and scales, whether in the seas or in the rivers, you may eat."
+    },
+    {
+     "v": 10,
+     "text": "But everything in the seas or in the rivers that does not have fins and scales, of all the swarming creatures in the waters and of all the living creatures that are in the waters, is detestable{c} to you."
+    },
+    {
+     "v": 11,
+     "text": "They are to remain detestable to you. You must not eat any of their flesh, and you are to detest their carcasses."
+    },
+    {
+     "v": 12,
+     "text": "Everything in the waters that does not have fins and scales is detestable to you."
+    },
+    {
+     "v": 13,
+     "text": "“These you are to detest among the birds; they must not be eaten; they are detestable: the eagle,{d} the bearded vulture, the black vulture,"
+    },
+    {
+     "v": 14,
+     "text": "the kite, the falcon of any kind,"
+    },
+    {
+     "v": 15,
+     "text": "every raven of any kind,"
+    },
+    {
+     "v": 16,
+     "text": "the ostrich,{e} the nighthawk, the gull, the hawk of any kind,"
+    },
+    {
+     "v": 17,
+     "text": "the little owl, the cormorant, the great owl,"
+    },
+    {
+     "v": 18,
+     "text": "the barn owl, the desert owl, the carrion vulture,"
+    },
+    {
+     "v": 19,
+     "text": "the stork, the heron of any kind, the hoopoe, and the bat.{f}"
+    },
+    {
+     "v": 20,
+     "text": "“All winged swarming things that go on all fours{g} are detestable to you."
+    },
+    {
+     "v": 21,
+     "text": "Yet these you may eat among all the winged swarming things that go on all fours: those that have jointed legs above their feet, with which to leap on the earth."
+    },
+    {
+     "v": 22,
+     "text": "Of them you may eat these: the locust of any kind, the bald locust of any kind, the cricket of any kind, and the grasshopper of any kind.{h}"
+    },
+    {
+     "v": 23,
+     "text": "But all other winged swarming things that have four feet are detestable to you."
+    },
+    {
+     "v": 24,
+     "text": "“By these you will become unclean. Whoever touches their carcasses will be unclean until evening."
+    },
+    {
+     "v": 25,
+     "text": "Whoever carries any part of their carcasses is to wash his clothes and be unclean until evening."
+    },
+    {
+     "v": 26,
+     "text": "Every animal that divides the hoof but does not have a split hoof, or does not chew the cud, is unclean to you. Everyone who touches them will be unclean."
+    },
+    {
+     "v": 27,
+     "text": "Whatever goes on its paws, among all the animals that go on all fours, is unclean to you. Whoever touches their carcasses will be unclean until evening."
+    },
+    {
+     "v": 28,
+     "text": "Whoever carries their carcasses is to wash his clothes and be unclean until evening. They are unclean to you."
+    },
+    {
+     "v": 29,
+     "text": "“These are unclean to you among the swarming things that swarm on the earth: the mole rat,{i} the mouse, the great lizard of any kind,"
+    },
+    {
+     "v": 30,
+     "text": "the gecko, the monitor lizard, the lizard, the sand lizard, and the chameleon."
+    },
+    {
+     "v": 31,
+     "text": "These are unclean to you among all that swarm. Whoever touches them when they are dead will be unclean until evening."
+    },
+    {
+     "v": 32,
+     "text": "Anything on which any of them falls when they are dead will be unclean, whether it is an article of wood or clothing or skin or sackcloth, any article that is used for any purpose. It is to be put into water, and it will be unclean until evening; then it will be clean."
+    },
+    {
+     "v": 33,
+     "text": "If any of them falls into any clay pot, everything in it will be unclean, and you are to break the pot."
+    },
+    {
+     "v": 34,
+     "text": "Any food that could be eaten, on which water from such a pot comes, will be unclean, and any drink that could be drunk from any such vessel will be unclean."
+    },
+    {
+     "v": 35,
+     "text": "Everything on which any part of their carcass falls will be unclean. Whether oven or stove,{j} it is to be broken down. They are unclean and will remain unclean to you."
+    },
+    {
+     "v": 36,
+     "text": "But a spring or a cistern holding a collection of water will be clean, though whoever touches their carcass will be unclean."
+    },
+    {
+     "v": 37,
+     "text": "If any part of their carcass falls on any seed for sowing that is to be sown, it is clean."
+    },
+    {
+     "v": 38,
+     "text": "But if water is put on the seed and any part of their carcass falls on it, it is unclean to you."
+    },
+    {
+     "v": 39,
+     "text": "“If any animal that you may eat dies, whoever touches its carcass will be unclean until evening."
+    },
+    {
+     "v": 40,
+     "text": "Whoever eats of its carcass is to wash his clothes and be unclean until evening. Whoever carries its carcass is to wash his clothes and be unclean until evening."
+    },
+    {
+     "v": 41,
+     "text": "“Every swarming thing that swarms on the earth is detestable; it must not be eaten."
+    },
+    {
+     "v": 42,
+     "text": "Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, among all the swarming things that swarm on the earth, you must not eat them, for they are detestable."
+    },
+    {
+     "v": 43,
+     "text": "You must not make yourselves detestable with any swarming thing that swarms, and you must not make yourselves unclean with them, so that you become defiled by them."
+    },
+    {
+     "v": 44,
+     "text": "For I am Yahweh your God. Consecrate yourselves, therefore, and be holy, for I am holy.{k} You must not defile yourselves with any swarming thing that moves on the earth."
+    },
+    {
+     "v": 45,
+     "text": "For I am Yahweh who brought you up out of the land of Egypt to be your God. You are to be holy, for I am holy.”"
+    },
+    {
+     "v": 46,
+     "text": "This is the law about animals and birds and every living creature that moves in the waters and every creature that swarms on the earth,"
+    },
+    {
+     "v": 47,
+     "text": "to distinguish between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:5",
+     "text": "Hebrew shaphan, probably the rock hyrax (Procavia capensis), a small animal of rocky places (Psalm 104:18; Proverbs 30:26)."
+    },
+    {
+     "m": "b",
+     "ref": "11:6",
+     "text": "The hyrax and the hare do not chew the cud as cattle do, but their constant jaw motion and their habit of re-eating partly digested droppings look like it. The law uses ordinary observation, not modern zoological categories. The Septuagint names these two animals differently, and its wording in verses 5–6 differs from the Hebrew."
+    },
+    {
+     "m": "c",
+     "ref": "11:10",
+     "text": "Hebrew sheqets, a stronger word than “unclean,” used of things to be avoided with revulsion."
+    },
+    {
+     "m": "d",
+     "ref": "11:13",
+     "text": "Hebrew nesher, which can include the griffon vulture. Many of the bird names in verses 13–19 cannot be identified with certainty; the translations given are traditional or probable."
+    },
+    {
+     "m": "e",
+     "ref": "11:16",
+     "text": "Or “eagle owl”; Hebrew bath haya‘anah, literally “daughter of the desert” or “daughter of greed.”"
+    },
+    {
+     "m": "f",
+     "ref": "11:19",
+     "text": "The bat is grouped with birds because it flies. Hebrew ‘oph means any winged creature."
+    },
+    {
+     "m": "g",
+     "ref": "11:20",
+     "text": "That is, insects, which walk while seeming to move on four legs."
+    },
+    {
+     "m": "h",
+     "ref": "11:22",
+     "text": "The four Hebrew names, ’arbeh, sal‘am, chargol, and chagav, are all types of locust or grasshopper whose exact identification is uncertain."
+    },
+    {
+     "m": "i",
+     "ref": "11:29",
+     "text": "Hebrew choled, traditionally “weasel,” but probably the mole rat. The identification of the creatures in verses 29–30 is uncertain."
+    },
+    {
+     "m": "j",
+     "ref": "11:35",
+     "text": "Hebrew kirayim, a word found only here, probably a two-part cooking stove."
+    },
+    {
+     "m": "k",
+     "ref": "11:44",
+     "text": "This command, repeated in 11:45, 19:2, and 20:26, is the keynote of Leviticus and is quoted in 1 Peter 1:16."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    6
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak to the Israelites, saying, If a woman conceives{a} and gives birth to a male child, she will be unclean seven days. As in the days of her menstrual impurity,{b} she will be unclean."
+    },
+    {
+     "v": 3,
+     "text": "On the eighth day the flesh of his foreskin is to be circumcised."
+    },
+    {
+     "v": 4,
+     "text": "Then she is to remain in the blood of her purifying for thirty-three days. She must not touch anything holy or come into the sanctuary until the days of her purifying are completed."
+    },
+    {
+     "v": 5,
+     "text": "But if she gives birth to a female child, she will be unclean two weeks, as in her menstrual impurity, and she is to remain in the blood of her purifying for sixty-six days.{c}"
+    },
+    {
+     "v": 6,
+     "text": "“When the days of her purifying are completed, whether for a son or for a daughter, she is to bring to the priest at the entrance of the tent of meeting a lamb a year old for a burnt offering and a young pigeon or a turtledove for a sin offering."
+    },
+    {
+     "v": 7,
+     "text": "He is to offer it before Yahweh and make atonement for her, and she will be clean from her flow of blood. This is the law for her who gives birth, whether to a male or a female."
+    },
+    {
+     "v": 8,
+     "text": "If she cannot afford a lamb, she is to take two turtledoves or two young pigeons, one for a burnt offering and the other for a sin offering. The priest is to make atonement for her, and she will be clean.”{d}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:2",
+     "text": "Hebrew tazria‘, literally “produces seed,” that is, conceives."
+    },
+    {
+     "m": "b",
+     "ref": "12:2",
+     "text": "Hebrew niddah, the separation of menstruation (15:19–24)."
+    },
+    {
+     "m": "c",
+     "ref": "12:5",
+     "text": "No reason is given for the doubled periods for a daughter. The impurity is ritual, not moral; childbirth itself is not a sin, as the blessing of Genesis 1:28 shows. The sin offering here is better understood as a purification offering (see the note at 4:3)."
+    },
+    {
+     "m": "d",
+     "ref": "12:8",
+     "text": "Mary offered the offering of the poor after the birth of Jesus (Luke 2:22–24)."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1,
+    9,
+    18,
+    24,
+    29,
+    38,
+    40,
+    45,
+    47,
+    59
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses and to Aaron, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“When someone has on the skin of his body a swelling, a scab, or a shiny spot, and it becomes an affliction{a} of a defiling skin disease{b} on the skin of his body, he is to be brought to Aaron the priest or to one of his sons the priests."
+    },
+    {
+     "v": 3,
+     "text": "The priest is to examine the affliction on the skin of the body. If the hair in the affliction has turned white and the affliction appears deeper than the skin of his body, it is an affliction of a defiling skin disease. When the priest has examined him, he is to pronounce him unclean."
+    },
+    {
+     "v": 4,
+     "text": "But if the shiny spot is white on the skin of his body and does not appear deeper than the skin, and its hair has not turned white, the priest is to isolate the afflicted person for seven days."
+    },
+    {
+     "v": 5,
+     "text": "On the seventh day the priest is to examine him, and if in his eyes the affliction has remained as it was and the affliction has not spread on the skin, the priest is to isolate him for another seven days."
+    },
+    {
+     "v": 6,
+     "text": "The priest is to examine him again on the seventh day, and if the affliction has faded and the affliction has not spread on the skin, the priest is to pronounce him clean. It is only a scab. He is to wash his clothes and be clean."
+    },
+    {
+     "v": 7,
+     "text": "But if the scab spreads on the skin after he has shown himself to the priest for his cleansing, he is to show himself to the priest again."
+    },
+    {
+     "v": 8,
+     "text": "The priest is to examine him, and if the scab has spread on the skin, the priest is to pronounce him unclean. It is a defiling skin disease."
+    },
+    {
+     "v": 9,
+     "text": "“When anyone has an affliction of a defiling skin disease, he is to be brought to the priest."
+    },
+    {
+     "v": 10,
+     "text": "The priest is to examine him, and if there is a white swelling on the skin that has turned the hair white, and there is raw flesh in the swelling,"
+    },
+    {
+     "v": 11,
+     "text": "it is a chronic defiling disease on the skin of his body, and the priest is to pronounce him unclean. He is not to isolate him, for he is unclean."
+    },
+    {
+     "v": 12,
+     "text": "If the disease breaks out all over the skin, so that the disease covers all the skin of the afflicted person from head to foot, as far as the priest can see,"
+    },
+    {
+     "v": 13,
+     "text": "then the priest is to examine him, and if the disease has covered all his body, he is to pronounce the afflicted person clean.{c} He has turned all white; he is clean."
+    },
+    {
+     "v": 14,
+     "text": "But whenever raw flesh appears on him, he will be unclean."
+    },
+    {
+     "v": 15,
+     "text": "The priest is to examine the raw flesh and pronounce him unclean. Raw flesh is unclean; it is a defiling skin disease."
+    },
+    {
+     "v": 16,
+     "text": "But if the raw flesh changes again and turns white, he is to come to the priest."
+    },
+    {
+     "v": 17,
+     "text": "The priest is to examine him, and if the affliction has turned white, the priest is to pronounce the afflicted person clean. He is clean."
+    },
+    {
+     "v": 18,
+     "text": "“When there is a boil on the skin of one’s body and it has healed,"
+    },
+    {
+     "v": 19,
+     "text": "and in the place of the boil there comes a white swelling or a reddish-white shiny spot, it is to be shown to the priest."
+    },
+    {
+     "v": 20,
+     "text": "The priest is to examine it, and if it appears lower than the skin and its hair has turned white, the priest is to pronounce him unclean. It is an affliction of a defiling skin disease; it has broken out in the boil."
+    },
+    {
+     "v": 21,
+     "text": "But if the priest examines it and there is no white hair in it, and it is not lower than the skin but has faded, the priest is to isolate him for seven days."
+    },
+    {
+     "v": 22,
+     "text": "If it spreads on the skin, the priest is to pronounce him unclean. It is an affliction."
+    },
+    {
+     "v": 23,
+     "text": "But if the shiny spot stays in one place and does not spread, it is the scar of the boil, and the priest is to pronounce him clean."
+    },
+    {
+     "v": 24,
+     "text": "“Or when the body has a burn on its skin and the raw flesh of the burn becomes a reddish-white or white shiny spot,"
+    },
+    {
+     "v": 25,
+     "text": "the priest is to examine it, and if the hair in the shiny spot has turned white and it appears deeper than the skin, it is a defiling skin disease. It has broken out in the burn, and the priest is to pronounce him unclean. It is an affliction of a defiling skin disease."
+    },
+    {
+     "v": 26,
+     "text": "But if the priest examines it and there is no white hair in the shiny spot, and it is not lower than the skin but has faded, the priest is to isolate him for seven days."
+    },
+    {
+     "v": 27,
+     "text": "The priest is to examine him on the seventh day. If it has spread on the skin, the priest is to pronounce him unclean. It is an affliction of a defiling skin disease."
+    },
+    {
+     "v": 28,
+     "text": "But if the shiny spot stays in one place and has not spread on the skin but has faded, it is a swelling from the burn, and the priest is to pronounce him clean, for it is the scar of the burn."
+    },
+    {
+     "v": 29,
+     "text": "“When a man or a woman has an affliction on the head or the chin,"
+    },
+    {
+     "v": 30,
+     "text": "the priest is to examine the affliction, and if it appears deeper than the skin and the hair in it is yellow and thin, the priest is to pronounce him unclean. It is a scaly sore,{d} a defiling skin disease of the head or the chin."
+    },
+    {
+     "v": 31,
+     "text": "But if the priest examines the affliction of the scaly sore and it does not appear deeper than the skin and there is no black hair in it, the priest is to isolate the person with the scaly affliction for seven days."
+    },
+    {
+     "v": 32,
+     "text": "On the seventh day the priest is to examine the affliction. If the scaly sore has not spread, and there is no yellow hair in it, and the scaly sore does not appear deeper than the skin,"
+    },
+    {
+     "v": 33,
+     "text": "then he is to shave himself, but he is not to shave the scaly sore, and the priest is to isolate the person with the scaly sore for another seven days."
+    },
+    {
+     "v": 34,
+     "text": "On the seventh day the priest is to examine the scaly sore. If the scaly sore has not spread on the skin and does not appear deeper than the skin, the priest is to pronounce him clean. He is to wash his clothes and be clean."
+    },
+    {
+     "v": 35,
+     "text": "But if the scaly sore spreads on the skin after his cleansing,"
+    },
+    {
+     "v": 36,
+     "text": "the priest is to examine him, and if the scaly sore has spread on the skin, the priest need not look for yellow hair. He is unclean."
+    },
+    {
+     "v": 37,
+     "text": "But if in his eyes the scaly sore has remained as it was and black hair has grown in it, the scaly sore is healed; he is clean, and the priest is to pronounce him clean."
+    },
+    {
+     "v": 38,
+     "text": "“When a man or a woman has shiny spots on the skin of the body, white shiny spots,"
+    },
+    {
+     "v": 39,
+     "text": "the priest is to examine them, and if the shiny spots on the skin of their bodies are dull white, it is a harmless rash{e} that has broken out on the skin. He is clean."
+    },
+    {
+     "v": 40,
+     "text": "“If a man’s hair falls out from his head, he is bald, but he is clean."
+    },
+    {
+     "v": 41,
+     "text": "If his hair falls out from the front of his head, he has a bald forehead, but he is clean."
+    },
+    {
+     "v": 42,
+     "text": "But if on the bald head or the bald forehead there is a reddish-white affliction, it is a defiling skin disease breaking out on his bald head or his bald forehead."
+    },
+    {
+     "v": 43,
+     "text": "The priest is to examine him, and if the swelling of the affliction is reddish-white on his bald head or on his bald forehead, like the appearance of a defiling skin disease on the skin of the body,"
+    },
+    {
+     "v": 44,
+     "text": "he is a man with a defiling skin disease. He is unclean. The priest must pronounce him unclean; his affliction is on his head."
+    },
+    {
+     "v": 45,
+     "text": "“The person with the defiling skin disease, who has the affliction, is to wear torn clothes and let the hair of his head hang loose. He is to cover his upper lip{f} and cry out, ‘Unclean, unclean!’"
+    },
+    {
+     "v": 46,
+     "text": "He will be unclean all the days that the affliction is on him. He is unclean. He is to live alone; his dwelling is to be outside the camp."
+    },
+    {
+     "v": 47,
+     "text": "“When there is an affliction of a defiling mold{g} in a garment, whether a woolen or a linen garment,"
+    },
+    {
+     "v": 48,
+     "text": "in the warp or in the weft{h} of linen or wool, or in a skin or in anything made of skin,"
+    },
+    {
+     "v": 49,
+     "text": "if the affliction is greenish or reddish in the garment, or in the skin, or in the warp or the weft, or in any article made of skin, it is an affliction of a defiling mold, and it is to be shown to the priest."
+    },
+    {
+     "v": 50,
+     "text": "The priest is to examine the affliction and isolate the thing with the affliction for seven days."
+    },
+    {
+     "v": 51,
+     "text": "He is to examine the affliction on the seventh day. If the affliction has spread in the garment, in the warp or the weft, or in the skin, whatever the use of the skin, the affliction is a malignant{i} mold. It is unclean."
+    },
+    {
+     "v": 52,
+     "text": "He is to burn the garment, or the warp or the weft, whether wool or linen, or any article of skin that has the affliction in it, for it is a malignant mold. It is to be burned in the fire."
+    },
+    {
+     "v": 53,
+     "text": "But if the priest examines it, and the affliction has not spread in the garment, in the warp or the weft, or in any article of skin,"
+    },
+    {
+     "v": 54,
+     "text": "then the priest is to command that they wash the thing in which the affliction is, and he is to isolate it for another seven days."
+    },
+    {
+     "v": 55,
+     "text": "The priest is to examine the affliction after it has been washed. If the affliction has not changed its appearance, though the affliction has not spread, it is unclean. You are to burn it in the fire, whether the rot is on its back or on its front.{j}"
+    },
+    {
+     "v": 56,
+     "text": "But if the priest examines it, and the affliction has faded after it has been washed, he is to tear it out of the garment, or the skin, or the warp or the weft."
+    },
+    {
+     "v": 57,
+     "text": "If it appears again in the garment, in the warp or the weft, or in any article of skin, it is breaking out. You are to burn with fire whatever has the affliction."
+    },
+    {
+     "v": 58,
+     "text": "But the garment, the warp or the weft, or any article of skin from which the affliction has gone after you have washed it, is to be washed a second time, and it will be clean.”"
+    },
+    {
+     "v": 59,
+     "text": "This is the law for an affliction of a defiling mold in a garment of wool or linen, either in the warp or the weft, or in any article of skin, for pronouncing it clean or unclean."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:2",
+     "text": "Hebrew nega‘, literally “a touch” or “a stroke,” a mark or affliction, often thought of as sent by God (compare 14:34)."
+    },
+    {
+     "m": "b",
+     "ref": "13:2",
+     "text": "Hebrew tsara‘at, traditionally translated “leprosy.” It is not Hansen’s disease (modern leprosy): the symptoms described here do not match it, there is no clear evidence of Hansen’s disease in the ancient Near East before the time of Alexander the Great, and the same word is used for growths on cloth, leather, and the walls of houses (13:47–59; 14:33–53). It covers a range of scaly or flaking skin conditions, possibly including psoriasis, vitiligo, and fungal infections. The Septuagint’s lepra (whence “leprosy”) means a scaly condition. This translation renders it “defiling skin disease” on people and “defiling mold” on fabrics and houses, the same Hebrew word in both cases."
+    },
+    {
+     "m": "c",
+     "ref": "13:13",
+     "text": "The whitening of the whole body apparently showed that the condition had run its course and was no longer active."
+    },
+    {
+     "m": "d",
+     "ref": "13:30",
+     "text": "Hebrew netheq, perhaps from a verb meaning “to tear off,” a condition of the scalp or beard, perhaps ringworm or a scaly eczema."
+    },
+    {
+     "m": "e",
+     "ref": "13:39",
+     "text": "Hebrew bohaq, a word found only here, perhaps a harmless white rash such as vitiligo or leucoderma."
+    },
+    {
+     "m": "f",
+     "ref": "13:45",
+     "text": "Or “his mustache,” a sign of mourning (Ezekiel 24:17, 22; Micah 3:7)."
+    },
+    {
+     "m": "g",
+     "ref": "13:47",
+     "text": "Hebrew tsara‘at, the same word used for the skin disease (see the note at 13:2). On cloth and leather it probably means mold, mildew, or a fungus."
+    },
+    {
+     "m": "h",
+     "ref": "13:48",
+     "text": "Or possibly “in the woven or knitted material.” The exact meaning of the Hebrew shethi and ‘erev is uncertain."
+    },
+    {
+     "m": "i",
+     "ref": "13:51",
+     "text": "Hebrew mam’ereth, “malignant” or “painful,” a word found only in 13:51–52 and 14:44."
+    },
+    {
+     "m": "j",
+     "ref": "13:55",
+     "text": "Literally “whether in its bald back or its bald front,” that is, the worn spots on the inside or outside of the fabric. The Hebrew is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    10,
+    21,
+    33,
+    43,
+    48,
+    54
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“This is to be the law for the person with a defiling skin disease on the day of his cleansing. He is to be brought to the priest."
+    },
+    {
+     "v": 3,
+     "text": "The priest is to go out of the camp, and the priest is to examine him. If the affliction of the defiling skin disease has been healed in the afflicted person,"
+    },
+    {
+     "v": 4,
+     "text": "the priest is to command that two live clean birds, cedar wood, scarlet yarn, and hyssop{a} be taken for the one who is to be cleansed."
+    },
+    {
+     "v": 5,
+     "text": "The priest is to command that one of the birds be slaughtered in a clay pot over running water.{b}"
+    },
+    {
+     "v": 6,
+     "text": "He is to take the live bird with the cedar wood, the scarlet yarn, and the hyssop, and dip them and the live bird in the blood of the bird that was slaughtered over the running water."
+    },
+    {
+     "v": 7,
+     "text": "He is to sprinkle it seven times on the one who is to be cleansed of the defiling disease. Then he is to pronounce him clean and let the live bird go free into the open field."
+    },
+    {
+     "v": 8,
+     "text": "The one who is to be cleansed is to wash his clothes, shave off all his hair, and bathe himself in water, and he will be clean. After that he may come into the camp, but he is to live outside his tent seven days."
+    },
+    {
+     "v": 9,
+     "text": "On the seventh day he is to shave off all his hair: his head, his beard, and his eyebrows. He is to shave off all his hair. Then he is to wash his clothes and bathe his body in water, and he will be clean."
+    },
+    {
+     "v": 10,
+     "text": "“On the eighth day he is to take two male lambs without defect, one ewe lamb a year old without defect, about 6 quarts{c} of fine flour mixed with oil as a grain offering, and about a third of a quart{d} of oil."
+    },
+    {
+     "v": 11,
+     "text": "The priest who cleanses him is to set the man who is to be cleansed, with these things, before Yahweh at the entrance of the tent of meeting."
+    },
+    {
+     "v": 12,
+     "text": "The priest is to take one of the male lambs and offer it as a guilt offering, with the oil,{e} and wave them as a wave offering before Yahweh."
+    },
+    {
+     "v": 13,
+     "text": "He is to slaughter the lamb in the place where the sin offering and the burnt offering are slaughtered, in the holy place. For the guilt offering, like the sin offering, belongs to the priest. It is most holy."
+    },
+    {
+     "v": 14,
+     "text": "The priest is to take some of the blood of the guilt offering, and the priest is to put it on the lobe of the right ear of the one who is to be cleansed, on the thumb of his right hand, and on the big toe of his right foot."
+    },
+    {
+     "v": 15,
+     "text": "Then the priest is to take some of the oil and pour it into the palm of his own left hand."
+    },
+    {
+     "v": 16,
+     "text": "The priest is to dip his right finger in the oil that is in his left palm and sprinkle some oil with his finger seven times before Yahweh."
+    },
+    {
+     "v": 17,
+     "text": "Of the rest of the oil in his palm, the priest is to put some on the lobe of the right ear of the one who is to be cleansed, on the thumb of his right hand, and on the big toe of his right foot, on top of the blood of the guilt offering."
+    },
+    {
+     "v": 18,
+     "text": "The rest of the oil that is in the priest’s palm he is to put on the head of the one who is to be cleansed. So the priest is to make atonement for him before Yahweh."
+    },
+    {
+     "v": 19,
+     "text": "The priest is to offer the sin offering and make atonement for the one who is to be cleansed from his uncleanness. After that he is to slaughter the burnt offering."
+    },
+    {
+     "v": 20,
+     "text": "The priest is to offer the burnt offering and the grain offering on the altar. So the priest is to make atonement for him, and he will be clean."
+    },
+    {
+     "v": 21,
+     "text": "“But if he is poor and cannot afford so much, he is to take one male lamb for a guilt offering to be waved, to make atonement for him, and about 2 quarts{f} of fine flour mixed with oil for a grain offering, and about a third of a quart of oil,"
+    },
+    {
+     "v": 22,
+     "text": "and two turtledoves or two young pigeons, whichever he can afford. One is to be a sin offering and the other a burnt offering."
+    },
+    {
+     "v": 23,
+     "text": "On the eighth day he is to bring them for his cleansing to the priest, to the entrance of the tent of meeting, before Yahweh."
+    },
+    {
+     "v": 24,
+     "text": "The priest is to take the lamb of the guilt offering and the oil, and the priest is to wave them as a wave offering before Yahweh."
+    },
+    {
+     "v": 25,
+     "text": "He is to slaughter the lamb of the guilt offering. The priest is to take some of the blood of the guilt offering and put it on the lobe of the right ear of the one who is to be cleansed, on the thumb of his right hand, and on the big toe of his right foot."
+    },
+    {
+     "v": 26,
+     "text": "The priest is to pour some of the oil into the palm of his own left hand,"
+    },
+    {
+     "v": 27,
+     "text": "and the priest is to sprinkle with his right finger some of the oil that is in his left palm seven times before Yahweh."
+    },
+    {
+     "v": 28,
+     "text": "The priest is to put some of the oil that is in his palm on the lobe of the right ear of the one who is to be cleansed, on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the guilt offering."
+    },
+    {
+     "v": 29,
+     "text": "The rest of the oil that is in the priest’s palm he is to put on the head of the one who is to be cleansed, to make atonement for him before Yahweh."
+    },
+    {
+     "v": 30,
+     "text": "He is to offer one of the turtledoves or young pigeons, whichever he can afford,"
+    },
+    {
+     "v": 31,
+     "text": "such as he can afford,{g} one as a sin offering and the other as a burnt offering, along with the grain offering. So the priest is to make atonement before Yahweh for the one who is to be cleansed."
+    },
+    {
+     "v": 32,
+     "text": "This is the law for one who has an affliction of a defiling skin disease, who cannot afford the offerings for his cleansing.”"
+    },
+    {
+     "v": 33,
+     "text": "Yahweh spoke to Moses and to Aaron, saying,"
+    },
+    {
+     "v": 34,
+     "text": "“When you come into the land of Canaan,{h} which I am giving you as a possession, and I put an affliction of a defiling mold in a house in the land of your possession,"
+    },
+    {
+     "v": 35,
+     "text": "the owner of the house is to come and tell the priest, ‘Something like an affliction has appeared to me in the house.’"
+    },
+    {
+     "v": 36,
+     "text": "The priest is to command that they empty the house before the priest goes in to examine the affliction, so that nothing in the house becomes unclean. After that the priest is to go in to examine the house."
+    },
+    {
+     "v": 37,
+     "text": "He is to examine the affliction, and if the affliction in the walls of the house has greenish or reddish depressions{i} that appear lower than the surface of the wall,"
+    },
+    {
+     "v": 38,
+     "text": "the priest is to go out of the house to the entrance of the house and shut up the house for seven days."
+    },
+    {
+     "v": 39,
+     "text": "The priest is to come again on the seventh day and examine it. If the affliction has spread in the walls of the house,"
+    },
+    {
+     "v": 40,
+     "text": "the priest is to command that they tear out the stones in which the affliction is and throw them outside the city in an unclean place."
+    },
+    {
+     "v": 41,
+     "text": "He is to have the inside of the house scraped all around, and the plaster that they scrape off they are to pour out outside the city in an unclean place."
+    },
+    {
+     "v": 42,
+     "text": "Then they are to take other stones and put them in the place of those stones, and he is to take other plaster and replaster the house."
+    },
+    {
+     "v": 43,
+     "text": "“If the affliction breaks out again in the house after he has torn out the stones and scraped the house and replastered it,"
+    },
+    {
+     "v": 44,
+     "text": "the priest is to come and examine it. If the affliction has spread in the house, it is a malignant mold in the house. It is unclean."
+    },
+    {
+     "v": 45,
+     "text": "He is to tear down the house, its stones, its timber, and all the plaster of the house, and carry them out of the city to an unclean place."
+    },
+    {
+     "v": 46,
+     "text": "Moreover, whoever goes into the house while it is shut up will be unclean until evening."
+    },
+    {
+     "v": 47,
+     "text": "Whoever lies down in the house is to wash his clothes, and whoever eats in the house is to wash his clothes."
+    },
+    {
+     "v": 48,
+     "text": "“But if the priest comes in and examines it, and the affliction has not spread in the house after the house was replastered, the priest is to pronounce the house clean, because the affliction is healed."
+    },
+    {
+     "v": 49,
+     "text": "To cleanse the house he is to take two birds, cedar wood, scarlet yarn, and hyssop."
+    },
+    {
+     "v": 50,
+     "text": "He is to slaughter one of the birds in a clay pot over running water."
+    },
+    {
+     "v": 51,
+     "text": "He is to take the cedar wood, the hyssop, the scarlet yarn, and the live bird, and dip them in the blood of the slaughtered bird and in the running water, and sprinkle the house seven times."
+    },
+    {
+     "v": 52,
+     "text": "So he is to cleanse the house with the blood of the bird and with the running water, with the live bird, the cedar wood, the hyssop, and the scarlet yarn."
+    },
+    {
+     "v": 53,
+     "text": "He is to let the live bird go free outside the city into the open field. So he is to make atonement for the house, and it will be clean.”"
+    },
+    {
+     "v": 54,
+     "text": "This is the law for every affliction of a defiling skin disease, for a scaly sore,"
+    },
+    {
+     "v": 55,
+     "text": "for a defiling mold in a garment or in a house,"
+    },
+    {
+     "v": 56,
+     "text": "for a swelling, for a scab, and for a shiny spot,"
+    },
+    {
+     "v": 57,
+     "text": "to teach when it is unclean and when it is clean. This is the law for defiling diseases."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:4",
+     "text": "Hebrew ’ezov, probably the Syrian hyssop or marjoram (Origanum syriacum), whose bushy stems could be used for sprinkling (Exodus 12:22; Psalm 51:7)."
+    },
+    {
+     "m": "b",
+     "ref": "14:5",
+     "text": "Literally “living water,” fresh water from a spring or stream rather than standing water."
+    },
+    {
+     "m": "c",
+     "ref": "14:10",
+     "text": "Hebrew “three-tenths of an ephah,” about 6.6 liters. Ancient standards varied."
+    },
+    {
+     "m": "d",
+     "ref": "14:10",
+     "text": "Hebrew “one log,” a liquid measure found in the Bible only in this chapter (14:10, 12, 15, 21, 24). Later Jewish sources make it about a twelfth of a hin, roughly 0.3 liter; the ancient value is uncertain. The Septuagint reads kotyle, “a small cup.”"
+    },
+    {
+     "m": "e",
+     "ref": "14:12",
+     "text": "Hebrew “with the log of oil”; so also in verses 15 and 24, the oil measured out in verse 10."
+    },
+    {
+     "m": "f",
+     "ref": "14:21",
+     "text": "Hebrew “one-tenth of an ephah,” about 2.2 liters."
+    },
+    {
+     "m": "g",
+     "ref": "14:31",
+     "text": "The Septuagint lacks “such as he can afford” at the start of this verse; the Hebrew repeats the phrase from verse 30."
+    },
+    {
+     "m": "h",
+     "ref": "14:34",
+     "text": "The name Canaan is of uncertain meaning; it may be related to a word for purple dye (compare Genesis 9:18)."
+    },
+    {
+     "m": "i",
+     "ref": "14:37",
+     "text": "Hebrew sheqa‘aruroth, a word found only here, perhaps “depressions” or “streaks.”"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1,
+    13,
+    16,
+    19,
+    25,
+    31,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses and to Aaron, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak to the Israelites and say to them, When any man has a discharge from his body,{a} his discharge is unclean."
+    },
+    {
+     "v": 3,
+     "text": "This is his uncleanness in his discharge: whether his body runs with his discharge or his body is blocked from his discharge, it is his uncleanness.{b}"
+    },
+    {
+     "v": 4,
+     "text": "Every bed on which the one with the discharge lies will be unclean, and everything on which he sits will be unclean."
+    },
+    {
+     "v": 5,
+     "text": "Anyone who touches his bed is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 6,
+     "text": "Whoever sits on anything on which the one with the discharge has sat is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 7,
+     "text": "Whoever touches the body of the one with the discharge is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 8,
+     "text": "If the one with the discharge spits on someone who is clean, that person is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 9,
+     "text": "Any saddle that the one with the discharge rides on will be unclean."
+    },
+    {
+     "v": 10,
+     "text": "Whoever touches anything that was under him will be unclean until evening, and whoever carries such things is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 11,
+     "text": "Anyone whom the one with the discharge touches without having rinsed his hands in water is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 12,
+     "text": "A clay pot that the one with the discharge touches is to be broken, and every wooden article is to be rinsed in water."
+    },
+    {
+     "v": 13,
+     "text": "“When the one with a discharge is cleansed of his discharge, he is to count for himself seven days for his cleansing. Then he is to wash his clothes and bathe his body in running water, and he will be clean."
+    },
+    {
+     "v": 14,
+     "text": "On the eighth day he is to take two turtledoves or two young pigeons and come before Yahweh to the entrance of the tent of meeting and give them to the priest."
+    },
+    {
+     "v": 15,
+     "text": "The priest is to offer them, one as a sin offering and the other as a burnt offering. So the priest is to make atonement for him before Yahweh for his discharge."
+    },
+    {
+     "v": 16,
+     "text": "“When a man has an emission of semen, he is to bathe his whole body in water and be unclean until evening."
+    },
+    {
+     "v": 17,
+     "text": "Every garment and every skin on which there is semen is to be washed with water and be unclean until evening."
+    },
+    {
+     "v": 18,
+     "text": "When a man lies with a woman and has an emission of semen, both of them are to bathe in water and be unclean until evening."
+    },
+    {
+     "v": 19,
+     "text": "“When a woman has a discharge, and the discharge in her body is blood, she is to be in her menstrual impurity seven days, and whoever touches her will be unclean until evening."
+    },
+    {
+     "v": 20,
+     "text": "Everything on which she lies during her menstrual impurity will be unclean, and everything on which she sits will be unclean."
+    },
+    {
+     "v": 21,
+     "text": "Whoever touches her bed is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 22,
+     "text": "Whoever touches anything on which she sits is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 23,
+     "text": "Whether it is the bed or anything on which she sits, when he touches it he will be unclean until evening."
+    },
+    {
+     "v": 24,
+     "text": "If any man lies with her and her menstrual impurity comes on him, he will be unclean seven days, and every bed on which he lies will be unclean."
+    },
+    {
+     "v": 25,
+     "text": "“If a woman has a discharge of blood for many days, not at the time of her menstrual impurity, or if she has a discharge beyond the time of her impurity, all the days of the discharge of her uncleanness she is to be as in the days of her impurity. She is unclean.{c}"
+    },
+    {
+     "v": 26,
+     "text": "Every bed on which she lies all the days of her discharge is to be to her like the bed of her impurity, and everything on which she sits will be unclean, like the uncleanness of her impurity."
+    },
+    {
+     "v": 27,
+     "text": "Whoever touches these things will be unclean and is to wash his clothes and bathe in water and be unclean until evening."
+    },
+    {
+     "v": 28,
+     "text": "But if she is cleansed of her discharge, she is to count for herself seven days, and after that she will be clean."
+    },
+    {
+     "v": 29,
+     "text": "On the eighth day she is to take two turtledoves or two young pigeons and bring them to the priest, to the entrance of the tent of meeting."
+    },
+    {
+     "v": 30,
+     "text": "The priest is to offer one as a sin offering and the other as a burnt offering. So the priest is to make atonement for her before Yahweh for the discharge of her uncleanness."
+    },
+    {
+     "v": 31,
+     "text": "“So you are to keep the Israelites separate from their uncleanness, so that they do not die in their uncleanness by defiling my tabernacle that is among them.”"
+    },
+    {
+     "v": 32,
+     "text": "This is the law for him who has a discharge, and for him who has an emission of semen so that he becomes unclean by it,"
+    },
+    {
+     "v": 33,
+     "text": "and for her who is unwell with her menstrual impurity, and for anyone who has a discharge, whether male or female, and for the man who lies with a woman who is unclean."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:2",
+     "text": "Literally “from his flesh,” a euphemism for the genitals. The discharge is probably an abnormal one, such as from gonorrhea or another infection, not a normal emission (verse 16)."
+    },
+    {
+     "m": "b",
+     "ref": "15:3",
+     "text": "The Samaritan Pentateuch, the Septuagint, and a Dead Sea Scroll of Leviticus in paleo-Hebrew script (11QpaleoLev-a) add “all the days of the discharge of his body, whether his body runs with his discharge or is blocked by it.” The Masoretic Text may have lost the words by a scribe’s eye skipping between the similar phrases."
+    },
+    {
+     "m": "c",
+     "ref": "15:25",
+     "text": "Compare the woman who had suffered from bleeding for twelve years (Mark 5:25–34)."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paras": [
+    1,
+    6,
+    11,
+    15,
+    20,
+    23,
+    29
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses after the death of the two sons of Aaron, when they came near before Yahweh and died.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Yahweh said to Moses, “Tell Aaron your brother that he must not come at just any time into the Holy Place inside the veil, in front of the atonement cover{b} that is on the ark, so that he will not die. For I will appear in the cloud above the atonement cover."
+    },
+    {
+     "v": 3,
+     "text": "This is how Aaron is to come into the Holy Place: with a young bull for a sin offering and a ram for a burnt offering."
+    },
+    {
+     "v": 4,
+     "text": "He is to put on the holy linen tunic, and have the linen undergarments on his body, and tie the linen sash around him, and wear the linen turban. These are the holy garments. He is to bathe his body in water and then put them on."
+    },
+    {
+     "v": 5,
+     "text": "He is to take from the congregation of the Israelites two male goats for a sin offering and one ram for a burnt offering."
+    },
+    {
+     "v": 6,
+     "text": "“Aaron is to offer the bull as a sin offering for himself and make atonement for himself and for his house."
+    },
+    {
+     "v": 7,
+     "text": "Then he is to take the two goats and set them before Yahweh at the entrance of the tent of meeting."
+    },
+    {
+     "v": 8,
+     "text": "Aaron is to cast lots over the two goats, one lot for Yahweh and the other lot for Azazel.{c}"
+    },
+    {
+     "v": 9,
+     "text": "Aaron is to present the goat on which the lot for Yahweh fell and offer it as a sin offering."
+    },
+    {
+     "v": 10,
+     "text": "But the goat on which the lot for Azazel fell is to be set alive before Yahweh, to make atonement over it,{d} to send it away into the wilderness to Azazel."
+    },
+    {
+     "v": 11,
+     "text": "“Aaron is to present the bull of the sin offering, which is for himself, and make atonement for himself and for his house. He is to slaughter the bull of the sin offering, which is for himself."
+    },
+    {
+     "v": 12,
+     "text": "He is to take a censer full of coals of fire from the altar before Yahweh, and two handfuls of finely ground fragrant incense, and bring it inside the veil."
+    },
+    {
+     "v": 13,
+     "text": "He is to put the incense on the fire before Yahweh, so that the cloud of the incense covers the atonement cover that is over the testimony,{e} so that he does not die."
+    },
+    {
+     "v": 14,
+     "text": "He is to take some of the blood of the bull and sprinkle it with his finger on the front of the atonement cover,{f} and before the atonement cover he is to sprinkle some of the blood with his finger seven times."
+    },
+    {
+     "v": 15,
+     "text": "“Then he is to slaughter the goat of the sin offering that is for the people and bring its blood inside the veil, and do with its blood as he did with the blood of the bull, sprinkling it on the atonement cover and in front of the atonement cover."
+    },
+    {
+     "v": 16,
+     "text": "So he is to make atonement for the Holy Place, because of the uncleannesses of the Israelites and because of their transgressions, all their sins. He is to do the same for the tent of meeting, which dwells with them in the midst of their uncleannesses."
+    },
+    {
+     "v": 17,
+     "text": "No one is to be in the tent of meeting from the time he goes in to make atonement in the Holy Place until he comes out and has made atonement for himself, for his house, and for all the assembly of Israel."
+    },
+    {
+     "v": 18,
+     "text": "Then he is to go out to the altar that is before Yahweh and make atonement for it. He is to take some of the blood of the bull and some of the blood of the goat and put it on the horns of the altar all around."
+    },
+    {
+     "v": 19,
+     "text": "He is to sprinkle some of the blood on it with his finger seven times, and cleanse it and consecrate it from the uncleannesses of the Israelites."
+    },
+    {
+     "v": 20,
+     "text": "“When he has finished making atonement for the Holy Place, the tent of meeting, and the altar, he is to present the live goat."
+    },
+    {
+     "v": 21,
+     "text": "Aaron is to lay both his hands on the head of the live goat and confess over it all the iniquities of the Israelites and all their transgressions, all their sins. He is to put them on the head of the goat and send it away into the wilderness by the hand of a man ready for the task.{g}"
+    },
+    {
+     "v": 22,
+     "text": "The goat will carry on itself all their iniquities to a remote land,{h} and he is to let the goat go free in the wilderness."
+    },
+    {
+     "v": 23,
+     "text": "“Then Aaron is to come into the tent of meeting and take off the linen garments that he put on when he went into the Holy Place, and leave them there."
+    },
+    {
+     "v": 24,
+     "text": "He is to bathe his body in water in a holy place and put on his garments, and come out and offer his burnt offering and the burnt offering of the people, and make atonement for himself and for the people."
+    },
+    {
+     "v": 25,
+     "text": "The fat of the sin offering he is to burn on the altar."
+    },
+    {
+     "v": 26,
+     "text": "The one who let the goat go to Azazel is to wash his clothes and bathe his body in water, and after that he may come into the camp."
+    },
+    {
+     "v": 27,
+     "text": "The bull of the sin offering and the goat of the sin offering, whose blood was brought in to make atonement in the Holy Place, are to be carried outside the camp. Their hides, their flesh, and their dung are to be burned with fire."
+    },
+    {
+     "v": 28,
+     "text": "The one who burns them is to wash his clothes and bathe his body in water, and after that he may come into the camp."
+    },
+    {
+     "v": 29,
+     "text": "“This is to be a statute forever for you: in the seventh month (in September–October),{i} on the tenth day of the month, you are to humble yourselves{j} and do no work at all, whether the native-born or the foreigner who resides among you."
+    },
+    {
+     "v": 30,
+     "text": "For on this day atonement will be made for you, to cleanse you. From all your sins you will be clean before Yahweh."
+    },
+    {
+     "v": 31,
+     "text": "It is a Sabbath of complete rest{k} for you, and you are to humble yourselves. It is a statute forever."
+    },
+    {
+     "v": 32,
+     "text": "The priest who is anointed and ordained to serve as priest in his father’s place is to make the atonement. He is to put on the linen garments, the holy garments,"
+    },
+    {
+     "v": 33,
+     "text": "and make atonement for the Most Holy Place,{l} and he is to make atonement for the tent of meeting and for the altar, and he is to make atonement for the priests and for all the people of the assembly."
+    },
+    {
+     "v": 34,
+     "text": "This is to be a statute forever for you, to make atonement for the Israelites once a year because of all their sins.” And he did as Yahweh commanded Moses.{m}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:1",
+     "text": "The Samaritan Pentateuch and the Septuagint read “when they offered strange fire before Yahweh and died,” recalling 10:1–2."
+    },
+    {
+     "m": "b",
+     "ref": "16:2",
+     "text": "Hebrew kapporeth, from the same root as kipper, “to atone.” The traditional “mercy seat” comes from the German of Martin Luther by way of William Tyndale. See the note at Exodus 25:17."
+    },
+    {
+     "m": "c",
+     "ref": "16:8",
+     "text": "Hebrew la‘aza’zel, “for Azazel,” a word found only in this chapter (verses 8, 10, 26). Its meaning is much debated. (1) A proper name, perhaps of a wilderness demon, matching “for Yahweh” in the same verse; 1 Enoch 8–10 makes Azazel the leader of fallen angels. (2) “The goat that departs,” from ‘ez, “goat,” and ’azal, “go away,” the source of the traditional English “scapegoat” (from Tyndale) and close to the Septuagint’s apopompaios, “the one sent away,” and the Vulgate’s caper emissarius. (3) A place name, “a rugged cliff” or “precipice,” as in some rabbinic tradition. (4) An abstract noun meaning “complete removal.” The name is kept here as it stands in the Hebrew. In no reading is the goat a sacrifice offered to Azazel; it carries Israel’s sins away (verses 21–22)."
+    },
+    {
+     "m": "d",
+     "ref": "16:10",
+     "text": "Or “to make atonement with it,” or “to perform purification on it.” The precise sense of kipper here is debated, since the goat is not slaughtered."
+    },
+    {
+     "m": "e",
+     "ref": "16:13",
+     "text": "The tablets of the covenant inside the ark (Exodus 25:16, 21)."
+    },
+    {
+     "m": "f",
+     "ref": "16:14",
+     "text": "Literally “on the face of the atonement cover eastward.”"
+    },
+    {
+     "m": "g",
+     "ref": "16:21",
+     "text": "Hebrew ‘itti, a word found only here, perhaps “appointed” or “standing ready.” The Septuagint reads “a man ready at hand.”"
+    },
+    {
+     "m": "h",
+     "ref": "16:22",
+     "text": "Hebrew gezerah, literally “cut off,” a land from which there is no return."
+    },
+    {
+     "m": "i",
+     "ref": "16:29",
+     "text": "Hebrew “in the seventh month,” counted from the spring new year of Israel’s religious calendar (Exodus 12:2). Because the Hebrew months were lunar, the seventh month (later called Tishri) fell in September–October. This tenth day became Yom Kippur, the Day of Atonement (23:26–32)."
+    },
+    {
+     "m": "j",
+     "ref": "16:29",
+     "text": "Literally “afflict your souls,” understood in Jewish tradition as fasting and other self-denial (compare Psalm 35:13; Isaiah 58:3, 5; Acts 27:9, “the Fast”)."
+    },
+    {
+     "m": "k",
+     "ref": "16:31",
+     "text": "Hebrew shabbath shabbathon, a rest of the highest degree."
+    },
+    {
+     "m": "l",
+     "ref": "16:33",
+     "text": "Literally “the holy sanctuary.”"
+    },
+    {
+     "m": "m",
+     "ref": "16:34",
+     "text": "Hebrew “and he did,” that is, Aaron carried out these instructions when the day came. The Septuagint reads “it shall be done once in the year, as the Lord commanded Moses.” Hebrews 9:6–14, 24–28 interprets this day in light of Christ."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "paras": [
+    1,
+    8,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Yahweh spoke to Moses, saying,"
+    },
+    {
+     "v": 2,
+     "text": "“Speak to Aaron and to his sons and to all the Israelites and say to them, This is what Yahweh has commanded:"
+    },
+    {
+     "v": 3,
+     "text": "Any man of the house of Israel who slaughters an ox or a lamb or a goat in the camp, or who slaughters it outside the camp,"
+    },
+    {
+     "v": 4,
+     "text": "and does not bring it to the entrance of the tent of meeting{a} to offer it as an offering to Yahweh before the tabernacle of Yahweh, bloodguilt will be counted against that man. He has shed blood, and that man will be cut off from among his people."
+    },
+    {
+     "v": 5,
+     "text": "This is so that the Israelites may bring their sacrifices that they sacrifice in the open field, that they may bring them to Yahweh, to the entrance of the tent of meeting, to the priest, and sacrifice them as sacrifices of peace offerings to Yahweh."
+    },
+    {
+     "v": 6,
+     "text": "The priest is to splash the blood against the altar of Yahweh at the entrance of the tent of meeting and burn the fat as a pleasing aroma to Yahweh."
+    },
+    {
+     "v": 7,
+     "text": "So they will no longer sacrifice their sacrifices to the goat demons,{b} after whom they prostitute themselves. This is to be a statute forever for them throughout their generations."
+    },
+    {
+     "v": 8,
+     "text": "“And you are to say to them, Any man of the house of Israel, or of the foreigners who reside among them, who offers a burnt offering or sacrifice"
+    },
+    {
+     "v": 9,
+     "text": "and does not bring it to the entrance of the tent of meeting to offer it to Yahweh, that man will be cut off from his people."
+    },
+    {
+     "v": 10,
+     "text": "“If any man of the house of Israel or of the foreigners who reside among them eats any blood, I will set my face against that person who eats blood and will cut him off from among his people."
+    },
+    {
+     "v": 11,
+     "text": "For the life{c} of the flesh is in the blood, and I have given it to you on the altar to make atonement for your lives, for it is the blood that makes atonement by means of the life.{d}"
+    },
+    {
+     "v": 12,
+     "text": "Therefore I have said to the Israelites, No person among you may eat blood, nor may any foreigner who resides among you eat blood."
+    },
+    {
+     "v": 13,
+     "text": "Any man of the Israelites, or of the foreigners who reside among them, who hunts and catches a wild animal or a bird that may be eaten is to pour out its blood and cover it with dust."
+    },
+    {
+     "v": 14,
+     "text": "For the life of all flesh is its blood; it is its life.{e} Therefore I have said to the Israelites, You must not eat the blood of any flesh, for the life of all flesh is its blood. Whoever eats it will be cut off."
+    },
+    {
+     "v": 15,
+     "text": "Every person who eats what dies by itself or what is torn by beasts, whether he is native-born or a foreigner, is to wash his clothes and bathe in water and be unclean until evening; then he will be clean."
+    },
+    {
+     "v": 16,
+     "text": "But if he does not wash them or bathe his body, he will bear his iniquity.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "17:4",
+     "text": "The Septuagint, the Samaritan Pentateuch, and a Dead Sea Scroll of Leviticus (4QLev-d) add here “to make it a burnt offering or a peace offering to Yahweh, to be accepted as a pleasing aroma, and slaughters it outside, and does not bring it to the entrance of the tent of meeting.” Another scroll, 11QpaleoLev-a, has the shorter text of the Masoretic Text, which is followed here."
+    },
+    {
+     "m": "b",
+     "ref": "17:7",
+     "text": "Hebrew se‘irim, literally “hairy ones” or “goats,” here goat-like demons or idols thought to live in the wilderness (Isaiah 13:21; 34:14; 2 Chronicles 11:15). The Septuagint reads “vain things” (idols)."
+    },
+    {
+     "m": "c",
+     "ref": "17:11",
+     "text": "Hebrew nephesh, “soul,” “life,” or “person”; so throughout verses 11–14."
+    },
+    {
+     "m": "d",
+     "ref": "17:11",
+     "text": "Or “makes atonement for the life” or “as a life” (in place of the life). The Hebrew bannephesh can be read “by means of the life” or “in exchange for the life.” Compare Hebrews 9:22."
+    },
+    {
+     "m": "e",
+     "ref": "17:14",
+     "text": "The Hebrew of this phrase is difficult, literally “its blood is in its life.”"
+    }
+   ]
   }
  ]
 }
