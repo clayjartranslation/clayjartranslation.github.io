@@ -1476,9 +1476,11 @@
    "id": "additions-to-daniel-susanna",
    "name": "Additions to Daniel: Susanna",
    "division": "Apocrypha",
-   "chapterCount": "1",
-   "translated": [],
-   "file": null
+   "chapterCount": 1,
+   "translated": [
+    1
+   ],
+   "file": "data/books/additions-to-daniel-susanna.json"
   },
   {
    "id": "additions-to-daniel-bel-and-the-dragon",
