@@ -1,0 +1,1408 @@
+{
+ "id": "job",
+ "name": "Job",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Septuagint and against the Aramaic Targum of Job found at Qumran (11QtgJob, which preserves parts of chapters 17–42, and a small fragment from Cave 4, 4QtgJob). Job is mostly poetry, printed here line by line; its Hebrew contains more rare words and words found only once in the Bible (hapax legomena) than any other book, and many lines are uncertain; the footnotes say so. The Old Greek (Septuagint) Job was about one-sixth shorter than the Hebrew; the missing lines were later filled in from the Greek version of Theodotion and are not marked in Brenton’s English, so footnotes describe these gaps in general terms. The Septuagint also adds a longer speech by Job’s wife (2:9) and a longer ending (42:17). Every Septuagint reading cited was checked against Brenton’s public-domain English translation (quoted in modernized wording). Readings of 11QtgJob are stated in general terms (“is reported to read”) until they can be checked against the critical edition. Identifications of animals, plants, and precious stones are often uncertain and are footnoted. Verse numbers follow the standard English Bible; where the Hebrew numbering differs (41:1–34), a footnote says so. The Hebrew name of God, YHWH, is written “Yahweh”; Shaddai is kept as a name (see the note at 5:17).",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    6,
+    13,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "There was a man in the land of Uz{a} whose name was Job.{b} And that man was blameless and upright, one who feared God and turned aside from evil."
+    },
+    {
+     "v": 2,
+     "text": "There were born to him seven sons and three daughters."
+    },
+    {
+     "v": 3,
+     "text": "His livestock was seven thousand sheep, three thousand camels, five hundred yoke of oxen, and five hundred female donkeys, and a very great body of servants; so that this man was greater than all the sons of the east.{c}"
+    },
+    {
+     "v": 4,
+     "text": "It was the custom of his sons to go and make a feast, each at his own house on his own day; and they would send and call their three sisters to eat and drink along with them."
+    },
+    {
+     "v": 5,
+     "text": "And when the days of the feasting had gone round, Job would send and sanctify them, and he would rise early in the morning and offer burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned and have blessed{d} God in their hearts.” Thus Job did all the days."
+    },
+    {
+     "v": 6,
+     "text": "Now there was a day when the sons of God{e} came to present themselves before Yahweh, and the Adversary{f} also came among them."
+    },
+    {
+     "v": 7,
+     "text": "Yahweh said to the Adversary, “From where do you come?” Then the Adversary answered Yahweh and said, “From roaming through the earth and from walking to and fro in it.”"
+    },
+    {
+     "v": 8,
+     "text": "And Yahweh said to the Adversary, “Have you set your heart upon my servant Job, that there is none like him in the earth, a man blameless and upright, one who fears God and turns aside from evil?”"
+    },
+    {
+     "v": 9,
+     "text": "Then the Adversary answered Yahweh and said, “Is it for nothing that Job fears God?"
+    },
+    {
+     "v": 10,
+     "text": "Have you not hedged him about, and his house, and all that he has, on every side? The work of his hands you have blessed, and his livestock has burst out in the land."
+    },
+    {
+     "v": 11,
+     "text": "But stretch out your hand now and touch all that he has, and surely he will bless{g} you to your face.”"
+    },
+    {
+     "v": 12,
+     "text": "And Yahweh said to the Adversary, “Look, all that he has is in your hand; only upon himself do not put forth your hand.” So the Adversary went out from the presence of Yahweh."
+    },
+    {
+     "v": 13,
+     "text": "Now there was a day when his sons and his daughters were eating and drinking wine in the house of their brother the firstborn,"
+    },
+    {
+     "v": 14,
+     "text": "and a messenger came to Job and said, “The oxen were plowing and the donkeys grazing beside them,"
+    },
+    {
+     "v": 15,
+     "text": "and Sabeans{h} fell upon them and took them, and the servants they struck with the edge of the sword; and I alone, only I, have escaped to tell you.”"
+    },
+    {
+     "v": 16,
+     "text": "While he was yet speaking, another came and said, “The fire of God{i} fell from the heavens and burned up the sheep and the servants and consumed them; and I alone, only I, have escaped to tell you.”"
+    },
+    {
+     "v": 17,
+     "text": "While he was yet speaking, another came and said, “Chaldeans formed three companies and made a raid upon the camels and took them, and the servants they struck with the edge of the sword; and I alone, only I, have escaped to tell you.”"
+    },
+    {
+     "v": 18,
+     "text": "While he was yet speaking, another came and said, “Your sons and your daughters were eating and drinking wine in the house of their brother the firstborn,"
+    },
+    {
+     "v": 19,
+     "text": "and look, a great wind came from across the wilderness and struck the four corners of the house, and it fell upon the young people, and they are dead; and I alone, only I, have escaped to tell you.”"
+    },
+    {
+     "v": 20,
+     "text": "Then Job arose and tore his robe and shaved his head, and he fell to the ground and bowed down."
+    },
+    {
+     "v": 21,
+     "text": "And he said,\n“Naked I came out of my mother’s womb,\nand naked shall I return there.{j}\nYahweh gave, and Yahweh has taken;\nlet the name of Yahweh be blessed.”"
+    },
+    {
+     "v": 22,
+     "text": "Through all of this Job sinned not, nor did he lay anything unseemly{k} to God’s charge."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "The location of Uz is uncertain; it was probably east or southeast of Israel, in or near Edom (compare Lamentations 4:21). The Septuagint’s ending (see the note at 42:17) places it “on the borders of Idumea and Arabia” (Brenton)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "The meaning of the name Job (Hebrew ʾIyyov) is uncertain; proposals include “Where is the father?” and “one who is hostile.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:3",
+     "text": "That is, the peoples east of Israel, in the Syrian and Arabian desert."
+    },
+    {
+     "m": "d",
+     "ref": "1:5",
+     "text": "Hebrew “blessed,” used here and in 1:11, 2:5, and 2:9 as a euphemism for “cursed”; scribes apparently avoided writing “curse God.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:6",
+     "text": "Hebrew bene ha-ʾelohim, heavenly beings of the divine court; so also 2:1 and 38:7. The Septuagint reads “the angels of God” (Brenton)."
+    },
+    {
+     "m": "f",
+     "ref": "1:6",
+     "text": "Hebrew ha-satan, “the satan,” that is, “the adversary” or “the accuser.” With the article it is a title or role in the heavenly court, not yet a personal name; so throughout chapters 1–2. The Septuagint reads “the devil” (Brenton)."
+    },
+    {
+     "m": "g",
+     "ref": "1:11",
+     "text": "Hebrew “bless”; see the note at 1:5."
+    },
+    {
+     "m": "h",
+     "ref": "1:15",
+     "text": "The Sabeans were probably raiders from Sheba in southern Arabia; the Septuagint reads “the spoilers” (Brenton)."
+    },
+    {
+     "m": "i",
+     "ref": "1:16",
+     "text": "Or “a terrible fire,” probably lightning."
+    },
+    {
+     "m": "j",
+     "ref": "1:21",
+     "text": "That is, to the earth, pictured as the mother of all (compare Psalm 139:15), or to the grave."
+    },
+    {
+     "m": "k",
+     "ref": "1:22",
+     "text": "Or “nor did he charge God with wrongdoing”; Hebrew tiflah, “unseemliness.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    7,
+    9,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Again there was a day when the sons of God came to present themselves before Yahweh, and the Adversary also came among them to present himself before Yahweh."
+    },
+    {
+     "v": 2,
+     "text": "And Yahweh said to the Adversary, “From where do you come?” Then the Adversary answered Yahweh and said, “From roaming through the earth and from walking to and fro in it.”"
+    },
+    {
+     "v": 3,
+     "text": "Yahweh said to the Adversary, “Have you set your heart upon my servant Job, that there is none like him in the earth, a man blameless and upright, one who fears God and turns aside from evil? And he still holds fast his integrity, although you incited me against him to swallow him up for no cause.”"
+    },
+    {
+     "v": 4,
+     "text": "Then the Adversary answered Yahweh and said, “Skin for skin!{a} All that a man has he will give for his life."
+    },
+    {
+     "v": 5,
+     "text": "But stretch out your hand now and touch his bone and his flesh, and surely he will bless{b} you to your face.”"
+    },
+    {
+     "v": 6,
+     "text": "And Yahweh said to the Adversary, “Look, he is in your hand; only spare his life.”"
+    },
+    {
+     "v": 7,
+     "text": "So the Adversary went out from the presence of Yahweh and struck Job with grievous sores{c} from the sole of his foot to his crown."
+    },
+    {
+     "v": 8,
+     "text": "And he took for himself a potsherd to scrape himself with, while he sat in the midst of the ashes.{d}"
+    },
+    {
+     "v": 9,
+     "text": "Then his wife said to him, “Do you still hold fast your integrity? Bless{e} God, and die.”{f}"
+    },
+    {
+     "v": 10,
+     "text": "But he said to her, “You speak as one of the foolish women speaks. Shall we indeed receive the good from God, and the evil we shall not receive?” In all this Job did not sin with his lips."
+    },
+    {
+     "v": 11,
+     "text": "Now when Job’s three friends heard of all this evil that had come upon him, they came each from his own place: Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite.{g} And they made an appointment together to come to show him sympathy and to comfort him."
+    },
+    {
+     "v": 12,
+     "text": "And when they lifted up their eyes from afar and did not recognize him, they lifted up their voices and wept; and they tore each his robe and sprinkled dust upon their heads toward the heavens."
+    },
+    {
+     "v": 13,
+     "text": "And they sat with him upon the ground seven days and seven nights, and none spoke a word to him, for they saw that his pain was very great."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:4",
+     "text": "Probably a proverb from barter: a man will give up one hide to save another, or any possession to save his own skin. The exact sense is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "2:5",
+     "text": "Hebrew “bless”; see the note at 1:5."
+    },
+    {
+     "m": "c",
+     "ref": "2:7",
+     "text": "Hebrew shekhin raʿ; perhaps boils or a skin disease; the exact illness cannot be identified."
+    },
+    {
+     "m": "d",
+     "ref": "2:8",
+     "text": "The Septuagint reads “and sat upon a dung-heap outside the city” (Brenton, modernized)."
+    },
+    {
+     "m": "e",
+     "ref": "2:9",
+     "text": "Hebrew “bless”; see the note at 1:5."
+    },
+    {
+     "m": "f",
+     "ref": "2:9",
+     "text": "The Septuagint has a much longer speech here, in which Job’s wife laments their lost children and her own wandering “from place to place and house to house,” ending “but say some word against the Lord, and die” (Brenton, modernized)."
+    },
+    {
+     "m": "g",
+     "ref": "2:11",
+     "text": "Eliphaz perhaps means “God is fine gold” (uncertain); Teman was a region of Edom. Bildad perhaps means “Bel has loved” or “son of Hadad” (uncertain); Shuah was a son of Abraham and Keturah (Genesis 25:2). Zophar perhaps means “sparrow” or “twitterer” (uncertain); Naamah’s location is unknown. The Septuagint calls them “Eliphaz the king of the Temanites, Bildad sovereign of the Shuhites, Zophar king of the Minaeans” (Brenton, modernized)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    3,
+    11,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this Job opened his mouth and cursed his day."
+    },
+    {
+     "v": 2,
+     "text": "And Job answered and said:"
+    },
+    {
+     "v": 3,
+     "text": "“Perish the day wherein I was to be born,\nand the night which said, ‘A male has been conceived!’"
+    },
+    {
+     "v": 4,
+     "text": "That day—let it be darkness!\nLet not God above seek after it,\nnor light shine upon it."
+    },
+    {
+     "v": 5,
+     "text": "Let darkness and deep shadow{a} claim it as their own;\nlet a cloud settle upon it;\nlet the blackenings of the day{b} terrify it."
+    },
+    {
+     "v": 6,
+     "text": "That night—let thick darkness seize it!\nLet it not rejoice among the days of the year;\ninto the number of the months let it not come."
+    },
+    {
+     "v": 7,
+     "text": "Look, let that night be barren;\nlet no shout of joy come into it."
+    },
+    {
+     "v": 8,
+     "text": "Let those who curse the day lay a curse on it,\nthose who are skilled to rouse up Leviathan.{c}"
+    },
+    {
+     "v": 9,
+     "text": "Let the stars of its twilight be dark;\nlet it wait for light, but have none,\nnor let it see the eyelids of the dawn,"
+    },
+    {
+     "v": 10,
+     "text": "because it did not shut the doors of my mother’s womb,\nnor hide trouble from my eyes."
+    },
+    {
+     "v": 11,
+     "text": "“Why did I not die from the womb,\ncome out from the belly and breathe my last?"
+    },
+    {
+     "v": 12,
+     "text": "Why did knees receive me?\nAnd why breasts, that I should suck?"
+    },
+    {
+     "v": 13,
+     "text": "For by now I would be lying down at rest;\nI would be asleep; it would be repose for me,"
+    },
+    {
+     "v": 14,
+     "text": "with kings and counselors of the earth,\nwho rebuilt ruins{d} for themselves,"
+    },
+    {
+     "v": 15,
+     "text": "or with princes who had gold,\nwho filled their houses with silver."
+    },
+    {
+     "v": 16,
+     "text": "Or like a hidden stillbirth I would not be,\nlike infants who never saw light."
+    },
+    {
+     "v": 17,
+     "text": "There the wicked cease from troubling,\nand there the weary in strength are at rest."
+    },
+    {
+     "v": 18,
+     "text": "Together the prisoners are at ease;\nthey hear not the voice of the taskmaster."
+    },
+    {
+     "v": 19,
+     "text": "The small and the great are there,\nand the slave is free from his master."
+    },
+    {
+     "v": 20,
+     "text": "“Why is light given to him who is in misery,\nand life to the bitter of soul,"
+    },
+    {
+     "v": 21,
+     "text": "who long for death, but it comes not,\nand dig for it more than for hidden treasures,"
+    },
+    {
+     "v": 22,
+     "text": "who rejoice to exultation\nand are glad when they find a grave?"
+    },
+    {
+     "v": 23,
+     "text": "Why is light given to a man whose way is hidden,\nwhom God has hedged in?"
+    },
+    {
+     "v": 24,
+     "text": "For my sighing comes before my bread,{e}\nand my groanings are poured out like water."
+    },
+    {
+     "v": 25,
+     "text": "For the thing I feared has come upon me,\nand what I dreaded comes to me."
+    },
+    {
+     "v": 26,
+     "text": "I am not at ease, nor am I quiet,\nnor have I rest; but turmoil comes.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:5",
+     "text": "Hebrew tsalmawet, traditionally “shadow of death”; many scholars read it as tsalmut, “deep darkness.” So throughout Job."
+    },
+    {
+     "m": "b",
+     "ref": "3:5",
+     "text": "Hebrew kimrire yom, a rare word; perhaps eclipses or the darkenings of the day, or “bitterness of the day” (uncertain)."
+    },
+    {
+     "m": "c",
+     "ref": "3:8",
+     "text": "Leviathan is a sea monster of ancient Near Eastern myth, a symbol of chaos (compare 41:1; Psalm 74:14; Isaiah 27:1). Some scholars, by a slight change, read “those who curse the sea (yam).” The Septuagint reads “he that is ready to attack the great sea monster” (Brenton, modernized: “the great whale”)."
+    },
+    {
+     "m": "d",
+     "ref": "3:14",
+     "text": "Or “built tombs” (perhaps pyramids); the Hebrew is uncertain. The Septuagint reads “who gloried in their swords” (Brenton)."
+    },
+    {
+     "m": "e",
+     "ref": "3:24",
+     "text": "Or “in place of my bread,” or “at the sight of my food.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    2,
+    7,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Eliphaz the Temanite answered and said:"
+    },
+    {
+     "v": 2,
+     "text": "“If one ventures a word to you, will you be wearied?\nYet who can hold back from speaking?"
+    },
+    {
+     "v": 3,
+     "text": "Look, you have instructed many,\nand slack hands you have made strong."
+    },
+    {
+     "v": 4,
+     "text": "The one who was stumbling your words have lifted up,\nand knees that bowed you have made firm."
+    },
+    {
+     "v": 5,
+     "text": "But now it has come to you, and you are wearied;\nit touches you, and you are dismayed."
+    },
+    {
+     "v": 6,
+     "text": "Is not your fear of God your confidence,\nand your hope the blamelessness of your ways?"
+    },
+    {
+     "v": 7,
+     "text": "“Recall, I beg you: what guiltless man has perished?\nAnd where have upright men been cut off?"
+    },
+    {
+     "v": 8,
+     "text": "Even as I have observed: plowers of wickedness,\nand sowers of mischief—the same they harvest."
+    },
+    {
+     "v": 9,
+     "text": "By the breath of God they perish,\nand by the blast of his anger they are consumed."
+    },
+    {
+     "v": 10,
+     "text": "The roar of the lion and the voice of the fierce lion,\nand the teeth of the young lions—they are broken.{a}"
+    },
+    {
+     "v": 11,
+     "text": "The old lion perishes for want of prey,\nand the cubs of the lioness are scattered."
+    },
+    {
+     "v": 12,
+     "text": "“Now to me a word came stealing,\nand my ear received a whisper of it."
+    },
+    {
+     "v": 13,
+     "text": "Amid disquieting thoughts from visions of the night,\nwhen deep sleep falls upon men,"
+    },
+    {
+     "v": 14,
+     "text": "dread came upon me, and trembling,\nand the multitude of my bones it made to shake."
+    },
+    {
+     "v": 15,
+     "text": "Then a spirit{b} glided past my face;\nthe hair of my flesh stood on end."
+    },
+    {
+     "v": 16,
+     "text": "It stood still, but I could not discern its appearance;\na form was before my eyes;\nthere was silence, and then I heard a voice:"
+    },
+    {
+     "v": 17,
+     "text": "‘Shall mortal man be just in the sight of God?{c}\nOr shall a man be clean in the sight of the one who made him?"
+    },
+    {
+     "v": 18,
+     "text": "Look, in his servants he puts no trust,\nand to his angels he charges error.{d}"
+    },
+    {
+     "v": 19,
+     "text": "How much more those who dwell in houses of clay,\nwhose foundation is in the dust,\nwho are crushed sooner than the moth!"
+    },
+    {
+     "v": 20,
+     "text": "Between morning and evening they are beaten to pieces;\nwithout anyone heeding, they perish forever."
+    },
+    {
+     "v": 21,
+     "text": "Is not their tent-cord{e} pulled up within them?\nThey die, and not in wisdom.’"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:10",
+     "text": "Five different Hebrew words for lion appear in 4:10–11 (ʾaryeh, shaḥal, kefir, layish, and lavi); their exact distinctions are uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "4:15",
+     "text": "Or “a wind” or “a breath.”"
+    },
+    {
+     "m": "c",
+     "ref": "4:17",
+     "text": "Hebrew Eloah, a poetic singular of Elohim; it occurs about forty times in Job and is translated “God.” Or “more righteous than God … more pure than his Maker.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:18",
+     "text": "Hebrew toholah, found only here (a hapax legomenon); the meaning is uncertain, perhaps “error” or “folly.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:21",
+     "text": "Or “their excellence”; the Hebrew yeter can mean a tent-cord or what is left over."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    8,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Cry out, then! Is there one to answer you?\nTo which among the holy ones{a} would you turn?"
+    },
+    {
+     "v": 2,
+     "text": "Surely resentment slays the foolish,\nand envy puts the gullible to death."
+    },
+    {
+     "v": 3,
+     "text": "With my own eyes I saw a fool striking root,\nand at once I pronounced his homestead cursed."
+    },
+    {
+     "v": 4,
+     "text": "His sons are far from safety;\nthey are crushed in the gate, and there is none to deliver."
+    },
+    {
+     "v": 5,
+     "text": "His harvest the hungry eat up,\nand even from among thorns they take it,{b}\nand the thirsty{c} pant after their wealth."
+    },
+    {
+     "v": 6,
+     "text": "For mischief springs not up out of the dust,\nnor from the soil does misery sprout;"
+    },
+    {
+     "v": 7,
+     "text": "but man is born to trouble,\nas the sons of Resheph{d} fly upward."
+    },
+    {
+     "v": 8,
+     "text": "“But I—I would inquire of God,\nand before God I would lay my case,"
+    },
+    {
+     "v": 9,
+     "text": "who does great things beyond searching out,\nwonders without number;"
+    },
+    {
+     "v": 10,
+     "text": "who gives rain upon the face of the earth\nand sends waters upon the face of the fields;"
+    },
+    {
+     "v": 11,
+     "text": "to set the lowly up on high,\nand mourners are raised to safety."
+    },
+    {
+     "v": 12,
+     "text": "He frustrates the plans of the crafty,\nso that their hands achieve nothing lasting.{e}"
+    },
+    {
+     "v": 13,
+     "text": "He takes the wise in their own craftiness,{f}\nand the counsel of the twisted is swept headlong."
+    },
+    {
+     "v": 14,
+     "text": "By day they meet with darkness,\nand at noon they grope as in the night."
+    },
+    {
+     "v": 15,
+     "text": "But he saves from the sword of their mouth,\nand from the hand of the strong, the needy."
+    },
+    {
+     "v": 16,
+     "text": "So the poor has hope,\nand injustice shuts her mouth."
+    },
+    {
+     "v": 17,
+     "text": "“Look, happy is the man whom God reproves;\nso do not reject the discipline of Shaddai.{g}"
+    },
+    {
+     "v": 18,
+     "text": "For he wounds, but he binds up;\nhe smites, and his hands heal."
+    },
+    {
+     "v": 19,
+     "text": "In six troubles he will deliver you,\nand in seven no evil shall touch you."
+    },
+    {
+     "v": 20,
+     "text": "In famine he redeems you from death,\nand in war from the hand of the sword."
+    },
+    {
+     "v": 21,
+     "text": "From the scourge of the tongue you shall be hidden,\nand you shall not fear destruction when it comes."
+    },
+    {
+     "v": 22,
+     "text": "At destruction and at hunger you shall laugh,\nand of the beasts of the earth you shall not be afraid."
+    },
+    {
+     "v": 23,
+     "text": "For with the stones of the field you shall be in covenant,\nand the beasts of the field shall be at peace with you."
+    },
+    {
+     "v": 24,
+     "text": "You shall know your tent to be in peace;\nyou shall visit your pasture-place and find nothing gone astray."
+    },
+    {
+     "v": 25,
+     "text": "You shall know your seed to be numerous,\nyour offspring as the herbage of the ground."
+    },
+    {
+     "v": 26,
+     "text": "You shall come to the grave in ripe old age,{h}\nas a sheaf goes up in its season."
+    },
+    {
+     "v": 27,
+     "text": "Look, this we have searched out; so it is.\nHear it, and know it for yourself.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "That is, heavenly beings."
+    },
+    {
+     "m": "b",
+     "ref": "5:5",
+     "text": "The Hebrew of this line is obscure."
+    },
+    {
+     "m": "c",
+     "ref": "5:5",
+     "text": "So several ancient versions (Aquila, Symmachus, the Syriac, and the Vulgate, reading tsemeʾim); the Hebrew word tsammim is uncertain, often taken as “a snare.”"
+    },
+    {
+     "m": "d",
+     "ref": "5:7",
+     "text": "Resheph was a Canaanite god of plague and fire; “the sons of Resheph” may be sparks or birds of prey. Or “as sparks fly upward.” The Septuagint reads “the vulture’s young seek the high places” (Brenton)."
+    },
+    {
+     "m": "e",
+     "ref": "5:12",
+     "text": "Hebrew tushiyyah, a word of uncertain meaning found mostly in Job and Proverbs: “success,” “sound wisdom,” or “lasting result.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:13",
+     "text": "Quoted in 1 Corinthians 3:19."
+    },
+    {
+     "m": "g",
+     "ref": "5:17",
+     "text": "Hebrew Shaddai, a divine name traditionally rendered “the Almighty”; its meaning is uncertain (see the note at Genesis 17:1). It occurs 31 times in Job and is kept as a name throughout."
+    },
+    {
+     "m": "h",
+     "ref": "5:26",
+     "text": "Hebrew kelaḥ, found only here and in 30:2; the meaning “full vigor” or “ripe age” is a guess from context."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    2,
+    8,
+    14,
+    24
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Job answered and said:"
+    },
+    {
+     "v": 2,
+     "text": "“O that my vexation were but weighed,\nand my calamity laid with it in the balances!"
+    },
+    {
+     "v": 3,
+     "text": "For now it would be heavier than the sand of the seas;\ntherefore my words have been rash.{a}"
+    },
+    {
+     "v": 4,
+     "text": "For the arrows of Shaddai are within me;\ntheir poison my spirit drinks;\nthe terrors of God are arrayed against me."
+    },
+    {
+     "v": 5,
+     "text": "Does the wild donkey bray over the grass,\nor does the ox low over its fodder?"
+    },
+    {
+     "v": 6,
+     "text": "Can what is tasteless be eaten without salt,\nor is there any flavor in the slime of the purslane?{b}"
+    },
+    {
+     "v": 7,
+     "text": "My soul refuses to touch them;\nthey are like sickness in my food.{c}"
+    },
+    {
+     "v": 8,
+     "text": "“O that my request might come,\nand that God would grant my hope,"
+    },
+    {
+     "v": 9,
+     "text": "that it would please God to crush me,\nthat he would let loose his hand and cut me off!"
+    },
+    {
+     "v": 10,
+     "text": "Then this would still be my comfort,\nand I would leap for joy{d} in pain that does not spare,\nthat I have not hidden the words of the Holy One."
+    },
+    {
+     "v": 11,
+     "text": "What is my strength, that I should wait?\nAnd what is my end, that I should prolong my life?"
+    },
+    {
+     "v": 12,
+     "text": "Is my strength the strength of stones,\nor is my flesh bronze?"
+    },
+    {
+     "v": 13,
+     "text": "Is not my help within me gone,\nand sound wisdom{e} driven away from me?"
+    },
+    {
+     "v": 14,
+     "text": "“To one who is fainting, kindness is owed from his friend,\neven if he forsakes the fear of Shaddai.{f}"
+    },
+    {
+     "v": 15,
+     "text": "My brothers have dealt deceitfully like a wadi,\nlike the channels of wadis that pass away,"
+    },
+    {
+     "v": 16,
+     "text": "which are dark with ice,\nwhere the snow hides itself;"
+    },
+    {
+     "v": 17,
+     "text": "at the time they are scorched, they vanish;\nwhen it is hot, they are extinguished from their place."
+    },
+    {
+     "v": 18,
+     "text": "Caravans swerve from off their way;\nup into the empty waste they go, and perish."
+    },
+    {
+     "v": 19,
+     "text": "The caravans out of Tema have looked for them;\non them the companies of Sheba set their hope."
+    },
+    {
+     "v": 20,
+     "text": "They are ashamed because they trusted;\nthey come there and are confounded."
+    },
+    {
+     "v": 21,
+     "text": "For now you have become nothing;{g}\nyou see a terror, and are afraid."
+    },
+    {
+     "v": 22,
+     "text": "Did I say, ‘Give to me,’\nor, ‘From your wealth offer a bribe for me,’"
+    },
+    {
+     "v": 23,
+     "text": "or, ‘Deliver me from the hand of the foe,’\nand, ‘From the hand of the ruthless ransom me’?"
+    },
+    {
+     "v": 24,
+     "text": "“Teach me, and I will be silent;\nand make me understand how I have erred."
+    },
+    {
+     "v": 25,
+     "text": "How forceful are upright words!\nBut what does your reproving reprove?"
+    },
+    {
+     "v": 26,
+     "text": "Do you intend to reprove words,\nwhile the speeches of one in despair are for the wind?"
+    },
+    {
+     "v": 27,
+     "text": "Over an orphan you would even throw the lot,\nand over your companion you would haggle."
+    },
+    {
+     "v": 28,
+     "text": "But now, be pleased to look at me;\nfor to your faces I will surely not lie."
+    },
+    {
+     "v": 29,
+     "text": "Turn back, I pray; let there be no injustice;\nturn back again; my righteousness is still in it."
+    },
+    {
+     "v": 30,
+     "text": "Is there injustice on my tongue?\nCan my palate not discern calamities?"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:3",
+     "text": "Hebrew laʿu, a rare verb; perhaps “wild” or “stammering.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:6",
+     "text": "Hebrew ḥallamut, found only here; perhaps the juice of a mallow or purslane plant, or the white of an egg (so the Targum and many interpreters). The identification is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "6:7",
+     "text": "The Hebrew of this line is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "6:10",
+     "text": "Hebrew saledah, found only here; the meaning “leap” or “exult” is uncertain (perhaps “recoil”)."
+    },
+    {
+     "m": "e",
+     "ref": "6:13",
+     "text": "Hebrew tushiyyah; see the note at 5:12."
+    },
+    {
+     "m": "f",
+     "ref": "6:14",
+     "text": "The Hebrew of this verse is uncertain."
+    },
+    {
+     "m": "g",
+     "ref": "6:21",
+     "text": "The Hebrew is difficult: the written text has lo, “not,” and the scribal reading is lo, “to it.” Many read “For now you have become like it,” that is, like the dried-up wadi. The Septuagint reads “But you also have come to me without pity” (Brenton, modernized)."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    7,
+    11,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Has not man a time of hard service upon earth,\nand are not his days like the days of a hired laborer?"
+    },
+    {
+     "v": 2,
+     "text": "As a servant pants for shade,\nas a hireling looks for the pay of his work,"
+    },
+    {
+     "v": 3,
+     "text": "so I have been allotted months of emptiness,\nand nights of trouble have been appointed to me."
+    },
+    {
+     "v": 4,
+     "text": "When I lie down I say, ‘At what hour may I rise?’\nBut the evening drags on,{a}\nand I am glutted with restless turnings till the twilight of dawn."
+    },
+    {
+     "v": 5,
+     "text": "My flesh is clothed with worms and clods of dust;\nmy skin hardens and then runs again."
+    },
+    {
+     "v": 6,
+     "text": "Swifter are my days than the shuttle of a weaver,\nand they are spent with no hope remaining.{b}"
+    },
+    {
+     "v": 7,
+     "text": "“Remember that my life is a breath;\nmy eye will not again see good."
+    },
+    {
+     "v": 8,
+     "text": "The eye of him who sees me will behold me no more;\nyour eyes will be upon me, but I shall not be."
+    },
+    {
+     "v": 9,
+     "text": "As a cloud fades and goes away,\nso he who goes down to Sheol{c} does not come up."
+    },
+    {
+     "v": 10,
+     "text": "He shall not return again to his house,\nnor shall his place know him anymore."
+    },
+    {
+     "v": 11,
+     "text": "“Therefore I also will not restrain my mouth;\nI will speak in the distress of my spirit;\nI will complain in the bitterness of my soul."
+    },
+    {
+     "v": 12,
+     "text": "Am I Sea, or am I Dragon,{d}\nthat over me you post a watch?"
+    },
+    {
+     "v": 13,
+     "text": "When I say, ‘My bed will comfort me,\nmy couch will ease my complaint,’"
+    },
+    {
+     "v": 14,
+     "text": "then you terrify me with dreams\nand affright me with visions,"
+    },
+    {
+     "v": 15,
+     "text": "so that my soul would choose strangling,\ndeath rather than these bones of mine."
+    },
+    {
+     "v": 16,
+     "text": "I loathe it; I would not live forever.\nLeave me alone, for my days are a breath."
+    },
+    {
+     "v": 17,
+     "text": "“What is man, that you should make so much of him,\nand that you should set your heart upon him,"
+    },
+    {
+     "v": 18,
+     "text": "and visit him every morning,\nand test him every moment?"
+    },
+    {
+     "v": 19,
+     "text": "How long will you not look away from me,\nnor let me alone till I swallow my spittle?"
+    },
+    {
+     "v": 20,
+     "text": "If I have sinned, what do I do to you,\nO watcher of mankind?\nWhy have you set me as your target,\nso that I am a burden to myself?{e}"
+    },
+    {
+     "v": 21,
+     "text": "And why do you not pardon my transgression\nand take away my iniquity?\nFor now I shall lie down in the dust;\nand you will seek me diligently, but I shall not be.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:4",
+     "text": "Hebrew middad, uncertain; perhaps “the evening stretches out.”"
+    },
+    {
+     "m": "b",
+     "ref": "7:6",
+     "text": "Hebrew tiqwah, “hope,” also means “thread” or “cord” (Joshua 2:18); a wordplay with the weaver’s shuttle."
+    },
+    {
+     "m": "c",
+     "ref": "7:9",
+     "text": "Sheol is the Hebrew name for the realm of the dead."
+    },
+    {
+     "m": "d",
+     "ref": "7:12",
+     "text": "Hebrew tannin, a sea dragon of ancient myth; compare 3:8."
+    },
+    {
+     "m": "e",
+     "ref": "7:20",
+     "text": "So the standard Hebrew text; an ancient scribal tradition (one of the “corrections of the scribes”) and the Septuagint read “a burden to you” (Brenton, modernized)."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    2,
+    8,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Bildad the Shuhite answered and said:"
+    },
+    {
+     "v": 2,
+     "text": "“How long will you speak these things,\nand the words of your mouth be a mighty wind?"
+    },
+    {
+     "v": 3,
+     "text": "Does God pervert justice,\nor does Shaddai pervert what is right?"
+    },
+    {
+     "v": 4,
+     "text": "If your sons have sinned against him,\nhe has sent them away into the hand of their transgression."
+    },
+    {
+     "v": 5,
+     "text": "If you yourself will seek God earnestly\nand make supplication to Shaddai,"
+    },
+    {
+     "v": 6,
+     "text": "if you are pure and upright,\nsurely now he will rouse himself for you\nand restore the habitation of your righteousness."
+    },
+    {
+     "v": 7,
+     "text": "And though your beginning was small,\nyour latter end would grow very great."
+    },
+    {
+     "v": 8,
+     "text": "“For ask, I pray, of the former generation,\nand set yourself to what their fathers searched out."
+    },
+    {
+     "v": 9,
+     "text": "For we are of yesterday and know nothing,\nbecause our days upon earth are a shadow."
+    },
+    {
+     "v": 10,
+     "text": "Shall not they instruct you, speak to you,\nand from out of their heart bring forth words?"
+    },
+    {
+     "v": 11,
+     "text": "Does the papyrus{a} rise up without a swamp?\nDoes the rush grow tall without water?"
+    },
+    {
+     "v": 12,
+     "text": "While it is yet in its green shoot, not cut down,\nbefore any other grass it withers."
+    },
+    {
+     "v": 13,
+     "text": "Such are the paths of all who forget God;\nand the hope of the godless shall perish."
+    },
+    {
+     "v": 14,
+     "text": "His confidence is cut off,{b}\nand his trust is a spider’s house.{c}"
+    },
+    {
+     "v": 15,
+     "text": "He leans upon his house, but it does not stand;\nhe grasps hold of it, but it does not endure."
+    },
+    {
+     "v": 16,
+     "text": "He is a well-watered plant before the sun,\nand over his garden his shoots go forth."
+    },
+    {
+     "v": 17,
+     "text": "Over a heap of stones his roots are entwined;\nhe gazes upon a house of stones.{d}"
+    },
+    {
+     "v": 18,
+     "text": "If he is swallowed up from his place,\nthen it will deny him: ‘I never saw you.’"
+    },
+    {
+     "v": 19,
+     "text": "Look, this is the joy of his way,{e}\nand from the dust others will spring up."
+    },
+    {
+     "v": 20,
+     "text": "“See, God spurns not the man of integrity,\nnor does he grasp the hand of doers of evil."
+    },
+    {
+     "v": 21,
+     "text": "Yet once more he will fill your mouth with laughing,\nand your lips with a joyful shout."
+    },
+    {
+     "v": 22,
+     "text": "Those who hate you shall be clothed with shame,\nand the tent of the wicked shall be no more.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:11",
+     "text": "Hebrew gomeʾ, the papyrus plant of the Nile marshes."
+    },
+    {
+     "m": "b",
+     "ref": "8:14",
+     "text": "Hebrew yaqot, found only here; the meaning is uncertain, perhaps “is a gossamer thread” or “is cut off.”"
+    },
+    {
+     "m": "c",
+     "ref": "8:14",
+     "text": "That is, a spider’s web."
+    },
+    {
+     "m": "d",
+     "ref": "8:17",
+     "text": "Or “he lives among stones”; the Hebrew is uncertain."
+    },
+    {
+     "m": "e",
+     "ref": "8:19",
+     "text": "That is, ironically, this is how his “joy” ends."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    2,
+    13,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Job answered and said:"
+    },
+    {
+     "v": 2,
+     "text": "“Truly I know that it is so;\nbut how can a man be in the right with God?"
+    },
+    {
+     "v": 3,
+     "text": "Should one desire to go to law with him,\nnot once in a thousand times could he reply to him."
+    },
+    {
+     "v": 4,
+     "text": "He is wise in heart and mighty in strength;\nwho has hardened himself against him and been unharmed?"
+    },
+    {
+     "v": 5,
+     "text": "He who removes mountains, and they know it not,\nwhen he overturns them in his anger;"
+    },
+    {
+     "v": 6,
+     "text": "who shakes the earth out of its place,\nand its pillars tremble;"
+    },
+    {
+     "v": 7,
+     "text": "who speaks to the sun, and it does not rise,\nand sets a seal upon the stars;"
+    },
+    {
+     "v": 8,
+     "text": "who alone stretches out the heavens\nand treads upon the heights{a} of the sea;"
+    },
+    {
+     "v": 9,
+     "text": "who made the Bear, Orion, and the Pleiades,{b}\nand the chambers of the south;"
+    },
+    {
+     "v": 10,
+     "text": "who does great things beyond searching out,\nand wonders without number."
+    },
+    {
+     "v": 11,
+     "text": "He goes by beside me, and I behold him not;\nhe sweeps on, and I have no perception of him."
+    },
+    {
+     "v": 12,
+     "text": "He seizes, and who can make him give it back?\nWho shall say to him, ‘What is this you do?’"
+    },
+    {
+     "v": 13,
+     "text": "“God turns not back his wrath;\nunder him the allies of Rahab{c} lay bowed."
+    },
+    {
+     "v": 14,
+     "text": "How much less shall I answer him,\nchoosing my words with him?"
+    },
+    {
+     "v": 15,
+     "text": "Though I were in the right, I could not answer;\nto my judge I would have to plead for mercy."
+    },
+    {
+     "v": 16,
+     "text": "Should I call and he answer me,\nI could not trust that my voice had his ear."
+    },
+    {
+     "v": 17,
+     "text": "For he crushes me with a tempest\nand multiplies my wounds without cause."
+    },
+    {
+     "v": 18,
+     "text": "He does not allow me to draw my breath again,\nbut sates me with bitter things."
+    },
+    {
+     "v": 19,
+     "text": "If it is a matter of strength, look, he is mighty!\nAnd if of justice, who will summon me?{d}"
+    },
+    {
+     "v": 20,
+     "text": "Were I in the right, my mouth itself would declare me guilty;\nwere I without blame, it would show me crooked."
+    },
+    {
+     "v": 21,
+     "text": "I am blameless; I do not regard myself;\nI loathe my life."
+    },
+    {
+     "v": 22,
+     "text": "It is all one; therefore I say,\n‘The blameless and the wicked he brings to an end.’"
+    },
+    {
+     "v": 23,
+     "text": "When a scourge kills suddenly,\nhe mocks at the despair of the innocent."
+    },
+    {
+     "v": 24,
+     "text": "The earth is given into the hand of the wicked;\nthe faces of its judges he covers.\nIf it is not he, then who is it?"
+    },
+    {
+     "v": 25,
+     "text": "“My days are swifter than a runner;\nthey flee away; they see no good."
+    },
+    {
+     "v": 26,
+     "text": "They have slipped by like boats of reed,{e}\nlike an eagle that swoops upon its food."
+    },
+    {
+     "v": 27,
+     "text": "If I say, ‘I will forget my complaint,\nI will put off my sad face and be cheerful,’"
+    },
+    {
+     "v": 28,
+     "text": "I shrink in fear from all my pains;\nI know you will not count me guiltless."
+    },
+    {
+     "v": 29,
+     "text": "I shall be condemned;\nwhy then do I labor in vain?"
+    },
+    {
+     "v": 30,
+     "text": "If I wash myself with snow\nand cleanse my hands with lye,{f}"
+    },
+    {
+     "v": 31,
+     "text": "even then into the ditch you would dip me,\nand my garments would find me loathsome."
+    },
+    {
+     "v": 32,
+     "text": "For he is not a man, as I am, that I might answer him,\nthat we should come together in judgment."
+    },
+    {
+     "v": 33,
+     "text": "Between us no umpire{g} stands,\nto rest his hand upon the two of us."
+    },
+    {
+     "v": 34,
+     "text": "Let him take his rod away from me,\nand let not dread of him terrify me."
+    },
+    {
+     "v": 35,
+     "text": "Then I would speak and not fear him;\nfor I am not so in myself."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:8",
+     "text": "Hebrew “the backs” (bamote), which may mean the waves or the back of the sea monster; compare 3:8."
+    },
+    {
+     "m": "b",
+     "ref": "9:9",
+     "text": "The identification of these constellations (Hebrew ʿash, kesil, and kimah) is uncertain; compare 38:31–32 and Amos 5:8. The Septuagint reads “the Pleiades, and Hesperus, and Arcturus” (Brenton, modernized)."
+    },
+    {
+     "m": "c",
+     "ref": "9:13",
+     "text": "Rahab is a mythic sea monster representing chaos (compare 26:12; Psalm 89:10; Isaiah 51:9), not the woman of Jericho; the names are spelled differently in Hebrew. The Septuagint reads “the sea monsters under heaven” (Brenton, modernized: “the whales”)."
+    },
+    {
+     "m": "d",
+     "ref": "9:19",
+     "text": "The Hebrew may be quoting God’s reply; many read “who can summon him?” The Septuagint reads “who then shall resist his judgment?” (Brenton). The line is uncertain."
+    },
+    {
+     "m": "e",
+     "ref": "9:26",
+     "text": "Light boats made of papyrus reeds (Isaiah 18:2)."
+    },
+    {
+     "m": "f",
+     "ref": "9:30",
+     "text": "Hebrew bor, a cleansing agent made from plant ash."
+    },
+    {
+     "m": "g",
+     "ref": "9:33",
+     "text": "Or “umpire” or “mediator”; Hebrew mokiaḥ. Some Hebrew manuscripts read “O that there were an arbiter between us”; compare the Septuagint, “Would that our mediator were present” (Brenton, modernized)."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    8,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“My soul is weary of my life;\nI will give free course to my complaint;\nI will speak in the bitterness of my soul."
+    },
+    {
+     "v": 2,
+     "text": "I will say to God, ‘Do not condemn me;\nmake me know why you contend with me."
+    },
+    {
+     "v": 3,
+     "text": "Is it good to you that you oppress,\nthat you despise the toil of your hands\nand shine upon the counsel of the wicked?"
+    },
+    {
+     "v": 4,
+     "text": "Have you eyes of flesh,\nor do you see as a man sees?"
+    },
+    {
+     "v": 5,
+     "text": "Are your days as the days of a mortal,\nor your years as the days of a man,"
+    },
+    {
+     "v": 6,
+     "text": "that you seek after my iniquity\nand search for my sin,"
+    },
+    {
+     "v": 7,
+     "text": "knowing as you do that I am not in the wrong,\nand that from your hand no one can rescue?"
+    },
+    {
+     "v": 8,
+     "text": "“ ‘Your hands shaped me and made me,\nall of me round about; yet you would swallow me up?"
+    },
+    {
+     "v": 9,
+     "text": "Remember, I pray, that you made me like clay;\nand to the dust will you return me?"
+    },
+    {
+     "v": 10,
+     "text": "Did you not pour me out like milk\nand curdle me like cheese?"
+    },
+    {
+     "v": 11,
+     "text": "With skin and flesh you clothed me,\nand with bones and sinews you knit me together."
+    },
+    {
+     "v": 12,
+     "text": "Life and steadfast love you have granted me,\nand your care has watched over my spirit."
+    },
+    {
+     "v": 13,
+     "text": "Yet these things you kept concealed in your heart;\nI am aware that this was your intent:"
+    },
+    {
+     "v": 14,
+     "text": "if I sinned, you would watch me\nand would not acquit me of my iniquity."
+    },
+    {
+     "v": 15,
+     "text": "If I am wicked, woe to me!\nAnd if I am righteous, I cannot lift up my head,\nbeing sated with shame and looking upon my affliction."
+    },
+    {
+     "v": 16,
+     "text": "And should it lift itself up, like a lion you would hunt me,\nand again you would show yourself wonderful against me."
+    },
+    {
+     "v": 17,
+     "text": "You renew your witnesses against me\nand increase your vexation toward me;\nchanges and a host are with me.{a}"
+    },
+    {
+     "v": 18,
+     "text": "“ ‘Why then did you bring me out from the womb?\nI would have breathed my last, and no eye would have seen me."
+    },
+    {
+     "v": 19,
+     "text": "I would have been as though I had not been,\ncarried from the belly to the grave."
+    },
+    {
+     "v": 20,
+     "text": "Are not my days few? Then cease,{b}\nand let me alone, that I may brighten a little,"
+    },
+    {
+     "v": 21,
+     "text": "before I go, and return not,\nto the land of darkness and deep shadow,"
+    },
+    {
+     "v": 22,
+     "text": "a land of gloom like thick darkness,{c}\nof deep shadow without any order,\nwhere the light is as thick darkness.’ ”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:17",
+     "text": "Or “relays of troops come against me”; the Hebrew is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "10:20",
+     "text": "So the written Hebrew text; the scribal reading is “Cease, then, and set me alone.”"
+    },
+    {
+     "m": "c",
+     "ref": "10:22",
+     "text": "Hebrew ʿefatah, a rare word for deep darkness."
+    }
+   ]
+  }
+ ]
+}
