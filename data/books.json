@@ -1602,8 +1602,16 @@
    "name": "Matthew",
    "division": "New Testament",
    "chapterCount": "28",
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "file": "data/books/matthew.json"
   },
   {
    "id": "mark",

@@ -1,0 +1,1402 @@
+{
+ "id": "matthew",
+ "name": "Matthew",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), in the public-domain electronic edition of Maurice A. Robinson, with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Early papyri containing parts of Matthew include P1, P45, P64/67 and P104 (2nd–3rd centuries); where they are cited in the notes, their readings are reported from the standard editions and have not been verified against the manuscripts. Passages found in later manuscripts but absent from the earliest witnesses (6:13b; 17:21; 18:11; 23:14) keep their traditional verse numbers, and their text is given in the notes. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation or phrase, a note says so. Old Testament quotations are translated afresh from the Greek of Matthew, with the source given in a note. Money, measures and times of day are given in modern terms in the text (for example, a denarius as “a day’s wage”), with the original term in a note. The Gospel is anonymous; from the second century it has been attributed to Matthew the tax collector (9:9; 10:3). Most scholars date it about AD 80–90 and hold that its author used the Gospel of Mark; others date it before AD 70.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    12,
+    18,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The record of the origins{a} of Jesus the Messiah,{b} the son of David, the son of Abraham."
+    },
+    {
+     "v": 2,
+     "text": "Abraham was father to Isaac, Isaac father to Jacob, and Jacob father to Judah and his brothers.{c}"
+    },
+    {
+     "v": 3,
+     "text": "Judah was father to Perez and Zerah by Tamar, Perez father to Hezron, and Hezron father to Ram.{d}"
+    },
+    {
+     "v": 4,
+     "text": "Ram was father to Amminadab, Amminadab father to Nahshon, and Nahshon father to Salmon."
+    },
+    {
+     "v": 5,
+     "text": "Salmon was father to Boaz by Rahab, Boaz father to Obed by Ruth, and Obed father to Jesse."
+    },
+    {
+     "v": 6,
+     "text": "Jesse was father to David the king. David was father to Solomon by the woman who had been Uriah’s wife."
+    },
+    {
+     "v": 7,
+     "text": "Solomon was father to Rehoboam, Rehoboam father to Abijah, and Abijah father to Asa.{e}"
+    },
+    {
+     "v": 8,
+     "text": "Asa was father to Jehoshaphat, Jehoshaphat father to Joram, and Joram father to Uzziah.{f}"
+    },
+    {
+     "v": 9,
+     "text": "Uzziah was father to Jotham, Jotham father to Ahaz, and Ahaz father to Hezekiah."
+    },
+    {
+     "v": 10,
+     "text": "Hezekiah was father to Manasseh, Manasseh father to Amon,{g} and Amon father to Josiah."
+    },
+    {
+     "v": 11,
+     "text": "Josiah was father to Jechoniah{h} and his brothers in the time of the exile to Babylon."
+    },
+    {
+     "v": 12,
+     "text": "After the exile to Babylon, Jechoniah was father to Shealtiel, and Shealtiel father to Zerubbabel."
+    },
+    {
+     "v": 13,
+     "text": "Zerubbabel was father to Abiud, Abiud father to Eliakim, and Eliakim father to Azor."
+    },
+    {
+     "v": 14,
+     "text": "Azor was father to Zadok, Zadok father to Achim, and Achim father to Eliud."
+    },
+    {
+     "v": 15,
+     "text": "Eliud was father to Eleazar, Eleazar father to Matthan, and Matthan father to Jacob."
+    },
+    {
+     "v": 16,
+     "text": "Jacob was father to Joseph the husband of Mary,{i} and from her was born Jesus, who is called Messiah."
+    },
+    {
+     "v": 17,
+     "text": "So the generations from Abraham to David were fourteen in all; from David to the exile to Babylon, fourteen generations; and from the exile to Babylon to the Messiah, fourteen generations.{j}"
+    },
+    {
+     "v": 18,
+     "text": "The birth of Jesus the Messiah happened like this. His mother Mary had been promised in marriage to Joseph, and before they came together it became evident that she was carrying a child from the Holy Spirit."
+    },
+    {
+     "v": 19,
+     "text": "Joseph her husband was a just man, and because he did not wish to make a public example of her, he made up his mind to release her from the marriage in secret.{k}"
+    },
+    {
+     "v": 20,
+     "text": "But while he was weighing these things, an angel of the Lord{l} appeared to him in a dream and said, “Joseph, son of David, have no fear about taking Mary to be your wife, because what has been conceived in her comes from the Holy Spirit."
+    },
+    {
+     "v": 21,
+     "text": "She will give birth to a son, and you shall give him the name Jesus, because he is the one who will save his people from their sins.”{m}"
+    },
+    {
+     "v": 22,
+     "text": "All of this took place so that the word spoken by the Lord through the prophet would be fulfilled:"
+    },
+    {
+     "v": 23,
+     "text": "“Look, the virgin will become pregnant and will give birth to a son, and they will call his name Emmanuel,”{n} a name that means, when translated, “God with us.”"
+    },
+    {
+     "v": 24,
+     "text": "When Joseph awoke from his sleep, he did what the angel of the Lord had directed him to do, and took his wife into his home."
+    },
+    {
+     "v": 25,
+     "text": "Yet he did not have relations with her{o} until she had given birth to a son; and he gave him the name Jesus."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "The record of the origins: Greek *biblos geneseōs*, “book of the genesis,” the phrase used in the Greek Old Testament at Gen 2:4 and 5:1. It may introduce the genealogy alone (1:1–17) or the whole account of Jesus’ beginnings."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Jesus the Messiah: *Jesus* is the Greek form of the Hebrew *Yeshua* (*Yehoshua*, Joshua), “Yahweh saves” (see 1:21). *Messiah* translates Greek *Christos*, “Anointed One,” the equivalent of Hebrew *mashiach*. In this translation *Christos* is rendered “Messiah” where it functions as a title, as it usually does in the Gospels, and “Christ” where it has become part of Jesus’ name."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "The meanings of the Old Testament names in this genealogy are given in the notes at their first appearance in the Old Testament. Compare the genealogies in Ruth 4:18–22 and 1 Chr 1–3."
+    },
+    {
+     "m": "d",
+     "ref": "1:3",
+     "text": "Ram: Greek *Aram*, the Greek Old Testament’s spelling of Hebrew *Ram* (Ruth 4:19; 1 Chr 2:9–10). Likewise *Nahshon* (Greek *Naassōn*), *Hezron* (*Esrōm*), *Uzziah* (*Ozias*) and others are given in their Old Testament forms."
+    },
+    {
+     "m": "e",
+     "ref": "1:7",
+     "text": "Asa: the Westcott–Hort text, with the earliest manuscripts (Sinaiticus, Vaticanus), reads *Asaph*, the name of the psalmist; later manuscripts read *Asa*, the name of the king (1 Kgs 15:8). *Asaph* may be the evangelist’s own spelling or an early slip; the king is clearly meant. Scholarly review recommended."
+    },
+    {
+     "m": "f",
+     "ref": "1:8",
+     "text": "Joram … Uzziah: three kings, Ahaziah, Joash and Amaziah, stand between Joram and Uzziah in 1 Chr 3:11–12; the genealogy omits them, probably to arrive at three sets of fourteen (1:17). Uzziah is also called Azariah (2 Kgs 15:1)."
+    },
+    {
+     "m": "g",
+     "ref": "1:10",
+     "text": "Amon: the Westcott–Hort text, with Sinaiticus and Vaticanus, reads *Amos*; later manuscripts read *Amon*, the name of the king (2 Kgs 21:18). As in verse 7, the king is meant."
+    },
+    {
+     "m": "h",
+     "ref": "1:11",
+     "text": "Jechoniah: also called Jehoiachin (2 Kgs 24:6–15). His father Jehoiakim is not named; Jechoniah was Josiah’s grandson (1 Chr 3:15–16)."
+    },
+    {
+     "m": "i",
+     "ref": "1:16",
+     "text": "Joseph … Mary: *Joseph* means “may he add” (Gen 30:24). *Mary* (Greek *Maria* or *Mariam*) is the Hebrew name *Miriam* (Exod 15:20); its meaning is uncertain."
+    },
+    {
+     "m": "j",
+     "ref": "1:17",
+     "text": "Fourteen generations: the three groups are arranged deliberately. It has been suggested that fourteen is the numerical value of the name *David* in Hebrew (D = 4, W = 6, D = 4); this is reported, not certain."
+    },
+    {
+     "m": "k",
+     "ref": "1:19",
+     "text": "Release her from the marriage in secret: Jewish betrothal was a binding legal commitment, already called marriage (Joseph is her “husband”), and could be ended only by divorce. Joseph planned a private divorce rather than a public accusation."
+    },
+    {
+     "m": "l",
+     "ref": "1:20",
+     "text": "An angel of the Lord: in the Old Testament, “the angel of Yahweh.” The Greek *kyrios* (“Lord”) here stands for the divine name, as also in 1:22, 24 and 2:13, 15, 19."
+    },
+    {
+     "m": "m",
+     "ref": "1:21",
+     "text": "Jesus … save: the name *Jesus* (*Yeshua*) means “Yahweh saves”; the angel’s words play on its meaning."
+    },
+    {
+     "m": "n",
+     "ref": "1:23",
+     "text": "Isa 7:14, quoted in the wording of the Greek Old Testament, which has *parthenos*, “virgin”; the Hebrew has *ʿalmah*, “young woman.” *Emmanuel* (Hebrew *ʿImmanu ʾEl*) means “God is with us” (Isa 8:8, 10)."
+    },
+    {
+     "m": "o",
+     "ref": "1:25",
+     "text": "Did not have relations with her: literally “did not know her,” the biblical idiom for sexual union."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    7,
+    13,
+    16,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now after Jesus was born in Bethlehem{a} of Judea in the days of Herod the king,{b} there came to Jerusalem magi{c} from the regions of the east,"
+    },
+    {
+     "v": 2,
+     "text": "They kept asking, “Where is the one born to be king of the Jews? We watched his star rise{d} and have come here to bow down to him.”"
+    },
+    {
+     "v": 3,
+     "text": "When King Herod heard this he was deeply troubled, and all Jerusalem with him."
+    },
+    {
+     "v": 4,
+     "text": "He called together all the chief priests and scribes{e} of the people and pressed them to tell him where the Messiah was to be born."
+    },
+    {
+     "v": 5,
+     "text": "They told him, “In Bethlehem of Judea, for this is what the prophet wrote:"
+    },
+    {
+     "v": 6,
+     "text": "‘And you, Bethlehem, in Judah’s land, are in no way the least among Judah’s leading towns; out of you will come forth a ruler, one who will be shepherd of my people Israel.’ ”{f}"
+    },
+    {
+     "v": 7,
+     "text": "Then Herod summoned the magi in secret and learned from them exactly when the star had appeared."
+    },
+    {
+     "v": 8,
+     "text": "Then he sent them on to Bethlehem, saying, “Go, make a careful search for the child, and when you have found him, report to me, so that I may also come and bow before him.”"
+    },
+    {
+     "v": 9,
+     "text": "After listening to the king they set out, and the star they had seen at its rising went ahead of them until it came and stopped over the place where the child was."
+    },
+    {
+     "v": 10,
+     "text": "When they saw the star, their joy knew no bounds."
+    },
+    {
+     "v": 11,
+     "text": "Going into the house, they saw the child with Mary his mother, and they fell down and paid him homage. Then they opened their treasure chests and presented him with gifts: gold, frankincense, and myrrh.{g}"
+    },
+    {
+     "v": 12,
+     "text": "Then, warned in a dream not to return to Herod, they went back to their own land by another route."
+    },
+    {
+     "v": 13,
+     "text": "When they had left, Joseph saw in a dream an angel of the Lord, who told him, “Get up, take the child and his mother, and escape to Egypt. Stay there until I tell you, because Herod is going to look for the child in order to kill him.”"
+    },
+    {
+     "v": 14,
+     "text": "So Joseph got up, took the child and his mother by night, and withdrew to Egypt."
+    },
+    {
+     "v": 15,
+     "text": "He remained there until Herod died. This was to fulfill what the Lord had spoken through the prophet: “Out of Egypt I called my son.”{h}"
+    },
+    {
+     "v": 16,
+     "text": "Herod, realizing that the magi had made a fool of him, was furious. He gave orders to put to death every boy in Bethlehem and all its surrounding district who was two years of age or younger, reckoning from the time he had carefully learned from the magi."
+    },
+    {
+     "v": 17,
+     "text": "Then what had been spoken through Jeremiah the prophet was fulfilled:"
+    },
+    {
+     "v": 18,
+     "text": "“A voice was heard in Ramah, weeping and loud lament: Rachel weeping for her children; and she would not be comforted, because they are no more.”{i}"
+    },
+    {
+     "v": 19,
+     "text": "But when Herod had died, an angel of the Lord appeared in a dream to Joseph in Egypt"
+    },
+    {
+     "v": 20,
+     "text": "and said, “Get up, take the child and his mother, and go to the land of Israel, because those who sought the child’s life are dead.”"
+    },
+    {
+     "v": 21,
+     "text": "So he got up, took the child and his mother, and went into the land of Israel."
+    },
+    {
+     "v": 22,
+     "text": "But when he heard that Archelaus{j} was reigning over Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the region of Galilee{k}"
+    },
+    {
+     "v": 23,
+     "text": "and went and settled in a town called Nazareth.{l} This was to fulfill what had been spoken through the prophets: “He will be called a Nazarene.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Bethlehem: “house of bread,” the town of David, about 6 miles (10 km) south of Jerusalem."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "Herod the king: Herod the Great, appointed king of Judea by the Roman Senate, who reigned 37–4 BC. Jesus was therefore born before 4 BC. The name *Herod* probably means “heroic.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:1",
+     "text": "Magi: Greek *magoi*, originally a Persian priestly class; by this period the word was used for experts in astrology and the interpretation of dreams. The text does not call them kings or give their number."
+    },
+    {
+     "m": "d",
+     "ref": "2:2",
+     "text": "When it rose: or “in the east.” The Greek *en tē anatolē* can mean either; here and in 2:9 it probably refers to the star’s rising."
+    },
+    {
+     "m": "e",
+     "ref": "2:4",
+     "text": "Scribes: experts in the Law of Moses who taught and interpreted it."
+    },
+    {
+     "m": "f",
+     "ref": "2:6",
+     "text": "Mic 5:2 (5:1 in Hebrew), freely combined with 2 Sam 5:2. Where Micah has “who are small among the clans of Judah,” the quotation reads “by no means least.”"
+    },
+    {
+     "m": "g",
+     "ref": "2:11",
+     "text": "Gold, frankincense, and myrrh: costly gifts. Frankincense is a fragrant resin burned as incense; myrrh is an aromatic resin used in perfume and in burial (John 19:39). Compare Isa 60:6; Ps 72:10–11."
+    },
+    {
+     "m": "h",
+     "ref": "2:15",
+     "text": "Hos 11:1, translated from the Hebrew; the Greek Old Testament reads “his children.” In Hosea the “son” is Israel, brought out of Egypt in the exodus."
+    },
+    {
+     "m": "i",
+     "ref": "2:18",
+     "text": "Jer 31:15 (38:15 in the Greek Old Testament). Ramah lay about 5 miles (8 km) north of Jerusalem, near the traditional tomb of Rachel; Jeremiah pictures Rachel, the mother of Joseph and Benjamin, mourning the exiles."
+    },
+    {
+     "m": "j",
+     "ref": "2:22",
+     "text": "Archelaus: son of Herod the Great, who ruled Judea, Samaria and Idumea from 4 BC until Rome deposed him for brutality in AD 6."
+    },
+    {
+     "m": "k",
+     "ref": "2:22",
+     "text": "Galilee: from Hebrew *galil*, “circle” or “district,” the northern region of the land west of the Sea of Galilee, then ruled by Herod Antipas."
+    },
+    {
+     "m": "l",
+     "ref": "2:23",
+     "text": "Nazareth … Nazarene: Nazareth, a small village in the hills of lower Galilee, is not mentioned in the Old Testament, and no prophetic text contains the words quoted. Matthew may be playing on Hebrew *netser*, “branch,” the messianic shoot of Isa 11:1, or on the Nazirite of Judg 13:5, 7; he cites “the prophets” in general. Scholarly review recommended."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    7,
+    11,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In those days John the Baptist{a} appeared, preaching in the wilderness of Judea,"
+    },
+    {
+     "v": 2,
+     "text": "“Turn your lives around,{b} for the kingdom of heaven{c} has come near.”"
+    },
+    {
+     "v": 3,
+     "text": "He is the one of whom Isaiah the prophet spoke when he said, “A voice of one calling out in the wilderness: ‘Make ready the way of the Lord, make his paths straight.’ ”{d}"
+    },
+    {
+     "v": 4,
+     "text": "John himself wore clothing made of camel’s hair with a leather belt around his waist, and his food was locusts and wild honey.{e}"
+    },
+    {
+     "v": 5,
+     "text": "Then Jerusalem and all Judea and the whole region around the Jordan went out to him,"
+    },
+    {
+     "v": 6,
+     "text": "and confessing their sins, they were baptized by him in the Jordan River.{f}"
+    },
+    {
+     "v": 7,
+     "text": "But seeing many Pharisees and Sadducees{g} coming out for his baptism, he said to them, “Offspring of vipers! Who warned you to run from the wrath that is on its way?"
+    },
+    {
+     "v": 8,
+     "text": "Then produce fruit that fits with repentance."
+    },
+    {
+     "v": 9,
+     "text": "And do not suppose you can say among yourselves, ‘Abraham is our father,’ for I tell you that God can raise up children for Abraham out of these stones."
+    },
+    {
+     "v": 10,
+     "text": "Already the ax is lying at the root of the trees; every tree, then, that fails to bear good fruit is chopped down and tossed into the fire."
+    },
+    {
+     "v": 11,
+     "text": "“For my part, I baptize you in water for repentance; but the one coming after me is stronger than I, and I am unworthy even to carry his sandals. He himself will baptize you in the Holy Spirit and fire."
+    },
+    {
+     "v": 12,
+     "text": "His winnowing fork is in his hand, and he will clear his threshing floor completely; his wheat he will gather into the barn, but the chaff he will burn up in a fire that cannot be put out.”"
+    },
+    {
+     "v": 13,
+     "text": "Then Jesus arrived from Galilee at the Jordan to be baptized by John."
+    },
+    {
+     "v": 14,
+     "text": "But John tried to stop him, saying, “It is I who need to be baptized by you, and yet you come to me?”"
+    },
+    {
+     "v": 15,
+     "text": "Jesus answered him, “Let it be so for now. It is right for us in this way to carry out all that God requires.”{h} Then John consented."
+    },
+    {
+     "v": 16,
+     "text": "And as soon as Jesus had been baptized, he came up out of the water, and at that moment the heavens were opened,{i} and he saw the Spirit of God descending like a dove and coming upon him."
+    },
+    {
+     "v": 17,
+     "text": "And a voice out of the heavens said, “This is my Son, the one I love; with him I am well pleased.”{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "John the Baptist: *John* is the Greek form of Hebrew *Yohanan*, “Yahweh has been gracious.” *The Baptist* (literally “the one who immerses”) is a title describing his ministry."
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "Turn your lives around: Greek *metanoeite*, traditionally “repent,” a call to a complete change of mind and direction. The noun *metanoia* in 3:8, 11 is rendered “repentance.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:2",
+     "text": "The kingdom of heaven: Matthew’s usual phrase for “the kingdom of God” (the expression found in Mark and Luke), following the Jewish custom of speaking reverently of God by referring to heaven. It means God’s rule as king."
+    },
+    {
+     "m": "d",
+     "ref": "3:3",
+     "text": "Isa 40:3, in the wording of the Greek Old Testament. In the Hebrew text, “the Lord” is Yahweh, and “make his paths straight” reads “make straight in the desert a highway for our God.” The Hebrew can also be punctuated, “A voice is calling: In the wilderness prepare …”"
+    },
+    {
+     "m": "e",
+     "ref": "3:4",
+     "text": "Clothing of camel’s hair … leather belt: the dress of Elijah (2 Kgs 1:8; compare Mal 4:5). Locusts were permitted food under the Law (Lev 11:22)."
+    },
+    {
+     "m": "f",
+     "ref": "3:6",
+     "text": "Jordan River: from Hebrew *Yarden*, probably “the one that goes down.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:7",
+     "text": "Pharisees and Sadducees: the Pharisees (probably “separated ones”) were a lay movement devoted to strict observance of the Law and its traditions; the Sadducees (probably named after Zadok, the high priest under David and Solomon) were a priestly aristocracy who accepted only the written Law and denied the resurrection (22:23)."
+    },
+    {
+     "m": "h",
+     "ref": "3:15",
+     "text": "To carry out all that God requires: literally “to fulfill all righteousness.”"
+    },
+    {
+     "m": "i",
+     "ref": "3:16",
+     "text": "The heavens were opened: the Westcott–Hort text, with Sinaiticus and Vaticanus, lacks “to him” after “opened,” which most later manuscripts include."
+    },
+    {
+     "m": "j",
+     "ref": "3:17",
+     "text": "This is my Son … well pleased: compare Ps 2:7; Isa 42:1; Gen 22:2. *The one I love*: or “my beloved,” “my only Son.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5,
+    8,
+    12,
+    18,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Jesus was led up by the Spirit into the wilderness to be tested{a} by the devil.{b}"
+    },
+    {
+     "v": 2,
+     "text": "After going without food for forty days and forty nights, he was famished."
+    },
+    {
+     "v": 3,
+     "text": "The tempter came to him and said, “Since you are the Son of God, order these stones to turn into loaves of bread.”"
+    },
+    {
+     "v": 4,
+     "text": "But he answered, “Scripture says, ‘Not by bread alone will a person live, but by every word that goes out from the mouth of God.’ ”{c}"
+    },
+    {
+     "v": 5,
+     "text": "Next the devil took him into the holy city and placed him on the highest point{d} of the temple,"
+    },
+    {
+     "v": 6,
+     "text": "and said to him, “If you are God’s Son, throw yourself down from here, for Scripture says, ‘He will command his angels concerning you,’ and ‘On their hands they will bear you up, so that you never strike your foot against a stone.’ ”{e}"
+    },
+    {
+     "v": 7,
+     "text": "Jesus told him, “It is also written, ‘You must not test the Lord your God.’ ”{f}"
+    },
+    {
+     "v": 8,
+     "text": "Once more the devil took him up to an exceedingly high mountain and showed him all the kingdoms of the world and their splendor,"
+    },
+    {
+     "v": 9,
+     "text": "and he said to him, “All of this I will give you, if you will bow down and worship me.”"
+    },
+    {
+     "v": 10,
+     "text": "Then Jesus answered him, “Away with you, Satan!{g} For it is written, ‘The Lord your God you shall worship, and him alone you shall serve.’ ”{h}"
+    },
+    {
+     "v": 11,
+     "text": "Then the devil let him alone, and angels came and attended to him."
+    },
+    {
+     "v": 12,
+     "text": "When Jesus heard that John had been handed over,{i} he withdrew into Galilee."
+    },
+    {
+     "v": 13,
+     "text": "He left Nazareth and settled in Capernaum,{j} the lakeside town in the districts of Zebulun and Naphtali,"
+    },
+    {
+     "v": 14,
+     "text": "so that what was spoken through Isaiah the prophet might be fulfilled:"
+    },
+    {
+     "v": 15,
+     "text": "“Land of Zebulun, land of Naphtali, the way of the sea, beyond the Jordan, Galilee of the Gentiles:{k}"
+    },
+    {
+     "v": 16,
+     "text": "the people sitting in darkness have seen a great light, and on those sitting in the region and shadow of death a light has dawned.”{l}"
+    },
+    {
+     "v": 17,
+     "text": "From then on Jesus began to preach and to say, “Turn your lives around, for the kingdom of heaven has come near.”"
+    },
+    {
+     "v": 18,
+     "text": "As he was walking along beside the Sea of Galilee, he saw two brothers, Simon, who is called Peter, and Andrew his brother,{m} casting a net into the lake, for they were fishermen."
+    },
+    {
+     "v": 19,
+     "text": "He said to them, “Come, follow me, and I will make you fishers of people.”"
+    },
+    {
+     "v": 20,
+     "text": "At once they left their nets behind and followed him."
+    },
+    {
+     "v": 21,
+     "text": "Going on from there, he saw two other brothers, James the son of Zebedee and John his brother,{n} in the boat with their father Zebedee, mending their nets; and he called them."
+    },
+    {
+     "v": 22,
+     "text": "At once they left the boat and their father and followed him."
+    },
+    {
+     "v": 23,
+     "text": "Jesus went about all over Galilee, teaching in their synagogues,{o} proclaiming the good news{p} of the kingdom, and healing every disease and every ailment among the people."
+    },
+    {
+     "v": 24,
+     "text": "Word about him spread through all Syria, and people brought to him all who were ill, those in the grip of various diseases and pains, those under the power of demons, epileptics,{q} and the paralyzed; and he healed them."
+    },
+    {
+     "v": 25,
+     "text": "And great crowds followed him from Galilee and the Ten Towns,{r} from Jerusalem and Judea, and from the land beyond the Jordan."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Tested: Greek *peirazō* can mean “test” or “tempt.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:1",
+     "text": "The devil: Greek *diabolos*, “slanderer,” the Greek Old Testament’s word for Hebrew *satan*."
+    },
+    {
+     "m": "c",
+     "ref": "4:4",
+     "text": "Deut 8:3. The forty days recall Israel’s forty years in the wilderness and Moses’ forty days on the mountain (Exod 34:28; Deut 9:9)."
+    },
+    {
+     "m": "d",
+     "ref": "4:5",
+     "text": "Highest point: Greek *pterygion*, “little wing,” perhaps a corner of the temple’s outer wall high above the Kidron Valley. The exact location is uncertain."
+    },
+    {
+     "m": "e",
+     "ref": "4:6",
+     "text": "Ps 91:11–12 (90:11–12 in the Greek Old Testament)."
+    },
+    {
+     "m": "f",
+     "ref": "4:7",
+     "text": "Deut 6:16. In the Hebrew text, “the Lord your God” is “Yahweh your God,” as also in 4:10."
+    },
+    {
+     "m": "g",
+     "ref": "4:10",
+     "text": "Satan: Hebrew for “adversary” or “accuser.” Some later manuscripts add “Get behind me” (as in 16:23); the Westcott–Hort text lacks it."
+    },
+    {
+     "m": "h",
+     "ref": "4:10",
+     "text": "Deut 6:13. The Hebrew has “You shall fear Yahweh your God and serve him”; Jesus’ wording follows the Greek Old Testament with “worship” and “alone.”"
+    },
+    {
+     "m": "i",
+     "ref": "4:12",
+     "text": "Handed over: that is, arrested and put in prison (see 14:3–4)."
+    },
+    {
+     "m": "j",
+     "ref": "4:13",
+     "text": "Capernaum: Greek form of Hebrew *Kefar Nahum*, “village of Nahum,” a town on the northwest shore of the Sea of Galilee."
+    },
+    {
+     "m": "k",
+     "ref": "4:15",
+     "text": "Galilee of the nations: or “of the Gentiles”; the Greek *ethnē* means non-Jewish peoples."
+    },
+    {
+     "m": "l",
+     "ref": "4:16",
+     "text": "Isa 9:1–2 (8:23–9:1 in Hebrew), quoted freely."
+    },
+    {
+     "m": "m",
+     "ref": "4:18",
+     "text": "Simon … Peter … Andrew: *Simon* is the Greek form of Hebrew *Shimʿon* (Simeon), “one who hears” (Gen 29:33). *Peter*, Greek *Petros*, means “rock” (see 16:18). *Andrew* is a Greek name meaning “manly.”"
+    },
+    {
+     "m": "n",
+     "ref": "4:21",
+     "text": "James … John: *James* is the English form of the Greek *Iakōbos*, that is, *Jacob* (“heel-grabber” or “he supplants,” Gen 25:26). *Zebedee* is from Hebrew *Zavdi*, “my gift” or “gift of Yahweh.”"
+    },
+    {
+     "m": "o",
+     "ref": "4:23",
+     "text": "Synagogues: Greek *synagōgē*, “gathering,” the local Jewish assembly for prayer and the reading and teaching of Scripture, and the building where it met."
+    },
+    {
+     "m": "p",
+     "ref": "4:23",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel.”"
+    },
+    {
+     "m": "q",
+     "ref": "4:24",
+     "text": "Epileptics: literally “moonstruck,” a term that reflected an ancient belief that seizures were caused by the moon."
+    },
+    {
+     "m": "r",
+     "ref": "4:25",
+     "text": "The Ten Towns: Greek *Dekapolis*, a league of largely Gentile cities, most of them east of the Jordan."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    3,
+    11,
+    13,
+    17,
+    21,
+    27,
+    31,
+    33,
+    38,
+    43
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When he saw the crowds, he went up the mountain, and after he had sat down, his disciples came to him."
+    },
+    {
+     "v": 2,
+     "text": "and he began to teach them. He said:"
+    },
+    {
+     "v": 3,
+     "text": "“Blessed{a} are those who are poor in spirit, since theirs is the kingdom of heaven."
+    },
+    {
+     "v": 4,
+     "text": "Blessed are those who grieve, for they will be comforted."
+    },
+    {
+     "v": 5,
+     "text": "Blessed are the gentle, for the earth will be their inheritance.{b}"
+    },
+    {
+     "v": 6,
+     "text": "Blessed are those who hunger and thirst for righteousness, for they will be filled to the full."
+    },
+    {
+     "v": 7,
+     "text": "Blessed are those who show mercy, for mercy will be shown to them."
+    },
+    {
+     "v": 8,
+     "text": "Blessed are the pure in heart, since it is they who will see God."
+    },
+    {
+     "v": 9,
+     "text": "Blessed are those who make peace, for they will be called sons of God."
+    },
+    {
+     "v": 10,
+     "text": "Blessed are those who have been persecuted for the sake of righteousness, for the kingdom of heaven belongs to them."
+    },
+    {
+     "v": 11,
+     "text": "“You are blessed when people insult you, harass you, and tell all kinds of lies about you because of me."
+    },
+    {
+     "v": 12,
+     "text": "Rejoice and be glad, for great is your reward in heaven; that is how they hounded the prophets who came before you."
+    },
+    {
+     "v": 13,
+     "text": "“You are the salt of the earth. But if salt goes flat,{c} how will its saltiness be restored? It is then good for nothing except to be thrown out and walked on by people."
+    },
+    {
+     "v": 14,
+     "text": "You are the light of the world. A town that sits on a hilltop cannot stay hidden."
+    },
+    {
+     "v": 15,
+     "text": "Nor does anyone light a lamp and set it under a basket;{d} they put it on the lampstand, and it gives light to everyone in the house."
+    },
+    {
+     "v": 16,
+     "text": "In the same way, let your light shine before people, so that they may see the good you do and give glory to your Father in heaven."
+    },
+    {
+     "v": 17,
+     "text": "“Do not imagine that I came to do away with the Law or the Prophets. I did not come to do away with them but to fulfill them."
+    },
+    {
+     "v": 18,
+     "text": "Amen,{e} I tell you, until heaven and earth pass away, not one iota, not one tiny stroke,{f} will pass away from the Law until everything has taken place."
+    },
+    {
+     "v": 19,
+     "text": "So anyone who loosens even one of the least of these commandments, and teaches people to do likewise, will be named least in the kingdom of heaven; but anyone who obeys them and teaches them will be named great in the kingdom of heaven."
+    },
+    {
+     "v": 20,
+     "text": "For I tell you that unless your righteousness goes far beyond that of the scribes and Pharisees, you will never enter the kingdom of heaven."
+    },
+    {
+     "v": 21,
+     "text": "“You have heard that it was said to the people of long ago, ‘You shall not murder,’{g} and ‘Whoever murders will be liable to judgment.’"
+    },
+    {
+     "v": 22,
+     "text": "But I say to you that everyone who is angry with his brother{h} will be liable to judgment; whoever says to his brother, ‘Raca,’{i} will be liable to the high council;{j} and whoever says, ‘You fool,’ will be liable to the fire of Gehenna.{k}"
+    },
+    {
+     "v": 23,
+     "text": "So if you are offering your gift at the altar and there you recall that your brother has something against you,"
+    },
+    {
+     "v": 24,
+     "text": "leave your gift right there in front of the altar and go. First be reconciled with your brother, and then come back and offer your gift."
+    },
+    {
+     "v": 25,
+     "text": "Come to terms quickly with your opponent at law while you are still on the way with him, or your opponent may hand you over to the judge, and the judge to the officer, and you will be put in prison."
+    },
+    {
+     "v": 26,
+     "text": "Amen, I tell you, you will not get out of there until you have paid back the last cent.{l}"
+    },
+    {
+     "v": 27,
+     "text": "“You have heard that it was said, ‘You shall not commit adultery.’{m}"
+    },
+    {
+     "v": 28,
+     "text": "But I say to you that anyone who looks at a woman with desire for her has already committed adultery with her in his heart."
+    },
+    {
+     "v": 29,
+     "text": "If your right eye trips you up,{n} gouge it out and fling it away. Better for you that one of your members be lost than that your entire body be cast into Gehenna."
+    },
+    {
+     "v": 30,
+     "text": "And if your right hand trips you up, cut it off and fling it away. Better for you that one of your members be lost than that your entire body go off into Gehenna."
+    },
+    {
+     "v": 31,
+     "text": "“It has been said too, ‘Anyone who sends away his wife is to hand her a written notice of divorce.’{o}"
+    },
+    {
+     "v": 32,
+     "text": "But I tell you, anyone who sends away his wife, other than for sexual immorality,{p} causes her to become an adulteress, and anyone who marries a woman so sent away commits adultery."
+    },
+    {
+     "v": 33,
+     "text": "“Again, you have heard that it was said to the people of long ago, ‘You shall not break your oath, but you shall carry out the oaths you have sworn to the Lord.’{q}"
+    },
+    {
+     "v": 34,
+     "text": "But I say to you, take no oath at all, whether by heaven, because it is God’s throne,"
+    },
+    {
+     "v": 35,
+     "text": "or by the earth, because it is the footstool for his feet, or by Jerusalem, because it is the city of the great King.{r}"
+    },
+    {
+     "v": 36,
+     "text": "Nor should you swear by your head, for you cannot make one single hair white or black."
+    },
+    {
+     "v": 37,
+     "text": "Let your speech be ‘Yes, yes’ or ‘No, no’; anything beyond that comes from the evil one.{s}"
+    },
+    {
+     "v": 38,
+     "text": "“You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’{t}"
+    },
+    {
+     "v": 39,
+     "text": "But I say to you, do not resist an evil person. On the contrary, whoever slaps you on the right cheek, turn the other one toward him as well."
+    },
+    {
+     "v": 40,
+     "text": "And if someone wants to sue you and take your shirt,{u} let him have your cloak as well."
+    },
+    {
+     "v": 41,
+     "text": "And whoever forces you to go one mile,{v} go two with him."
+    },
+    {
+     "v": 42,
+     "text": "Give to the one who asks you, and do not turn your back on the one who would borrow from you."
+    },
+    {
+     "v": 43,
+     "text": "“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’{w}"
+    },
+    {
+     "v": 44,
+     "text": "But I say to you, love your enemies and pray for those who persecute you,{x}"
+    },
+    {
+     "v": 45,
+     "text": "so that you may become sons of your Father in heaven; for he makes his sun rise on the evil and the good, and sends rain on those who do right and those who do wrong."
+    },
+    {
+     "v": 46,
+     "text": "For if you love those who love you, what reward will you have? Do not even the tax collectors{y} do the same?"
+    },
+    {
+     "v": 47,
+     "text": "And if you greet only your brothers, what are you doing that is out of the ordinary? Do not even the Gentiles do the same?"
+    },
+    {
+     "v": 48,
+     "text": "You, then, are to be perfect,{z} just as your heavenly Father is perfect."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:3",
+     "text": "Blessed: Greek *makarios*, “happy,” “fortunate,” in the sense of being favored by God; also in verses 4–11."
+    },
+    {
+     "m": "b",
+     "ref": "5:5",
+     "text": "Ps 37:11. *Earth* may also be translated “land.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:13",
+     "text": "Goes flat: literally “becomes foolish,” that is, loses its taste. Ancient salt from the Dead Sea region was mixed with other minerals and could lose its savor."
+    },
+    {
+     "m": "d",
+     "ref": "5:15",
+     "text": "Basket: Greek *modios*, a container holding about 9 quarts (8.75 liters) of dry goods, used as a measuring bucket."
+    },
+    {
+     "m": "e",
+     "ref": "5:18",
+     "text": "Amen: a Hebrew word meaning “surely,” “so be it.” Jesus uses it uniquely to introduce his own solemn statements, rather than to confirm someone else’s words. Traditionally translated “Truly” or “Verily.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:18",
+     "text": "Iota … stroke: the iota is the smallest Greek letter (corresponding to Hebrew *yod*); the “stroke” (Greek *keraia*, “little horn”) is a small mark that distinguishes one Hebrew letter from another."
+    },
+    {
+     "m": "g",
+     "ref": "5:21",
+     "text": "Exod 20:13; Deut 5:17."
+    },
+    {
+     "m": "h",
+     "ref": "5:22",
+     "text": "Angry with his brother: many later manuscripts add “without cause”; the earliest witnesses, including P64/67 (reported), Sinaiticus and Vaticanus, lack it, and the Westcott–Hort text omits it. *Brother* here means a fellow member of the community, man or woman."
+    },
+    {
+     "m": "i",
+     "ref": "5:22",
+     "text": "Raca: an Aramaic term of contempt, probably “empty-head.”"
+    },
+    {
+     "m": "j",
+     "ref": "5:22",
+     "text": "High council: Greek *synedrion*, the Sanhedrin, the supreme Jewish council in Jerusalem."
+    },
+    {
+     "m": "k",
+     "ref": "5:22",
+     "text": "Gehenna: the Greek form of Hebrew *Ge Hinnom*, “Valley of Hinnom,” south of Jerusalem, once a site of child sacrifice (Jer 7:31) and later a symbol of final judgment. Traditionally translated “hell.”"
+    },
+    {
+     "m": "l",
+     "ref": "5:26",
+     "text": "Last cent: Greek *kodrantēs* (Latin *quadrans*), the smallest Roman copper coin, worth one sixty-fourth of a denarius (a day’s wage)."
+    },
+    {
+     "m": "m",
+     "ref": "5:27",
+     "text": "Exod 20:14; Deut 5:18."
+    },
+    {
+     "m": "n",
+     "ref": "5:29",
+     "text": "Causes you to fall: Greek *skandalizō*, to cause someone to stumble into sin; also in verse 30."
+    },
+    {
+     "m": "o",
+     "ref": "5:31",
+     "text": "Deut 24:1–4."
+    },
+    {
+     "m": "p",
+     "ref": "5:32",
+     "text": "Sexual immorality: Greek *porneia*, a broad term for illicit sexual conduct."
+    },
+    {
+     "m": "q",
+     "ref": "5:33",
+     "text": "Lev 19:12; Num 30:2; Deut 23:21. In the Old Testament the oath is sworn to Yahweh."
+    },
+    {
+     "m": "r",
+     "ref": "5:35",
+     "text": "Isa 66:1; Ps 48:2."
+    },
+    {
+     "m": "s",
+     "ref": "5:37",
+     "text": "The evil one: or “evil.” The Greek can be masculine (“the evil one,” the devil) or neuter (“evil”); also in 5:39 and 6:13."
+    },
+    {
+     "m": "t",
+     "ref": "5:38",
+     "text": "Exod 21:24; Lev 24:20; Deut 19:21."
+    },
+    {
+     "m": "u",
+     "ref": "5:40",
+     "text": "Shirt … cloak: the *chitōn* was the long tunic worn next to the skin; the *himation* was the outer garment, which a poor person also used as a blanket at night (Exod 22:26–27)."
+    },
+    {
+     "m": "v",
+     "ref": "5:41",
+     "text": "One mile: Greek *milion*, the Roman mile of a thousand paces, about 1,620 yards (1.48 km). Roman soldiers could compel civilians to carry their baggage for this distance."
+    },
+    {
+     "m": "w",
+     "ref": "5:43",
+     "text": "Lev 19:18. “Hate your enemy” is not found in the Old Testament; it may reflect popular understanding of the command."
+    },
+    {
+     "m": "x",
+     "ref": "5:44",
+     "text": "Pray for those who persecute you: later manuscripts expand the verse to read “bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you” (compare Luke 6:27–28). The Westcott–Hort text, with Sinaiticus and Vaticanus, has the shorter reading."
+    },
+    {
+     "m": "y",
+     "ref": "5:46",
+     "text": "Tax collectors: local Jews who collected tolls and taxes for Rome or for Herod Antipas, widely despised as collaborators and for their dishonesty."
+    },
+    {
+     "m": "z",
+     "ref": "5:48",
+     "text": "Perfect: Greek *teleios*, “complete,” “whole,” “mature”; compare Lev 19:2; Deut 18:13."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    2,
+    5,
+    16,
+    19,
+    22,
+    24,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Be careful not to practice your righteousness in front of others in order to be seen by them; otherwise you have no reward from your Father in heaven."
+    },
+    {
+     "v": 2,
+     "text": "“So whenever you give to the poor, do not blow a trumpet before you, as the hypocrites{a} do in the synagogues and in the streets, so as to win people’s praise. Amen, I tell you, they have their reward in full."
+    },
+    {
+     "v": 3,
+     "text": "Rather, when you give alms, keep your left hand unaware of what your right hand does,"
+    },
+    {
+     "v": 4,
+     "text": "so that your almsgiving may stay hidden; and your Father, who sees in secret, will repay you.{b}"
+    },
+    {
+     "v": 5,
+     "text": "“And whenever you pray, do not be like the hypocrites; they love to stand and pray in the synagogues and on the street corners, so that people will see them. Amen, I tell you, they have their reward in full."
+    },
+    {
+     "v": 6,
+     "text": "But you, when you pray, enter your private room, shut your door, and pray to your Father who is unseen; and your Father, who sees in secret, will repay you."
+    },
+    {
+     "v": 7,
+     "text": "“When you pray, do not babble on and on as the Gentiles do, for they think that by using a great many words they will get a hearing."
+    },
+    {
+     "v": 8,
+     "text": "So do not be like them, for your Father knows what you need before you ask him."
+    },
+    {
+     "v": 9,
+     "text": "Pray, then, in this way:\n‘Our Father, you who are in heaven,\nlet your name be treated as holy."
+    },
+    {
+     "v": 10,
+     "text": "May your kingdom come,\nyour will be done,\non earth as it is done in heaven."
+    },
+    {
+     "v": 11,
+     "text": "Give us today the bread we need for the day ahead;{c}"
+    },
+    {
+     "v": 12,
+     "text": "and forgive us our debts,\nas we too have forgiven those who are in debt to us;{d}"
+    },
+    {
+     "v": 13,
+     "text": "and do not lead us into a time of testing,\nbut rescue us from the evil one.’{e}"
+    },
+    {
+     "v": 14,
+     "text": "For if you forgive others their wrongdoings, your heavenly Father will forgive you as well;"
+    },
+    {
+     "v": 15,
+     "text": "but if you do not forgive people, neither will your Father pardon your wrongdoings."
+    },
+    {
+     "v": 16,
+     "text": "“And whenever you fast, do not look gloomy like the hypocrites, for they make their faces unsightly{f} so that people will notice they are fasting. Amen, I tell you, they have their reward in full."
+    },
+    {
+     "v": 17,
+     "text": "But you, when you fast, anoint your head and wash your face,"
+    },
+    {
+     "v": 18,
+     "text": "so that it will not be people who notice that you are fasting, but your Father, who is in secret; and your Father, who sees in secret, will repay you."
+    },
+    {
+     "v": 19,
+     "text": "“Do not pile up for yourselves treasures on earth, where the moth and rust{g} eat them away and where burglars break in and steal."
+    },
+    {
+     "v": 20,
+     "text": "Instead, pile up treasures for yourselves in heaven, where neither moth nor rust eats them away, and where burglars do not break in or steal."
+    },
+    {
+     "v": 21,
+     "text": "For where your treasure is, that is where your heart will be too."
+    },
+    {
+     "v": 22,
+     "text": "“The lamp of the body is the eye. If your eye is sound,{h} then, your whole body will be full of light;"
+    },
+    {
+     "v": 23,
+     "text": "but if your eye is diseased, your entire body will be filled with darkness. If, then, the light within you is darkness, how deep that darkness is!"
+    },
+    {
+     "v": 24,
+     "text": "“No one can be a slave to two masters; either he will hate the one and love the other, or he will be loyal to one and despise the other. You cannot be a slave both to God and to wealth.{i}"
+    },
+    {
+     "v": 25,
+     "text": "“That is why I tell you, do not be anxious about your life, about what you will eat or drink, or about your body, about what you will wear. Is life not more than food, and the body more than clothing?"
+    },
+    {
+     "v": 26,
+     "text": "Look at the birds of the sky: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not worth far more than they?"
+    },
+    {
+     "v": 27,
+     "text": "And which of you by worrying can add even eighteen inches{j} to the span of his life?"
+    },
+    {
+     "v": 28,
+     "text": "And why are you anxious about clothing? Study how the wildflowers{k} of the field grow; they do not toil or spin thread,"
+    },
+    {
+     "v": 29,
+     "text": "yet I tell you, not even Solomon in all his splendor was clothed like one of these."
+    },
+    {
+     "v": 30,
+     "text": "If God so clothes the grass of the field, which is here today and tomorrow is thrown into the oven, will he not much more clothe you, you people of little faith?"
+    },
+    {
+     "v": 31,
+     "text": "Do not fret, then, asking, ‘What will there be to eat?’ or ‘What will there be to drink?’ or ‘What are we going to wear?’"
+    },
+    {
+     "v": 32,
+     "text": "For the Gentiles are eagerly seeking all these things; and your heavenly Father knows that you need them all."
+    },
+    {
+     "v": 33,
+     "text": "But seek first his kingdom{l} and his righteousness, and all these things will be given to you as well."
+    },
+    {
+     "v": 34,
+     "text": "So do not be anxious about tomorrow, for tomorrow will have its own anxieties. Each day has trouble enough of its own."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Hypocrites: Greek *hypokritai*, “actors,” people who play a part on a stage."
+    },
+    {
+     "m": "b",
+     "ref": "6:4",
+     "text": "Will reward you: later manuscripts add “openly,” here and in verses 6 and 18; the Westcott–Hort text, with the earliest manuscripts, lacks it."
+    },
+    {
+     "m": "c",
+     "ref": "6:11",
+     "text": "The bread we need for the day ahead: the rare Greek word *epiousios* may mean “for the coming day,” “for today,” or “necessary for existence.” Its meaning is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "6:12",
+     "text": "Debts … in debt to us: sins are pictured as debts owed to God; compare Luke 11:4, “forgive us our sins.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:13",
+     "text": "The evil one: or “evil.” Later manuscripts add a closing doxology: “For yours is the kingdom and the power and the glory forever. Amen.” It is absent from the earliest manuscripts (Sinaiticus, Vaticanus, Bezae) and from the earliest commentators on the prayer, and it is not part of the Westcott–Hort text. It is an early liturgical ending, probably modeled on 1 Chr 29:11–13; a shorter form appears in the Didache (8.2, about AD 100). It is therefore given here and not in the text."
+    },
+    {
+     "m": "f",
+     "ref": "6:16",
+     "text": "Unsightly: literally “make their faces disappear,” perhaps by covering them with ashes or by leaving them unwashed."
+    },
+    {
+     "m": "g",
+     "ref": "6:19",
+     "text": "Rust: Greek *brōsis*, “eating,” perhaps the corrosion of metal or the gnawing of vermin; also in verse 20."
+    },
+    {
+     "m": "h",
+     "ref": "6:22",
+     "text": "Healthy: Greek *haplous*, “single,” “sound,” also “generous.” A “diseased” (literally “evil”) eye in verse 23 was an idiom for a stingy or envious disposition."
+    },
+    {
+     "m": "i",
+     "ref": "6:24",
+     "text": "Wealth: Greek *mamōnas*, from Aramaic *mamona*, “wealth,” “property,” traditionally “mammon.”"
+    },
+    {
+     "m": "j",
+     "ref": "6:27",
+     "text": "Eighteen inches: literally “one cubit,” the length from the elbow to the fingertip, about 18 inches (45 cm). The word for *span of life* (*hēlikia*) can also mean “stature,” but the context concerns length of life; the expression may then mean “a single hour.”"
+    },
+    {
+     "m": "k",
+     "ref": "6:28",
+     "text": "Wildflowers: Greek *krina*, traditionally “lilies,” probably a general term for the bright wildflowers of Galilee."
+    },
+    {
+     "m": "l",
+     "ref": "6:33",
+     "text": "His kingdom: later manuscripts read “the kingdom of God.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    6,
+    7,
+    13,
+    15,
+    21,
+    24,
+    28
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Do not judge, so that you may not be judged."
+    },
+    {
+     "v": 2,
+     "text": "For the judgment you pass on others is the judgment that will be passed on you, and the measure you measure out is the measure you will receive."
+    },
+    {
+     "v": 3,
+     "text": "Why do you notice the speck in your brother’s eye but never notice the log in your own eye?"
+    },
+    {
+     "v": 4,
+     "text": "Or how can you tell your brother, ‘Let me pull the speck out of your eye,’ when all the while there is a log in your own?"
+    },
+    {
+     "v": 5,
+     "text": "You hypocrite, first pull the log out of your own eye, and then you will see well enough to pull the speck from your brother’s eye."
+    },
+    {
+     "v": 6,
+     "text": "“Do not give what is holy to the dogs, and do not throw your pearls in front of pigs, or they may trample them under their feet and then turn around and tear you to pieces."
+    },
+    {
+     "v": 7,
+     "text": "“Keep asking, and it will be given you; keep seeking, and you will find; keep knocking, and it will be opened for you."
+    },
+    {
+     "v": 8,
+     "text": "For all who ask receive; whoever seeks finds; and for whoever knocks, it will be opened."
+    },
+    {
+     "v": 9,
+     "text": "Is there anyone among you who, if his son asks for bread, will hand him a stone?"
+    },
+    {
+     "v": 10,
+     "text": "Or if he asks for a fish, will hand him a snake?"
+    },
+    {
+     "v": 11,
+     "text": "If you, then, though you are evil, know how to give your children good gifts, how much more will your Father in heaven give good things to those who ask him!"
+    },
+    {
+     "v": 12,
+     "text": "So in everything, treat others in the way you want them to treat you; for this sums up the Law and the Prophets."
+    },
+    {
+     "v": 13,
+     "text": "“Go in through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many are those who go in by it."
+    },
+    {
+     "v": 14,
+     "text": "But how narrow{a} is the gate and how hard is the road that leads to life, and few are those who find it."
+    },
+    {
+     "v": 15,
+     "text": "“Watch out for false prophets, who come to you in sheep’s clothing but underneath are ravenous wolves."
+    },
+    {
+     "v": 16,
+     "text": "By their fruit you will know them. Do people pick grapes off thorns, or figs off thistles?"
+    },
+    {
+     "v": 17,
+     "text": "Just so, every healthy tree produces good fruit, but the diseased tree produces bad fruit."
+    },
+    {
+     "v": 18,
+     "text": "A healthy tree cannot produce bad fruit, nor can a diseased tree produce good fruit."
+    },
+    {
+     "v": 19,
+     "text": "Any tree that fails to yield good fruit is cut down and cast into the fire."
+    },
+    {
+     "v": 20,
+     "text": "So it is by their fruit that you will know them."
+    },
+    {
+     "v": 21,
+     "text": "“It is not all who call me ‘Lord, Lord’ who will enter the kingdom of heaven, but the one who carries out the will of my Father in heaven."
+    },
+    {
+     "v": 22,
+     "text": "Many will say to me on that day, ‘Lord, Lord, was it not in your name that we prophesied, in your name that we cast out demons, and in your name that we did many works of power?’"
+    },
+    {
+     "v": 23,
+     "text": "And then I will tell them plainly, ‘I never knew you. Depart from me, you workers of lawlessness.’{b}"
+    },
+    {
+     "v": 24,
+     "text": "“So everyone who hears these words of mine and acts on them will be like a sensible man who built his house on the rock."
+    },
+    {
+     "v": 25,
+     "text": "The rain came down, the rivers rose, and the winds blew and battered that house, yet it did not fall, because its foundation had been laid on the rock."
+    },
+    {
+     "v": 26,
+     "text": "And everyone who hears these words of mine and does not act on them will be like a foolish man who built his house on the sand."
+    },
+    {
+     "v": 27,
+     "text": "The rain came down, the rivers rose, and the winds blew and beat against that house, and it fell, and great was its downfall.”"
+    },
+    {
+     "v": 28,
+     "text": "When Jesus had finished these sayings,{c} the crowds were astounded at his teaching,"
+    },
+    {
+     "v": 29,
+     "text": "for he taught them as one who had authority, and not as their scribes did."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:14",
+     "text": "How narrow: some manuscripts read “for narrow.” The Westcott–Hort text reads *ti*, “how,” with most witnesses."
+    },
+    {
+     "m": "b",
+     "ref": "7:23",
+     "text": "Ps 6:8."
+    },
+    {
+     "m": "c",
+     "ref": "7:28",
+     "text": "When Jesus had finished these sayings: this formula closes each of the five great blocks of Jesus’ teaching in Matthew (7:28; 11:1; 13:53; 19:1; 26:1)."
+    }
+   ]
+  }
+ ]
+}
