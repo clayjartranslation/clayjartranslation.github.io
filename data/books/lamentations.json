@@ -1,0 +1,1339 @@
+{
+ "id": "lamentations",
+ "name": "Lamentations",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex (the Masoretic Text), checked against the Septuagint through Brenton’s public-domain English translation. Lamentations is untitled in Hebrew beyond its first word, ʾekah, “How!”; the Septuagint calls it Threnoi, “Laments,” and opens with a sentence not found in the Hebrew, setting the book after Israel’s captivity and naming Jeremiah as the mourner (Brenton). Hebrew tradition likewise links it with Jeremiah (compare 2 Chronicles 35:25), though the book itself names no author. The five poems lament the fall of Jerusalem in 586 B.C. Chapters 1–4 are alphabetic acrostics: each stanza begins with the next of the twenty-two letters of the Hebrew alphabet, and the footnotes name each letter. Chapters 1, 2, and 4 have one verse for each letter; chapter 3 is a triple acrostic, in which all three lines of each stanza begin with the same letter (66 verses). In chapter 1 the letter ayin comes before peh, as in the standard order, but in chapters 2, 3, and 4 peh precedes ayin; some ancient alphabet inscriptions are reported to show the same peh–ayin order, and a Qumran manuscript of Lamentations (4QLam) is reported to have it in chapter 1 as well. Chapter 5 is not an acrostic, but it keeps the alphabet’s twenty-two lines, a prayer rather than a dirge. Much of chapters 1–4 is in the so-called qinah or lament meter, a long line followed by a shorter, “limping” one. English versification is used; Adonai alone is rendered “the Lord,” and the divine name YHWH “Yahweh.” This is a CJT draft; items marked for scholarly review are listed in the project review file.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    6,
+    12,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "How{a} she sits alone,{b}\nthe city once thronged with people!\nShe has become like a widow,\nshe who was great among the nations;\na princess among the provinces\nhas been put to forced labor."
+    },
+    {
+     "v": 2,
+     "text": "Bitterly{c} she weeps in the night,\nher tears upon her cheek;\nof all her lovers\nshe has none to comfort her;\nall her friends have betrayed her;\nthey have become her enemies."
+    },
+    {
+     "v": 3,
+     "text": "Judah{d} has gone into exile after affliction\nand after heavy servitude;\nshe dwells among the nations;\nshe finds no resting place;\nall her pursuers have overtaken her\nin the narrow straits."
+    },
+    {
+     "v": 4,
+     "text": "Zion’s highways{e} are in mourning,\nwith no pilgrims arriving for the festivals;\nevery gate of hers lies deserted;\nher priests sigh;\nher maidens are wretched,{f}\nand as for her—bitterness."
+    },
+    {
+     "v": 5,
+     "text": "Her foes{g} have become the head;\nher enemies are at ease,\nfor Yahweh has afflicted her\nfor the multitude of her transgressions;\nher little children have gone away,\ncaptives before the foe."
+    },
+    {
+     "v": 6,
+     "text": "From{h} the daughter of Zion has departed\nall her splendor.\nHer princes have become like stags\nthat find no pasture;\nthey went without strength\nbefore the pursuer."
+    },
+    {
+     "v": 7,
+     "text": "Jerusalem calls to mind,{i} in her days of misery and homelessness,\nall her treasured things\nthat she owned in ages past.\nAs her people dropped into the enemy’s grip,\nwith no one coming to her aid,\nher adversaries stared at her;\nthey laughed at her collapse.{j}"
+    },
+    {
+     "v": 8,
+     "text": "Grievously{k} has Jerusalem sinned;\ntherefore she has become a thing unclean;{l}\nall who honored her despise her,\nfor they have seen her nakedness;\nshe herself groans\nand turns away."
+    },
+    {
+     "v": 9,
+     "text": "Her uncleanness{m} is in her skirts;\nshe gave no thought to her end;\nastonishingly she has come down,\nwith none to comfort her.\n“See, O Yahweh, my affliction,\nfor the enemy has magnified himself!”"
+    },
+    {
+     "v": 10,
+     "text": "His hand{n} the adversary has thrust out\nupon every treasure of hers;\nfor she watched the pagans\nmarch into her holy place—\nthose you had forbidden\nto join your congregation.{o}"
+    },
+    {
+     "v": 11,
+     "text": "All{p} her people groan\nas they search for bread;\nthey give their treasures for food\nto bring back life.\n“See, O Yahweh, and look,\nhow worthless I have become!”"
+    },
+    {
+     "v": 12,
+     "text": "“Is it{q} nothing to you, all you who pass along the road?{r}\nLook and see\nif there is any pain like my pain,\nwhich was dealt out to me,\nwhich Yahweh inflicted\non the day of his fierce anger."
+    },
+    {
+     "v": 13,
+     "text": "Out of the heights{s} he hurled fire;\ndown into my bones he drove it;{t}\nhe stretched a net to snare my feet;\nhe made me turn back;\nhe left me forlorn,\nsick the whole day through."
+    },
+    {
+     "v": 14,
+     "text": "Bound{u} is the yoke of my transgressions;{v}\nby his hand they are knotted together;\nthey are set upon my neck;\nhe has made my strength stumble;\nthe Lord has given me into the hands\nof those I cannot withstand."
+    },
+    {
+     "v": 15,
+     "text": "The Lord{w} has rejected\nall my mighty men in my midst;\nhe has summoned an assembly against me\nto crush my young men;\nthe Lord has trodden as in a winepress\nthe virgin daughter of Judah."
+    },
+    {
+     "v": 16,
+     "text": "For these things{x} I weep;\nmy eye, my eye runs down with water;\nfor far from me is a comforter,\none to restore my life;\nmy children are desolate,\nfor the enemy has prevailed.”"
+    },
+    {
+     "v": 17,
+     "text": "Zion{y} reaches out with her hands;\nno one is there to console her;\nYahweh issued orders concerning Jacob:\nthose around him must be his adversaries;\nJerusalem has turned into\nsomething defiled in their midst."
+    },
+    {
+     "v": 18,
+     "text": "“Righteous{z} is Yahweh,\nfor I have rebelled against his command;{aa}\nhear now, all peoples,\nand see my pain;\nmy young women and my young men\nhave gone into captivity."
+    },
+    {
+     "v": 19,
+     "text": "I called{ab} to my lovers,\nbut they deceived me;\nmy priests and my elders\nperished in the city\nwhile they sought food for themselves\nto bring back their life."
+    },
+    {
+     "v": 20,
+     "text": "See,{ac} O Yahweh, for I am in distress;\nmy inner parts churn;\nmy heart is turned over within me,\nfor I have been very rebellious.\nOutside the sword bereaves;\ninside, it is like death."
+    },
+    {
+     "v": 21,
+     "text": "They heard{ad} that I groan,\nwith none to comfort me;\nall my enemies heard of my trouble;\nthey rejoice that you have done it.\nBring on the day you have proclaimed,\nand let them be as I am."
+    },
+    {
+     "v": 22,
+     "text": "May every{ae} wicked deed of theirs come into your view;\ntreat them harshly,\nas harshly as you treated me\nbecause of every rebellion of mine;\nfor many are my sighs,\nand sick is my heart.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "This stanza begins with the Hebrew letter aleph (א) (the first letter of the Hebrew alphabet)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Hebrew ʾekah, “How!”, the cry of a funeral dirge and the Hebrew title of the book. The Septuagint prefaces the verse: “And it came to pass, after Israel was taken captive, and Jerusalem made desolate, that Jeremiah sat weeping, and lamented with this lamentation over Jerusalem, and said” (Brenton, modernized)."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "This stanza begins with the Hebrew letter beth (ב)."
+    },
+    {
+     "m": "d",
+     "ref": "1:3",
+     "text": "This stanza begins with the Hebrew letter gimel (ג)."
+    },
+    {
+     "m": "e",
+     "ref": "1:4",
+     "text": "This stanza begins with the Hebrew letter daleth (ד)."
+    },
+    {
+     "m": "f",
+     "ref": "1:4",
+     "text": "So the Hebrew; the Septuagint reads “her virgins are led captive” (Brenton)."
+    },
+    {
+     "m": "g",
+     "ref": "1:5",
+     "text": "This stanza begins with the Hebrew letter he (ה)."
+    },
+    {
+     "m": "h",
+     "ref": "1:6",
+     "text": "This stanza begins with the Hebrew letter vav (ו)."
+    },
+    {
+     "m": "i",
+     "ref": "1:7",
+     "text": "This stanza begins with the Hebrew letter zayin (ז)."
+    },
+    {
+     "m": "j",
+     "ref": "1:7",
+     "text": "Hebrew mishbattehah, perhaps “her cessation” or “her ruin”; the word is rare. This verse has four lines in the Hebrew where most stanzas have three couplets."
+    },
+    {
+     "m": "k",
+     "ref": "1:8",
+     "text": "This stanza begins with the Hebrew letter heth (ח)."
+    },
+    {
+     "m": "l",
+     "ref": "1:8",
+     "text": "Hebrew nidah, perhaps “a shaking of the head” or, by a slightly different reading, “impure,” as with menstrual impurity (compare verse 17)."
+    },
+    {
+     "m": "m",
+     "ref": "1:9",
+     "text": "This stanza begins with the Hebrew letter teth (ט)."
+    },
+    {
+     "m": "n",
+     "ref": "1:10",
+     "text": "This stanza begins with the Hebrew letter yod (י)."
+    },
+    {
+     "m": "o",
+     "ref": "1:10",
+     "text": "Compare Deuteronomy 23:3."
+    },
+    {
+     "m": "p",
+     "ref": "1:11",
+     "text": "This stanza begins with the Hebrew letter kaph (כ)."
+    },
+    {
+     "m": "q",
+     "ref": "1:12",
+     "text": "This stanza begins with the Hebrew letter lamed (ל)."
+    },
+    {
+     "m": "r",
+     "ref": "1:12",
+     "text": "The Hebrew is difficult; literally “Not to you,” perhaps “May it not happen to you.”"
+    },
+    {
+     "m": "s",
+     "ref": "1:13",
+     "text": "This stanza begins with the Hebrew letter mem (מ)."
+    },
+    {
+     "m": "t",
+     "ref": "1:13",
+     "text": "So the Septuagint (Brenton, “he has brought it into my bones”); the Hebrew reads “and it prevailed over it.”"
+    },
+    {
+     "m": "u",
+     "ref": "1:14",
+     "text": "This stanza begins with the Hebrew letter nun (נ)."
+    },
+    {
+     "m": "v",
+     "ref": "1:14",
+     "text": "The Hebrew is uncertain; the Septuagint reads “He has watched over my sins” (Brenton)."
+    },
+    {
+     "m": "w",
+     "ref": "1:15",
+     "text": "This stanza begins with the Hebrew letter samekh (ס)."
+    },
+    {
+     "m": "x",
+     "ref": "1:16",
+     "text": "This stanza begins with the Hebrew letter ayin (ע)."
+    },
+    {
+     "m": "y",
+     "ref": "1:17",
+     "text": "This stanza begins with the Hebrew letter peh (פ)."
+    },
+    {
+     "m": "z",
+     "ref": "1:18",
+     "text": "This stanza begins with the Hebrew letter tsade (צ)."
+    },
+    {
+     "m": "aa",
+     "ref": "1:18",
+     "text": "Hebrew “his mouth.”"
+    },
+    {
+     "m": "ab",
+     "ref": "1:19",
+     "text": "This stanza begins with the Hebrew letter qoph (ק)."
+    },
+    {
+     "m": "ac",
+     "ref": "1:20",
+     "text": "This stanza begins with the Hebrew letter resh (ר)."
+    },
+    {
+     "m": "ad",
+     "ref": "1:21",
+     "text": "This stanza begins with the Hebrew letter shin (ש)."
+    },
+    {
+     "m": "ae",
+     "ref": "1:22",
+     "text": "This stanza begins with the Hebrew letter tav (ת)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    11,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Ah, how{a} the Lord in his wrath\nhas wrapped daughter Zion in cloud!{b}\nOut of the sky to the dust he has hurled\nIsrael’s glory;\nhis own footrest{c} he has put out of mind\nin the day of his fury."
+    },
+    {
+     "v": 2,
+     "text": "Pitilessly{d} the Lord has gulped down\nevery homestead of Jacob;\nin his rage he has demolished\ndaughter Judah’s fortresses;\nhe has leveled them to the earth;\nkingdom and rulers he has desecrated."
+    },
+    {
+     "v": 3,
+     "text": "He has cut down{e} in burning anger\nevery horn of Israel;\nhe has drawn back his right hand\nin the face of the enemy;\nhe has burned in Jacob like a flaming fire\nthat devours all around."
+    },
+    {
+     "v": 4,
+     "text": "He has bent{f} his bow like an enemy,\nhis right hand set like a foe;\nhe has slain all who were delightful to the eye\nin the tent of daughter Zion;\nhe has poured out his fury like fire."
+    },
+    {
+     "v": 5,
+     "text": "The Lord{g} has become like an enemy;\nhe has swallowed up Israel;\nhe has swallowed up all her palaces;\nhe has laid waste his strongholds,\nand multiplied in daughter Judah\nmourning and moaning.{h}"
+    },
+    {
+     "v": 6,
+     "text": "He has wrecked{i} his booth like a garden;\nhe has laid waste his meeting place;\nYahweh has made Zion forget\nappointed feast and sabbath,\nand in the indignation of his anger\nhas spurned king and priest."
+    },
+    {
+     "v": 7,
+     "text": "His altar{j} the Lord has spurned,\nhis holy place renounced;\ninto the enemy’s grip he has handed over\nthe ramparts of her citadels;\nin Yahweh’s house they made an uproar\nlike the din of a festival day."
+    },
+    {
+     "v": 8,
+     "text": "Yahweh{k} resolved to wreck\ndaughter Zion’s wall;\nhe stretched the surveyor’s cord;\nhis hand he did not draw back from ruin;\nhe set bulwark and wall to grieving;\nboth alike waste away."
+    },
+    {
+     "v": 9,
+     "text": "Sunk{l} into the ground are her gates;\nhe has ruined and broken her bars;\nher king and her princes are among the nations;\nthere is no instruction;{m}\nher prophets also find\nno vision from Yahweh."
+    },
+    {
+     "v": 10,
+     "text": "Silent on the earth{n} sit\ndaughter Zion’s elders;\ndust they have tossed upon their heads;\nsackcloth they have wrapped round;\nJerusalem’s maidens\ndroop their heads to the earth."
+    },
+    {
+     "v": 11,
+     "text": "My eyes{o} are spent with tears;\nmy inner parts churn;\nmy liver{p} is poured out on the ground\nbecause of the ruin of the daughter of my people,\nas infant and nursing child faint\nin the squares of the city."
+    },
+    {
+     "v": 12,
+     "text": "Their mothers{q} they keep asking,\n“Where is bread, where is wine?”\nwhile swooning like men struck down\nin the town’s open places,\nwhile their breath ebbs away\nin their mothers’ laps."
+    },
+    {
+     "v": 13,
+     "text": "What witness{r} can I offer you? What likeness find for you,\ndaughter Jerusalem?\nWhat match can I set beside you, to console you,\nmaiden daughter Zion?\nFor wide as the ocean is your shattering;\nwho could mend you?"
+    },
+    {
+     "v": 14,
+     "text": "Your prophets’{s} visions for you\nwere emptiness and plaster;{t}\nthey did not lay bare your guilt\nso as to reverse your captivity,\nbut the oracles they saw for you\nwere empty and led you astray."
+    },
+    {
+     "v": 15,
+     "text": "They clap{u} their hands at you,\nall who pass along the way;\nthey hiss and wag their heads\nat daughter Jerusalem:\n“Is this the city that was called\nthe perfection of beauty, the joy of all the earth?”"
+    },
+    {
+     "v": 16,
+     "text": "They open{v} their mouths against you,\nall your enemies;{w}\nthey hiss and gnash their teeth;\nthey say, “We have swallowed her up!\nSurely this is the day we hoped for;\nwe have found it; we have seen it!”"
+    },
+    {
+     "v": 17,
+     "text": "Yahweh{x} has done what he purposed;\nhe has fulfilled his word,\nwhich he commanded from days of old;\nhe has torn down without pity;\nhe has made the enemy rejoice over you;\nhe has exalted the horn of your foes."
+    },
+    {
+     "v": 18,
+     "text": "Their heart{y} cried out to the Lord.{z}\nO wall of daughter Zion,\nlet tears run down like a torrent\nday and night!\nGive yourself no respite;\nlet not the pupil of your eye be still!"
+    },
+    {
+     "v": 19,
+     "text": "Arise,{aa} cry out in the night,\nat the beginning of the watches!{ab}\nPour out your heart like water\nbefore the face of the Lord!\nLift up your hands to him\nfor the lives of your little ones,\nwho faint for hunger\nat the head of every street.{ac}"
+    },
+    {
+     "v": 20,
+     "text": "“See,{ad} O Yahweh, and consider:\nto whom have you dealt thus?\nShould women eat their offspring,\nthe children they have cherished?\nShould priest and prophet be slain\nin the sanctuary of the Lord?"
+    },
+    {
+     "v": 21,
+     "text": "They lie{ae} on the ground in the streets,\nyoung and old;\nmy young women and my young men\nhave fallen by the sword;\nyou have slain them in the day of your anger;\nyou have slaughtered without pity."
+    },
+    {
+     "v": 22,
+     "text": "You summoned,{af} as to a day of appointed feast,\nmy terrors from all around;\nand on the day of Yahweh’s anger\nnone escaped or survived;\nthose whom I cherished and reared\nmy enemy has destroyed.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "This stanza begins with the Hebrew letter aleph (א) (the first letter of the Hebrew alphabet)."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "Or “has treated with contempt”; the Hebrew verb is rare."
+    },
+    {
+     "m": "c",
+     "ref": "2:1",
+     "text": "That is, the ark or the temple (compare 1 Chronicles 28:2; Psalm 132:7)."
+    },
+    {
+     "m": "d",
+     "ref": "2:2",
+     "text": "This stanza begins with the Hebrew letter beth (ב)."
+    },
+    {
+     "m": "e",
+     "ref": "2:3",
+     "text": "This stanza begins with the Hebrew letter gimel (ג)."
+    },
+    {
+     "m": "f",
+     "ref": "2:4",
+     "text": "This stanza begins with the Hebrew letter daleth (ד)."
+    },
+    {
+     "m": "g",
+     "ref": "2:5",
+     "text": "This stanza begins with the Hebrew letter he (ה)."
+    },
+    {
+     "m": "h",
+     "ref": "2:5",
+     "text": "Hebrew taʾaniyyah waʾaniyyah, a sound play."
+    },
+    {
+     "m": "i",
+     "ref": "2:6",
+     "text": "This stanza begins with the Hebrew letter vav (ו)."
+    },
+    {
+     "m": "j",
+     "ref": "2:7",
+     "text": "This stanza begins with the Hebrew letter zayin (ז)."
+    },
+    {
+     "m": "k",
+     "ref": "2:8",
+     "text": "This stanza begins with the Hebrew letter heth (ח)."
+    },
+    {
+     "m": "l",
+     "ref": "2:9",
+     "text": "This stanza begins with the Hebrew letter teth (ט)."
+    },
+    {
+     "m": "m",
+     "ref": "2:9",
+     "text": "Hebrew torah."
+    },
+    {
+     "m": "n",
+     "ref": "2:10",
+     "text": "This stanza begins with the Hebrew letter yod (י)."
+    },
+    {
+     "m": "o",
+     "ref": "2:11",
+     "text": "This stanza begins with the Hebrew letter kaph (כ)."
+    },
+    {
+     "m": "p",
+     "ref": "2:11",
+     "text": "The liver was regarded as a seat of the emotions."
+    },
+    {
+     "m": "q",
+     "ref": "2:12",
+     "text": "This stanza begins with the Hebrew letter lamed (ל)."
+    },
+    {
+     "m": "r",
+     "ref": "2:13",
+     "text": "This stanza begins with the Hebrew letter mem (מ)."
+    },
+    {
+     "m": "s",
+     "ref": "2:14",
+     "text": "This stanza begins with the Hebrew letter nun (נ)."
+    },
+    {
+     "m": "t",
+     "ref": "2:14",
+     "text": "Hebrew tafel, “whitewash,” that which covers over (compare Ezekiel 13:10)."
+    },
+    {
+     "m": "u",
+     "ref": "2:15",
+     "text": "This stanza begins with the Hebrew letter samekh (ס)."
+    },
+    {
+     "m": "v",
+     "ref": "2:16",
+     "text": "This stanza begins with the Hebrew letter peh (פ)."
+    },
+    {
+     "m": "w",
+     "ref": "2:16",
+     "text": "In the Hebrew this stanza begins with peh and the next with ayin, reversing the order of chapter 1; the Septuagint’s letter headings follow ayin–peh, though the verses stand in the Hebrew order (Brenton). The same reversal occurs in chapters 3 and 4."
+    },
+    {
+     "m": "x",
+     "ref": "2:17",
+     "text": "This stanza begins with the Hebrew letter ayin (ע)."
+    },
+    {
+     "m": "y",
+     "ref": "2:18",
+     "text": "This stanza begins with the Hebrew letter tsade (צ)."
+    },
+    {
+     "m": "z",
+     "ref": "2:18",
+     "text": "The Hebrew is difficult; some emend to “Cry out from the heart.”"
+    },
+    {
+     "m": "aa",
+     "ref": "2:19",
+     "text": "This stanza begins with the Hebrew letter qoph (ק)."
+    },
+    {
+     "m": "ab",
+     "ref": "2:19",
+     "text": "The Septuagint reads “Arise, rejoice in the night” (Brenton)."
+    },
+    {
+     "m": "ac",
+     "ref": "2:19",
+     "text": "This stanza has four lines in the Hebrew."
+    },
+    {
+     "m": "ad",
+     "ref": "2:20",
+     "text": "This stanza begins with the Hebrew letter resh (ר)."
+    },
+    {
+     "m": "ae",
+     "ref": "2:21",
+     "text": "This stanza begins with the Hebrew letter shin (ש)."
+    },
+    {
+     "m": "af",
+     "ref": "2:22",
+     "text": "This stanza begins with the Hebrew letter tav (ת)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    25,
+    37,
+    52
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I{a}—a man who has looked on misery beneath the staff of his fury.{b}"
+    },
+    {
+     "v": 2,
+     "text": "Me he has driven off and made to walk in darkness and not light."
+    },
+    {
+     "v": 3,
+     "text": "Yes, at me alone he swings his hand, over and over, the whole day long."
+    },
+    {
+     "v": 4,
+     "text": "He{c} has worn away my flesh and my skin; he has broken my bones."
+    },
+    {
+     "v": 5,
+     "text": "He has built siege works against me and ringed me with bitterness and hardship.{d}"
+    },
+    {
+     "v": 6,
+     "text": "In dark places he has made me dwell, like those long dead."
+    },
+    {
+     "v": 7,
+     "text": "He has walled{e} me in, and I cannot get out; he has made my chains heavy."
+    },
+    {
+     "v": 8,
+     "text": "Even when I cry and call for help, he shuts out my prayer."
+    },
+    {
+     "v": 9,
+     "text": "He has walled up my ways with hewn stone; my paths he has made crooked."
+    },
+    {
+     "v": 10,
+     "text": "A bear{f} lying in wait he is to me, a lion in hiding."
+    },
+    {
+     "v": 11,
+     "text": "My ways he has turned aside; he has torn me to pieces; he has made me desolate."
+    },
+    {
+     "v": 12,
+     "text": "He bent his bow and set me as a target for the arrow."
+    },
+    {
+     "v": 13,
+     "text": "He has driven{g} into my kidneys the shafts of his quiver.{h}"
+    },
+    {
+     "v": 14,
+     "text": "I have become a laughingstock to all my people,{i} their taunt song all the day."
+    },
+    {
+     "v": 15,
+     "text": "He has filled me with bitter herbs; he has sated me with wormwood."
+    },
+    {
+     "v": 16,
+     "text": "He has made{j} my teeth crunch on grit; in the ashes he has pressed me down."
+    },
+    {
+     "v": 17,
+     "text": "My soul is cast off from peace; I have forgotten what good is."
+    },
+    {
+     "v": 18,
+     "text": "So I said, “Gone is my endurance, and my hope from Yahweh.”"
+    },
+    {
+     "v": 19,
+     "text": "Remember{k} my affliction and my wandering, the wormwood and the poison!"
+    },
+    {
+     "v": 20,
+     "text": "My soul remembers it well and is bowed down within me.{l}"
+    },
+    {
+     "v": 21,
+     "text": "Yet this I bring back to my heart; for this reason I wait in hope:"
+    },
+    {
+     "v": 22,
+     "text": "The steadfast love{m} of Yahweh never ceases;{n} his mercies do not come to an end;"
+    },
+    {
+     "v": 23,
+     "text": "they are new every morning; great is your faithfulness."
+    },
+    {
+     "v": 24,
+     "text": "“Yahweh is my portion,” says my soul; “therefore I will hope in him.”"
+    },
+    {
+     "v": 25,
+     "text": "Good{o} is Yahweh to those who wait for him, to the soul who seeks him."
+    },
+    {
+     "v": 26,
+     "text": "Good it is that one should wait in silence for the salvation of Yahweh."
+    },
+    {
+     "v": 27,
+     "text": "Good it is for a man that he bear the yoke in his youth."
+    },
+    {
+     "v": 28,
+     "text": "Let him sit{p} alone and keep silent, when He has laid it on him;"
+    },
+    {
+     "v": 29,
+     "text": "let him put his mouth in the dust—perhaps there may be hope;{q}"
+    },
+    {
+     "v": 30,
+     "text": "let him give his cheek to the one who strikes, and be filled with reproach."
+    },
+    {
+     "v": 31,
+     "text": "For{r} the Lord will not cast off forever;"
+    },
+    {
+     "v": 32,
+     "text": "though he brings grief, he will have compassion according to the abundance of his steadfast love;"
+    },
+    {
+     "v": 33,
+     "text": "for not willingly does he humble or sadden human beings."
+    },
+    {
+     "v": 34,
+     "text": "To crush{s} underfoot all the prisoners of the earth,"
+    },
+    {
+     "v": 35,
+     "text": "to deny a man justice before the face of the Most High,"
+    },
+    {
+     "v": 36,
+     "text": "to subvert a person in his lawsuit—does the Lord not see?{t}"
+    },
+    {
+     "v": 37,
+     "text": "Who{u} can speak a thing into being, if the Lord did not decree it?"
+    },
+    {
+     "v": 38,
+     "text": "Is it not from the mouth of the Most High that both evil and good go forth?"
+    },
+    {
+     "v": 39,
+     "text": "What grievance has a living mortal—any man—over the penalty for his sins?"
+    },
+    {
+     "v": 40,
+     "text": "Let us search{v} and examine our ways and return to Yahweh!"
+    },
+    {
+     "v": 41,
+     "text": "Let us lift up our hearts with our hands to God in heaven:"
+    },
+    {
+     "v": 42,
+     "text": "“It is we who sinned and defied you; and you—you did not pardon."
+    },
+    {
+     "v": 43,
+     "text": "You have wrapped{w} yourself in anger and pursued us; you have slain without pity;"
+    },
+    {
+     "v": 44,
+     "text": "you have wrapped yourself with a cloud, so that no prayer can pass through;"
+    },
+    {
+     "v": 45,
+     "text": "you have made us offscouring and refuse in the midst of the peoples."
+    },
+    {
+     "v": 46,
+     "text": "They have opened{x} their mouths against us, all our enemies;{y}"
+    },
+    {
+     "v": 47,
+     "text": "panic and pitfall have come upon us, devastation and destruction;{z}"
+    },
+    {
+     "v": 48,
+     "text": "my eye runs down with streams of water because of the destruction of the daughter of my people."
+    },
+    {
+     "v": 49,
+     "text": "My eye{aa} flows on and does not cease, without respite,"
+    },
+    {
+     "v": 50,
+     "text": "until Yahweh looks down and sees from heaven;"
+    },
+    {
+     "v": 51,
+     "text": "my eye torments my soul because of all the daughters of my city."
+    },
+    {
+     "v": 52,
+     "text": "Hunted{ab} me like a bird have my enemies without cause;"
+    },
+    {
+     "v": 53,
+     "text": "they silenced my life in the pit and cast stones on me;"
+    },
+    {
+     "v": 54,
+     "text": "waters flowed over my head; I said, “I am cut off.”"
+    },
+    {
+     "v": 55,
+     "text": "I called{ac} on your name, O Yahweh, from the depths of the pit;"
+    },
+    {
+     "v": 56,
+     "text": "you heard my voice: “Do not close your ear to my cry for relief!”{ad}"
+    },
+    {
+     "v": 57,
+     "text": "You came near on the day I called you; you said, “Do not fear!”"
+    },
+    {
+     "v": 58,
+     "text": "You have pleaded,{ae} O Lord, the causes of my soul; you have redeemed my life."
+    },
+    {
+     "v": 59,
+     "text": "You have seen, O Yahweh, the wrong done to me; judge my case!"
+    },
+    {
+     "v": 60,
+     "text": "You have seen all their vengeance, all their schemes against me."
+    },
+    {
+     "v": 61,
+     "text": "You have heard{af} their taunts, O Yahweh, all their schemes against me,"
+    },
+    {
+     "v": 62,
+     "text": "the lips of my assailants and their muttering against me all the day."
+    },
+    {
+     "v": 63,
+     "text": "See their sitting and their rising: I am their taunt song."
+    },
+    {
+     "v": 64,
+     "text": "You will repay{ag} them, O Yahweh, according to the work of their hands."
+    },
+    {
+     "v": 65,
+     "text": "Hardness of heart you will hand them; on them be your curse!{ah}"
+    },
+    {
+     "v": 66,
+     "text": "You will pursue them in anger and destroy them from under the heavens of Yahweh.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Each line of this stanza begins with the Hebrew letter aleph (א)."
+    },
+    {
+     "m": "b",
+     "ref": "3:1",
+     "text": "The speaker is an individual sufferer (Hebrew geber, “strong man”), who at times speaks for the whole people (verses 40–47)."
+    },
+    {
+     "m": "c",
+     "ref": "3:4",
+     "text": "Each line of this stanza begins with the Hebrew letter beth (ב)."
+    },
+    {
+     "m": "d",
+     "ref": "3:5",
+     "text": "Hebrew roʾsh utelaʾah, “poison and toil”; the Septuagint reads “and compassed my head, and brought travail upon me” (Brenton)."
+    },
+    {
+     "m": "e",
+     "ref": "3:7",
+     "text": "Each line of this stanza begins with the Hebrew letter gimel (ג)."
+    },
+    {
+     "m": "f",
+     "ref": "3:10",
+     "text": "Each line of this stanza begins with the Hebrew letter daleth (ד)."
+    },
+    {
+     "m": "g",
+     "ref": "3:13",
+     "text": "Each line of this stanza begins with the Hebrew letter he (ה)."
+    },
+    {
+     "m": "h",
+     "ref": "3:13",
+     "text": "Hebrew “the sons of his quiver.”"
+    },
+    {
+     "m": "i",
+     "ref": "3:14",
+     "text": "So most Hebrew manuscripts; some manuscripts and the Syriac read “all peoples.”"
+    },
+    {
+     "m": "j",
+     "ref": "3:16",
+     "text": "Each line of this stanza begins with the Hebrew letter vav (ו)."
+    },
+    {
+     "m": "k",
+     "ref": "3:19",
+     "text": "Each line of this stanza begins with the Hebrew letter zayin (ז)."
+    },
+    {
+     "m": "l",
+     "ref": "3:20",
+     "text": "So the Hebrew consonants (Kethib); the Qere reads “and bows down.” Some rabbinic lists of scribal corrections are reported to include it, as originally “your soul,” spoken of God."
+    },
+    {
+     "m": "m",
+     "ref": "3:22",
+     "text": "Each line of this stanza begins with the Hebrew letter heth (ח)."
+    },
+    {
+     "m": "n",
+     "ref": "3:22",
+     "text": "So the Targum and Syriac, reading tammu; the Hebrew reads “The steadfast love of Yahweh, for we are not consumed” (tamnu). Brenton gives verses 22–24 as a supplement numbered 21a–c (“he has not failed me”); they are reported to be lacking in some major Greek manuscripts."
+    },
+    {
+     "m": "o",
+     "ref": "3:25",
+     "text": "Each line of this stanza begins with the Hebrew letter teth (ט)."
+    },
+    {
+     "m": "p",
+     "ref": "3:28",
+     "text": "Each line of this stanza begins with the Hebrew letter yod (י)."
+    },
+    {
+     "m": "q",
+     "ref": "3:29",
+     "text": "Verse 29 is absent from Brenton’s Septuagint."
+    },
+    {
+     "m": "r",
+     "ref": "3:31",
+     "text": "Each line of this stanza begins with the Hebrew letter kaph (כ)."
+    },
+    {
+     "m": "s",
+     "ref": "3:34",
+     "text": "Each line of this stanza begins with the Hebrew letter lamed (ל)."
+    },
+    {
+     "m": "t",
+     "ref": "3:36",
+     "text": "Or “the Lord does not approve.”"
+    },
+    {
+     "m": "u",
+     "ref": "3:37",
+     "text": "Each line of this stanza begins with the Hebrew letter mem (מ)."
+    },
+    {
+     "m": "v",
+     "ref": "3:40",
+     "text": "Each line of this stanza begins with the Hebrew letter nun (נ)."
+    },
+    {
+     "m": "w",
+     "ref": "3:43",
+     "text": "Each line of this stanza begins with the Hebrew letter samekh (ס)."
+    },
+    {
+     "m": "x",
+     "ref": "3:46",
+     "text": "Each line of this stanza begins with the Hebrew letter peh (פ)."
+    },
+    {
+     "m": "y",
+     "ref": "3:46",
+     "text": "The peh stanza (verses 46–48) comes before the ayin stanza (verses 49–51), as in chapters 2 and 4."
+    },
+    {
+     "m": "z",
+     "ref": "3:47",
+     "text": "Hebrew paḥad wapaḥath … hashshe’th wehashshaver, a sound play."
+    },
+    {
+     "m": "aa",
+     "ref": "3:49",
+     "text": "Each line of this stanza begins with the Hebrew letter ayin (ע)."
+    },
+    {
+     "m": "ab",
+     "ref": "3:52",
+     "text": "Each line of this stanza begins with the Hebrew letter tsade (צ)."
+    },
+    {
+     "m": "ac",
+     "ref": "3:55",
+     "text": "Each line of this stanza begins with the Hebrew letter qoph (ק)."
+    },
+    {
+     "m": "ad",
+     "ref": "3:56",
+     "text": "Or “to my sigh, to my cry.” The Hebrew lerawḥathi, “for my relief,” is uncertain."
+    },
+    {
+     "m": "ae",
+     "ref": "3:58",
+     "text": "Each line of this stanza begins with the Hebrew letter resh (ר)."
+    },
+    {
+     "m": "af",
+     "ref": "3:61",
+     "text": "Each line of this stanza begins with the Hebrew letter shin (ש)."
+    },
+    {
+     "m": "ag",
+     "ref": "3:64",
+     "text": "Each line of this stanza begins with the Hebrew letter tav (ת)."
+    },
+    {
+     "m": "ah",
+     "ref": "3:65",
+     "text": "Hebrew meginnath lev, perhaps “a covering of heart” or “anguish of heart.”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "How{a} the gold has grown dim,\nthe finest gold changed!\nThe holy stones lie scattered\nat the head of every street."
+    },
+    {
+     "v": 2,
+     "text": "Zion’s{b} treasured sons,\nworth their weight in pure gold—\nah, now counted as clay jugs,\nthings a potter’s hands turn out!"
+    },
+    {
+     "v": 3,
+     "text": "Even jackals{c} bare the breast\nand suckle their young;\nbut the daughter of my people has turned cruel,\nlike the ostriches in the wilderness.{d}"
+    },
+    {
+     "v": 4,
+     "text": "The tongue{e} of the nursing infant cleaves\nto the roof of its mouth for thirst;\nlittle children beg for bread,\nbut no one breaks it for them."
+    },
+    {
+     "v": 5,
+     "text": "Those who ate{f} dainties\nare desolate in the streets;\nthose reared in scarlet\nembrace dunghills."
+    },
+    {
+     "v": 6,
+     "text": "For greater{g} was the iniquity of the daughter of my people\nthan the sin of Sodom,{h}\nwhich was overthrown in a moment,\nwith no hands laid upon her."
+    },
+    {
+     "v": 7,
+     "text": "Her princes{i} were brighter than snow,{j}\nwhiter than milk;\ntheir bodies were ruddier than coral,\ntheir form like lapis lazuli."
+    },
+    {
+     "v": 8,
+     "text": "Blacker{k} than charcoal their faces have grown;\nin the lanes no one knows them;\ntheir hide clings shrunken to their frame,\nwithered like a stick."
+    },
+    {
+     "v": 9,
+     "text": "Better off{l} were those slain by the sword\nthan those slain by hunger,\nwho pine away, pierced,\nfor lack of the fruits of the field."
+    },
+    {
+     "v": 10,
+     "text": "The hands{m} of compassionate women\nhave boiled their own children;\nthey became their food\nin the ruin of the daughter of my people."
+    },
+    {
+     "v": 11,
+     "text": "Yahweh{n} has spent his fury;\nhe has poured out his burning anger;\nhe has kindled a fire in Zion\nthat has consumed her foundations."
+    },
+    {
+     "v": 12,
+     "text": "Never{o} would earth’s kings have credited it,\nnor any who live in the world,\nthat adversary or assailant would march\nthrough Jerusalem’s gates."
+    },
+    {
+     "v": 13,
+     "text": "It was{p} for the sins of her prophets,\nthe iniquities of her priests,\nwho shed in her midst\nthe blood of the righteous."
+    },
+    {
+     "v": 14,
+     "text": "They wandered,{q} blind, through the streets,\nso defiled with blood\nthat none could touch\ntheir garments."
+    },
+    {
+     "v": 15,
+     "text": "“Off with you! Defiled!”{r} they shouted at them;\n“Off, off! Keep your hands away!”\nSo they ran and roamed about;\namong the peoples men said,\n“Here they may lodge no more.”"
+    },
+    {
+     "v": 16,
+     "text": "Yahweh’s own presence{s} has dispersed them;{t}\nno more will he look upon them;\nfor priests there was no respect,\nfor elders no kindness."
+    },
+    {
+     "v": 17,
+     "text": "Still{u} our eyes failed,\nlooking in vain for help;\nfrom our watchtower we watched\nfor a nation that could not save.{v}"
+    },
+    {
+     "v": 18,
+     "text": "Our footsteps{w} they stalked,\nbarring us from walking in our own plazas;\nnear was our finish, full our days;\nyes, our finish had arrived."
+    },
+    {
+     "v": 19,
+     "text": "Swifter{x} were our pursuers\nthan the eagles of the heavens;\non the mountains they chased us;\nin the wilderness they lay in wait for us."
+    },
+    {
+     "v": 20,
+     "text": "The breath{y} of our nostrils, the anointed of Yahweh,{z}\nwas caught in their pits,\nhe of whom we said, “Under his shadow\nwe shall live among the nations.”"
+    },
+    {
+     "v": 21,
+     "text": "Rejoice{aa} and be glad, O daughter of Edom,\ndweller in the land of Uz!{ab}\nTo you also the cup will pass;\nyou will become drunk and strip yourself bare."
+    },
+    {
+     "v": 22,
+     "text": "Your iniquity,{ac} O daughter of Zion, is complete;\nhe will not prolong your exile;\nyour iniquity, O daughter of Edom, he will punish;\nhe will uncover your sins."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "This stanza begins with the Hebrew letter aleph (א) (the first letter of the Hebrew alphabet)."
+    },
+    {
+     "m": "b",
+     "ref": "4:2",
+     "text": "This stanza begins with the Hebrew letter beth (ב)."
+    },
+    {
+     "m": "c",
+     "ref": "4:3",
+     "text": "This stanza begins with the Hebrew letter gimel (ג)."
+    },
+    {
+     "m": "d",
+     "ref": "4:3",
+     "text": "So the Qere; the Kethib reads a variant spelling. The Septuagint reads “serpents” for “jackals” (Brenton)."
+    },
+    {
+     "m": "e",
+     "ref": "4:4",
+     "text": "This stanza begins with the Hebrew letter daleth (ד)."
+    },
+    {
+     "m": "f",
+     "ref": "4:5",
+     "text": "This stanza begins with the Hebrew letter he (ה)."
+    },
+    {
+     "m": "g",
+     "ref": "4:6",
+     "text": "This stanza begins with the Hebrew letter vav (ו)."
+    },
+    {
+     "m": "h",
+     "ref": "4:6",
+     "text": "Or “the punishment … than the punishment of Sodom”; Hebrew ʿawon and ḥattaʾth can mean both offense and its penalty. Compare Genesis 19."
+    },
+    {
+     "m": "i",
+     "ref": "4:7",
+     "text": "This stanza begins with the Hebrew letter zayin (ז)."
+    },
+    {
+     "m": "j",
+     "ref": "4:7",
+     "text": "Or “her consecrated ones,” Hebrew nezireha (compare Numbers 6); the Septuagint reads “Her Nazarites” (Brenton)."
+    },
+    {
+     "m": "k",
+     "ref": "4:8",
+     "text": "This stanza begins with the Hebrew letter heth (ח)."
+    },
+    {
+     "m": "l",
+     "ref": "4:9",
+     "text": "This stanza begins with the Hebrew letter teth (ט)."
+    },
+    {
+     "m": "m",
+     "ref": "4:10",
+     "text": "This stanza begins with the Hebrew letter yod (י)."
+    },
+    {
+     "m": "n",
+     "ref": "4:11",
+     "text": "This stanza begins with the Hebrew letter kaph (כ)."
+    },
+    {
+     "m": "o",
+     "ref": "4:12",
+     "text": "This stanza begins with the Hebrew letter lamed (ל)."
+    },
+    {
+     "m": "p",
+     "ref": "4:13",
+     "text": "This stanza begins with the Hebrew letter mem (מ)."
+    },
+    {
+     "m": "q",
+     "ref": "4:14",
+     "text": "This stanza begins with the Hebrew letter nun (נ)."
+    },
+    {
+     "m": "r",
+     "ref": "4:15",
+     "text": "This stanza begins with the Hebrew letter samekh (ס)."
+    },
+    {
+     "m": "s",
+     "ref": "4:16",
+     "text": "This stanza begins with the Hebrew letter peh (פ)."
+    },
+    {
+     "m": "t",
+     "ref": "4:16",
+     "text": "Here again peh precedes ayin; the Septuagint’s headings read Ain, then Phe, though its verses follow the Hebrew order (Brenton)."
+    },
+    {
+     "m": "u",
+     "ref": "4:17",
+     "text": "This stanza begins with the Hebrew letter ayin (ע)."
+    },
+    {
+     "m": "v",
+     "ref": "4:17",
+     "text": "Probably Egypt (compare Jeremiah 37:5–10)."
+    },
+    {
+     "m": "w",
+     "ref": "4:18",
+     "text": "This stanza begins with the Hebrew letter tsade (צ)."
+    },
+    {
+     "m": "x",
+     "ref": "4:19",
+     "text": "This stanza begins with the Hebrew letter qoph (ק)."
+    },
+    {
+     "m": "y",
+     "ref": "4:20",
+     "text": "This stanza begins with the Hebrew letter resh (ר)."
+    },
+    {
+     "m": "z",
+     "ref": "4:20",
+     "text": "That is, King Zedekiah (compare Jeremiah 39:4–7; 52:7–11). The Septuagint reads “our anointed Lord” (Brenton)."
+    },
+    {
+     "m": "aa",
+     "ref": "4:21",
+     "text": "This stanza begins with the Hebrew letter shin (ש)."
+    },
+    {
+     "m": "ab",
+     "ref": "4:21",
+     "text": "Uz, a region associated with Edom (compare Job 1:1; Jeremiah 25:20). The Septuagint lacks “of Uz” (Brenton)."
+    },
+    {
+     "m": "ac",
+     "ref": "4:22",
+     "text": "This stanza begins with the Hebrew letter tav (ת)."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Remember, O Yahweh, what has befallen us;{a}\nlook, and see our disgrace!"
+    },
+    {
+     "v": 2,
+     "text": "Our inheritance has been turned over to strangers,\nour houses to foreigners."
+    },
+    {
+     "v": 3,
+     "text": "Orphans we are, without a father;\nour mothers are as women bereaved."
+    },
+    {
+     "v": 4,
+     "text": "Our own water we drink for silver;\nour wood comes to us for a price."
+    },
+    {
+     "v": 5,
+     "text": "With a yoke on our necks{b} we are driven hard;\nwe are weary; no rest is given us."
+    },
+    {
+     "v": 6,
+     "text": "To Egypt we have held out the hand,\nand to Assyria, to get enough bread."
+    },
+    {
+     "v": 7,
+     "text": "It was our fathers who sinned—they are gone—\nyet the load of their guilt is ours to carry."
+    },
+    {
+     "v": 8,
+     "text": "Slaves rule over us;\nthere is none to tear us from their hand."
+    },
+    {
+     "v": 9,
+     "text": "At the peril of our lives we get our bread,\nbecause of the sword in the wilderness."
+    },
+    {
+     "v": 10,
+     "text": "Our skin is hot as an oven\nfrom the burning heat of famine."
+    },
+    {
+     "v": 11,
+     "text": "Women in Zion are ravished,\nyoung women in the towns of Judah."
+    },
+    {
+     "v": 12,
+     "text": "By their hands officials are strung up;\nelders’ faces get no regard."
+    },
+    {
+     "v": 13,
+     "text": "Young men carry the millstone,{c}\nand boys stagger under loads of wood."
+    },
+    {
+     "v": 14,
+     "text": "Gone from the gate are the old men,\ngone from their songs the youths."
+    },
+    {
+     "v": 15,
+     "text": "Our hearts’ gladness is at an end;\nour dancing is changed to grief."
+    },
+    {
+     "v": 16,
+     "text": "The crown has fallen from our head;\nwoe to us, for we have sinned!"
+    },
+    {
+     "v": 17,
+     "text": "Because of this our hearts are faint;\nbecause of all this our eyes are clouded,"
+    },
+    {
+     "v": 18,
+     "text": "for Mount Zion, which lies desolate;\nfoxes{d} prowl over it."
+    },
+    {
+     "v": 19,
+     "text": "Yet you, Yahweh, sit enthroned for all time;\nyour seat of rule stands age after age."
+    },
+    {
+     "v": 20,
+     "text": "Why will you forget us forever,\nforsake us for so many days?"
+    },
+    {
+     "v": 21,
+     "text": "Turn us back to yourself, O Yahweh, and we shall turn;\nrenew our days as of old—"
+    },
+    {
+     "v": 22,
+     "text": "—or have you cast us off completely,\nraging against us beyond measure?{e}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Chapter 5 is not an acrostic, but it has twenty-two verses, matching the letters of the alphabet, and its lines are mostly balanced couplets rather than the lament meter of chapters 1–4. Some Latin manuscripts are reported to title it “A Prayer of Jeremiah the Prophet.”"
+    },
+    {
+     "m": "b",
+     "ref": "5:5",
+     "text": "So a slight emendation; the Hebrew reads “Upon our necks we are pursued.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:13",
+     "text": "The Septuagint reads “The chosen men lifted up the voice in weeping” (Brenton)."
+    },
+    {
+     "m": "d",
+     "ref": "5:18",
+     "text": "Or “jackals.”"
+    },
+    {
+     "m": "e",
+     "ref": "5:22",
+     "text": "The Hebrew of verse 22 (ki ʾim) is difficult; it may also be read “unless you have utterly rejected us.” In synagogue reading, verse 21 is repeated after verse 22 so that the book does not end on a note of rejection. The Septuagint reads “For you have indeed rejected us” (Brenton, modernized)."
+    }
+   ]
+  }
+ ]
+}
