@@ -171,6 +171,9 @@ h3 { font-size: 1.12rem; margin: 1.75rem 0 .5rem; }
 .scripture p { margin: 0 0 .9em; text-indent: 1.2em; }
 .scripture p:first-child { text-indent: 0; }
 .scripture p.poem { text-indent: 0; }
+.scripture .ch-heading { text-align: center; font-size: 1em; letter-spacing: .12em; text-transform: uppercase; margin: .4em 0 1em; opacity: .8; }
+.scripture .ch-sub { font-size: .95em; font-weight: 600; letter-spacing: .04em; margin: 1.2em 0 .3em; }
+.scripture .ch-title { font-style: italic; text-indent: 0; font-size: .92em; margin: 0 0 .8em; opacity: .85; }
 .scripture .poem .pl { display: block; padding-left: 2.2em; text-indent: -1.2em; }
 .scripture .poem .pl + .pl { padding-left: 3.2em; }
 .scripture .poem .vnum.first { float: none; font-size: 1.4em; line-height: 0; vertical-align: baseline; margin-right: .2em; }

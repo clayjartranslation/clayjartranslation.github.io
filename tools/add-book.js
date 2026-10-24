@@ -31,7 +31,7 @@ for (const c of book.chapters || []) {
   if (!Number.isInteger(c.n)) errors.push('Chapter without a number.');
   (c.verses || []).forEach((v, i) => { if (v.v !== i + 1) errors.push(`${book.name} ${c.n}: verse ${i + 1} is numbered ${v.v}.`); });
   if (!Array.isArray(c.paras) || c.paras[0] !== 1) errors.push(`${book.name} ${c.n}: "paras" must start with 1 (verse numbers where paragraphs begin).`);
-  const used = (c.verses || []).flatMap((v) => [...v.text.matchAll(/\{([a-z]+)\}/g)].map((x) => x[1]));
+  const used = [c.title || ''].concat((c.verses || []).map((v) => v.text)).flatMap((t) => [...t.matchAll(/\{([a-z]+)\}/g)].map((x) => x[1]));
   const defined = (c.notes || []).map((x) => x.m);
   used.filter((m) => !defined.includes(m)).forEach((m) => errors.push(`${book.name} ${c.n}: marker {${m}} has no note.`));
   defined.filter((m) => !used.includes(m)).forEach((m) => errors.push(`${book.name} ${c.n}: note ${m} has no marker.`));

@@ -208,6 +208,9 @@
     const prev = book.chapters[idx - 1], next = book.chapters[idx + 1];
     const notesBy = {}; ch.notes.forEach((x) => (notesBy[x.m] = x));
     const starts = ch.paras.concat([ch.verses.length + 1]);
+    const fnHtml = (t) => esc(t).replace(/\{([a-z]+)\}/g, (_, m) => notesBy[m] ? `<button type="button" class="fn" data-m="${m}" aria-label="Footnote ${m}" aria-haspopup="dialog">${m}</button>` : '');
+    // Optional chapter heading (e.g., the five books of Psalms) and title (a psalm's superscription).
+    const pre = (ch.heading ? `<h2 class="ch-heading">${esc(ch.heading)}</h2>` : '') + (ch.title ? `<p class="ch-title">${fnHtml(ch.title)}</p>` : '');
     const paras = ch.paras.map((s, pi) => {
       const vs = ch.verses.slice(s - 1, starts[pi + 1] - 1).map((v) => {
         const body = esc(v.text).replace(/\{([a-z]+)\}/g, (_, m) => {
@@ -224,7 +227,8 @@
         return `<span class="verse" id="v${v.v}">${sup}${body}</span>`;
       }).join(' ');
       const poem = ch.verses.slice(s - 1, starts[pi + 1] - 1).some((v) => v.text.includes('\n'));
-      return `<p${poem ? ' class="poem"' : ''}>${vs}</p>`;
+      const sub = ch.subheads && ch.subheads[s] ? `<h3 class="ch-sub">${esc(ch.subheads[s])}</h3>` : '';
+      return `${sub}<p${poem ? ' class="poem"' : ''}>${vs}</p>`;
     }).join('');
     const notes = ch.notes.map((x) => `<li id="note-${x.m}"><span class="m">${x.m}</span><a class="r" href="#/read/${id}/${ch.n}/${x.ref.split(':')[1] || ''}">${esc(x.ref)}</a><span>${esc(x.text)}</span></li>`).join('');
     const bookMeta = cat.books.find((b) => b.id === id);
@@ -235,7 +239,7 @@
           <p class="eyebrow">${esc(book.division)}</p>
           <h1 id="chTitle">${esc(book.name)} <span class="chapter-num">Chapter ${ch.n}</span></h1>
         </header>
-        <div class="scripture">${paras}</div>
+        <div class="scripture">${pre}${paras}</div>
         <section class="notes" aria-labelledby="notesTitle">
           <h2 id="notesTitle">Footnotes to ${esc(book.name)} ${ch.n}</h2>
           <ol>${notes}</ol>
