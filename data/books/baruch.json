@@ -1,0 +1,812 @@
+{
+ "id": "baruch",
+ "name": "Baruch",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of Baruch as printed in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 3 (1899; public domain), which follows Codex Vaticanus (B) with the readings of Alexandrinus (A) and others. The book is ascribed to Baruch son of Neriah, Jeremiah's scribe (Jer 32:12; 36; 43:3; 45). It is generally held to be composite and later than its setting: a prose introduction (1:1–14), a confession of sin and prayer (1:15–3:8) closely parallel to Dan 9:4–19, a wisdom poem identifying Wisdom with the Law (3:9–4:4), and poems of consolation for Jerusalem (4:5–5:9), the last close to the Psalms of Solomon 11. The first half at least was probably composed in Hebrew; no Hebrew text survives, and dates proposed range from the 3rd to the 1st century BC. No manuscript of Baruch has been found at Qumran. Baruch is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha. In the Latin Vulgate and the King James Version the Letter of Jeremiah is attached as Baruch chapter 6; here it is given as a separate book, as in the Greek manuscripts and NRSV. Greek *kyrios* is rendered “Lord” and *theos* “God.” Dates are given as BC/AD. Readings not checked directly against the manuscripts are cited “as reported.” Brenton's English (1844) was consulted only as a check and not copied. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    10,
+    15
+   ],
+   "subheads": {
+    "15": "Confession of Sin"
+   },
+   "verses": [
+    {
+     "v": 1,
+     "text": "And these are the words of the book written in Babylon by Baruch,{a} the son of Neraiah, Neraiah son of Mahseiah, Mahseiah son of Zedekiah, Zedekiah son of Hasadiah, Hasadiah son of Hilkiah,"
+    },
+    {
+     "v": 2,
+     "text": "in the fifth year, on the seventh of the month,{b} at the time when the Chaldeans took Jerusalem and burned it with fire."
+    },
+    {
+     "v": 3,
+     "text": "And Baruch read out the words of this book in the ears of Jeconiah son of Jehoiakim, king of Judah,{c} and in the ears of all the people who came to the book,"
+    },
+    {
+     "v": 4,
+     "text": "and in the ears of the men of power and of the king's sons, and in the ears of the elders, and in the ears of all the people from the least to the greatest, of all who lived in Babylon by the river Sud.{d}"
+    },
+    {
+     "v": 5,
+     "text": "And they wept and fasted and prayed before the Lord;"
+    },
+    {
+     "v": 6,
+     "text": "and they collected silver, each according to what his hand could give,"
+    },
+    {
+     "v": 7,
+     "text": "and this they dispatched to Jerusalem, to Jehoiakim the priest,{e} whose father was Hilkiah and whose grandfather was Shallum, and to the priests and every one of the people present with him at Jerusalem,"
+    },
+    {
+     "v": 8,
+     "text": "at the time when he received the vessels of the Lord's house, carried off out of the temple, to bring them back to Judah's land, on the tenth of Sivan{f} — vessels of silver made by Zedekiah son of Josiah, Judah's king,"
+    },
+    {
+     "v": 9,
+     "text": "after Nebuchadnezzar king of Babylon had carried off Jeconiah and the rulers and the captives and the men of power and the people of the land from Jerusalem, and brought them to Babylon."
+    },
+    {
+     "v": 10,
+     "text": "And they said: See, we send you silver; with it purchase whole burnt offerings, sin offerings, and incense; make ready a grain offering, and present them on the altar of the Lord our God;"
+    },
+    {
+     "v": 11,
+     "text": "and pray for the life of Nebuchadnezzar king of Babylon and for the life of Belshazzar his son,{g} that their days may be like the days of heaven above the earth."
+    },
+    {
+     "v": 12,
+     "text": "And the Lord will give us strength and will give light to our eyes, and we shall live under the shadow of Nebuchadnezzar king of Babylon and under the shadow of Belshazzar his son, and we shall serve them many days and find favor before them."
+    },
+    {
+     "v": 13,
+     "text": "And make prayer for us to the Lord our God, because against the Lord our God we have sinned, and to this day the Lord's fury and his anger have not turned from us."
+    },
+    {
+     "v": 14,
+     "text": "And you shall read out this book that we have sent to you, to make confession in the house of the Lord on the day of the feast and on the days of the appointed season."
+    },
+    {
+     "v": 15,
+     "text": "And you shall say: To the Lord our God belongs righteousness,{h} but to us shame of face, as it is this day, to every man of Judah and to those who dwell in Jerusalem,"
+    },
+    {
+     "v": 16,
+     "text": "our kings as well, and our rulers, our priests, our prophets, and our fathers,"
+    },
+    {
+     "v": 17,
+     "text": "because we have sinned before the Lord"
+    },
+    {
+     "v": 18,
+     "text": "and disobeyed him, and we did not heed the voice of the Lord our God, to walk in the ordinances of the Lord that he set before our face."
+    },
+    {
+     "v": 19,
+     "text": "From the day when the Lord brought our fathers out of the land of Egypt until this day we have been disobedient to the Lord our God, and we were careless in not heeding his voice."
+    },
+    {
+     "v": 20,
+     "text": "And the evils have fastened on us, and the curse that the Lord ordained by Moses his servant on the day he led our fathers out of Egypt's land, to give us a land flowing with milk and honey, as it is this day.{i}"
+    },
+    {
+     "v": 21,
+     "text": "And we did not heed the voice of the Lord our God, in all the words of the prophets whom he sent to us;"
+    },
+    {
+     "v": 22,
+     "text": "but we went off each one in the intent of his own evil heart, to serve other gods and to do what is evil in the eyes of the Lord our God."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Jeremiah's secretary (Jer 32:12; 36:4–32; 45:1). The Greek spells the names Nērias, Maasaias, Sedekias, Asadias and Chelkias."
+    },
+    {
+     "m": "b",
+     "ref": "1:2",
+     "text": "The month is not named. If counted from the fall of Jerusalem (587/586 BC), the fifth year is about 582 BC."
+    },
+    {
+     "m": "c",
+     "ref": "1:3",
+     "text": "Jeconiah (Jehoiachin) was taken to Babylon in 597 BC (2 Kgs 24:8–17; 25:27–30)."
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "The river Sud is otherwise unknown."
+    },
+    {
+     "m": "e",
+     "ref": "1:7",
+     "text": "Not the high priest of 2 Kgs 25:18 (Seraiah); this Jehoiakim is otherwise unknown."
+    },
+    {
+     "m": "f",
+     "ref": "1:8",
+     "text": "Sivan is the third month, May–June. Most take “he” as Baruch."
+    },
+    {
+     "m": "g",
+     "ref": "1:11",
+     "text": "Compare Jer 29:7. Belshazzar was in fact the son of Nabonidus (compare Dan 5:2)."
+    },
+    {
+     "m": "h",
+     "ref": "1:15",
+     "text": "Verses 1:15–2:19 closely follow the prayer of Dan 9:4–19."
+    },
+    {
+     "m": "i",
+     "ref": "1:20",
+     "text": "Deut 28:15–68."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    11
+   ],
+   "subheads": {
+    "11": "Prayer for Deliverance"
+   },
+   "verses": [
+    {
+     "v": 1,
+     "text": "So the Lord made good his word that he had spoken against us and against our judges who judged Israel, and against our kings and against our rulers and against every man of Israel and Judah,"
+    },
+    {
+     "v": 2,
+     "text": "to bring upon us great evils, such as had not been done under the whole of heaven as he did in Jerusalem, according to what is written in the law of Moses,"
+    },
+    {
+     "v": 3,
+     "text": "that a man among us would eat his son's flesh, and another his daughter's flesh.{a}"
+    },
+    {
+     "v": 4,
+     "text": "And he gave them into subjection to all the kingdoms around us, for a reproach and a desolation among all the peoples round about, where the Lord scattered them."
+    },
+    {
+     "v": 5,
+     "text": "And they were laid low and not lifted up, because against the Lord our God we sinned, not heeding his voice."
+    },
+    {
+     "v": 6,
+     "text": "To the Lord our God belongs righteousness, but to us and to our fathers shame of face, as it is this day."
+    },
+    {
+     "v": 7,
+     "text": "All that the Lord spoke against us, all these evils have come upon us."
+    },
+    {
+     "v": 8,
+     "text": "Yet we have not entreated the face of the Lord, that each might turn back from the intents of his evil heart."
+    },
+    {
+     "v": 9,
+     "text": "And the Lord kept watch over the evils, and the Lord brought them upon us; for the Lord is righteous in all his works that he commanded us."
+    },
+    {
+     "v": 10,
+     "text": "And we did not heed his voice, to walk in the ordinances of the Lord that he set before our face."
+    },
+    {
+     "v": 11,
+     "text": "And now, Lord God of Israel, who brought your people out of the land of Egypt with a strong hand and with signs and with wonders and with great power and with a lifted-up arm, and made yourself a name, as it is this day:"
+    },
+    {
+     "v": 12,
+     "text": "we have sinned, we have done impiety, we have done wrong, Lord our God, against all your just decrees."
+    },
+    {
+     "v": 13,
+     "text": "Let your fury turn away from us, for we are left few among the nations where you scattered us."
+    },
+    {
+     "v": 14,
+     "text": "Hear, Lord, our prayer and our petition, and deliver us for your own sake, and grant us favor in the eyes of those who led us away captive,"
+    },
+    {
+     "v": 15,
+     "text": "so that the whole earth may know that you are the Lord our God, for Israel and his race are called by your name."
+    },
+    {
+     "v": 16,
+     "text": "Lord, look down from your holy house and take thought for us; bend your ear, Lord, and hear;"
+    },
+    {
+     "v": 17,
+     "text": "open your eyes, Lord, and see; for it is not the dead in Hades, whose breath has been taken from their insides, who will give glory and justice to the Lord;{b}"
+    },
+    {
+     "v": 18,
+     "text": "but the soul that is grieved beyond measure, that goes about bowed and feeble, and the eyes that fail, and the soul that hungers, will give you glory and justice, Lord."
+    },
+    {
+     "v": 19,
+     "text": "For it is not on the just deeds of our fathers and our kings that we lay down our plea for mercy before your face, Lord our God.{c}"
+    },
+    {
+     "v": 20,
+     "text": "For you have sent your fury and your wrath upon us, as you spoke by the hand of your servants the prophets, saying:"
+    },
+    {
+     "v": 21,
+     "text": "Thus says the Lord: Bend your shoulders and serve the king of Babylon, and you shall stay in the land that I gave to your fathers.{d}"
+    },
+    {
+     "v": 22,
+     "text": "But if you do not heed the voice of the Lord to serve the king of Babylon,"
+    },
+    {
+     "v": 23,
+     "text": "I will silence in the cities of Judah and in the outskirts of Jerusalem the sound of mirth and the sound of gladness, the bridegroom's sound and the bride's sound, and all the land will be a waste with no one dwelling in it.{e}"
+    },
+    {
+     "v": 24,
+     "text": "But we did not heed your voice, to serve the king of Babylon; and you made good your words that you spoke by the hand of your servants the prophets, that the bones of our kings and the bones of our fathers would be brought out of their place.{f}"
+    },
+    {
+     "v": 25,
+     "text": "And see, they lie cast out to the day's heat and the night's frost; and in cruel pains they died, by famine and by sword and by pestilence.{g}"
+    },
+    {
+     "v": 26,
+     "text": "And the house that is called by your name you have made as it is this day, because of the wickedness of the house of Israel and of the house of Judah."
+    },
+    {
+     "v": 27,
+     "text": "Yet you have dealt with us, Lord our God, according to all your gentleness and according to all your great compassion,"
+    },
+    {
+     "v": 28,
+     "text": "as you spoke by the hand of your servant Moses on the day when you commanded him to write your law before the sons of Israel, saying:"
+    },
+    {
+     "v": 29,
+     "text": "If you will not heed my voice, this great and teeming throng will surely be turned into a little band among the nations where I will scatter them.{h}"
+    },
+    {
+     "v": 30,
+     "text": "For I know that they will not heed me, because it is a stiff-necked people. But in the land of their exile they will turn back to their heart,{i}"
+    },
+    {
+     "v": 31,
+     "text": "and they will know that I am the Lord their God. And I will give them a heart and ears that hear,"
+    },
+    {
+     "v": 32,
+     "text": "and in the land of their exile they shall praise me, and my name they shall remember,"
+    },
+    {
+     "v": 33,
+     "text": "and they will turn back from their stiff back and from their wicked deeds, for they will remember the way of their fathers, who sinned before the Lord."
+    },
+    {
+     "v": 34,
+     "text": "And I will bring them back to the land that I swore to their fathers, to Abraham and to Isaac and to Jacob, and they will be lords over it; and I will multiply them, and they will not be made few."
+    },
+    {
+     "v": 35,
+     "text": "And I will set up for them a covenant of the age, that I may be their God and they may be my people; and I will no longer remove my people Israel from the land that I have given them.{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:3",
+     "text": "Lev 26:29; Deut 28:53; Lam 4:10."
+    },
+    {
+     "m": "b",
+     "ref": "2:17",
+     "text": "Ps 6:5; 115:17; Isa 38:18."
+    },
+    {
+     "m": "c",
+     "ref": "2:19",
+     "text": "Dan 9:18."
+    },
+    {
+     "m": "d",
+     "ref": "2:21",
+     "text": "Jer 27:11–12."
+    },
+    {
+     "m": "e",
+     "ref": "2:23",
+     "text": "Jer 7:34; 16:9; 25:10."
+    },
+    {
+     "m": "f",
+     "ref": "2:24",
+     "text": "Jer 8:1–2."
+    },
+    {
+     "m": "g",
+     "ref": "2:25",
+     "text": "Greek apostolē, “a sending,” probably for Hebrew deber, “pestilence” (compare Jer 32:36)."
+    },
+    {
+     "m": "h",
+     "ref": "2:29",
+     "text": "Deut 28:62–64."
+    },
+    {
+     "m": "i",
+     "ref": "2:30",
+     "text": "Deut 30:1–10."
+    },
+    {
+     "m": "j",
+     "ref": "2:35",
+     "text": "Jer 31:31–33; 32:40."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    9
+   ],
+   "subheads": {
+    "9": "In Praise of Wisdom"
+   },
+   "verses": [
+    {
+     "v": 1,
+     "text": "Lord Almighty, God of Israel, a soul in anguish and a wearied spirit cries out to you."
+    },
+    {
+     "v": 2,
+     "text": "Hear, Lord, and have mercy, for we have sinned before you."
+    },
+    {
+     "v": 3,
+     "text": "For you sit enthroned to the age, and we are perishing to the age."
+    },
+    {
+     "v": 4,
+     "text": "Lord Almighty, God of Israel, hear now the prayer of Israel's dead{a} and of the sons of those who sinned before you, who would not listen to the Lord their God's voice; and so the evils have fastened on us."
+    },
+    {
+     "v": 5,
+     "text": "Do not remember the wrongdoings of our fathers, but remember your hand and your name at this time."
+    },
+    {
+     "v": 6,
+     "text": "For you are the Lord our God, and we will praise you, Lord."
+    },
+    {
+     "v": 7,
+     "text": "For this reason you have set the fear of you in our hearts, that we might call upon your name; and in our exile we shall praise you, since we have put away from our heart all the wrongdoing of our fathers who sinned before you."
+    },
+    {
+     "v": 8,
+     "text": "See, we are today in our exile, where you have scattered us, for a reproach and a curse and a penalty, for all the wrongdoings of our fathers, who departed from the Lord our God."
+    },
+    {
+     "v": 9,
+     "text": "Hear, Israel, the commandments of life;{b}\ngive ear to know understanding."
+    },
+    {
+     "v": 10,
+     "text": "Why, Israel, why is it that you are in your enemies' land,\ngrown old in a country not your own,"
+    },
+    {
+     "v": 11,
+     "text": "that you have been defiled together with the dead,\nthat you are counted among those in Hades?"
+    },
+    {
+     "v": 12,
+     "text": "You have forsaken the spring of wisdom."
+    },
+    {
+     "v": 13,
+     "text": "If you had walked in the way of God,\nyou would be dwelling in peace to the age."
+    },
+    {
+     "v": 14,
+     "text": "Learn where there is understanding,\nwhere there is strength, where there is insight,\nso as to know at the same time\nwhere there is length of days and life,\nwhere there is light for the eyes, and peace."
+    },
+    {
+     "v": 15,
+     "text": "Who has discovered where she dwells?\nWho has gone in to her treasure-houses?"
+    },
+    {
+     "v": 16,
+     "text": "Where now are the nations' rulers,\nand those who were lords over the earth's beasts,"
+    },
+    {
+     "v": 17,
+     "text": "those who made sport with the birds of heaven,\nand those who heaped up silver and gold,\nin which human beings trust,\nand of whose getting there is no end?"
+    },
+    {
+     "v": 18,
+     "text": "For those who worked silver with such anxious care —\nthere is no finding out their works.{c}"
+    },
+    {
+     "v": 19,
+     "text": "They have vanished and gone down to Hades,\nand others have risen up in their place."
+    },
+    {
+     "v": 20,
+     "text": "Younger ones have seen the light\nand have dwelt upon the earth;\nbut the way of knowledge they have not known,"
+    },
+    {
+     "v": 21,
+     "text": "nor grasped her paths,\nnor taken hold of her;\ntheir sons have wandered far from her road."
+    },
+    {
+     "v": 22,
+     "text": "She has not been heard of in Canaan,\nnor seen in Teman;{d}"
+    },
+    {
+     "v": 23,
+     "text": "nor the sons of Hagar, who seek understanding on the earth,\nthe traders of Merran{e} and Teman,\nthe tellers of tales and the seekers of understanding —\nthe way of wisdom they have not known,\nnor have they remembered her paths."
+    },
+    {
+     "v": 24,
+     "text": "O Israel, how great is the house of God,\nand how vast the place of his possession!{f}"
+    },
+    {
+     "v": 25,
+     "text": "It is great and has no end;\nit is lofty and without measure."
+    },
+    {
+     "v": 26,
+     "text": "There the giants were born, the renowned of old,{g}\ngreat in stature, skilled in war."
+    },
+    {
+     "v": 27,
+     "text": "Not these did God choose,\nnor to these did he grant the way of knowledge;"
+    },
+    {
+     "v": 28,
+     "text": "and they perished because they had no insight;\nthey perished through their folly."
+    },
+    {
+     "v": 29,
+     "text": "Who has climbed into heaven and seized her\nand fetched her down from the clouds?{h}"
+    },
+    {
+     "v": 30,
+     "text": "Who has crossed over the sea and found her,\nand will bring her back for choice gold?"
+    },
+    {
+     "v": 31,
+     "text": "There is no one who knows her way,\nnor anyone who ponders her path."
+    },
+    {
+     "v": 32,
+     "text": "But the One who knows all things knows her;\nhe found her out by his understanding.\nThe One who prepared the earth for time of the age\nfilled it with four-footed creatures;"
+    },
+    {
+     "v": 33,
+     "text": "the One who sends out the light, and it goes;\nhe called it, and it obeyed him with trembling."
+    },
+    {
+     "v": 34,
+     "text": "And the stars shone in their watches and were glad;\nhe called them, and they said, “Here we are!”\nThey shone with gladness for the One who made them."
+    },
+    {
+     "v": 35,
+     "text": "This is our God;\nno other shall be reckoned beside him."
+    },
+    {
+     "v": 36,
+     "text": "He found out the whole way of knowledge\nand gave her to Jacob his servant\nand to Israel, the one he loved."
+    },
+    {
+     "v": 37,
+     "text": "After this she appeared on earth\nand lived her life among human beings.{i}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:4",
+     "text": "Greek “dead.” Probably the Hebrew methe, “men of,” was read as methe, “dead of”; NRSV renders “people.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:9",
+     "text": "The poem of 3:9–4:4 draws on Job 28 and Deut 30:11–20, and, like Sir 24:23, identifies Wisdom with the Law (4:1)."
+    },
+    {
+     "m": "c",
+     "ref": "3:18",
+     "text": "The Greek of this verse is obscure."
+    },
+    {
+     "m": "d",
+     "ref": "3:22",
+     "text": "Teman in Edom was famed for wisdom (Jer 49:7; Obad 8–9)."
+    },
+    {
+     "m": "e",
+     "ref": "3:23",
+     "text": "Merran is unknown; perhaps Midian (compare Gen 37:28)."
+    },
+    {
+     "m": "f",
+     "ref": "3:24",
+     "text": "The whole creation is meant."
+    },
+    {
+     "m": "g",
+     "ref": "3:26",
+     "text": "Gen 6:4."
+    },
+    {
+     "m": "h",
+     "ref": "3:29",
+     "text": "Deut 30:12–13; compare Rom 10:6–7."
+    },
+    {
+     "m": "i",
+     "ref": "3:37",
+     "text": "Compare Prov 8:31; Sir 24:8–12. Many Christian writers from the 2nd century AD on read this verse of the incarnation; some scholars think it a later addition."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5,
+    30
+   ],
+   "subheads": {
+    "5": "Encouragement for Israel",
+    "30": "Jerusalem Comforted"
+   },
+   "verses": [
+    {
+     "v": 1,
+     "text": "She is the book of the commandments of God\nand the law that endures to the age.\nAll who hold her fast are bound for life,\nbut those who forsake her will die."
+    },
+    {
+     "v": 2,
+     "text": "Turn back, Jacob, and take hold of her;\nwalk toward her shining, in the face of her light."
+    },
+    {
+     "v": 3,
+     "text": "Do not give your glory to another,\nor the things that profit you to a foreign nation."
+    },
+    {
+     "v": 4,
+     "text": "Blessed are we, Israel,\nfor what is pleasing to God is known to us."
+    },
+    {
+     "v": 5,
+     "text": "Take courage, my people,\nyou who keep Israel's name in memory."
+    },
+    {
+     "v": 6,
+     "text": "You were sold to the nations,\nnot for destruction;\nbut because you provoked God to anger\nyou were handed over to your adversaries."
+    },
+    {
+     "v": 7,
+     "text": "For you provoked the One who made you\nby sacrificing to demons and not to God.{a}"
+    },
+    {
+     "v": 8,
+     "text": "You forgot the everlasting God, who nursed you,\nand you grieved Jerusalem, who reared you."
+    },
+    {
+     "v": 9,
+     "text": "For she saw the wrath from God coming upon you,\nand said:\nHear, you who dwell near Zion;\nGod has laid great mourning upon me,"
+    },
+    {
+     "v": 10,
+     "text": "for I have seen the captivity of my sons and daughters,\nwhich the Everlasting brought upon them.{b}"
+    },
+    {
+     "v": 11,
+     "text": "For with gladness I nursed them,\nbut with weeping and mourning I sent them away."
+    },
+    {
+     "v": 12,
+     "text": "Let no one rejoice over me, a widow\nforsaken by many;\nI have been made desolate for the sins of my children,\nbecause they turned aside from the law of God"
+    },
+    {
+     "v": 13,
+     "text": "and did not know his ordinances;\nnor did they walk in the ways of God's commandments,\nnor tread the paths of discipline in his righteousness."
+    },
+    {
+     "v": 14,
+     "text": "Let the neighbors of Zion come\nand remember the captivity of my sons and daughters,\nwhich the Everlasting brought upon them."
+    },
+    {
+     "v": 15,
+     "text": "For he brought against them a nation from afar,\na shameless nation of a strange tongue,\nwho had no reverence for the old\nand no pity for the child.{c}"
+    },
+    {
+     "v": 16,
+     "text": "And they led away the widow's dear sons\nand left her who was alone bereft of her daughters."
+    },
+    {
+     "v": 17,
+     "text": "But I — how can I help you?"
+    },
+    {
+     "v": 18,
+     "text": "For the One who brought these evils upon you\nwill deliver you from the hand of your enemies."
+    },
+    {
+     "v": 19,
+     "text": "Go, children, go on your way,\nfor I am left desolate."
+    },
+    {
+     "v": 20,
+     "text": "I have taken off the robe of peace\nand put on the sackcloth of my petition;\nI will cry out to the Everlasting all my days."
+    },
+    {
+     "v": 21,
+     "text": "Take courage, children, cry out to God,\nand he will deliver you from tyranny,\nfrom the hand of enemies."
+    },
+    {
+     "v": 22,
+     "text": "For I have set my hope on the Everlasting for your salvation,\nand joy has come to me from the Holy One\nbecause of the mercy that will soon come to you\nfrom your everlasting Savior."
+    },
+    {
+     "v": 23,
+     "text": "For with mourning and weeping I sent you away,\nbut God will restore you to me\nwith joy and gladness to the age."
+    },
+    {
+     "v": 24,
+     "text": "For as the neighbors of Zion have now seen your captivity,\nso they will soon see your salvation from God,\nwhich will come upon you with great glory\nand with the splendor of the Everlasting."
+    },
+    {
+     "v": 25,
+     "text": "Children, bear with patience\nthe wrath that has come upon you from God.\nYour enemy has hunted you down,\nbut you will soon see his destruction\nand will set your foot upon their necks."
+    },
+    {
+     "v": 26,
+     "text": "My tender ones have walked rough roads;\nthey were taken off like a flock carried away by enemies."
+    },
+    {
+     "v": 27,
+     "text": "Take courage, children, and cry out to God,\nfor you will be remembered by the One who brought this upon you."
+    },
+    {
+     "v": 28,
+     "text": "For as your mind was set on straying from God,\nso turn back now with ten times the zeal to seek him."
+    },
+    {
+     "v": 29,
+     "text": "For the One who brought these evils upon you\nwill bring you everlasting joy along with your salvation."
+    },
+    {
+     "v": 30,
+     "text": "Take heart, Jerusalem:\nhe who named you will give you comfort."
+    },
+    {
+     "v": 31,
+     "text": "Wretched are those who did you harm\nand rejoiced at your fall."
+    },
+    {
+     "v": 32,
+     "text": "Wretched are the cities that your children served as slaves;\nwretched is she who received your sons.{d}"
+    },
+    {
+     "v": 33,
+     "text": "For as she rejoiced at your fall\nand was glad over your ruin,\nso she will be grieved at her own desolation."
+    },
+    {
+     "v": 34,
+     "text": "And I will take away her delight in her crowds,\nand her proud boasting will be turned into mourning."
+    },
+    {
+     "v": 35,
+     "text": "For fire will come upon her from the Everlasting for many days,\nand for a long time she will be a dwelling of demons.{e}"
+    },
+    {
+     "v": 36,
+     "text": "Turn your eyes eastward, Jerusalem,\nand behold the joy that comes to you from God."
+    },
+    {
+     "v": 37,
+     "text": "See, your sons are coming, whom you sent away;\nthey are coming, gathered from east to west\nat the word of the Holy One,\nrejoicing in the glory of God."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:7",
+     "text": "Deut 32:16–17."
+    },
+    {
+     "m": "b",
+     "ref": "4:10",
+     "text": "“The Everlasting” (ho aiōnios) is used as a title of God throughout 4:5–5:9."
+    },
+    {
+     "m": "c",
+     "ref": "4:15",
+     "text": "Deut 28:49–50."
+    },
+    {
+     "m": "d",
+     "ref": "4:32",
+     "text": "Babylon."
+    },
+    {
+     "m": "e",
+     "ref": "4:35",
+     "text": "Isa 13:19–22; Jer 50:39."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Take off, Jerusalem, the robe of your mourning and your affliction,\nand put on to the age the comeliness of the glory from God.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Wrap around yourself the double cloak of the righteousness that is from God;\nset on your head the diadem of the glory of the Everlasting."
+    },
+    {
+     "v": 3,
+     "text": "For God will show your brightness\nto every place under heaven."
+    },
+    {
+     "v": 4,
+     "text": "For your name will be called by God to the age:\n“Peace of Righteousness” and “Glory of Godliness.”"
+    },
+    {
+     "v": 5,
+     "text": "Arise, Jerusalem, and stand upon the height;\nlook toward the east,\nand see your children gathered from the setting of the sun to its rising\nat the word of the Holy One,\nrejoicing that God has remembered them."
+    },
+    {
+     "v": 6,
+     "text": "For they went out from you on foot,\nled away by their enemies;\nbut God brings them back to you,\ncarried aloft in glory as on a royal throne."
+    },
+    {
+     "v": 7,
+     "text": "For God has commanded that every lofty mountain\nand the hills of the age be brought low,\nand the ravines filled up to make the ground level,\nso that in God's glory Israel may go securely.{b}"
+    },
+    {
+     "v": 8,
+     "text": "The forests too, and every sweet-smelling tree,\nhave given Israel shade by God's command."
+    },
+    {
+     "v": 9,
+     "text": "For with joy God will lead Israel\nby the light of his glory,\nwith his own mercy and righteousness."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Verses 5:1–9 are close in wording to the Psalms of Solomon 11 (1st century BC); compare Isa 52:1; 60–62."
+    },
+    {
+     "m": "b",
+     "ref": "5:7",
+     "text": "Isa 40:4."
+    }
+   ]
+  }
+ ]
+}

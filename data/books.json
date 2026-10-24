@@ -1442,9 +1442,15 @@
    "id": "baruch",
    "name": "Baruch",
    "division": "Apocrypha",
-   "chapterCount": "5",
-   "translated": [],
-   "file": null
+   "chapterCount": 5,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "file": "data/books/baruch.json"
   },
   {
    "id": "letter-of-jeremiah",
