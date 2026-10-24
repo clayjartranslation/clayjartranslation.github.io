@@ -1,0 +1,2038 @@
+{
+ "id": "mark",
+ "name": "Mark",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), in the public-domain electronic edition of Maurice A. Robinson, with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Early papyri containing parts of Mark include P45 (3rd century), P88 (4th century) and P137 (late 2nd or 3rd century); where they are cited in the notes, their readings are reported from the standard editions and have not been verified against the manuscripts. Passages found in later manuscripts but absent from the earliest witnesses (7:16; 9:44, 46; 11:26; 15:28) keep their traditional verse numbers, and their text is given in the notes. The words “the Son of God” in 1:1 are bracketed because the early manuscripts are divided. The Gospel ends at 16:8 in the two oldest complete manuscripts (Sinaiticus and Vaticanus); the “longer ending” (16:9–20) is printed in double brackets, and the “shorter ending” and the Freer Logion are given in the notes. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation, a note says so. Old Testament quotations are translated afresh from the Greek of Mark, with the source given in a note. Aramaic words preserved by Mark (such as *Talitha koum*, *Ephphatha*, *Corban*, *Abba*, *Eloi*) are transliterated, with notes. Money, measures and times of day are given in modern terms in the text, with the original term in a note. The Gospel is anonymous; from the early second century (Papias) it has been attributed to John Mark, a companion of Peter. Most scholars date it about AD 65–75 and regard it as the earliest of the four Gospels.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    9,
+    12,
+    14,
+    16,
+    21,
+    29,
+    32,
+    35,
+    40
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The beginning of the good news{a} about Jesus Christ{b} [the Son of God].{c}"
+    },
+    {
+     "v": 2,
+     "text": "As it stands written in Isaiah the prophet,{d}\n“Look, I am sending my messenger ahead of you;\nhe will get your road ready."
+    },
+    {
+     "v": 3,
+     "text": "A voice of someone shouting in the wilderness:\n‘Make ready the way of the Lord;\nstraighten out the paths he will take.’ ”"
+    },
+    {
+     "v": 4,
+     "text": "And so John the Baptizer{e} came on the scene in the wilderness, calling people to be baptized as a sign of repentance,{f} for the forgiveness of their sins."
+    },
+    {
+     "v": 5,
+     "text": "The whole Judean countryside and all the people of Jerusalem kept streaming out to him, and as they confessed their sins they were baptized by him in the Jordan River."
+    },
+    {
+     "v": 6,
+     "text": "John wore a garment of camel’s hair, with a leather belt about his waist, and he lived on locusts and wild honey."
+    },
+    {
+     "v": 7,
+     "text": "This was his message: “After me comes one who is mightier than I am; I am not fit to stoop down and untie the strap of his sandals."
+    },
+    {
+     "v": 8,
+     "text": "I have baptized you with water, but he will baptize you with the Holy Spirit.”"
+    },
+    {
+     "v": 9,
+     "text": "It was in those days that Jesus came from Nazareth{g} in Galilee{h} and was baptized by John in the Jordan."
+    },
+    {
+     "v": 10,
+     "text": "The moment he came up out of the water, he saw the heavens being torn apart and the Spirit coming down upon him like a dove."
+    },
+    {
+     "v": 11,
+     "text": "And a voice sounded from the heavens: “You are my Son, the one I love; in you I take delight.”{i}"
+    },
+    {
+     "v": 12,
+     "text": "Straightaway the Spirit drove him out into the wilderness."
+    },
+    {
+     "v": 13,
+     "text": "He stayed in the wilderness forty days, being put to the test by Satan.{j} He was among the wild animals, and the angels waited on him."
+    },
+    {
+     "v": 14,
+     "text": "After John had been handed over,{k} Jesus went into Galilee announcing the good news of God."
+    },
+    {
+     "v": 15,
+     "text": "“The appointed time has arrived,” he said, “and God’s kingdom has drawn near. Turn your lives around, and put your trust in the good news.”"
+    },
+    {
+     "v": 16,
+     "text": "Walking along the shore of the Sea of Galilee, he caught sight of Simon{l} and Simon’s brother Andrew{m} casting a net into the lake—they were fishermen by trade."
+    },
+    {
+     "v": 17,
+     "text": "Jesus said to them, “Come, follow me, and I will make you into fishers of people.”"
+    },
+    {
+     "v": 18,
+     "text": "They dropped their nets on the spot and went after him."
+    },
+    {
+     "v": 19,
+     "text": "Going on a little farther, he saw James{n} the son of Zebedee{o} and his brother John; they too were in their boat, mending the nets."
+    },
+    {
+     "v": 20,
+     "text": "He called them at once, and they left their father Zebedee in the boat with the hired workers and went off after him."
+    },
+    {
+     "v": 21,
+     "text": "They made their way to Capernaum,{p} and as soon as the Sabbath came, Jesus went into the synagogue and began teaching."
+    },
+    {
+     "v": 22,
+     "text": "The people were astonished at his teaching, because he taught them as someone with authority of his own, and not in the manner of the scribes.{q}"
+    },
+    {
+     "v": 23,
+     "text": "Just then, in their synagogue, there was a man in the grip of an unclean spirit, and he shrieked,"
+    },
+    {
+     "v": 24,
+     "text": "“Jesus the Nazarene, what have you to do with us? Have you come to wipe us out? I know exactly who you are: God’s Holy One!”"
+    },
+    {
+     "v": 25,
+     "text": "Jesus rebuked it: “Be silent, and come out of him!”"
+    },
+    {
+     "v": 26,
+     "text": "The unclean spirit threw the man into convulsions, gave a loud cry, and came out of him."
+    },
+    {
+     "v": 27,
+     "text": "Everyone was so amazed that they began asking each other, “What is this? A new kind of teaching, with authority behind it! He gives orders even to the unclean spirits, and they obey him!”"
+    },
+    {
+     "v": 28,
+     "text": "And the report about him spread swiftly in every direction, through the whole region surrounding Galilee."
+    },
+    {
+     "v": 29,
+     "text": "Leaving the synagogue, they went straight to the house of Simon and Andrew, along with James and John."
+    },
+    {
+     "v": 30,
+     "text": "Simon’s mother-in-law was lying in bed sick with a fever, and they lost no time in telling Jesus about her."
+    },
+    {
+     "v": 31,
+     "text": "He went to her, took her by the hand, and raised her up. The fever left her, and she began to serve them."
+    },
+    {
+     "v": 32,
+     "text": "That evening, after sundown, people kept bringing to him all who were ill and those who were possessed by demons."
+    },
+    {
+     "v": 33,
+     "text": "The entire town gathered at the door."
+    },
+    {
+     "v": 34,
+     "text": "He healed many who suffered from all sorts of diseases and drove out many demons; and he would not permit the demons to speak, since they knew who he was.{r}"
+    },
+    {
+     "v": 35,
+     "text": "Very early, while it was still quite dark, Jesus got up, went out to a deserted place, and prayed there."
+    },
+    {
+     "v": 36,
+     "text": "Simon and his companions went searching for him,"
+    },
+    {
+     "v": 37,
+     "text": "and when they found him, they said, “Everybody is looking for you.”"
+    },
+    {
+     "v": 38,
+     "text": "He replied, “Let us move on to the neighboring market towns, so that I may proclaim the message there as well. That is what I came out to do.”"
+    },
+    {
+     "v": 39,
+     "text": "So he went throughout Galilee, preaching in their synagogues and casting out demons."
+    },
+    {
+     "v": 40,
+     "text": "A man with a skin disease{s} came to him and, falling on his knees, pleaded with him, “If you are willing, you are able to make me clean.”"
+    },
+    {
+     "v": 41,
+     "text": "Jesus, his heart going out to the man,{t} stretched out his hand and touched him, saying, “I want to. Be cleansed.”"
+    },
+    {
+     "v": 42,
+     "text": "The disease left him that instant, and he was cleansed."
+    },
+    {
+     "v": 43,
+     "text": "Jesus sent him off at once with a stern warning:{u}"
+    },
+    {
+     "v": 44,
+     "text": "“Make sure you say nothing to anyone. Instead, go and show yourself to the priest, and make the offering for your cleansing that Moses prescribed, as evidence for them.”{v}"
+    },
+    {
+     "v": 45,
+     "text": "But the man went out and started talking freely, spreading the story far and wide, so that Jesus could no longer enter a town openly. He stayed out in lonely places, and still people came to him from everywhere."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Good news: Greek *euangelion*, traditionally “gospel.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Christ: Greek *Christos*, “anointed one,” translating Hebrew *mashiach* (“Messiah”). *Jesus* is the Greek form of Hebrew *Yeshua* (*Yehoshua*, Joshua), “Yahweh saves.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "[The Son of God]: the words are bracketed because the manuscripts are divided. They stand in Vaticanus, Bezae and most later manuscripts, but are absent from the first hand of Sinaiticus, from Koridethi (Θ), and from several early writers (Origen). The Westcott–Hort text places them in the margin; Tischendorf omits them; the Nestle–Aland and SBL editions print or bracket them differently. Accidental omission by a scribe (the title is abbreviated in manuscripts) and later addition are both possible."
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Mal 3:1 combined with Exod 23:20, and then (verse 3) Isa 40:3 in the wording of the Greek Old Testament; Mark names Isaiah, the more prominent prophet. In Isa 40:3 Hebrew, “the Lord” is Yahweh. Many later manuscripts read “in the prophets.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:4",
+     "text": "John the Baptizer: literally “John the one who baptizes.” *John* is Greek for Hebrew *Yohanan*, “Yahweh has been gracious.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:4",
+     "text": "Repentance: Greek *metanoia*, a change of mind and direction of life; in verse 15 the verb is rendered “turn your lives around.” *As a sign of repentance*: literally “a baptism of repentance.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:9",
+     "text": "Nazareth: a village in lower Galilee, perhaps from Hebrew *netser*, “branch” or “shoot.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:9",
+     "text": "Galilee: from Hebrew *galil*, “circle” or “district.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:11",
+     "text": "Ps 2:7; Isa 42:1; compare Gen 22:2. *The one I love*: or “my beloved Son.”"
+    },
+    {
+     "m": "j",
+     "ref": "1:13",
+     "text": "Satan: Hebrew for “adversary,” “accuser.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:14",
+     "text": "Handed over: that is, arrested and imprisoned (6:17)."
+    },
+    {
+     "m": "l",
+     "ref": "1:16",
+     "text": "Simon: a Greek name close to Hebrew *Shimon*, “he has heard.” He is later named Peter (3:16)."
+    },
+    {
+     "m": "m",
+     "ref": "1:16",
+     "text": "Andrew: a Greek name meaning “manly.”"
+    },
+    {
+     "m": "n",
+     "ref": "1:19",
+     "text": "James: Greek *Iakōbos*, the Hebrew name *Yaakov* (Jacob), “he grasps the heel” (Gen 25:26)."
+    },
+    {
+     "m": "o",
+     "ref": "1:19",
+     "text": "Zebedee: from Hebrew *Zebadiah*, “Yahweh has given.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:21",
+     "text": "Capernaum: from Hebrew *Kefar Nahum*, “village of Nahum,” on the northwest shore of the lake."
+    },
+    {
+     "m": "q",
+     "ref": "1:22",
+     "text": "Scribes: experts in the Law of Moses and its interpretation."
+    },
+    {
+     "m": "r",
+     "ref": "1:34",
+     "text": "Who he was: Vaticanus and some other manuscripts add “to be the Christ”; the Westcott–Hort text brackets the words in its margin."
+    },
+    {
+     "m": "s",
+     "ref": "1:40",
+     "text": "Skin disease: Greek *lepros*, traditionally “leper,” covering a range of skin diseases that made a person ritually unclean (Lev 13–14). *Falling on his knees* is bracketed by Westcott–Hort as doubtful."
+    },
+    {
+     "m": "t",
+     "ref": "1:41",
+     "text": "His heart going out to the man: Greek *splanchnistheis*, the reading of Westcott–Hort and nearly all manuscripts. Codex Bezae (D) and a few Old Latin manuscripts read *orgistheis*, “becoming angry.” Some scholars and modern translations prefer “angry” as the harder reading that scribes would have softened; compare the strong verb in verse 43 and 3:5. This is noted for scholarly review."
+    },
+    {
+     "m": "u",
+     "ref": "1:43",
+     "text": "With a stern warning: Greek *embrimēsamenos*, a word expressing strong feeling, “snorting” or “speaking harshly.”"
+    },
+    {
+     "m": "v",
+     "ref": "1:44",
+     "text": "Lev 14:1–32. *As evidence for them*: or “as a testimony against them.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    13,
+    15,
+    18,
+    21,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Some days later, when Jesus came back to Capernaum, word went around that he was at home."
+    },
+    {
+     "v": 2,
+     "text": "So many people crowded in that there was no space left, not even outside the door, and he was speaking the message to them."
+    },
+    {
+     "v": 3,
+     "text": "A group came along with a man who could not move, borne along by four bearers."
+    },
+    {
+     "v": 4,
+     "text": "Since the crowd kept them from getting him near Jesus, they stripped away the roof above the spot where he was, and when they had dug through it, they let down the mat the paralyzed man was lying on.{a}"
+    },
+    {
+     "v": 5,
+     "text": "When Jesus saw how they trusted, he spoke to the man: “Son, your sins have been forgiven you.”"
+    },
+    {
+     "v": 6,
+     "text": "Now some of the scribes were sitting there, turning this over in their minds:"
+    },
+    {
+     "v": 7,
+     "text": "“Why does this fellow talk like that? It is blasphemy! Who can forgive sins except God alone?”"
+    },
+    {
+     "v": 8,
+     "text": "Jesus knew instantly in his spirit what they were thinking, and he said, “Why are you turning these things over in your minds?"
+    },
+    {
+     "v": 9,
+     "text": "Which is easier—to tell the paralyzed man, ‘Your sins are forgiven,’ or to tell him, ‘Get up, pick up your mat, and walk’?"
+    },
+    {
+     "v": 10,
+     "text": "But so that you may know that the Son of Man{b} has authority on earth to forgive sins”—he turned to the paralyzed man—"
+    },
+    {
+     "v": 11,
+     "text": "“To you I say: rise, take your mat, and go back to your own house.”"
+    },
+    {
+     "v": 12,
+     "text": "And the man rose, picked up the mat without delay, and went out in front of everyone. They were all astounded and praised God. “Never have we seen such a thing,” they said."
+    },
+    {
+     "v": 13,
+     "text": "Jesus went out again beside the lake. The whole crowd kept coming to him, and he taught them."
+    },
+    {
+     "v": 14,
+     "text": "As he walked along, he noticed Levi{c} the son of Alphaeus{d} sitting at the tax booth. “Follow me,” he told him. And Levi rose and followed him."
+    },
+    {
+     "v": 15,
+     "text": "Later Jesus was reclining at table in Levi’s house,{e} and many tax collectors{f} and sinners were eating with Jesus and his disciples, for there were many of them who followed him."
+    },
+    {
+     "v": 16,
+     "text": "When the scribes who belonged to the Pharisees{g} saw him eating with sinners and tax collectors, they asked his disciples, “He eats with tax collectors and sinners?”{h}"
+    },
+    {
+     "v": 17,
+     "text": "Jesus heard it and told them, “It is not people in good health who need a doctor, but those who are ill. I did not come to call the righteous; I came to call sinners.”"
+    },
+    {
+     "v": 18,
+     "text": "John’s disciples and the Pharisees were keeping a fast. Some people came and asked Jesus, “Why is it that John’s disciples and the disciples of the Pharisees fast, while yours do not?”"
+    },
+    {
+     "v": 19,
+     "text": "Jesus answered, “Can wedding guests{i} go without food while the bridegroom is still with them? As long as they have the bridegroom among them, fasting is out of the question."
+    },
+    {
+     "v": 20,
+     "text": "But days are coming when the bridegroom will be taken from them, and then, on that day, they will fast."
+    },
+    {
+     "v": 21,
+     "text": "“Nobody stitches a patch of unshrunk cloth onto an old cloak. If he does, the new patch pulls away from the old cloth, and the tear gets worse."
+    },
+    {
+     "v": 22,
+     "text": "Nor does anybody pour new wine into old wineskins. If he does, the wine will burst the skins, and both the wine and the skins are lost. New wine calls for fresh skins.”{j}"
+    },
+    {
+     "v": 23,
+     "text": "It happened that on a Sabbath he was going through fields of standing grain, and his disciples, while walking, started to pick the ears."
+    },
+    {
+     "v": 24,
+     "text": "The Pharisees said to him, “Look at that! Why are they doing what is forbidden on the Sabbath?”"
+    },
+    {
+     "v": 25,
+     "text": "He answered, “Have you never read what David{k} did when he was in need and he and his men were hungry—"
+    },
+    {
+     "v": 26,
+     "text": "how he went into the house of God, when Abiathar{l} was high priest, and ate the bread of the Presence,{m} which only the priests are permitted to eat, and also handed some to his companions?”"
+    },
+    {
+     "v": 27,
+     "text": "Then he said to them, “The Sabbath was made for the sake of human beings, not human beings for the sake of the Sabbath."
+    },
+    {
+     "v": 28,
+     "text": "So the Son of Man is master even of the Sabbath.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:4",
+     "text": "Mat: Greek *krabattos*, a poor person’s pallet or camp bed. Palestinian houses usually had flat roofs of beams covered with branches and packed clay, reached by an outside stair."
+    },
+    {
+     "m": "b",
+     "ref": "2:10",
+     "text": "Son of Man: Jesus’ usual way of referring to himself, from Aramaic *bar enash*, “a human being,” and recalling the heavenly figure “like a son of man” in Dan 7:13–14."
+    },
+    {
+     "m": "c",
+     "ref": "2:14",
+     "text": "Levi: Hebrew, “joined” or “attached” (Gen 29:34). In Matthew’s parallel (Matt 9:9) the tax collector is named Matthew. Codex Bezae and some other manuscripts here read “James the son of Alphaeus” (compare 3:18)."
+    },
+    {
+     "m": "d",
+     "ref": "2:14",
+     "text": "Alphaeus: perhaps from Aramaic *Halfai*, meaning uncertain, possibly “changing.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:15",
+     "text": "In Levi’s house: literally “in his house,” which could also mean Jesus’ house."
+    },
+    {
+     "m": "f",
+     "ref": "2:15",
+     "text": "Tax collectors: local agents who collected tolls and customs for the ruling authorities; they were widely despised as collaborators and cheats."
+    },
+    {
+     "m": "g",
+     "ref": "2:16",
+     "text": "Pharisees: probably “separated ones,” a lay movement devoted to strict keeping of the Law and its traditions. *The scribes who belonged to the Pharisees* is the Westcott–Hort reading; many manuscripts read “the scribes and the Pharisees.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:16",
+     "text": "He eats with tax collectors and sinners?: or “He eats with tax collectors and sinners!” Many manuscripts add “and drinks.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:19",
+     "text": "Wedding guests: literally “sons of the bridal chamber,” the bridegroom’s friends."
+    },
+    {
+     "m": "j",
+     "ref": "2:22",
+     "text": "The last sentence is bracketed by Westcott–Hort as doubtful; Codex Bezae and some Old Latin manuscripts omit it."
+    },
+    {
+     "m": "k",
+     "ref": "2:25",
+     "text": "David: Hebrew, probably “beloved.” See 1 Sam 21:1–6."
+    },
+    {
+     "m": "l",
+     "ref": "2:26",
+     "text": "Abiathar: Hebrew, “the father is abundant” or “father of abundance.” In 1 Sam 21 the priest at Nob was Ahimelech, the father of Abiathar; *when Abiathar was high priest* may mean “in the passage about Abiathar” or refer to the better-known priest of that period. Some manuscripts omit the phrase."
+    },
+    {
+     "m": "m",
+     "ref": "2:26",
+     "text": "Bread of the Presence: twelve loaves set out each Sabbath before God in the sanctuary (Lev 24:5–9), literally “bread of setting forth.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    7,
+    13,
+    20,
+    22,
+    28,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Once again he entered the synagogue, and a man with a shriveled hand happened to be there."
+    },
+    {
+     "v": 2,
+     "text": "People were watching Jesus closely, to find out if he would heal the man on the Sabbath, in order to have grounds for accusing him."
+    },
+    {
+     "v": 3,
+     "text": "Jesus told the man whose hand was shriveled, “Stand up here where everyone can see you.”"
+    },
+    {
+     "v": 4,
+     "text": "Then he asked them, “On the Sabbath, is it lawful to do good or to do harm, to save a life or to kill?” But they said nothing."
+    },
+    {
+     "v": 5,
+     "text": "He looked around at them in anger, deeply grieved at the hardness of their hearts, and said to the man, “Hold out your hand.” He held it out, and his hand was made sound again."
+    },
+    {
+     "v": 6,
+     "text": "The Pharisees walked out and immediately began plotting with the Herodians{a} against Jesus, how they might do away with him."
+    },
+    {
+     "v": 7,
+     "text": "Jesus withdrew with his disciples to the lake, and a vast throng from Galilee followed him. From Judea,"
+    },
+    {
+     "v": 8,
+     "text": "from Jerusalem,{b} from Idumea{c} and the land beyond the Jordan, and from the region of Tyre and Sidon,{d} a great multitude came to him when they heard of everything he was doing."
+    },
+    {
+     "v": 9,
+     "text": "He told his disciples to keep a small boat ready for him because of the crowd, so that they would not crush him."
+    },
+    {
+     "v": 10,
+     "text": "For he had healed many, and as a result all who had afflictions{e} were pushing forward to touch him."
+    },
+    {
+     "v": 11,
+     "text": "Whenever the unclean spirits caught sight of him, they would throw themselves down before him and scream, “You are the Son of God!”"
+    },
+    {
+     "v": 12,
+     "text": "But he gave them strict orders not to make him known."
+    },
+    {
+     "v": 13,
+     "text": "Then he went up into the hill country and summoned the men he wanted, and they came to him."
+    },
+    {
+     "v": 14,
+     "text": "He chose twelve men—he called them apostles as well{f}—so that they would stay in his company and so that he could send them out with the message,"
+    },
+    {
+     "v": 15,
+     "text": "and to have authority to cast out demons."
+    },
+    {
+     "v": 16,
+     "text": "The Twelve he chose{g} were these: Simon, whom he named Peter;{h}"
+    },
+    {
+     "v": 17,
+     "text": "James the son of Zebedee and John, James’s brother, to whom he gave the name Boanerges, which means “Sons of Thunder”;{i}"
+    },
+    {
+     "v": 18,
+     "text": "Andrew, Philip,{j} Bartholomew,{k} Matthew,{l} Thomas,{m} James the son of Alphaeus, Thaddaeus,{n} Simon the Cananaean,{o}"
+    },
+    {
+     "v": 19,
+     "text": "and Judas Iscariot,{p} who handed him over."
+    },
+    {
+     "v": 20,
+     "text": "Then he went home, and once more such a crowd collected that they could not even eat a meal."
+    },
+    {
+     "v": 21,
+     "text": "When his family{q} heard about it, they set out to take charge of him, for they were saying, “He is out of his mind.”"
+    },
+    {
+     "v": 22,
+     "text": "And the scribes who had come down from Jerusalem said, “He is possessed by Beelzebul,”{r} and, “It is by the ruler of the demons that he drives the demons out.”"
+    },
+    {
+     "v": 23,
+     "text": "So he called them over and spoke to them in parables: “How can Satan drive out Satan?"
+    },
+    {
+     "v": 24,
+     "text": "If a kingdom is split against itself, that kingdom cannot last."
+    },
+    {
+     "v": 25,
+     "text": "And if a household is split against itself, that household will not be able to last."
+    },
+    {
+     "v": 26,
+     "text": "So if Satan has risen up against himself and is split, he cannot last; his end has come."
+    },
+    {
+     "v": 27,
+     "text": "In fact, nobody can break into a strong man’s house and carry off his belongings unless he first ties up the strong man; only then can he loot his house."
+    },
+    {
+     "v": 28,
+     "text": "“Amen, I tell you:{s} the children of humankind will be forgiven all their sins, and whatever blasphemies they may utter;"
+    },
+    {
+     "v": 29,
+     "text": "but whoever blasphemes against the Holy Spirit never has forgiveness; that person is guilty of a sin that lasts forever.”{t}"
+    },
+    {
+     "v": 30,
+     "text": "This was his answer to their claim that he had an unclean spirit in him."
+    },
+    {
+     "v": 31,
+     "text": "Then his mother and his brothers arrived. They stood outside and sent word in to him, calling for him."
+    },
+    {
+     "v": 32,
+     "text": "A crowd was sitting around him, and they told him, “Your mother and your brothers{u} are outside, looking for you.”"
+    },
+    {
+     "v": 33,
+     "text": "He answered, “Who are my mother and my brothers?”"
+    },
+    {
+     "v": 34,
+     "text": "Then, looking at the people sitting all around him, he said, “See—my mother and my brothers are here!"
+    },
+    {
+     "v": 35,
+     "text": "Whoever carries out the will of God, that one is my brother, my sister, my mother.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:6",
+     "text": "Herodians: supporters of the dynasty of Herod, whose son Herod Antipas then ruled Galilee."
+    },
+    {
+     "m": "b",
+     "ref": "3:8",
+     "text": "Jerusalem: in Hebrew *Yerushalayim*, often explained as “foundation of peace.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:8",
+     "text": "Idumea: the Greek form of Edom (“red”), the region south of Judea."
+    },
+    {
+     "m": "d",
+     "ref": "3:8",
+     "text": "Tyre and Sidon: Phoenician coastal cities north of Galilee. *Tyre* means “rock”; *Sidon* probably “fishing place.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:10",
+     "text": "Afflictions: literally “scourges,” “torments.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:14",
+     "text": "He called them apostles as well: the phrase stands in the Westcott–Hort text, with Sinaiticus and Vaticanus, but is lacking in many manuscripts and may have come in from Luke 6:13. *Apostle* means “one sent out.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:16",
+     "text": "The Twelve he chose: the Westcott–Hort text, with Sinaiticus and Vaticanus, has these words; many manuscripts lack them."
+    },
+    {
+     "m": "h",
+     "ref": "3:16",
+     "text": "Peter: Greek *Petros*, “rock” or “stone,” corresponding to Aramaic *Kepha* (Cephas)."
+    },
+    {
+     "m": "i",
+     "ref": "3:17",
+     "text": "Boanerges: a Greek transliteration, probably of Aramaic *bene regesh* or *bene regaz*, “sons of commotion” or “sons of anger,” which Mark translates “Sons of Thunder.” The exact Aramaic form is uncertain."
+    },
+    {
+     "m": "j",
+     "ref": "3:18",
+     "text": "Philip: Greek, “lover of horses.”"
+    },
+    {
+     "m": "k",
+     "ref": "3:18",
+     "text": "Bartholomew: Aramaic *bar Talmai*, “son of Talmai” (perhaps “furrowed”)."
+    },
+    {
+     "m": "l",
+     "ref": "3:18",
+     "text": "Matthew: probably from Hebrew *Mattityahu*, “gift of Yahweh.”"
+    },
+    {
+     "m": "m",
+     "ref": "3:18",
+     "text": "Thomas: Aramaic *Toma*, “twin” (compare John 11:16)."
+    },
+    {
+     "m": "n",
+     "ref": "3:18",
+     "text": "Thaddaeus: meaning uncertain, perhaps “breast” or “heart,” suggesting “beloved.” In Luke 6:16 the corresponding name is Judas the son of James."
+    },
+    {
+     "m": "o",
+     "ref": "3:18",
+     "text": "Cananaean: from Aramaic *qan’ana*, “zealous one,” “zealot” (compare Luke 6:15), not a reference to Canaan or Cana."
+    },
+    {
+     "m": "p",
+     "ref": "3:19",
+     "text": "Iscariot: possibly “man of Kerioth,” a town in Judea; other explanations have been proposed. *Judas* is the Greek form of *Judah*, “praised.”"
+    },
+    {
+     "m": "q",
+     "ref": "3:21",
+     "text": "His family: literally “those from beside him,” that is, his relatives (compare 3:31)."
+    },
+    {
+     "m": "r",
+     "ref": "3:22",
+     "text": "Beelzebul: a name for the prince of demons, perhaps “lord of the dwelling” or a mocking form of Baal-zebub, “lord of flies” (2 Kgs 1:2)."
+    },
+    {
+     "m": "s",
+     "ref": "3:28",
+     "text": "Amen, I tell you: Hebrew *amen*, “surely,” “truly,” used by Jesus to begin a solemn statement."
+    },
+    {
+     "m": "t",
+     "ref": "3:29",
+     "text": "A sin that lasts forever: literally “an eternal sin”; many later manuscripts read “eternal judgment.”"
+    },
+    {
+     "m": "u",
+     "ref": "3:32",
+     "text": "Your mother and your brothers: many manuscripts add “and your sisters”; the Westcott–Hort text lacks the words."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    10,
+    13,
+    21,
+    26,
+    30,
+    33,
+    35
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Once more Jesus began to teach beside the lake. So huge a crowd gathered around him that he got into a boat and sat in it out on the water, while the whole crowd stayed on the shore facing the lake."
+    },
+    {
+     "v": 2,
+     "text": "He taught them many things by means of parables,{a} and in the course of his teaching he said to them:"
+    },
+    {
+     "v": 3,
+     "text": "“Listen! A farmer went out to sow seed."
+    },
+    {
+     "v": 4,
+     "text": "As he scattered it, some fell beside the path, and birds came and ate it up."
+    },
+    {
+     "v": 5,
+     "text": "Other seed fell on rocky places where there was not much soil, and it shot up quickly because the earth was shallow."
+    },
+    {
+     "v": 6,
+     "text": "But when the sun rose it was scorched, and having no root, it dried up."
+    },
+    {
+     "v": 7,
+     "text": "Other seed fell among thornbushes, and the thorns grew up and choked it, and it yielded no grain."
+    },
+    {
+     "v": 8,
+     "text": "Still other seeds fell into good soil, and they came up, grew, and produced grain, yielding thirty, sixty, even a hundred times as much.”"
+    },
+    {
+     "v": 9,
+     "text": "And he said, “Whoever has ears for hearing, let that person hear!”"
+    },
+    {
+     "v": 10,
+     "text": "When he was by himself, the people around him, together with the Twelve, asked him about the parables."
+    },
+    {
+     "v": 11,
+     "text": "He told them, “To you the secret{b} of God’s kingdom has been given; but for those outside, everything comes in parables,"
+    },
+    {
+     "v": 12,
+     "text": "so that\n‘they may look and look, yet not perceive,\nand hear and hear, yet not understand;\notherwise they might turn back and be forgiven.’ ”{c}"
+    },
+    {
+     "v": 13,
+     "text": "Then he said to them, “You do not grasp this parable? Then how will you grasp any of the parables?"
+    },
+    {
+     "v": 14,
+     "text": "The sower sows the word."
+    },
+    {
+     "v": 15,
+     "text": "The ones beside the path are those where the word is sown, but as soon as they hear it, Satan comes and snatches away the word that was sown in them."
+    },
+    {
+     "v": 16,
+     "text": "In the same way, the ones sown on rocky ground are those who, on hearing the word, accept it at once with joy."
+    },
+    {
+     "v": 17,
+     "text": "But they have no root in themselves; they last only a short while. When trouble or persecution arises on account of the word, they quickly fall away.{d}"
+    },
+    {
+     "v": 18,
+     "text": "Others are the ones sown among the thorns: they hear the word,"
+    },
+    {
+     "v": 19,
+     "text": "but the worries of this present age, the lure of riches, and cravings for other things creep in and smother the word, so that it bears nothing."
+    },
+    {
+     "v": 20,
+     "text": "And the ones sown on the good soil are those who hear the word, welcome it, and bear fruit—thirtyfold, sixtyfold, a hundredfold.”"
+    },
+    {
+     "v": 21,
+     "text": "He also said to them, “Is a lamp brought in to be put under a basket{e} or under a bed? Is it not brought to be set on a lampstand?"
+    },
+    {
+     "v": 22,
+     "text": "For nothing is concealed except to be brought into the open, and nothing has been kept secret except to come to light."
+    },
+    {
+     "v": 23,
+     "text": "If anyone has ears for hearing, let that person hear.”"
+    },
+    {
+     "v": 24,
+     "text": "He went on: “Pay attention to what you hear. The measure you use will be the measure used for you, and more will be added for you."
+    },
+    {
+     "v": 25,
+     "text": "For the one who has will be given more; and the one who has nothing, even what he has will be taken from him.”"
+    },
+    {
+     "v": 26,
+     "text": "He also said, “God’s kingdom is like this: a man scatters seed on the ground;"
+    },
+    {
+     "v": 27,
+     "text": "he sleeps at night and gets up by day, and the seed sprouts and grows tall, though he himself does not know how."
+    },
+    {
+     "v": 28,
+     "text": "The earth produces crops by itself—first the shoot, then the head, then the full grain in the head."
+    },
+    {
+     "v": 29,
+     "text": "And as soon as the crop allows, he sends in the sickle at once, because harvest time has arrived.”{f}"
+    },
+    {
+     "v": 30,
+     "text": "He said further, “What can we compare God’s kingdom to, or what parable shall we use for it?"
+    },
+    {
+     "v": 31,
+     "text": "It is like a mustard seed. When it is sown in the ground, it is the tiniest of all the seeds on earth;"
+    },
+    {
+     "v": 32,
+     "text": "yet once sown, it springs up and becomes greater than all the garden plants, and puts out such large branches that the birds of the sky can find shelter in its shade.”{g}"
+    },
+    {
+     "v": 33,
+     "text": "With many such parables he spoke the word to them, as much as they were able to take in."
+    },
+    {
+     "v": 34,
+     "text": "Apart from parables he told them nothing, but when he was alone with his own disciples he made all of it plain."
+    },
+    {
+     "v": 35,
+     "text": "That same day, when evening had come, he said to them, “Let us cross to the other side.”"
+    },
+    {
+     "v": 36,
+     "text": "So they left the crowd and took him with them in the boat, since he was already in it; and there were other boats along with him."
+    },
+    {
+     "v": 37,
+     "text": "A fierce squall of wind blew up, and the waves were crashing into the boat, so that it was already filling up."
+    },
+    {
+     "v": 38,
+     "text": "But he was in the stern, asleep on the cushion. They woke him and said to him, “Teacher, does it not matter to you that we are about to die?”"
+    },
+    {
+     "v": 39,
+     "text": "He got up, rebuked the wind, and said to the lake, “Hush! Be still!” The wind dropped, and there was a great calm."
+    },
+    {
+     "v": 40,
+     "text": "He said to them, “Why are you so fearful? Have you still no faith?”{h}"
+    },
+    {
+     "v": 41,
+     "text": "They were overcome with awe and said to each other, “Who can this be? Even the wind and the lake obey him!”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:2",
+     "text": "Parables: Greek *parabolē*, a comparison or story that sets one thing beside another to illustrate a truth, sometimes a riddle (Hebrew *mashal*)."
+    },
+    {
+     "m": "b",
+     "ref": "4:11",
+     "text": "Secret: Greek *mystērion*, “mystery,” a hidden purpose of God now revealed."
+    },
+    {
+     "m": "c",
+     "ref": "4:12",
+     "text": "Isa 6:9–10, quoted freely and in a form close to the Aramaic Targum (“be forgiven” for the Hebrew “be healed”)."
+    },
+    {
+     "m": "d",
+     "ref": "4:17",
+     "text": "Fall away: or “stumble,” “are caused to sin” (Greek *skandalizontai*)."
+    },
+    {
+     "m": "e",
+     "ref": "4:21",
+     "text": "Basket: Greek *modios*, a grain measure holding about 8.75 liters (about 2 US gallons, a quarter bushel), here the container itself."
+    },
+    {
+     "m": "f",
+     "ref": "4:29",
+     "text": "Joel 3:13 (4:13 in Hebrew)."
+    },
+    {
+     "m": "g",
+     "ref": "4:32",
+     "text": "Compare Ezek 17:23; 31:6; Dan 4:12, 21."
+    },
+    {
+     "m": "h",
+     "ref": "4:40",
+     "text": "Have you still no faith?: many manuscripts read “How is it that you have no faith?”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    14,
+    21,
+    25,
+    35
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "They came to the far side of the lake, into the territory of the Gerasenes.{a}"
+    },
+    {
+     "v": 2,
+     "text": "As soon as Jesus stepped out of the boat, a man with an unclean spirit came out of the burial caves to meet him."
+    },
+    {
+     "v": 3,
+     "text": "He made his home among the tombs, and by now no one could restrain him any longer, not even with a chain."
+    },
+    {
+     "v": 4,
+     "text": "Time and again he had been bound with shackles and chains, but he had snapped the chains apart and smashed the shackles, and nobody had the strength to subdue him."
+    },
+    {
+     "v": 5,
+     "text": "Night and day, among the tombs and on the hillsides, he kept howling and gashing himself with stones."
+    },
+    {
+     "v": 6,
+     "text": "Catching sight of Jesus from far off, he ran and fell down before him,"
+    },
+    {
+     "v": 7,
+     "text": "and shouting with a loud cry he said, “Jesus, Son of God Most High, what is there between you and me? In God’s name I beg you, do not torture me!”"
+    },
+    {
+     "v": 8,
+     "text": "For Jesus had been saying to him, “Come out of the man, you unclean spirit!”"
+    },
+    {
+     "v": 9,
+     "text": "Then Jesus asked him, “What is your name?” He answered, “My name is Legion,{b} because there are many of us.”"
+    },
+    {
+     "v": 10,
+     "text": "And he begged Jesus over and over not to send them out of that region."
+    },
+    {
+     "v": 11,
+     "text": "A big herd of swine happened to be grazing nearby on the slope of the hill."
+    },
+    {
+     "v": 12,
+     "text": "The spirits pleaded with him, “Send us to the swine, so that we may go into them.”"
+    },
+    {
+     "v": 13,
+     "text": "He gave them leave, and the unclean spirits came out and went into the swine. The herd, about two thousand of them, rushed down the steep slope into the lake and were drowned in the water."
+    },
+    {
+     "v": 14,
+     "text": "Those who tended the swine fled and spread the news in the town and around the farms, and people came out to see what had happened."
+    },
+    {
+     "v": 15,
+     "text": "They came to Jesus and saw the man who had been possessed—the one who had held the legion—sitting there clothed and in his right mind, and they were afraid."
+    },
+    {
+     "v": 16,
+     "text": "Those who had witnessed it told them what had happened to the demon-possessed man and about the swine."
+    },
+    {
+     "v": 17,
+     "text": "Then they began urging Jesus to leave their district."
+    },
+    {
+     "v": 18,
+     "text": "While Jesus was boarding the boat, the man freed from the demons kept begging to be allowed to stay with him."
+    },
+    {
+     "v": 19,
+     "text": "Jesus did not allow it, but said to him, “Go home to your own people and report to them all that the Lord{c} has done for you, and how he has shown you mercy.”"
+    },
+    {
+     "v": 20,
+     "text": "So the man went off and began to make known throughout the Decapolis{d} what Jesus had done for him, and everyone was amazed."
+    },
+    {
+     "v": 21,
+     "text": "Jesus crossed over by boat again to the opposite shore, and a great crowd came together around him while he was beside the lake."
+    },
+    {
+     "v": 22,
+     "text": "One of the leaders of the synagogue, named Jairus,{e} came along, and on seeing Jesus, threw himself at his feet"
+    },
+    {
+     "v": 23,
+     "text": "and pleaded with him earnestly: “My little daughter is at death’s door. Please come and lay your hands on her, so that she may get well and live.”"
+    },
+    {
+     "v": 24,
+     "text": "So Jesus set off with him. A large crowd followed and pressed in on him from every side."
+    },
+    {
+     "v": 25,
+     "text": "Among them was a woman who had suffered from bleeding for twelve years."
+    },
+    {
+     "v": 26,
+     "text": "She had endured a great deal at the hands of many doctors and had spent everything she owned, yet instead of improving she had grown worse."
+    },
+    {
+     "v": 27,
+     "text": "She had heard the reports about Jesus, and she came up behind him in the crowd and touched his cloak,"
+    },
+    {
+     "v": 28,
+     "text": "for she kept telling herself, “If I touch even his clothes, I shall be made well.”"
+    },
+    {
+     "v": 29,
+     "text": "At once the flow of her blood dried up, and she sensed in her body that she was cured of her affliction."
+    },
+    {
+     "v": 30,
+     "text": "Jesus, aware at once that power had gone out from him, turned around in the crowd and said, “Who touched my clothes?”"
+    },
+    {
+     "v": 31,
+     "text": "His disciples answered, “You see the crowd jostling you, and still you ask, ‘Who touched me?’ ”"
+    },
+    {
+     "v": 32,
+     "text": "But he kept looking around to see who had done this."
+    },
+    {
+     "v": 33,
+     "text": "Then the woman, frightened and trembling because she knew what had been done to her, came and fell down in front of him and told him the whole truth."
+    },
+    {
+     "v": 34,
+     "text": "He said to her, “Daughter, your faith has made you well.{f} Go in peace, free from your affliction.”"
+    },
+    {
+     "v": 35,
+     "text": "While he was still speaking, people came from the synagogue leader’s house and said, “Your daughter has died. Why trouble the Teacher any longer?”"
+    },
+    {
+     "v": 36,
+     "text": "But Jesus, overhearing{g} what they said, told the synagogue leader, “Do not be afraid; just keep believing.”"
+    },
+    {
+     "v": 37,
+     "text": "He let no one come along with him except Peter, James, and James’s brother John."
+    },
+    {
+     "v": 38,
+     "text": "When they reached the synagogue leader’s house, Jesus saw an uproar, with people weeping and wailing loudly."
+    },
+    {
+     "v": 39,
+     "text": "Going in, he said to them, “Why this commotion and weeping? The child is not dead; she is sleeping.”"
+    },
+    {
+     "v": 40,
+     "text": "They laughed at him. But he put them all outside, took the child’s father and mother and those who were with him, and went in to where the child was."
+    },
+    {
+     "v": 41,
+     "text": "Taking the child by the hand, he said to her, “Talitha koum,”{h} which translated means, “Little girl, I say to you, get up.”"
+    },
+    {
+     "v": 42,
+     "text": "Immediately the girl stood up and began walking about—she was twelve years old—and at once they were utterly astounded."
+    },
+    {
+     "v": 43,
+     "text": "He charged them firmly that nobody must know about it, and said that she should be given food."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Gerasenes: the Westcott–Hort reading, referring to Gerasa (modern Jerash), a city of the Decapolis about 35 miles (55 km) southeast of the lake. Other manuscripts read “Gadarenes” (from Gadara, about 6 miles or 10 km from the lake; compare Matt 8:28) or “Gergesenes” (from Gergesa, a site on the eastern shore)."
+    },
+    {
+     "m": "b",
+     "ref": "5:9",
+     "text": "Legion: a Latin military term for a Roman army unit of up to about 6,000 soldiers."
+    },
+    {
+     "m": "c",
+     "ref": "5:19",
+     "text": "The Lord: here God, though Mark may also intend Jesus (compare verse 20)."
+    },
+    {
+     "m": "d",
+     "ref": "5:20",
+     "text": "Decapolis: Greek, “Ten Cities,” a league of Greek-speaking cities mostly east of the Jordan."
+    },
+    {
+     "m": "e",
+     "ref": "5:22",
+     "text": "Jairus: the Greek form of Hebrew *Yair*, “he will give light” or “he enlightens” (Num 32:41)."
+    },
+    {
+     "m": "f",
+     "ref": "5:34",
+     "text": "Made you well: or “saved you” (Greek *sesōken*); also in verses 23 and 28."
+    },
+    {
+     "m": "g",
+     "ref": "5:36",
+     "text": "Overhearing: or “ignoring” (Greek *parakousas*). Many manuscripts read “hearing.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:41",
+     "text": "Talitha koum: Aramaic *talyetha qum*, “little girl (lamb), get up,” transliterated in Greek. The Westcott–Hort text, with Sinaiticus and Vaticanus, has *koum*; many manuscripts have *koumi*, the feminine form of the command."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    14,
+    17,
+    30,
+    35,
+    45,
+    53
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Leaving that place, Jesus went to his hometown, and his disciples went along with him."
+    },
+    {
+     "v": 2,
+     "text": "When the Sabbath came, he began teaching in the synagogue, and many who listened were astounded. “Where did this man get all this?” they asked. “What is this wisdom that has been granted to him? And such mighty works done by his hands!"
+    },
+    {
+     "v": 3,
+     "text": "Is he not the carpenter,{a} the son of Mary,{b} and the brother of James and Joses{c} and Judas and Simon? And are his sisters not here among us?” And they took offense at him."
+    },
+    {
+     "v": 4,
+     "text": "Jesus said to them, “A prophet is not without honor except in his own hometown, among his own relatives, and in his own household.”"
+    },
+    {
+     "v": 5,
+     "text": "He could not do any mighty work there, apart from laying his hands on a few sick people and healing them."
+    },
+    {
+     "v": 6,
+     "text": "He was amazed at their lack of faith.\n¶Then he went around the villages in a circuit, teaching."
+    },
+    {
+     "v": 7,
+     "text": "He summoned the Twelve and began sending them out two by two, and he gave them authority over the unclean spirits."
+    },
+    {
+     "v": 8,
+     "text": "He instructed them to take nothing for the road but a staff—no bread, no bag, no small change{d} in their belts—"
+    },
+    {
+     "v": 9,
+     "text": "but to wear sandals, and “do not put on two tunics.”"
+    },
+    {
+     "v": 10,
+     "text": "He said to them, “Wherever you enter a house, stay there until you leave that place."
+    },
+    {
+     "v": 11,
+     "text": "And wherever people refuse to welcome you or hear you out, shake off the dust from under your feet when you go, as a witness to them.”{e}"
+    },
+    {
+     "v": 12,
+     "text": "So they set out and proclaimed that people should repent."
+    },
+    {
+     "v": 13,
+     "text": "Many demons were cast out by them, and many who were ill were anointed with oil by them and cured."
+    },
+    {
+     "v": 14,
+     "text": "Now King Herod{f} came to hear of it, since the name of Jesus was on everyone’s lips. Some were saying,{g} “This is John the Baptizer risen from the dead; that explains why such powers are active in him.”"
+    },
+    {
+     "v": 15,
+     "text": "Others said, “He is Elijah,”{h} and still others, “He is a prophet, like one of the prophets of old.”"
+    },
+    {
+     "v": 16,
+     "text": "But when Herod heard of it, he said, “John, the man I beheaded—he has been raised!”"
+    },
+    {
+     "v": 17,
+     "text": "For Herod himself had sent men to arrest John, and he had put him in chains in prison on account of Herodias,{i} the wife of his brother Philip, because he had married her."
+    },
+    {
+     "v": 18,
+     "text": "John had been telling Herod, “It is not lawful for you to have your brother’s wife.”{j}"
+    },
+    {
+     "v": 19,
+     "text": "So Herodias held a grudge against him and wanted him killed, but she could not manage it,"
+    },
+    {
+     "v": 20,
+     "text": "because Herod stood in awe of John, knowing him to be a righteous and holy man, and kept him safe. When he heard him, he was greatly perplexed;{k} yet he liked to listen to him."
+    },
+    {
+     "v": 21,
+     "text": "But a suitable day arrived: Herod, celebrating his birthday, held a feast for his courtiers, the army officers, and the foremost people of Galilee."
+    },
+    {
+     "v": 22,
+     "text": "His daughter Herodias{l} came in and danced, and she delighted Herod and his guests. The king said to the girl, “Ask me for anything you like, and I will give it to you.”"
+    },
+    {
+     "v": 23,
+     "text": "And he swore to her with an oath, “Whatever you ask me, I will give you, up to half of my kingdom.”"
+    },
+    {
+     "v": 24,
+     "text": "She went out and asked her mother, “What shall I ask for?” Her mother answered, “The head of John the Baptizer.”"
+    },
+    {
+     "v": 25,
+     "text": "The girl hurried straight back to the king and made her request: “I want you to give me, here and now, on a platter, the head of John the Baptist.”"
+    },
+    {
+     "v": 26,
+     "text": "Though the king was very sorry, he would not turn her down, out of regard for the oaths he had sworn and for the guests at his table."
+    },
+    {
+     "v": 27,
+     "text": "Without delay he dispatched a soldier of the guard{m} and ordered him to fetch John’s head. The man went and cut off John’s head there in the prison,"
+    },
+    {
+     "v": 28,
+     "text": "carried it in on a platter, and handed it to the girl; and she handed it to her mother."
+    },
+    {
+     "v": 29,
+     "text": "When John’s disciples heard of it, they came and took away his body and laid it in a tomb."
+    },
+    {
+     "v": 30,
+     "text": "The apostles came back together to Jesus and told him everything—what they had done and what they had taught."
+    },
+    {
+     "v": 31,
+     "text": "“Come with me, just yourselves, to some out-of-the-way spot, and get a little rest,” he told them. So many were arriving and departing that they had no chance even to eat."
+    },
+    {
+     "v": 32,
+     "text": "So they went off in the boat by themselves to a deserted place."
+    },
+    {
+     "v": 33,
+     "text": "But many people saw them leaving and recognized them, and they ran there together on foot from all the towns and got there before them."
+    },
+    {
+     "v": 34,
+     "text": "As Jesus came ashore, he saw a great crowd and felt compassion for them, because they were like sheep without a shepherd;{n} and he began to teach them many things."
+    },
+    {
+     "v": 35,
+     "text": "When it was already late in the day, his disciples came to him and said, “This is a lonely place, and the hour is already late."
+    },
+    {
+     "v": 36,
+     "text": "Dismiss them, so they can go off to the surrounding farms and villages and buy food for themselves.”"
+    },
+    {
+     "v": 37,
+     "text": "He replied, “Feed them yourselves.” They asked him, “Shall we go off and buy two hundred days’ wages{o} worth of bread to give them a meal?”"
+    },
+    {
+     "v": 38,
+     "text": "“How many loaves have you got?” he asked. “Go and look.” They checked and reported, “Five—and two fish.”"
+    },
+    {
+     "v": 39,
+     "text": "Then he told them to have everyone sit down in groups on the green grass."
+    },
+    {
+     "v": 40,
+     "text": "So they sat down in companies, by hundreds and by fifties."
+    },
+    {
+     "v": 41,
+     "text": "He took the five loaves and the two fish, looked up to heaven, spoke the blessing,{p} broke the loaves, and kept handing them to his disciples to set before the people; and he divided the two fish among them all."
+    },
+    {
+     "v": 42,
+     "text": "Everyone ate and was satisfied,"
+    },
+    {
+     "v": 43,
+     "text": "and they picked up twelve baskets full of broken pieces of bread and of the fish."
+    },
+    {
+     "v": 44,
+     "text": "The men who ate the bread came to five thousand."
+    },
+    {
+     "v": 45,
+     "text": "Right away Jesus made his disciples get into the boat and go on ahead of him to the other side, to Bethsaida,{q} while he sent the crowd away."
+    },
+    {
+     "v": 46,
+     "text": "After he had taken leave of them, he went up the mountain to pray."
+    },
+    {
+     "v": 47,
+     "text": "When evening came, the boat was in the middle of the lake, and he was alone on land."
+    },
+    {
+     "v": 48,
+     "text": "He could see them laboring at the oars, because the wind was against them. Between three and six in the morning{r} he came toward them, walking on the lake. He meant to pass by them,{s}"
+    },
+    {
+     "v": 49,
+     "text": "but when they caught sight of him walking on the water, they supposed he was a phantom and screamed;"
+    },
+    {
+     "v": 50,
+     "text": "for they all saw him and were terrified. But at once he spoke with them and said, “Take courage! It is I.{t} Do not be afraid.”"
+    },
+    {
+     "v": 51,
+     "text": "Then he climbed into the boat with them, and the wind died down. They were utterly astounded,"
+    },
+    {
+     "v": 52,
+     "text": "They had not grasped the meaning of the loaves; instead, their minds were closed."
+    },
+    {
+     "v": 53,
+     "text": "When they had crossed over, they came to land at Gennesaret{u} and moored the boat."
+    },
+    {
+     "v": 54,
+     "text": "The moment they stepped ashore, the people knew who he was."
+    },
+    {
+     "v": 55,
+     "text": "and ran throughout that whole region and began to carry the sick on their mats to wherever they heard he was."
+    },
+    {
+     "v": 56,
+     "text": "And wherever he went—into villages, towns, or the countryside—they would lay the sick in the marketplaces and beg him to let them touch even the tassel{v} of his cloak; and all who touched it were made well."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:3",
+     "text": "Carpenter: Greek *tektōn*, a craftsman who worked in wood or stone, a builder. Many later manuscripts, and P45 as reported, read “the son of the carpenter” (compare Matt 13:55)."
+    },
+    {
+     "m": "b",
+     "ref": "6:3",
+     "text": "Mary: Greek *Maria* (*Mariam*), from Hebrew *Miryam*, of uncertain meaning; suggestions include “beloved” and “bitter.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:3",
+     "text": "Joses: a Greek form of *Joseph* (Hebrew, “may he add”). Matthew 13:55 has “Joseph.”"
+    },
+    {
+     "m": "d",
+     "ref": "6:8",
+     "text": "Small change: literally “copper (coins).”"
+    },
+    {
+     "m": "e",
+     "ref": "6:11",
+     "text": "Many manuscripts add “Amen, I tell you, it will be easier for Sodom and Gomorrah on the day of judgment than for that town” (compare Matt 10:15); the Westcott–Hort text lacks it."
+    },
+    {
+     "m": "f",
+     "ref": "6:14",
+     "text": "King Herod: Herod Antipas, son of Herod the Great, ruler of Galilee and Perea (4 BC–AD 39). His official title was “tetrarch” (Matt 14:1); Mark uses the popular title “king.” *Herod* means “heroic.”"
+    },
+    {
+     "m": "g",
+     "ref": "6:14",
+     "text": "People were saying: the Westcott–Hort text, with Vaticanus and some other manuscripts, has the plural; most manuscripts read “he was saying.”"
+    },
+    {
+     "m": "h",
+     "ref": "6:15",
+     "text": "Elijah: Hebrew, “my God is Yahweh.” He was expected to return before the day of the Lord (Mal 4:5)."
+    },
+    {
+     "m": "i",
+     "ref": "6:17",
+     "text": "Herodias: granddaughter of Herod the Great. According to Josephus her first husband was Herod (a son of Herod the Great), whom some identify with Philip; the tetrarch Philip married her daughter Salome."
+    },
+    {
+     "m": "j",
+     "ref": "6:18",
+     "text": "Lev 18:16; 20:21."
+    },
+    {
+     "m": "k",
+     "ref": "6:20",
+     "text": "He was greatly perplexed: the reading of Sinaiticus, Vaticanus and Westcott–Hort (Greek *ēporei*); most manuscripts read “he did many things” (*epoiei*)."
+    },
+    {
+     "m": "l",
+     "ref": "6:22",
+     "text": "His daughter Herodias: the reading of Westcott–Hort with Sinaiticus and Vaticanus, which makes the girl Herod’s own daughter, also named Herodias. Most manuscripts read “the daughter of Herodias herself”; Josephus names her Salome (“peace”). Noted for review."
+    },
+    {
+     "m": "m",
+     "ref": "6:27",
+     "text": "A soldier of the guard: Greek *spekoulatōr*, a Latin loanword for a scout or bodyguard, who also served as executioner."
+    },
+    {
+     "m": "n",
+     "ref": "6:34",
+     "text": "Num 27:17; 1 Kgs 22:17; Ezek 34:5."
+    },
+    {
+     "m": "o",
+     "ref": "6:37",
+     "text": "Two hundred days’ wages: Greek “two hundred denarii.” A denarius was a silver coin, the usual pay for a day’s work by a laborer (Matt 20:2)."
+    },
+    {
+     "m": "p",
+     "ref": "6:41",
+     "text": "Spoke the blessing: that is, gave thanks to God for the food, according to Jewish custom."
+    },
+    {
+     "m": "q",
+     "ref": "6:45",
+     "text": "Bethsaida: Aramaic, “house of fishing,” a town at the northern end of the lake."
+    },
+    {
+     "m": "r",
+     "ref": "6:48",
+     "text": "Between three and six in the morning: literally “about the fourth watch of the night.” The Romans divided the night from 6 p.m. to 6 a.m. into four watches."
+    },
+    {
+     "m": "s",
+     "ref": "6:48",
+     "text": "He meant to pass by them: compare God passing by Moses and Elijah (Exod 33:19–22; 1 Kgs 19:11)."
+    },
+    {
+     "m": "t",
+     "ref": "6:50",
+     "text": "It is I: Greek *egō eimi*, literally “I am,” which may also echo God’s self-designation (Exod 3:14; Isa 43:10)."
+    },
+    {
+     "m": "u",
+     "ref": "6:53",
+     "text": "Gennesaret: a fertile plain on the northwest shore of the lake, south of Capernaum; the name may mean “garden of riches” or “harp,” of uncertain derivation."
+    },
+    {
+     "m": "v",
+     "ref": "6:56",
+     "text": "Tassel: or “fringe,” “edge”; compare Num 15:38–39."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    14,
+    17,
+    24,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Pharisees and some of the scribes who had come from Jerusalem gathered around Jesus."
+    },
+    {
+     "v": 2,
+     "text": "They noticed that some of his disciples were eating their bread with defiled hands—that is, without washing them."
+    },
+    {
+     "v": 3,
+     "text": "(The Pharisees, and indeed all the Jews, do not eat unless they wash their hands thoroughly,{a} holding fast to the tradition of the elders;"
+    },
+    {
+     "v": 4,
+     "text": "and when they come in from the marketplace they do not eat unless they purify themselves.{b} There are many other customs they have received and keep, such as the washing of cups, pitchers, and copper kettles.){c}"
+    },
+    {
+     "v": 5,
+     "text": "So the Pharisees and scribes asked him, “Why do your disciples not live by the tradition of the elders, but eat their food with defiled hands?”"
+    },
+    {
+     "v": 6,
+     "text": "He answered them, “Isaiah prophesied rightly about you hypocrites, as it is written:\n‘This people honors me with their lips,\nbut their heart stays far away from me."
+    },
+    {
+     "v": 7,
+     "text": "Their worship of me is empty,\nfor what they teach as doctrine are human rules.’{d}"
+    },
+    {
+     "v": 8,
+     "text": "You abandon God’s commandment and cling to human tradition.”"
+    },
+    {
+     "v": 9,
+     "text": "He went on, “How neatly you set aside God’s commandment in order to keep{e} your own tradition!"
+    },
+    {
+     "v": 10,
+     "text": "For Moses said, ‘Honor your father and your mother,’ and, ‘Whoever curses father or mother must be put to death.’{f}"
+    },
+    {
+     "v": 11,
+     "text": "Yet your teaching is that a man may say to his father or his mother, ‘Anything of mine that could have helped you is Corban’ ”—meaning a gift set apart for God—{g}"
+    },
+    {
+     "v": 12,
+     "text": "“and after that you release him from doing anything at all for the parents who bore him."
+    },
+    {
+     "v": 13,
+     "text": "In this way you make God’s word void through the tradition you pass along. And many other such things you do.”"
+    },
+    {
+     "v": 14,
+     "text": "Then he called the crowd to him again and said, “Listen to me, all of you, and understand."
+    },
+    {
+     "v": 15,
+     "text": "Nothing outside a person can make him unclean by going into him. It is the things that come out of a person that make him unclean.”"
+    },
+    {
+     "v": 16,
+     "text": "{h}"
+    },
+    {
+     "v": 17,
+     "text": "When he had left the crowd and gone into the house, his disciples asked him about the parable."
+    },
+    {
+     "v": 18,
+     "text": "He said to them, “Are you also so slow to understand? Do you not see that nothing that goes into a person from outside can make him unclean,"
+    },
+    {
+     "v": 19,
+     "text": "since it enters not his heart but his stomach, and passes out into the latrine?” (In saying this, he declared all foods clean.){i}"
+    },
+    {
+     "v": 20,
+     "text": "He continued, “What comes out of a person—that is what makes him unclean."
+    },
+    {
+     "v": 21,
+     "text": "For from within, out of the human heart, come evil thoughts, sexual immorality, theft, murder,"
+    },
+    {
+     "v": 22,
+     "text": "adultery, greed, malice, deceit, debauchery, envy,{j} slander, arrogance, and folly."
+    },
+    {
+     "v": 23,
+     "text": "All these evils come from within, and they make a person unclean.”"
+    },
+    {
+     "v": 24,
+     "text": "Jesus rose and left that place for the territory around Tyre [and Sidon].{k} He went into a house, wishing nobody to find out, but his presence could not be kept hidden."
+    },
+    {
+     "v": 25,
+     "text": "In fact, a woman whose little daughter had an unclean spirit heard about him at once, and she came and fell at his feet."
+    },
+    {
+     "v": 26,
+     "text": "She was a Greek-speaking Gentile,{l} born in Syrian Phoenicia,{m} and she kept pleading with him to cast the demon out of her child."
+    },
+    {
+     "v": 27,
+     "text": "He said to her, “Let the children be fed first; it is not right to take the children’s bread and throw it to the little dogs.”"
+    },
+    {
+     "v": 28,
+     "text": "But she answered him, “Yes, Lord;{n} yet even the little dogs under the table eat the children’s crumbs.”"
+    },
+    {
+     "v": 29,
+     "text": "He said to her, “Because you have answered this way, you may go; the demon has left your daughter.”"
+    },
+    {
+     "v": 30,
+     "text": "When she got back to her house, the child was lying on the bed and the demon had gone out."
+    },
+    {
+     "v": 31,
+     "text": "Then Jesus left the region of Tyre and went by way of Sidon to the Sea of Galilee, through the region of the Decapolis.{o}"
+    },
+    {
+     "v": 32,
+     "text": "There they brought him someone who was deaf and had an impediment in his speech, and they pleaded with Jesus to place his hand upon him."
+    },
+    {
+     "v": 33,
+     "text": "He took him aside from the crowd, by himself, put his fingers into the man’s ears, spat, and touched his tongue."
+    },
+    {
+     "v": 34,
+     "text": "Looking up to heaven, he gave a deep sigh and said to him, “Ephphatha,”{p} which means, “Be opened.”"
+    },
+    {
+     "v": 35,
+     "text": "And his ears were opened, his tongue was released, and he began to speak plainly."
+    },
+    {
+     "v": 36,
+     "text": "Jesus ordered them to tell no one; but the more he ordered them, the more widely they proclaimed it."
+    },
+    {
+     "v": 37,
+     "text": "Their astonishment knew no bounds. “Everything he does is well done,” they kept saying. “He gives the deaf their hearing and the speechless their speech.”{q}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:3",
+     "text": "Thoroughly: Greek *pygmē*, literally “with the fist,” a phrase of uncertain meaning: perhaps “with a cupped hand,” “up to the wrist,” or “carefully.”"
+    },
+    {
+     "m": "b",
+     "ref": "7:4",
+     "text": "Purify themselves: literally “sprinkle themselves” (*rhantisōntai*, the reading of Sinaiticus, Vaticanus and Westcott–Hort); most manuscripts read “wash” or “immerse themselves” (*baptisōntai*)."
+    },
+    {
+     "m": "c",
+     "ref": "7:4",
+     "text": "Copper kettles: many manuscripts add “and dining couches”; the Westcott–Hort text lacks the words."
+    },
+    {
+     "m": "d",
+     "ref": "7:7",
+     "text": "Isa 29:13, in the wording of the Greek Old Testament."
+    },
+    {
+     "m": "e",
+     "ref": "7:9",
+     "text": "Keep: or “establish” (Greek *stēsēte*, the reading of some manuscripts); the Westcott–Hort text reads *tērēsēte*, “keep.”"
+    },
+    {
+     "m": "f",
+     "ref": "7:10",
+     "text": "Exod 20:12; Deut 5:16; Exod 21:17; Lev 20:9."
+    },
+    {
+     "m": "g",
+     "ref": "7:11",
+     "text": "Corban: Hebrew *qorban*, “offering,” a gift dedicated to God and so withdrawn from ordinary use; the vow could be used to deny support to one’s parents."
+    },
+    {
+     "m": "h",
+     "ref": "7:16",
+     "text": "Verse 16 is lacking in the Westcott–Hort text, with Sinaiticus, Vaticanus and other early witnesses. Many later manuscripts add, “If anyone has ears to hear, let that person hear” (compare 4:9, 23)."
+    },
+    {
+     "m": "i",
+     "ref": "7:19",
+     "text": "He declared all foods clean: literally “cleansing all foods.” The words are best taken as Mark’s comment. Most later manuscripts read the neuter *katharizon*, which would attach the phrase to the latrine (“which purges all foods”)."
+    },
+    {
+     "m": "j",
+     "ref": "7:22",
+     "text": "Envy: literally “an evil eye.”"
+    },
+    {
+     "m": "k",
+     "ref": "7:24",
+     "text": "Tyre [and Sidon]: the words “and Sidon” are bracketed in the Westcott–Hort text; Codex Bezae and some other manuscripts lack them, possibly because they came in from Matt 15:21."
+    },
+    {
+     "m": "l",
+     "ref": "7:26",
+     "text": "Greek-speaking Gentile: literally “Greek,” meaning a non-Jew."
+    },
+    {
+     "m": "m",
+     "ref": "7:26",
+     "text": "Syrian Phoenicia: Greek *Syrophoinikissa*, “Syrophoenician,” from Phoenicia, which belonged to the Roman province of Syria, as distinct from Libyan Phoenicia (Carthage)."
+    },
+    {
+     "m": "n",
+     "ref": "7:28",
+     "text": "Lord: or “Sir”; Greek *kyrie* was also a polite form of address."
+    },
+    {
+     "m": "o",
+     "ref": "7:31",
+     "text": "Many later manuscripts read “Leaving the region of Tyre and Sidon, he came to the Sea of Galilee.”"
+    },
+    {
+     "m": "p",
+     "ref": "7:34",
+     "text": "Compare Isa 35:5–6."
+    },
+    {
+     "m": "q",
+     "ref": "7:37",
+     "text": "Ephphatha: Aramaic, probably *ethpattach* (or *ephattach*), “be opened,” transliterated in Greek."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    11,
+    14,
+    22,
+    27,
+    31,
+    34
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "About that time another vast crowd had collected, and they had nothing to eat. Jesus called his disciples to him and said,"
+    },
+    {
+     "v": 2,
+     "text": "“My heart goes out to these people. They have been with me for three days now and have nothing left to eat."
+    },
+    {
+     "v": 3,
+     "text": "If I send them home hungry, they will faint on the way—and some of them have come a long distance.”"
+    },
+    {
+     "v": 4,
+     "text": "His disciples answered, “Where could anyone get enough bread out here in the wilds to satisfy these people?”"
+    },
+    {
+     "v": 5,
+     "text": "“How many loaves do you have?” he asked. “Seven,” they said."
+    },
+    {
+     "v": 6,
+     "text": "He directed the crowd to sit down on the ground. Then he took the seven loaves, gave thanks, broke them, and handed them to his disciples to distribute, and they served them to the crowd."
+    },
+    {
+     "v": 7,
+     "text": "They also had a few small fish; after blessing them, he told the disciples to serve these too."
+    },
+    {
+     "v": 8,
+     "text": "The people ate their fill, and they gathered up seven large baskets{a} of leftover pieces."
+    },
+    {
+     "v": 9,
+     "text": "About four thousand were there. Then he sent them on their way."
+    },
+    {
+     "v": 10,
+     "text": "Right away he boarded the boat together with his disciples and came into the parts of Dalmanutha.{b}"
+    },
+    {
+     "v": 11,
+     "text": "Out came the Pharisees and began disputing with him, asking him for a heavenly sign as a way of testing him."
+    },
+    {
+     "v": 12,
+     "text": "He sighed deeply in his spirit and said, “Why does this generation look for a sign? Amen, I tell you, no sign will be given to this generation.”{c}"
+    },
+    {
+     "v": 13,
+     "text": "Leaving them, he embarked once more and crossed to the opposite shore."
+    },
+    {
+     "v": 14,
+     "text": "Now the disciples had neglected to take any bread along; apart from a single loaf, they had none in the boat."
+    },
+    {
+     "v": 15,
+     "text": "Jesus warned them, “Watch out—be on your guard against the yeast of the Pharisees and the yeast of Herod.”{d}"
+    },
+    {
+     "v": 16,
+     "text": "They kept saying to each other that it was because they were without bread."
+    },
+    {
+     "v": 17,
+     "text": "Jesus knew what they were saying and asked, “Why talk about being out of bread? Do you not yet perceive or comprehend? Have your hearts grown hard?"
+    },
+    {
+     "v": 18,
+     "text": "You have eyes—can you not see? You have ears—can you not hear?{e} And do you not remember?"
+    },
+    {
+     "v": 19,
+     "text": "At the breaking of the five loaves for the five thousand, how many basketfuls of leftovers did you pick up?” They replied, “Twelve.”"
+    },
+    {
+     "v": 20,
+     "text": "“And at the seven for the four thousand, how many hampers of leftovers did you fill?” “Seven,” they answered."
+    },
+    {
+     "v": 21,
+     "text": "“Even now you fail to understand?” he said to them."
+    },
+    {
+     "v": 22,
+     "text": "They came to Bethsaida, and some people brought a blind man to him and begged him to touch him."
+    },
+    {
+     "v": 23,
+     "text": "He took the blind man by the hand and led him out of the village. When he had spat on his eyes and laid his hands on him, he asked him, “Do you see anything?”"
+    },
+    {
+     "v": 24,
+     "text": "Looking up, the man said, “I can see people—they look to me like trees moving about.”"
+    },
+    {
+     "v": 25,
+     "text": "Then Jesus once more placed his hands on the man’s eyes. He looked intently, his sight was restored, and he saw everything clearly."
+    },
+    {
+     "v": 26,
+     "text": "Jesus sent him home, saying, “Do not even go into the village.”{f}"
+    },
+    {
+     "v": 27,
+     "text": "Then Jesus went out with his disciples to the villages near Caesarea Philippi,{g} and as they traveled he put a question to them: “Who do people say that I am?”"
+    },
+    {
+     "v": 28,
+     "text": "They answered him, “John the Baptizer; others say Elijah; and still others, one of the prophets.”"
+    },
+    {
+     "v": 29,
+     "text": "He asked them, “But you—who do you say I am?” Peter answered him, “You are the Messiah.”{h}"
+    },
+    {
+     "v": 30,
+     "text": "And he warned them sternly not to tell anyone about him."
+    },
+    {
+     "v": 31,
+     "text": "Then he began to teach them that the Son of Man must suffer many things and be rejected by the elders, the chief priests, and the scribes, and be put to death, and after three days rise again."
+    },
+    {
+     "v": 32,
+     "text": "He was speaking about this quite openly. Peter took him aside and began to rebuke him."
+    },
+    {
+     "v": 33,
+     "text": "But Jesus, turning and looking at his disciples, rebuked Peter. “Get behind me, Satan!”{i} he said. “Your mind is not on God’s concerns but on human ones.”"
+    },
+    {
+     "v": 34,
+     "text": "He called the crowd to him along with his disciples and said to them, “If anyone wants to follow after me, he must disown himself, take up his cross, and follow me."
+    },
+    {
+     "v": 35,
+     "text": "Anyone set on saving his life{j} will lose it; but if someone loses his life on account of me and the gospel, that person will keep it safe.{k}"
+    },
+    {
+     "v": 36,
+     "text": "What good does it do a person to gain the whole world and forfeit his life?"
+    },
+    {
+     "v": 37,
+     "text": "Indeed, what can a person give in exchange for his life?"
+    },
+    {
+     "v": 38,
+     "text": "If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will also be ashamed of that person when he comes in the glory of his Father with the holy angels.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:8",
+     "text": "Large baskets: Greek *spyris*, a large woven basket or hamper, distinct from the smaller *kophinos* of 6:43 (compare 8:19–20)."
+    },
+    {
+     "m": "b",
+     "ref": "8:10",
+     "text": "Dalmanutha: an unknown place, apparently on the western shore of the lake. Some manuscripts read “Magadan” or “Magdala” (compare Matt 15:39)."
+    },
+    {
+     "m": "c",
+     "ref": "8:12",
+     "text": "No sign will be given: literally “if a sign will be given,” a Hebrew form of oath meaning “certainly not.”"
+    },
+    {
+     "m": "d",
+     "ref": "8:15",
+     "text": "Yeast of Herod: P45 (as reported), Koridethi (Θ) and some others read “the yeast of the Herodians.”"
+    },
+    {
+     "m": "e",
+     "ref": "8:18",
+     "text": "Jer 5:21; Ezek 12:2."
+    },
+    {
+     "m": "f",
+     "ref": "8:26",
+     "text": "Do not even go into the village: many manuscripts add “or tell anyone in the village.”"
+    },
+    {
+     "m": "g",
+     "ref": "8:27",
+     "text": "Caesarea Philippi: a city near the sources of the Jordan, rebuilt by the tetrarch Philip and named in honor of Caesar Augustus and himself."
+    },
+    {
+     "m": "h",
+     "ref": "8:29",
+     "text": "Messiah: Greek *Christos*, “anointed one.”"
+    },
+    {
+     "m": "i",
+     "ref": "8:33",
+     "text": "Satan: Hebrew, “adversary.” Peter is acting as an adversary, opposing God’s purpose."
+    },
+    {
+     "m": "j",
+     "ref": "8:35",
+     "text": "Life: Greek *psychē*, “life,” “soul,” “self”; so in verses 35–37."
+    },
+    {
+     "m": "k",
+     "ref": "8:35",
+     "text": "On account of me and the gospel: the words “me and” are bracketed in the Westcott–Hort text; P45 (as reported) and Codex Bezae lack them."
+    }
+   ]
+  }
+ ]
+}

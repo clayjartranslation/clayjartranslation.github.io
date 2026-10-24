@@ -1689,8 +1689,17 @@
    "name": "Mark",
    "division": "New Testament",
    "chapterCount": 16,
-   "translated": [],
-   "file": null
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "file": "data/books/mark.json"
   },
   {
    "id": "luke",
