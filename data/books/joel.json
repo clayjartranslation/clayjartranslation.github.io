@@ -1,0 +1,479 @@
+{
+ "id": "joel",
+ "name": "Joel",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew Masoretic Text as given in the Westminster Leningrad Codex (Open Scriptures Hebrew Bible edition), with the Septuagint (Old Greek) consulted. The date of Joel is uncertain; the book names no king, and proposals range from the ninth century to the fourth century BC, with many scholars favoring the Persian period. Among the Dead Sea Scrolls, as reported in the published editions, parts of Joel survive in the Qumran manuscripts of the Twelve Prophets (4QXII-c and others) and in the Wadi Murabbaʿat scroll of the Twelve (Mur 88); the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr) is not reported to preserve Joel. These witnesses generally support the Masoretic Text. Verse numbers follow the standard English numbering. The Hebrew text divides the book into four chapters: English 2:28–32 is Hebrew 3:1–5, and English 3:1–21 is Hebrew 4:1–21.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    5,
+    13,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The word of Yahweh that came to Joel{a} son of Pethuel."
+    },
+    {
+     "v": 2,
+     "text": "Hear this, you elders;\nlisten, all who dwell in the land!\nHas anything like this happened in your days,\nor in the days of your fathers?"
+    },
+    {
+     "v": 3,
+     "text": "Recount it to your children,\nand let your children recount it to theirs,\nand their children to the generation after."
+    },
+    {
+     "v": 4,
+     "text": "What the cutter left, the swarmer has eaten;\nwhat the swarmer left, the hopper has eaten;\nand what the hopper left, the stripper has eaten.{b}"
+    },
+    {
+     "v": 5,
+     "text": "Wake up, you drunkards, and weep;\nwail, all you who drink wine,\nover the sweet wine,\nfor it is snatched from your mouth."
+    },
+    {
+     "v": 6,
+     "text": "For a nation has come up against my land,\nmighty and past counting;\nits teeth are a lion’s teeth,\nand it has the fangs of a lioness."
+    },
+    {
+     "v": 7,
+     "text": "It has turned my vine into a waste\nand splintered my fig tree;\nit has peeled it bare and thrown it down;\nits branches are bleached white."
+    },
+    {
+     "v": 8,
+     "text": "Wail like a young woman{c} dressed in sackcloth\nfor the husband of her youth."
+    },
+    {
+     "v": 9,
+     "text": "Grain offering and drink offering are cut off\nfrom the house of Yahweh.\nThe priests mourn,\nthe ministers of Yahweh."
+    },
+    {
+     "v": 10,
+     "text": "The fields are ruined;\nthe ground mourns;\nfor the grain is destroyed,\nthe new wine dries up,\nthe oil fails."
+    },
+    {
+     "v": 11,
+     "text": "Hang your heads, you tillers of the soil;\nhowl, you who tend the vines,\nfor wheat and for barley,\nsince the field’s harvest is lost."
+    },
+    {
+     "v": 12,
+     "text": "The vine has withered;\nthe fig tree droops;\npomegranate, palm, and apple,{d}\nevery tree of the field is dried up;\nand gladness has withered away\nfrom the children of mankind."
+    },
+    {
+     "v": 13,
+     "text": "Gird on sackcloth and beat your breasts, you priests;\nhowl, you servants of the altar.\nCome, lie all night in sackcloth,\nyou who serve my God!\nFor grain offering and drink offering\nare kept back from your God’s house."
+    },
+    {
+     "v": 14,
+     "text": "Set apart a fast;\ncall a solemn assembly.\nGather the elders\nand all who live in the land\nto the house of Yahweh your God,\nand cry out to Yahweh."
+    },
+    {
+     "v": 15,
+     "text": "Alas for the day!\nFor the day of Yahweh is near,\nand as destruction from the Almighty it comes.{e}"
+    },
+    {
+     "v": 16,
+     "text": "Is not the food cut off\nbefore our very eyes,\njoy and gladness\nfrom the house of our God?"
+    },
+    {
+     "v": 17,
+     "text": "The seeds shrivel beneath the clods;{f}\nthe storehouses are desolate;\nthe granaries are torn down,\nfor the grain has dried up."
+    },
+    {
+     "v": 18,
+     "text": "How the beasts groan!\nThe herds of cattle wander in confusion\nbecause they have no pasture;\neven the flocks of sheep are made to suffer.{g}"
+    },
+    {
+     "v": 19,
+     "text": "To you, Yahweh, I call,\nfor fire has consumed\nthe pastures of the wilderness,\nand flame has scorched\nall the trees of the field."
+    },
+    {
+     "v": 20,
+     "text": "Even the wild beasts pant for you,\nfor the streams of water have dried up,\nand fire has consumed\nthe pastures of the wilderness."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "The name means “Yahweh is God.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:4",
+     "text": "Four Hebrew words for locusts (gazam, ʾarbeh, yeleq, ḥasil), perhaps different species or stages of growth, perhaps simply poetic synonyms; the renderings here follow their probable root meanings. Compare 2:25."
+    },
+    {
+     "m": "c",
+     "ref": "1:8",
+     "text": "Hebrew bethulah, often “virgin,” here probably a young bride whose husband has died before or soon after the marriage."
+    },
+    {
+     "m": "d",
+     "ref": "1:12",
+     "text": "Hebrew tappuaḥ, perhaps the apricot or quince."
+    },
+    {
+     "m": "e",
+     "ref": "1:15",
+     "text": "There is a wordplay in Hebrew: keshod mishshadday, “like destruction (shod) from Shaddai.” Compare Isaiah 13:6."
+    },
+    {
+     "m": "f",
+     "ref": "1:17",
+     "text": "The Hebrew of this line contains three words found nowhere else, and its meaning is uncertain."
+    },
+    {
+     "m": "g",
+     "ref": "1:18",
+     "text": "Or “bear the guilt.” The Septuagint reads “have perished.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    12,
+    15,
+    18,
+    21,
+    28
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Blow the horn in Zion;\nsound the alarm on my holy mountain!\nLet all who live in the land tremble,\nfor the day of Yahweh is coming; it is near—"
+    },
+    {
+     "v": 2,
+     "text": "a day of darkness and deep gloom,\na day of cloud and heavy darkness!\nLike the dawn spread upon the mountains\na people comes, vast and strong;\nthere has never been anything like it from ancient times,\nnor will there be again after it\nfor years, from generation to generation."
+    },
+    {
+     "v": 3,
+     "text": "Before it fire devours,\nand behind it a flame blazes.\nThe land before it is like the garden of Eden,\nand behind it a desolate wilderness;\nnothing escapes it."
+    },
+    {
+     "v": 4,
+     "text": "They look like horses,{a}\nand they gallop like steeds of war."
+    },
+    {
+     "v": 5,
+     "text": "With a noise like chariots\nthey leap on the mountaintops,\nlike the crackle of a flame of fire\nconsuming stubble,\nlike a mighty people\ndrawn up for battle."
+    },
+    {
+     "v": 6,
+     "text": "Before them peoples writhe in anguish;\nevery face grows pale.{b}"
+    },
+    {
+     "v": 7,
+     "text": "Like mighty men they run;\nlike men of war they climb the wall.\nThey march each in his own line;\nthey do not break their ranks."
+    },
+    {
+     "v": 8,
+     "text": "None crowds his neighbor;\neach goes in his own path.\nThrough the weapons{c} they burst\nand do not break off."
+    },
+    {
+     "v": 9,
+     "text": "Upon the city they spring;\nalong the wall they run;\ninto the houses they climb;\nin through the windows they come like a thief."
+    },
+    {
+     "v": 10,
+     "text": "The earth quakes before them;\nthe heavens shake.\nSun and moon grow dark,\nand the stars withdraw their shining."
+    },
+    {
+     "v": 11,
+     "text": "Yahweh utters his voice\nbefore his army,\nfor his host is exceedingly great;\nmighty is he who carries out his word.\nFor the day of Yahweh is great and very fearsome;\nwho can endure it?"
+    },
+    {
+     "v": 12,
+     "text": "“Yet even now,” declares Yahweh,\n“turn back to me with your whole heart,\nwith fasting, with weeping, and with mourning.”"
+    },
+    {
+     "v": 13,
+     "text": "Rend your heart and not your garments,\nand turn back to Yahweh your God;\nfor he is gracious and merciful,\nslow to anger and great in steadfast love,\nand he repents of the harm.{d}"
+    },
+    {
+     "v": 14,
+     "text": "Who knows whether he will turn and relent\nand leave a blessing behind him,\na grain offering and a drink offering\nfor Yahweh your God?"
+    },
+    {
+     "v": 15,
+     "text": "Blow the horn in Zion;\nset apart a fast;\ncall a solemn assembly;"
+    },
+    {
+     "v": 16,
+     "text": "gather the people.\nMake the assembly holy;\nbring together the elders;\ngather the little ones,\neven babies who nurse at the breast.\nLet the bridegroom come out of his chamber,\nand the bride from her canopy."
+    },
+    {
+     "v": 17,
+     "text": "Between the porch and the altar{e}\nlet the priests who serve Yahweh weep\nand say, “Have pity on your people, Yahweh,\nand do not give your inheritance over to reproach,\nfor the nations to mock.\nWhy should they say among the peoples,\n‘Where is their God?’ ”"
+    },
+    {
+     "v": 18,
+     "text": "Then Yahweh was zealous for his land\nand had compassion on his people."
+    },
+    {
+     "v": 19,
+     "text": "Yahweh answered and said to his people,\n“Look, I am sending you\ngrain, new wine, and oil,\nand you will be filled with them;\nand I will no more make you\na reproach among the nations."
+    },
+    {
+     "v": 20,
+     "text": "The northerner I will drive far from you,\nbanish him into a land dry and desolate,\nhis front ranks into the eastern sea,\nhis hindmost into the western sea.{f}\nHis stink will go up,\nhis reek will rise,\nfor he has done great things."
+    },
+    {
+     "v": 21,
+     "text": "Do not be afraid, O land;\nbe glad and rejoice,\nfor Yahweh has done great things!"
+    },
+    {
+     "v": 22,
+     "text": "Do not be afraid, you beasts of the field,\nfor the pastures of the wilderness are green;\nthe tree bears its fruit;\nfig tree and vine yield their full strength."
+    },
+    {
+     "v": 23,
+     "text": "Be glad, children of Zion,\nand rejoice in Yahweh your God,\nfor he has given you the early rain in righteousness;{g}\nhe has poured down showers for you,\nthe early and the latter rain, as before."
+    },
+    {
+     "v": 24,
+     "text": "The threshing floors will be full of grain,\nand the vats will overflow with new wine and oil."
+    },
+    {
+     "v": 25,
+     "text": "I will repay you for the years\nthat the swarmer has eaten,\nthe hopper, the stripper, and the cutter,{h}\nmy great army, which I sent among you."
+    },
+    {
+     "v": 26,
+     "text": "You will eat your fill and be satisfied,\nand praise the name of Yahweh your God,\nwho has dealt wondrously with you.\nAnd my people will never again be put to shame."
+    },
+    {
+     "v": 27,
+     "text": "You will know that I am in the midst of Israel,\nand that I am Yahweh your God, and there is no other.\nAnd my people will never again be put to shame."
+    },
+    {
+     "v": 28,
+     "text": "“And afterward{i}\nI will pour out my Spirit on all flesh;\nyour sons and your daughters will prophesy;\nyour old men will dream dreams,\nand your young men will see visions."
+    },
+    {
+     "v": 29,
+     "text": "Even on male and female slaves\nin those days I will pour out my Spirit."
+    },
+    {
+     "v": 30,
+     "text": "I will show wonders in the heavens and on the earth:\nblood and fire and columns of smoke."
+    },
+    {
+     "v": 31,
+     "text": "The sun will be turned to darkness\nand the moon to blood,\nbefore the day of Yahweh comes,\nthe great and fearsome day."
+    },
+    {
+     "v": 32,
+     "text": "And everyone who calls on the name of Yahweh\nwill be saved.{j}\nFor on Mount Zion and in Jerusalem\nthere will be those who escape,\nas Yahweh has said,\nand among the survivors\nthose whom Yahweh calls.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:4",
+     "text": "The head of a locust resembles that of a horse; compare Revelation 9:7–9. Whether chapter 2 describes a second locust plague, an invading army pictured as locusts, or the apocalyptic army of the day of Yahweh is debated."
+    },
+    {
+     "m": "b",
+     "ref": "2:6",
+     "text": "Or “gathers a glow”; the Hebrew is uncertain (compare Nahum 2:10)."
+    },
+    {
+     "m": "c",
+     "ref": "2:8",
+     "text": "Or “through the water channels.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:13",
+     "text": "Compare Exodus 34:6–7; Jonah 4:2."
+    },
+    {
+     "m": "e",
+     "ref": "2:17",
+     "text": "That is, in the court of the priests, between the entrance porch of the temple and the altar of burnt offering."
+    },
+    {
+     "m": "f",
+     "ref": "2:20",
+     "text": "The eastern sea is the Dead Sea; the western sea is the Mediterranean."
+    },
+    {
+     "m": "g",
+     "ref": "2:23",
+     "text": "Or “the teacher of righteousness.” The Hebrew hammoreh can mean either “the early rain” or “the teacher”; the second sense was taken up at Qumran, whose leader was called “the Teacher of Righteousness.” The early rain falls in October–November; the latter rain in March–April."
+    },
+    {
+     "m": "h",
+     "ref": "2:25",
+     "text": "See the note at 1:4."
+    },
+    {
+     "m": "i",
+     "ref": "2:28",
+     "text": "Verses 28–32 are 3:1–5 in the Hebrew text. Peter quotes them at Pentecost (Acts 2:17–21), following the Septuagint with some changes (“in the last days,” and “my servants … my maidservants” in verse 29). Compare also Numbers 11:29."
+    },
+    {
+     "m": "j",
+     "ref": "2:32",
+     "text": "Quoted in Romans 10:13, where Paul applies “the name of the Lord” to Jesus."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    4,
+    9,
+    14,
+    17,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“For look, in those days and at that time,\nwhen I restore the fortunes of Judah and Jerusalem,{a}"
+    },
+    {
+     "v": 2,
+     "text": "I will assemble all the nations\nand lead them down into the Valley of Jehoshaphat.{b}\nThere I will go to law with them\nfor my people and my inheritance Israel,\nwhom they dispersed among the nations;\nand they parceled out my land."
+    },
+    {
+     "v": 3,
+     "text": "They cast lots for my people,\ntraded a boy for a prostitute,\nand sold a girl for wine, and drank it."
+    },
+    {
+     "v": 4,
+     "text": "“What are you to me, Tyre and Sidon, and all the regions of Philistia? Are you repaying me for something? If you are repaying me, swiftly and speedily I will turn your deeds back on your own heads."
+    },
+    {
+     "v": 5,
+     "text": "For you took my silver and my gold and carried my rich treasures into your temples.{c}"
+    },
+    {
+     "v": 6,
+     "text": "The people of Judah and of Jerusalem you have sold off to the Greeks,{d} to remove them far from their own borders."
+    },
+    {
+     "v": 7,
+     "text": "Look, I am going to rouse them from the place to which you sold them, and turn your deeds back on your own heads."
+    },
+    {
+     "v": 8,
+     "text": "I will sell your sons and your daughters into the hand of the people of Judah, and they will sell them to the Sabeans,{e} to a nation far away; for Yahweh has spoken.”"
+    },
+    {
+     "v": 9,
+     "text": "Proclaim this among the nations:\nPrepare for war;{f}\nstir up the warriors.\nLet all the fighting men draw near;\nlet them come up."
+    },
+    {
+     "v": 10,
+     "text": "Hammer your plowshares into swords\nand your pruning hooks into spears;{g}\nlet the weakling say, “I am a warrior.”"
+    },
+    {
+     "v": 11,
+     "text": "Hurry and come, all you nations round about;\ngather yourselves there.\nBring down your warriors, Yahweh!"
+    },
+    {
+     "v": 12,
+     "text": "Let the nations rouse themselves\nand come up to the Valley of Jehoshaphat;\nfor there I will sit to judge\nall the nations round about."
+    },
+    {
+     "v": 13,
+     "text": "Put in the sickle,\nfor the harvest is ripe.\nCome, tread,\nfor the winepress is full.\nThe vats overflow,\nfor their wickedness is great.{h}"
+    },
+    {
+     "v": 14,
+     "text": "Multitudes, multitudes\nin the valley of decision!\nFor the day of Yahweh is near\nin the valley of decision."
+    },
+    {
+     "v": 15,
+     "text": "Sun and moon grow dark,\nand the stars withdraw their shining."
+    },
+    {
+     "v": 16,
+     "text": "Yahweh roars from Zion\nand utters his voice from Jerusalem,\nand the heavens and the earth shake.\nBut Yahweh is a refuge for his people,\na stronghold for the children of Israel."
+    },
+    {
+     "v": 17,
+     "text": "“So you will know that I am Yahweh your God,\ndwelling in Zion, my holy mountain.\nJerusalem will be holy,\nand strangers will never again pass through it."
+    },
+    {
+     "v": 18,
+     "text": "“On that day\nthe mountains will drip sweet wine,\nand the hills will flow with milk,\nand all the streambeds of Judah\nwill flow with water.\nA fountain will come out from the house of Yahweh\nand water the Valley of Shittim.{i}"
+    },
+    {
+     "v": 19,
+     "text": "Egypt will be made a desolation,\nEdom a wasted wilderness,\nbecause of the violence against Judah’s people,\nwhose innocent blood they shed in their land."
+    },
+    {
+     "v": 20,
+     "text": "But Judah will be inhabited forever,\nand Jerusalem from generation to generation."
+    },
+    {
+     "v": 21,
+     "text": "I will avenge their blood,\nwhich I have not yet avenged;{j}\nfor Yahweh dwells in Zion.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Chapter 3 is chapter 4 in the Hebrew text."
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "The name means “Yahweh judges” (compare “the valley of decision” in verse 14). Since at least the fourth century AD it has been identified with the Kidron Valley east of Jerusalem, but the name may be symbolic."
+    },
+    {
+     "m": "c",
+     "ref": "3:5",
+     "text": "Or “palaces.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:6",
+     "text": "Hebrew “the sons of the Yevanim,” the Ionians (compare Daniel 8:21)."
+    },
+    {
+     "m": "e",
+     "ref": "3:8",
+     "text": "The people of Sheba in southwest Arabia, traders on the incense routes."
+    },
+    {
+     "m": "f",
+     "ref": "3:9",
+     "text": "Hebrew “Sanctify war,” since battle was begun with religious rites."
+    },
+    {
+     "m": "g",
+     "ref": "3:10",
+     "text": "The reverse of Isaiah 2:4 and Micah 4:3."
+    },
+    {
+     "m": "h",
+     "ref": "3:13",
+     "text": "Compare Revelation 14:14–20."
+    },
+    {
+     "m": "i",
+     "ref": "3:18",
+     "text": "The name means “acacias.” Perhaps the dry wadi running from Jerusalem toward the Dead Sea (compare Ezekiel 47:1–12; Zechariah 14:8)."
+    },
+    {
+     "m": "j",
+     "ref": "3:21",
+     "text": "Or “I will declare innocent their blood that I had not declared innocent.” The Septuagint and Syriac read “I will avenge their blood and will not leave it unpunished.”"
+    }
+   ]
+  }
+ ]
+}
