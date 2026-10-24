@@ -1,0 +1,1638 @@
+{
+ "id": "romans",
+ "name": "Romans",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), in the public-domain electronic edition of Maurice A. Robinson, with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. The earliest substantial manuscript of Paul’s letters is P46 (Chester Beatty papyrus, usually dated about AD 200), which contains most of Romans 5–16; its readings, like those of other manuscripts, are reported from the standard editions and have not been verified against the manuscripts. The letter’s ending circulated in several forms: the closing doxology (16:25–27) stands at the end of chapter 16 in the earliest manuscripts, after 14:23 in most later ones, after 15:33 in P46, in both places in some, and nowhere in others; some evidence suggests a fourteen-chapter or fifteen-chapter form of the letter (see the notes at 14:23, 15:33, 16:24 and 16:25). A verse absent from the earliest manuscripts (16:24) keeps its traditional number, with its text given in a note. Greek *kyrios* is rendered “Lord”; where it stands for the divine name in an Old Testament quotation, a note says so. Old Testament quotations are translated afresh from Paul’s Greek, with the source given in a note. Greek *Christos* is usually rendered “Christ,” as part of Jesus’ name, and “Messiah” where it is clearly a title (9:5). Greek *adelphoi*, “brothers,” addresses the whole congregation, women and men. The letter is undisputedly Paul’s, written through Tertius (16:22), probably from Corinth about AD 56–57, before his final journey to Jerusalem (15:25).",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    8,
+    16,
+    18,
+    24,
+    26,
+    28
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "From Paul,{a} slave{b} of Christ Jesus,{c} an apostle by calling, set apart for God’s gospel{d}"
+    },
+    {
+     "v": 2,
+     "text": "the gospel God promised beforehand through his prophets in holy writings,"
+    },
+    {
+     "v": 3,
+     "text": "concerning his Son, who as to the flesh was born from the seed of David,"
+    },
+    {
+     "v": 4,
+     "text": "and who was designated Son of God in power according to the Spirit of holiness{e} by resurrection from the dead: Jesus Christ our Lord."
+    },
+    {
+     "v": 5,
+     "text": "Through him we received grace and the office of apostle, to win the obedience of faith{f} among all the Gentiles on behalf of his name;"
+    },
+    {
+     "v": 6,
+     "text": "and among them are you also, called to belong to Jesus Christ."
+    },
+    {
+     "v": 7,
+     "text": "To all who are in Rome,{g} beloved of God, called to be saints:{h} grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+     "v": 8,
+     "text": "First, I thank my God through Jesus Christ for all of you, because the report of your faith is spreading through the whole world."
+    },
+    {
+     "v": 9,
+     "text": "For God, whom I serve in my spirit in the gospel of his Son, is my witness how without ceasing I make mention of you,"
+    },
+    {
+     "v": 10,
+     "text": "always asking in my prayers that somehow, at last, by God’s will I may succeed in coming to you."
+    },
+    {
+     "v": 11,
+     "text": "For I long to see you, to share with you some spiritual gift so that you may be made firm;"
+    },
+    {
+     "v": 12,
+     "text": "or rather, that we may be encouraged together among you, each by the other’s faith, both yours and mine."
+    },
+    {
+     "v": 13,
+     "text": "Brothers,{i} I want you to know that many a time I have planned to come to you, though up to now I have been hindered, in order to gather some fruit among you as well, just as among the other Gentiles."
+    },
+    {
+     "v": 14,
+     "text": "To Greeks and to barbarians,{j} to the wise and to the foolish, I am a debtor;"
+    },
+    {
+     "v": 15,
+     "text": "so, for my part, I am eager to preach the gospel to you also who are in Rome."
+    },
+    {
+     "v": 16,
+     "text": "I am not ashamed of the gospel,{k} for it is the power of God bringing salvation to all who believe, the Jew first{l} and the Greek as well."
+    },
+    {
+     "v": 17,
+     "text": "For in it the righteousness of God{m} is revealed from faith to faith; as it is written, “The one who is righteous by faith will live.”{n}"
+    },
+    {
+     "v": 18,
+     "text": "For God’s wrath is being revealed from heaven against all ungodliness and wickedness of people who by their wickedness hold down the truth."
+    },
+    {
+     "v": 19,
+     "text": "because what may be known of God lies open before them; God himself has shown it to them."
+    },
+    {
+     "v": 20,
+     "text": "From the world’s creation onward, the unseen things of God, his everlasting power and godhead, are discerned and grasped through what he has made, leaving them without defense."
+    },
+    {
+     "v": 21,
+     "text": "For although they knew God, they did not glorify him as God or give thanks, but became futile in their reasonings, and their senseless heart was darkened."
+    },
+    {
+     "v": 22,
+     "text": "Claiming to be wise, they became fools,"
+    },
+    {
+     "v": 23,
+     "text": "and exchanged the glory of the immortal God for a likeness in the shape of mortal man and of birds and four-footed beasts and creeping things."
+    },
+    {
+     "v": 24,
+     "text": "That is why God handed them over, in their hearts’ desires, to uncleanness, so that their bodies were degraded among them."
+    },
+    {
+     "v": 25,
+     "text": "They exchanged the truth of God for the lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen."
+    },
+    {
+     "v": 26,
+     "text": "For this reason God gave them up to dishonorable passions. Their females exchanged natural relations for those contrary to nature;"
+    },
+    {
+     "v": 27,
+     "text": "and likewise also the males, giving up natural relations with females, were inflamed in their lust for one another, males with males committing shameless acts and receiving in their own persons the due penalty for their error."
+    },
+    {
+     "v": 28,
+     "text": "And since they did not see fit to keep God in their knowledge, God gave them up to an unfit mind,{o} to do what ought not to be done."
+    },
+    {
+     "v": 29,
+     "text": "They have been filled with every kind of wickedness, evil, greed, malice; they are full of envy, murder, strife, deceit, spite. They are gossips,"
+    },
+    {
+     "v": 30,
+     "text": "slanderers, haters of God,{p} insolent, arrogant, boastful, inventors of evil, disobedient to parents,"
+    },
+    {
+     "v": 31,
+     "text": "senseless, faithless,{q} heartless, ruthless.{r}"
+    },
+    {
+     "v": 32,
+     "text": "They know well God’s decree that people who do such things are worthy of death; yet they do them, and what is more, they approve of others who do them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Paul: Latin *Paulus*, “small”; his Jewish name was Saul (Acts 13:9)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Slave: Greek *doulos*, a slave or bondservant; also used of God’s servants such as Moses and the prophets."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Christ Jesus: *Christ* (Greek *Christos*) means “Anointed One,” the equivalent of Hebrew *Mashiach*, “Messiah.” In Paul’s letters it usually functions as part of Jesus’ name. Some manuscripts read “Jesus Christ.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "Gospel: Greek *euangelion*, “good news.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:4",
+     "text": "Spirit of holiness: probably the Holy Spirit, though some understand Jesus’ own holy spirit."
+    },
+    {
+     "m": "f",
+     "ref": "1:5",
+     "text": "The obedience of faith: either “the obedience that consists in faith” or “the obedience that comes from faith.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:7",
+     "text": "In Rome: a few witnesses, including Codex Boernerianus (G) and some early writers (as reported), lack “in Rome” here and in 1:15, perhaps because the letter circulated more generally."
+    },
+    {
+     "m": "h",
+     "ref": "1:7",
+     "text": "Saints: Greek *hagioi*, “holy ones,” those set apart for God; Paul’s usual term for believers."
+    },
+    {
+     "m": "i",
+     "ref": "1:13",
+     "text": "Brothers: Greek *adelphoi*, used by Paul of fellow believers, women and men alike."
+    },
+    {
+     "m": "j",
+     "ref": "1:14",
+     "text": "Barbarians: non-Greek-speaking peoples."
+    },
+    {
+     "m": "k",
+     "ref": "1:16",
+     "text": "The gospel: many later manuscripts read “the gospel of Christ.”"
+    },
+    {
+     "m": "l",
+     "ref": "1:16",
+     "text": "First: bracketed in the Westcott–Hort text; Vaticanus and Codex Boernerianus (as reported) lack it."
+    },
+    {
+     "m": "m",
+     "ref": "1:17",
+     "text": "The righteousness of God: either God’s own righteousness (his saving justice and faithfulness) or the righteous standing that God gives."
+    },
+    {
+     "m": "n",
+     "ref": "1:17",
+     "text": "Hab 2:4. Or “The righteous will live by faith.” The Hebrew text reads “by his faithfulness.”"
+    },
+    {
+     "m": "o",
+     "ref": "1:28",
+     "text": "An unfit mind: Greek *adokimon noun*, a wordplay with *edokimasan*, “they did not see fit.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:30",
+     "text": "Haters of God: or “hateful to God.”"
+    },
+    {
+     "m": "q",
+     "ref": "1:31",
+     "text": "Faithless: or “covenant-breakers,” “untrustworthy.”"
+    },
+    {
+     "m": "r",
+     "ref": "1:31",
+     "text": "Ruthless: many later manuscripts add “implacable.”"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    12,
+    17,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So you have no defense, whoever you are, O man, who sit in judgment. In judging the other person you pass sentence on yourself, since you who judge are doing those same things."
+    },
+    {
+     "v": 2,
+     "text": "We know that the judgment of God falls in accordance with truth on those who practice such things."
+    },
+    {
+     "v": 3,
+     "text": "O man, judging people who do such things while doing them yourself, do you really think you will escape God’s judgment?"
+    },
+    {
+     "v": 4,
+     "text": "Or do you think lightly of his rich goodness, his patience and long-suffering, unaware that the goodness of God is leading you toward repentance?"
+    },
+    {
+     "v": 5,
+     "text": "With your hard and unrepentant heart you are heaping up wrath against yourself for the day of wrath, the day God’s just judgment is unveiled."
+    },
+    {
+     "v": 6,
+     "text": "He “will give back to every person as his deeds deserve”:{a}"
+    },
+    {
+     "v": 7,
+     "text": "to those who by perseverance in good work seek glory and honor and immortality, eternal life;"
+    },
+    {
+     "v": 8,
+     "text": "but to those who are self-seeking{b} and disobey the truth but obey wickedness, wrath and fury."
+    },
+    {
+     "v": 9,
+     "text": "Trouble and anguish will come upon every human soul that works evil, upon the Jew first and the Greek as well;"
+    },
+    {
+     "v": 10,
+     "text": "but glory, honor and peace upon everyone who works what is good, upon the Jew first and the Greek as well."
+    },
+    {
+     "v": 11,
+     "text": "For God shows no partiality."
+    },
+    {
+     "v": 12,
+     "text": "All who have sinned without the law will also perish without the law, and all who have sinned under the law will be judged by the law."
+    },
+    {
+     "v": 13,
+     "text": "For it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified."
+    },
+    {
+     "v": 14,
+     "text": "Whenever Gentiles, who lack the law, do by nature what the law contains, these people, though they lack the law, are their own law."
+    },
+    {
+     "v": 15,
+     "text": "They display the law’s work inscribed on their hearts; their conscience adds its testimony, and their thoughts in turn accuse them or perhaps defend them,"
+    },
+    {
+     "v": 16,
+     "text": "on the day when God, as my gospel declares, judges people’s hidden things through Christ Jesus.{c}"
+    },
+    {
+     "v": 17,
+     "text": "Now you bear the name of Jew; you lean on the law; you make your boast in God;"
+    },
+    {
+     "v": 18,
+     "text": "you know his will and can tell what really matters,{d} being taught out of the law;"
+    },
+    {
+     "v": 19,
+     "text": "and if you are confident that you are a guide to the blind, a light to those in darkness,"
+    },
+    {
+     "v": 20,
+     "text": "an instructor of the foolish, a teacher of infants, possessing in the law the very shape of knowledge and truth."
+    },
+    {
+     "v": 21,
+     "text": "Well then, you who teach another, will you not teach yourself? You who proclaim, “Do not steal,” are you a thief?"
+    },
+    {
+     "v": 22,
+     "text": "You who say that one must not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?{e}"
+    },
+    {
+     "v": 23,
+     "text": "You who boast in the law, do you dishonor God by breaking the law?"
+    },
+    {
+     "v": 24,
+     "text": "For, as it is written, “The name of God is blasphemed among the Gentiles because of you.”{f}"
+    },
+    {
+     "v": 25,
+     "text": "Circumcision indeed is of value if you practice the law; but if you are a breaker of the law, your circumcision has become uncircumcision."
+    },
+    {
+     "v": 26,
+     "text": "If, then, an uncircumcised man observes the law’s just demands, will his lack of circumcision not be reckoned to him as circumcision?"
+    },
+    {
+     "v": 27,
+     "text": "Then the one who is physically uncircumcised but fulfills the law will judge you, who with the written code and circumcision are a breaker of the law."
+    },
+    {
+     "v": 28,
+     "text": "For a Jew is not one outwardly, nor is circumcision something outward in the flesh."
+    },
+    {
+     "v": 29,
+     "text": "No, the true Jew is one in secret, and true circumcision is of the heart, in the Spirit, not in the letter. Such a person’s praise{g} comes from God, not from people."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:6",
+     "text": "Ps 62:12; Prov 24:12."
+    },
+    {
+     "m": "b",
+     "ref": "2:8",
+     "text": "Self-seeking: Greek *eritheia*, selfish ambition or rivalry."
+    },
+    {
+     "m": "c",
+     "ref": "2:16",
+     "text": "Christ Jesus: some manuscripts read “Jesus Christ.” Verses 14–15 may be a parenthesis, with v. 16 continuing v. 13."
+    },
+    {
+     "m": "d",
+     "ref": "2:18",
+     "text": "Tell what really matters: or “approve what is excellent.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:22",
+     "text": "Rob temples: perhaps plundering pagan temples, or more broadly committing sacrilege."
+    },
+    {
+     "m": "f",
+     "ref": "2:24",
+     "text": "Isa 52:5, following the Greek Old Testament; compare Ezek 36:20."
+    },
+    {
+     "m": "g",
+     "ref": "2:29",
+     "text": "His praise: a wordplay on *Jew* (from *Judah*), which means “praised” (Gen 29:35; 49:8)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    9,
+    19,
+    21,
+    27
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "What advantage, then, does the Jew have? Or what good is there in circumcision?"
+    },
+    {
+     "v": 2,
+     "text": "Much, in every respect. To begin with, it was to them that God’s oracles were committed."
+    },
+    {
+     "v": 3,
+     "text": "What then if some proved unfaithful? Will their faithlessness cancel out God’s faithfulness?"
+    },
+    {
+     "v": 4,
+     "text": "Far from it! Let God be found true, though every human being be a liar, as it stands written, “So that you may be shown in the right in your words, and win when you are put on trial.”{a}"
+    },
+    {
+     "v": 5,
+     "text": "But if our wrongdoing brings out God’s righteousness, what are we to say? That God does wrong in bringing his wrath upon us? (I am speaking in human terms.)"
+    },
+    {
+     "v": 6,
+     "text": "Far from it! For then how could God judge the world?"
+    },
+    {
+     "v": 7,
+     "text": "Yet if my lie makes God’s truth overflow all the more to his glory, why should I, of all people, still be judged a sinner?"
+    },
+    {
+     "v": 8,
+     "text": "And why not say, as we are slanderously charged with saying, and as some assert that we say, “Let us do evil so that good may come”? Their condemnation is deserved."
+    },
+    {
+     "v": 9,
+     "text": "What follows? Do we have the upper hand?{b} By no means. We have already brought the charge that Jews and Greeks alike all lie under sin,"
+    },
+    {
+     "v": 10,
+     "text": "as it is written: “There is no one righteous, not even one;"
+    },
+    {
+     "v": 11,
+     "text": "there is no one who understands; there is no one who seeks out God."
+    },
+    {
+     "v": 12,
+     "text": "Every one has swerved away; all alike have gone bad. Not one does what is kind, no, not a single one.{c}"
+    },
+    {
+     "v": 13,
+     "text": "Their throat is a grave thrown open; with their tongues they keep deceiving.{d} The venom of asps is under their lips.{e}"
+    },
+    {
+     "v": 14,
+     "text": "Their mouth is full of cursing and bitterness.{f}"
+    },
+    {
+     "v": 15,
+     "text": "Swift are their feet to shed blood;"
+    },
+    {
+     "v": 16,
+     "text": "ruin and misery lie along their paths,"
+    },
+    {
+     "v": 17,
+     "text": "and the way of peace they have not known.{g}"
+    },
+    {
+     "v": 18,
+     "text": "There is no fear of God before their eyes.”{h}"
+    },
+    {
+     "v": 19,
+     "text": "Now we know that whatever the law says, it speaks to those who are within the law, so that every mouth may be stopped and the whole world may become answerable to God."
+    },
+    {
+     "v": 20,
+     "text": "For by works of the law no flesh will be justified{i} before him;{j} for through the law comes the knowledge of sin."
+    },
+    {
+     "v": 21,
+     "text": "But now, apart from the law, God’s righteousness has been disclosed, attested by the Law and the Prophets:"
+    },
+    {
+     "v": 22,
+     "text": "a righteousness of God that comes through faith in Jesus Christ{k} to all who believe. No distinction is made,"
+    },
+    {
+     "v": 23,
+     "text": "all have sinned and fall short of the glory of God,"
+    },
+    {
+     "v": 24,
+     "text": "and are justified freely by his grace through the redemption that is in Christ Jesus."
+    },
+    {
+     "v": 25,
+     "text": "He is the one God set forth publicly as a mercy seat,{l} through faith, by means of his blood, to show forth his righteousness, since in his patience God had let earlier sins go unpunished;"
+    },
+    {
+     "v": 26,
+     "text": "it was to demonstrate his righteousness at the present time, so that he might be righteous and also the one who justifies the person who has faith in Jesus."
+    },
+    {
+     "v": 27,
+     "text": "Where, then, is boasting? It has been shut out. By what kind of law? A law of works? No, but by a law of faith."
+    },
+    {
+     "v": 28,
+     "text": "For we reckon that a person is justified by faith apart from works of the law."
+    },
+    {
+     "v": 29,
+     "text": "Or is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also,"
+    },
+    {
+     "v": 30,
+     "text": "if indeed God is one;{m} he will declare the circumcised righteous out of faith, and the uncircumcised by means of the very same faith."
+    },
+    {
+     "v": 31,
+     "text": "Do we then nullify the law through faith? Far from it! Instead, we uphold the law."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:4",
+     "text": "Ps 51:4 (50:6 Greek), following the Greek Old Testament."
+    },
+    {
+     "m": "b",
+     "ref": "3:9",
+     "text": "Do we have the upper hand?: the meaning of Greek *proechometha* is disputed; it may mean “Are we at a disadvantage?” or “Are we making excuses?”"
+    },
+    {
+     "m": "c",
+     "ref": "3:12",
+     "text": "Ps 14:1–3 (13:1–3 Greek); 53:1–3; compare Eccl 7:20."
+    },
+    {
+     "m": "d",
+     "ref": "3:13",
+     "text": "Ps 5:9."
+    },
+    {
+     "m": "e",
+     "ref": "3:13",
+     "text": "Ps 140:3."
+    },
+    {
+     "m": "f",
+     "ref": "3:14",
+     "text": "Ps 10:7."
+    },
+    {
+     "m": "g",
+     "ref": "3:17",
+     "text": "Isa 59:7–8; compare Prov 1:16."
+    },
+    {
+     "m": "h",
+     "ref": "3:18",
+     "text": "Ps 36:1."
+    },
+    {
+     "m": "i",
+     "ref": "3:20",
+     "text": "Justified: Greek *dikaioō*, “declare righteous, acquit, put in the right”; related to *dikaiosynē*, “righteousness,” and *dikaios*, “righteous.”"
+    },
+    {
+     "m": "j",
+     "ref": "3:20",
+     "text": "Compare Ps 143:2."
+    },
+    {
+     "m": "k",
+     "ref": "3:22",
+     "text": "Faith in Jesus Christ: or “the faithfulness of Jesus Christ.” The Greek genitive can be read either way; the same question arises in 3:26 and Gal 2:16, 20; 3:22; Phil 3:9. “Jesus” is bracketed in the Westcott–Hort text and absent from Vaticanus (as reported)."
+    },
+    {
+     "m": "l",
+     "ref": "3:25",
+     "text": "Mercy seat: Greek *hilastērion*, the word used in the Greek Old Testament for the gold cover of the ark of the covenant, where atoning blood was sprinkled on the Day of Atonement (Lev 16:14–15); or more generally “a means of atonement,” “a sacrifice of atonement,” “propitiation.”"
+    },
+    {
+     "m": "m",
+     "ref": "3:30",
+     "text": "God is one: echoing the Shema (Deut 6:4)."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    9,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "What then shall we say of Abraham,{a} our forefather according to the flesh?{b}"
+    },
+    {
+     "v": 2,
+     "text": "For if Abraham was justified by works, he has something to boast about, but not before God."
+    },
+    {
+     "v": 3,
+     "text": "For what does the Scripture say? “Abraham believed God, and it was credited to him as righteousness.”{c}"
+    },
+    {
+     "v": 4,
+     "text": "Now to the one who works, his wages are not credited as a gift but as what is owed."
+    },
+    {
+     "v": 5,
+     "text": "But to the one who does not work, yet trusts in him who justifies the ungodly, his faith is credited as righteousness."
+    },
+    {
+     "v": 6,
+     "text": "Just so David also speaks of the blessedness of the man to whom God credits righteousness apart from works:"
+    },
+    {
+     "v": 7,
+     "text": "“How happy are they whose lawbreaking is pardoned, whose sins are hidden from view!"
+    },
+    {
+     "v": 8,
+     "text": "How happy the man against whom the Lord will by no means reckon sin!”{d}"
+    },
+    {
+     "v": 9,
+     "text": "This blessedness, then: does it come upon the circumcised, or upon the uncircumcised too? For we say, “Faith was credited to Abraham as righteousness.”"
+    },
+    {
+     "v": 10,
+     "text": "Under what circumstances, then, was it credited? Was he circumcised at the time, or not? He was not yet circumcised; he was uncircumcised."
+    },
+    {
+     "v": 11,
+     "text": "And he was given circumcision as a sign, a seal of the righteousness by faith that was his in uncircumcision. So he is father to all who believe while uncircumcised, so that righteousness is credited to them as well,"
+    },
+    {
+     "v": 12,
+     "text": "and the father of the circumcised, to those who are not only circumcised but who also walk in the footsteps of the faith our father Abraham had while uncircumcised."
+    },
+    {
+     "v": 13,
+     "text": "For the promise to Abraham or to his descendants that he would be heir of the world did not come through the law but through the righteousness of faith."
+    },
+    {
+     "v": 14,
+     "text": "For if it is the adherents of the law who are heirs, faith has been emptied of meaning and the promise made void."
+    },
+    {
+     "v": 15,
+     "text": "For the law brings about wrath; but where there is no law, there is no transgression either."
+    },
+    {
+     "v": 16,
+     "text": "For this reason it comes from faith, in order to be by grace, so that the promise stands firm for every descendant, not only the one belonging to the law, but also the one belonging to Abraham’s faith. He is father of us all,"
+    },
+    {
+     "v": 17,
+     "text": "just as Scripture says, “I have appointed you father of many nations.”{e} He stands so before God, in whom he put his faith, the God who makes the dead alive and summons what does not exist as though it did."
+    },
+    {
+     "v": 18,
+     "text": "Past all hope, he believed in hope, that he would be made father of many nations, in keeping with the word, “So shall your descendants be.”{f}"
+    },
+    {
+     "v": 19,
+     "text": "Without wavering in faith he took full account of{g} his body, already{h} as good as dead at about a hundred years of age, and of the deadness of Sarah’s{i} womb."
+    },
+    {
+     "v": 20,
+     "text": "He did not doubt God’s promise in unbelief; rather, he was empowered by faith and gave God the glory,"
+    },
+    {
+     "v": 21,
+     "text": "being fully assured that what God had promised he could also perform."
+    },
+    {
+     "v": 22,
+     "text": "So it was that “it was credited to him as righteousness.”"
+    },
+    {
+     "v": 23,
+     "text": "But the words “it was credited to him” were not written for his sake alone,"
+    },
+    {
+     "v": 24,
+     "text": "but for ours also. It will be credited to us who believe in him who raised Jesus our Lord from the dead,"
+    },
+    {
+     "v": 25,
+     "text": "who was handed over for our trespasses and raised for our justification."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "What then shall we say of Abraham: so the Westcott–Hort text with Vaticanus (as reported). Most manuscripts include the verb “found,” giving “What then shall we say that Abraham, our forefather, found according to the flesh?” (with differences in word order). *Abraham* is explained in Gen 17:5 as “father of a multitude.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:1",
+     "text": "According to the flesh: that is, by physical descent."
+    },
+    {
+     "m": "c",
+     "ref": "4:3",
+     "text": "Gen 15:6."
+    },
+    {
+     "m": "d",
+     "ref": "4:8",
+     "text": "Ps 32:1–2 (31:1–2 Greek). In the Hebrew text, “the Lord” is Yahweh."
+    },
+    {
+     "m": "e",
+     "ref": "4:17",
+     "text": "Gen 17:5."
+    },
+    {
+     "m": "f",
+     "ref": "4:18",
+     "text": "Gen 15:5."
+    },
+    {
+     "m": "g",
+     "ref": "4:19",
+     "text": "Took full account of: so the Westcott–Hort text with the earliest manuscripts; most later manuscripts insert “not,” giving “Not being weak in faith, he did not consider his own body.”"
+    },
+    {
+     "m": "h",
+     "ref": "4:19",
+     "text": "Already: Greek *ēdē*, bracketed in the Westcott–Hort text and lacking in some manuscripts."
+    },
+    {
+     "m": "i",
+     "ref": "4:19",
+     "text": "Sarah: Hebrew, “princess” (Gen 17:15)."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    6,
+    12,
+    15,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Having been justified, then, by faith, let us have{a} peace toward God through our Lord Jesus Christ."
+    },
+    {
+     "v": 2,
+     "text": "Through him we have also gained our access by faith{b} into this grace in which we stand, and we exult in hope of the glory of God."
+    },
+    {
+     "v": 3,
+     "text": "More than that, we exult even in our afflictions, knowing that affliction works out endurance,"
+    },
+    {
+     "v": 4,
+     "text": "and endurance, tested character, and tested character, hope;"
+    },
+    {
+     "v": 5,
+     "text": "and this hope does not disappoint, since God’s love has flooded our hearts by the Holy Spirit he has given us."
+    },
+    {
+     "v": 6,
+     "text": "For while we were still helpless, at the appointed time Christ died on behalf of the ungodly."
+    },
+    {
+     "v": 7,
+     "text": "Hardly will anyone die on behalf of a righteous man, though perhaps for a good man someone might even dare to die."
+    },
+    {
+     "v": 8,
+     "text": "But God proves how he loves us: Christ died for us when we were yet sinners."
+    },
+    {
+     "v": 9,
+     "text": "How much more, then, now that we have been justified by his blood, shall we be saved through him from the wrath."
+    },
+    {
+     "v": 10,
+     "text": "For if, while we were enemies, we were reconciled to God through the death of his Son, how much more, being reconciled, shall we be saved by his life."
+    },
+    {
+     "v": 11,
+     "text": "And not only that, but we also exult in God through our Lord Jesus Christ,{c} through whom we have now received the reconciliation."
+    },
+    {
+     "v": 12,
+     "text": "Therefore, just as through one man sin made its entrance into the world, and through sin death, so death spread to all people, inasmuch as all sinned.{d}"
+    },
+    {
+     "v": 13,
+     "text": "Sin was already present in the world until the law came, though no account of sin is kept where law is absent."
+    },
+    {
+     "v": 14,
+     "text": "Yet death held sway from Adam{e} to Moses, even over those whose sinning did not resemble the transgression of Adam, who is a type of the one who was to come."
+    },
+    {
+     "v": 15,
+     "text": "But the free gift is not like the trespass. For if by the one man’s trespass the many died, much more did the grace of God, and the gift given in the grace of the one man Jesus Christ, overflow to the many."
+    },
+    {
+     "v": 16,
+     "text": "Again, the gift does not resemble the outcome of the one man’s sin. For judgment followed one trespass and led to condemnation, but the free gift followed many trespasses and led to acquittal."
+    },
+    {
+     "v": 17,
+     "text": "For if, by the trespass of the one, death reigned through that one, much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ."
+    },
+    {
+     "v": 18,
+     "text": "So then, as one trespass led to condemnation for all people, so too one righteous act{f} leads to acquittal and life for all people."
+    },
+    {
+     "v": 19,
+     "text": "For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one the many will be made righteous."
+    },
+    {
+     "v": 20,
+     "text": "The law came in alongside, so that the trespass might increase; but where sin increased, grace overflowed beyond all measure,"
+    },
+    {
+     "v": 21,
+     "text": "so that, as sin reigned in death, so also grace might reign through righteousness to eternal life through Jesus Christ our Lord."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Let us have: Greek *echōmen*, the reading of the Westcott–Hort text, supported by many early witnesses, including Sinaiticus and Vaticanus (original hands), Alexandrinus, Ephraemi, and Bezae (as reported). Other witnesses, including correctors of Sinaiticus and Vaticanus, read *echomen*, “we have,” printed in NA28 and SBLGNT. The two forms were pronounced alike in later Greek, and many scholars judge “we have” to suit the context of vv. 1–11 better."
+    },
+    {
+     "m": "b",
+     "ref": "5:2",
+     "text": "By faith: bracketed in the Westcott–Hort text; lacking in Vaticanus, Bezae, and some others (as reported)."
+    },
+    {
+     "m": "c",
+     "ref": "5:11",
+     "text": "Jesus Christ: “Christ” is bracketed in the Westcott–Hort text."
+    },
+    {
+     "m": "d",
+     "ref": "5:12",
+     "text": "Inasmuch as all sinned: or “because all sinned”; Greek *eph’ hō*. The Latin rendering “in whom” (that is, in Adam) shaped later Western doctrine."
+    },
+    {
+     "m": "e",
+     "ref": "5:14",
+     "text": "Adam: Hebrew, “man, humankind,” related to *adamah*, “ground” (Gen 2:7)."
+    },
+    {
+     "m": "f",
+     "ref": "5:18",
+     "text": "One righteous act: or “the righteous requirement of one.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    12,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "What then shall we say? Should we persist in sin so that grace may multiply?"
+    },
+    {
+     "v": 2,
+     "text": "Never! How can we, who have died to sin, still live in it?"
+    },
+    {
+     "v": 3,
+     "text": "Or are you unaware that all of us who were baptized{a} into Christ Jesus{b} were baptized into his death?"
+    },
+    {
+     "v": 4,
+     "text": "We were therefore buried with him by baptism into death, so that, just as Christ was raised from the dead by the glory of the Father, we too might walk in a newness of life."
+    },
+    {
+     "v": 5,
+     "text": "For if we have grown together with him in the likeness of his death, we will certainly also share in the likeness of his resurrection."
+    },
+    {
+     "v": 6,
+     "text": "This we know: our old humanity was crucified along with him, to put out of action the sin-ruled body, so that we would be slaves of sin no more."
+    },
+    {
+     "v": 7,
+     "text": "For the one who has died has been set free{c} from sin."
+    },
+    {
+     "v": 8,
+     "text": "But if we died with Christ, we believe that we shall also live with him,"
+    },
+    {
+     "v": 9,
+     "text": "knowing that Christ, now raised from the dead, will never die again; death no longer lords it over him."
+    },
+    {
+     "v": 10,
+     "text": "In dying, he died to sin a single time for all; in living, he lives to God."
+    },
+    {
+     "v": 11,
+     "text": "You too, then, must count yourselves dead to sin but alive to God in Christ Jesus.{d}"
+    },
+    {
+     "v": 12,
+     "text": "So do not let sin reign in your mortal body, to make you obey its cravings."
+    },
+    {
+     "v": 13,
+     "text": "Do not keep offering the parts of your body to sin as tools{e} of wickedness, but offer yourselves to God as people brought from death to life, and your body’s parts to God as tools of righteousness."
+    },
+    {
+     "v": 14,
+     "text": "Sin shall not be master over you, for you are not under law but under grace."
+    },
+    {
+     "v": 15,
+     "text": "What then? Shall we sin because we are not under law but under grace? Never!"
+    },
+    {
+     "v": 16,
+     "text": "Surely you know that if you present yourselves to anyone as slaves for obedience, you are that master’s slaves whom you obey, slaves either of sin, ending in death, or of obedience, ending in righteousness."
+    },
+    {
+     "v": 17,
+     "text": "But thanks be to God that you, once slaves of sin, have obeyed from the heart the pattern of teaching to which you were handed over;"
+    },
+    {
+     "v": 18,
+     "text": "and, set free from sin, you have been enslaved to righteousness."
+    },
+    {
+     "v": 19,
+     "text": "I speak in human fashion on account of your fleshly weakness. As you once put your limbs and faculties in bondage to uncleanness and lawlessness, for lawless ends,{f} so now put them in bondage to righteousness, for holiness."
+    },
+    {
+     "v": 20,
+     "text": "While you were sin’s slaves, righteousness had no claim on you."
+    },
+    {
+     "v": 21,
+     "text": "And what harvest did you have back then? Things that now make you ashamed, for those things end in death."
+    },
+    {
+     "v": 22,
+     "text": "But now that you have been freed from sin and have become slaves of God, the fruit you reap leads to holiness, and its end is eternal life."
+    },
+    {
+     "v": 23,
+     "text": "For the wages that sin pays are death, but God’s free gift is eternal life in Christ Jesus our Lord."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:3",
+     "text": "Baptized: Greek *baptizō*, “dip, immerse, wash.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:3",
+     "text": "Christ Jesus: “Jesus” is bracketed in the Westcott–Hort text."
+    },
+    {
+     "m": "c",
+     "ref": "6:7",
+     "text": "Set free: Greek *dedikaiōtai*, literally “has been justified,” here in the sense “acquitted” or “released.”"
+    },
+    {
+     "m": "d",
+     "ref": "6:11",
+     "text": "In Christ Jesus: many later manuscripts add “our Lord.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:13",
+     "text": "Tools: or “weapons”; Greek *hopla*."
+    },
+    {
+     "m": "f",
+     "ref": "6:19",
+     "text": "For lawless ends: Greek “to lawlessness,” bracketed in the Westcott–Hort text."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    7,
+    13,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Or do you not realize, brothers (for I am speaking to people acquainted with law), that the law has authority over a person only as long as that person lives?"
+    },
+    {
+     "v": 2,
+     "text": "Take the married woman: the law binds her to her living husband, but should the husband die, she is discharged from the law concerning the husband."
+    },
+    {
+     "v": 3,
+     "text": "So then, she will be called an adulteress if she joins herself to another man while her husband lives. But if her husband dies, she is free from that law, and she is no adulteress if she joins herself to another man."
+    },
+    {
+     "v": 4,
+     "text": "In the same way, my brothers, you too were put to death to the law through the body of Christ, so as to belong to another, to him who was raised from the dead, in order that we might bear fruit for God."
+    },
+    {
+     "v": 5,
+     "text": "For when we were in the flesh, the passions of sin, aroused through the law, were at work in our members to bear fruit for death."
+    },
+    {
+     "v": 6,
+     "text": "Now, however, having died to what once held us fast, we have been discharged from the law, so as to be slaves in the newness of the Spirit and not in the oldness of the letter."
+    },
+    {
+     "v": 7,
+     "text": "What then shall we say? Is the law sin? Never! Yet I would not have come to know sin except through the law. I would not have known what coveting is if the law had not said, “You shall not covet.”{a}"
+    },
+    {
+     "v": 8,
+     "text": "Sin, seizing the opening given by the commandment, worked in me every kind of covetous desire. For apart from the law, sin lies dead."
+    },
+    {
+     "v": 9,
+     "text": "Once, without law, I was living; but with the commandment’s arrival sin revived, and I died."
+    },
+    {
+     "v": 10,
+     "text": "The very commandment that was meant for life turned out for me to bring death."
+    },
+    {
+     "v": 11,
+     "text": "For sin, seizing the opening given by the commandment, deceived me and through it killed me."
+    },
+    {
+     "v": 12,
+     "text": "The law, then, is holy; holy too is the commandment, and just, and good."
+    },
+    {
+     "v": 13,
+     "text": "Did what is good, then, become death to me? Never! It was sin, so that it might be exposed as sin, that brought about my death through what is good, so that through the commandment sin might become sinful past all measure."
+    },
+    {
+     "v": 14,
+     "text": "For we know that the law is spiritual; but I am made of flesh,{b} sold as a slave under sin."
+    },
+    {
+     "v": 15,
+     "text": "What I accomplish I do not understand. For what I want, that I do not practice; but what I hate, that I do."
+    },
+    {
+     "v": 16,
+     "text": "But when I do the thing I do not will, I am agreeing that the law is fine."
+    },
+    {
+     "v": 17,
+     "text": "So now it is no longer I who carry it out, but sin that dwells in me."
+    },
+    {
+     "v": 18,
+     "text": "For I know that nothing good dwells in me, that is, in my flesh. The wanting is there in me, but the carrying out of what is good is not."
+    },
+    {
+     "v": 19,
+     "text": "For the good I want, I fail to do; but the evil I do not want, that is what I keep doing."
+    },
+    {
+     "v": 20,
+     "text": "And if what I am doing is what I do not will, then the doer is no longer I, but the sin that has its home in me."
+    },
+    {
+     "v": 21,
+     "text": "This, then, is the law I find: when I want to do good, evil lies close at hand."
+    },
+    {
+     "v": 22,
+     "text": "For in my inner being I delight in the law of God,"
+    },
+    {
+     "v": 23,
+     "text": "but I see another law in my members, waging war against the law of my mind and taking me captive to the law of sin that is in my members."
+    },
+    {
+     "v": 24,
+     "text": "What a miserable man I am! Who will deliver me out of this body that is bound for death?"
+    },
+    {
+     "v": 25,
+     "text": "Thanks be{c} to God through Jesus Christ our Lord! So then, I myself with my mind serve the law of God, but with my flesh the law of sin."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:7",
+     "text": "Exod 20:17; Deut 5:21."
+    },
+    {
+     "m": "b",
+     "ref": "7:14",
+     "text": "Made of flesh: Greek *sarkinos*; many later manuscripts read *sarkikos*, “fleshly.”"
+    },
+    {
+     "m": "c",
+     "ref": "7:25",
+     "text": "Thanks be: so the Westcott–Hort text (*charis* [*de*]). Many manuscripts read “I thank God”; others read “the grace of God” or “the grace of the Lord.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    9,
+    12,
+    18,
+    26,
+    31
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "There is therefore at present no sentence of condemnation against those in Christ Jesus.{a}"
+    },
+    {
+     "v": 2,
+     "text": "For the law of the Spirit of life in Christ Jesus has set you{b} free from the law of sin and of death."
+    },
+    {
+     "v": 3,
+     "text": "What the law could not do, weakened as it was by the flesh, God has done: sending his own Son in the likeness of sinful flesh and as an offering for sin,{c} he condemned sin in the flesh,"
+    },
+    {
+     "v": 4,
+     "text": "so that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit."
+    },
+    {
+     "v": 5,
+     "text": "For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit, on the things of the Spirit."
+    },
+    {
+     "v": 6,
+     "text": "The mind of the flesh is death, but the mind of the Spirit is life and peace,"
+    },
+    {
+     "v": 7,
+     "text": "for the flesh-minded outlook is at enmity with God; to God’s law it does not submit; indeed it is unable to."
+    },
+    {
+     "v": 8,
+     "text": "Those who are in the flesh cannot please God."
+    },
+    {
+     "v": 9,
+     "text": "You, however, are not in flesh but in Spirit, provided that God’s Spirit makes his home in you. If someone lacks Christ’s Spirit, that person is not his."
+    },
+    {
+     "v": 10,
+     "text": "Yet if Christ is within you, the body is a dead thing on account of sin, but the Spirit is life on account of righteousness."
+    },
+    {
+     "v": 11,
+     "text": "If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will give life to your mortal bodies also through his Spirit dwelling in you.{d}"
+    },
+    {
+     "v": 12,
+     "text": "So then, brothers, we are debtors, but not to the flesh, to live according to the flesh."
+    },
+    {
+     "v": 13,
+     "text": "For if you live according to the flesh you are going to die; but if by the Spirit you put to death the deeds of the body, you will live."
+    },
+    {
+     "v": 14,
+     "text": "For all who are led by the Spirit of God are sons of God."
+    },
+    {
+     "v": 15,
+     "text": "The spirit you received was not one of slavery, plunging you back into fear; what you received was the Spirit of sonship,{e} in whom we call out, “Abba!{f} Father!”"
+    },
+    {
+     "v": 16,
+     "text": "The Spirit himself bears witness together with our spirit that we are children of God,"
+    },
+    {
+     "v": 17,
+     "text": "and if we are children, we are heirs as well: God’s heirs, and Christ’s co-heirs, if we share his suffering in order to share his glory too."
+    },
+    {
+     "v": 18,
+     "text": "In my reckoning, what we suffer in the present age does not deserve to be set beside the glory about to be unveiled for us."
+    },
+    {
+     "v": 19,
+     "text": "For the creation waits with eager longing for the unveiling of the sons of God."
+    },
+    {
+     "v": 20,
+     "text": "For creation was placed under futility, not of its own will, but on account of the one who placed it there, in hope{g}"
+    },
+    {
+     "v": 21,
+     "text": "that creation itself will be freed from enslavement to corruption into the glorious freedom of God’s children."
+    },
+    {
+     "v": 22,
+     "text": "For we know that the whole creation has been groaning together and suffering birth pains together until now."
+    },
+    {
+     "v": 23,
+     "text": "Not that alone: we too, holding the Spirit as firstfruits, groan within ourselves while we eagerly await adoption,{h} the redeeming of our body."
+    },
+    {
+     "v": 24,
+     "text": "It was in hope that we were saved. But a hope that is seen is no hope. Who hopes for what is in plain sight?{i}"
+    },
+    {
+     "v": 25,
+     "text": "If our hope is for what we do not see, we wait eagerly for it with perseverance."
+    },
+    {
+     "v": 26,
+     "text": "Likewise the Spirit also helps us in our weakness. For we do not know what we should pray for as we ought, but the Spirit himself intercedes with groanings too deep for words."
+    },
+    {
+     "v": 27,
+     "text": "And he who searches hearts knows what the mind of the Spirit is, because the Spirit intercedes for the saints according to God’s will."
+    },
+    {
+     "v": 28,
+     "text": "We know that for those who love God all things work together{j} for good, for those who are called according to his purpose."
+    },
+    {
+     "v": 29,
+     "text": "For those whom he foreknew he also predestined to be conformed to the image of his Son, so that he might be the firstborn among many brothers."
+    },
+    {
+     "v": 30,
+     "text": "Whom he predestined, these he called as well; whom he called, these he justified as well; whom he justified, these he glorified as well."
+    },
+    {
+     "v": 31,
+     "text": "What then shall we say to these things? If God is for us, who can be against us?"
+    },
+    {
+     "v": 32,
+     "text": "He spared not even his own Son but handed him over on behalf of us all. How then shall he fail to give us everything along with him, as a gift?"
+    },
+    {
+     "v": 33,
+     "text": "Who will bring a charge against God’s elect? It is God who justifies."
+    },
+    {
+     "v": 34,
+     "text": "Who is there to condemn? It is Christ Jesus{k} who died, or rather was raised,{l} who sits at God’s right hand, who also pleads for us!"
+    },
+    {
+     "v": 35,
+     "text": "Who shall separate us from the love of Christ?{m} Shall affliction, or distress, or persecution, or famine, or nakedness, or danger, or sword?"
+    },
+    {
+     "v": 36,
+     "text": "As Scripture says, “On your account we face death all day long; we are counted as sheep for slaughter.”{n}"
+    },
+    {
+     "v": 37,
+     "text": "No, in all these things we are more than conquerors through him who loved us."
+    },
+    {
+     "v": 38,
+     "text": "I am persuaded that not death, not life, not angels, not principalities, not the present, not the future, not powers,"
+    },
+    {
+     "v": 39,
+     "text": "not height, not depth, nor any other created thing will have power to part us from God’s love in Christ Jesus our Lord."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "In Christ Jesus: many later manuscripts add “who walk not according to the flesh,” and some add further “but according to the Spirit” (compare v. 4)."
+    },
+    {
+     "m": "b",
+     "ref": "8:2",
+     "text": "You: so the Westcott–Hort text with Sinaiticus and Vaticanus (as reported); many manuscripts read “me,” others “us.”"
+    },
+    {
+     "m": "c",
+     "ref": "8:3",
+     "text": "As an offering for sin: or simply “concerning sin”; the Greek phrase *peri hamartias* often renders “sin offering” in the Greek Old Testament."
+    },
+    {
+     "m": "d",
+     "ref": "8:11",
+     "text": "Through his Spirit dwelling in you: so the Westcott–Hort text (genitive); many manuscripts read “because of his Spirit dwelling in you” (accusative). “Also” is bracketed in the Westcott–Hort text."
+    },
+    {
+     "m": "e",
+     "ref": "8:15",
+     "text": "Sonship: Greek *huiothesia*, a legal term for adoption granting full rights of inheritance."
+    },
+    {
+     "m": "f",
+     "ref": "8:15",
+     "text": "Abba: Aramaic, “father.”"
+    },
+    {
+     "m": "g",
+     "ref": "8:20",
+     "text": "In hope: or, joining to v. 21, “in hope, because the creation itself...”"
+    },
+    {
+     "m": "h",
+     "ref": "8:23",
+     "text": "Adoption: a few witnesses, including P46 and Bezae (as reported), lack “adoption.” “We” (*hēmeis*) after “firstfruits” is bracketed in the Westcott–Hort text."
+    },
+    {
+     "m": "i",
+     "ref": "8:24",
+     "text": "Who hopes for what is in plain sight?: some manuscripts read “why does anyone still hope for what he sees?”; others “why does anyone still wait for what he sees?”"
+    },
+    {
+     "m": "j",
+     "ref": "8:28",
+     "text": "All things work together: so the Westcott–Hort text in its main reading; “God” is printed in brackets after it, from P46, Alexandrinus, Vaticanus, and a few others (as reported), giving “God works all things together for good” or “in all things God works for good.” Grammatically, “all things” may also be the object, with the Spirit (v. 27) as subject: “he works all things together for good.”"
+    },
+    {
+     "m": "k",
+     "ref": "8:34",
+     "text": "Christ Jesus: “Jesus” is bracketed in the Westcott–Hort text."
+    },
+    {
+     "m": "l",
+     "ref": "8:34",
+     "text": "Raised: “from the dead” is added in brackets in the Westcott–Hort text, following Sinaiticus (original hand) and others (as reported)."
+    },
+    {
+     "m": "m",
+     "ref": "8:35",
+     "text": "Of Christ: Sinaiticus reads “of God”; Vaticanus reads “of God in Christ Jesus” (as reported)."
+    },
+    {
+     "m": "n",
+     "ref": "8:36",
+     "text": "Ps 44:22 (43:23 Greek)."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    6,
+    14,
+    19,
+    30
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I am speaking the truth in Christ; I am not lying, as my conscience confirms by the Holy Spirit:"
+    },
+    {
+     "v": 2,
+     "text": "I carry a great sorrow and an unceasing anguish in my heart."
+    },
+    {
+     "v": 3,
+     "text": "I could pray to be accursed{a} myself, severed from Christ, on behalf of my brothers, my own flesh-and-blood kin."
+    },
+    {
+     "v": 4,
+     "text": "They are Israelites;{b} theirs are the adoption, the glory, the covenants, the giving of the law, the worship, and the promises;"
+    },
+    {
+     "v": 5,
+     "text": "theirs are the patriarchs, and from them, by physical descent, comes the Messiah, who is God over all, blessed forever. Amen.{c}"
+    },
+    {
+     "v": 6,
+     "text": "But it is not as though the word of God has failed. For not all who are descended from Israel are Israel,"
+    },
+    {
+     "v": 7,
+     "text": "nor are they all Abraham’s children because they are his offspring; rather, “Through Isaac{d} your offspring will be named.”{e}"
+    },
+    {
+     "v": 8,
+     "text": "That is, it is not the children of the flesh who are God’s children, but the children of the promise are counted as offspring."
+    },
+    {
+     "v": 9,
+     "text": "For this is what the promise said: “About this time I will come, and Sarah will have a son.”{f}"
+    },
+    {
+     "v": 10,
+     "text": "And not only so, but Rebekah too conceived children by one man, our forefather Isaac."
+    },
+    {
+     "v": 11,
+     "text": "For before they were born, before they had done anything either good or worthless, in order that God’s electing purpose might remain in force, resting not on deeds but on the one who calls,"
+    },
+    {
+     "v": 12,
+     "text": "it was said to her, “The elder shall be slave to the younger.”{g}"
+    },
+    {
+     "v": 13,
+     "text": "As it is written, “Jacob I loved, but Esau I hated.”{h}"
+    },
+    {
+     "v": 14,
+     "text": "What then shall we say? Is there injustice with God? Never!"
+    },
+    {
+     "v": 15,
+     "text": "For he says to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”{i}"
+    },
+    {
+     "v": 16,
+     "text": "So then it does not depend on human willing or running, but on God who shows mercy."
+    },
+    {
+     "v": 17,
+     "text": "For the Scripture says to Pharaoh, “For this very purpose I raised you up, to display my power in you, and so that my name might be proclaimed in all the earth.”{j}"
+    },
+    {
+     "v": 18,
+     "text": "So, then, he shows mercy to whom he chooses, and to whom he chooses he gives a hard heart."
+    },
+    {
+     "v": 19,
+     "text": "You will say to me then, “Why does he still find fault? For who resists his will?”"
+    },
+    {
+     "v": 20,
+     "text": "But rather, O man, who are you to answer God back? Shall the thing formed say to the one who formed it, “Why have you made me this way?”{k}"
+    },
+    {
+     "v": 21,
+     "text": "Has the potter not the authority over his clay to make from a single lump this pot for an honored purpose and that one for an ordinary purpose?"
+    },
+    {
+     "v": 22,
+     "text": "What if God, wanting to show his wrath and make known his power, endured with much patience vessels of wrath made ready for destruction,"
+    },
+    {
+     "v": 23,
+     "text": "and did so to make the wealth of his glory known upon vessels of mercy, prepared in advance for glory:"
+    },
+    {
+     "v": 24,
+     "text": "namely us, whom he also called, not only from among the Jews but also from among the Gentiles?"
+    },
+    {
+     "v": 25,
+     "text": "So he says in Hosea{l} also, “The people not mine I will name ‘My people,’ and the one not loved I will name ‘Loved.’{m}"
+    },
+    {
+     "v": 26,
+     "text": "And in the very place where it was said to them, ‘You are not my people,’ there they will be called sons of the living God.”{n}"
+    },
+    {
+     "v": 27,
+     "text": "And Isaiah{o} cries out concerning Israel: “Though the number of the sons of Israel be as the sand of the sea, only the remnant will be saved;"
+    },
+    {
+     "v": 28,
+     "text": "for the Lord will execute his word upon the earth, bringing it to an end and cutting it short.”{p}"
+    },
+    {
+     "v": 29,
+     "text": "And as Isaiah foretold, “Had not the Lord of Hosts left us a seed, we would have fared as Sodom did, and resembled Gomorrah.”{q}"
+    },
+    {
+     "v": 30,
+     "text": "What then shall we say? That Gentiles, who were not pursuing righteousness, have attained righteousness, a righteousness that comes from faith;"
+    },
+    {
+     "v": 31,
+     "text": "but Israel, pursuing a law of righteousness, did not attain to that law."
+    },
+    {
+     "v": 32,
+     "text": "Why? Because they did not pursue it from faith, but as though it were from works.{r} They stumbled over the stone of stumbling,"
+    },
+    {
+     "v": 33,
+     "text": "just as Scripture says, “Look, I place in Zion a stone that makes people stumble, a rock that trips them up; and the one who trusts in him will not be disgraced.”{s}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:3",
+     "text": "Accursed: Greek *anathema*, devoted to destruction."
+    },
+    {
+     "m": "b",
+     "ref": "9:4",
+     "text": "Israelites: *Israel*, the name given to Jacob, is explained in Gen 32:28 as “he strives with God.”"
+    },
+    {
+     "m": "c",
+     "ref": "9:5",
+     "text": "The Messiah, who is God over all, blessed forever. Amen: the punctuation is disputed, and early manuscripts lack punctuation. The Westcott–Hort text prints a comma after “descent,” as rendered here; its margin offers a full stop, giving “...comes the Messiah. God who is over all be blessed forever. Amen.” Other possible punctuations give “...the Messiah, who is over all. God be blessed forever,” or “...the Messiah, who is over all, God blessed forever.”"
+    },
+    {
+     "m": "d",
+     "ref": "9:7",
+     "text": "Isaac: Hebrew, “he laughs” (Gen 17:17–19; 21:6)."
+    },
+    {
+     "m": "e",
+     "ref": "9:7",
+     "text": "Gen 21:12."
+    },
+    {
+     "m": "f",
+     "ref": "9:9",
+     "text": "Gen 18:10, 14."
+    },
+    {
+     "m": "g",
+     "ref": "9:12",
+     "text": "Gen 25:23."
+    },
+    {
+     "m": "h",
+     "ref": "9:13",
+     "text": "Mal 1:2–3."
+    },
+    {
+     "m": "i",
+     "ref": "9:15",
+     "text": "Exod 33:19."
+    },
+    {
+     "m": "j",
+     "ref": "9:17",
+     "text": "Exod 9:16."
+    },
+    {
+     "m": "k",
+     "ref": "9:20",
+     "text": "Isa 29:16; 45:9."
+    },
+    {
+     "m": "l",
+     "ref": "9:25",
+     "text": "Hosea: Hebrew, “salvation.”"
+    },
+    {
+     "m": "m",
+     "ref": "9:25",
+     "text": "Hos 2:23."
+    },
+    {
+     "m": "n",
+     "ref": "9:26",
+     "text": "Hos 1:10."
+    },
+    {
+     "m": "o",
+     "ref": "9:27",
+     "text": "Isaiah: Hebrew, “Yahweh is salvation.”"
+    },
+    {
+     "m": "p",
+     "ref": "9:28",
+     "text": "Isa 10:22–23, following the Greek Old Testament; compare Hos 1:10. In the Hebrew text, “the Lord” is “the Lord Yahweh of Hosts.” Many later manuscripts expand v. 28: “for he will finish the matter and cut it short in righteousness, because the Lord will make a short work upon the earth.”"
+    },
+    {
+     "m": "q",
+     "ref": "9:29",
+     "text": "Isa 1:9. Greek *Kyrios Sabaōth*, for Hebrew *Yahweh Tseva’ot*, Yahweh of the armies (of heaven). Sodom and Gomorrah: Gen 19:24–25."
+    },
+    {
+     "m": "r",
+     "ref": "9:32",
+     "text": "From works: many later manuscripts add “of the law.”"
+    },
+    {
+     "m": "s",
+     "ref": "9:33",
+     "text": "Isa 28:16 combined with Isa 8:14."
+    }
+   ]
+  }
+ ]
+}

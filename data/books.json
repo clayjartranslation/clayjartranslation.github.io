@@ -1773,9 +1773,19 @@
    "id": "romans",
    "name": "Romans",
    "division": "New Testament",
-   "chapterCount": "16",
-   "translated": [],
-   "file": null
+   "chapterCount": 16,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "file": "data/books/romans.json"
   },
   {
    "id": "1-corinthians",
