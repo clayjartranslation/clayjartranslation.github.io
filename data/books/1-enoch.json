@@ -1,0 +1,962 @@
+{
+ "id": "1-enoch",
+ "name": "1 Enoch",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the Ethiopic (Ge‘ez) text of 1 Enoch as edited by R. H. Charles, *The Ethiopic Version of the Book of Enoch* (1906), with his revised translation-base of 1912, and A. Dillmann, *Liber Henoch aethiopice* (1851), both public domain. The Greek witnesses were compared where they survive: the Akhmim (Panopolitanus) codex for chapters 1–32, the excerpts in George Syncellus for parts of chapters 6–16, and the Chester Beatty–Michigan papyrus for chapters 97–107, as printed by Swete (1891–94), Charles (1912), and Flemming and Radermacher (1901). The Aramaic fragments from Qumran Cave 4 (4QEnᵃ⁻ᵍ and 4QEnastrᵃ⁻ᵈ, about 200 BC to the turn of the era) cover parts of every section except the Parables (chapters 37–71); readings from them are cited as reported in the standard editions and have not been checked against the manuscripts. R. H. Charles’s 1913 English translation (public domain) was consulted, but the English here is new. Ge‘ez *Egzi’abḥer* is rendered “the Lord” and *Amlāk* “God”; the divine name Yahweh does not appear in any surviving text of 1 Enoch, which prefers titles such as “the Great Holy One,” “the Lord of Spirits,” and “the Most High,” so it is not supplied here. **About the book.** 1 Enoch is a collection of five books ascribed to Enoch, the seventh from Adam (Gen 5:18–24): the Book of the Watchers (chapters 1–36, 3rd century BC), the Book of Parables or Similitudes (37–71, probably late 1st century BC or 1st century AD), the Astronomical Book (72–82, 3rd century BC or earlier), the Book of Dreams (83–90, about 165–160 BC), and the Epistle of Enoch (91–108, 2nd century BC), with an appendix on the birth of Noah (106–107) and a closing exhortation (108). It was composed in Aramaic (perhaps partly Hebrew), translated into Greek, and from Greek into Ge‘ez, probably in the 5th–6th centuries AD; the complete book survives only in Ethiopic manuscripts, the oldest from about the 15th century. The Letter of Jude quotes 1 Enoch 1:9 as a prophecy of “Enoch, the seventh from Adam” (Jude 14–15), and several early Christian writers valued the book. It is part of the Old Testament of the Ethiopian Orthodox Tewahedo Church and the Eritrean Orthodox Church, and of the Scriptures of Beta Israel; it is not in the canon of other Jewish or Christian communities. Verse numbering follows Charles. Chapters 91–93 are printed in the Ethiopic order; the Aramaic copy 4QEnᵍ reportedly places 91:11–17 after 93:1–10, which restores the “Apocalypse of Weeks” to its natural sequence (see the notes there). Calendar dates are given with modern-month equivalents and clock-like divisions are explained in notes, according to the CJT conventions.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The words of blessing of Enoch,{a} with which he blessed the chosen{b} and the righteous who will be living in the day of distress, when all the wicked and the godless are to be removed."
+    },
+    {
+     "v": 2,
+     "text": "He took up his discourse{c} and said: Enoch was a righteous man; God opened his eyes, and he saw a vision of the Holy One in heaven, which the angels showed me. From them I heard everything, and from them I understood what I saw, not for this generation but for one far off that is yet to come."
+    },
+    {
+     "v": 3,
+     "text": "Concerning the chosen I spoke, and I took up my discourse about them:\nThe Great Holy One{d} will come out from his dwelling,"
+    },
+    {
+     "v": 4,
+     "text": "and the eternal God will tread upon the earth, on Mount Sinai.{e}\nHe will appear with his host,{f}\nand appear in the strength of his might from the highest heaven."
+    },
+    {
+     "v": 5,
+     "text": "All will be struck with fear,\nand the Watchers{g} will tremble,\nand great fear and shaking will seize them to the ends of the earth."
+    },
+    {
+     "v": 6,
+     "text": "The high mountains will be shaken;\nthe lofty hills will be brought low\nand will melt like wax before a flame."
+    },
+    {
+     "v": 7,
+     "text": "The earth will be split wide apart,{h}\nand everything on the earth will perish,\nand there will be judgment upon all."
+    },
+    {
+     "v": 8,
+     "text": "But with the righteous he will make peace;\nhe will guard the chosen,\nand mercy will rest upon them.\nThey will all belong to God;\nhe will grant them his favor\nand bless them all.\nHe will help them all;\nlight will shine upon them,\nand he will make peace with them."
+    },
+    {
+     "v": 9,
+     "text": "Look, he comes with myriads of his holy ones,{i}\nto execute judgment upon all,\nto destroy all the wicked,\nand to convict all flesh\nfor all the works of their wickedness that they have wickedly done,\nand for all the proud and harsh words that wicked sinners have spoken against him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "*Enoch*: Hebrew *Ḥanokh*, probably “dedicated” or “initiated.” He is the son of Jared and the seventh from Adam, who “walked with God” and was taken by God (Gen 5:18–24)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Chosen: Ge‘ez *ḥeruyān*, traditionally “the elect”; so throughout the book."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Discourse: Ge‘ez *messālē*, Greek *parabolē*, Aramaic *matla*: a solemn oracle or figurative speech, traditionally “parable.” So throughout."
+    },
+    {
+     "m": "d",
+     "ref": "1:3",
+     "text": "The Great Holy One: so the Greek; the Ethiopic has “the Holy and Great One.” The Aramaic fragments reportedly use *qaddisha rabba*, “the Great Holy One,” a favorite title for God in this book."
+    },
+    {
+     "m": "e",
+     "ref": "1:4",
+     "text": "Mount Sinai: compare Deut 33:2; Mic 1:3."
+    },
+    {
+     "m": "f",
+     "ref": "1:4",
+     "text": "He will appear with his host: so the Greek, “he will appear out of his camp”; Charles regarded the line as a doublet of the next."
+    },
+    {
+     "m": "g",
+     "ref": "1:5",
+     "text": "Watchers: Aramaic *‘irin*, “wakeful ones,” a class of angels (Dan 4:13, 17, 23). In this book the word usually refers to the angels who sinned (chapters 6–16)."
+    },
+    {
+     "m": "h",
+     "ref": "1:7",
+     "text": "Split wide apart: so the Greek; the Ethiopic reads “sink.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:9",
+     "text": "Myriads of his holy ones: literally “ten thousands.” This verse is quoted in Jude 14–15. A fragment of the Aramaic (4QEnᶜ) reportedly preserves part of it."
+    }
+   ],
+   "heading": "The Book of the Watchers (chapters 1–36)"
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Consider everything that takes place in the sky: how the lights in the heavens do not change their paths, how each rises and sets in order at its own time and does not depart from its appointed law."
+    },
+    {
+     "v": 2,
+     "text": "Look at the earth and pay attention to the things that happen on it from first to last: how steady they are, how nothing on earth changes, but all the works of God appear before you."
+    },
+    {
+     "v": 3,
+     "text": "Consider summer and winter: in them the whole earth is full of water, and cloud, dew, and rain lie over it."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Observe and see how in winter every tree appears dried up, having dropped all its leaves, except fourteen trees that do not lose their foliage but keep the old leaves for two or three years until the new ones come.{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "Fourteen trees: so the Ethiopic; the Greek is lost here. The number may come from a list of evergreens in the Aramaic original, now lost."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Observe again the days of summer, how the sun stands over the earth opposite it. You look for shade and shelter because of the heat of the sun, and the earth too burns with scorching heat, so that you cannot walk on the ground or on a rock because of its heat."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Observe how the trees clothe themselves with green leaves and bear fruit. So pay attention and understand all his works, and recognize that he who lives forever made them this way."
+    },
+    {
+     "v": 2,
+     "text": "All his works go on in this way from year to year forever, and all the tasks that they perform for him; their tasks do not change, but everything is done as God has ordained."
+    },
+    {
+     "v": 3,
+     "text": "See how the sea and the rivers likewise perform their tasks and do not depart from his commands."
+    },
+    {
+     "v": 4,
+     "text": "But you have not stood firm,\nand you have not done the commandments of the Lord.\nYou have turned aside and spoken proud and harsh words\nwith your unclean mouths against his greatness.\nYou hard-hearted, you will find no peace!"
+    },
+    {
+     "v": 5,
+     "text": "Therefore you will curse your days,\nand the years of your life will perish;\nthe years of your destruction will be multiplied in an everlasting curse,\nand you will find no mercy."
+    },
+    {
+     "v": 6,
+     "text": "In those days you will make your names an everlasting curse for all the righteous;\nby you all who curse will curse,\nand all the sinners and the godless will swear by you.\nFor you, the godless, there will be a curse.\nBut all the righteous will rejoice;{a}\nthere will be forgiveness of sins,\nand every mercy and peace and kindness.\nThere will be salvation for them, a good light.\nBut for all of you sinners there will be no salvation;\na curse will rest upon you all."
+    },
+    {
+     "v": 7,
+     "text": "For the chosen there will be light and grace and peace,\nand they will inherit the earth."
+    },
+    {
+     "v": 8,
+     "text": "Then wisdom will be given to the chosen,\nand they will all live and never sin again,\nneither through godlessness nor through pride;\nbut those who have wisdom will be humble."
+    },
+    {
+     "v": 9,
+     "text": "They will not go wrong again,\nnor will they sin all the days of their life,\nnor will they die from anger or wrath,\nbut they will complete the number of the days of their life.\nTheir lives will grow long in peace,\nand the years of their joy will be many,\nin everlasting gladness and peace,\nall the days of their life."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:6",
+     "text": "The righteous: this word is missing in the Ethiopic, which leaves a gap here; it is supplied from the sense and the Greek."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now when the human race had multiplied, in those days beautiful and lovely daughters were born to them."
+    },
+    {
+     "v": 2,
+     "text": "The angels, the sons of heaven,{a} saw them and desired them, and they said to one another, “Come, let us choose wives for ourselves from the daughters of men and father children for ourselves.”"
+    },
+    {
+     "v": 3,
+     "text": "Shemihazah,{b} who was their leader, said to them, “I fear that you will not really agree to do this deed, and I alone will have to pay the penalty for a great sin.”"
+    },
+    {
+     "v": 4,
+     "text": "They all answered him, “Let us all swear an oath and bind ourselves by curses on one another not to give up this plan, but to carry it out.”"
+    },
+    {
+     "v": 5,
+     "text": "Then they all swore together and bound themselves by curses on one another to it."
+    },
+    {
+     "v": 6,
+     "text": "They numbered two hundred in all, and in the days of Jared they descended{c} onto the peak of Mount Hermon.{d} They named it Mount Hermon because on it they had taken the oath and put themselves under curses."
+    },
+    {
+     "v": 7,
+     "text": "These are the names of their leaders: Shemihazah, their leader; Arteqoph,{e} Ramtel, Kokabel, Tamiel, Ramiel, Danel, Ziqiel, Baraqel, Asael, Armaros, Batriel, Ananel, Zeqiel, Shamshiel, Sahriel, Turiel, Yomiel, and Sariel."
+    },
+    {
+     "v": 8,
+     "text": "These are their chiefs over tens.{f}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Sons of heaven: the angels; compare “sons of God” in Gen 6:2. Chapters 6–11 retell Gen 6:1–4."
+    },
+    {
+     "m": "b",
+     "ref": "6:3",
+     "text": "*Shemihazah*: so the Aramaic and Greek; Ethiopic *Semyāzā*. The name probably means “the Name has seen” or “my name has seen.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:6",
+     "text": "*Jared*: Hebrew *Yered*, “descent,” the father of Enoch (Gen 5:15–18). The book plays on the name: in his days the angels “descended.”"
+    },
+    {
+     "m": "d",
+     "ref": "6:6",
+     "text": "Hermon: the mountain is named from a root meaning “ban” or “devote under oath” (*ḥerem*); hence the wordplay with the curse-oath that they swore there. Compare Jubilees 4:15."
+    },
+    {
+     "m": "e",
+     "ref": "6:7",
+     "text": "The names are given in the Aramaic forms where these are reported from the fragments, otherwise in the Greek or Ethiopic forms; the Ethiopic spellings are badly corrupted. Most are formed with *-el*, “God,” and a word for a natural phenomenon or skill. *Arteqoph* (Ethiopic *Arākiba*): “earth of the mighty one” (uncertain). *Ramtel* (Ethiopic *Rāmē’ēl*): “burning ash of God.” *Kokabel*: “star of God.” *Tamiel*: “perfection of God” (uncertain). *Ramiel*: “thunder of God” or “exalted of God.” *Danel*: “God has judged.” *Ziqiel* (Ethiopic *Ezeqeel*): “lightning flash of God.” *Baraqel*: “lightning of God.” *Asael*: “God has made.” *Armaros*: perhaps from *Hermoni*, “the one of Hermon.” *Batriel*: “rain of God” (uncertain). *Ananel*: “cloud of God.” *Zeqiel* (Ethiopic *Zaqiel*): “sparks of God.” *Shamshiel* (Ethiopic *Samsapeel*): “sun of God.” *Sahriel* (Ethiopic *Satarel*): “moon of God.” *Turiel*: “mountain of God.” *Yomiel*: “day of God.” *Sariel* (Ethiopic) or *Yehaddiel* (reported Aramaic): meaning uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "6:8",
+     "text": "Chiefs over tens: each of the twenty leaders (counting Shemihazah) commanded ten of the two hundred."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "These, and all the others with them, took wives for themselves; each chose one for himself, and they began to go in to them and to defile themselves with them. They taught them sorcery and spells, and the cutting of roots, and showed them plants.{a}"
+    },
+    {
+     "v": 2,
+     "text": "The women became pregnant and bore great giants, whose height was three thousand cubits.{b}"
+    },
+    {
+     "v": 3,
+     "text": "They consumed everything that people had produced, and when people could no longer support them,"
+    },
+    {
+     "v": 4,
+     "text": "the giants turned against them and devoured human beings."
+    },
+    {
+     "v": 5,
+     "text": "They began to sin against the birds, the animals, the creeping things, and the fish, and to devour one another’s flesh, and they drank the blood."
+    },
+    {
+     "v": 6,
+     "text": "Then the earth brought an accusation against the lawless ones."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "Plants: that is, the use of herbs for magic and medicine."
+    },
+    {
+     "m": "b",
+     "ref": "7:2",
+     "text": "Three thousand cubits: about 4,500 feet (1,350 m), reckoning the cubit at 18 inches (45 cm). The Ethiopic has “ells” (cubits); some Greek witnesses, in Syncellus, add that the giants fathered Nephilim, and the Nephilim fathered the Eliud."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Asael{a} taught people to make swords and knives, shields and breastplates. He showed them the metals of the earth and how to work them, and bracelets and ornaments, the use of antimony{b} and the painting of the eyelids, all kinds of precious stones, and all coloring dyes."
+    },
+    {
+     "v": 2,
+     "text": "There was a great deal of godlessness; they committed sexual immorality, they were led astray, and they became corrupt in all their ways."
+    },
+    {
+     "v": 3,
+     "text": "Shemihazah taught spells and the cutting of roots; Armaros, the undoing of spells; Baraqel, the reading of lightning; Kokabel, the signs of the stars; Ziqiel, the signs of the flashes; Arteqoph, the signs of the earth; Shamshiel, the signs of the sun; and Sahriel, the courses of the moon.{c}"
+    },
+    {
+     "v": 4,
+     "text": "As people were perishing, they cried out, and their cry went up to heaven."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "*Asael*: so the Aramaic, reportedly, and the Greek (*Asaēl*), one of the leaders listed at 6:7; the Ethiopic has *Azazel* here and elsewhere, the name of the figure in the Day of Atonement ritual (Lev 16:8–10), and the two figures were merged in the tradition. *Asael* means “God has made.”"
+    },
+    {
+     "m": "b",
+     "ref": "8:1",
+     "text": "Antimony: a black powder used as eye paint; compare 2 Kgs 9:30."
+    },
+    {
+     "m": "c",
+     "ref": "8:3",
+     "text": "The skills match the names of the angels (see the note at 6:7). The Ethiopic list is shorter and corrupt (it has “Baraqiyal taught astrology, Kokabel the constellations, Ezeqeel the knowledge of the clouds”); this rendering follows the Greek more closely."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Michael, Sariel,{a} Raphael, and Gabriel looked down from heaven and saw a great deal of blood being shed on the earth and all the lawlessness being done on the earth."
+    },
+    {
+     "v": 2,
+     "text": "They said to one another, “The earth, stripped of its inhabitants,{b} raises the sound of their cry to the gates of heaven."
+    },
+    {
+     "v": 3,
+     "text": "Now the souls of humankind are pleading with you, the holy ones of heaven: ‘Bring our case before the Most High.’”"
+    },
+    {
+     "v": 4,
+     "text": "They said to the Lord of the ages:{c} “You are Lord of lords, God of gods, King of kings, God of the ages! Your glorious throne stands for every generation of the ages, and your name is holy, glorious, and blessed for all the ages!"
+    },
+    {
+     "v": 5,
+     "text": "You made everything, and you have authority over everything. All things are bare and open before you; you see everything, and nothing can hide from you."
+    },
+    {
+     "v": 6,
+     "text": "You see what Asael has done: he has taught all wrongdoing on the earth and revealed the eternal secrets that were kept in heaven, which human beings were striving to learn.{d}"
+    },
+    {
+     "v": 7,
+     "text": "And Shemihazah, to whom you gave authority to rule over those who are with him, has taught spells."
+    },
+    {
+     "v": 8,
+     "text": "They have gone in to the daughters of men on the earth, lain with the women, defiled themselves, and revealed to them every kind of sin."
+    },
+    {
+     "v": 9,
+     "text": "The women have borne giants,{e} and through this the whole earth has been filled with blood and wrongdoing."
+    },
+    {
+     "v": 10,
+     "text": "And now, look: the souls of those who have died are crying out and making their appeal to the gates of heaven. Their groaning has gone up and cannot cease because of the lawless deeds done on the earth."
+    },
+    {
+     "v": 11,
+     "text": "You know all things before they happen. You see these things and allow them, and you do not tell us what we ought to do to them about these things.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "*Michael*: “Who is like God?” *Sariel*: “prince of God”; so the Greek and, reportedly, the Aramaic. The Ethiopic has *Uriel*, “God is my light.” *Raphael*: “God has healed.” *Gabriel*: “God is my strength” or “man of God.”"
+    },
+    {
+     "m": "b",
+     "ref": "9:2",
+     "text": "Stripped of its inhabitants: or “laid waste.” The Greek reads “The voice of their cry, as they are destroyed on the earth, reaches the gates of heaven.”"
+    },
+    {
+     "m": "c",
+     "ref": "9:4",
+     "text": "The Lord of the ages: so the Ethiopic; the Greek has “to the Lord, the King.”"
+    },
+    {
+     "m": "d",
+     "ref": "9:6",
+     "text": "Which human beings were striving to learn: so the Ethiopic; one Greek text reads “which the sons of men practice.”"
+    },
+    {
+     "m": "e",
+     "ref": "9:9",
+     "text": "Giants: the Greek of Syncellus adds “bastards.”"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    4,
+    9,
+    11,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then the Most High, the Great Holy One, spoke. He sent Sariel{a} to the son of Lamech,{b}"
+    },
+    {
+     "v": 2,
+     "text": "saying, “Go to Noah{c} and tell him in my name, ‘Hide yourself!’ Reveal to him the end that is coming: that the whole earth will be destroyed, and a flood is about to come upon the whole earth and destroy everything on it."
+    },
+    {
+     "v": 3,
+     "text": "Now teach him so that he may escape and his offspring may be preserved for all the generations of the world.”"
+    },
+    {
+     "v": 4,
+     "text": "To Raphael the Lord said, “Bind Asael hand and foot and throw him into the darkness. Make an opening in the desert that is in Dudael,{d} and throw him into it."
+    },
+    {
+     "v": 5,
+     "text": "Lay rough and jagged rocks on him, cover him with darkness, and let him stay there forever. Cover his face so that he cannot see the light."
+    },
+    {
+     "v": 6,
+     "text": "On the great day of judgment he will be thrown into the fire."
+    },
+    {
+     "v": 7,
+     "text": "Heal the earth that the angels have ruined, and announce the healing of the earth, that I will heal the earth,{e} so that not all human beings will perish through all the secret things that the Watchers revealed and taught their sons."
+    },
+    {
+     "v": 8,
+     "text": "The whole earth has been ruined by the teaching of the works of Asael; charge all sin to him.”"
+    },
+    {
+     "v": 9,
+     "text": "To Gabriel the Lord said, “Go against the bastards and the outcasts, the children of fornication. Destroy the children of the Watchers from among human beings. Send them against one another, so that they destroy each other in battle, for they will not have length of days."
+    },
+    {
+     "v": 10,
+     "text": "No request that their fathers make of you for them will be granted, for they hope to live an everlasting life, and that each of them will live five hundred years.”"
+    },
+    {
+     "v": 11,
+     "text": "To Michael the Lord said, “Go, inform Shemihazah{f} and the others with him who have united themselves with women, so that they defiled themselves with them in all their uncleanness."
+    },
+    {
+     "v": 12,
+     "text": "When their sons have killed one another and they have seen the destruction of their loved ones, bind them for seventy generations under the hills of the earth{g} until the day of their judgment and their end, until the judgment that is forever and ever is completed."
+    },
+    {
+     "v": 13,
+     "text": "In those days they will be led away to the abyss of fire, to the torment, and to the prison where they will be shut up forever."
+    },
+    {
+     "v": 14,
+     "text": "Whoever is condemned and destroyed will from then on be bound together with them until the end of all generations."
+    },
+    {
+     "v": 15,
+     "text": "Wipe out every spirit of the outcasts{h} and of the Watchers’ children, for they have done wrong to the human race."
+    },
+    {
+     "v": 16,
+     "text": "Rid the face of the earth of all wrongdoing; put an end to every evil deed, and let the plant of righteousness and truth come into view. It will become a blessing: deeds of righteousness and truth will be planted in truth and joy forever."
+    },
+    {
+     "v": 17,
+     "text": "Then all the righteous will escape,\nand they will live until they father thousands,\nand all the days of their youth and their old age\nthey will complete in peace."
+    },
+    {
+     "v": 18,
+     "text": "Then the whole earth will be farmed in righteousness; it will all be planted with trees and be full of blessing."
+    },
+    {
+     "v": 19,
+     "text": "All pleasant trees will be planted on it, and they will plant vines on it. The vine that they plant on it will yield wine in abundance, and of all the seed that is sown on it each measure will yield a thousand, and each measure of olives will yield ten presses of oil."
+    },
+    {
+     "v": 20,
+     "text": "Cleanse the earth from all oppression, from all wrongdoing, from all sin and godlessness; remove from the earth all the uncleanness that is done on it."
+    },
+    {
+     "v": 21,
+     "text": "All human beings will become righteous, and all the nations will worship me and bless me, and all will bow down to me."
+    },
+    {
+     "v": 22,
+     "text": "The earth will be cleansed from all defilement and from all sin, from all punishment and all torment, and I will never again send these upon it, from generation to generation and forever."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:1",
+     "text": "*Sariel*: so the Greek (*Istraēl*, a corruption); the Ethiopic has *Arsyalalyur*, an unexplained name. See the note at 9:1."
+    },
+    {
+     "m": "b",
+     "ref": "10:1",
+     "text": "*Lamech*: Hebrew *Lemekh*, meaning uncertain, perhaps “strong youth.” His son is Noah (Gen 5:28–29)."
+    },
+    {
+     "m": "c",
+     "ref": "10:2",
+     "text": "*Noah*: Hebrew *Noaḥ*, “rest,” linked in Gen 5:29 with *naḥam*, “to comfort.”"
+    },
+    {
+     "m": "d",
+     "ref": "10:4",
+     "text": "*Dudael*: perhaps “cauldron of God” or “jagged ground of God”; the place cannot be identified. Compare the wilderness of the scapegoat in Lev 16:10, 22."
+    },
+    {
+     "m": "e",
+     "ref": "10:7",
+     "text": "That I will heal the earth: so the Greek; the Ethiopic reads “that they may heal the plague.”"
+    },
+    {
+     "m": "f",
+     "ref": "10:11",
+     "text": "Inform: so the Greek; the Ethiopic has “bind.”"
+    },
+    {
+     "m": "g",
+     "ref": "10:12",
+     "text": "Under the hills of the earth: so the Greek; the Ethiopic has “in the valleys of the earth.”"
+    },
+    {
+     "m": "h",
+     "ref": "10:15",
+     "text": "The outcasts: or “the lustful,” the giants; the word is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“In those days I will open the storehouses of blessing that are in heaven, to send them down upon the earth, upon the work and labor of human beings."
+    },
+    {
+     "v": 2,
+     "text": "Truth and peace will be joined together through all the days of the world and through all the generations of humankind.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    3
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Before these things Enoch was hidden,{a} and none of the human race knew where he was hidden, where he lived, or what had become of him."
+    },
+    {
+     "v": 2,
+     "text": "He spent all his time with the Watchers, and his days were passed among the holy ones.{b}"
+    },
+    {
+     "v": 3,
+     "text": "While I, Enoch, stood blessing the great Lord, the King of the ages, the Watchers summoned me, Enoch the scribe, and told me,"
+    },
+    {
+     "v": 4,
+     "text": "“Enoch, scribe of righteousness, go and announce to the Watchers of heaven, who abandoned the high heaven and the holy, everlasting sanctuary, and have defiled themselves with women, and have done as human beings do, and have taken wives for themselves: ‘You have brought great destruction on the earth,"
+    },
+    {
+     "v": 5,
+     "text": "and you will have no peace or forgiveness of sin.’ Since they delight in their children,"
+    },
+    {
+     "v": 6,
+     "text": "they will see the slaughter of their loved ones and mourn over the destruction of their sons. They will plead forever, but they will obtain neither mercy nor peace.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:1",
+     "text": "Was hidden: or “was taken,” echoing Gen 5:24, “he was not, for God took him.”"
+    },
+    {
+     "m": "b",
+     "ref": "12:2",
+     "text": "The Watchers... the holy ones: here the faithful angels of heaven."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1,
+    3
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Enoch went and said to Asael, “You will have no peace. A severe sentence has gone out against you, to bind you."
+    },
+    {
+     "v": 2,
+     "text": "You will have no relief and no request granted, because of the wrongdoing that you taught and because of all the works of godlessness, wrongdoing, and sin that you showed to human beings.”"
+    },
+    {
+     "v": 3,
+     "text": "Then I went and spoke to all of them together, and they were all afraid; fear and trembling seized them."
+    },
+    {
+     "v": 4,
+     "text": "They begged me to write a petition for them, so that they might find forgiveness, and to read their petition aloud in the presence of the Lord of heaven."
+    },
+    {
+     "v": 5,
+     "text": "For from that time on they could not speak with him or lift up their eyes to heaven, out of shame for their sins for which they had been condemned."
+    },
+    {
+     "v": 6,
+     "text": "So I wrote out their petition and the prayer concerning their spirits and their deeds one by one, and concerning their requests, that they might have forgiveness and length of days."
+    },
+    {
+     "v": 7,
+     "text": "I went off and sat down by the waters of Dan,{a} in the land of Dan, to the southwest of Hermon, and I read their petition aloud until I fell asleep."
+    },
+    {
+     "v": 8,
+     "text": "And look, a dream came to me, and visions fell upon me. I saw visions of punishment, and a voice came, telling me to speak to the sons of heaven and rebuke them."
+    },
+    {
+     "v": 9,
+     "text": "When I woke up, I went to them. They were all sitting together weeping at Abel-main,{b} which is between Lebanon and Senir, with their faces covered."
+    },
+    {
+     "v": 10,
+     "text": "I related to them every vision I had seen while asleep, and I began to speak words of righteousness and to rebuke the heavenly Watchers."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:7",
+     "text": "*Dan*: “judge.” The waters of Dan are the springs of the Jordan at Tel Dan, at the foot of Mount Hermon."
+    },
+    {
+     "m": "b",
+     "ref": "13:9",
+     "text": "*Abel-main*: “meadow of waters,” probably Abel-beth-maacah near Dan (2 Sam 20:14–15); the Ethiopic has *’Ubelseyāel* and the Greek *Ebelsata*, corruptions of the same name. *Senir*: the Amorite name of Hermon (Deut 3:9)."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "This book is the word of righteousness and of the rebuke of the Watchers who are from eternity, according to the command of the Great Holy One in that vision."
+    },
+    {
+     "v": 2,
+     "text": "In my sleep I saw what I now tell with a tongue of flesh and the breath of my mouth, which the Great One gave to humankind for speaking and for understanding in the heart."
+    },
+    {
+     "v": 3,
+     "text": "As he created human beings and gave them the power to understand the word of knowledge, so he created me also and gave me the power to rebuke the Watchers, the sons of heaven."
+    },
+    {
+     "v": 4,
+     "text": "I wrote out your petition, and in my vision it was shown to me that your petition will not be granted to you through all the days of eternity, and that judgment has been passed on you; your request will not be granted."
+    },
+    {
+     "v": 5,
+     "text": "From now on you will not go up into heaven for all eternity. The decree has gone out to bind you in the earth for all the days of the world."
+    },
+    {
+     "v": 6,
+     "text": "Before that, you will see the destruction of your beloved sons; you will have no pleasure in them, but they will fall before you by the sword."
+    },
+    {
+     "v": 7,
+     "text": "Your plea for them will not be granted, nor your plea for yourselves, even if you weep and pray and recite every word of the document I wrote."
+    },
+    {
+     "v": 8,
+     "text": "The vision was shown to me in this way. Look, in the vision clouds called me, and mist summoned me; the course of the stars and the lightning hurried me along and drove me on, and the winds in the vision made me fly, lifted me upward, and carried me into heaven."
+    },
+    {
+     "v": 9,
+     "text": "I went in until I came near a wall built of hailstones{a} and surrounded by tongues of fire, and it began to frighten me."
+    },
+    {
+     "v": 10,
+     "text": "I went into the tongues of fire and came near a great house built of hailstones. The walls of the house were like a mosaic floor of hailstones, and its floor was of snow.{b}"
+    },
+    {
+     "v": 11,
+     "text": "Its ceiling was like the path of the stars and the lightning, and among them were fiery cherubim,{c} and their sky was water."
+    },
+    {
+     "v": 12,
+     "text": "Flaming fire surrounded the walls, and its doors blazed with fire."
+    },
+    {
+     "v": 13,
+     "text": "I entered that house. It was hot as fire and cold as snow, and there was nothing of the pleasures of life in it. Fear covered me, and trembling took hold of me."
+    },
+    {
+     "v": 14,
+     "text": "As I was shaking and trembling, I fell on my face. And I saw in the vision,"
+    },
+    {
+     "v": 15,
+     "text": "and look, there was a second house, greater than the first. Its whole doorway stood open before me, and it was built of tongues of fire."
+    },
+    {
+     "v": 16,
+     "text": "In every respect it so surpassed the first in splendor, magnificence, and size that I cannot describe to you its splendor and its size."
+    },
+    {
+     "v": 17,
+     "text": "Its floor was of fire; above it were lightning and the path of the stars, and its ceiling too was blazing fire."
+    },
+    {
+     "v": 18,
+     "text": "I looked and saw in it a lofty throne. Its appearance was like frost,{d} and its wheels were like the shining sun, and there was the sound{e} of cherubim."
+    },
+    {
+     "v": 19,
+     "text": "From beneath the throne came out rivers of blazing fire, so that I could not look at it.{f}"
+    },
+    {
+     "v": 20,
+     "text": "The Great Glory was seated on it. His robe was brighter than the sun and whiter than any snow."
+    },
+    {
+     "v": 21,
+     "text": "None of the angels could enter that house or look at his face because of its majesty and glory, and no flesh could look at him."
+    },
+    {
+     "v": 22,
+     "text": "Flaming fire encircled him, a great fire burned in front of him, and no one around him could come near him. Myriads upon myriads stood in his presence, yet he needed no counselor.{g}"
+    },
+    {
+     "v": 23,
+     "text": "The holiest ones who were near him did not leave by night or depart from him."
+    },
+    {
+     "v": 24,
+     "text": "All this while I had lain face down, trembling. Then the Lord himself called me, speaking with his own mouth: “Come here, Enoch, and hear my word.”"
+    },
+    {
+     "v": 25,
+     "text": "One of the holy ones came to me and roused me; he made me get up and come to the door, and I bowed my face downward."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:9",
+     "text": "Hailstones: so the Greek; the Ethiopic has “crystals.”"
+    },
+    {
+     "m": "b",
+     "ref": "14:10",
+     "text": "Its floor was of snow: so the Greek; the Ethiopic has “its foundation was of crystal.”"
+    },
+    {
+     "m": "c",
+     "ref": "14:11",
+     "text": "Cherubim: Hebrew plural of *kerub*, winged heavenly beings who guard God’s throne (Exod 25:18–22; Ezek 1; 10)."
+    },
+    {
+     "m": "d",
+     "ref": "14:18",
+     "text": "Frost: or “ice” (Greek *krystallinon*, “ice-like”)."
+    },
+    {
+     "m": "e",
+     "ref": "14:18",
+     "text": "The sound: so the Greek, reading *phōnē*, “voice”; the Ethiopic has “vision.”"
+    },
+    {
+     "m": "f",
+     "ref": "14:19",
+     "text": "Compare Dan 7:9–10; Ezek 1:26–28."
+    },
+    {
+     "m": "g",
+     "ref": "14:22",
+     "text": "He needed no counselor: so the Greek, “every word of his is deed”; the Ethiopic reads “and he needs no holy counsel.”"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "He answered and said to me, and I heard his voice, “Do not be afraid, Enoch, righteous man and scribe of righteousness. Come here and hear my voice."
+    },
+    {
+     "v": 2,
+     "text": "Go and say to the Watchers of heaven who sent you to intercede for them: ‘You ought to intercede for human beings, not human beings for you."
+    },
+    {
+     "v": 3,
+     "text": "Why have you left the high, holy, and eternal heaven, lain with women, defiled yourselves with the daughters of men, taken wives for yourselves, and acted like the children of earth, and fathered giants as your sons?"
+    },
+    {
+     "v": 4,
+     "text": "Though you were holy and spiritual, living eternal life, you defiled yourselves with the blood of women; you fathered children with the blood of flesh, and like human beings you longed for flesh and blood, as those who die and perish do."
+    },
+    {
+     "v": 5,
+     "text": "That is why I gave them wives, so that they might make them pregnant and have children by them, so that nothing would be lacking to them on the earth."
+    },
+    {
+     "v": 6,
+     "text": "But you were formerly spiritual, living eternal life, immortal for all the generations of the world."
+    },
+    {
+     "v": 7,
+     "text": "Therefore I did not appoint wives for you, for the spiritual beings of heaven have their dwelling in heaven."
+    },
+    {
+     "v": 8,
+     "text": "But now the giants, who were born from spirit and flesh, will be called evil spirits on the earth, and their dwelling will be on the earth."
+    },
+    {
+     "v": 9,
+     "text": "Evil spirits have come out of their bodies, because they were created from above;{a} their beginning and first origin is from the holy Watchers. They will be evil spirits on the earth, and they will be called evil spirits."
+    },
+    {
+     "v": 10,
+     "text": "The spirits of heaven have their dwelling in heaven, but the spirits of the earth, which were born on the earth, will have their dwelling on the earth.{b}"
+    },
+    {
+     "v": 11,
+     "text": "The spirits of the giants oppress, destroy, attack, wage war, and crush on the earth, and they cause sorrow. They eat no food, yet they hunger and thirst, and they cause offenses.{c}"
+    },
+    {
+     "v": 12,
+     "text": "These spirits will rise up against human beings and against women, because they came out from them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:9",
+     "text": "Because they were created from above: so the Greek; the Ethiopic reads “because they were born from men.”"
+    },
+    {
+     "m": "b",
+     "ref": "15:10",
+     "text": "Charles regarded this verse as an addition, since it repeats verses 7–8."
+    },
+    {
+     "m": "c",
+     "ref": "15:11",
+     "text": "They hunger and thirst: so the Ethiopic. The Greek is obscure and is sometimes taken to mean that they do not hunger, but cause illnesses."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“‘From the day of the slaughter and destruction and death of the giants, the spirits that have gone out from their bodies{a} will destroy without facing judgment. In this way they will destroy until the day of the completion, the great judgment, in which the great age will be completed upon the Watchers and the godless; it will be wholly completed.’"
+    },
+    {
+     "v": 2,
+     "text": "And now say to the Watchers who sent you to intercede for them, who were formerly in heaven,"
+    },
+    {
+     "v": 3,
+     "text": "‘You were in heaven, but not all the mysteries had been revealed to you. You knew a worthless mystery,{b} and in the hardness of your hearts you made it known to the women, and through this mystery women and men are doing much evil on the earth.’"
+    },
+    {
+     "v": 4,
+     "text": "So say to them, ‘You have no peace.’”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:1",
+     "text": "From their bodies: literally “from the souls of their flesh.”"
+    },
+    {
+     "m": "b",
+     "ref": "16:3",
+     "text": "A worthless mystery: so the Greek; the Ethiopic has “rejected mysteries.”"
+    }
+   ]
+  }
+ ]
+}
