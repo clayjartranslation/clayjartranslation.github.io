@@ -1,0 +1,384 @@
+{
+ "id": "letter-of-jeremiah",
+ "name": "Letter of Jeremiah",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of the Letter of Jeremiah (Epistle of Jeremiah) as printed in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 3 (1899; public domain), which follows Codex Vaticanus (B) with the readings of Alexandrinus (A) and others. In the Greek manuscripts it stands as a separate piece after Lamentations (or after Baruch); in the Latin Vulgate and the King James Version it is printed as Baruch chapter 6, and verse numbers here (1–73) match Baruch 6:1–73 in those Bibles. It is a sermon against idolatry in the form of a letter of Jeremiah to the exiles (compare Jer 10:1–16; 29:1–23; Isa 44:9–20), built on the refrain “they are not gods; do not fear them.” Many scholars hold that it was written in Hebrew or Aramaic, perhaps in the 4th–2nd century BC; no Semitic text survives. A small Greek papyrus fragment from Qumran Cave 7, 7QpapEpJer gr (7Q2), copied about 100 BC, preserves parts of verses 43–44, as reported, and shows that the work was known in Greek by then; 2 Macc 2:1–3 may allude to it. It is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha. Greek *kyrios* is rendered “Lord” and *theos* “God.” Measures are given in US units with the original and metric values in the notes; dates are given as BC/AD. Readings not checked directly against the manuscripts are cited “as reported.” Brenton's English (1844) was consulted only as a check and not copied. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    2,
+    8,
+    17,
+    24,
+    30,
+    45,
+    53,
+    60,
+    70
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A copy of a letter that Jeremiah sent to those who were about to be led away captive to Babylon by the king of the Babylonians, to report to them what had been commanded him by God.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Because of the sins that you have committed before God, you will be led away captive to Babylon by Nebuchadnezzar king of the Babylonians."
+    },
+    {
+     "v": 3,
+     "text": "So when you come into Babylon, you will stay there many years and a long time, up to seven generations;{b} and after this I will bring you out from there in peace."
+    },
+    {
+     "v": 4,
+     "text": "But now you will see in Babylon gods of silver and gold and wood carried on shoulders,{c} which put fear into the nations."
+    },
+    {
+     "v": 5,
+     "text": "Be on your guard, then, that you yourselves do not become altogether like the foreigners, and that fear of them does not seize you"
+    },
+    {
+     "v": 6,
+     "text": "when you see the crowd before and behind them worshiping them. But say in your mind: “It is you, Master, whom we must worship.”"
+    },
+    {
+     "v": 7,
+     "text": "For my angel is with you, and he himself is watching over your lives.{d}"
+    },
+    {
+     "v": 8,
+     "text": "For their tongue is planed smooth by a craftsman, and they themselves are overlaid with gold and silver; but they are false and cannot speak."
+    },
+    {
+     "v": 9,
+     "text": "And taking gold, as for a girl who loves finery, they make crowns for the heads of their gods."
+    },
+    {
+     "v": 10,
+     "text": "And sometimes the priests even filch gold and silver from their gods and spend it on themselves,"
+    },
+    {
+     "v": 11,
+     "text": "and they will give some of it even to the prostitutes on the roof.{e} And they deck them out with clothing like human beings — the gods of silver and gold and wood."
+    },
+    {
+     "v": 12,
+     "text": "Yet these cannot save themselves from tarnish and moths, though they are wrapped in purple clothing."
+    },
+    {
+     "v": 13,
+     "text": "People wipe their faces because of the dust from the temple, which lies thick upon them."
+    },
+    {
+     "v": 14,
+     "text": "And one holds a scepter like a man who judges a land, yet he cannot put to death the one who offends against him."
+    },
+    {
+     "v": 15,
+     "text": "Another has a dagger in his right hand, and an ax, yet he cannot deliver himself from war and from robbers."
+    },
+    {
+     "v": 16,
+     "text": "From this it is known that they are not gods; so do not fear them."
+    },
+    {
+     "v": 17,
+     "text": "For just as a pot a man uses becomes useless when it is broken, so are their gods when they are set up in the temples. Their eyes are full of dust from the feet of those who come in."
+    },
+    {
+     "v": 18,
+     "text": "And as the courtyards are shut up all around a man who has wronged a king and is being taken off to die, so their priests secure their temples with doors, with locks and with bars, lest they be plundered by robbers."
+    },
+    {
+     "v": 19,
+     "text": "They light lamps for them, more than for themselves, though the gods cannot see a single one of them."
+    },
+    {
+     "v": 20,
+     "text": "They are just like a beam of the temple, and men say their hearts are eaten out, while creatures that creep from the ground devour both them and their clothing, and they do not notice."
+    },
+    {
+     "v": 21,
+     "text": "Their faces are blackened by the smoke from the temple."
+    },
+    {
+     "v": 22,
+     "text": "Upon their bodies and upon their heads light bats, swallows, and birds, and cats as well.{f}"
+    },
+    {
+     "v": 23,
+     "text": "By this you may know that they are no gods; so have no fear of them."
+    },
+    {
+     "v": 24,
+     "text": "For as for the gold they wear for beauty, unless someone wipes off the tarnish, they will not shine; for not even when they were being cast did they feel it."
+    },
+    {
+     "v": 25,
+     "text": "They are bought at any price, though there is no breath in them."
+    },
+    {
+     "v": 26,
+     "text": "Having no feet, they are carried on shoulders, showing their own dishonor to human beings; and those who serve them are put to shame,"
+    },
+    {
+     "v": 27,
+     "text": "because if one of them falls to the ground, it is raised up by them; and if someone sets it upright, it will not move by itself; and if it is tilted, it cannot straighten itself; but offerings are set before them as before the dead."
+    },
+    {
+     "v": 28,
+     "text": "And the sacrifices made to them their priests sell and make use of; and likewise their wives preserve some of it with salt, but to the poor and helpless they give nothing."
+    },
+    {
+     "v": 29,
+     "text": "A woman in her monthly impurity or in childbed touches their sacrifices.{g} Knowing, then, from these things that they are not gods, do not fear them."
+    },
+    {
+     "v": 30,
+     "text": "For how can they be called gods? For women serve meals to gods of silver and gold and wood."
+    },
+    {
+     "v": 31,
+     "text": "And the priests sit in their houses of worship with garments rent, heads and beards shorn, bareheaded;"
+    },
+    {
+     "v": 32,
+     "text": "they bellow and cry aloud before their gods, like mourners at the meal for one who has died."
+    },
+    {
+     "v": 33,
+     "text": "The priests take some of their clothing and dress their own wives and children with it."
+    },
+    {
+     "v": 34,
+     "text": "Whether they suffer evil from anyone or good, they cannot repay it. They can neither set up a king nor remove one."
+    },
+    {
+     "v": 35,
+     "text": "Likewise they can give neither wealth nor a copper coin;{h} if someone makes a vow to them and does not pay it, they will not call him to account."
+    },
+    {
+     "v": 36,
+     "text": "From death they can save no one, nor snatch the feeble from the mighty."
+    },
+    {
+     "v": 37,
+     "text": "They cannot bring a blind man back to sight; they cannot rescue a man who is in distress."
+    },
+    {
+     "v": 38,
+     "text": "They will not take pity on a widow or do good to an orphan."
+    },
+    {
+     "v": 39,
+     "text": "Like quarried stones from the hillside are these wooden things, plated over with gold and silver, and all who serve them will be shamed."
+    },
+    {
+     "v": 40,
+     "text": "How then can anyone think or call them gods? Besides, even the Chaldeans themselves dishonor them;"
+    },
+    {
+     "v": 41,
+     "text": "for when they see someone mute who cannot speak, they bring him and pray to Bel{i} that he may speak, as though Bel could understand."
+    },
+    {
+     "v": 42,
+     "text": "Yet they themselves cannot perceive this and forsake them, for they have no sense."
+    },
+    {
+     "v": 43,
+     "text": "And the women, with cords around them, sit along the roads, burning bran for incense; and when one of them is drawn aside by some passerby and lies with him, she taunts the woman beside her, because she was not thought as worthy as herself and her cord was not broken.{j}"
+    },
+    {
+     "v": 44,
+     "text": "All that is done for them is false. How then can anyone think or call them gods?"
+    },
+    {
+     "v": 45,
+     "text": "They are made by carpenters and goldsmiths; they can be nothing other than what the craftsmen wish them to be."
+    },
+    {
+     "v": 46,
+     "text": "And those who make them will not themselves last long; how then can the things made by them be gods?"
+    },
+    {
+     "v": 47,
+     "text": "For they have left lies and a reproach to those who come after."
+    },
+    {
+     "v": 48,
+     "text": "For when war or evils come upon them, the priests consult together where they may hide themselves with them."
+    },
+    {
+     "v": 49,
+     "text": "How then can one not perceive that they are not gods, who cannot save themselves from war or from evils?"
+    },
+    {
+     "v": 50,
+     "text": "For since they are of wood and overlaid with gold and silver, it will be known afterward that they are false."
+    },
+    {
+     "v": 51,
+     "text": "It will be plain to all the nations and the kings that they are not gods but works of human hands, and that there is no work of God in them."
+    },
+    {
+     "v": 52,
+     "text": "Who then does not know that they are not gods?"
+    },
+    {
+     "v": 53,
+     "text": "For they cannot set up a king over a land, or give rain to human beings."
+    },
+    {
+     "v": 54,
+     "text": "They cannot judge their own cause or deliver one who is wronged, being powerless; for they are like crows between heaven and earth.{k}"
+    },
+    {
+     "v": 55,
+     "text": "For when fire falls upon a house of gods of wood or overlaid with gold or silver, their priests will flee and be saved, but they themselves will be burned up like beams in the middle."
+    },
+    {
+     "v": 56,
+     "text": "And they cannot withstand a king or enemies. How then can anyone suppose or admit that they are gods?"
+    },
+    {
+     "v": 57,
+     "text": "Gods of wood and overlaid with silver and gold cannot save themselves from thieves and robbers;"
+    },
+    {
+     "v": 58,
+     "text": "the strong will strip off their gold and silver and the clothing that wraps them and go off with it, and they cannot help themselves."
+    },
+    {
+     "v": 59,
+     "text": "So it is better to be a king who shows his own courage, or a household pot useful for what its owner needs, than these false gods; or a door in a house, keeping safe what is inside it, than these false gods; or a wooden pillar in a palace, than these false gods."
+    },
+    {
+     "v": 60,
+     "text": "For sun and moon and stars, being bright and sent out for some use, are obedient."
+    },
+    {
+     "v": 61,
+     "text": "So also the lightning, when it flashes, is fair to see; and in the same way the wind blows in every land."
+    },
+    {
+     "v": 62,
+     "text": "And when the clouds are ordered by God to pass over the whole inhabited world, they carry out the order."
+    },
+    {
+     "v": 63,
+     "text": "And the fire sent from above to consume mountains and woods does what it is ordered. But these are like them neither in looks nor in powers."
+    },
+    {
+     "v": 64,
+     "text": "Therefore one must neither think nor call them gods, since they are not able either to judge a cause or to do good to human beings."
+    },
+    {
+     "v": 65,
+     "text": "Knowing, then, that they are not gods, do not fear them."
+    },
+    {
+     "v": 66,
+     "text": "For they can neither curse nor bless kings;"
+    },
+    {
+     "v": 67,
+     "text": "nor can they show signs in the heavens among the nations, or shine like the sun, or give light like the moon."
+    },
+    {
+     "v": 68,
+     "text": "Better than they are the beasts of the field, for these can run into a covert and help themselves."
+    },
+    {
+     "v": 69,
+     "text": "So in no way is it plain to us that they are gods; therefore do not fear them."
+    },
+    {
+     "v": 70,
+     "text": "For as a scarecrow in a patch of cucumbers{l} keeps no watch over anything, so are their wooden gods with their gold and silver plating."
+    },
+    {
+     "v": 71,
+     "text": "Likewise their wooden gods, plated with gold and silver, are like a thorn-bush in a garden where every bird alights, or like a dead body flung out into the darkness."
+    },
+    {
+     "v": 72,
+     "text": "From the purple and the fine linen{m} rotting upon them you will know that they are not gods; and they themselves will in the end be eaten through and will be a reproach in the land."
+    },
+    {
+     "v": 73,
+     "text": "Better, then, is a righteous man who has no idols, for he will be far from reproach."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "In the Latin Vulgate and the King James Version this letter is Baruch 6, and its verses are numbered Baruch 6:1–73. Compare the letter of Jer 29:1–23."
+    },
+    {
+     "m": "b",
+     "ref": "1:3",
+     "text": "Jer 25:11–12 and 29:10 speak of seventy years; “seven generations” lengthens the exile, perhaps to suit a later author's own time."
+    },
+    {
+     "m": "c",
+     "ref": "1:4",
+     "text": "The processions of the Babylonian gods, as at the New Year festival; compare Isa 46:1–7."
+    },
+    {
+     "m": "d",
+     "ref": "1:7",
+     "text": "“He himself” is God's angel or God; the Greek is abrupt."
+    },
+    {
+     "m": "e",
+     "ref": "1:11",
+     "text": "Literally “on the housetop”; the Greek is obscure, and some render “in the brothel.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:22",
+     "text": "This is the only mention of cats in the Bible."
+    },
+    {
+     "m": "g",
+     "ref": "1:29",
+     "text": "Lev 12:2–4; 15:19–24."
+    },
+    {
+     "m": "h",
+     "ref": "1:35",
+     "text": "Greek chalkos, a small bronze coin."
+    },
+    {
+     "m": "i",
+     "ref": "1:41",
+     "text": "Bel (“lord”) is a title of Marduk, the chief god of Babylon; compare Bel and the Dragon. In the Greek, verse 40 runs on into verse 41 without a break."
+    },
+    {
+     "m": "j",
+     "ref": "1:43",
+     "text": "Compare the custom described by Herodotus (1.199). The Qumran papyrus 7QpapEpJer gr (7Q2), about 100 BC, preserves parts of verses 43–44 in Greek, as reported."
+    },
+    {
+     "m": "k",
+     "ref": "1:54",
+     "text": "The image is obscure: perhaps crows that flit about to no purpose."
+    },
+    {
+     "m": "l",
+     "ref": "1:70",
+     "text": "Jer 10:5."
+    },
+    {
+     "m": "m",
+     "ref": "1:72",
+     "text": "The Greek reads “marble” (marmaros), probably a corruption; “fine linen” (or “sheen”) follows a widely accepted correction, as reported."
+    }
+   ]
+  }
+ ]
+}
