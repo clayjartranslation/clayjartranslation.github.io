@@ -1,0 +1,2521 @@
+{
+ "id": "wisdom-of-solomon",
+ "name": "Wisdom of Solomon",
+ "division": "Apocrypha",
+ "sourceNote": "Translated from the Greek text of the Wisdom of Solomon as printed in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 2 (1891; public domain), which follows Codex Vaticanus (B) and records the readings of Sinaiticus (ℵ), Alexandrinus (A) and others. The book was composed in Greek, probably in Alexandria in the first century BC or early first century AD; it has no Hebrew original. It belongs to the Septuagint and is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha. Verse numbering follows standard English (NRSV) usage. Greek *kyrios* is rendered “Lord” and *theos* “God.” Measures are given in US units with the original and metric values in the notes. Variant readings not checked directly against the manuscripts are cited “as reported.” Brenton's English (1844) was consulted only as a check and not copied. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    11,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Love justice, you who judge the earth;\nthink of the Lord{a} in goodness,\nand seek him in singleness of heart,"
+    },
+    {
+     "v": 2,
+     "text": "because he is found by those who do not put him to the test,\nand he shows himself to those who do not distrust him."
+    },
+    {
+     "v": 3,
+     "text": "For crooked reasonings separate people from God,\nand his power, when it is tested, exposes the foolish;"
+    },
+    {
+     "v": 4,
+     "text": "because wisdom will not enter a soul that devises evil,\nnor dwell in a body held in pledge to sin."
+    },
+    {
+     "v": 5,
+     "text": "For a holy spirit of discipline{b} will flee from deceit,\nand will withdraw from senseless reasonings,\nand will be put to shame when wrongdoing comes in."
+    },
+    {
+     "v": 6,
+     "text": "For wisdom is a spirit that loves humankind,\nand she will not hold a blasphemer guiltless for his words;{c}\nbecause God is witness of his inmost feelings,{d}\nand a true overseer of his heart,\nand a hearer of his tongue."
+    },
+    {
+     "v": 7,
+     "text": "Because the spirit of the Lord has filled the inhabited world,\nand that which holds all things together has knowledge of every voice."
+    },
+    {
+     "v": 8,
+     "text": "Therefore no one who utters unjust things will escape notice,\nnor will Justice,{e} when she convicts, pass him by."
+    },
+    {
+     "v": 9,
+     "text": "For there will be an inquiry into the counsels of the ungodly,\nand the report of his words will come to the Lord,\nto convict him of his lawless deeds;"
+    },
+    {
+     "v": 10,
+     "text": "because a jealous ear hears all things,\nand the murmur of grumbling is not hidden."
+    },
+    {
+     "v": 11,
+     "text": "Guard yourselves, then, against useless grumbling,\nand keep your tongue from slander;\nbecause no secret word goes for nothing,{f}\nand a lying mouth destroys the soul."
+    },
+    {
+     "v": 12,
+     "text": "Do not court death by the error of your life,\nnor draw destruction on yourselves by the works of your hands;"
+    },
+    {
+     "v": 13,
+     "text": "because God did not make death,\nand he takes no delight in the destruction of the living."
+    },
+    {
+     "v": 14,
+     "text": "For he created all things so that they might exist,\nand the generative forces{g} of the world are wholesome,\nand there is no poison of destruction in them,\nnor is the kingdom{h} of Hades on earth."
+    },
+    {
+     "v": 15,
+     "text": "For justice is immortal.{i}"
+    },
+    {
+     "v": 16,
+     "text": "But the ungodly by their hands and their words summoned him;{j}\nconsidering him a friend, they wasted away,\nand they made a covenant with him,\nbecause they are fit to belong to his portion."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Greek kyrios, “Lord,” the Septuagint's usual rendering of the divine name YHWH; this translation keeps “Lord” in the Greek books. The opening address “you who judge the earth” echoes Ps 2:10."
+    },
+    {
+     "m": "b",
+     "ref": "1:5",
+     "text": "Or “of instruction”; Greek paideia, training or correction. Some manuscripts (as reported, Sinaiticus) read “of wisdom.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:6",
+     "text": "Greek “from his lips.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:6",
+     "text": "Greek “his kidneys,” thought of as the seat of the emotions."
+    },
+    {
+     "m": "e",
+     "ref": "1:8",
+     "text": "Greek dikē, justice personified as an avenging power."
+    },
+    {
+     "m": "f",
+     "ref": "1:11",
+     "text": "Or “goes unpunished”; Greek “will not go empty.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:14",
+     "text": "Or “the creatures,” “the things that come into being”; Greek geneseis."
+    },
+    {
+     "m": "h",
+     "ref": "1:14",
+     "text": "Or “palace,” “dominion”; Greek basileion."
+    },
+    {
+     "m": "i",
+     "ref": "1:15",
+     "text": "The Latin tradition adds a further line, “but injustice is the acquisition of death,” which is not in the Greek manuscripts used here."
+    },
+    {
+     "m": "j",
+     "ref": "1:16",
+     "text": "That is, death."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    6,
+    12,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "For, reckoning wrongly, they said to themselves,\n“Brief and full of grief is this life of ours,\nand for a mortal's end there is no cure,\nnor is anyone known who has come back{a} out of Hades."
+    },
+    {
+     "v": 2,
+     "text": "For we came into being by chance,\nand afterward we shall be as though we had never been;\nbecause the breath in our nostrils is smoke,\nand reason is a spark kindled by the beating of our hearts;"
+    },
+    {
+     "v": 3,
+     "text": "when it is put out, the body will turn to ashes,\nand the spirit will be scattered like thin air."
+    },
+    {
+     "v": 4,
+     "text": "Our name will be forgotten in time,\nand no one will remember our works;\nour life will pass away like the traces of a cloud,\nand be scattered like mist\nchased by the rays of the sun\nand weighed down by its heat."
+    },
+    {
+     "v": 5,
+     "text": "For our allotted time is the passing of a shadow,\nand there is no going back from our end,\nbecause it is sealed up and no one turns it back."
+    },
+    {
+     "v": 6,
+     "text": "“Come, then, let us enjoy the good things that are present,\nand make use of the creation{b} eagerly, as in youth."
+    },
+    {
+     "v": 7,
+     "text": "With wine of great price and with perfumes let us be filled,\nand let no blossom of spring{c} get by us."
+    },
+    {
+     "v": 8,
+     "text": "Let us crown ourselves with rosebuds before they wither."
+    },
+    {
+     "v": 9,
+     "text": "Let none of us go without his share in our revelry;\neverywhere let us leave tokens of our merriment,\nbecause this is our portion, and this our lot."
+    },
+    {
+     "v": 10,
+     "text": "Let us oppress the poor man who is just;\nlet us not spare the widow,\nnor respect the gray hairs of the aged, many in years."
+    },
+    {
+     "v": 11,
+     "text": "But let our strength be our law of justice,\nfor what is weak proves itself useless."
+    },
+    {
+     "v": 12,
+     "text": "“Let us lie in wait for the just man, because he is inconvenient to us,\nand he opposes our deeds;\nhe reproaches us for sins against the law,\nand charges us with sins against our training."
+    },
+    {
+     "v": 13,
+     "text": "He professes to have knowledge of God,\nand calls himself a child{d} of the Lord."
+    },
+    {
+     "v": 14,
+     "text": "He has become to us a reproof of our thoughts;\nhe is a burden to us even to look at,"
+    },
+    {
+     "v": 15,
+     "text": "because his life is unlike that of others,\nand his paths are of another kind."
+    },
+    {
+     "v": 16,
+     "text": "We are counted by him as something counterfeit,\nand he keeps away from our ways as from uncleanness;\nhe calls the last end of the just happy,\nand boasts that God is his father."
+    },
+    {
+     "v": 17,
+     "text": "Let us find out whether what he says is true,\nand make trial of how things go with him when he departs."
+    },
+    {
+     "v": 18,
+     "text": "For if the just man is God's son, he will help him,\nand will rescue him from the hand of his adversaries."
+    },
+    {
+     "v": 19,
+     "text": "Let us examine him with insult and torture,\nso that we may know his gentleness,\nand put his forbearance to the proof."
+    },
+    {
+     "v": 20,
+     "text": "Let us condemn him to a shameful death,\nfor, according to his words, he will be watched over.”{e}"
+    },
+    {
+     "v": 21,
+     "text": "Thus they reasoned, and they were led astray,\nfor their wickedness blinded them,"
+    },
+    {
+     "v": 22,
+     "text": "They had no knowledge of God's hidden counsels,{f}\nthey set no hope on the payment due to holiness,\nand they did not judge that spotless souls have a reward of honor;"
+    },
+    {
+     "v": 23,
+     "text": "for God created humankind for incorruption,\nand made it the image of his own eternity;{g}"
+    },
+    {
+     "v": 24,
+     "text": "but through the envy of the devil{h} death came into the world,\nand those who belong to his party experience it."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Or “to release anyone.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:6",
+     "text": "Or “of created things.”"
+    },
+    {
+     "m": "c",
+     "ref": "2:7",
+     "text": "Some manuscripts read “flower of the air”; others “flower of life.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:13",
+     "text": "Or “servant”; Greek pais can mean either."
+    },
+    {
+     "m": "e",
+     "ref": "2:20",
+     "text": "Literally “for there will be a visitation of him according to his words.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:22",
+     "text": "Greek mystēria, “mysteries.”"
+    },
+    {
+     "m": "g",
+     "ref": "2:23",
+     "text": "Some manuscripts read “of his own nature” (Greek idiotētos for aidiotētos), as reported."
+    },
+    {
+     "m": "h",
+     "ref": "2:24",
+     "text": "Greek diabolos, “slanderer,” here commonly understood of the serpent of Gen 3."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    10,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But the souls of the just are in the hand of God,\nand no torment will ever{a} touch them."
+    },
+    {
+     "v": 2,
+     "text": "In the eyes of the foolish they seemed to have died,\nand their departure was reckoned an affliction,"
+    },
+    {
+     "v": 3,
+     "text": "and their going from us a ruin;\nbut they are at peace."
+    },
+    {
+     "v": 4,
+     "text": "For though in the sight of people they were punished,\ntheir hope is full of immortality."
+    },
+    {
+     "v": 5,
+     "text": "Having been disciplined a little, they will receive great good,\nbecause God tested them and found them worthy of himself;"
+    },
+    {
+     "v": 6,
+     "text": "like gold in the furnace he tried them,\nand like a whole burnt offering{b} he accepted them."
+    },
+    {
+     "v": 7,
+     "text": "In the time of their visitation they will shine out,\nand they will run like sparks through stubble."
+    },
+    {
+     "v": 8,
+     "text": "Nations they shall judge, over peoples they shall hold sway,\nand over them the Lord shall be king to the ages."
+    },
+    {
+     "v": 9,
+     "text": "Whoever has put trust in him shall come to understand what is true,\nand those faithful in love shall remain beside him,\nfor favor and mercy belong to those he has chosen.{c}"
+    },
+    {
+     "v": 10,
+     "text": "But the ungodly will receive punishment as their reasonings deserve,\nthose who disregarded the just{d} and rebelled against the Lord;"
+    },
+    {
+     "v": 11,
+     "text": "for whoever despises wisdom and discipline is miserable;\ntheir hope is empty, their labors unprofitable,\nand their works useless."
+    },
+    {
+     "v": 12,
+     "text": "Their wives are foolish, and their children evil;\ncursed is their offspring."
+    },
+    {
+     "v": 13,
+     "text": "For blessed is the barren woman who is undefiled,\nwho has not known a bed of transgression;\nshe will have fruit when souls are visited."
+    },
+    {
+     "v": 14,
+     "text": "Blessed too the eunuch who has worked no lawless thing with his hand\nnor plotted evil things against the Lord;\nto him a chosen gift shall be given for his fidelity,\nand in the Lord's sanctuary a portion all the more delightful."
+    },
+    {
+     "v": 15,
+     "text": "For good toil yields a fruit of glory,\nand the root of good sense never gives way."
+    },
+    {
+     "v": 16,
+     "text": "But children of adulterers will not come to maturity,\nand the offspring of an unlawful bed will vanish."
+    },
+    {
+     "v": 17,
+     "text": "Even if they live long, they will be counted as nothing,\nand at the last their old age will be without honor."
+    },
+    {
+     "v": 18,
+     "text": "Should they die quickly, hope is not theirs,\nnor any comfort in the day when the verdict is given.{e}"
+    },
+    {
+     "v": 19,
+     "text": "For hard is the end of an unrighteous generation."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "The Greek uses an emphatic double negative."
+    },
+    {
+     "m": "b",
+     "ref": "3:6",
+     "text": "Greek holokarpōma, a sacrifice wholly consumed on the altar."
+    },
+    {
+     "m": "c",
+     "ref": "3:9",
+     "text": "Some manuscripts add “and he watches over his holy ones,” as at 4:15."
+    },
+    {
+     "m": "d",
+     "ref": "3:10",
+     "text": "Or “what is just.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:18",
+     "text": "Greek “of decision,” that is, of the verdict."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    7,
+    16
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Childlessness joined to virtue is better,\nfor in remembering virtue{a} there is deathlessness,\nsince both with God and among mortals it is recognized."
+    },
+    {
+     "v": 2,
+     "text": "While it is here, people copy it;\nonce gone, they long for it;\nand through the age it walks in procession wearing the crown,\nvictor in the contest whose prizes carry no stain."
+    },
+    {
+     "v": 3,
+     "text": "But the prolific brood of the ungodly will be of no use,\nand from bastard slips they will not strike a deep root\nor take a firm hold."
+    },
+    {
+     "v": 4,
+     "text": "Though for a season they may sprout in branches,\nyet, set unsteadily, they will be rocked by the wind\nand torn up by the roots under the gales' force."
+    },
+    {
+     "v": 5,
+     "text": "Their shoots will be snapped off unfinished,\ntheir fruit worthless,\nunripe for food, fit for nothing at all."
+    },
+    {
+     "v": 6,
+     "text": "For children born of unlawful unions{b}\nare witnesses of wickedness against their parents when they are examined."
+    },
+    {
+     "v": 7,
+     "text": "But the just, though he come to his end early, will be at rest."
+    },
+    {
+     "v": 8,
+     "text": "For honorable old age is not that of long time,\nnor is it measured by number of years;"
+    },
+    {
+     "v": 9,
+     "text": "but understanding is gray hair for human beings,\nand a spotless life is ripe old age."
+    },
+    {
+     "v": 10,
+     "text": "Being pleasing to God, he was loved,\nand while living among sinners he was taken up.{c}"
+    },
+    {
+     "v": 11,
+     "text": "He was snatched away so that evil might not alter his understanding\nor guile deceive his soul."
+    },
+    {
+     "v": 12,
+     "text": "For the bewitching of trivial things obscures what is good,\nand the roving of desire perverts an innocent mind."
+    },
+    {
+     "v": 13,
+     "text": "Made complete in a brief span, he filled out lengthy times;"
+    },
+    {
+     "v": 14,
+     "text": "for his soul was pleasing to the Lord;\ntherefore he hurried him{d} out of the midst of wickedness.\nBut the peoples saw and did not understand,\nnor did they take such a thing to heart,"
+    },
+    {
+     "v": 15,
+     "text": "that grace and mercy are with his chosen ones,\nand he watches over his holy ones."
+    },
+    {
+     "v": 16,
+     "text": "The just man who has died will condemn the ungodly who are living,\nand youth quickly perfected will condemn the many years of the unjust man's old age."
+    },
+    {
+     "v": 17,
+     "text": "They will look on the wise man's death\nwithout grasping what the Lord intended for him\nor why he set him in safety."
+    },
+    {
+     "v": 18,
+     "text": "They will see and despise him,\nbut the Lord will laugh them to scorn."
+    },
+    {
+     "v": 19,
+     "text": "After this they will turn into a corpse without honor,\na thing insulted among the dead through the age;\nfor he will hurl them down headlong, unable to speak,\nand rock them off their foundations;\nto the very end they shall lie parched and waste,\nthey shall be in pain,\nand their remembrance shall be lost."
+    },
+    {
+     "v": 20,
+     "text": "Cowering, they will come to the counting of their sins,\nand their own lawless acts will stand opposite and accuse them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Greek “of it.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:6",
+     "text": "Greek “of lawless sleep.”"
+    },
+    {
+     "m": "c",
+     "ref": "4:10",
+     "text": "Greek metetethē, the word used of Enoch in Gen 5:24 (Septuagint)."
+    },
+    {
+     "m": "d",
+     "ref": "4:14",
+     "text": "Or “it hurried”; the subject may be the soul."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    9,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then the righteous one will take his stand with much boldness\nfacing those who afflicted him\nand who set his toils at nothing."
+    },
+    {
+     "v": 2,
+     "text": "At the sight they will be thrown into turmoil by a terrible fear\nand stand astonished at a deliverance beyond all expectation."
+    },
+    {
+     "v": 3,
+     "text": "Repenting, they will say to one another,\nand groan through distress of spirit:"
+    },
+    {
+     "v": 4,
+     "text": "“This is the man we used to laugh at,\nwhom we made a proverb of scorn — senseless that we were!\nHis way of life we counted lunacy,\nand his death a dishonor."
+    },
+    {
+     "v": 5,
+     "text": "How has he been numbered among the children{a} of God,\nand his lot is among the holy ones?"
+    },
+    {
+     "v": 6,
+     "text": "We wandered, then, from the road of truth;\nthe light of righteousness never shone for us,\nand for us the sun never rose."
+    },
+    {
+     "v": 7,
+     "text": "We were glutted on lawless and ruinous tracks;\nwe went through deserts with no road;\nthe Lord's way we never knew."
+    },
+    {
+     "v": 8,
+     "text": "What did our arrogance profit us?\nAnd what good has wealth, with our boasting, brought us?"
+    },
+    {
+     "v": 9,
+     "text": "“All those things have passed away like a shadow,\nand like a rumor that runs by;"
+    },
+    {
+     "v": 10,
+     "text": "like a ship that passes through the surging water,\nand when it has gone through, no trace of it can be found,\nno track of its keel in the waves;"
+    },
+    {
+     "v": 11,
+     "text": "or as with a bird darting through the air:\nno mark of its course is to be found,\nbut the slight breeze, whipped by the stroke of its feathers\nand split by its whirring force,\nis crossed by its beating wings,\nand afterward nothing in it shows that it went that way;"
+    },
+    {
+     "v": 12,
+     "text": "or as, when an arrow is shot at a target,\nthe air, cut through, at once closes up again,\nso that no one knows its pathway."
+    },
+    {
+     "v": 13,
+     "text": "So we also, as soon as we were born, ceased to be,\nand we had no sign of virtue to show,\nbut were consumed in our wickedness.”"
+    },
+    {
+     "v": 14,
+     "text": "For the hope of the ungodly is like chaff{b} carried by the wind,\nand like fine frost{c} driven away by a storm;\nit is scattered like smoke before the wind,\nand it passes like the memory of a guest who stays a single day."
+    },
+    {
+     "v": 15,
+     "text": "But the righteous live to the age,\nin the Lord is their recompense,\nand the Most High takes thought for them."
+    },
+    {
+     "v": 16,
+     "text": "Therefore they will receive the royal crown of splendor\nand the diadem of beauty from the hand of the Lord,\nbecause with his right hand he will cover them,\nand with his arm he will shield them."
+    },
+    {
+     "v": 17,
+     "text": "He will take his zeal as his full armor,\nand will arm creation to repel his enemies;"
+    },
+    {
+     "v": 18,
+     "text": "he will put on justice as a breastplate,\nand wear impartial judgment as a helmet;"
+    },
+    {
+     "v": 19,
+     "text": "he will take holiness as an invincible shield,"
+    },
+    {
+     "v": 20,
+     "text": "he will whet unbending anger into a blade,\nand the world{d} will go to war at his side against those who have lost their senses."
+    },
+    {
+     "v": 21,
+     "text": "Well-aimed shafts of lightning will fly,\nand as from a well-drawn bow of clouds they will leap to the target,"
+    },
+    {
+     "v": 22,
+     "text": "and hailstones full of wrath will be hurled as from a catapult;\nthe water of the sea will rage against them,\nand rivers will sweep over them relentlessly;"
+    },
+    {
+     "v": 23,
+     "text": "a blast of might{e} will stand up against them\nand scatter them like a whirlwind winnowing grain.\nSo lawlessness will turn the whole earth to desert,\nand ill-doing will topple the seats of the powerful."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:5",
+     "text": "Greek “sons”; the “holy ones” may be angels."
+    },
+    {
+     "m": "b",
+     "ref": "5:14",
+     "text": "Greek chnous, fine down or dust."
+    },
+    {
+     "m": "c",
+     "ref": "5:14",
+     "text": "Some manuscripts read “spider's web” (Greek arachnē for pachnē), as reported."
+    },
+    {
+     "m": "d",
+     "ref": "5:20",
+     "text": "Greek kosmos, “the world.”"
+    },
+    {
+     "m": "e",
+     "ref": "5:23",
+     "text": "Or “a spirit of power.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    12,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Listen, therefore, you kings, and understand;\nlearn, you judges of the ends of the earth."
+    },
+    {
+     "v": 2,
+     "text": "Give ear, you who rule over multitudes,\nand who take pride in throngs of nations."
+    },
+    {
+     "v": 3,
+     "text": "For your dominion was given you from the Lord,\nand your sovereignty from the Most High,\nwho will search out your works and examine your counsels."
+    },
+    {
+     "v": 4,
+     "text": "For though you were ministers of his reign, you gave no upright judgment,\nyou did not guard the law,\nand you did not walk by God's design."
+    },
+    {
+     "v": 5,
+     "text": "Fearfully and fast he will stand over you,\nsince on those who stand high a sharp judgment comes."
+    },
+    {
+     "v": 6,
+     "text": "The least may be forgiven out of pity,\nbut the strong will be strongly examined."
+    },
+    {
+     "v": 7,
+     "text": "For the Master of all will not shrink from anyone's face,\nnor have regard for greatness,\nbecause he himself made both small and great,\nand he takes thought for all alike."
+    },
+    {
+     "v": 8,
+     "text": "For the mighty a stern scrutiny lies ahead."
+    },
+    {
+     "v": 9,
+     "text": "To you, then, O sovereigns, my words are addressed,\nso that you may learn wisdom and not fall away."
+    },
+    {
+     "v": 10,
+     "text": "For those who keep holy things in holiness will be made holy,\nand those who have been taught them will find a defense."
+    },
+    {
+     "v": 11,
+     "text": "Therefore set your desire on my words;\nlong for them, and you will be instructed."
+    },
+    {
+     "v": 12,
+     "text": "Wisdom is radiant and unfading,\nand she is easily seen by those who love her,\nand found by those who seek her."
+    },
+    {
+     "v": 13,
+     "text": "She is quick to be recognized by those who long for her, coming to meet them first."
+    },
+    {
+     "v": 14,
+     "text": "Whoever rises early to seek her will not grow weary,\nfor he will find her sitting at his gates."
+    },
+    {
+     "v": 15,
+     "text": "To think upon her is the perfection of understanding,\nand whoever keeps vigil for her sake will soon be free from care,"
+    },
+    {
+     "v": 16,
+     "text": "For she herself goes round looking for those who deserve her;\nshe shows herself to them kindly along their roads\nand comes to meet them in every purpose of theirs."
+    },
+    {
+     "v": 17,
+     "text": "Her starting point is the truest longing for discipline;\nand care for discipline is love;"
+    },
+    {
+     "v": 18,
+     "text": "and love of her is the keeping of her laws,\nand attention to her laws is assurance of incorruption,"
+    },
+    {
+     "v": 19,
+     "text": "and incorruption brings one near to God;"
+    },
+    {
+     "v": 20,
+     "text": "Thus the longing for wisdom raises one up to royal rule.{a}"
+    },
+    {
+     "v": 21,
+     "text": "If, then, you delight in thrones and scepters, O sovereigns of peoples,\nhonor wisdom, so that you may reign for ever."
+    },
+    {
+     "v": 22,
+     "text": "What wisdom is and how she came to be I will declare,\nand I will not hide secret things from you,\nbut I will trace her out from the beginning of creation,\nand bring the knowledge of her into the open,\nand I will not pass by the truth;"
+    },
+    {
+     "v": 23,
+     "text": "nor will I travel in company with wasting envy,\nfor envy has no fellowship with wisdom."
+    },
+    {
+     "v": 24,
+     "text": "A host of the wise keeps the world safe,\nand a prudent king is the steadiness of a people."
+    },
+    {
+     "v": 25,
+     "text": "Therefore be instructed by my words, and you will profit."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:20",
+     "text": "Verses 17–20 form a chain argument (sorites), each clause taking up the last word of the one before."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    7,
+    15,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I too am mortal, like everyone,\na descendant of the earth-born first-formed one;{a}\nand in a mother's womb I was sculpted into flesh,"
+    },
+    {
+     "v": 2,
+     "text": "within a period of ten months,{b} curdled in blood\nfrom a man's seed and the pleasure that comes with sleep."
+    },
+    {
+     "v": 3,
+     "text": "And when I was born, I too drew in the common air\nand fell upon the earth that suffers alike for all;\nmy first sound, like that of all, was a cry."
+    },
+    {
+     "v": 4,
+     "text": "I was nursed in swaddling clothes and with cares."
+    },
+    {
+     "v": 5,
+     "text": "For no king has had any other beginning of existence;"
+    },
+    {
+     "v": 6,
+     "text": "there is for all one entrance into life, and a like departure."
+    },
+    {
+     "v": 7,
+     "text": "Therefore I prayed, and understanding was granted me;\nI called upon God, and a spirit of wisdom came to me."
+    },
+    {
+     "v": 8,
+     "text": "I preferred her before scepters and thrones,\nand wealth I held as nothing beside her."
+    },
+    {
+     "v": 9,
+     "text": "Nor did I liken any priceless gem to her,\nfor all gold in her sight is a little sand,\nand silver will be counted as clay before her."
+    },
+    {
+     "v": 10,
+     "text": "Beyond health and good looks I loved her,\nand I chose to have her rather than light,\nbecause the radiance that comes from her never sleeps."
+    },
+    {
+     "v": 11,
+     "text": "Together with her all good things came to me,\nand in her hands wealth past counting."
+    },
+    {
+     "v": 12,
+     "text": "Over all of them I was glad, since wisdom goes at their head,\nthough I was unaware that she was the one who bore{c} them."
+    },
+    {
+     "v": 13,
+     "text": "Without guile I learned, and without grudging I share;\nI do not hide away her riches;"
+    },
+    {
+     "v": 14,
+     "text": "for she is an unfailing treasure for human beings;\nthose who make use of it gain friendship with God,\ncommended by the gifts that come from instruction."
+    },
+    {
+     "v": 15,
+     "text": "May God grant me to speak as he would have it,{d}\nand to think thoughts worthy of what has been given me,\nfor he is himself the guide even of wisdom,\nand the one who sets the wise aright."
+    },
+    {
+     "v": 16,
+     "text": "For in his hand are both we ourselves and our sayings,\nand all good sense and the know-how of the crafts."
+    },
+    {
+     "v": 17,
+     "text": "He himself gave me true knowledge of the things that are:\nto know how the universe is put together and how its elements act;"
+    },
+    {
+     "v": 18,
+     "text": "the beginning and end and middle of times,\nthe shifts of the solstices{e} and the changes of the seasons,"
+    },
+    {
+     "v": 19,
+     "text": "the cycles of years and the positions of the stars,"
+    },
+    {
+     "v": 20,
+     "text": "the natures of living creatures and the tempers of wild beasts,\nthe forces of spirits{f} and the reasonings of human beings,\nthe varieties of plants and the virtues of roots;"
+    },
+    {
+     "v": 21,
+     "text": "whatever is hidden and whatever is manifest I learned,\nfor wisdom, the artisan of all things, taught me."
+    },
+    {
+     "v": 22,
+     "text": "For there is in her a spirit, thinking and holy,\nonly-begotten, many-sided, fine,\nquick to move, distinct, unsoiled,\nplain, unharmed, fond of the good, sharp,"
+    },
+    {
+     "v": 23,
+     "text": "unhindered, beneficent, humane,\nsteadfast, sure, free from care,\nall-powerful, overseeing all,\nand passing through all spirits\nthat are intelligent, pure, and most subtle.{g}"
+    },
+    {
+     "v": 24,
+     "text": "For wisdom is more mobile than any motion;\nbecause of her purity she pervades and penetrates all things."
+    },
+    {
+     "v": 25,
+     "text": "For she is a vapor of the power of God,\nand an unalloyed outflow of the glory of the Almighty;{h}\ntherefore nothing defiled finds its way into her."
+    },
+    {
+     "v": 26,
+     "text": "For she is a reflected radiance of everlasting light,\na spotless mirror of the working of God,\nand an image of his goodness."
+    },
+    {
+     "v": 27,
+     "text": "One, she has power for everything;\nabiding in herself, she makes everything new;\nand age after age, crossing into devout souls,\nshe fashions friends of God and prophets."
+    },
+    {
+     "v": 28,
+     "text": "For God loves nothing except the one who lives together with wisdom."
+    },
+    {
+     "v": 29,
+     "text": "For she is lovelier than the sun,\nand above every arrangement of stars;\nset beside light, she is found ahead of it;"
+    },
+    {
+     "v": 30,
+     "text": "for night succeeds to it,\nbut against wisdom evil does not prevail."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "That is, Adam."
+    },
+    {
+     "m": "b",
+     "ref": "7:2",
+     "text": "Ten lunar months, about nine calendar months."
+    },
+    {
+     "m": "c",
+     "ref": "7:12",
+     "text": "Greek genesin, “origin” or “begetter”; some manuscripts read genetin, “mother.”"
+    },
+    {
+     "m": "d",
+     "ref": "7:15",
+     "text": "Or “to speak with judgment.”"
+    },
+    {
+     "m": "e",
+     "ref": "7:18",
+     "text": "Greek tropōn, “turnings,” the turning points of the sun's course."
+    },
+    {
+     "m": "f",
+     "ref": "7:20",
+     "text": "Or “winds.”"
+    },
+    {
+     "m": "g",
+     "ref": "7:23",
+     "text": "Verses 22–23 list twenty-one attributes (3 × 7), a number of perfection."
+    },
+    {
+     "m": "h",
+     "ref": "7:25",
+     "text": "Greek pantokratōr, “ruler of all.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    2,
+    9,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "From end to end she stretches out in strength,\nand she manages the whole well."
+    },
+    {
+     "v": 2,
+     "text": "Her I loved and sought out from my youth;\nI sought to take her as a bride for myself,\nand became a lover of her beauty."
+    },
+    {
+     "v": 3,
+     "text": "She proclaims her noble birth by living with God,\nand the Master of all loved her."
+    },
+    {
+     "v": 4,
+     "text": "For she is an initiate in the knowledge of God,\nand one who chooses among his works."
+    },
+    {
+     "v": 5,
+     "text": "If riches are a possession to be desired in life,\nwhat is richer than wisdom, who works all things?"
+    },
+    {
+     "v": 6,
+     "text": "And if understanding is at work,\nwho more than she is the artisan of what exists?"
+    },
+    {
+     "v": 7,
+     "text": "Does someone love righteousness?\nThe fruit of her toils is the virtues;\nfor she teaches moderation and good sense,\nrighteousness and manliness;{a}\nand for mortals in this life there is nothing more profitable than these."
+    },
+    {
+     "v": 8,
+     "text": "Does someone long for much experience?\nShe knows the ancient things and guesses the coming ones;\nshe knows the twists of sayings and how riddles are untied;\nsigns and portents she knows in advance,\nand how the seasons and the ages turn out."
+    },
+    {
+     "v": 9,
+     "text": "Therefore I determined to take her to live with me,\nknowing that she would be a counselor for good things\nand an encouragement in cares and grief."
+    },
+    {
+     "v": 10,
+     "text": "Because of her I shall have glory among the multitudes\nand honor in the presence of elders, though I am young."
+    },
+    {
+     "v": 11,
+     "text": "Sharp I shall be found in giving judgment,\nand before the powerful I shall be a marvel."
+    },
+    {
+     "v": 12,
+     "text": "When I am silent they will wait for me,\nand when I speak they will give heed,\nand if I speak at length, they will lay their hands on their mouths."
+    },
+    {
+     "v": 13,
+     "text": "Through her I shall possess deathlessness,\nand I shall leave to those who come after me a memory that lasts for ever."
+    },
+    {
+     "v": 14,
+     "text": "I shall order the affairs of peoples,\nand nations shall be made subject to me."
+    },
+    {
+     "v": 15,
+     "text": "Dread sovereigns will be afraid of me when they hear of me;\namong the people I shall show myself good, and in war courageous."
+    },
+    {
+     "v": 16,
+     "text": "Entering my house I shall take my rest beside her,\nfor there is no bitterness in her company,\nno pain in living with her, but good cheer and joy."
+    },
+    {
+     "v": 17,
+     "text": "Turning these things over within myself,\nand weighing them in my heart,\nthat deathlessness lies in being akin to wisdom,"
+    },
+    {
+     "v": 18,
+     "text": "and good delight in her friendship,\nand in the toils of her hands riches that do not run out,\nand good sense in practice at her side,\nand fair fame in taking part in her words,\nI went all around searching how I might take her for my own."
+    },
+    {
+     "v": 19,
+     "text": "I was a child of good nature,\nand a good soul fell to my lot;"
+    },
+    {
+     "v": 20,
+     "text": "or rather, being good, I entered an undefiled body.{b}"
+    },
+    {
+     "v": 21,
+     "text": "But perceiving that I would not otherwise gain possession of her unless God gave her —\nand it was a mark of understanding to know whose gift she was —\nI appealed to the Lord and implored him,\nand with my whole heart I said:"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:7",
+     "text": "The four cardinal virtues of Greek philosophy."
+    },
+    {
+     "m": "b",
+     "ref": "8:20",
+     "text": "The verse reflects the Greek idea of the soul's existence before the body; verse 19 states it the other way."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“God of the fathers and Lord of mercy,\nwho made all things by your word,"
+    },
+    {
+     "v": 2,
+     "text": "and by your wisdom formed humankind\nto have dominion over the creatures that came into being by you,"
+    },
+    {
+     "v": 3,
+     "text": "and to govern the world in holiness and justice,\nand to pronounce judgment in uprightness of soul,"
+    },
+    {
+     "v": 4,
+     "text": "grant me the wisdom that shares the seat of your thrones,\nand do not reject me from among your children.{a}"
+    },
+    {
+     "v": 5,
+     "text": "For I am your slave and your slave-girl's son,\na weak human being, of brief time,\nand too slight for understanding of right and of laws;"
+    },
+    {
+     "v": 6,
+     "text": "for even if one is perfect among the children of men,\nyet without the wisdom that comes from you he will be counted as nothing."
+    },
+    {
+     "v": 7,
+     "text": "It was you who picked me as king of your people\nand as judge of your sons and your daughters."
+    },
+    {
+     "v": 8,
+     "text": "You have told me to build a temple on your holy mountain,\nand an altar in the city where you have pitched your tent,\na copy of the holy tent that you prepared from the beginning."
+    },
+    {
+     "v": 9,
+     "text": "With you is wisdom, who knows your works\nand was present when you made the world,\nand who understands what is pleasing in your sight\nand what is right according to your commandments."
+    },
+    {
+     "v": 10,
+     "text": "Send her forth from the holy heavens,\nand from the throne of your glory dispatch her,\nthat she may be with me and labor with me,\nand that I may learn what is pleasing to you."
+    },
+    {
+     "v": 11,
+     "text": "For she knows all things and has insight into them,\nand in what I do she will lead me with good sense\nand keep watch over me by her glory."
+    },
+    {
+     "v": 12,
+     "text": "And my deeds shall be acceptable,\nand I shall judge your people righteously,\nand be worthy of my father's throne.{b}"
+    },
+    {
+     "v": 13,
+     "text": "“For what human being can learn the counsel of God?\nOr who can conceive what the Lord wills?"
+    },
+    {
+     "v": 14,
+     "text": "For the reasonings of mortals are timid,\nand our designs are likely to fail;"
+    },
+    {
+     "v": 15,
+     "text": "for a perishable body weighs down the soul,\nand this earthly tent burdens the mind that ponders many things."
+    },
+    {
+     "v": 16,
+     "text": "Even what is on earth we picture with difficulty,\nand what lies in our hands we discover with toil;\nbut the things in the heavens, who has tracked them down?"
+    },
+    {
+     "v": 17,
+     "text": "Who has learned your counsel, unless you gave wisdom\nand sent your holy spirit from on high?"
+    },
+    {
+     "v": 18,
+     "text": "So it was that the ways of earth's dwellers were made straight,\nand human beings learned the things that please you,\nand through wisdom they were brought to safety.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:4",
+     "text": "Or “servants”; Greek paides."
+    },
+    {
+     "m": "b",
+     "ref": "9:12",
+     "text": "Greek “thrones,” a plural of majesty."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "She it was who guarded the father of the world, the first to be shaped,\nwhen he had been created alone,\nand drew him out of his own fall,"
+    },
+    {
+     "v": 2,
+     "text": "and gave him strength to rule over all things."
+    },
+    {
+     "v": 3,
+     "text": "But when one who was unjust{a} turned from her in his anger,\nhe was destroyed together with the brother-killing rage he gave way to."
+    },
+    {
+     "v": 4,
+     "text": "And when because of him the earth was drowned, wisdom saved it once more,\npiloting the righteous one{b} on a cheap timber."
+    },
+    {
+     "v": 5,
+     "text": "She also, when the nations in wicked agreement had been confounded,{c}\nrecognized the just man{d} and preserved him blameless before God,\nand kept him strong against his compassion for his child."
+    },
+    {
+     "v": 6,
+     "text": "She rescued a just man{e} when the ungodly were perishing;\nhe fled from the fire that came down on the Five Cities."
+    },
+    {
+     "v": 7,
+     "text": "To their evil there still bears witness\na smoking land left waste,\nand plants that bear fruit not brought to its time,\nand, standing as a memorial of a soul without faith, a pillar of salt."
+    },
+    {
+     "v": 8,
+     "text": "For they walked past wisdom\nand so were not merely harmed by not knowing what is good,\nbut also left to the living a monument to their senselessness,\nthat what they stumbled in might not escape notice."
+    },
+    {
+     "v": 9,
+     "text": "Wisdom rescued from troubles those who served her."
+    },
+    {
+     "v": 10,
+     "text": "She guided a righteous one{f} along straight paths\nwhen he fled from the anger of his brother;\nshe let him see God's kingdom,\nshe gave him the knowledge of holy things,\nshe made him thrive in his hard work\nand multiplied what his labors produced."
+    },
+    {
+     "v": 11,
+     "text": "In the greed of those who overpowered him she stood at his side\nand gave him wealth."
+    },
+    {
+     "v": 12,
+     "text": "From his foes she kept him,\nand from those lying in ambush she made him safe;\nand a stiff contest she awarded to him,{g}\nthat he might know that reverence for God is stronger than all."
+    },
+    {
+     "v": 13,
+     "text": "When a just man{h} was sold, she did not abandon him,\nbut rescued him from sin."
+    },
+    {
+     "v": 14,
+     "text": "She went down with him into the dungeon,\nand in his bonds she did not leave him,\nuntil she brought him the scepter of a kingdom\nand authority over those who had lorded it over him;\nthose who had accused him she showed to be liars,\nand she gave him everlasting glory."
+    },
+    {
+     "v": 15,
+     "text": "A holy people and a blameless offspring\nshe delivered from a nation of oppressors."
+    },
+    {
+     "v": 16,
+     "text": "Into the soul of the Lord's attendant{i} she went,\nand she stood up to fearsome kings with portents and signs."
+    },
+    {
+     "v": 17,
+     "text": "To the holy ones she paid out the reward of their toil;\nshe led them on a wonderful road,\nand she was for them a covering in the day\nand a blaze of stars all night."
+    },
+    {
+     "v": 18,
+     "text": "She brought them over the Red Sea,\nand led them through deep waters;"
+    },
+    {
+     "v": 19,
+     "text": "but their enemies she drowned,\nand cast them up from the depth of the abyss."
+    },
+    {
+     "v": 20,
+     "text": "So the righteous carried off spoil from the ungodly,\nand they hymned, Lord, your holy name,\nand with one heart they praised your hand that fought for them;"
+    },
+    {
+     "v": 21,
+     "text": "for wisdom opened the mouths of the mute,\nand made the tongues of infants speak clearly."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:3",
+     "text": "Cain (Gen 4). Throughout chapters 10–19 the biblical figures are not named."
+    },
+    {
+     "m": "b",
+     "ref": "10:4",
+     "text": "Noah (Gen 6–9)."
+    },
+    {
+     "m": "c",
+     "ref": "10:5",
+     "text": "At Babel (Gen 11)."
+    },
+    {
+     "m": "d",
+     "ref": "10:5",
+     "text": "Abraham (Gen 12–22; for the child, Gen 22)."
+    },
+    {
+     "m": "e",
+     "ref": "10:6",
+     "text": "Lot (Gen 19). The “Five Cities” (Greek Pentapolis) are those of Gen 14:2."
+    },
+    {
+     "m": "f",
+     "ref": "10:10",
+     "text": "Jacob (Gen 27–31)."
+    },
+    {
+     "m": "g",
+     "ref": "10:12",
+     "text": "Jacob's wrestling at the Jabbok (Gen 32)."
+    },
+    {
+     "m": "h",
+     "ref": "10:13",
+     "text": "Joseph (Gen 37–41)."
+    },
+    {
+     "m": "i",
+     "ref": "10:16",
+     "text": "Moses."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "She prospered their works by the hand of a holy prophet."
+    },
+    {
+     "v": 2,
+     "text": "Through a desert where no one lived they made their way,\nand in places with no path they set up their tents."
+    },
+    {
+     "v": 3,
+     "text": "They took a stand against those at war with them and beat back their enemies."
+    },
+    {
+     "v": 4,
+     "text": "They were thirsty and called on you,\nand from a sheer cliff water was given them,\nand from hard rock relief from thirst."
+    },
+    {
+     "v": 5,
+     "text": "For by the very means through which their foes were chastised,\nby these, when they were at a loss, they received benefit.{a}"
+    },
+    {
+     "v": 6,
+     "text": "In place of a river's ever-running spring\nchurned with gore and filth{b}"
+    },
+    {
+     "v": 7,
+     "text": "as a reproof of the order to murder the babies,\nyou gave them plenty of water when they had no hope of it,"
+    },
+    {
+     "v": 8,
+     "text": "making plain by the thirst they then felt\nin what manner you chastised their opponents."
+    },
+    {
+     "v": 9,
+     "text": "For when they were tested, though they were being disciplined in mercy,\nthey learned how the ungodly were tormented when judged in wrath."
+    },
+    {
+     "v": 10,
+     "text": "For you tested them as a father does in warning,\nbut you examined the others as a stern king does in condemnation."
+    },
+    {
+     "v": 11,
+     "text": "Whether absent or present, they were equally distressed,"
+    },
+    {
+     "v": 12,
+     "text": "for a twofold grief took hold of them,\nand a groaning at the memory of what had happened."
+    },
+    {
+     "v": 13,
+     "text": "For when they heard that through their own punishments\nthe others had been benefited, they perceived the Lord."
+    },
+    {
+     "v": 14,
+     "text": "For the one whom long before they had cast out and exposed{c}\nand then rejected with scorn,\nhim they admired at the end of the events,\nhaving thirsted in a way unlike the just."
+    },
+    {
+     "v": 15,
+     "text": "In return for their senseless and wicked thoughts,\nby which they were led astray to worship irrational serpents and worthless creatures,{d}\nyou sent upon them a multitude of irrational creatures to punish them,"
+    },
+    {
+     "v": 16,
+     "text": "so they would know that the instruments of someone's sin are the instruments of his punishment."
+    },
+    {
+     "v": 17,
+     "text": "For your all-powerful hand,\nwhich created the world out of formless matter,\ndid not lack means to send upon them a multitude of bears or bold lions,"
+    },
+    {
+     "v": 18,
+     "text": "or newly created unknown beasts full of rage,\neither breathing out fiery breath,\nor belching thick smoke,\nor flashing terrible sparks from their eyes;"
+    },
+    {
+     "v": 19,
+     "text": "not only could their harm destroy them utterly,\nbut even the very sight of them could kill by fright."
+    },
+    {
+     "v": 20,
+     "text": "Even apart from these, they could have fallen at a single breath,\npursued by justice\nand scattered by the breath of your power.\nBut you have arranged all things by measure and number and weight."
+    },
+    {
+     "v": 21,
+     "text": "For great might is ever at your side,\nand the strength of your arm, who shall stand against it?"
+    },
+    {
+     "v": 22,
+     "text": "The whole universe before you is like the small weight that turns a balance,{e}\nand like a dewdrop at dawn coming down to the ground."
+    },
+    {
+     "v": 23,
+     "text": "But you have mercy on all, because you can do all things,\nand you overlook the sins of human beings, so that they may repent."
+    },
+    {
+     "v": 24,
+     "text": "For you love all things that exist,\nand loathe none of the things you have made;\nfor you would never have formed anything if you had hated it."
+    },
+    {
+     "v": 25,
+     "text": "How would anything remain if you did not wish it?\nOr what you had not called, how would it be kept?"
+    },
+    {
+     "v": 26,
+     "text": "You spare all things, because they are yours, O Master, lover of souls.{f}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:5",
+     "text": "The theme of chapters 11–19: the same elements that punished Egypt benefited Israel."
+    },
+    {
+     "m": "b",
+     "ref": "11:6",
+     "text": "The first plague (Exod 7:14–24)."
+    },
+    {
+     "m": "c",
+     "ref": "11:14",
+     "text": "Moses as an infant (Exod 1:22–2:3)."
+    },
+    {
+     "m": "d",
+     "ref": "11:15",
+     "text": "Egyptian animal worship."
+    },
+    {
+     "m": "e",
+     "ref": "11:22",
+     "text": "Compare Isa 40:15."
+    },
+    {
+     "m": "f",
+     "ref": "11:26",
+     "text": "Or “lover of life.”"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    3,
+    12,
+    19,
+    23
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "For your incorruptible spirit is in all things."
+    },
+    {
+     "v": 2,
+     "text": "So those who slip you reprove bit by bit,\nand in the things where they go wrong you remind and admonish them,\nthat they may be set free from evil and put their trust, Lord, in you."
+    },
+    {
+     "v": 3,
+     "text": "For the ancient dwellers in your holy land{a}"
+    },
+    {
+     "v": 4,
+     "text": "you hated, because they practiced hateful deeds,\nacts of witchcraft and impious rites,"
+    },
+    {
+     "v": 5,
+     "text": "pitiless killers of children\nand devourers at banquets of men's flesh and of blood.\nInitiates out of the midst of a frenzied band,{b}"
+    },
+    {
+     "v": 6,
+     "text": "and parents who slaughtered souls that had no helper,\nyou resolved to wipe out by our fathers' hands,"
+    },
+    {
+     "v": 7,
+     "text": "so that the land most precious of all in your sight\nmight receive a worthy colony of God's children.{c}"
+    },
+    {
+     "v": 8,
+     "text": "Yet even these, as human beings, you spared;\nyou sent hornets{d} ahead of your host\nto make an end of them by degrees,"
+    },
+    {
+     "v": 9,
+     "text": "not that you could not hand the ungodly over to the righteous in a battle line,\nor rub them out all together through terrible beasts or a harsh word;"
+    },
+    {
+     "v": 10,
+     "text": "But judging them little by little you gave them room for repentance,\nthough you were not unaware that their origin was evil\nand their wickedness inborn,\nand that their way of thinking would never change."
+    },
+    {
+     "v": 11,
+     "text": "For their seed was cursed from the start,{e}\nnor was it out of fear of anyone that you granted impunity for what they did wrong."
+    },
+    {
+     "v": 12,
+     "text": "For who shall say, “What did you do?”\nOr who shall stand up against your sentence?\nWho shall charge you over nations destroyed that you yourself had made?\nOr who shall come and stand against you as pleader for unrighteous men?"
+    },
+    {
+     "v": 13,
+     "text": "There is no god but you, who cares for all,\nthat you should show him your verdicts were not unjust;"
+    },
+    {
+     "v": 14,
+     "text": "nor shall king or tyrant be able to look you in the face\non behalf of those you have punished."
+    },
+    {
+     "v": 15,
+     "text": "Being righteous, you order all things righteously,\nand you judge it foreign to your might\nto pass sentence on one who ought not to be chastised."
+    },
+    {
+     "v": 16,
+     "text": "For your strength is the source of justice,\nand your sovereignty over all causes you to spare all."
+    },
+    {
+     "v": 17,
+     "text": "For you display strength when someone doubts that your power is complete,\nand among those who do know it you put boldness to shame."
+    },
+    {
+     "v": 18,
+     "text": "But you, master of strength, judge with gentleness,\nand with great sparing you govern us;\nfor the power is at hand for you whenever you will."
+    },
+    {
+     "v": 19,
+     "text": "By such deeds you taught your people\nthat the righteous man must be a lover of humankind,\nand you made your sons to be of good hope,\nthat for sins you grant a change of mind."
+    },
+    {
+     "v": 20,
+     "text": "For if the enemies of your children, who were owed death,\nyou punished with such heed and such pardon,\ngiving them times and room in which to be rid of evil,"
+    },
+    {
+     "v": 21,
+     "text": "with what exactness you have judged your own sons,\nto whose fathers you gave oaths and covenants of good pledges!"
+    },
+    {
+     "v": 22,
+     "text": "So while chastening us you scourge our enemies ten thousand times more,\nso that we may meditate on your goodness when we judge,\nand when we are judged we may expect mercy."
+    },
+    {
+     "v": 23,
+     "text": "Therefore those who lived unrighteously, in a life of folly,\nyou tormented through their own abominations."
+    },
+    {
+     "v": 24,
+     "text": "For they wandered very far along the roads of going astray,\ntaking for gods the most worthless and dishonored of animals,\nfooled the way infants are who have no sense."
+    },
+    {
+     "v": 25,
+     "text": "And so, as on children without reason,\nyou sent a judgment that made sport of them."
+    },
+    {
+     "v": 26,
+     "text": "But those who have not heeded the warning of light rebukes\nwill experience the deserved judgment of God."
+    },
+    {
+     "v": 27,
+     "text": "For in the very things that made them suffer and chafe,\nin the things they counted gods and by which they were punished,\nthey saw and acknowledged as true God him whom they had refused to know before;\nand so the utmost sentence came down on them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:3",
+     "text": "The Canaanites."
+    },
+    {
+     "m": "b",
+     "ref": "12:5",
+     "text": "The Greek of verses 5–6 is difficult and the text may be corrupt."
+    },
+    {
+     "m": "c",
+     "ref": "12:7",
+     "text": "Or “servants.”"
+    },
+    {
+     "m": "d",
+     "ref": "12:8",
+     "text": "Or “hornets” (Exod 23:28; Deut 7:20)."
+    },
+    {
+     "m": "e",
+     "ref": "12:11",
+     "text": "Compare the curse of Canaan, Gen 9:25."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "For by nature all people were futile in whom ignorance of God was present,\nand from the good things that are seen they had no strength to know Him Who Is,{a}\nnor, paying heed to the works, did they recognize the craftsman;"
+    },
+    {
+     "v": 2,
+     "text": "but either fire or wind or swift air,\nor the circle of the stars or rushing water\nor the lights of heaven, governors of the world, they took for gods."
+    },
+    {
+     "v": 3,
+     "text": "If, delighted by their beauty, they supposed these to be gods,\nlet them know how much better than these is their Master,\nfor the first author of beauty created them;"
+    },
+    {
+     "v": 4,
+     "text": "and if they were struck with wonder at their power and working,\nlet them perceive from these how much more powerful is the one who formed them."
+    },
+    {
+     "v": 5,
+     "text": "For from the greatness and beauty of created things\ntheir Maker is seen by analogy.{b}"
+    },
+    {
+     "v": 6,
+     "text": "Yet on these people the blame is slight,\nfor perhaps they go astray\nwhile seeking God and wanting to find him;"
+    },
+    {
+     "v": 7,
+     "text": "for, living among his works, they search,\nand they are won over by the sight, because what they see is beautiful."
+    },
+    {
+     "v": 8,
+     "text": "But again, not even they are to be pardoned;"
+    },
+    {
+     "v": 9,
+     "text": "for if they had power to know so much\nthat they could make a guess at the age,{c}\nhow did they not sooner find the Master of these things?"
+    },
+    {
+     "v": 10,
+     "text": "But wretched, with their hopes in dead things, are those\nwho called the works of human hands gods,\ngold and silver, worked with skill, and likenesses of living things,\nor a useless stone, the work of an ancient hand."
+    },
+    {
+     "v": 11,
+     "text": "Suppose a woodcutter saws down a tree easy to handle,\nskillfully strips off all its bark,\nand, shaping it handsomely,\nmakes a useful vessel for the service of life,"
+    },
+    {
+     "v": 12,
+     "text": "and burns the leftovers of his work\nto cook his food and eat his fill;"
+    },
+    {
+     "v": 13,
+     "text": "and the leftover from these, good for nothing,\na crooked stick grown full of knots,\nhe takes and carves with the care of his idle hours,\nand shapes it with the experience of his leisure;{d}\nhe forms it into the image of a man,"
+    },
+    {
+     "v": 14,
+     "text": "or likens it to some worthless creature,\nsmearing it with red ochre and painting its surface red with paint,\nand covering every blemish in it;"
+    },
+    {
+     "v": 15,
+     "text": "then, making for it a dwelling worthy of it,\nhe sets it in the wall and fastens it with iron."
+    },
+    {
+     "v": 16,
+     "text": "So he takes thought for it that it may not fall,\nknowing that it cannot help itself,\nfor it is an image and needs help."
+    },
+    {
+     "v": 17,
+     "text": "When he prays about possessions and his marriage and children,\nhe is not ashamed to speak to a lifeless thing;\nfor health he calls upon what is weak,"
+    },
+    {
+     "v": 18,
+     "text": "for life he begs what is dead,\nfor aid he entreats what is utterly inexperienced,\nfor a journey what cannot use its feet,"
+    },
+    {
+     "v": 19,
+     "text": "and for getting and working and good fortune in the use of his hands\nhe begs strong handiness of the thing most helpless in its hands."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:1",
+     "text": "Greek ton onta, “the one who is,” echoing the Septuagint of Exod 3:14."
+    },
+    {
+     "m": "b",
+     "ref": "13:5",
+     "text": "Greek analogōs, “correspondingly.”"
+    },
+    {
+     "m": "c",
+     "ref": "13:9",
+     "text": "Greek aiōn, here perhaps “the universe.”"
+    },
+    {
+     "m": "d",
+     "ref": "13:13",
+     "text": "Some manuscripts read “with the skill of understanding.” Compare Isa 44:9–20."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    12,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Again, someone preparing to sail and about to cross the wild waves\ncalls upon a piece of wood more rotten than the vessel that carries him."
+    },
+    {
+     "v": 2,
+     "text": "For that boat was thought up by the craving for profit,\nand wisdom as craftswoman put it together;"
+    },
+    {
+     "v": 3,
+     "text": "but it is your providence, Father, that steers it,\nbecause you have given it a way even in the sea\nand a safe path among the waves,"
+    },
+    {
+     "v": 4,
+     "text": "showing that you can save from every danger,\nso that even one without skill may go aboard."
+    },
+    {
+     "v": 5,
+     "text": "It is your will that the works of your wisdom should not be idle;\ntherefore people entrust their lives even to the smallest timber,\nand passing through the surge on a raft they are brought safely through."
+    },
+    {
+     "v": 6,
+     "text": "For at the start too, as the proud giants were being destroyed,{a}\nthe world's hope fled for refuge on a raft\nand, piloted by your hand, bequeathed to the age a seed of new birth."
+    },
+    {
+     "v": 7,
+     "text": "For blessed is the wood through which righteousness comes;{b}"
+    },
+    {
+     "v": 8,
+     "text": "but the handmade thing is accursed, both it and the one who made it —\nhe, because he worked it, and the perishable thing, because it was named a god."
+    },
+    {
+     "v": 9,
+     "text": "For equally hateful to God are the ungodly man and his ungodliness;"
+    },
+    {
+     "v": 10,
+     "text": "For the deed done shall be chastised along with its doer."
+    },
+    {
+     "v": 11,
+     "text": "So on the idols of the nations too there shall come a visitation,\nsince among the things God made they turned into a loathsome thing,\ntraps for human souls\nand a noose for the feet of fools."
+    },
+    {
+     "v": 12,
+     "text": "For the devising of idols was the beginning of fornication,{c}\nand their invention the corruption of life;"
+    },
+    {
+     "v": 13,
+     "text": "For they were not there at the start,\nand they shall not remain to the age;"
+    },
+    {
+     "v": 14,
+     "text": "For through the empty conceit of human beings they entered the world,\nand therefore a speedy end has been planned for them."
+    },
+    {
+     "v": 15,
+     "text": "For a father, consumed with untimely grief\nfor a child suddenly taken from him,\nmade an image of him,\nand now honored as a god one who was once a dead human being,\nand handed on to those under him mysteries and initiations."
+    },
+    {
+     "v": 16,
+     "text": "Then, strengthened by time, the impious habit was guarded as if it were law,\nand by order of tyrants the carved figures received worship."
+    },
+    {
+     "v": 17,
+     "text": "When people could not honor monarchs in their presence, because they lived far away,\nthey imagined their appearance from afar\nand made a visible image of the king whom they honored,\nso that by their zeal they might flatter the absent one as though present."
+    },
+    {
+     "v": 18,
+     "text": "And to heighten the cult even among those who did not know him,\nthe craftsman's love of distinction pushed them on."
+    },
+    {
+     "v": 19,
+     "text": "For he, wishing perhaps to gratify the man in power,\nused his art to force the likeness into something finer;"
+    },
+    {
+     "v": 20,
+     "text": "and the crowd, drawn in by the charm of the workmanship,\nnow reckoned as an object of reverence the one they had a little earlier honored as a man."
+    },
+    {
+     "v": 21,
+     "text": "And this became a hidden trap for life,{d}\nbecause people, in bondage to misfortune or to tyranny,\nbestowed on stones and wood the name that ought not to be shared."
+    },
+    {
+     "v": 22,
+     "text": "Then it was not enough for them to err about the knowledge of God,\nbut though living in great strife of ignorance,\nthey call such great evils peace."
+    },
+    {
+     "v": 23,
+     "text": "For whether they practice child-slaying rites or secret mysteries,\nor hold frenzied revels with strange laws,"
+    },
+    {
+     "v": 24,
+     "text": "they keep neither their lives nor their marriages clean any longer;\none man ambushes and kills another,\nor wounds him by corrupting his wife;"
+    },
+    {
+     "v": 25,
+     "text": "and all is a confusion of blood and murder, theft and deceit,\ncorruption, faithlessness, tumult, perjury,"
+    },
+    {
+     "v": 26,
+     "text": "harassing of the good, forgetfulness of favors,\ndefilement of souls, interchange of sex,{e}\ndisorder in marriages, adultery, and debauchery."
+    },
+    {
+     "v": 27,
+     "text": "For the worship of idols not to be named{f}\nis the beginning and cause and end of every evil."
+    },
+    {
+     "v": 28,
+     "text": "For they either rave in their merriment, or prophesy lies,\nor live unjustly, or readily commit perjury;"
+    },
+    {
+     "v": 29,
+     "text": "for since they trust in lifeless idols,\nthey swear wickedly and expect to suffer no harm."
+    },
+    {
+     "v": 30,
+     "text": "But on both counts what is just will come after them:\nthat they thought badly of God, attaching themselves to idols,\nand that they swore unjustly and with guile, holding holiness in contempt."
+    },
+    {
+     "v": 31,
+     "text": "For it is not the power of the things by which people swear,\nbut the just penalty for those who sin,\nthat always pursues the transgression of the unrighteous."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:6",
+     "text": "Gen 6:1–4. The “raft” is Noah's ark."
+    },
+    {
+     "m": "b",
+     "ref": "14:7",
+     "text": "Later Christian writers applied this line to the cross; in its setting it refers to the ark."
+    },
+    {
+     "m": "c",
+     "ref": "14:12",
+     "text": "Here, as often in the prophets, a figure for unfaithfulness to God."
+    },
+    {
+     "m": "d",
+     "ref": "14:21",
+     "text": "Greek “for living.”"
+    },
+    {
+     "m": "e",
+     "ref": "14:26",
+     "text": "Greek geneseōs enallagē, “exchange of origin”; the sense is disputed, perhaps “perversion of nature.”"
+    },
+    {
+     "m": "f",
+     "ref": "14:27",
+     "text": "Or “nameless idols.”"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1,
+    7,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But you, our God, are kind and truthful,\nlong-suffering, governing everything with mercy."
+    },
+    {
+     "v": 2,
+     "text": "For even if we sin we are yours, knowing your power;\nbut we will not sin, because we know that we are counted yours."
+    },
+    {
+     "v": 3,
+     "text": "For to be acquainted with you is righteousness made whole,\nand to recognize your might is the taproot of deathlessness."
+    },
+    {
+     "v": 4,
+     "text": "We have not been led astray by what human craft has wickedly devised,\nnor by the barren toil of those who paint shadow-pictures,\na shape smeared with assorted colors,"
+    },
+    {
+     "v": 5,
+     "text": "the sight of which comes to fools as a reproach,{a}\nand one longs for the breathless form of a dead likeness."
+    },
+    {
+     "v": 6,
+     "text": "Lovers of evil things and worthy of such hopes\nare those who make them and those who desire them and those who worship them."
+    },
+    {
+     "v": 7,
+     "text": "For a potter, pressing soft earth,\ntoils to mold each thing for our use;\nyet out of one and the same clay he forms\nthe vessels meant for clean work and those for the opposite, all in the same way;\nand what use each of them is to have,\nthe clay-worker decides."
+    },
+    {
+     "v": 8,
+     "text": "With misspent toil he forms a futile god from the same clay —\nhe who a little before was made of earth\nand after a short time goes to the earth from which he was taken,\nwhen the soul that was lent him is demanded back."
+    },
+    {
+     "v": 9,
+     "text": "But his concern is not that he is about to die,\nnor that his life is brief,\nbut he competes with workers in gold and silver,\nand imitates workers in copper,\nand counts it his glory that he molds counterfeits."
+    },
+    {
+     "v": 10,
+     "text": "His heart is ashes, his hope cheaper than dirt,\nand his life of less worth than clay,"
+    },
+    {
+     "v": 11,
+     "text": "because he did not know the one who formed him\nand inspired him with an active soul\nand breathed into him a living spirit."
+    },
+    {
+     "v": 12,
+     "text": "He reckoned our life to be a plaything,\nand existence a fair for making profit,\nfor one must make money, he says, from any source, even from evil."
+    },
+    {
+     "v": 13,
+     "text": "For this man, more than all others, knows that he sins\nwhen he makes from earthy matter fragile vessels and carved images."
+    },
+    {
+     "v": 14,
+     "text": "But most foolish of all, and more miserable than an infant's soul,\nare the enemies of your people who oppressed them.{b}"
+    },
+    {
+     "v": 15,
+     "text": "For they counted even every idol of the nations as gods,\nwhich have no eyes to use for seeing,\nno nostrils for drawing in air,\nno ears for hearing,\nno fingers on their hands for touching,\nand feet that are idle for walking."
+    },
+    {
+     "v": 16,
+     "text": "For a human being made them,\nand one whose own spirit is borrowed formed them;\nfor no human being can form a god like himself."
+    },
+    {
+     "v": 17,
+     "text": "Being mortal, with lawless hands he works a corpse;\nfor he outranks what he reveres:\nhe once had life, but they never."
+    },
+    {
+     "v": 18,
+     "text": "Moreover, they worship even the most hateful animals,\nwhich, compared for stupidity, are worse than all others;"
+    },
+    {
+     "v": 19,
+     "text": "Nor do they even happen to be fair to look at, as animals go, so as to be wanted,\nbut they have fled both from God's praise and from his blessing.{c}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:5",
+     "text": "Or, with a slight change, “stirs desire in fools.”"
+    },
+    {
+     "m": "b",
+     "ref": "15:14",
+     "text": "The Egyptians."
+    },
+    {
+     "m": "c",
+     "ref": "15:19",
+     "text": "Compare Gen 1:31; 3:14."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paras": [
+    1,
+    5,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So by creatures of that same sort they paid a fitting penalty,\ntortured by swarms of vermin."
+    },
+    {
+     "v": 2,
+     "text": "In place of that punishment you did good to your people,\nand for the craving of their appetite\nyou made ready a novel taste, quails for food,{a}"
+    },
+    {
+     "v": 3,
+     "text": "so that the others, wanting food,\nmight turn away even from the hunger they could not help\nbecause of the hideousness of the creatures sent upon them,{b}\nwhile your people, after going short for a little while,\nmight share in a novel taste."
+    },
+    {
+     "v": 4,
+     "text": "For on those tyrants a want that could not be avoided had to come,\nbut to these it had only to be shown how their foes were being tortured."
+    },
+    {
+     "v": 5,
+     "text": "For even when the dreadful fury of beasts came upon them,\nand they were perishing by the bites of twisting snakes,{c}\nyour anger did not stay to the end;"
+    },
+    {
+     "v": 6,
+     "text": "for a short time they were thrown into alarm for their correction,\nhaving a token of rescue to bring the command of your law to mind."
+    },
+    {
+     "v": 7,
+     "text": "For the one who turned was kept safe not by the thing he looked at,\nbut on account of you, who rescue all."
+    },
+    {
+     "v": 8,
+     "text": "And in this too you persuaded our foes\nthat you are he who sets free from every harm."
+    },
+    {
+     "v": 9,
+     "text": "For them the bites of locusts and of flies killed,\nand no cure for their life was discovered,\nsince they deserved to be chastised by such things;"
+    },
+    {
+     "v": 10,
+     "text": "but your sons not even the fangs of venom-spitting serpents overcame,\nfor your mercy came alongside and cured them."
+    },
+    {
+     "v": 11,
+     "text": "For to call your sayings to mind they were stung,\nand swiftly brought through safely,\nso that they might not fall into deep forgetting\nand be cut off from your good deeds."
+    },
+    {
+     "v": 12,
+     "text": "For it was neither herb nor plaster that made them well,\nbut your word, Lord, which makes all things whole."
+    },
+    {
+     "v": 13,
+     "text": "For you hold authority over life and over death,\nand you bring down to the gates and bring up."
+    },
+    {
+     "v": 14,
+     "text": "A man may kill through his evil,\nbut the spirit, once gone out, he does not bring back,\nnor does he free the soul that has been taken."
+    },
+    {
+     "v": 15,
+     "text": "To escape from your hand is impossible;"
+    },
+    {
+     "v": 16,
+     "text": "For the ungodly, who denied that they knew you,\nwere whipped by the might of your arm,\nchased by strange rains and hailstorms and downpours that would not be begged off,\nand eaten up by fire.{d}"
+    },
+    {
+     "v": 17,
+     "text": "For — most incredible of all — in the water, which quenches all things,\nthe fire had still greater effect,\nfor the universe fights on behalf of the righteous."
+    },
+    {
+     "v": 18,
+     "text": "For at one time the flame was tamed,\nso as not to burn up the animals sent against the ungodly,\nbut that they themselves, on seeing it, might grasp\nthat God's judgment was driving them;"
+    },
+    {
+     "v": 19,
+     "text": "and at another time, even in the midst of water, it blazed beyond fire's own power,\nto ruin the yield of an unrighteous land."
+    },
+    {
+     "v": 20,
+     "text": "In place of these you fed your people the nourishment of angels,\nand bread made ready you sent them from heaven without their labor,\nhaving power for every pleasure and fitting every taste.{e}"
+    },
+    {
+     "v": 21,
+     "text": "For your substance{f} displayed your sweetness toward your children,\nand, serving the desire of the one who brought it to his mouth,\nit was blended into whatever each one wished."
+    },
+    {
+     "v": 22,
+     "text": "Snow and ice{g} held out against fire and did not melt,\nthat they might know that it was fire that ruined the enemies' harvests,\nfire flaming in the hail\nand lightning-flashing in the rains;"
+    },
+    {
+     "v": 23,
+     "text": "and this same fire, again, so that the righteous might be fed,\nhad forgotten even its own power."
+    },
+    {
+     "v": 24,
+     "text": "For the creation that serves you, its maker,\nis stretched tight to chastise the unrighteous,\nand slackens to do good to those who rely on you."
+    },
+    {
+     "v": 25,
+     "text": "So then too, being changed into everything,\nit was in service to your gift that nourishes all,\naccording to the wish of those in want,"
+    },
+    {
+     "v": 26,
+     "text": "so that your sons, whom you loved, Lord, might learn\nthat it is not the yield of harvests that feeds a human being,\nbut your saying that keeps safe those who believe in you.{h}"
+    },
+    {
+     "v": 27,
+     "text": "For what was not ruined by fire\nmelted simply when it was warmed by a brief sunbeam,"
+    },
+    {
+     "v": 28,
+     "text": "to make it known that one must rise before the sun to give you thanks,\nand must pray to you at the dawning of the light;"
+    },
+    {
+     "v": 29,
+     "text": "For the ungrateful man's hope will thaw like winter's hoarfrost\nand run off like water that serves no purpose."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:2",
+     "text": "Num 11:31–32; Exod 16:13."
+    },
+    {
+     "m": "b",
+     "ref": "16:3",
+     "text": "The frogs and other plagues (Exod 8)."
+    },
+    {
+     "m": "c",
+     "ref": "16:5",
+     "text": "Num 21:6–9."
+    },
+    {
+     "m": "d",
+     "ref": "16:16",
+     "text": "The plague of hail and lightning (Exod 9:13–35)."
+    },
+    {
+     "m": "e",
+     "ref": "16:20",
+     "text": "The manna (Exod 16; Ps 78:25). Jewish tradition held that the manna tasted as each person wished."
+    },
+    {
+     "m": "f",
+     "ref": "16:21",
+     "text": "Or “sustenance”; Greek hypostasis."
+    },
+    {
+     "m": "g",
+     "ref": "16:22",
+     "text": "“Snow and ice” here describe the manna (Num 11:7; Exod 16:14, 21)."
+    },
+    {
+     "m": "h",
+     "ref": "16:26",
+     "text": "Compare Deut 8:3."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Great are your judgments and hard to recount;\ntherefore souls without instruction went astray."
+    },
+    {
+     "v": 2,
+     "text": "For when lawless men had supposed that they held a holy nation in their power,\nthey lay prisoners of darkness and captives of a long night,\nshut in under their roofs,\nexiles from the everlasting providence.{a}"
+    },
+    {
+     "v": 3,
+     "text": "For thinking to go unseen in their secret sins,\nthey were scattered under a dark curtain of forgetfulness,\nhorribly dismayed and thrown into panic by apparitions."
+    },
+    {
+     "v": 4,
+     "text": "For not even the inner chamber that held them kept them free of fear,\nbut noises crashed around them and terrified them,\nand gloomy phantoms with unsmiling faces appeared."
+    },
+    {
+     "v": 5,
+     "text": "No force of fire had strength to give light,\nnor did the bright flames of the stars endure to lighten that hateful night."
+    },
+    {
+     "v": 6,
+     "text": "Only a self-kindled blaze showed through to them, full of fear,\nand, terrified at the sight they could not see,\nthey thought the things they did see worse still."
+    },
+    {
+     "v": 7,
+     "text": "The tricks of the magic art lay humbled,\nand its boast of wisdom was put to a shameful test."
+    },
+    {
+     "v": 8,
+     "text": "For those who promised to drive away terrors and disorders from a sick soul\nwere themselves sick with a fear that deserved laughter."
+    },
+    {
+     "v": 9,
+     "text": "For even when nothing alarming was there to frighten them,\nthey were startled out of their wits by vermin creeping past and by reptiles hissing,"
+    },
+    {
+     "v": 10,
+     "text": "they perished trembling,\nrefusing even to look at the air, which can be fled from nowhere."
+    },
+    {
+     "v": 11,
+     "text": "For wickedness is a cowardly thing, condemned by its own witness;{b}\nsqueezed by conscience, it always magnifies its troubles."
+    },
+    {
+     "v": 12,
+     "text": "For fear is nothing but the surrender of the help that comes from reasoning;"
+    },
+    {
+     "v": 13,
+     "text": "and the weaker the expectation within,\nthe greater it reckons its ignorance of the cause that brings the torment."
+    },
+    {
+     "v": 14,
+     "text": "But they, all through that night that was truly powerless,\nthat came upon them from the recesses of powerless Hades,\nsleeping the same sleep,"
+    },
+    {
+     "v": 15,
+     "text": "were now driven by monstrous specters,\nnow paralyzed by their soul's surrender;\nfor sudden and unexpected fear rushed upon them."
+    },
+    {
+     "v": 16,
+     "text": "And so whoever had dropped down there\nwas held fast, shut up in a prison without iron bars."
+    },
+    {
+     "v": 17,
+     "text": "For whether he was a farmer or a shepherd,\nor a laborer at work in the wilderness,\nhe was overtaken and endured the inescapable fate;"
+    },
+    {
+     "v": 18,
+     "text": "for with one chain of darkness they were all bound.\nWhether there was a whistling wind,\nor a tuneful sound of birds among spreading branches,\nor the steady beat of rushing water,"
+    },
+    {
+     "v": 19,
+     "text": "or the harsh clatter of rocks tumbling down,\nor the unseen racing of animals at play,\nor the voice of wild beasts roaring in their utmost savagery,\nor an echo rebounding from the mountains' hollows,\nit unstrung them with terror."
+    },
+    {
+     "v": 20,
+     "text": "For the whole world was lit up with brilliant light\nand went about its work unhindered,"
+    },
+    {
+     "v": 21,
+     "text": "while over them alone a heavy night was spread,\nan image of the darkness that was to receive them;\nbut heavier than the darkness were they to themselves."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "17:2",
+     "text": "The ninth plague, darkness (Exod 10:21–23), is the subject of 17:1–18:4."
+    },
+    {
+     "m": "b",
+     "ref": "17:11",
+     "text": "The Greek of the first line is difficult; Swete's text repeats part of the second line."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "paras": [
+    1,
+    5,
+    14,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But for your holy ones there was very great light.\nThose others,{a} hearing their voice but not seeing their shape,\ncalled them blessed, because they too had not suffered;"
+    },
+    {
+     "v": 2,
+     "text": "and because they, though wronged before, were doing them no harm, they were thankful,\nand begged their pardon for having been at odds with them.{b}"
+    },
+    {
+     "v": 3,
+     "text": "In place of these things you provided a pillar of flaming fire\nas a guide for an unknown journey,\nand a sun that would do no harm on their glorious wandering abroad."
+    },
+    {
+     "v": 4,
+     "text": "For those others deserved to be robbed of light and imprisoned in darkness,\nwho had kept your sons shut up,\nthrough whom the imperishable light of the law was to be given to the world."
+    },
+    {
+     "v": 5,
+     "text": "When they had resolved to kill the infants of the holy ones,\nand one child had been exposed and saved,{c}\nyou took away their multitude of children in punishment,\nand destroyed them all together in mighty water."
+    },
+    {
+     "v": 6,
+     "text": "That night was made known beforehand to our fathers,{d}\nso that, knowing surely the oaths in which they trusted, they might be of good courage."
+    },
+    {
+     "v": 7,
+     "text": "By your people there was awaited\nrescue for the righteous and ruin for the enemies;"
+    },
+    {
+     "v": 8,
+     "text": "for with that by which you took vengeance on our opponents,\nwith this you summoned us and gave us glory."
+    },
+    {
+     "v": 9,
+     "text": "For in secret the holy children of good people offered sacrifice,{e}\nand with one mind they agreed to the divine law,\nthat the holy ones would share alike in the same good things and dangers;\nand already they were singing the praises of the fathers.{f}"
+    },
+    {
+     "v": 10,
+     "text": "But the discordant cry of the enemies echoed back,\nand a pitiful sound of mourning for children was carried abroad."
+    },
+    {
+     "v": 11,
+     "text": "Slave and master were punished with like penalty,\nand the commoner suffered the same as the king;"
+    },
+    {
+     "v": 12,
+     "text": "and all together, by one kind of death,\nthey had corpses beyond counting;\nfor the living were not even enough to bury them,\nsince in one instant their most prized offspring had been destroyed."
+    },
+    {
+     "v": 13,
+     "text": "For though they had disbelieved everything because of their sorceries,\nat the destruction of the firstborn they acknowledged the people to be God's son."
+    },
+    {
+     "v": 14,
+     "text": "For when quiet silence held all things in its embrace,\nand night in her own swiftness was at midcourse,"
+    },
+    {
+     "v": 15,
+     "text": "your all-powerful word leaped from heaven, from the royal throne,\na stern warrior, into the midst of the doomed land,"
+    },
+    {
+     "v": 16,
+     "text": "carrying the sharp sword of your unfeigned command;\nand he stood and filled all things with death,\nand touched heaven while standing on the earth."
+    },
+    {
+     "v": 17,
+     "text": "Then at once apparitions in dreadful dreams troubled them,\nand unexpected fears assailed them;"
+    },
+    {
+     "v": 18,
+     "text": "and one here, another there, flung down half dead,\nmade known the cause for which they were dying;"
+    },
+    {
+     "v": 19,
+     "text": "for the dreams that disturbed them had warned of this beforehand,\nso that they might not perish without knowing why they suffered."
+    },
+    {
+     "v": 20,
+     "text": "The righteous too were touched by a trial of death,\nand in the wilderness a slaughter broke out among the multitude;{g}\nyet the anger did not stay long."
+    },
+    {
+     "v": 21,
+     "text": "For a blameless man{h} was quick to act as their champion,\nbringing the weapon of his own ministry,\nprayer and the propitiation of incense;\nhe withstood the anger and put an end to the disaster,\nshowing that he was your servant."
+    },
+    {
+     "v": 22,
+     "text": "He conquered the wrath{i} not by strength of body,\nnot by force of arms,\nbut by a word he subdued the punisher,\nappealing to the oaths and covenants given to the fathers."
+    },
+    {
+     "v": 23,
+     "text": "For when the dead had already fallen on one another in heaps,\nhe stood between and held back the wrath,\nand cut off its way to the living."
+    },
+    {
+     "v": 24,
+     "text": "For upon his robe reaching to the feet was the whole world,{j}\nand the glories of the fathers on the carving of the stone in four rows,\nand your majesty on the diadem of his head."
+    },
+    {
+     "v": 25,
+     "text": "To these the destroyer yielded; these he{k} feared;\nfor only to taste of the wrath was enough."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "18:1",
+     "text": "Greek “those,” the Egyptians."
+    },
+    {
+     "m": "b",
+     "ref": "18:2",
+     "text": "The sense of the second line is uncertain; it may mean “and asked as a favor that they would depart.”"
+    },
+    {
+     "m": "c",
+     "ref": "18:5",
+     "text": "Moses (Exod 2:1–10). The “mighty water” is the Red Sea (Exod 14)."
+    },
+    {
+     "m": "d",
+     "ref": "18:6",
+     "text": "The Passover night (Exod 11–12); compare Gen 15:13–14."
+    },
+    {
+     "m": "e",
+     "ref": "18:9",
+     "text": "The Passover sacrifice (Exod 12)."
+    },
+    {
+     "m": "f",
+     "ref": "18:9",
+     "text": "Or “the fathers already leading the songs of praise.”"
+    },
+    {
+     "m": "g",
+     "ref": "18:20",
+     "text": "Num 16:41–50."
+    },
+    {
+     "m": "h",
+     "ref": "18:21",
+     "text": "Aaron."
+    },
+    {
+     "m": "i",
+     "ref": "18:22",
+     "text": "Greek ochlon, “the multitude,” probably a slip for cholon, “the wrath,” as many editors read."
+    },
+    {
+     "m": "j",
+     "ref": "18:24",
+     "text": "Exod 28. Philo and Josephus interpret the high priest's vestments as an image of the cosmos."
+    },
+    {
+     "m": "k",
+     "ref": "18:25",
+     "text": "Greek “they”; some manuscripts read “he.”"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "paras": [
+    1,
+    6,
+    13,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But upon the ungodly a merciless anger pressed to the end,\nfor he knew beforehand even what they would do:"
+    },
+    {
+     "v": 2,
+     "text": "how, though they themselves had permitted your people to depart\nand hurriedly sent them on their way,\nthey would change their minds and pursue them."
+    },
+    {
+     "v": 3,
+     "text": "For with their mourning still in their hands,\nand while they were wailing over the tombs of the dead,\nthey drew upon themselves another senseless thought,\nand those whom they had entreated to leave and thrown out,\nthese they hunted as runaways."
+    },
+    {
+     "v": 4,
+     "text": "For the necessity they had earned dragged them to this end,\nand cast into them oblivion of what had befallen,\nso that they might fill up beforehand the chastisement still lacking to their torments,"
+    },
+    {
+     "v": 5,
+     "text": "and that your people might experience an incredible journey,\nwhile they themselves met a strange death."
+    },
+    {
+     "v": 6,
+     "text": "For the whole creation was shaped again from above in its own kind,{a}\nserving your particular commands,\nthat your servants might be guarded unharmed."
+    },
+    {
+     "v": 7,
+     "text": "There was beheld the cloud that shaded the encampment,\nthe rising of dry land out of water that had stood there before,\nout of the Red Sea a road with nothing in its way,\nand a green-bearing plain out of the violent surge,"
+    },
+    {
+     "v": 8,
+     "text": "through which the whole nation passed, protected by your hand,\nafter gazing on marvelous wonders."
+    },
+    {
+     "v": 9,
+     "text": "For they ranged like horses,\nand leaped like lambs,\npraising you, Lord, who delivered them."
+    },
+    {
+     "v": 10,
+     "text": "For they still remembered the events of their sojourn,\nhow instead of producing cattle the earth brought forth gnats,\nand instead of fish the river spewed out a multitude of frogs."
+    },
+    {
+     "v": 11,
+     "text": "Later on they saw also a new brood of birds,\nwhen, carried away by desire, they asked for dainty dishes;"
+    },
+    {
+     "v": 12,
+     "text": "for, to satisfy them, quails came up from the sea.{b}"
+    },
+    {
+     "v": 13,
+     "text": "The punishments came upon the sinners\nnot without prior signs in the violence of thunder;{c}\nfor they suffered justly for their own wicked acts,\nfor they practiced a more bitter hatred of strangers."
+    },
+    {
+     "v": 14,
+     "text": "Others{d} had refused to receive strangers when they arrived,\nbut these made slaves of guests who were their benefactors."
+    },
+    {
+     "v": 15,
+     "text": "And not only so, but there will be some punishment for those others,\nbecause they received foreigners with hostility;"
+    },
+    {
+     "v": 16,
+     "text": "but these, after receiving them with festal celebrations,\nafflicted with dreadful labors those who had already shared the same rights."
+    },
+    {
+     "v": 17,
+     "text": "And they were struck with blindness too,\nas those others were at the doors of the righteous one,{e}{f}\nwhen, wrapped in gaping darkness,\neach went seeking the passage through his own doors."
+    },
+    {
+     "v": 18,
+     "text": "For the elements, being retuned among themselves,\nas on a harp the sounds alter the name of the rhythm{g}\nwhile always keeping their tone,\nas one may picture exactly from viewing what happened."
+    },
+    {
+     "v": 19,
+     "text": "For things of dry land were turned into water creatures,\nand swimming things went over onto the earth;{h}"
+    },
+    {
+     "v": 20,
+     "text": "Fire retained its strength in water,\nand water forgot its fire-quenching nature."
+    },
+    {
+     "v": 21,
+     "text": "Flames, on the other hand, did not consume\nthe flesh of perishable creatures that walked among them,\nnor did they melt the crystalline, easily melted kind of heavenly food.{i}"
+    },
+    {
+     "v": 22,
+     "text": "For in all respects, Lord, you have made your people great and glorified them,\nand you did not overlook them, standing by them at every time and place."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "19:6",
+     "text": "The thought recalls a new creation; compare 19:18–21."
+    },
+    {
+     "m": "b",
+     "ref": "19:12",
+     "text": "Num 11:31."
+    },
+    {
+     "m": "c",
+     "ref": "19:13",
+     "text": "Swete's text, following Vaticanus, places the clause “for they practiced a more bitter hatred of strangers” at the end of verse 13; the numbering of verses 13–14 differs among editions."
+    },
+    {
+     "m": "d",
+     "ref": "19:14",
+     "text": "The men of Sodom (Gen 19)."
+    },
+    {
+     "m": "e",
+     "ref": "19:17",
+     "text": "The ninth plague (Exod 10:21–23)."
+    },
+    {
+     "m": "f",
+     "ref": "19:17",
+     "text": "Lot (Gen 19:11)."
+    },
+    {
+     "m": "g",
+     "ref": "19:18",
+     "text": "The Greek text of this verse is uncertain in places; Swete marks two words as doubtful."
+    },
+    {
+     "m": "h",
+     "ref": "19:19",
+     "text": "The Israelites with their cattle passed through the sea; the frogs came up onto land."
+    },
+    {
+     "m": "i",
+     "ref": "19:21",
+     "text": "The manna; compare 16:22."
+    }
+   ]
+  }
+ ]
+}
