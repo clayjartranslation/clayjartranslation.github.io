@@ -1557,9 +1557,28 @@
    "id": "4-maccabees",
    "name": "4 Maccabees",
    "division": "Apocrypha",
-   "chapterCount": "18",
-   "translated": [],
-   "file": null
+   "chapterCount": 18,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "file": "data/books/4-maccabees.json"
   },
   {
    "id": "1-esdras",
