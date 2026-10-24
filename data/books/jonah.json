@@ -1,0 +1,373 @@
+{
+ "id": "jonah",
+ "name": "Jonah",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew Masoretic Text as given in the Westminster Leningrad Codex (Open Scriptures Hebrew Bible edition), with the Septuagint (Old Greek) consulted. Jonah son of Amittai is the prophet named in 2 Kings 14:25, in the reign of Jeroboam II (about 786–746 BC); the book itself is a narrative about him rather than a collection of his oracles, and its date of composition is debated. Among the ancient manuscripts, as reported in the published editions, portions of Jonah are preserved in the Qumran scrolls of the Twelve (4QXII-a, 4QXII-f, 4QXII-g), in the Wadi Murabbaʿat scroll (Mur 88), and in the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr); these generally agree with the Masoretic Text. Versification: English 1:17 is Hebrew 2:1, and English 2:1–10 is Hebrew 2:2–11; this translation follows the English numbering.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    4,
+    7,
+    11,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The word of Yahweh came to Jonah{a} son of Amittai:"
+    },
+    {
+     "v": 2,
+     "text": "“Up! Go to Nineveh,{b} the great city, and denounce it, for their evil has risen up before my face.”"
+    },
+    {
+     "v": 3,
+     "text": "But Jonah got up to run away to Tarshish,{c} away from the presence of Yahweh. He went down to Joppa{d} and found a ship bound for Tarshish. He paid its fare and went down into it, to go with them to Tarshish, away from Yahweh’s presence."
+    },
+    {
+     "v": 4,
+     "text": "Yahweh, however, hurled a great wind onto the sea, and so mighty a storm arose on the sea that the ship was about to break apart.{e}"
+    },
+    {
+     "v": 5,
+     "text": "The sailors were terrified, and each man cried out to his own god. They hurled the cargo on board into the sea to lighten the ship for themselves. Jonah, though, had gone down into the hold of the vessel, lain down, and fallen fast asleep."
+    },
+    {
+     "v": 6,
+     "text": "The captain came to him and said, “How can you be sleeping? Get up, call on your god! Perhaps that god will give a thought to us, and we will not perish.”"
+    },
+    {
+     "v": 7,
+     "text": "Then the men said to one another, “Come on, let us cast lots, so we may learn on whose account this evil has come upon us.” So they cast lots, and the lot fell on Jonah."
+    },
+    {
+     "v": 8,
+     "text": "They said to him, “Tell us, now—on whose account has this evil come on us? What is your trade? Where are you from? What is your country, and from what people are you?”"
+    },
+    {
+     "v": 9,
+     "text": "He told them, “I am a Hebrew, and I fear Yahweh, the God of heaven, who made the sea and the dry land.”"
+    },
+    {
+     "v": 10,
+     "text": "At this the men were seized with a great fear, and said to him, “What is this that you have done?” For the men knew he was fleeing from Yahweh’s presence, because he had told them."
+    },
+    {
+     "v": 11,
+     "text": "So they said to him, “What must we do with you to make the sea grow quiet around us?” For the sea kept getting rougher."
+    },
+    {
+     "v": 12,
+     "text": "He told them, “Lift me up and hurl me into the sea; then the sea will quiet down around you. I know that it is my fault this mighty storm has struck you.”"
+    },
+    {
+     "v": 13,
+     "text": "Still the men rowed hard{f} to get back to land, but they could not, for the sea was raging against them more and more."
+    },
+    {
+     "v": 14,
+     "text": "So they cried out to Yahweh: “Please, Yahweh, do not let us perish for this man’s life, and do not lay innocent blood on us; for you, Yahweh, have done just as you pleased.”"
+    },
+    {
+     "v": 15,
+     "text": "Then they picked Jonah up and hurled him into the sea, and the sea stopped its raging."
+    },
+    {
+     "v": 16,
+     "text": "And the men feared Yahweh with a great fear; they offered a sacrifice to Yahweh and made vows."
+    },
+    {
+     "v": 17,
+     "text": "Yahweh appointed{g} a great fish{h} to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.{i}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "The name means “dove.” He is the prophet of 2 Kings 14:25, from Gath-hepher in Galilee."
+    },
+    {
+     "m": "b",
+     "ref": "1:2",
+     "text": "The capital of Assyria, on the east bank of the Tigris opposite modern Mosul, Iraq. Assyria was Israel’s most feared enemy; it destroyed the northern kingdom in 722 BC."
+    },
+    {
+     "m": "c",
+     "ref": "1:3",
+     "text": "A distant port in the far west, probably Tartessus in southern Spain—the opposite direction from Nineveh."
+    },
+    {
+     "m": "d",
+     "ref": "1:3",
+     "text": "Modern Jaffa, part of Tel Aviv, on the Mediterranean coast."
+    },
+    {
+     "m": "e",
+     "ref": "1:4",
+     "text": "Hebrew “the ship thought to be broken.” The verb “hurl” recurs in verses 5, 12, and 15."
+    },
+    {
+     "m": "f",
+     "ref": "1:13",
+     "text": "Hebrew “dug,” a vivid word for straining at the oars."
+    },
+    {
+     "m": "g",
+     "ref": "1:17",
+     "text": "Hebrew manah, “appoint, assign.” God likewise “appoints” the plant, the worm, and the east wind in chapter 4."
+    },
+    {
+     "m": "h",
+     "ref": "1:17",
+     "text": "Hebrew dag gadol, “a great fish.” The Hebrew does not say “whale”; the Septuagint has kētos, “sea creature,” the word used in Matthew 12:40, which older English versions rendered “whale.” Jesus cites Jonah’s three days and nights in the fish as “the sign of Jonah” (Matthew 12:39–41; Luke 11:29–32)."
+    },
+    {
+     "m": "i",
+     "ref": "1:17",
+     "text": "English 1:17 is Hebrew 2:1."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Jonah prayed to Yahweh his God from the belly of the fish.{a}"
+    },
+    {
+     "v": 2,
+     "text": "He said,\n“Out of my distress I called to Yahweh,\nand he answered me;\nfrom the womb of Sheol{b} I cried for help—\nyou heard my voice."
+    },
+    {
+     "v": 3,
+     "text": "You flung me into the depths,\ninto the heart of the seas,\nand the current swirled around me;\nall your breakers and your billows\nswept over me."
+    },
+    {
+     "v": 4,
+     "text": "And I said, ‘I am driven away\nfrom before your eyes;\nyet I will look again{c}\ntoward your holy temple.’"
+    },
+    {
+     "v": 5,
+     "text": "The waters closed over me up to the throat;{d}\nthe deep was all around me;\nseaweed wrapped itself around my head."
+    },
+    {
+     "v": 6,
+     "text": "To the roots of the mountains I went down;\nthe earth with its bars shut behind me forever;\nyet you brought my life up from the pit,\nYahweh my God."
+    },
+    {
+     "v": 7,
+     "text": "As my life was ebbing away,\nI remembered Yahweh,\nand my prayer came to you,\ninto your holy temple."
+    },
+    {
+     "v": 8,
+     "text": "Those who cling to empty idols{e}\nabandon their loyalty.{f}"
+    },
+    {
+     "v": 9,
+     "text": "But I will offer sacrifice to you\nwith a song of thanks;\nthe vow I made I will fulfill.\nDeliverance belongs to Yahweh!”"
+    },
+    {
+     "v": 10,
+     "text": "Then Yahweh spoke to the fish, and it vomited Jonah out onto the dry land."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "English 2:1–10 is Hebrew 2:2–11. In 2:1 the Hebrew uses the feminine form dagah for “fish,” elsewhere the masculine dag; the difference is probably only stylistic."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "The realm of the dead."
+    },
+    {
+     "m": "c",
+     "ref": "2:4",
+     "text": "So the Hebrew; with a slight change, “how shall I look again,” as in Theodotion’s Greek."
+    },
+    {
+     "m": "d",
+     "ref": "2:5",
+     "text": "Or “threatened my life.” Hebrew nefesh can mean both “throat” and “life.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:8",
+     "text": "Hebrew “worthless vanities.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:8",
+     "text": "Or “forsake the one who is loyal to them,” that is, God; Hebrew ḥesed."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    5,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A second time the word of Yahweh came to Jonah:"
+    },
+    {
+     "v": 2,
+     "text": "“Up! Go to Nineveh, the great city, and announce to it the word I am giving you.”"
+    },
+    {
+     "v": 3,
+     "text": "So Jonah got up and went to Nineveh, as Yahweh had said. Now Nineveh was a city great even to God,{a} a walk of three days across.{b}"
+    },
+    {
+     "v": 4,
+     "text": "Jonah began going into the city, one day’s walk, and he called out, “Forty days more, and Nineveh will be overturned!”{c}"
+    },
+    {
+     "v": 5,
+     "text": "The people of Nineveh believed God. They called a fast and put on sackcloth, from the greatest of them to the least."
+    },
+    {
+     "v": 6,
+     "text": "When the news reached the king of Nineveh, he got up from his throne, laid aside his robe, covered himself with sackcloth, and sat in ashes."
+    },
+    {
+     "v": 7,
+     "text": "And he had a proclamation cried through Nineveh: “By decree of the king and his nobles: Let neither human nor beast, herd nor flock, taste anything. Let them not graze or drink water."
+    },
+    {
+     "v": 8,
+     "text": "Let human and beast alike be covered with sackcloth, and let them call to God with all their strength. Let each one turn from his evil ways and from the violence that is in his hands."
+    },
+    {
+     "v": 9,
+     "text": "Who can tell? Perhaps God will turn back and relent,{d} and turn away from the heat of his anger, and we will not perish.”"
+    },
+    {
+     "v": 10,
+     "text": "God saw their deeds—that they had turned back from their wicked conduct—and God relented of the harm he had threatened to do to them, and did not do it."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:3",
+     "text": "Hebrew “a great city to God,” possibly an idiom for “an exceedingly great city.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:3",
+     "text": "Hebrew “a journey of three days,” about 60 miles (100 kilometers); perhaps the circuit of greater Nineveh and its districts, or the time needed to visit it all. The walls of ancient Nineveh enclosed about 1,850 acres (750 hectares)."
+    },
+    {
+     "m": "c",
+     "ref": "3:4",
+     "text": "Hebrew haphak, the word used of the overthrow of Sodom and Gomorrah (Genesis 19:25), but which can also mean “turned around, changed.”"
+    },
+    {
+     "m": "d",
+     "ref": "3:9",
+     "text": "Or “change his mind.” Compare Joel 2:14."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    5
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "But to Jonah this seemed a great evil, and he was furious.{a}"
+    },
+    {
+     "v": 2,
+     "text": "He prayed to Yahweh and said, “Ah, Yahweh, is this not just what I said when I was still back home? That is why I made haste to run off to Tarshish. For I knew you were a God gracious and merciful, long-suffering and rich in steadfast love,{b} who relents over calamity."
+    },
+    {
+     "v": 3,
+     "text": "So now, Yahweh, please take my life from me, for I am better off dead than alive.”"
+    },
+    {
+     "v": 4,
+     "text": "And Yahweh said, “Is it right for you to be so angry?”"
+    },
+    {
+     "v": 5,
+     "text": "Jonah then left the city and sat down to the east of it. He built himself a booth there and sat beneath it in its shade, waiting to see what would become of the city."
+    },
+    {
+     "v": 6,
+     "text": "Then Yahweh God appointed a plant{c} and made it grow up over Jonah, to be shade over his head, to rescue him from his misery.{d} Jonah was very glad because of the plant."
+    },
+    {
+     "v": 7,
+     "text": "But at dawn the next day God appointed a worm, which attacked the plant, so that it withered."
+    },
+    {
+     "v": 8,
+     "text": "When the sun came up, God appointed a scorching east wind, and the sun beat down on Jonah’s head until he grew faint. He begged to die, saying, “I am better off dead than alive.”"
+    },
+    {
+     "v": 9,
+     "text": "But God said to Jonah, “Is it right for you to be so angry about the plant?” He said, “Yes, it is right; I am angry enough to die.”"
+    },
+    {
+     "v": 10,
+     "text": "Then Yahweh said, “You took pity on the plant, though you did not labor over it or make it grow. It came up in a night and perished in a night."
+    },
+    {
+     "v": 11,
+     "text": "And may I not pity Nineveh, the great city, where there live over a hundred and twenty thousand human beings who cannot tell their right hand from their left,{e} and a great many beasts besides?”{f}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Hebrew “it was evil to Jonah, a great evil, and it burned to him.” The word “evil” echoes 3:8 and 3:10."
+    },
+    {
+     "m": "b",
+     "ref": "4:2",
+     "text": "Hebrew ḥesed. This confession echoes Exodus 34:6–7; compare Joel 2:13."
+    },
+    {
+     "m": "c",
+     "ref": "4:6",
+     "text": "Hebrew qiqayon, perhaps the castor-oil plant, which grows quickly and has broad leaves; older versions have “gourd.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:6",
+     "text": "Hebrew raʿah, “evil,” the same word as in 4:1."
+    },
+    {
+     "m": "e",
+     "ref": "4:11",
+     "text": "Perhaps meaning small children, or people without moral or religious understanding."
+    },
+    {
+     "m": "f",
+     "ref": "4:11",
+     "text": "The book ends with God’s question unanswered."
+    }
+   ]
+  }
+ ]
+}
