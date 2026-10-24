@@ -1,0 +1,564 @@
+{
+ "id": "ruth",
+ "name": "Ruth",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew of the Westminster Leningrad Codex, checked against the Septuagint (in Brenton’s public-domain English translation) and the Dead Sea Scrolls fragments of Ruth (2QRuthᵃ, 2QRuthᵇ, 4QRuthᵃ, 4QRuthᵇ), which differ from the traditional Hebrew text only in small details. Where the written Hebrew text (ketiv) and the traditional reading (qere) differ, the translation follows the reading that makes sense in context and the footnotes give the other. Verse numbers follow the standard English Bible, which agrees with the Hebrew in Ruth. Weights and measures are given in modern US units, with the original units and metric figures in the footnotes.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    6,
+    15,
+    19,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the days when the judges ruled, there was a famine in the land, and a man of Bethlehem{a} in Judah went to sojourn in the country of Moab, he and his wife and his two sons."
+    },
+    {
+     "v": 2,
+     "text": "The name of the man was Elimelech,{b} and the name of his wife Naomi,{c} and the names of his two sons were Mahlon{d} and Chilion.{e} They were Ephrathites from Bethlehem in Judah. They went into the country of Moab and remained there."
+    },
+    {
+     "v": 3,
+     "text": "But Elimelech, the husband of Naomi, died, and she was left with her two sons."
+    },
+    {
+     "v": 4,
+     "text": "They took Moabite wives; the name of the one was Orpah{f} and the name of the other Ruth.{g} They lived there about ten years,"
+    },
+    {
+     "v": 5,
+     "text": "and both Mahlon and Chilion also died, so that the woman was left without her two sons and her husband."
+    },
+    {
+     "v": 6,
+     "text": "Then she arose with her daughters-in-law to return from the country of Moab, for she had heard in the country of Moab that Yahweh had visited his people and given them food.{h}"
+    },
+    {
+     "v": 7,
+     "text": "So she set out from the place where she was, with her two daughters-in-law, and they went on the way to return to the land of Judah."
+    },
+    {
+     "v": 8,
+     "text": "But Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May Yahweh deal kindly{i} with you, as you have dealt with the dead and with me."
+    },
+    {
+     "v": 9,
+     "text": "May Yahweh grant that you find rest, each of you in the house of her husband!” Then she kissed them, and they lifted up their voices and wept."
+    },
+    {
+     "v": 10,
+     "text": "And they said to her, “No, we will return with you to your people.”"
+    },
+    {
+     "v": 11,
+     "text": "But Naomi said, “Turn back, my daughters; why will you go with me? Have I yet sons in my womb that they may become your husbands?"
+    },
+    {
+     "v": 12,
+     "text": "Turn back, my daughters; go your way, for I am too old to have a husband. If I should say I have hope, even if I should have a husband this night and should bear sons,"
+    },
+    {
+     "v": 13,
+     "text": "would you therefore wait till they were grown? Would you therefore refrain from marrying? No, my daughters, for it is exceedingly bitter to me for your sake that the hand of Yahweh has gone out against me.”"
+    },
+    {
+     "v": 14,
+     "text": "Then they lifted up their voices and wept again. And Orpah kissed her mother-in-law, but Ruth clung to her."
+    },
+    {
+     "v": 15,
+     "text": "And she said, “Look, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law.”"
+    },
+    {
+     "v": 16,
+     "text": "But Ruth said, “Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God."
+    },
+    {
+     "v": 17,
+     "text": "Where you die I will die, and there will I be buried. May Yahweh do so to me and more also if anything but death parts me from you.”"
+    },
+    {
+     "v": 18,
+     "text": "And when Naomi saw that she was determined to go with her, she said no more."
+    },
+    {
+     "v": 19,
+     "text": "So the two of them went on until they came to Bethlehem. And when they came to Bethlehem, the whole town was stirred because of them. And the women said, “Is this Naomi?”"
+    },
+    {
+     "v": 20,
+     "text": "She said to them, “Do not call me Naomi; call me Mara,{j} for Shaddai{k} has dealt very bitterly with me."
+    },
+    {
+     "v": 21,
+     "text": "I went away full, and Yahweh has brought me back empty. Why call me Naomi, when Yahweh has testified against me{l} and Shaddai has brought calamity upon me?”"
+    },
+    {
+     "v": 22,
+     "text": "So Naomi returned, and Ruth the Moabite her daughter-in-law with her, who returned from the country of Moab. And they came to Bethlehem at the beginning of the barley harvest (in March–April).{m}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Bethlehem means “house of bread.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:2",
+     "text": "Elimelech means “my God is king.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "Naomi means “pleasant” or “my pleasantness.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "The meaning of Mahlon is uncertain; it is often explained as “sickly” or “weakness.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Chilion probably means “failing,” “finished,” or “consumption.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:4",
+     "text": "The meaning of Orpah is uncertain; it is often connected with ‘oref, “back of the neck,” as one who turned back (verse 14)."
+    },
+    {
+     "m": "g",
+     "ref": "1:4",
+     "text": "The meaning of Ruth is uncertain; it is often explained as “friend” or “companion,” or as “refreshment.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:6",
+     "text": "Hebrew lehem, “bread,” echoing the name Bethlehem."
+    },
+    {
+     "m": "i",
+     "ref": "1:8",
+     "text": "Hebrew hesed, “steadfast love, loyal kindness,” a key word in Ruth (2:20; 3:10)."
+    },
+    {
+     "m": "j",
+     "ref": "1:20",
+     "text": "Mara means “bitter.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:20",
+     "text": "A divine name, traditionally translated “the Almighty”; its original meaning is uncertain. Also in verse 21. The Septuagint reads “the Mighty One.”"
+    },
+    {
+     "m": "l",
+     "ref": "1:21",
+     "text": "So the Hebrew. The Septuagint and some other ancient versions read “has humbled me,” from the same Hebrew letters with different vowels."
+    },
+    {
+     "m": "m",
+     "ref": "1:22",
+     "text": "The barley harvest began around Passover in the first month of the spring-start calendar, Nisan (in March–April), and lasted about seven weeks until the wheat harvest ended at Pentecost/Shavuot (2:23). Today barley in this region is reaped mainly in April."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    8,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now Naomi had a relative of her husband’s, a worthy man{a} of the clan of Elimelech, whose name was Boaz.{b}"
+    },
+    {
+     "v": 2,
+     "text": "And Ruth the Moabite said to Naomi, “Let me go to the field and glean among the ears of grain after him in whose sight I shall find favor.” And she said to her, “Go, my daughter.”"
+    },
+    {
+     "v": 3,
+     "text": "So she set out and went and gleaned in the field after the reapers, and she happened to come to the part of the field belonging to Boaz, who was of the clan of Elimelech."
+    },
+    {
+     "v": 4,
+     "text": "And look, Boaz came from Bethlehem. And he said to the reapers, “Yahweh be with you!” And they answered, “Yahweh bless you.”"
+    },
+    {
+     "v": 5,
+     "text": "Then Boaz said to his young man who was in charge of the reapers, “Whose young woman is this?”"
+    },
+    {
+     "v": 6,
+     "text": "And the servant who was in charge of the reapers answered, “She is the young Moabite woman, who came back with Naomi from the country of Moab."
+    },
+    {
+     "v": 7,
+     "text": "She said, ‘Please let me glean and gather among the sheaves after the reapers.’ So she came, and she has continued from early morning until now, except for a short rest in the shelter.”{c}"
+    },
+    {
+     "v": 8,
+     "text": "Then Boaz said to Ruth, “Now, listen, my daughter, do not go to glean in another field or leave this one, but keep close to my young women."
+    },
+    {
+     "v": 9,
+     "text": "Let your eyes be on the field that they are reaping, and go after them. Have I not charged the young men not to touch you? And when you are thirsty, go to the vessels and drink what the young men have drawn.”"
+    },
+    {
+     "v": 10,
+     "text": "Then she fell on her face, bowing to the ground, and said to him, “Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?”{d}"
+    },
+    {
+     "v": 11,
+     "text": "But Boaz answered her, “All that you have done for your mother-in-law since the death of your husband has been fully told to me, and how you left your father and mother and your native land and came to a people that you did not know before."
+    },
+    {
+     "v": 12,
+     "text": "May Yahweh repay you for what you have done, and a full reward be given you by Yahweh, the God of Israel, under whose wings{e} you have come to take refuge!”"
+    },
+    {
+     "v": 13,
+     "text": "Then she said, “I have found favor in your eyes, my lord, for you have comforted me and spoken kindly to your female servant, though I am not one of your female servants.”"
+    },
+    {
+     "v": 14,
+     "text": "And at mealtime Boaz said to her, “Come here and eat some bread and dip your morsel in the wine vinegar.” So she sat beside the reapers, and he passed to her roasted grain. And she ate until she was satisfied, and she had some left over."
+    },
+    {
+     "v": 15,
+     "text": "When she rose to glean, Boaz instructed his young men, saying, “Let her glean even among the sheaves, and do not reproach her."
+    },
+    {
+     "v": 16,
+     "text": "And also pull out some from the bundles for her and leave it for her to glean, and do not rebuke her.”"
+    },
+    {
+     "v": 17,
+     "text": "So she gleaned in the field until evening. Then she beat out what she had gleaned, and it was about three-fifths of a bushel{f} of barley."
+    },
+    {
+     "v": 18,
+     "text": "And she took it up and went into the city. Her mother-in-law saw what she had gleaned. She also brought out and gave her what food she had left over after being satisfied."
+    },
+    {
+     "v": 19,
+     "text": "And her mother-in-law said to her, “Where did you glean today? And where have you worked? Blessed be the man who took notice of you.” So she told her mother-in-law with whom she had worked and said, “The man’s name with whom I worked today is Boaz.”"
+    },
+    {
+     "v": 20,
+     "text": "And Naomi said to her daughter-in-law, “May he be blessed by Yahweh, whose kindness has not forsaken the living or the dead!” Naomi also said to her, “The man is a close relative of ours, one of our family redeemers.”{g}"
+    },
+    {
+     "v": 21,
+     "text": "And Ruth the Moabite said, “Besides, he said to me, ‘You shall keep close by my young men until they have finished all my harvest.’”"
+    },
+    {
+     "v": 22,
+     "text": "And Naomi said to Ruth, her daughter-in-law, “It is good, my daughter, that you go out with his young women, so that in another field you will not be assaulted.”"
+    },
+    {
+     "v": 23,
+     "text": "So she kept close to the young women of Boaz, gleaning until the end of the barley and wheat harvests (in May–June).{h} And she lived with her mother-in-law."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Or “a man of standing” or “a man of wealth”; Hebrew gibbor hayil. Compare “a worthy woman” (’eshet hayil) in 3:11."
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "The meaning of Boaz is uncertain; it is often explained as “in him is strength” or “quickness.” Boaz was also the name of one of the two bronze pillars of Solomon’s temple (1 Kings 7:21)."
+    },
+    {
+     "m": "c",
+     "ref": "2:7",
+     "text": "The meaning of the Hebrew of the last part of this verse is uncertain. The Septuagint reads “and she stood from morning until evening and has not rested in the field even a little.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:10",
+     "text": "There is a play on words in the Hebrew: hikkir, “take notice of,” and nokriyyah, “foreigner.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:12",
+     "text": "Hebrew kanaf, “wing,” also “edge of a garment”; compare 3:9."
+    },
+    {
+     "m": "f",
+     "ref": "2:17",
+     "text": "Hebrew “about an ephah”; an ephah was about 22 liters (L). That much threshed barley would weigh roughly 30 pounds (13–14 kilograms, kg), a remarkably large amount for one day’s gleaning."
+    },
+    {
+     "m": "g",
+     "ref": "2:20",
+     "text": "Hebrew go’el (plural go’alim), the close relative who had the duty to buy back family land, to redeem a relative sold into slavery, to avenge a relative’s death, and, in Ruth, to provide an heir for the dead (Leviticus 25:25–55; Numbers 35:19; Deuteronomy 25:5–10). Also in 3:9, 12–13; 4:1–8, 14."
+    },
+    {
+     "m": "h",
+     "ref": "2:23",
+     "text": "The barley harvest, beginning in March–April, was followed by the wheat harvest, which ended around Pentecost/Shavuot in the third month, Sivan (in May–June): about seven weeks in all."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    6,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Naomi her mother-in-law said to her, “My daughter, should I not seek rest for you, that it may be well with you?"
+    },
+    {
+     "v": 2,
+     "text": "Is not Boaz our relative, with whose young women you were? Look, he is winnowing barley tonight at the threshing floor."
+    },
+    {
+     "v": 3,
+     "text": "Wash therefore and anoint yourself, and put on your cloak{a} and go down to the threshing floor, but do not make yourself known to the man until he has finished eating and drinking."
+    },
+    {
+     "v": 4,
+     "text": "But when he lies down, observe the place where he lies. Then go and uncover his feet and lie down, and he will tell you what to do.”"
+    },
+    {
+     "v": 5,
+     "text": "And she replied, “All that you say{b} I will do.”"
+    },
+    {
+     "v": 6,
+     "text": "So she went down to the threshing floor and did just as her mother-in-law had commanded her."
+    },
+    {
+     "v": 7,
+     "text": "And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of grain. Then she came softly and uncovered his feet and lay down."
+    },
+    {
+     "v": 8,
+     "text": "At midnight the man was startled and turned over, and look, a woman lay at his feet!"
+    },
+    {
+     "v": 9,
+     "text": "He said, “Who are you?” And she answered, “I am Ruth, your female servant. Spread your wing{c} over your female servant, for you are a family redeemer.”"
+    },
+    {
+     "v": 10,
+     "text": "And he said, “May you be blessed by Yahweh, my daughter. You have made this last kindness greater than the first, in that you have not gone after young men, whether poor or rich."
+    },
+    {
+     "v": 11,
+     "text": "And now, my daughter, do not fear. I will do for you all that you ask, for all my fellow townsmen{d} know that you are a worthy woman."
+    },
+    {
+     "v": 12,
+     "text": "And now it is true that I am a family redeemer. Yet there is a redeemer nearer than I."
+    },
+    {
+     "v": 13,
+     "text": "Remain tonight, and in the morning, if he will redeem you, good; let him do it. But if he is not willing to redeem you, then, as Yahweh lives, I will redeem you. Lie down until the morning.”"
+    },
+    {
+     "v": 14,
+     "text": "So she lay at his feet until the morning, but arose before one could recognize another. And he said, “Let it not be known that the woman came to the threshing floor.”"
+    },
+    {
+     "v": 15,
+     "text": "And he said, “Bring the shawl you are wearing and hold it out.” So she held it, and he measured out six measures{e} of barley and put it on her. Then he{f} went into the city."
+    },
+    {
+     "v": 16,
+     "text": "And when she came to her mother-in-law, she said, “How did you fare, my daughter?” Then she told her all that the man had done for her,"
+    },
+    {
+     "v": 17,
+     "text": "saying, “These six measures of barley he gave to me, for he said to me,{g} ‘You must not go back empty-handed to your mother-in-law.’”"
+    },
+    {
+     "v": 18,
+     "text": "She replied, “Wait, my daughter, until you learn how the matter turns out, for the man will not rest but will settle the matter today.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:3",
+     "text": "So the traditional reading (qere), “go down”; the written Hebrew text (ketiv) has “I will go down.” A similar difference occurs in verse 4 (“lie down”)."
+    },
+    {
+     "m": "b",
+     "ref": "3:5",
+     "text": "The traditional reading (qere) adds “to me.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:9",
+     "text": "Hebrew kanaf, “wing” or “edge of a garment,” a request for marriage and protection; compare 2:12 and Ezekiel 16:8."
+    },
+    {
+     "m": "d",
+     "ref": "3:11",
+     "text": "Hebrew “all the gate of my people.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:15",
+     "text": "The Hebrew does not name the unit. Six ephahs would be far too heavy to carry; six seahs (about 4 bushels, 1 seah being about 7.3 liters) or six omers would be possible. The Septuagint reads “six measures.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:15",
+     "text": "So most Hebrew manuscripts. Some Hebrew manuscripts, the Syriac, and the Latin Vulgate read “she.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:17",
+     "text": "The traditional reading (qere) adds “to me”; the written Hebrew text (ketiv) lacks it."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    7,
+    13,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Now Boaz had gone up to the gate and sat down there. And look, the redeemer, of whom Boaz had spoken, came by. So Boaz said, “Turn aside, friend;{a} sit down here.” And he turned aside and sat down."
+    },
+    {
+     "v": 2,
+     "text": "And he took ten men of the elders of the city and said, “Sit down here.” So they sat down."
+    },
+    {
+     "v": 3,
+     "text": "Then he said to the redeemer, “Naomi, who has come back from the country of Moab, is selling the parcel of land that belonged to our relative Elimelech."
+    },
+    {
+     "v": 4,
+     "text": "So I thought I would tell you of it and say, ‘Buy it in the presence of those sitting here and in the presence of the elders of my people.’ If you will redeem it, redeem it. But if you{b} will not, tell me, that I may know, for there is no one besides you to redeem it, and I come after you.” And he said, “I will redeem it.”"
+    },
+    {
+     "v": 5,
+     "text": "Then Boaz said, “The day you buy the field from the hand of Naomi, you also acquire{c} Ruth the Moabite, the widow of the dead, in order to perpetuate the name of the dead in his inheritance.”"
+    },
+    {
+     "v": 6,
+     "text": "Then the redeemer said, “I cannot redeem it for myself, lest I impair my own inheritance. Take my right of redemption yourself, for I cannot redeem it.”"
+    },
+    {
+     "v": 7,
+     "text": "Now this was the custom in former times in Israel concerning redeeming and exchanging: to confirm a transaction, the one drew off his sandal and gave it to the other, and this was the manner of attesting in Israel."
+    },
+    {
+     "v": 8,
+     "text": "So when the redeemer said to Boaz, “Buy it for yourself,” he drew off his sandal."
+    },
+    {
+     "v": 9,
+     "text": "Then Boaz said to the elders and all the people, “You are witnesses this day that I have bought from the hand of Naomi all that belonged to Elimelech and all that belonged to Chilion and to Mahlon."
+    },
+    {
+     "v": 10,
+     "text": "Also Ruth the Moabite, the widow of Mahlon, I have acquired to be my wife, to perpetuate the name of the dead in his inheritance, that the name of the dead may not be cut off from among his brothers and from the gate of his native place. You are witnesses this day.”"
+    },
+    {
+     "v": 11,
+     "text": "Then all the people who were at the gate and the elders said, “We are witnesses. May Yahweh make the woman who is coming into your house like Rachel and Leah, who together built up the house of Israel. May you act worthily in Ephrathah and be renowned in Bethlehem,"
+    },
+    {
+     "v": 12,
+     "text": "and may your house be like the house of Perez, whom Tamar bore to Judah, because of the offspring that Yahweh will give you by this young woman.”"
+    },
+    {
+     "v": 13,
+     "text": "So Boaz took Ruth, and she became his wife. And he went in to her, and Yahweh gave her conception, and she bore a son."
+    },
+    {
+     "v": 14,
+     "text": "Then the women said to Naomi, “Blessed be Yahweh, who has not left you this day without a redeemer, and may his name be renowned in Israel!"
+    },
+    {
+     "v": 15,
+     "text": "He shall be to you a restorer of life and a nourisher of your old age, for your daughter-in-law who loves you, who is more to you than seven sons, has given birth to him.”"
+    },
+    {
+     "v": 16,
+     "text": "Then Naomi took the child and laid him on her lap and became his nurse."
+    },
+    {
+     "v": 17,
+     "text": "And the women of the neighborhood gave him a name, saying, “A son has been born to Naomi.” They named him Obed.{d} He was the father of Jesse, the father of David."
+    },
+    {
+     "v": 18,
+     "text": "Now these are the generations of Perez: Perez fathered Hezron,"
+    },
+    {
+     "v": 19,
+     "text": "Hezron fathered Ram, Ram fathered Amminadab,"
+    },
+    {
+     "v": 20,
+     "text": "Amminadab fathered Nahshon, Nahshon fathered Salmah,{e}"
+    },
+    {
+     "v": 21,
+     "text": "Salmon fathered Boaz, Boaz fathered Obed,"
+    },
+    {
+     "v": 22,
+     "text": "Obed fathered Jesse, and Jesse fathered David."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Hebrew peloni almoni, “so-and-so,” an expression used when a name is withheld."
+    },
+    {
+     "m": "b",
+     "ref": "4:4",
+     "text": "So many Hebrew manuscripts, the Septuagint, the Syriac, and the Latin Vulgate. The Hebrew text reads “if he.”"
+    },
+    {
+     "m": "c",
+     "ref": "4:5",
+     "text": "So the traditional reading (qere), the Septuagint, and the Latin Vulgate (“you acquire”). The written Hebrew text (ketiv) reads “I acquire.” The Hebrew text also reads “and from Ruth”; the translation follows a widely accepted correction, “also Ruth” (compare verse 10)."
+    },
+    {
+     "m": "d",
+     "ref": "4:17",
+     "text": "Obed means “servant” or “worshiper,” perhaps short for Obadiah, “servant of Yahweh.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:20",
+     "text": "Hebrew Salmah; in verse 21 Salmon. The Septuagint has “Salmon” in both verses."
+    }
+   ]
+  }
+ ]
+}
