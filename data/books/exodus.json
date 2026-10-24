@@ -1774,11 +1774,11 @@
     },
     {
      "v": 2,
-     "text": "“This month is to be the beginning of months for you; it is to be the first month of the year for you.{a}"
+     "text": "“This month is to be the beginning of months for you; it is to be the first month of the year for you, in March–April.{a}"
     },
     {
      "v": 3,
-     "text": "Tell the whole congregation of Israel: On the tenth day of this month each man is to take a lamb{b} for his family, a lamb for each household."
+     "text": "Tell the whole congregation of Israel: On the tenth day of this month (in March–April) each man is to take a lamb{b} for his family, a lamb for each household."
     },
     {
      "v": 4,
@@ -1790,7 +1790,7 @@
     },
     {
      "v": 6,
-     "text": "You are to keep it until the fourteenth day of this month. Then the whole assembly of the congregation of Israel is to slaughter it at twilight.{c}"
+     "text": "You are to keep it until the fourteenth day of this month (in March–April). Then the whole assembly of the congregation of Israel is to slaughter it at twilight.{c}"
     },
     {
      "v": 7,
@@ -1838,7 +1838,7 @@
     },
     {
      "v": 18,
-     "text": "In the first month, from the evening of the fourteenth day of the month until the evening of the twenty-first day of the month, you are to eat unleavened bread."
+     "text": "In the first month (in March–April),{f} from the evening of the fourteenth day of the month until the evening of the twenty-first day of the month, you are to eat unleavened bread."
     },
     {
      "v": 19,
@@ -1854,7 +1854,7 @@
     },
     {
      "v": 22,
-     "text": "Take a bunch of hyssop,{f} dip it in the blood that is in the basin,{g} and touch the lintel and the two doorposts with the blood in the basin. None of you is to go out of the door of his house until morning."
+     "text": "Take a bunch of hyssop,{g} dip it in the blood that is in the basin,{h} and touch the lintel and the two doorposts with the blood in the basin. None of you is to go out of the door of his house until morning."
     },
     {
      "v": 23,
@@ -1882,7 +1882,7 @@
     },
     {
      "v": 29,
-     "text": "At midnight Yahweh struck down every firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon,{h} and all the firstborn of the livestock."
+     "text": "At midnight Yahweh struck down every firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon,{i} and all the firstborn of the livestock."
     },
     {
      "v": 30,
@@ -1914,11 +1914,11 @@
     },
     {
      "v": 37,
-     "text": "The Israelites set out from Rameses to Succoth,{i} about 600,000 men on foot,{j} besides children."
+     "text": "The Israelites set out from Rameses to Succoth,{j} about 600,000 men on foot,{k} besides children."
     },
     {
      "v": 38,
-     "text": "A mixed crowd{k} also went up with them, along with flocks and herds, a great number of livestock."
+     "text": "A mixed crowd{l} also went up with them, along with flocks and herds, a great number of livestock."
     },
     {
      "v": 39,
@@ -1926,7 +1926,7 @@
     },
     {
      "v": 40,
-     "text": "The time that the Israelites lived in Egypt{l} was 430 years."
+     "text": "The time that the Israelites lived in Egypt{m} was 430 years."
     },
     {
      "v": 41,
@@ -1950,7 +1950,7 @@
     },
     {
      "v": 46,
-     "text": "It is to be eaten in one house. You are not to take any of the meat outside the house, and you are not to break any of its bones.{m}"
+     "text": "It is to be eaten in one house. You are not to take any of the meat outside the house, and you are not to break any of its bones.{n}"
     },
     {
      "v": 47,
@@ -1977,7 +1977,7 @@
     {
      "m": "a",
      "ref": "12:2",
-     "text": "This month, later called Nisan (in early sources Abib, 13:4), falls in March–April."
+     "text": "Hebrew “the first month.” This month, called Abib in the early sources (13:4) and later Nisan, begins the spring-start religious calendar. Because the Hebrew months were lunar, each overlaps two of our months, and the exact dates varied from year to year; the first month fell in March–April. The dates in verses 3, 6, and 18 are in this month."
     },
     {
      "m": "b",
@@ -2001,41 +2001,46 @@
     },
     {
      "m": "f",
-     "ref": "12:22",
-     "text": "Hyssop is probably the plant now called Syrian marjoram (Origanum syriacum), whose hairy branches hold liquid well."
+     "ref": "12:18",
+     "text": "Hebrew “In the first month.” See the note at verse 2."
     },
     {
      "m": "g",
      "ref": "12:22",
-     "text": "Or “on the threshold.” The Hebrew word saf can mean either."
+     "text": "Hyssop is probably the plant now called Syrian marjoram (Origanum syriacum), whose hairy branches hold liquid well."
     },
     {
      "m": "h",
+     "ref": "12:22",
+     "text": "Or “on the threshold.” The Hebrew word saf can mean either."
+    },
+    {
+     "m": "i",
      "ref": "12:29",
      "text": "Hebrew “the house of the pit.”"
     },
     {
-     "m": "i",
+     "m": "j",
      "ref": "12:37",
      "text": "Rameses was the store city of 1:11, in the eastern Nile Delta. Succoth, meaning “booths,” is probably Egyptian Tjeku, in the Wadi Tumilat."
     },
     {
-     "m": "j",
+     "m": "k",
      "ref": "12:37",
      "text": "The Hebrew word elef, “thousand,” may in some lists mean a clan or military unit, so the number of people intended is debated."
     },
     {
-     "m": "k",
+     "m": "l",
      "ref": "12:38",
      "text": "Hebrew erev rav, people of other nations who joined Israel."
     },
     {
-     "m": "l",
+     "m": "m",
      "ref": "12:40",
      "text": "The Samaritan Pentateuch reads “in the land of Canaan and in the land of Egypt,” and the Septuagint reads “in the land of Egypt and in the land of Canaan.” Those readings count the 430 years from Abraham’s entry into Canaan, as Paul does in Galatians 3:17. Compare Genesis 15:13, which gives a round 400 years for the oppression."
     },
     {
-     "m": "m",
+     "m": "n",
      "ref": "12:46",
      "text": "John 19:36 applies this to Jesus."
     }
@@ -2064,7 +2069,7 @@
     },
     {
      "v": 4,
-     "text": "Today, in the month of Abib,{a} you are going out."
+     "text": "Today, in the month of Abib (March–April),{a} you are going out."
     },
     {
      "v": 5,
@@ -2143,7 +2148,7 @@
     {
      "m": "a",
      "ref": "13:4",
-     "text": "Abib means “ears of grain,” the month of the barley harvest, in March–April. It was later called Nisan."
+     "text": "Abib means “ears of grain,” the month of the barley harvest. It was the first month of the spring-start religious calendar (12:2), falling in March–April, and was later called Nisan."
     },
     {
      "m": "b",
@@ -2273,7 +2278,7 @@
     },
     {
      "v": 24,
-     "text": "In the morning watch,{f} Yahweh looked down on the Egyptian army from the pillar of fire and cloud and threw the Egyptian army into confusion."
+     "text": "Between about two and six in the morning,{f} Yahweh looked down on the Egyptian army from the pillar of fire and cloud and threw the Egyptian army into confusion."
     },
     {
      "v": 25,
@@ -2333,7 +2338,7 @@
     {
      "m": "f",
      "ref": "14:24",
-     "text": "The last watch of the night, about 2 a.m. to 6 a.m."
+     "text": "Hebrew “In the morning watch,” the last of the three watches into which the night was divided, from about 2 a.m. until about 6 a.m."
     },
     {
      "m": "g",
@@ -2557,7 +2562,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "They set out from Elim, and the whole congregation of the Israelites came to the wilderness of Sin,{a} which is between Elim and Sinai, on the fifteenth day of the second month after they had come out of the land of Egypt."
+     "text": "They set out from Elim, and the whole congregation of the Israelites came to the wilderness of Sin,{a} which is between Elim and Sinai, on the fifteenth day of the second month (in April–May){b} after they had come out of the land of Egypt."
     },
     {
      "v": 2,
@@ -2601,7 +2606,7 @@
     },
     {
      "v": 12,
-     "text": "“I have heard the grumbling of the Israelites. Speak to them and say, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am Yahweh your God.’”"
+     "text": "“I have heard the grumbling of the Israelites. Speak to them and say, ‘At twilight{c} you will eat meat, and in the morning you will be filled with bread. Then you will know that I am Yahweh your God.’”"
     },
     {
      "v": 13,
@@ -2613,11 +2618,11 @@
     },
     {
      "v": 15,
-     "text": "When the Israelites saw it, they said to one another, “What is it?”{b} For they did not know what it was. Moses said to them, “It is the bread that Yahweh has given you to eat."
+     "text": "When the Israelites saw it, they said to one another, “What is it?”{d} For they did not know what it was. Moses said to them, “It is the bread that Yahweh has given you to eat."
     },
     {
      "v": 16,
-     "text": "This is what Yahweh has commanded: ‘Each of you is to gather as much of it as he can eat. You are to take about 2 quarts{c} for each person, according to the number of persons; each of you is to take it for those in his tent.’”"
+     "text": "This is what Yahweh has commanded: ‘Each of you is to gather as much of it as he can eat. You are to take about 2 quarts{e} for each person, according to the number of persons; each of you is to take it for those in his tent.’”"
     },
     {
      "v": 17,
@@ -2625,7 +2630,7 @@
     },
     {
      "v": 18,
-     "text": "But when they measured it out,{d} whoever had gathered much had nothing left over, and whoever had gathered little had no lack. Each had gathered as much as he could eat."
+     "text": "But when they measured it out,{f} whoever had gathered much had nothing left over, and whoever had gathered little had no lack. Each had gathered as much as he could eat."
     },
     {
      "v": 19,
@@ -2641,11 +2646,11 @@
     },
     {
      "v": 22,
-     "text": "On the sixth day they gathered twice as much bread, about 4 quarts{e} for each person. When all the leaders of the congregation came and told Moses,"
+     "text": "On the sixth day they gathered twice as much bread, about 4 quarts{g} for each person. When all the leaders of the congregation came and told Moses,"
     },
     {
      "v": 23,
-     "text": "he said to them, “This is what Yahweh has said: ‘Tomorrow is a day of rest, a holy Sabbath{f} to Yahweh. Bake what you want to bake and boil what you want to boil, and all that is left over put aside for yourselves to be kept until morning.’”"
+     "text": "he said to them, “This is what Yahweh has said: ‘Tomorrow is a day of rest, a holy Sabbath{h} to Yahweh. Bake what you want to bake and boil what you want to boil, and all that is left over put aside for yourselves to be kept until morning.’”"
     },
     {
      "v": 24,
@@ -2677,11 +2682,11 @@
     },
     {
      "v": 31,
-     "text": "The house of Israel named it manna.{g} It was like coriander seed, white, and its taste was like wafers made with honey."
+     "text": "The house of Israel named it manna.{i} It was like coriander seed, white, and its taste was like wafers made with honey."
     },
     {
      "v": 32,
-     "text": "Moses said, “This is what Yahweh has commanded: ‘Let about 2 quarts{h} of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness when I brought you out of the land of Egypt.’”"
+     "text": "Moses said, “This is what Yahweh has commanded: ‘Let about 2 quarts{j} of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness when I brought you out of the land of Egypt.’”"
     },
     {
      "v": 33,
@@ -2689,7 +2694,7 @@
     },
     {
      "v": 34,
-     "text": "As Yahweh commanded Moses, so Aaron placed it before the testimony,{i} to be kept."
+     "text": "As Yahweh commanded Moses, so Aaron placed it before the testimony,{k} to be kept."
     },
     {
      "v": 35,
@@ -2697,7 +2702,7 @@
     },
     {
      "v": 36,
-     "text": "(The daily measure of about 2 quarts was one tenth of the standard dry measure of about three-fifths of a bushel.){j}"
+     "text": "(The daily measure of about 2 quarts was one tenth of the standard dry measure of about three-fifths of a bushel.){l}"
     }
    ],
    "notes": [
@@ -2708,46 +2713,56 @@
     },
     {
      "m": "b",
+     "ref": "16:1",
+     "text": "Hebrew “on the fifteenth day of the second month,” counting from the spring new year (see the note at 12:2). The second month, later called Iyyar (Ziv in 1 Kings 6:1), fell in April–May. This was one month after the exodus (12:18)."
+    },
+    {
+     "m": "c",
+     "ref": "16:12",
+     "text": "Hebrew “Between the two evenings.” See the note at 12:6."
+    },
+    {
+     "m": "d",
      "ref": "16:15",
      "text": "Hebrew man hu, “What is it?” The phrase explains the name manna (verse 31)."
     },
     {
-     "m": "c",
+     "m": "e",
      "ref": "16:16",
      "text": "Hebrew “an omer.” An omer was about 2 dry quarts (about 2.2 liters). See verse 36."
     },
     {
-     "m": "d",
+     "m": "f",
      "ref": "16:18",
      "text": "Hebrew “when they measured it with the omer.”"
     },
     {
-     "m": "e",
+     "m": "g",
      "ref": "16:22",
      "text": "Hebrew “two omers,” about 4 dry quarts (about 4.4 liters)."
     },
     {
-     "m": "f",
+     "m": "h",
      "ref": "16:23",
      "text": "Hebrew shabbaton shabbat-qodesh, “a rest, a holy Sabbath.” The word Sabbath comes from shavat, “to stop” or “to rest.” This is the first time the word appears in the Bible."
     },
     {
-     "m": "g",
+     "m": "i",
      "ref": "16:31",
      "text": "Hebrew man, “What?” (see verse 15). Numbers 11:7–9 also describes it."
     },
     {
-     "m": "h",
+     "m": "j",
      "ref": "16:32",
      "text": "Hebrew “an omerful.” So also in verse 33."
     },
     {
-     "m": "i",
+     "m": "k",
      "ref": "16:34",
      "text": "That is, before the ark that would hold the tablets of the testimony (25:16, 21–22). The narrator speaks of the later practice."
     },
     {
-     "m": "j",
+     "m": "l",
      "ref": "16:36",
      "text": "Hebrew “The omer is a tenth of the ephah.” The omer was about 2.2 liters (2 dry quarts), and the ephah about 22 liters (three-fifths of a bushel). Ancient standards varied."
     }
@@ -3035,7 +3050,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "In the third month after the Israelites had gone out of the land of Egypt, on that very day,{a} they came into the wilderness of Sinai."
+     "text": "In the third month (in May–June){a} after the Israelites had gone out of the land of Egypt, on that very day,{b} they came into the wilderness of Sinai."
     },
     {
      "v": 2,
@@ -3051,7 +3066,7 @@
     },
     {
      "v": 5,
-     "text": "Now therefore, if you will indeed listen to my voice and keep my covenant, you will be my treasured possession{b} out of all the peoples, for all the earth is mine."
+     "text": "Now therefore, if you will indeed listen to my voice and keep my covenant, you will be my treasured possession{c} out of all the peoples, for all the earth is mine."
     },
     {
      "v": 6,
@@ -3083,7 +3098,7 @@
     },
     {
      "v": 13,
-     "text": "No hand is to touch him; he is to be stoned or shot with arrows. Whether animal or person, he must not live.’ When the ram’s horn sounds a long blast, they may go up to the mountain.”{c}"
+     "text": "No hand is to touch him; he is to be stoned or shot with arrows. Whether animal or person, he must not live.’ When the ram’s horn sounds a long blast, they may go up to the mountain.”{d}"
     },
     {
      "v": 14,
@@ -3103,11 +3118,11 @@
     },
     {
      "v": 18,
-     "text": "Mount Sinai was wrapped in smoke, because Yahweh had come down on it in fire. Its smoke went up like the smoke of a kiln, and the whole mountain{d} trembled greatly."
+     "text": "Mount Sinai was wrapped in smoke, because Yahweh had come down on it in fire. Its smoke went up like the smoke of a kiln, and the whole mountain{e} trembled greatly."
     },
     {
      "v": 19,
-     "text": "As the sound of the trumpet grew louder and louder, Moses spoke, and God answered him with a voice.{e}"
+     "text": "As the sound of the trumpet grew louder and louder, Moses spoke, and God answered him with a voice.{f}"
     },
     {
      "v": 20,
@@ -3138,25 +3153,30 @@
     {
      "m": "a",
      "ref": "19:1",
-     "text": "Literally “on this day,” probably the first day of the month, the new moon."
+     "text": "Hebrew “In the third month,” later called Sivan, counting from the spring new year (see the note at 12:2)."
     },
     {
      "m": "b",
+     "ref": "19:1",
+     "text": "Literally “on this day,” probably the first day of the month, the new moon."
+    },
+    {
+     "m": "c",
      "ref": "19:5",
      "text": "Hebrew segullah, a personal treasure, such as a king’s private property."
     },
     {
-     "m": "c",
+     "m": "d",
      "ref": "19:13",
      "text": "Hebrew yovel, “ram’s horn.” The trumpet (shofar) of verses 16 and 19 is a different word for a similar instrument."
     },
     {
-     "m": "d",
+     "m": "e",
      "ref": "19:18",
      "text": "The Septuagint and some Hebrew manuscripts read “the whole people.”"
     },
     {
-     "m": "e",
+     "m": "f",
      "ref": "19:19",
      "text": "Or “in thunder.” The Hebrew word qol means both “voice” and “thunder.”"
     }
@@ -3819,15 +3839,15 @@
     },
     {
      "v": 15,
-     "text": "You are to keep the Festival of Unleavened Bread. For seven days you are to eat unleavened bread, as I commanded you, at the appointed time in the month of Abib, for in it you came out of Egypt. No one is to appear before me empty-handed."
+     "text": "You are to keep the Festival of Unleavened Bread. For seven days you are to eat unleavened bread, as I commanded you, at the appointed time in the month of Abib (March–April),{c} for in it you came out of Egypt. No one is to appear before me empty-handed."
     },
     {
      "v": 16,
-     "text": "You are also to keep the Festival of Harvest,{c} with the firstfruits of your labor, of what you sow in the field. You are also to keep the Festival of Ingathering{d} at the end of the year, when you gather in from the field the fruit of your labor."
+     "text": "You are also to keep the Festival of Harvest,{d} with the firstfruits of your labor, of what you sow in the field. You are also to keep the Festival of Ingathering{e} at the end of the year, when you gather in from the field the fruit of your labor."
     },
     {
      "v": 17,
-     "text": "Three times a year all your males are to appear before the Lord Yahweh.{e}"
+     "text": "Three times a year all your males are to appear before the Lord Yahweh.{f}"
     },
     {
      "v": 18,
@@ -3835,7 +3855,7 @@
     },
     {
      "v": 19,
-     "text": "The best of the firstfruits of your ground you are to bring into the house of Yahweh your God. “You shall not boil a young goat in its mother’s milk.{f}"
+     "text": "The best of the firstfruits of your ground you are to bring into the house of Yahweh your God. “You shall not boil a young goat in its mother’s milk.{g}"
     },
     {
      "v": 20,
@@ -3871,7 +3891,7 @@
     },
     {
      "v": 28,
-     "text": "I will send the hornet{g} before you, which will drive out the Hivites, the Canaanites, and the Hittites from before you."
+     "text": "I will send the hornet{h} before you, which will drive out the Hivites, the Canaanites, and the Hittites from before you."
     },
     {
      "v": 29,
@@ -3883,7 +3903,7 @@
     },
     {
      "v": 31,
-     "text": "I will set your border from the Red Sea to the Sea of the Philistines,{h} and from the wilderness to the River,{i} for I will give the inhabitants of the land into your hand, and you will drive them out before you."
+     "text": "I will set your border from the Red Sea to the Sea of the Philistines,{i} and from the wilderness to the River,{j} for I will give the inhabitants of the land into your hand, and you will drive them out before you."
     },
     {
      "v": 32,
@@ -3907,36 +3927,41 @@
     },
     {
      "m": "c",
-     "ref": "23:16",
-     "text": "That is, the wheat harvest in late spring, later called the Festival of Weeks (34:22) or Pentecost."
+     "ref": "23:15",
+     "text": "Hebrew “the month of Abib.” See the note at 13:4."
     },
     {
      "m": "d",
      "ref": "23:16",
-     "text": "That is, the autumn harvest of fruit and olives, later called the Festival of Booths or Tabernacles."
+     "text": "That is, the wheat harvest in late spring, later called the Festival of Weeks (34:22) or Pentecost."
     },
     {
      "m": "e",
+     "ref": "23:16",
+     "text": "That is, the autumn harvest of fruit and olives, later called the Festival of Booths or Tabernacles."
+    },
+    {
+     "m": "f",
      "ref": "23:17",
      "text": "Hebrew ha’adon YHWH, “the Lord, Yahweh.” Here Adon (“Lord” or “Master”) is used, not Adonai."
     },
     {
-     "m": "f",
+     "m": "g",
      "ref": "23:19",
      "text": "This command is repeated in 34:26 and Deuteronomy 14:21. Its original purpose is uncertain; it may forbid a Canaanite ritual or express respect for the bond between mother and young. It became the basis of the Jewish practice of not mixing meat and milk."
     },
     {
-     "m": "g",
+     "m": "h",
      "ref": "23:28",
      "text": "Or “panic” or “plague.” The meaning of the Hebrew word tsir‘ah is uncertain."
     },
     {
-     "m": "h",
+     "m": "i",
      "ref": "23:31",
      "text": "That is, the Mediterranean Sea."
     },
     {
-     "m": "i",
+     "m": "j",
      "ref": "23:31",
      "text": "That is, the Euphrates."
     }
@@ -5147,7 +5172,7 @@
     {
      "m": "g",
      "ref": "29:39",
-     "text": "Hebrew “between the two evenings.”"
+     "text": "Hebrew “between the two evenings,” understood either as between sunset and dark or as between midafternoon and sunset. So also in verse 41."
     },
     {
      "m": "h",
@@ -5201,7 +5226,7 @@
     },
     {
      "v": 8,
-     "text": "and when Aaron sets up the lamps at twilight he is to burn it, a perpetual incense before Yahweh throughout your generations."
+     "text": "and when Aaron sets up the lamps at twilight{b} he is to burn it, a perpetual incense before Yahweh throughout your generations."
     },
     {
      "v": 9,
@@ -5221,7 +5246,7 @@
     },
     {
      "v": 13,
-     "text": "Everyone who is counted is to give this: a fifth of an ounce of silver,{b} by the sanctuary standard. This is the offering to Yahweh."
+     "text": "Everyone who is counted is to give this: a fifth of an ounce of silver,{c} by the sanctuary standard. This is the offering to Yahweh."
     },
     {
      "v": 14,
@@ -5261,11 +5286,11 @@
     },
     {
      "v": 23,
-     "text": "“Take for yourself the finest spices: of liquid myrrh about 12½ pounds,{c} of fragrant cinnamon half as much, about 6¼ pounds,{d} of fragrant cane{e} about 6¼ pounds,"
+     "text": "“Take for yourself the finest spices: of liquid myrrh about 12½ pounds,{d} of fragrant cinnamon half as much, about 6¼ pounds,{e} of fragrant cane{f} about 6¼ pounds,"
     },
     {
      "v": 24,
-     "text": "of cassia about 12½ pounds, by the sanctuary standard,{f} and about a gallon of olive oil.{g}"
+     "text": "of cassia about 12½ pounds, by the sanctuary standard,{g} and about a gallon of olive oil.{h}"
     },
     {
      "v": 25,
@@ -5297,7 +5322,7 @@
     },
     {
      "v": 32,
-     "text": "It must not be poured on anyone’s body,{h} and you must not make any like it with the same formula. It is holy, and it is to be holy to you."
+     "text": "It must not be poured on anyone’s body,{i} and you must not make any like it with the same formula. It is holy, and it is to be holy to you."
     },
     {
      "v": 33,
@@ -5305,7 +5330,7 @@
     },
     {
      "v": 34,
-     "text": "Yahweh said to Moses, “Take for yourself sweet spices, stacte,{i} onycha, and galbanum, sweet spices with pure frankincense, of each an equal part."
+     "text": "Yahweh said to Moses, “Take for yourself sweet spices, stacte,{j} onycha, and galbanum, sweet spices with pure frankincense, of each an equal part."
     },
     {
      "v": 35,
@@ -5332,41 +5357,46 @@
     },
     {
      "m": "b",
+     "ref": "30:8",
+     "text": "Hebrew “between the two evenings.” See the note at 12:6."
+    },
+    {
+     "m": "c",
      "ref": "30:13",
      "text": "Hebrew “half a shekel according to the shekel of the sanctuary (the shekel is twenty gerahs),” about 5.7 grams. A shekel was about 0.4 ounce (11.5 grams) and a gerah one-twentieth of a shekel. The “sanctuary shekel” may have been a standard kept at the sanctuary, or a heavier shekel; weights varied over time. In verse 15, Hebrew “half a shekel.”"
     },
     {
-     "m": "c",
+     "m": "d",
      "ref": "30:23",
      "text": "Hebrew “five hundred shekels,” about 5.75 kilograms. So also for the cassia in verse 24."
     },
     {
-     "m": "d",
+     "m": "e",
      "ref": "30:23",
      "text": "Hebrew “two hundred fifty shekels,” about 2.9 kilograms. So also for the cane."
     },
     {
-     "m": "e",
+     "m": "f",
      "ref": "30:23",
      "text": "Or “calamus,” an aromatic reed. The identification of several of these spices is uncertain."
     },
     {
-     "m": "f",
+     "m": "g",
      "ref": "30:24",
      "text": "Hebrew “by the shekel of the sanctuary.” See the note at verse 13."
     },
     {
-     "m": "g",
+     "m": "h",
      "ref": "30:24",
      "text": "Hebrew “a hin of olive oil,” about 3.7 liters."
     },
     {
-     "m": "h",
+     "m": "i",
      "ref": "30:32",
      "text": "Hebrew “on the flesh of man,” that is, on ordinary people."
     },
     {
-     "m": "i",
+     "m": "j",
      "ref": "30:34",
      "text": "The identity of stacte (Hebrew nataf, “drops”), onycha (Hebrew shehelet, perhaps from a shellfish), and galbanum (a plant resin) is not certain."
     }
@@ -5893,11 +5923,11 @@
     },
     {
      "v": 18,
-     "text": "“You are to keep the Feast of Unleavened Bread. Seven days you are to eat unleavened bread, as I commanded you, at the appointed time in the month of Abib, for in the month of Abib you came out of Egypt."
+     "text": "“You are to keep the Feast of Unleavened Bread. Seven days you are to eat unleavened bread, as I commanded you, at the appointed time in the month of Abib (March–April),{j} for in the month of Abib you came out of Egypt."
     },
     {
      "v": 19,
-     "text": "Every firstborn{j} belongs to me, all your male livestock, the firstborn of cattle and sheep."
+     "text": "Every firstborn{k} belongs to me, all your male livestock, the firstborn of cattle and sheep."
     },
     {
      "v": 20,
@@ -5909,11 +5939,11 @@
     },
     {
      "v": 22,
-     "text": "You are to observe the Feast of Weeks,{k} the firstfruits of wheat harvest, and the Feast of Ingathering at the turn of the year."
+     "text": "You are to observe the Feast of Weeks,{l} the firstfruits of wheat harvest, and the Feast of Ingathering at the turn of the year."
     },
     {
      "v": 23,
-     "text": "Three times in the year all your males are to appear before the Lord Yahweh, the God of Israel.{l}"
+     "text": "Three times in the year all your males are to appear before the Lord Yahweh, the God of Israel.{m}"
     },
     {
      "v": 24,
@@ -5925,7 +5955,7 @@
     },
     {
      "v": 26,
-     "text": "The best of the firstfruits of your ground you are to bring to the house of Yahweh your God. You are not to boil a young goat in its mother’s milk.”{m}"
+     "text": "The best of the firstfruits of your ground you are to bring to the house of Yahweh your God. You are not to boil a young goat in its mother’s milk.”{n}"
     },
     {
      "v": 27,
@@ -5933,11 +5963,11 @@
     },
     {
      "v": 28,
-     "text": "So he was there with Yahweh forty days and forty nights. He neither ate bread nor drank water. And he{n} wrote on the tablets the words of the covenant, the Ten Words.{o}"
+     "text": "So he was there with Yahweh forty days and forty nights. He neither ate bread nor drank water. And he{o} wrote on the tablets the words of the covenant, the Ten Words.{p}"
     },
     {
      "v": 29,
-     "text": "When Moses came down from Mount Sinai, with the two tablets of the testimony in Moses’ hand as he came down from the mountain, Moses did not know that the skin of his face shone{p} because he had been talking with him.{q}"
+     "text": "When Moses came down from Mount Sinai, with the two tablets of the testimony in Moses’ hand as he came down from the mountain, Moses did not know that the skin of his face shone{q} because he had been talking with him.{r}"
     },
     {
      "v": 30,
@@ -6012,41 +6042,46 @@
     },
     {
      "m": "j",
+     "ref": "34:18",
+     "text": "Hebrew “the month of Abib.” See the note at 13:4."
+    },
+    {
+     "m": "k",
      "ref": "34:19",
      "text": "Hebrew “everything that opens the womb.”"
     },
     {
-     "m": "k",
+     "m": "l",
      "ref": "34:22",
      "text": "Hebrew shavu‘ot, later called Pentecost (“fiftieth”), because it came seven weeks (fifty days) after Passover."
     },
     {
-     "m": "l",
+     "m": "m",
      "ref": "34:23",
      "text": "Hebrew ha’adon YHWH elohe yisra’el, “the Lord Yahweh, the God of Israel.” On ha’adon see the note at 23:17."
     },
     {
-     "m": "m",
+     "m": "n",
      "ref": "34:26",
      "text": "See the note at 23:19."
     },
     {
-     "m": "n",
+     "m": "o",
      "ref": "34:28",
      "text": "The context suggests that Yahweh is the one who wrote (verse 1; Deuteronomy 10:2–4), though grammatically the subject could be Moses (verse 27)."
     },
     {
-     "m": "o",
+     "m": "p",
      "ref": "34:28",
      "text": "Hebrew “the ten words,” the source of the term “Decalogue.” Compare Deuteronomy 4:13; 10:4."
     },
     {
-     "m": "p",
+     "m": "q",
      "ref": "34:29",
      "text": "Hebrew qaran, related to qeren, “horn.” The verb probably means “sent out rays.” The Latin Vulgate rendered it cornuta, “horned,” which led to medieval and Renaissance art (including Michelangelo’s statue) showing Moses with horns. The Septuagint reads “was glorified.” Compare 2 Corinthians 3:7–18."
     },
     {
-     "m": "q",
+     "m": "r",
      "ref": "34:29",
      "text": "That is, with Yahweh."
     }
@@ -7015,7 +7050,7 @@
     },
     {
      "v": 2,
-     "text": "“On the first day of the first month you are to set up the tabernacle of the tent of meeting."
+     "text": "“On the first day of the first month (in March–April){a} you are to set up the tabernacle of the tent of meeting."
     },
     {
      "v": 3,
@@ -7075,7 +7110,7 @@
     },
     {
      "v": 17,
-     "text": "In the first month of the second year, on the first day of the month, the tabernacle was set up.{a}"
+     "text": "In the first month (March–April) of the second year, on the first day of the month, the tabernacle was set up.{b}"
     },
     {
      "v": 18,
@@ -7147,7 +7182,7 @@
     },
     {
      "v": 35,
-     "text": "Moses was not able to enter the tent of meeting, because the cloud settled{b} on it, and the glory of Yahweh filled the tabernacle."
+     "text": "Moses was not able to enter the tent of meeting, because the cloud settled{c} on it, and the glory of Yahweh filled the tabernacle."
     },
     {
      "v": 36,
@@ -7159,22 +7194,27 @@
     },
     {
      "v": 38,
-     "text": "For the cloud of Yahweh was over the tabernacle by day, and fire was in it{c} by night, in the sight of all the house of Israel, throughout all their journeys."
+     "text": "For the cloud of Yahweh was over the tabernacle by day, and fire was in it{d} by night, in the sight of all the house of Israel, throughout all their journeys."
     }
    ],
    "notes": [
     {
      "m": "a",
-     "ref": "40:17",
-     "text": "That is, almost a year after the exodus (12:2, 6; 19:1). The Septuagint adds “after they went out of Egypt.”"
+     "ref": "40:2",
+     "text": "Hebrew “On the first day of the first month,” that is, Abib or Nisan, the first month of the spring-start religious calendar. See the note at 12:2."
     },
     {
      "m": "b",
+     "ref": "40:17",
+     "text": "Hebrew “In the first month in the second year, on the first of the month,” that is, the first day of Abib or Nisan (see the note at 12:2), almost a year after the exodus (12:6; 19:1). The Septuagint adds “after they went out of Egypt.”"
+    },
+    {
+     "m": "c",
      "ref": "40:35",
      "text": "Hebrew shakan, “to dwell,” the verb from which mishkan, “tabernacle,” comes (see the note at 25:9). Later Jewish tradition spoke of God’s dwelling presence as the Shekhinah."
     },
     {
-     "m": "c",
+     "m": "d",
      "ref": "40:38",
      "text": "Or “in the cloud.”"
     }
