@@ -1,0 +1,1071 @@
+{
+ "id": "amos",
+ "name": "Amos",
+ "division": "Old Testament",
+ "sourceNote": "Translated from the Hebrew Masoretic Text as given in the Westminster Leningrad Codex (Open Scriptures Hebrew Bible edition), with the Septuagint (Old Greek) consulted. Amos prophesied in the northern kingdom of Israel in the reign of Jeroboam II (about 786–746 BC), probably around 760 BC. Among the Dead Sea Scrolls, as reported in the published editions, portions of Amos are preserved in the Qumran manuscripts of the Twelve Prophets (4QXII-c, 4QXII-g, and others), in the Wadi Murabbaʿat scroll (Mur 88), and in the Greek Minor Prophets Scroll from Nahal Hever (8HevXIIgr); these generally support the Masoretic Text. The combination ʾAdonay YHWH, frequent in Amos, is rendered “the Lord Yahweh.” Verse numbers in Amos are the same in English and Hebrew.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    3,
+    6,
+    9,
+    11,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The words of Amos, one of the sheep breeders{a} of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash, king of Israel, two years before the earthquake.{b}"
+    },
+    {
+     "v": 2,
+     "text": "He said:\n“Yahweh roars from Zion\nand from Jerusalem lifts his voice;\nthe shepherds’ pastures mourn,\nand the summit of Carmel withers.”"
+    },
+    {
+     "v": 3,
+     "text": "This is what Yahweh says:\n“For three transgressions of Damascus,\nyes, for four,{c} I will not turn it back;\nbecause with sledges of iron\nthey threshed Gilead."
+    },
+    {
+     "v": 4,
+     "text": "So I will send a fire upon the house of Hazael,\nand it will consume the fortresses of Ben-hadad.{d}"
+    },
+    {
+     "v": 5,
+     "text": "I will break the gate bar of Damascus,\nand cut off the ruler{e} from the Valley of Aven,\nand the one who holds the scepter from Beth-eden;\nand the people of Aram will go into exile to Kir,”\nsays Yahweh."
+    },
+    {
+     "v": 6,
+     "text": "This is what Yahweh says:\n“For three transgressions of Gaza,\nyes, for four, I will not turn it back;\nbecause they carried off whole communities{f} as captives\nto hand them over to Edom."
+    },
+    {
+     "v": 7,
+     "text": "So I will send a fire upon the wall of Gaza,\nand it will consume her fortresses."
+    },
+    {
+     "v": 8,
+     "text": "I will cut off the ruler from Ashdod,\nand the one who holds the scepter from Ashkelon;\nI will turn my hand against Ekron,\nand the remnant of the Philistines will perish,”\nsays the Lord Yahweh."
+    },
+    {
+     "v": 9,
+     "text": "This is what Yahweh says:\n“For three transgressions of Tyre,\nyes, for four, I will not turn it back;\nbecause they delivered up whole communities to Edom\nand did not remember the covenant of brothers."
+    },
+    {
+     "v": 10,
+     "text": "So I will send a fire upon the wall of Tyre,\nand it will consume her fortresses.”"
+    },
+    {
+     "v": 11,
+     "text": "This is what Yahweh says:\n“For three transgressions of Edom,\nyes, for four, I will not turn it back;\nbecause he hunted his brother{g} with the sword\nand stifled all compassion;\nhis anger tore without ceasing,\nand he kept his fury forever."
+    },
+    {
+     "v": 12,
+     "text": "So I will send a fire upon Teman,\nand it will consume the fortresses of Bozrah.”"
+    },
+    {
+     "v": 13,
+     "text": "This is what Yahweh says:\n“For three transgressions of the Ammonites,\nyes, for four, I will not turn it back;\nbecause they ripped open the pregnant women of Gilead\nto widen their own border."
+    },
+    {
+     "v": 14,
+     "text": "So I will kindle a fire on the wall of Rabbah,{h}\nand it will consume her fortresses,\nwith shouting on the day of battle,\nwith a storm on the day of the whirlwind."
+    },
+    {
+     "v": 15,
+     "text": "Into exile their king{i} shall go,\nhe and his princes with him,”\nsays Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Hebrew noqedim, used also of Mesha king of Moab (2 Kings 3:4); perhaps an owner or manager of flocks rather than a simple herdsman (compare 7:14). Tekoa was a village about 10 miles (16 kilometers) south of Jerusalem."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "A major earthquake remembered long afterward (Zechariah 14:5); archaeological evidence at several sites, including Hazor, suggests a date of about 760 BC."
+    },
+    {
+     "m": "c",
+     "ref": "1:3",
+     "text": "A numerical saying meaning “for sin upon sin,” building to a climax (compare Proverbs 30:15–31). “It” is probably the punishment."
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "Hazael and his son Ben-hadad were kings of Aram (Syria) in the ninth century BC (2 Kings 8:7–15; 13:3, 24)."
+    },
+    {
+     "m": "e",
+     "ref": "1:5",
+     "text": "Or “the inhabitants.” Aven (“wickedness”) and Beth-eden (“house of delight”) may be mocking names. Kir was the original homeland of the Arameans (9:7); they were exiled there by Tiglath-pileser III in 732 BC (2 Kings 16:9)."
+    },
+    {
+     "m": "f",
+     "ref": "1:6",
+     "text": "Hebrew “a complete exile,” sparing no one; likewise in verse 9."
+    },
+    {
+     "m": "g",
+     "ref": "1:11",
+     "text": "Edom descended from Esau, the brother of Jacob (Genesis 25:19–34; 36:1)."
+    },
+    {
+     "m": "h",
+     "ref": "1:14",
+     "text": "The capital of Ammon, the site of modern Amman in Jordan."
+    },
+    {
+     "m": "i",
+     "ref": "1:15",
+     "text": "Or “Milcom,” the god of the Ammonites (so some Greek manuscripts; compare Jeremiah 49:3)."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    4,
+    6,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "This is what Yahweh says:\n“For three transgressions of Moab,\nyes, for four, I will not turn it back;\nbecause he burned the bones of the king of Edom\nto lime.{a}"
+    },
+    {
+     "v": 2,
+     "text": "So I will send a fire upon Moab,\nand it will consume the fortresses of Kerioth;{b}\nMoab will die amid tumult,\nwith shouting and the blast of the horn."
+    },
+    {
+     "v": 3,
+     "text": "From among them I will cut off the judge{c}\nand slay all her princes along with him,”\nsays Yahweh."
+    },
+    {
+     "v": 4,
+     "text": "This is what Yahweh says:\n“For three transgressions of Judah,\nyes, for four, I will not turn it back;\nbecause they have rejected the law of Yahweh\nand have not kept his statutes,\nand their lies{d} have led them astray,\nthe lies after which their fathers walked."
+    },
+    {
+     "v": 5,
+     "text": "So I will send a fire upon Judah,\nand it will consume the fortresses of Jerusalem.”"
+    },
+    {
+     "v": 6,
+     "text": "This is what Yahweh says:\n“For three transgressions of Israel,\nyes, for four, I will not turn it back;\nbecause they sell the righteous for silver,\nand the needy for a pair of sandals—"
+    },
+    {
+     "v": 7,
+     "text": "they who long to grind the heads of the poor into the dust of the ground{e}\nand turn aside the way of the humble;\na man and his father go in to the same young woman,\nso that my holy name is defiled;"
+    },
+    {
+     "v": 8,
+     "text": "they stretch out beside every altar\non garments taken in pledge,{f}\nand in the house of their God they drink\nthe wine of those who have been fined."
+    },
+    {
+     "v": 9,
+     "text": "“Yet it was I who destroyed the Amorite before them,\nwhose height was like the height of cedars,\nand who was as strong as the oaks;\nI destroyed his fruit above\nand his roots beneath."
+    },
+    {
+     "v": 10,
+     "text": "And it was I who brought you up out of the land of Egypt\nand led you forty years in the wilderness,\nto take possession of the land of the Amorite."
+    },
+    {
+     "v": 11,
+     "text": "I raised up prophets from among your sons,\nand Nazirites from among your young men.{g}\nIs that not so, people of Israel?”\ndeclares Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "“But you gave the Nazirites wine to drink,\nand you ordered the prophets,\n‘You shall not prophesy.’"
+    },
+    {
+     "v": 13,
+     "text": "Look, I am going to make you groan where you are,{h}\nas a wagon groans\nthat is loaded with sheaves."
+    },
+    {
+     "v": 14,
+     "text": "Flight will fail the swift;\nthe strong will not retain his strength,\nnor will the mighty save his life."
+    },
+    {
+     "v": 15,
+     "text": "The one who handles the bow will not hold firm;\nthe fleet-footed will not get away,\nand the one who rides the horse will not save his life."
+    },
+    {
+     "v": 16,
+     "text": "The stoutest-hearted among the mighty\nshall run away naked in that day,”\ndeclares Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "A desecration of the dead, denying the king rest in his grave."
+    },
+    {
+     "m": "b",
+     "ref": "2:2",
+     "text": "A city of Moab, mentioned also on the Mesha Stone (about 840 BC)."
+    },
+    {
+     "m": "c",
+     "ref": "2:3",
+     "text": "That is, the king or chief ruler."
+    },
+    {
+     "m": "d",
+     "ref": "2:4",
+     "text": "That is, their false gods."
+    },
+    {
+     "m": "e",
+     "ref": "2:7",
+     "text": "Or “who pant after the dust of the earth on the head of the poor,” that is, who covet even the dust the poor put on their heads in mourning."
+    },
+    {
+     "m": "f",
+     "ref": "2:8",
+     "text": "The law required that a cloak taken in pledge be returned by nightfall (Exodus 22:26–27; Deuteronomy 24:12–13)."
+    },
+    {
+     "m": "g",
+     "ref": "2:11",
+     "text": "People under a vow of separation to God, who abstained from wine (Numbers 6:1–21; Judges 13:4–5)."
+    },
+    {
+     "m": "h",
+     "ref": "2:13",
+     "text": "The meaning of the Hebrew verb is uncertain; perhaps “I will make you totter” or “I will split the ground beneath you.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    3,
+    9,
+    12,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear this word that Yahweh has spoken against you, people of Israel, against the whole family that I brought up out of the land of Egypt:"
+    },
+    {
+     "v": 2,
+     "text": "“You alone have I known{a}\nof all the families of the earth;\ntherefore I will punish you\nfor all your iniquities.”"
+    },
+    {
+     "v": 3,
+     "text": "Do two walk together\nunless they have arranged to meet?"
+    },
+    {
+     "v": 4,
+     "text": "Does a lion roar in the forest\nwhen he has no prey?\nDoes a young lion cry out from his den\nunless he has caught something?"
+    },
+    {
+     "v": 5,
+     "text": "Does a bird fall into a snare on the ground\nwhen there is no bait{b} for it?\nDoes a trap spring up from the ground\nwhen it has taken nothing?"
+    },
+    {
+     "v": 6,
+     "text": "Is a horn blown in a city\nand the people not tremble?\nDoes disaster come to a city\nunless Yahweh has done it?"
+    },
+    {
+     "v": 7,
+     "text": "Surely the Lord Yahweh will not do a thing\nunless he has disclosed his counsel{c}\nto his servants the prophets."
+    },
+    {
+     "v": 8,
+     "text": "The lion has roared;\nwho will not fear?\nThe Lord Yahweh has spoken;\nwho can but prophesy?"
+    },
+    {
+     "v": 9,
+     "text": "Proclaim to the fortresses in Ashdod{d}\nand to the fortresses in the land of Egypt,\nand say, “Assemble on the mountains of Samaria,\nand see the great tumults within her,\nand the oppression in her midst.”"
+    },
+    {
+     "v": 10,
+     "text": "“They do not know how to do right,” declares Yahweh,\n“those who store up violence and robbery in their fortresses.”"
+    },
+    {
+     "v": 11,
+     "text": "Therefore this is what the Lord Yahweh says:\n“An adversary will surround the land;\nhe will bring down your strength from you,\nand your fortresses will be plundered.”"
+    },
+    {
+     "v": 12,
+     "text": "This is what Yahweh says:\n“As a shepherd snatches out of the lion’s mouth\na pair of legs or a piece of an ear,{e}\nso will the children of Israel be snatched away, those who sit in Samaria\non the edge of a couch\nand on the cushions{f} of a bed.”"
+    },
+    {
+     "v": 13,
+     "text": "“Hear and testify against the house of Jacob,”\ndeclares the Lord Yahweh, the God of Armies,{g}"
+    },
+    {
+     "v": 14,
+     "text": "“For in the day I call Israel to account for his crimes,\nI will also deal with the altars of Bethel;\nthe altar’s horns{h} will be lopped off\nand drop to the ground."
+    },
+    {
+     "v": 15,
+     "text": "I will strike the winter house along with the summer house,\nand the houses of ivory{i} will perish,\nand the great houses will come to an end,”\ndeclares Yahweh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:2",
+     "text": "That is, chosen and cared for (compare Genesis 18:19)."
+    },
+    {
+     "m": "b",
+     "ref": "3:5",
+     "text": "Or “no trap.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:7",
+     "text": "Hebrew sod, the confidential deliberation of a council (compare Jeremiah 23:18, 22)."
+    },
+    {
+     "m": "d",
+     "ref": "3:9",
+     "text": "The Septuagint reads “Assyria.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:12",
+     "text": "A shepherd brought such remains to prove that an animal had been killed by a wild beast and not stolen (Exodus 22:13)."
+    },
+    {
+     "m": "f",
+     "ref": "3:12",
+     "text": "The meaning of the Hebrew word (demesheq) is uncertain; traditionally “Damascus,” perhaps “damask” or “the leg.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:13",
+     "text": "Hebrew ʾelohe hatstseḇaʾoth, traditionally “God of hosts,” the God who commands the armies of heaven and of Israel."
+    },
+    {
+     "m": "h",
+     "ref": "3:14",
+     "text": "The projections at the four corners of the altar, which a fugitive might grasp for sanctuary (1 Kings 1:50)."
+    },
+    {
+     "m": "i",
+     "ref": "3:15",
+     "text": "Houses with ivory inlay; many carved ivories of this period have been excavated at Samaria."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    4,
+    6
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear this word, you cows of Bashan{a}\nwho are on the mountain of Samaria,\nwho oppress the poor, who crush the needy,\nwho say to your lords,{b} “Bring, and let us drink!”"
+    },
+    {
+     "v": 2,
+     "text": "The Lord Yahweh has sworn by his holiness\nthat the days are surely coming upon you\nwhen they will take you away with hooks,\nthe last of you with fishhooks."
+    },
+    {
+     "v": 3,
+     "text": "And you will go out through the breaches,\neach straight ahead,\nand you will be cast out toward Harmon,”{c}\ndeclares Yahweh."
+    },
+    {
+     "v": 4,
+     "text": "“Come to Bethel, and transgress;\nto Gilgal, and multiply transgression;\nbring your sacrifices every morning,\nyour tithes every three days;{d}"
+    },
+    {
+     "v": 5,
+     "text": "burn leavened bread as a thank offering,\nand announce your freewill offerings, make them known;\nfor that is what you love, people of Israel!”\ndeclares the Lord Yahweh."
+    },
+    {
+     "v": 6,
+     "text": "“I gave you cleanness of teeth{e} in all your cities,\nand lack of bread in all your places;\nbut you have not come back to me,”\ndeclares Yahweh."
+    },
+    {
+     "v": 7,
+     "text": "“I also held back the rain from you\nwhile there were three months yet until harvest;\non one town I made it rain,\nand on another town I made it not rain;\none plot was rained on,\nand the plot that got no rain dried up."
+    },
+    {
+     "v": 8,
+     "text": "Two or three towns staggered to another town\nto drink water and could not get enough;\nbut you have not come back to me,”\ndeclares Yahweh."
+    },
+    {
+     "v": 9,
+     "text": "“I struck you with scorching and mildew;\nthe locust ate your gardens and your vineyards,\nyour figs and your olives, many as they were;\nbut you have not come back to me,”\ndeclares Yahweh."
+    },
+    {
+     "v": 10,
+     "text": "“I sent pestilence on you in the way of Egypt;\nwith the sword I slew your young men,\nand your horses were taken captive,\nand I made the stink of your camps go up even into your nostrils;\nbut you have not come back to me,”\ndeclares Yahweh."
+    },
+    {
+     "v": 11,
+     "text": "“I overthrew some of you,\nas God overthrew Sodom and Gomorrah,\nand you were like a burning stick snatched from the fire;\nbut you have not come back to me,”\ndeclares Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "“Therefore this is what I will do to you, Israel;\nbecause I will do this to you,\nprepare to meet your God, Israel!”"
+    },
+    {
+     "v": 13,
+     "text": "For look—the one who shapes the mountains and creates the wind,\nwho tells mankind what he is thinking,{f}\nwho turns dawn to darkness\nand strides upon the high places of the earth—\nYahweh, the God of Armies, is his name!"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:1",
+     "text": "Bashan, east of the Sea of Galilee, was famous for its rich pastures and well-fed cattle (Deuteronomy 32:14; Psalm 22:12). The phrase is addressed to the wealthy women of Samaria."
+    },
+    {
+     "m": "b",
+     "ref": "4:1",
+     "text": "Hebrew ʾadonehem, “their lords,” that is, their husbands (compare Genesis 18:12)."
+    },
+    {
+     "m": "c",
+     "ref": "4:3",
+     "text": "The meaning is uncertain; perhaps a place name, or (with a slight change) “Mount Hermon.”"
+    },
+    {
+     "m": "d",
+     "ref": "4:4",
+     "text": "The law required tithes yearly or every three years (Deuteronomy 14:22–29); Amos mocks their zeal."
+    },
+    {
+     "m": "e",
+     "ref": "4:6",
+     "text": "That is, nothing to eat."
+    },
+    {
+     "m": "f",
+     "ref": "4:13",
+     "text": "Or “what his own (God’s) thought is.” Verse 13 is the first of three hymn fragments in Amos (compare 5:8–9; 9:5–6)."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    4,
+    8,
+    10,
+    14,
+    16,
+    18,
+    21,
+    25
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Hear this word, which I lift up over you as a lament, house of Israel:"
+    },
+    {
+     "v": 2,
+     "text": "“Fallen, no more to rise,\nis the young woman Israel;{a}\nforsaken on her own soil,\nwith no one to raise her up.”"
+    },
+    {
+     "v": 3,
+     "text": "For this is what the Lord Yahweh says:\n“The city that marched out a thousand strong\nwill have a hundred left,\nand the one that marched out a hundred strong\nwill have ten left, for the house of Israel.”"
+    },
+    {
+     "v": 4,
+     "text": "For this is what Yahweh says to the house of Israel:\n“Seek me and live;"
+    },
+    {
+     "v": 5,
+     "text": "Do not go seeking Bethel;\ndo not enter Gilgal;\ndo not pass over to Beersheba;\nfor Gilgal shall go off into exile,{b}\nand Bethel shall become nothing.”{c}"
+    },
+    {
+     "v": 6,
+     "text": "Seek Yahweh and live,\nor he will rush like fire upon the house of Joseph,\nand it will consume, with none to quench it for Bethel—"
+    },
+    {
+     "v": 7,
+     "text": "you who turn justice into wormwood{d}\nand fling righteousness to the ground!"
+    },
+    {
+     "v": 8,
+     "text": "He who made the Pleiades and Orion,{e}\nwho turns deep darkness into morning\nand darkens day into night,\nwho calls for the waters of the sea\nand pours them out on the face of the earth—\nYahweh is his name—"
+    },
+    {
+     "v": 9,
+     "text": "who flashes destruction upon the strong,\nso that destruction comes upon the fortress."
+    },
+    {
+     "v": 10,
+     "text": "They hate the one who reproves in the gate,{f}\nand they loathe the one who speaks with integrity."
+    },
+    {
+     "v": 11,
+     "text": "Therefore, because you trample upon the poor\nand take from him levies of grain,\nyou have built houses of hewn stone,\nbut you will not live in them;\nyou have planted lovely vineyards,\nbut you will not drink their wine."
+    },
+    {
+     "v": 12,
+     "text": "For I know how many are your transgressions,\nand how great are your sins—\nyou who afflict the righteous, who take bribes,\nand turn aside the needy in the gate."
+    },
+    {
+     "v": 13,
+     "text": "Therefore the prudent will keep silent in such a time,\nfor it is an evil time."
+    },
+    {
+     "v": 14,
+     "text": "Seek good and not evil,\nthat you may live;\nand so Yahweh, the God of Armies, will be with you,\nas you have said."
+    },
+    {
+     "v": 15,
+     "text": "Hate evil and love good,\nand establish justice in the gate;\nit may be that Yahweh, the God of Armies,\nwill be gracious to the remnant of Joseph."
+    },
+    {
+     "v": 16,
+     "text": "Therefore this is what Yahweh, the God of Armies, the Lord, says:\n“In all the squares there will be wailing,\nand in all the streets they will say, ‘Alas! Alas!’\nThey will call the farmer to mourning,\nand to wailing those skilled in lamentation;{g}"
+    },
+    {
+     "v": 17,
+     "text": "and in all vineyards there will be wailing,\nfor I will pass through your midst,”\nsays Yahweh."
+    },
+    {
+     "v": 18,
+     "text": "Woe to you who long for the day of Yahweh!\nWhat will the day of Yahweh be to you?\nIt is darkness, not light—"
+    },
+    {
+     "v": 19,
+     "text": "as if a man fled from a lion,\nand a bear met him;\nor went into the house and leaned his hand against the wall,\nand a snake bit him."
+    },
+    {
+     "v": 20,
+     "text": "Is not the day of Yahweh darkness, not light,\ngloom with no brightness in it?"
+    },
+    {
+     "v": 21,
+     "text": "“I hate, I reject your festivals,\nand I take no delight in your solemn assemblies.{h}"
+    },
+    {
+     "v": 22,
+     "text": "Though you bring me whole burnt offerings and your gifts of grain,\nthey will not please me;\nthe fat beasts of your peace offerings\nI will not regard."
+    },
+    {
+     "v": 23,
+     "text": "Remove from my presence the clamor of your songs;\nI will not hear the music of your lyres."
+    },
+    {
+     "v": 24,
+     "text": "Instead, let justice surge like the waters,\nand righteousness like a stream that never fails.{i}"
+    },
+    {
+     "v": 25,
+     "text": "“Was it sacrifices and grain offerings that you brought me\nthose forty years in the wilderness, house of Israel?"
+    },
+    {
+     "v": 26,
+     "text": "Now you shall carry off Sakkuth your king\nand Kaiwan, your star god,{j} your idols\nthat you fashioned for yourselves;"
+    },
+    {
+     "v": 27,
+     "text": "therefore I will send you into exile beyond Damascus,”\nsays Yahweh, whose name is the God of Armies."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:2",
+     "text": "Hebrew “the virgin Israel,” a poetic personification of the nation. Verse 2 is in the limping rhythm of the Hebrew funeral lament (qinah)."
+    },
+    {
+     "m": "b",
+     "ref": "5:5",
+     "text": "A wordplay in Hebrew: haggilgal galoh yigleh."
+    },
+    {
+     "m": "c",
+     "ref": "5:5",
+     "text": "Hebrew “will become aven (wickedness, nothingness),” alluding to the name Beth-aven (see the note at Hosea 4:15)."
+    },
+    {
+     "m": "d",
+     "ref": "5:7",
+     "text": "A bitter-tasting plant, used figuratively for what is poisonous (compare 6:12)."
+    },
+    {
+     "m": "e",
+     "ref": "5:8",
+     "text": "Hebrew kimah and kesil, two constellations, probably the Pleiades and Orion (compare Job 9:9; 38:31)."
+    },
+    {
+     "m": "f",
+     "ref": "5:10",
+     "text": "The open area at the city gate where the elders sat to hear legal cases; likewise in verses 12 and 15."
+    },
+    {
+     "m": "g",
+     "ref": "5:16",
+     "text": "Professional mourners, often women (Jeremiah 9:17–20)."
+    },
+    {
+     "m": "h",
+     "ref": "5:21",
+     "text": "Hebrew “I will not smell,” alluding to the pleasing aroma of sacrifice (Leviticus 26:31)."
+    },
+    {
+     "m": "i",
+     "ref": "5:24",
+     "text": "Hebrew naḥal ʾethan, a wadi that does not dry up in summer."
+    },
+    {
+     "m": "j",
+     "ref": "5:26",
+     "text": "Sakkuth and Kaiwan are Mesopotamian names for the planet Saturn, worshiped as a god. The Hebrew vowels (Sikkuth, Kiyyun) may be a deliberate distortion modeled on shiqquts, “detestable thing.” The Septuagint reads “the tent of Moloch and the star of your god Raiphan,” and is quoted in Acts 7:42–43. The verse may also be read as past: “You carried Sakkuth…”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    8,
+    9
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Woe to those who are at ease in Zion,\nand to those who feel secure on the mountain of Samaria,\nthe notable men of the first of the nations,\nto whom the house of Israel comes!"
+    },
+    {
+     "v": 2,
+     "text": "Cross over to Calneh and see;\ngo from there to Hamath the great;\nthen go down to Gath of the Philistines.\nAre you better than these kingdoms?\nOr is their territory greater than your territory?{a}"
+    },
+    {
+     "v": 3,
+     "text": "You who put off the day of disaster\nbring near the seat of violence."
+    },
+    {
+     "v": 4,
+     "text": "They lie on beds of ivory\nand sprawl on their couches;\nthey eat lambs from the flock\nand calves from the stall."
+    },
+    {
+     "v": 5,
+     "text": "They improvise{b} to the sound of the harp;\nlike David they devise for themselves instruments of song."
+    },
+    {
+     "v": 6,
+     "text": "They drink wine from bowls\nand anoint themselves with the finest oils,\nbut they do not grieve over the ruin of Joseph."
+    },
+    {
+     "v": 7,
+     "text": "So now they shall go into exile at the head of the exiles,\nand the feasting of the loungers shall be gone.{c}"
+    },
+    {
+     "v": 8,
+     "text": "The Lord Yahweh has sworn by himself, declares Yahweh, the God of Armies:\n“I abhor the pride of Jacob\nand hate his fortresses;\nand I will hand over the city and everything in it.”"
+    },
+    {
+     "v": 9,
+     "text": "If ten men remain in one house, they will die."
+    },
+    {
+     "v": 10,
+     "text": "And when a relative,{d} the one who burns the dead, picks up the body to carry it out of the house, he will say to whoever is in the innermost parts of the house, “Is anyone else with you?” and he will say, “No.” Then he will say, “Hush! We must not mention the name of Yahweh.”"
+    },
+    {
+     "v": 11,
+     "text": "For look, Yahweh commands,\nand the great house will be struck into fragments,\nand the small house into splinters."
+    },
+    {
+     "v": 12,
+     "text": "Do horses run on rocks?\nDoes one plow the sea with oxen?{e}\nBut you have turned justice into poison\nand the fruit of righteousness into wormwood—"
+    },
+    {
+     "v": 13,
+     "text": "you who rejoice in Lo-debar,{f}\nwho say, “Was it not by our own strength\nthat we took Karnaim for ourselves?”"
+    },
+    {
+     "v": 14,
+     "text": "“For look, I am raising up against you a nation, house of Israel,”\ndeclares Yahweh, the God of Armies,\n“and they will oppress you from Lebo-hamath{g}\nto the Brook of the Arabah.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Calneh and Hamath, cities in northern Syria, and Gath, a Philistine city, were all conquered in the eighth century BC. Some reverse the last line: “Is your territory greater than theirs?”"
+    },
+    {
+     "m": "b",
+     "ref": "6:5",
+     "text": "The meaning of the Hebrew verb is uncertain; perhaps “strum” or “babble.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:7",
+     "text": "Hebrew marzeaḥ, a feast or banqueting association, often connected with funerary rites (compare Jeremiah 16:5)."
+    },
+    {
+     "m": "d",
+     "ref": "6:10",
+     "text": "Hebrew dod, “uncle” or “kinsman.” The phrase that follows (meśarepho) is usually understood as “the one who burns him,” whether in cremation (unusual in Israel) or burning spices in his honor; the Hebrew of the verse is difficult."
+    },
+    {
+     "m": "e",
+     "ref": "6:12",
+     "text": "So by a different division of the Hebrew letters (babbaqar yam); the Hebrew text reads “Does one plow there with oxen?”"
+    },
+    {
+     "m": "f",
+     "ref": "6:13",
+     "text": "Lo-debar means “nothing,” and Karnaim means “a pair of horns,” a symbol of strength; both were towns in Gilead, apparently recaptured by Jeroboam II (2 Kings 14:25)."
+    },
+    {
+     "m": "g",
+     "ref": "6:14",
+     "text": "Hebrew “the entrance of Hamath,” the ideal northern border of Israel. The Brook of the Arabah was probably at the southern end of the Dead Sea. Compare 2 Kings 14:25."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    4,
+    7,
+    10
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "This is what the Lord Yahweh showed me: he was forming locusts when the late crop{a} was beginning to sprout, the late crop after the king’s mowing."
+    },
+    {
+     "v": 2,
+     "text": "When they had finished eating the vegetation of the land, I said, “Lord Yahweh, please forgive! How can Jacob stand? He is so small.”"
+    },
+    {
+     "v": 3,
+     "text": "Yahweh relented concerning this. “It shall not be,” said Yahweh."
+    },
+    {
+     "v": 4,
+     "text": "This is what the Lord Yahweh showed me: the Lord Yahweh was calling for a judgment by fire, and it devoured the great deep{b} and was eating up the land."
+    },
+    {
+     "v": 5,
+     "text": "Then I said, “Lord Yahweh, please stop! How can Jacob stand? He is so small.”"
+    },
+    {
+     "v": 6,
+     "text": "Yahweh relented concerning this. “This also shall not be,” said the Lord Yahweh."
+    },
+    {
+     "v": 7,
+     "text": "He showed me this: there stood the Lord by a wall made true by a plumb line,{c} and a plumb line was in his hand."
+    },
+    {
+     "v": 8,
+     "text": "And Yahweh said to me, “What do you see, Amos?” I said, “A plumb line.” Then the Lord said, “Look, I am setting a plumb line in the midst of my people Israel; I will never again pass by them."
+    },
+    {
+     "v": 9,
+     "text": "The high places of Isaac will be laid waste,\nand the sanctuaries of Israel will be ruined,\nand I will rise against the house of Jeroboam with the sword.”"
+    },
+    {
+     "v": 10,
+     "text": "Then Amaziah the priest of Bethel sent word to Jeroboam king of Israel: “Amos has conspired against you in the very center of the house of Israel. The land cannot bear all his words."
+    },
+    {
+     "v": 11,
+     "text": "For this is what Amos has said: ‘Jeroboam will die by the sword, and Israel will surely go into exile away from its land.’ ”"
+    },
+    {
+     "v": 12,
+     "text": "And Amaziah said to Amos, “Seer, go, run off to the land of Judah, and earn your bread there, and prophesy there;"
+    },
+    {
+     "v": 13,
+     "text": "but never again prophesy at Bethel, for it is the king’s sanctuary and a royal house.”"
+    },
+    {
+     "v": 14,
+     "text": "Amos answered Amaziah, “I am no prophet, nor a prophet’s son;{d} I am a herdsman and a dresser of sycamore figs.{e}"
+    },
+    {
+     "v": 15,
+     "text": "But Yahweh took me from following the flock, and Yahweh said to me, ‘Go, prophesy to my people Israel.’"
+    },
+    {
+     "v": 16,
+     "text": "Now hear the word of Yahweh. You are saying, ‘Prophesy no more against Israel; stop dripping words{f} against Isaac’s house.’"
+    },
+    {
+     "v": 17,
+     "text": "Therefore this is what Yahweh says: ‘Your wife shall play the harlot in the city; your sons and daughters shall fall by the sword; your land shall be parceled out by line; and you shall die on unclean soil,{g} and Israel shall surely go into exile away from its land.’ ”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "The crop that grew after the spring rains, in about March–April. The king apparently took the first cutting as a tax."
+    },
+    {
+     "m": "b",
+     "ref": "7:4",
+     "text": "Hebrew tehom, the subterranean waters thought to feed springs and rivers (Genesis 7:11)."
+    },
+    {
+     "m": "c",
+     "ref": "7:7",
+     "text": "Hebrew ʾanak, a word occurring only here (four times). Traditionally “plumb line,” but it is the Akkadian word for “tin,” and some interpret “a wall of tin” as a symbol of weakness or of military defense; the meaning remains debated."
+    },
+    {
+     "m": "d",
+     "ref": "7:14",
+     "text": "Or “I was no prophet, nor a prophet’s son.” The Hebrew has no verb. “A prophet’s son” means a member of a prophetic guild (compare 2 Kings 2:3–7)."
+    },
+    {
+     "m": "e",
+     "ref": "7:14",
+     "text": "The fruit of the sycamore fig had to be slit or pinched to ripen; it grew in the lowlands, not at Tekoa itself."
+    },
+    {
+     "m": "f",
+     "ref": "7:16",
+     "text": "Hebrew “drip,” that is, let words fall."
+    },
+    {
+     "m": "g",
+     "ref": "7:17",
+     "text": "That is, a foreign land."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    4,
+    9,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "This is what the Lord Yahweh showed me: a basket of summer fruit."
+    },
+    {
+     "v": 2,
+     "text": "He said, “What do you see, Amos?” I said, “A basket of summer fruit.” Then Yahweh said to me, “The end{a} has come upon my people Israel; I will never again pass by them."
+    },
+    {
+     "v": 3,
+     "text": "The songs of the temple{b} will become wailings on that day,” declares the Lord Yahweh. “The dead bodies will be many, thrown out everywhere. Hush!”"
+    },
+    {
+     "v": 4,
+     "text": "Hear this, you who trample the needy\nand would bring the poor of the land to an end,"
+    },
+    {
+     "v": 5,
+     "text": "who say, “When will the new moon pass,\nso we can sell our grain?\nWhen will the Sabbath be done,\nso we can set out our wheat,\nshrinking the measure and inflating the price,{c}\nand tipping deceitful balances,"
+    },
+    {
+     "v": 6,
+     "text": "so that we may buy the poor for silver\nand the needy for a pair of sandals,\nand sell the chaff of the wheat?”"
+    },
+    {
+     "v": 7,
+     "text": "Yahweh has sworn by the pride of Jacob:{d}\n“Surely I will never forget any of their deeds."
+    },
+    {
+     "v": 8,
+     "text": "Will not the land quake because of this,\nand all its inhabitants mourn?\nWill it not all rise up like the Nile,\nheave, and subside like the river of Egypt?”"
+    },
+    {
+     "v": 9,
+     "text": "“In that day,” declares the Lord Yahweh,\n“I will bring the sun down at midday\nand cover the earth with darkness while it is still day.{e}"
+    },
+    {
+     "v": 10,
+     "text": "Your festivals I will change to grief\nand all your singing to dirges;\nI will put sackcloth around every waist\nand shave every head;\nI will make it like mourning for an only son,\nand the end of it a bitter day."
+    },
+    {
+     "v": 11,
+     "text": "“Look, the days are coming,” declares the Lord Yahweh,\n“when I will send a famine on the land—\nnot a famine of bread, nor a thirst for water,\nbut of hearing the words of Yahweh."
+    },
+    {
+     "v": 12,
+     "text": "They will wander from sea to sea,\nand from north to east they will run about\nseeking the word of Yahweh,\nbut they will not find it."
+    },
+    {
+     "v": 13,
+     "text": "On that day the lovely young women and the young men\nwill faint for thirst."
+    },
+    {
+     "v": 14,
+     "text": "Those who swear by the guilt of Samaria,{f}\nand say, ‘As your god lives, Dan,’\nand, ‘As the way of Beersheba lives,’\nwill fall and never rise again.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:2",
+     "text": "A wordplay in Hebrew between qayits, “summer fruit,” and qets, “end.” The fruit was gathered in August–September."
+    },
+    {
+     "m": "b",
+     "ref": "8:3",
+     "text": "Or “palace.”"
+    },
+    {
+     "m": "c",
+     "ref": "8:5",
+     "text": "Hebrew “making the ephah small and the shekel great,” that is, giving short measure (the ephah was a dry measure of about two-thirds of a bushel, or 22 liters) and weighing the buyer’s silver with an overweight shekel (normally about two-fifths of an ounce, or 11.5 grams)."
+    },
+    {
+     "m": "d",
+     "ref": "8:7",
+     "text": "Perhaps a title of God himself (compare 1 Samuel 15:29), or spoken in irony of Israel’s arrogance (6:8)."
+    },
+    {
+     "m": "e",
+     "ref": "8:9",
+     "text": "A total eclipse of the sun was visible in the region on June 15, 763 BC, and is recorded in Assyrian sources."
+    },
+    {
+     "m": "f",
+     "ref": "8:14",
+     "text": "Or “by Ashimah of Samaria,” a goddess (compare 2 Kings 17:30). Dan and Beersheba were sanctuaries at the northern and southern ends of the land."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    5,
+    7,
+    11,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I saw the Lord standing beside{a} the altar, and he said:\n“Strike the capitals, so that the thresholds shake,\nand shatter them on the heads of all of them;\nand those who are left of them I will kill with the sword.\nNot one of them will flee away;\nnot one of them will escape."
+    },
+    {
+     "v": 2,
+     "text": "Though they burrow into Sheol,\nmy hand will take them from there;\nthough they mount to the heavens,\nI will pull them down from there."
+    },
+    {
+     "v": 3,
+     "text": "Though they hide on Carmel’s peak,\nI will hunt them out and seize them there;\nthough they hide from my eyes on the floor of the sea,\nI will command the serpent there to bite them."
+    },
+    {
+     "v": 4,
+     "text": "And if they go into captivity before their enemies,\nthere I will command the sword, and it will kill them;\nI will fix my eyes upon them\nfor harm and not for good.”"
+    },
+    {
+     "v": 5,
+     "text": "The Lord Yahweh of Armies{b}—\nat his touch the earth melts,\nand all its inhabitants mourn;\nthe whole of it rises like the Nile\nand falls back like the river of Egypt;"
+    },
+    {
+     "v": 6,
+     "text": "who builds his upper rooms in the heavens\nand founds his vault{c} upon the earth;\nwho calls for the waters of the sea\nand pours them out upon the face of the earth—\nYahweh is his name."
+    },
+    {
+     "v": 7,
+     "text": "“Are you not like the Cushites{d} to me,\npeople of Israel?” declares Yahweh.\n“Did I not bring Israel up from the land of Egypt,\nand the Philistines from Caphtor,{e}\nand the Arameans from Kir?"
+    },
+    {
+     "v": 8,
+     "text": "Look, the eyes of the Lord Yahweh are upon the sinful kingdom,\nand I will destroy it from the face of the ground,\nexcept that I will not utterly destroy the house of Jacob,”\ndeclares Yahweh."
+    },
+    {
+     "v": 9,
+     "text": "“For look, I am commanding,\nand I will shake the house of Israel among all the nations\nas one shakes with a sieve,\nbut not a pebble will fall to the ground."
+    },
+    {
+     "v": 10,
+     "text": "All the sinners of my people will die by the sword,\nwho say, ‘Disaster will not overtake or meet us.’"
+    },
+    {
+     "v": 11,
+     "text": "“On that day I will raise up\nthe fallen booth of David,{f}\nand repair its breaches,\nand raise up its ruins,\nand rebuild it as in the days of old,"
+    },
+    {
+     "v": 12,
+     "text": "so that they may possess the remnant of Edom\nand all the nations who are called by my name,”{g}\ndeclares Yahweh who does this."
+    },
+    {
+     "v": 13,
+     "text": "“Look, the days are coming,” declares Yahweh,\n“when the plowman will overtake the reaper,\nand the treader of grapes him who sows the seed;\nthe mountains will drip sweet wine,\nand all the hills will flow with it.{h}"
+    },
+    {
+     "v": 14,
+     "text": "I will bring back the captivity{i} of my people Israel;\nthey shall build the wasted cities and dwell in them;\nthey shall plant vineyards and drink the wine from them,\nand lay out gardens and eat the fruit from them."
+    },
+    {
+     "v": 15,
+     "text": "I will plant them on their land,\nand they will never again be uprooted\nfrom the land that I have given them,”\nsays Yahweh your God."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "Or “upon.” The altar is probably that of Bethel."
+    },
+    {
+     "m": "b",
+     "ref": "9:5",
+     "text": "Hebrew YHWH hatstseḇaʾoth, traditionally “the LORD of hosts,” the God who commands the armies of heaven and of Israel."
+    },
+    {
+     "m": "c",
+     "ref": "9:6",
+     "text": "Or “his band” or “his bundle”; the meaning of the Hebrew ʾaguddah is uncertain here."
+    },
+    {
+     "m": "d",
+     "ref": "9:7",
+     "text": "The people of the upper Nile region (ancient Nubia)."
+    },
+    {
+     "m": "e",
+     "ref": "9:7",
+     "text": "Probably Crete."
+    },
+    {
+     "m": "f",
+     "ref": "9:11",
+     "text": "Hebrew sukkah, a hut or shelter, here a figure for the dynasty or kingdom of David in its weakened state."
+    },
+    {
+     "m": "g",
+     "ref": "9:12",
+     "text": "Hebrew “over whom my name is called,” marking them as his possession. The Septuagint, reading ʾadam (“humankind”) for ʾedom and yidreshu (“seek”) for yirshu (“possess”), has “so that the remnant of humankind, and all the nations upon whom my name is called, may seek me.” James quotes the verses in this Greek form at the Jerusalem council (Acts 15:16–17) to support the inclusion of the Gentiles."
+    },
+    {
+     "m": "h",
+     "ref": "9:13",
+     "text": "Hebrew “will melt.”"
+    },
+    {
+     "m": "i",
+     "ref": "9:14",
+     "text": "Or “restore the fortunes.”"
+    }
+   ]
+  }
+ ]
+}
