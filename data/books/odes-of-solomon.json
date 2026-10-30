@@ -1,0 +1,2707 @@
+{
+ "id": "odes-of-solomon",
+ "name": "Odes of Solomon",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the Syriac text of the Odes of Solomon as transcribed in the Digital Syriac Corpus, which follows the edition of J. H. Charlesworth, *The Odes of Solomon* (1973) and the Syriac manuscripts H and N. The English here is new. The Syriac word *maryā* is rendered “Lord” and *peṯgāmā* “Word.” The English translation of J. Rendel Harris and A. Mingana, *The Odes and Psalms of Solomon* (1916–1920; public domain), and the Nuhra Version were consulted for comparison. Readings of the Coptic text (Odes 1, 5 and 6, in the *Pistis Sophia*), of the Greek text of Ode 11 (Bodmer Papyrus XI), and of the Latin quotation of Ode 19 in Lactantius, which I have not checked directly, are cited “as reported.” **Numbering.** Odes 1–2 and the beginning of Ode 3 are missing from manuscript H, so Ode 1 is given here from the Coptic, Ode 2 is lost, and Ode 3 is incomplete. The verse numbers follow the Digital Syriac Corpus, which is based on Charlesworth’s: for example, Ode 7 has 26 verses and Ode 8 has 23. Harris and Mingana, and translations based on them, divide the verses differently in places (for example, Ode 17 has 17 verses here and 16 in their edition), so references from other books may differ by a few verses. **About the book.** The Odes of Solomon are forty-two short hymns, praising God and telling of the believer’s rebirth, knowledge and joy. Though ascribed to Solomon, they were written long after his time, probably in the early 2nd century AD, perhaps in Syria; whether they were first composed in Syriac or in Greek, and whether the author was Jewish or Christian, are still debated. They have echoes of the Gospel of John, and some of them seem to speak in the voice of the Messiah (for example, Odes 22, 28, 31 and 42). The Syriac survives in two manuscripts: H (Rylands Syriac 9, 13th–15th century AD) and N (Codex Nitriensis, British Library Add. 14534, 9th–10th century AD; Odes 17:7–42:20 only), the second of which has been the basis for the readings of the damaged places. H was found and published by J. Rendel Harris in 1909; the Greek of Ode 11 was published in 1959 from a 3rd-century AD papyrus, and Odes 5 and 6 and the first Ode are also known from the Coptic *Pistis Sophia*. Ode 19 is quoted in Latin by Lactantius (about AD 310). The Odes are not part of any biblical canon, and were mostly lost to the churches until 1909. Note that several verses are damaged or doubtful in the manuscripts, and are marked in notes. Dates are given as BC/AD. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Lord is on my head as a crown, and I will never be left without him.{a}"
+    },
+    {
+     "v": 2,
+     "text": "A crown of truth was woven for me,\nand it made your branches sprout in me."
+    },
+    {
+     "v": 3,
+     "text": "For it is not like a withered crown that puts out no buds;"
+    },
+    {
+     "v": 4,
+     "text": "but you are alive on my head,\nand you have blossomed on me."
+    },
+    {
+     "v": 5,
+     "text": "Your fruit is ripe and whole,\nbrimming with your salvation."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Ode 1 is not in the Syriac manuscripts, which have lost their opening pages. It survives in Coptic, quoted in the *Pistis Sophia* (3rd–4th century AD), where it is called the nineteenth ode of Solomon. The English here is translated from the Coptic “as reported” in the English translation of J. R. Harris and A. Mingana (1920), checked against the Syriac idiom of the other odes; no Coptic manuscript was read directly."
+    }
+   ],
+   "heading": "Ode 1"
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "[This ode is lost.]{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Both the Syriac manuscripts break off before Ode 3, so Ode 2 has not survived in Syriac, and no Coptic quotation of it is known. Some scholars think that a few lines of the Greek text of Ode 11 in Papyrus Bodmer XI (verse 16, and a line after verse 22) that are not in the Syriac may be borrowed from this lost ode (as reported); they are given in a note at Ode 11."
+    }
+   ],
+   "heading": "Ode 2"
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "[I put on the love of the Lord.]{a}"
+    },
+    {
+     "v": 2,
+     "text": "And his limbs are with him, and I hang upon them,\nand he loves me.{b}"
+    },
+    {
+     "v": 3,
+     "text": "I could never have learned to love the Lord,\nunless he had first loved me."
+    },
+    {
+     "v": 4,
+     "text": "Who can tell what love is,\nexcept the one who is loved?"
+    },
+    {
+     "v": 5,
+     "text": "I love the Beloved, and my own soul loves him;\nand wherever his rest is, I am there too."
+    },
+    {
+     "v": 6,
+     "text": "And I will be no stranger,\nfor with the Lord, the Most High and Merciful, there is no grudging."
+    },
+    {
+     "v": 7,
+     "text": "I have been mingled with him, for the lover has found the beloved;\nand because I love the Son, I will become a son."
+    },
+    {
+     "v": 8,
+     "text": "For whoever joins himself to the one who does not die\nwill himself become undying;"
+    },
+    {
+     "v": 9,
+     "text": "and whoever delights in the Living One\nwill become living."
+    },
+    {
+     "v": 10,
+     "text": "This is the spirit of the Lord, which does not lie,\nwhich teaches people to know his ways."
+    },
+    {
+     "v": 11,
+     "text": "Be wise, and understanding, and watchful. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:1",
+     "text": "The first words of this ode are lost in the manuscript; the Syriac that is left reads “… I put on.” The words in square brackets are supplied from the sense of the next lines, as in the first edition by Harris and Mingana."
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "The Syriac says “with him.” Some editors change it to “with me.”"
+    }
+   ],
+   "heading": "Ode 3"
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "No one, my God, can change your holy place;\nno one can alter it and set it in another place,"
+    },
+    {
+     "v": 2,
+     "text": "because they have no authority over it.\nFor you planned your sanctuary before you made the other places."
+    },
+    {
+     "v": 3,
+     "text": "What is older will not be changed by what is lesser than itself.\nYou have given your heart, Lord, to those who are faithful to you."
+    },
+    {
+     "v": 4,
+     "text": "You will never be idle,\nand you will never be without fruit."
+    },
+    {
+     "v": 5,
+     "text": "For one hour of faithfulness to you\nis worth more than all days and years."
+    },
+    {
+     "v": 6,
+     "text": "For who could put on your goodness\nand be wronged?{a}"
+    },
+    {
+     "v": 7,
+     "text": "For your seal is known,\nand your creatures are acquainted with it.{b}"
+    },
+    {
+     "v": 8,
+     "text": "Your hosts take hold of it,\nand the great and chosen angels are clothed with it."
+    },
+    {
+     "v": 9,
+     "text": "You have given us your partnership.\nIt was not that you were lacking anything from us;\nit was we who were lacking you."
+    },
+    {
+     "v": 10,
+     "text": "Pour out your drops upon us,\nand open your rich springs, which pour out milk and honey for us."
+    },
+    {
+     "v": 11,
+     "text": "For there is no changing of mind in you,\nso that you would change your mind about anything you have promised."
+    },
+    {
+     "v": 12,
+     "text": "And the end was plain to you."
+    },
+    {
+     "v": 13,
+     "text": "What you gave you gave as a free gift,\nso that you would never go back and take it again."
+    },
+    {
+     "v": 14,
+     "text": "For everything was plain to you, as God,\nand was set in order from the beginning in front of you."
+    },
+    {
+     "v": 15,
+     "text": "And you, Lord, made all things. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:6",
+     "text": "The Syriac verb means “be wronged” or “be treated unjustly”; some translators render it “be condemned.”"
+    },
+    {
+     "m": "b",
+     "ref": "4:7",
+     "text": "The Syriac can mean “know it” or “are known to it.” A letter of the word “known” is damaged in the manuscript."
+    }
+   ],
+   "heading": "Ode 4"
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I give you thanks,\nLord, for I love you."
+    },
+    {
+     "v": 2,
+     "text": "Most High, do not abandon me,\nfor you are my hope."
+    },
+    {
+     "v": 3,
+     "text": "Freely I have received your goodness;\nby it I will live."
+    },
+    {
+     "v": 4,
+     "text": "Let my persecutors come and not see me."
+    },
+    {
+     "v": 5,
+     "text": "Let a cloud of gloom fall over their eyes,\nand a haze of darkness make them black."
+    },
+    {
+     "v": 6,
+     "text": "And let there be no light for them to see,\nso that they cannot seize me."
+    },
+    {
+     "v": 7,
+     "text": "Let their plan be dulled,\nand let what they have schemed come back on their own heads.{a}"
+    },
+    {
+     "v": 8,
+     "text": "For they planned a plan,\nand it did not come about for them."
+    },
+    {
+     "v": 9,
+     "text": "They made themselves ready for evil,\nand were found empty."
+    },
+    {
+     "v": 10,
+     "text": "My hope is in the Lord,\nso I will not fear."
+    },
+    {
+     "v": 11,
+     "text": "And because the Lord is my deliverer,\nI will not be afraid."
+    },
+    {
+     "v": 12,
+     "text": "He is a crown on my head,\nand I will not be shaken."
+    },
+    {
+     "v": 13,
+     "text": "And if everything is shaken,\nI stand."
+    },
+    {
+     "v": 14,
+     "text": "And if everything that is seen perishes,\nI will not die."
+    },
+    {
+     "v": 15,
+     "text": "The Lord is with me,\nand I with him. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:7",
+     "text": "The Syriac word used for “dulled” is *ʿubāyē*, which normally means “thick” or “heavy”; it is unclear in this place. Some editors emend it to “weak.” The Coptic form of this ode, in the *Pistis Sophia*, reads “powerless,” as reported."
+    }
+   ],
+   "heading": "Ode 5"
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As the wind moves over the harp,\nand the strings speak,"
+    },
+    {
+     "v": 2,
+     "text": "so the Spirit of the Lord speaks in my limbs,\nand I speak by his love."
+    },
+    {
+     "v": 3,
+     "text": "For he destroys everything that is foreign,\nand everything belongs to the Lord."
+    },
+    {
+     "v": 4,
+     "text": "For so it was from the beginning,\nand so it will be to the end,"
+    },
+    {
+     "v": 5,
+     "text": "so that nothing may be against him,\nand nothing stand up to oppose him."
+    },
+    {
+     "v": 6,
+     "text": "The Lord has made the knowledge of himself greater,\nand he is eager that those things be known which have been given to us through his goodness."
+    },
+    {
+     "v": 7,
+     "text": "And he has given us his praise for the sake of his name;\nour spirits praise his Holy Spirit."
+    },
+    {
+     "v": 8,
+     "text": "For a stream went out and became a great and wide river;\nit swept away everything, broke it up,\nand brought it to the Temple.{a}"
+    },
+    {
+     "v": 9,
+     "text": "And the dam-builders among people could not hold it back,\nnor could the skill of those who hold back waters."
+    },
+    {
+     "v": 10,
+     "text": "For it came over the face of the whole earth,\nand filled everything."
+    },
+    {
+     "v": 11,
+     "text": "And all the thirsty on the earth drank,\nand thirst was loosened and put out;"
+    },
+    {
+     "v": 12,
+     "text": "for the drink was given from the Most High."
+    },
+    {
+     "v": 13,
+     "text": "Blessed, then, are the servants of that drink,\nthose to whom his water has been entrusted."
+    },
+    {
+     "v": 14,
+     "text": "They have refreshed dry lips,\nand raised up the will that had gone slack."
+    },
+    {
+     "v": 15,
+     "text": "And souls that were about to leave,\nthey seized from death."
+    },
+    {
+     "v": 16,
+     "text": "They set limbs that had collapsed straight\nand upright again."
+    },
+    {
+     "v": 17,
+     "text": "They put strength into their coming,\nand light into their eyes."
+    },
+    {
+     "v": 18,
+     "text": "Everyone recognized them as the Lord's,\nand they lived by the living water that lasts for ever. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:8",
+     "text": "“Temple” here is the Syriac word *haykla*. The Coptic version of this ode (in the *Pistis Sophia*) has a different sentence for this verse, as reported."
+    }
+   ],
+   "heading": "Ode 6"
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As anger rushes at wrongdoing,\nso joy rushes to the beloved,\nand brings in its fruits without holding back.{a}"
+    },
+    {
+     "v": 2,
+     "text": "My joy is the Lord, and my running is toward him;\nthis is my beautiful way."
+    },
+    {
+     "v": 3,
+     "text": "For I have the Lord as my helper.\nHe made himself known to me freely, in his simplicity, because his kindness made his greatness small."
+    },
+    {
+     "v": 4,
+     "text": "He became like me, so that I could take him in;\nhe was counted like me in his appearance, so that I could put him on."
+    },
+    {
+     "v": 5,
+     "text": "I did not tremble at the sight of him,\nbecause he was gracious to me."
+    },
+    {
+     "v": 6,
+     "text": "He became like my nature, so that I could learn him;\nlike my form, so that I would not turn away from him."
+    },
+    {
+     "v": 7,
+     "text": "The Father of knowledge\nis the Word of knowledge."
+    },
+    {
+     "v": 8,
+     "text": "He who created wisdom\nis wiser than his works."
+    },
+    {
+     "v": 9,
+     "text": "And he who made me before I was\nknew what I would do when I came to be."
+    },
+    {
+     "v": 10,
+     "text": "So he was gracious to me in his great graciousness,\nand gave me to ask of him,\nand to receive from his sacrifice."
+    },
+    {
+     "v": 11,
+     "text": "For he is the one who does not decay,\nthe fullness of the ages and their Father."
+    },
+    {
+     "v": 12,
+     "text": "He let himself be seen by his own,\nso that they might know their maker,\nand not imagine that they came from themselves."
+    },
+    {
+     "v": 13,
+     "text": "For he set his path toward knowledge;\nhe made it wide and made it long,\nand brought it to complete fullness."
+    },
+    {
+     "v": 14,
+     "text": "And he set the footprints of his light upon it,\nand it went on from the beginning to the end."
+    },
+    {
+     "v": 15,
+     "text": "For through him it was served,\nand it rested in the Son."
+    },
+    {
+     "v": 16,
+     "text": "And by his salvation he will lay hold of everything,\nand the Most High will be made known among his holy ones,"
+    },
+    {
+     "v": 17,
+     "text": "to carry word to those who have songs about the Lord's coming,\nso that they may go out to meet him,\nsinging to him with joy and with a harp of many voices."
+    },
+    {
+     "v": 18,
+     "text": "The seers will go before him,\nand will be seen before him."
+    },
+    {
+     "v": 19,
+     "text": "They will praise the Lord for his love,\nbecause he is near, and he sees."
+    },
+    {
+     "v": 20,
+     "text": "And hatred will be lifted from the earth,\nand will be drowned together with jealousy."
+    },
+    {
+     "v": 21,
+     "text": "Ignorance has been destroyed,\nnow that the knowledge of the Lord has come."
+    },
+    {
+     "v": 22,
+     "text": "Those who sing will sing of the goodness of the Lord, the Most High,\nand bring their psalms."
+    },
+    {
+     "v": 23,
+     "text": "Their heart will be bright as day,\nand their sweet voices will match the greatness of the Lord’s majesty."
+    },
+    {
+     "v": 24,
+     "text": "And nothing will be without life,\nor without knowledge, or without speech."
+    },
+    {
+     "v": 25,
+     "text": "He gave his creation a mouth,\nto open the voice of the mouth toward him\nand praise him."
+    },
+    {
+     "v": 26,
+     "text": "Declare his power,\nand show his goodness. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:1",
+     "text": "The Syriac reads “anger” (*ḥemtā*) and “wrongdoing” (*ʿawlūtā*). Several scholars change these words to “love” and “infancy” or “childhood,” because the first half of the comparison then matches the second. The Syriac is translated as it stands."
+    }
+   ],
+   "heading": "Ode 7"
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Open, open your hearts to the rejoicing of the Lord,\nand let your love flow from the heart to the lips,"
+    },
+    {
+     "v": 2,
+     "text": "to bring the Lord fruit, a holy life,\nand to speak watchfully in his light."
+    },
+    {
+     "v": 3,
+     "text": "Rise and stand upright,\nyou who were once bowed down."
+    },
+    {
+     "v": 4,
+     "text": "You who have been silent, speak,\nfor your mouth is now opened."
+    },
+    {
+     "v": 5,
+     "text": "You who were despised, be lifted up,\nfor your righteousness has been lifted up.{a}"
+    },
+    {
+     "v": 6,
+     "text": "The Lord's right hand is with you,\nand he will help you."
+    },
+    {
+     "v": 7,
+     "text": "And peace was made ready for you\nbefore your war ever took place."
+    },
+    {
+     "v": 8,
+     "text": "Listen to the word of truth,\nand take in the knowledge of the Most High."
+    },
+    {
+     "v": 9,
+     "text": "Your flesh does not understand what I am telling you,\nnor your clothing what I am showing you."
+    },
+    {
+     "v": 10,
+     "text": "Guard my secret,\nyou who are guarded by it."
+    },
+    {
+     "v": 11,
+     "text": "Guard my faith, you who are guarded by it."
+    },
+    {
+     "v": 12,
+     "text": "And understand my knowledge,\nyou who know me in truth."
+    },
+    {
+     "v": 13,
+     "text": "Love me with love, you who love."
+    },
+    {
+     "v": 14,
+     "text": "For I do not turn my face away from my own,\nbecause I know them."
+    },
+    {
+     "v": 15,
+     "text": "And before they came to be, I knew them,\nand I sealed their faces.{b}"
+    },
+    {
+     "v": 16,
+     "text": "I formed their limbs;\nmy own breasts I made ready for them,\nso that they could drink my holy milk, and live on it."
+    },
+    {
+     "v": 17,
+     "text": "I delighted in them,\nand I do not blush for them."
+    },
+    {
+     "v": 18,
+     "text": "For they are my work,\nand the power of my thoughts."
+    },
+    {
+     "v": 19,
+     "text": "Who then will stand against my work,\nor who will not be subject to them?"
+    },
+    {
+     "v": 20,
+     "text": "I wanted them, and made mind and heart; and they are mine;\nand at my right hand I set my chosen ones."
+    },
+    {
+     "v": 21,
+     "text": "My righteousness goes ahead of them,\nand they will not be cut off from my name,\nsince it is with them."
+    },
+    {
+     "v": 22,
+     "text": "Ask, and increase, and stay in the love of the Lord,\nbeloved ones in the Beloved,\nthe ones guarded in the Living One,\nand the redeemed in the one who was redeemed."
+    },
+    {
+     "v": 23,
+     "text": "And you will be found incorruptible in all the ages,\nfor the name of your Father. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:5",
+     "text": "The Digital Syriac Corpus transcription marks a gap here. The verse is given as in Harris and Mingana (1916–1920), “as reported.”"
+    },
+    {
+     "m": "b",
+     "ref": "8:15",
+     "text": "The numbering of the second half of this ode differs between editions. Harris and Mingana number this part 11 to 14 and end the ode at verse 14; this book uses the 23-verse numbering of the Digital Syriac Corpus."
+    }
+   ],
+   "heading": "Ode 8"
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Open your ears,\nand I will speak to you."
+    },
+    {
+     "v": 2,
+     "text": "Give me your soul,\nso that I may give you my soul too."
+    },
+    {
+     "v": 3,
+     "text": "The word of the Lord and what he desires\nis a holy thought that he thought concerning his Messiah."
+    },
+    {
+     "v": 4,
+     "text": "For your lives are by the will of the Lord,\nand his purpose is life for ever,\nand your completion is without decay."
+    },
+    {
+     "v": 5,
+     "text": "Be enriched in God the Father,\nand receive the purpose of the Most High.\nBe made strong and be redeemed by his goodness."
+    },
+    {
+     "v": 6,
+     "text": "For I announce peace to you, his holy ones,\nso that none who hear will fall in battle,"
+    },
+    {
+     "v": 7,
+     "text": "and so that those who have come to know him will not perish,\nand those who accept him will not be put to shame."
+    },
+    {
+     "v": 8,
+     "text": "Truth is an everlasting crown;\nblessed are those who place it on their heads."
+    },
+    {
+     "v": 9,
+     "text": "It is a precious stone,\nfor there have been wars over the crown."
+    },
+    {
+     "v": 10,
+     "text": "And Righteousness took it,\nand gave it to you.{a}"
+    },
+    {
+     "v": 11,
+     "text": "Put on the crown through the true covenant of the Lord,\nand all who have conquered will be written in his book."
+    },
+    {
+     "v": 12,
+     "text": "For their writing is the victory that is yours;\nand she sees you before her,\nand wants you to be redeemed. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:10",
+     "text": "The Syriac reads *zadiqūtā*, “Righteousness.” Some scholars read *zākūtā*, “Victory,” which suits verses 11–12, where the same word appears for the victory the readers have won."
+    }
+   ],
+   "heading": "Ode 9"
+  },
+  {
+   "n": 10,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Lord shaped my mouth by his word,\nand opened my heart by his light."
+    },
+    {
+     "v": 2,
+     "text": "And he made his deathless life dwell in me,\nand let me speak the fruit of his peace,"
+    },
+    {
+     "v": 3,
+     "text": "to turn back the souls of those who want to come to him,\nand to take a good captivity captive, for freedom."
+    },
+    {
+     "v": 4,
+     "text": "I was made strong and mighty, and I took the world captive;\nand this became for me a praise of the Most High, and of God my Father."
+    },
+    {
+     "v": 5,
+     "text": "And the nations that were scattered were gathered together;\nand I was not made unclean by my sins,{a}\nbecause they praised me in the high places."
+    },
+    {
+     "v": 6,
+     "text": "And the footprints of light were set upon their heart,\nand they walked in my life and were redeemed,\nand became my people for ever and ever. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:5",
+     "text": "The Syriac word *ḥawbay* can mean “my sins,” “my debts,” or “what I owe.”"
+    }
+   ],
+   "heading": "Ode 10"
+  },
+  {
+   "n": 11,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "My heart was circumcised, and its blossom appeared;\nand goodness sprang up in it,\nand it bore fruit for the Lord."
+    },
+    {
+     "v": 2,
+     "text": "For the Most High circumcised me with his Holy Spirit.\nHe uncovered my inmost being to himself,\nand filled me with his love."
+    },
+    {
+     "v": 3,
+     "text": "His circumcision of me became my redemption.\nI ran on the road, in his peace, the road of truth,"
+    },
+    {
+     "v": 4,
+     "text": "from the beginning to the end,\nand I received his knowledge."
+    },
+    {
+     "v": 5,
+     "text": "And I was set firm on the rock of truth,\nwhere he himself had stood me up."
+    },
+    {
+     "v": 6,
+     "text": "And speaking waters came near my lips from the Lord's spring,\nwhich has no envy."
+    },
+    {
+     "v": 7,
+     "text": "So I drank\nand was drunk with the living water that does not die."
+    },
+    {
+     "v": 8,
+     "text": "Yet my drunkenness was not the drunkenness of ignorance,\nfor I left behind what is empty"
+    },
+    {
+     "v": 9,
+     "text": "and turned to the Most High, my God,\nand was made rich by his gift."
+    },
+    {
+     "v": 10,
+     "text": "I abandoned the folly that is scattered over the earth;\nI stripped it off and threw it away from me."
+    },
+    {
+     "v": 11,
+     "text": "And the Lord renewed me with his own clothing,\nand took me as his own with his light."
+    },
+    {
+     "v": 12,
+     "text": "From above he gave me rest that cannot decay,\nand I became like a land that blossoms and rejoices in its fruit."
+    },
+    {
+     "v": 13,
+     "text": "And the Lord was like the sun shining on the face of the land."
+    },
+    {
+     "v": 14,
+     "text": "My eyes were lit,\nand my face received the dew."
+    },
+    {
+     "v": 15,
+     "text": "My breath was sweetened by the pleasant fragrance of the Lord."
+    },
+    {
+     "v": 16,
+     "text": "And he took me into his paradise,\nwhere the Lord's pleasure is richly stored.{a}"
+    },
+    {
+     "v": 17,
+     "text": "And I bowed down to the Lord because of his glory,"
+    },
+    {
+     "v": 18,
+     "text": "and I said: Blessed are those,\nLord, who are planted in your land,\nand have their place in your paradise,"
+    },
+    {
+     "v": 19,
+     "text": "and who grow with the growth of your trees,\nand have passed from darkness into light."
+    },
+    {
+     "v": 20,
+     "text": "… Look, all your workers are good, doing good works,\n(and turning from wickedness to your sweetness.){b}"
+    },
+    {
+     "v": 21,
+     "text": "(And they turned the bitterness of the trees away from them,\nwhen they were planted in your land.)"
+    },
+    {
+     "v": 22,
+     "text": "… and the everlasting memorial of your faithful servants.{c}"
+    },
+    {
+     "v": 23,
+     "text": "For the place of your paradise is wide,\nand nothing in it is idle,\nbut everything is full of fruit."
+    },
+    {
+     "v": 24,
+     "text": "Glory to you, God, for the endless delight of paradise. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:16",
+     "text": "The Greek text of this ode (Papyrus Bodmer XI), as reported, has here six further lines that the Syriac does not have: \"I saw trees, flourishing and full of fruit; their crown grew of itself; their wood blossomed and their fruits laughed. Their roots were from deathless ground, and a river of gladness watered them all around, in the land of everlasting life.\" They are given here as reported and are not part of the Syriac text translated in this book."
+    },
+    {
+     "m": "b",
+     "ref": "11:20",
+     "text": "In the Syriac, verses 20 to 22 are damaged. The Digital Syriac Corpus marks gaps with \"…\" at the start of verses 20 and 22 and puts all of verse 21 and part of verse 20 in round brackets, which signals that these words are supplied or uncertain. They are translated here as they stand, with the gaps shown as “…” and the bracketed words in round brackets."
+    },
+    {
+     "m": "c",
+     "ref": "11:22",
+     "text": "As reported, the Greek of this ode has a longer text here and a blessing on \"those who see your waters\". The Syriac, as far as it survives, has the shorter form translated here."
+    }
+   ],
+   "heading": "Ode 11"
+  },
+  {
+   "n": 12,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "He filled me with words of truth,\nso that I could speak them."
+    },
+    {
+     "v": 2,
+     "text": "As water flows, truth flowed from my mouth,\nand my lips revealed its fruit."
+    },
+    {
+     "v": 3,
+     "text": "He caused his knowledge to overflow in me,\nbecause the Lord's mouth is the true Word,\nand the doorway of his light."
+    },
+    {
+     "v": 4,
+     "text": "The Most High gave it to his worlds, who are the interpreters of his beauty,\nthe tellers of his glory,\nthe confessors of his thought,\nthe heralds of his mind,\nand the teachers of his works."
+    },
+    {
+     "v": 5,
+     "text": "For the swiftness of the Word cannot be told,\nand as it is said, so are its speed\nand its sharpness; its course has no limit."
+    },
+    {
+     "v": 6,
+     "text": "It never fails but stands firm,\nand it does not know descent or the way down.{a}"
+    },
+    {
+     "v": 7,
+     "text": "For as its work is, so is its aim;\nfor it is light and the dawning of thought."
+    },
+    {
+     "v": 8,
+     "text": "Through it the worlds speak to one another,\nand those who were silent gained speech."
+    },
+    {
+     "v": 9,
+     "text": "Love and harmony came from it,\nand they told one another what they had."
+    },
+    {
+     "v": 10,
+     "text": "They were stirred by the Word\nand knew the one who made them,\nbecause they were in harmony."
+    },
+    {
+     "v": 11,
+     "text": "The mouth of the Most High addressed them,\nand his explanation ran swiftly through it."
+    },
+    {
+     "v": 12,
+     "text": "For the dwelling place of the Word is the son of man,\nand its truth is love.{b}"
+    },
+    {
+     "v": 13,
+     "text": "Blessed are those who have understood everything through it,\nand have known the Lord in his truth. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:6",
+     "text": "Syriac *peṯgāmā*, \"word, utterance\", is the same word used for \"Word\" in Ode 7:7. It is not the Greek *Logos* of John 1."
+    },
+    {
+     "m": "b",
+     "ref": "12:12",
+     "text": "Syriac *bar nāšā*, \"son of man\", can mean simply \"a human being\"."
+    }
+   ],
+   "heading": "Ode 12"
+  },
+  {
+   "n": 13,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "See, the Lord is our mirror. Open your eyes,\nand look at yourselves in him,"
+    },
+    {
+     "v": 2,
+     "text": "and learn what your faces are like,\nand speak praises to his spirit."
+    },
+    {
+     "v": 3,
+     "text": "Wipe the paint off your faces,{a}\nlove his holiness and put it on."
+    },
+    {
+     "v": 4,
+     "text": "Then you will be without blemish before him at all times. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:3",
+     "text": "The Syriac word *ṣīdātā* is rare, and its sense is uncertain. \"Paint\" is a likely guess, since the verse is about faces."
+    }
+   ],
+   "heading": "Ode 13"
+  },
+  {
+   "n": 14,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As a son's eyes are on his father,\nso my eyes, Lord, are on you at all times."
+    },
+    {
+     "v": 2,
+     "text": "For with you are my breasts and my nourishment.{a}"
+    },
+    {
+     "v": 3,
+     "text": "Do not turn your mercies away from me,\nLord, and do not take your kindness from me."
+    },
+    {
+     "v": 4,
+     "text": "Stretch out your right hand to me at all times,\nand be my guide to the end, as you please."
+    },
+    {
+     "v": 5,
+     "text": "Let me be pleasing before you for your glory, and\nfor your name's sake let me be rescued from evil."
+    },
+    {
+     "v": 6,
+     "text": "May your gentleness, Lord, stay with me,\nand the fruits of your love."
+    },
+    {
+     "v": 7,
+     "text": "Teach me the psalms of your truth,\nso that I may bear fruit in you."
+    },
+    {
+     "v": 8,
+     "text": "Open for me the harp of your Holy Spirit,\nthat I may praise you, Lord, with every note of it."
+    },
+    {
+     "v": 9,
+     "text": "And as great as your mercies are,\nso give to me, and hurry to grant what we ask."
+    },
+    {
+     "v": 10,
+     "text": "You are able to supply all our needs. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:2",
+     "text": "Literally \"my breasts\", the image of a nursing mother, together with the word for refreshment or sustenance."
+    }
+   ],
+   "heading": "Ode 14"
+  },
+  {
+   "n": 15,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As the sun is a joy to those who look\nfor its day, so the Lord is my joy."
+    },
+    {
+     "v": 2,
+     "text": "He is my sun;\nhis rays have lifted me up,\nand his light has driven all darkness from my face."
+    },
+    {
+     "v": 3,
+     "text": "In him I gained eyes,\nand I saw his holy day."
+    },
+    {
+     "v": 4,
+     "text": "Ears were given to me,\nand I heard his truth."
+    },
+    {
+     "v": 5,
+     "text": "The thought of knowledge came to me,\nand I was refreshed in him."
+    },
+    {
+     "v": 6,
+     "text": "I left the way of error and went to him,\nand I received salvation from him without grudging."
+    },
+    {
+     "v": 7,
+     "text": "He gave to me as his own gift,\nand he made me as his great beauty."
+    },
+    {
+     "v": 8,
+     "text": "I put on incorruption by his name,\nand took off corruption by his kindness."
+    },
+    {
+     "v": 9,
+     "text": "Death was destroyed before my face,\nand Sheol was ended by my word."
+    },
+    {
+     "v": 10,
+     "text": "And deathless life rose in the Lord's land,\nand was made known to his faithful,\nand was given without limit to all who trust in him. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 15"
+  },
+  {
+   "n": 16,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As the farmer's work is the plow,\nand the helmsman's work is steering the ship,\nso the psalm of the Lord, in his praises, is my work."
+    },
+    {
+     "v": 2,
+     "text": "My craft and my service are in his praises,\nfor his love has fed my heart,\nand his fruits have gushed up to my lips."
+    },
+    {
+     "v": 3,
+     "text": "The Lord is my love,\nand so I will sing to him."
+    },
+    {
+     "v": 4,
+     "text": "For I am strong in praising him,\nand I have faith in him."
+    },
+    {
+     "v": 5,
+     "text": "I will open my mouth,\nand his Spirit will speak within me the Lord's glory\nand his beauty,"
+    },
+    {
+     "v": 6,
+     "text": "the deed of his hands\nand the toil of his fingers,"
+    },
+    {
+     "v": 7,
+     "text": "the greatness of his mercies\nand the strength of his word."
+    },
+    {
+     "v": 8,
+     "text": "For the word of the Lord searches out what is not seen,\nand examines his thought.{a}"
+    },
+    {
+     "v": 9,
+     "text": "The eye sees what he has made,\nand the ear hears his thought."
+    },
+    {
+     "v": 10,
+     "text": "He spread out the earth\nand set the waters in the sea."
+    },
+    {
+     "v": 11,
+     "text": "He stretched out the heavens\nand fixed the stars."
+    },
+    {
+     "v": 12,
+     "text": "He established the creation and set it up,\nand then rested from his works."
+    },
+    {
+     "v": 13,
+     "text": "Created things run their courses\nand do their work,\nand they do not know how to stand still or be idle."
+    },
+    {
+     "v": 14,
+     "text": "And the heavenly hosts are subject to his word."
+    },
+    {
+     "v": 15,
+     "text": "The treasury of light is the sun,\nand the treasury of darkness is the night."
+    },
+    {
+     "v": 16,
+     "text": "He made the sun for the day, to make it bright;\nbut night brings darkness across the surface of the earth."
+    },
+    {
+     "v": 17,
+     "text": "Their turns, one after the other,\ndeclare the beauty of God."
+    },
+    {
+     "v": 18,
+     "text": "And nothing exists apart from the Lord,\nfor he was before anything came to be."
+    },
+    {
+     "v": 19,
+     "text": "The worlds came into being through his word,\nand through the thought of his heart."
+    },
+    {
+     "v": 20,
+     "text": "Praise and honor to his name. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:8",
+     "text": "The meaning of the second half is disputed, since it is not clear whose \"thought\" is meant."
+    }
+   ],
+   "heading": "Ode 16"
+  },
+  {
+   "n": 17,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "My God crowned me,\nand my crown is alive."
+    },
+    {
+     "v": 2,
+     "text": "I was made righteous by my Lord,\nand my salvation does not decay."
+    },
+    {
+     "v": 3,
+     "text": "I was set free from empty things,\nand I am not condemned."
+    },
+    {
+     "v": 4,
+     "text": "My bonds were cut by her hands.{a} I took the face\nand shape of a new person,\nand walked in it, and was redeemed."
+    },
+    {
+     "v": 5,
+     "text": "And the thought of truth led me,\nand I followed it and did not stray."
+    },
+    {
+     "v": 6,
+     "text": "All who saw me were amazed,\nand to them I seemed a stranger."
+    },
+    {
+     "v": 7,
+     "text": "And he who knew me and raised me is the Most High,\nin all his fullness.{b}"
+    },
+    {
+     "v": 8,
+     "text": "He glorified me by his kindness,\nand lifted my knowledge to the height of truth."
+    },
+    {
+     "v": 9,
+     "text": "There he gave me the path of his footsteps,\nand I opened doors that were shut,"
+    },
+    {
+     "v": 10,
+     "text": "and broke the iron bars in pieces;\nbut my own iron grew hot and melted before me."
+    },
+    {
+     "v": 11,
+     "text": "Nothing seemed shut against me,\nsince I was the door for all things."
+    },
+    {
+     "v": 12,
+     "text": "I went to all my captives to free them,\nso that I would leave no one bound, and none to bind."
+    },
+    {
+     "v": 13,
+     "text": "And I gave my knowledge without grudging,\nand my request in my love."
+    },
+    {
+     "v": 14,
+     "text": "I sowed my fruits in hearts,\nand changed them into myself."
+    },
+    {
+     "v": 15,
+     "text": "They received my blessing and lived;\nthey gathered to me and were redeemed."
+    },
+    {
+     "v": 16,
+     "text": "For they became my limbs,\nand I was their head."
+    },
+    {
+     "v": 17,
+     "text": "Praise to you, our head, Lord Messiah. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "17:4",
+     "text": "The Syriac has \"her hands\"; the feminine word has no clear antecedent in the surviving text."
+    },
+    {
+     "m": "b",
+     "ref": "17:7",
+     "text": "The Digital Syriac Corpus numbers this ode in 17 verses and gives Harris and Mingana's numbering, one lower from here on, in brackets. This book follows the 17-verse numbering."
+    }
+   ],
+   "heading": "Ode 17"
+  },
+  {
+   "n": 18,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "My heart was raised up by the love of the Most High,\nand grew wide, so that I might praise him for his name."
+    },
+    {
+     "v": 2,
+     "text": "My limbs were strengthened\nso that they would not fall from his power."
+    },
+    {
+     "v": 3,
+     "text": "Sicknesses drew away from my body,\nand it stood before the Lord by his will,\nfor his kingdom is sure."
+    },
+    {
+     "v": 4,
+     "text": "Lord, because of those who are lacking,\ndo not take your word from me."
+    },
+    {
+     "v": 5,
+     "text": "And do not, because of their works,\nhold back your perfection from me."
+    },
+    {
+     "v": 6,
+     "text": "Do not let light be overcome by darkness,\nor truth flee from falsehood."
+    },
+    {
+     "v": 7,
+     "text": "Let your right hand set up victory\nfor our salvation. Receive us from every place,\nand guard everyone who is held fast by evils.{a}"
+    },
+    {
+     "v": 8,
+     "text": "You are my God. Falsehood\nand death are not in your mouth; perfection is your will."
+    },
+    {
+     "v": 9,
+     "text": "You do not know emptiness,\nbecause it does not know you either."
+    },
+    {
+     "v": 10,
+     "text": "You do not know error,\nbecause it does not know you either."
+    },
+    {
+     "v": 11,
+     "text": "And ignorance appeared like dust,\nand like the foam of the sea."
+    },
+    {
+     "v": 12,
+     "text": "The empty-minded thought it great,\nand they too became like it, and were emptied."
+    },
+    {
+     "v": 13,
+     "text": "But those who knew, and who thought it through,\nknew, and were not defiled by their thoughts."
+    },
+    {
+     "v": 14,
+     "text": "They were in the Most High's mind,\nand they laughed at those who walk in error."
+    },
+    {
+     "v": 15,
+     "text": "These spoke truth,\nout of the breath the Most High had breathed into them."
+    },
+    {
+     "v": 16,
+     "text": "Praise and great majesty to his name. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "18:7",
+     "text": "The sense of this verse is uncertain in the Syriac."
+    }
+   ],
+   "heading": "Ode 18"
+  },
+  {
+   "n": 19,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I was offered a cup of milk,\nand I drank it in the sweet kindness of the Lord."
+    },
+    {
+     "v": 2,
+     "text": "The Son is the cup, and the one who was milked is the Father,\nand the Holy Spirit milked him,"
+    },
+    {
+     "v": 3,
+     "text": "because his breasts were full,\nand it was not right that his milk be poured out for nothing."
+    },
+    {
+     "v": 4,
+     "text": "The Holy Spirit opened her womb,\nand mixed the milk from the Father's two breasts,{a}"
+    },
+    {
+     "v": 5,
+     "text": "and gave the mixture to the world,\nthough they did not know it. And those who take it in its fullness are on the right hand."
+    },
+    {
+     "v": 6,
+     "text": "(The womb of the virgin took it,\nand she conceived and gave birth."
+    },
+    {
+     "v": 7,
+     "text": "And the virgin became a mother with many mercies.){b}"
+    },
+    {
+     "v": 8,
+     "text": "She was in labor and bore a son, and had no pain,\nbecause it did not happen without purpose."
+    },
+    {
+     "v": 9,
+     "text": "And she did not need a midwife,\nbecause he delivered her."
+    },
+    {
+     "v": 10,
+     "text": "She gave birth like a man,\nby her own will; she gave birth openly,\nand took firm possession of him with a great hold."
+    },
+    {
+     "v": 11,
+     "text": "She loved him in redemption,\nand guarded him in kindness,\nand showed him in majesty. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "19:4",
+     "text": "In Syriac the word for \"Spirit\", *rūḥā*, can be feminine, which is why the Spirit is \"her\" here."
+    },
+    {
+     "m": "b",
+     "ref": "19:7",
+     "text": "Verses 6 and 7 are in round brackets in the Digital Syriac Corpus, which marks words that are damaged or supplied."
+    }
+   ],
+   "heading": "Ode 19"
+  },
+  {
+   "n": 20,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I am a priest of the Lord,\nand I serve him as a priest."
+    },
+    {
+     "v": 2,
+     "text": "And I offer to him the sacrifice of his own thought."
+    },
+    {
+     "v": 3,
+     "text": "For his thought is not like the world,\nnor like the flesh, nor like those who serve in the way of the flesh."
+    },
+    {
+     "v": 4,
+     "text": "The sacrifice of the Lord is righteousness,\nand a pure heart and pure lips."
+    },
+    {
+     "v": 5,
+     "text": "Offer your inmost parts without blemish. Let your affections not press upon affections,\nand let your own self not press upon another self."
+    },
+    {
+     "v": 6,
+     "text": "Do not buy a stranger with the blood of your own life,{a}\nand do not strip him of the covering of his shame."
+    },
+    {
+     "v": 7,
+     "text": "But put on the Lord's kindness,\nwithout grudging, and come to his paradise,\nand make yourself a crown from his tree."
+    },
+    {
+     "v": 8,
+     "text": "Put it on your head and be glad,\nand lean on his rest."
+    },
+    {
+     "v": 9,
+     "text": "His glory will go ahead of you,\nand you will receive from his kindness and goodness,\nand be anointed with truth in the glory of his holiness."
+    },
+    {
+     "v": 10,
+     "text": "Praise and honor to his name. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "20:6",
+     "text": "The Digital Syriac Corpus shows that a line is missing here. Other editions supply a line about not cheating a neighbor, which is given here only \"as reported\" and is not translated."
+    }
+   ],
+   "heading": "Ode 20"
+  },
+  {
+   "n": 21,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I lifted up my arms to the height,\nto the mercy of the Lord,"
+    },
+    {
+     "v": 2,
+     "text": "because he had thrown my bonds off me,\nand my helper lifted me up to his mercy and to his salvation."
+    },
+    {
+     "v": 3,
+     "text": "I put off darkness\nand put on light."
+    },
+    {
+     "v": 4,
+     "text": "And I gained limbs besides my soul,\nand there was no sickness or affliction or suffering in them."
+    },
+    {
+     "v": 5,
+     "text": "And above all the thought of the Lord was a help to me,\nand his fellowship, which does not decay."
+    },
+    {
+     "v": 6,
+     "text": "I was lifted up into the light,\nand I passed before his face."
+    },
+    {
+     "v": 7,
+     "text": "I kept near him, praising and confessing him. …"
+    },
+    {
+     "v": 8,
+     "text": "My heart overflowed and appeared in my mouth,\nand rose upon my lips."
+    },
+    {
+     "v": 9,
+     "text": "And the gladness of the Lord and his praise grew on my face. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 21"
+  },
+  {
+   "n": 22,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "He who brought me down from on high,\nand brought me up from the regions below,"
+    },
+    {
+     "v": 2,
+     "text": "who gathers what is in the middle\nand throws them to me,"
+    },
+    {
+     "v": 3,
+     "text": "who scattered my enemies\nand my opponents,"
+    },
+    {
+     "v": 4,
+     "text": "who gave me power over bonds,\nto loose them,"
+    },
+    {
+     "v": 5,
+     "text": "who with my hands struck down the seven-headed dragon,\nand set me over its roots to destroy its seed."
+    },
+    {
+     "v": 6,
+     "text": "You were there to help me,\nand everywhere your name was around me."
+    },
+    {
+     "v": 7,
+     "text": "Your right hand destroyed (the poison of evil),\nand your hand made the way smooth for those who trust in you."
+    },
+    {
+     "v": 8,
+     "text": "(You chose them) from the graves,\n(and you separated them) from the dead."
+    },
+    {
+     "v": 9,
+     "text": "You took dead bones\nand covered them with bodies."
+    },
+    {
+     "v": 10,
+     "text": "They were motionless,\nand you gave the power to work to the living."
+    },
+    {
+     "v": 11,
+     "text": "Your way was without decay,\nand so was your face. You brought your world to incorruption,\nso that everything might be dissolved and made new,"
+    },
+    {
+     "v": 12,
+     "text": "and that your rock might be the foundation of everything. Upon it you built your kingdom,\nand it became the dwelling place of the holy ones. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 22"
+  },
+  {
+   "n": 23,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Joy is for the holy ones,\nand who can put it on but they alone?"
+    },
+    {
+     "v": 2,
+     "text": "Grace belongs to the chosen,\nand who will receive it except those who have trusted in it from the beginning?"
+    },
+    {
+     "v": 3,
+     "text": "Love belongs to the chosen,\nand who will put it on except those who have owned it from the beginning?"
+    },
+    {
+     "v": 4,
+     "text": "Walk in the knowledge of the Most High,\nand you will know the Lord's kindness without grudging,\nand for his gladness, and for the perfection of his knowledge."
+    },
+    {
+     "v": 5,
+     "text": "His thought was like a letter,\nand his will came down from the height,"
+    },
+    {
+     "v": 6,
+     "text": "and it was sent like an arrow shot from a bow with force."
+    },
+    {
+     "v": 7,
+     "text": "And many hands rushed to the letter,\nto snatch it and take it and read it."
+    },
+    {
+     "v": 8,
+     "text": "But it escaped from their fingers,\nand they were afraid of it and of the seal on it,"
+    },
+    {
+     "v": 9,
+     "text": "because they were not allowed to break its seal,\nfor the power over the seal was greater than they."
+    },
+    {
+     "v": 10,
+     "text": "But those who saw it went after the letter,\nto know where it would land,\nand who would read it,\nand who would hear it."
+    },
+    {
+     "v": 11,
+     "text": "But a wheel received it,\nand it came upon the wheel."
+    },
+    {
+     "v": 12,
+     "text": "And with it was a sign of kingship\nand of government."
+    },
+    {
+     "v": 13,
+     "text": "And everything that disturbed the wheel it mowed down\nand cut off."
+    },
+    {
+     "v": 14,
+     "text": "It gathered a crowd of adversaries,\nand spanned rivers,\nand uprooted many forests,"
+    },
+    {
+     "v": 15,
+     "text": "and made a broad road."
+    },
+    {
+     "v": 16,
+     "text": "The head came down to the feet,\nbecause the wheel ran as far as the feet,\nand whatever had come upon it."
+    },
+    {
+     "v": 17,
+     "text": "The letter was a command,\nbecause all the places were gathered together."
+    },
+    {
+     "v": 18,
+     "text": "And a head was seen, the head that was revealed,\nthe Son of truth from the Father, the Most High."
+    },
+    {
+     "v": 19,
+     "text": "And he inherited everything\nand took it. And the plan of the many was brought to an end."
+    },
+    {
+     "v": 20,
+     "text": "Then all the rebels grew hot and fled,\nand those who persecuted and hated were put out."
+    },
+    {
+     "v": 21,
+     "text": "And the letter was a great tablet,\nwritten completely by the finger of God."
+    },
+    {
+     "v": 22,
+     "text": "The name of the Father was upon it,\nand also of the Son and of the Holy Spirit,\nto reign for ever and ever. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 23"
+  },
+  {
+   "n": 24,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The dove fluttered over the head of our Lord Messiah,\nbecause he was her head."
+    },
+    {
+     "v": 2,
+     "text": "She sang over him,\nand her voice could be heard."
+    },
+    {
+     "v": 3,
+     "text": "The inhabitants were afraid,\nand the settlers were shaken."
+    },
+    {
+     "v": 4,
+     "text": "The bird gave up its wings,\nand every creeping thing died in its hole."
+    },
+    {
+     "v": 5,
+     "text": "The depths were opened and covered again,\nand they cried to the Lord like women in labor."
+    },
+    {
+     "v": 6,
+     "text": "And no food was given to them,\nbecause it was not theirs."
+    },
+    {
+     "v": 7,
+     "text": "And the depths sank in the Lord's sinking,{a}\nand they perished in the thought they had held from the beginning."
+    },
+    {
+     "v": 8,
+     "text": "For they had been corrupt from the beginning,\nand the end of their corruption was life."
+    },
+    {
+     "v": 9,
+     "text": "And everything about them that was lacking perished,\nbecause they had no word to speak so that they might live."
+    },
+    {
+     "v": 10,
+     "text": "And the Lord destroyed the thoughts of all those who had no truth."
+    },
+    {
+     "v": 11,
+     "text": "For those who were lifted up in their hearts lacked wisdom,\nand so were rejected, because truth was not with them."
+    },
+    {
+     "v": 12,
+     "text": "And they were removed,\nbecause truth was not with them."
+    },
+    {
+     "v": 13,
+     "text": "For the Lord revealed his way\nand spread out his kindness,"
+    },
+    {
+     "v": 14,
+     "text": "and those who recognized it know his holiness. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "24:7",
+     "text": "The Syriac uses the same root twice, \"sank\" and \"sinking\", and the word can also mean \"sealing\". The sense of the verse is uncertain."
+    }
+   ],
+   "heading": "Ode 24"
+  },
+  {
+   "n": 25,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I was set free from my bonds,\nand I ran to you, my God."
+    },
+    {
+     "v": 2,
+     "text": "(For you were the right hand of salvation)\nand my helper."
+    },
+    {
+     "v": 3,
+     "text": "You held back those who stood against me,\nand (they were not seen again)."
+    },
+    {
+     "v": 4,
+     "text": "For your face was with me,\nand it saved me by your kindness."
+    },
+    {
+     "v": 5,
+     "text": "But in the eyes of many I was despised\nand rejected, and in their sight I was like lead."
+    },
+    {
+     "v": 6,
+     "text": "And strength came to me from you,\nand help."
+    },
+    {
+     "v": 7,
+     "text": "You set a lamp for me on my right and on my left,\nso that nothing in me would be without light."
+    },
+    {
+     "v": 8,
+     "text": "I was covered with the cover of your Spirit,\nand I took off the garments of skin."
+    },
+    {
+     "v": 9,
+     "text": "For your right hand lifted me up\nand took sickness away from me."
+    },
+    {
+     "v": 10,
+     "text": "I became strong in your truth,\nand holy in your righteousness."
+    },
+    {
+     "v": 11,
+     "text": "(All my enemies were afraid of me,)\nand I became the Lord's, in the Lord's name."
+    },
+    {
+     "v": 12,
+     "text": "By his kindness I was made righteous,\nand his rest lasts for ever and ever. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 25"
+  },
+  {
+   "n": 26,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I poured out praise to the Lord,\nbecause I belong to him."
+    },
+    {
+     "v": 2,
+     "text": "I will speak his holy song,\nbecause my heart is with him."
+    },
+    {
+     "v": 3,
+     "text": "For his harp is in my hands,\nand the songs of his rest will not be silent."
+    },
+    {
+     "v": 4,
+     "text": "I will cry to him with my whole heart;\nwith every limb I will praise and exalt him."
+    },
+    {
+     "v": 5,
+     "text": "His praise reaches from the east to the west,"
+    },
+    {
+     "v": 6,
+     "text": "and his thanksgiving from the south to the north,"
+    },
+    {
+     "v": 7,
+     "text": "and his perfection from the summit of the hills to their farthest edge."
+    },
+    {
+     "v": 8,
+     "text": "Who can write down the psalms of the Lord,\nor who can read them?"
+    },
+    {
+     "v": 9,
+     "text": "Or who can train his soul for life,\nso that his soul may be saved?"
+    },
+    {
+     "v": 10,
+     "text": "Or who can rest on the Most High,\nso that he may speak from his mouth?"
+    },
+    {
+     "v": 11,
+     "text": "Who can interpret the Lord's wonders? For the one who interprets will be dissolved,\nand what is interpreted will remain."
+    },
+    {
+     "v": 12,
+     "text": "It is enough to know, and to rest,\nfor the singers stand in rest,"
+    },
+    {
+     "v": 13,
+     "text": "like a river that has an abundant spring\nand flows to help those who seek it. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 26"
+  },
+  {
+   "n": 27,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I stretched out my hands\nand hallowed my Lord,"
+    },
+    {
+     "v": 2,
+     "text": "for the stretching of my hands is his sign,"
+    },
+    {
+     "v": 3,
+     "text": "and my spreading out is the upright wood. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 27"
+  },
+  {
+   "n": 28,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As the wings of doves over their young,\nand the mouths of their young toward their mouths,\nso are the wings of the Spirit over my heart."
+    },
+    {
+     "v": 2,
+     "text": "My heart is glad and leaps,\nlike the baby that leaps in its mother's womb."
+    },
+    {
+     "v": 3,
+     "text": "I believed, and so I was at rest,\nbecause he in whom I believed is faithful."
+    },
+    {
+     "v": 4,
+     "text": "He has richly blessed me,\nand my head is with him."
+    },
+    {
+     "v": 5,
+     "text": "And the sword will not separate me from him,\nnor the blade."
+    },
+    {
+     "v": 6,
+     "text": "For I was made ready before destruction came,\nand was set on his wings that do not decay.{a}"
+    },
+    {
+     "v": 7,
+     "text": "Deathless life embraced me\nand kissed me,"
+    },
+    {
+     "v": 8,
+     "text": "and from it comes the Spirit that is in me,\nand it cannot die, for it is alive."
+    },
+    {
+     "v": 9,
+     "text": "Those who saw me were amazed,\nbecause I was being hunted,"
+    },
+    {
+     "v": 10,
+     "text": "and they thought I had been swallowed up,\nsince to them I looked like one of the lost."
+    },
+    {
+     "v": 11,
+     "text": "But my oppression became my salvation."
+    },
+    {
+     "v": 12,
+     "text": "I became their reproach,\nbecause there was no envy in me."
+    },
+    {
+     "v": 13,
+     "text": "Because I did good to every person,\nI was hated."
+    },
+    {
+     "v": 14,
+     "text": "And they surrounded me like mad dogs,\nwho in ignorance attack their masters,"
+    },
+    {
+     "v": 15,
+     "text": "for their thinking is corrupt,\nand they twist their understanding."
+    },
+    {
+     "v": 16,
+     "text": "But I held waters in my right hand,\nand I bore their bitterness with my sweetness."
+    },
+    {
+     "v": 17,
+     "text": "I did not perish, because I was not their brother,\nand my birth was not like theirs."
+    },
+    {
+     "v": 18,
+     "text": "They sought my death and did not find it,\nbecause I was older than the memory of them,\nand in vain they cast lots against me."
+    },
+    {
+     "v": 19,
+     "text": "And those who came after me tried in vain to wipe out the memory of him who was before them."
+    },
+    {
+     "v": 20,
+     "text": "The mind of the Most High cannot be forestalled,\nand his heart is greater than all wisdom. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "28:6",
+     "text": "The Digital Syriac Corpus numbers this ode in 20 verses and gives Harris and Mingana's numbers, one lower from here on, in brackets. This book follows the 20-verse numbering."
+    }
+   ],
+   "heading": "Ode 28"
+  },
+  {
+   "n": 29,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Lord is my hope;\nI will not be ashamed in him."
+    },
+    {
+     "v": 2,
+     "text": "For he made me according to his glory,\nand in the same way he gave to me according to his kindness."
+    },
+    {
+     "v": 3,
+     "text": "He raised me according to his mercies,\nand lifted me up according to his great beauty."
+    },
+    {
+     "v": 4,
+     "text": "He brought me up from the depths of Sheol,\nand drew me out of the mouth of death."
+    },
+    {
+     "v": 5,
+     "text": "And I laid my enemies low,"
+    },
+    {
+     "v": 6,
+     "text": "and he made me righteous by his kindness. For I believed in the Lord's Messiah,"
+    },
+    {
+     "v": 7,
+     "text": "and I came to see that he is the Lord. And he showed me his sign,"
+    },
+    {
+     "v": 8,
+     "text": "and led me by his light. He gave me the rod of his power,\nto bring down the thoughts of the nations\nand to humble the strength of the mighty,"
+    },
+    {
+     "v": 9,
+     "text": "to wage war with his word,\nand to win the victory by his power."
+    },
+    {
+     "v": 10,
+     "text": "The Lord threw down my enemy with his word,\nand he became like dust that the wind carries away."
+    },
+    {
+     "v": 11,
+     "text": "I praised the Most High, because he has lifted up his servant\nand the son of his maidservant. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 29"
+  },
+  {
+   "n": 30,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Fill yourselves with water from the Lord's living spring,\nbecause it has been opened for you."
+    },
+    {
+     "v": 2,
+     "text": "And come, all you who are thirsty,\nand take the drink, and rest by the Lord's spring."
+    },
+    {
+     "v": 3,
+     "text": "For it is lovely and pure,\nand gives rest to the soul."
+    },
+    {
+     "v": 4,
+     "text": "Its waters are far sweeter than honey,\nand the honeycomb of bees cannot be compared with it."
+    },
+    {
+     "v": 5,
+     "text": "It flows from the Lord's lips,\nand its name came from the Lord's heart."
+    },
+    {
+     "v": 6,
+     "text": "It came without limit and unseen, and\nuntil it was set in the middle, no one knew it."
+    },
+    {
+     "v": 7,
+     "text": "Blessed are those who have drunk of it\nand found rest in it. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 30"
+  },
+  {
+   "n": 31,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The depths were dissolved before the Lord,\nand darkness vanished at the sight of him."
+    },
+    {
+     "v": 2,
+     "text": "Error went astray and perished\nbecause of him, and folly (found no path,\nand sank) before the Lord's truth."
+    },
+    {
+     "v": 3,
+     "text": "He opened his mouth and spoke kindness\nand joy, and he spoke a new song to his name."
+    },
+    {
+     "v": 4,
+     "text": "He lifted his voice to the Most High,\nand presented to him the sons who were in his hand."
+    },
+    {
+     "v": 5,
+     "text": "And his face was made righteous,\nbecause his holy Father had given it to him so."
+    },
+    {
+     "v": 6,
+     "text": "Come out, you who were afflicted,\nand receive joy."
+    },
+    {
+     "v": 7,
+     "text": "Take possession of your souls through kindness,\nand take for yourselves deathless life."
+    },
+    {
+     "v": 8,
+     "text": "They condemned me when I stood up,\nthough I was not guilty."
+    },
+    {
+     "v": 9,
+     "text": "They divided my spoil,\nthough nothing was owed to them."
+    },
+    {
+     "v": 10,
+     "text": "But I endured, and was silent, and was still,\nas though I were not moved by them."
+    },
+    {
+     "v": 11,
+     "text": "I stood firm, not shaken,\nlike a solid rock that is beaten by waves and stands."
+    },
+    {
+     "v": 12,
+     "text": "And I bore their bitterness for the sake of gentleness,\nto redeem my people and make them heirs,"
+    },
+    {
+     "v": 13,
+     "text": "so that I would not cancel my promises to the patriarchs,\nto whom I had pledged the redemption of their seed. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 31"
+  },
+  {
+   "n": 32,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The blessed have joy from their hearts,\nand light from him who dwells in them,"
+    },
+    {
+     "v": 2,
+     "text": "and the Word from the truth, who came to be from himself."
+    },
+    {
+     "v": 3,
+     "text": "For the Most High's holy power made him strong,\nand he is unmoved for ever and ever. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 32"
+  },
+  {
+   "n": 33,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Again grace ran, and left corruption,\nand came down upon it to empty it."
+    },
+    {
+     "v": 2,
+     "text": "And he destroyed perdition before her,\nand ruined all its order."
+    },
+    {
+     "v": 3,
+     "text": "He stood on a high place and lifted his voice,\nfrom the far end of the earth to the other."
+    },
+    {
+     "v": 4,
+     "text": "He drew to himself all who obeyed him,\nand he did not look like an evil one."
+    },
+    {
+     "v": 5,
+     "text": "But a perfect virgin stood,\nwho was proclaiming, and calling out, and saying:"
+    },
+    {
+     "v": 6,
+     "text": "Children of men, turn back,\nand you their daughters, come,"
+    },
+    {
+     "v": 7,
+     "text": "and leave the ways of this corruption,\nand draw near to me."
+    },
+    {
+     "v": 8,
+     "text": "I will enter into you\nand bring you out of destruction,\nand make you wise in the ways of truth."
+    },
+    {
+     "v": 9,
+     "text": "Do not be corrupted,\nand do not perish."
+    },
+    {
+     "v": 10,
+     "text": "Listen to me and be redeemed,\nfor the kindness of God is what I speak among you."
+    },
+    {
+     "v": 11,
+     "text": "Through me you will be redeemed\nand blessed. I am your judge."
+    },
+    {
+     "v": 12,
+     "text": "Those who put me on will not be wronged,\nbut will gain a new world without corruption."
+    },
+    {
+     "v": 13,
+     "text": "My chosen ones walked in me,\nand I will make my ways known to those who seek me,\nand I will make them trust in my name. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 33"
+  },
+  {
+   "n": 34,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "No path is hard where the heart is simple,\nnor is there any wound among upright thoughts."
+    },
+    {
+     "v": 2,
+     "text": "Nor is there a storm in the depth of the shining thought."
+    },
+    {
+     "v": 3,
+     "text": "Where a person is surrounded on every side by beauty,\nthere is nothing divided."
+    },
+    {
+     "v": 4,
+     "text": "The pattern of what is below is what is above."
+    },
+    {
+     "v": 5,
+     "text": "Everything is above,\nand below there is nothing,\nthough those without knowledge imagine it."
+    },
+    {
+     "v": 6,
+     "text": "Grace was revealed for your salvation. Believe,\nand you will live, and be saved. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 34"
+  },
+  {
+   "n": 35,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The dew of the Lord settled on me in rest,\nand he raised a cloud of peace over my head,"
+    },
+    {
+     "v": 2,
+     "text": "which guarded me at all times,\nand became salvation to me."
+    },
+    {
+     "v": 3,
+     "text": "Everything was shaken and frightened,\nand smoke and judgment came out from them."
+    },
+    {
+     "v": 4,
+     "text": "But I was quiet under the Lord's decree,\nand he was more to me than a shelter, and more than a foundation."
+    },
+    {
+     "v": 5,
+     "text": "I was carried like a child on its mother's lap,\nand he gave me milk, the Lord's dew."
+    },
+    {
+     "v": 6,
+     "text": "And I grew by his gift,\nand found rest in his perfection."
+    },
+    {
+     "v": 7,
+     "text": "And I stretched out my hands as my soul rose up,\nand I was made straight toward the Most High,\nand was redeemed to him. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 35"
+  },
+  {
+   "n": 36,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I rested in the Spirit of the Lord,\nand she lifted me up to the height."
+    },
+    {
+     "v": 2,
+     "text": "She set me on my feet in the Lord's height,\nbefore his perfection and his glory,\nwhile I praised him with the composition of his songs."
+    },
+    {
+     "v": 3,
+     "text": "She bore me before the Lord's face,\nand though I was a son of man,\nI was named the Shining One, the Son of God."
+    },
+    {
+     "v": 4,
+     "text": "For I was glorified among the glorious,\nand great among the great."
+    },
+    {
+     "v": 5,
+     "text": "For as great as the Most High is,\nso she made me, and by his newness he renewed me."
+    },
+    {
+     "v": 6,
+     "text": "He anointed me out of his perfection,\nand I became one of his near ones."
+    },
+    {
+     "v": 7,
+     "text": "My mouth was opened like a dewy cloud,\nand my heart poured out a stream of righteousness."
+    },
+    {
+     "v": 8,
+     "text": "I came near in peace,\nand was established in the Spirit of guidance. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 36"
+  },
+  {
+   "n": 37,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I stretched out my hands to my Lord,\nand to the Most High I raised my voice."
+    },
+    {
+     "v": 2,
+     "text": "I spoke with my heart's lips,\nand he heard me as soon as my voice reached him."
+    },
+    {
+     "v": 3,
+     "text": "His word came to me,\nand gave me the fruits of my labors,"
+    },
+    {
+     "v": 4,
+     "text": "and gave me rest by the kindness of the Lord. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 37"
+  },
+  {
+   "n": 38,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I went up into the light of truth as into a chariot,\nand truth guided me and carried me."
+    },
+    {
+     "v": 2,
+     "text": "It carried me across pits and chasms,\nand rescued me from cliffs and waves."
+    },
+    {
+     "v": 3,
+     "text": "It became a harbor of salvation for me,\nand set me on the step of life that has no death."
+    },
+    {
+     "v": 4,
+     "text": "And it went with me, and gave me rest,\nand did not let me go astray, because it was truth, and it is."
+    },
+    {
+     "v": 5,
+     "text": "I had no danger, because I walked with it;\nand I did not go wrong in anything, because I listened to it."
+    },
+    {
+     "v": 6,
+     "text": "For error ran away from it,\nand never met it."
+    },
+    {
+     "v": 7,
+     "text": "And truth walked on the upright road,\nand whatever I did not know it showed me,"
+    },
+    {
+     "v": 8,
+     "text": "all the poisons of error,\nand the scourges which are thought to be death's sweetness.{a}"
+    },
+    {
+     "v": 9,
+     "text": "And I saw the destroyer of corruption,\nwhen the corrupting bride was being adorned,\nand the bridegroom who corrupts and is corrupted."
+    },
+    {
+     "v": 10,
+     "text": "And I asked the truth, \"Who are these?\" And it said to me,\n\"This is the Deceiver and Error.\""
+    },
+    {
+     "v": 11,
+     "text": "They mimic the Beloved and his bride,\nand mislead the world and corrupt it."
+    },
+    {
+     "v": 12,
+     "text": "They invite many to the banquet,\nand give them the wine of their drunkenness to drink,"
+    },
+    {
+     "v": 13,
+     "text": "and make them vomit up their wisdom\nand knowledge, and leave them without sense."
+    },
+    {
+     "v": 14,
+     "text": "Then they abandon them,\nand these go about raving and ruined,"
+    },
+    {
+     "v": 15,
+     "text": "since they have no heart,\nand do not look for one."
+    },
+    {
+     "v": 16,
+     "text": "And I became wise, so as not to fall into the deceivers' hands,\nand I rejoiced in myself that truth went with me.{b}"
+    },
+    {
+     "v": 17,
+     "text": "I was made firm, and lived,\nand was redeemed,\nand my foundations were laid on the Lord's hand,"
+    },
+    {
+     "v": 18,
+     "text": "because he planted me. He set the root,\nwatered it, secured it,\nand blessed it,"
+    },
+    {
+     "v": 19,
+     "text": "and its fruits are for ever. (It went deep, and rose,\nand spread out,) and was full and grew great."
+    },
+    {
+     "v": 20,
+     "text": "The Lord alone was glorified,\nin his planting and his farming,"
+    },
+    {
+     "v": 21,
+     "text": "in his care, and in the blessing of his lips,\nin the fair planting by his right hand,"
+    },
+    {
+     "v": 22,
+     "text": "and in the skill of his planting,\nand in the knowledge of his mind. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "38:8",
+     "text": "The Syriac word translated \"scourges\" (*nāgdē*) can also mean \"cords\" or \"goads\"."
+    },
+    {
+     "m": "b",
+     "ref": "38:16",
+     "text": "From here to the end of the ode the Digital Syriac Corpus also gives Harris and Mingana's numbers in brackets, one lower than those used here; Ode 38 therefore has 22 verses in this book but 21 in their edition."
+    }
+   ],
+   "heading": "Ode 38"
+  },
+  {
+   "n": 39,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Mighty rivers are the power of the Lord,\nwhich carry away headlong those who despise him,"
+    },
+    {
+     "v": 2,
+     "text": "and tangle their paths,\nand ruin their crossings,"
+    },
+    {
+     "v": 3,
+     "text": "and snatch their bodies,\nand destroy their souls."
+    },
+    {
+     "v": 4,
+     "text": "For they are faster than lightning,\nand swifter."
+    },
+    {
+     "v": 5,
+     "text": "But those who cross them in faith will not be shaken,"
+    },
+    {
+     "v": 6,
+     "text": "and those who walk through them blamelessly will not fear."
+    },
+    {
+     "v": 7,
+     "text": "For the Lord is the sign in them, and the sign becomes the way\nfor those who cross in the name of the Lord."
+    },
+    {
+     "v": 8,
+     "text": "So clothe yourselves in the name of the Most High, and know him, and you will cross safely,\nsince the rivers will be subject to you."
+    },
+    {
+     "v": 9,
+     "text": "The Lord bridged them with his word,\nthen walked over them and crossed on foot."
+    },
+    {
+     "v": 10,
+     "text": "And his footprints stand on the water\nand were not harmed, but are like wood fixed in truth."
+    },
+    {
+     "v": 11,
+     "text": "On this side and on that the waves rose,\nbut the footprints of our Lord the Messiah stand,"
+    },
+    {
+     "v": 12,
+     "text": "and are not blotted out\nand are not destroyed."
+    },
+    {
+     "v": 13,
+     "text": "A road has been laid down for those who cross after him, and for those who keep to the way of his faith\nand worship his name. Hallelujah."
+    }
+   ],
+   "notes": [],
+   "heading": "Ode 39"
+  },
+  {
+   "n": 40,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "As honey drips from the combs of bees, and milk runs from a woman who loves her children,\nso is my hope on you, my God."
+    },
+    {
+     "v": 2,
+     "text": "As a spring pours out its waters,\nso my heart pours forth the Lord's praise,\nand my lips bring out praise to him."
+    },
+    {
+     "v": 3,
+     "text": "My tongue is sweet with his words,\nand my limbs are made sweet by his songs.{a}"
+    },
+    {
+     "v": 4,
+     "text": "My face rejoices in his gladness,\nmy spirit exults in his love,\nand my soul is radiant in him."
+    },
+    {
+     "v": 5,
+     "text": "One who fears will trust in him,\nand in him salvation will be sure."
+    },
+    {
+     "v": 6,
+     "text": "His gain is life that does not die,\nand those who receive it are without corruption. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "40:3",
+     "text": "In the Digital Syriac Corpus some letters of \"my limbs\" are damaged and supplied by the editors."
+    }
+   ],
+   "heading": "Ode 40"
+  },
+  {
+   "n": 41,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Let all his children praise the Lord,\nand let them take up the truth of his faith."
+    },
+    {
+     "v": 2,
+     "text": "Let his sons be known to him;\ntherefore let us sing in his love."
+    },
+    {
+     "v": 3,
+     "text": "We live in the Lord by his kindness,\nand we receive life by his Messiah."
+    },
+    {
+     "v": 4,
+     "text": "For a great day has dawned on us,\nand wonderful is he who gave us of his glory."
+    },
+    {
+     "v": 5,
+     "text": "So let us all together be united in the name of the Lord,\nand honor him in his goodness."
+    },
+    {
+     "v": 6,
+     "text": "May our faces shine in his light,\nand our hearts reflect on his love,\nnight and day."
+    },
+    {
+     "v": 7,
+     "text": "Let us rejoice with the joy of the Lord."
+    },
+    {
+     "v": 8,
+     "text": "Let everyone who sees me be astonished,\nbecause I come from a different race."
+    },
+    {
+     "v": 9,
+     "text": "The Father of truth remembered me,\nwho acquired me from the beginning."
+    },
+    {
+     "v": 10,
+     "text": "For his riches bore me,\nand the thought of his heart."
+    },
+    {
+     "v": 11,
+     "text": "His Word is with us on all our road,\nthe Savior who gives life and does not cast out our souls."
+    },
+    {
+     "v": 12,
+     "text": "He is the man who humbled himself,\nand was lifted up by his own righteousness."
+    },
+    {
+     "v": 13,
+     "text": "The Son of the Most High was seen in his Father's perfection,"
+    },
+    {
+     "v": 14,
+     "text": "and light dawned from the Word who was in him from of old."
+    },
+    {
+     "v": 15,
+     "text": "The Messiah is truly one,\nand was known before the foundations of the world, …{a}"
+    },
+    {
+     "v": 16,
+     "text": "so that he might give souls life for ever through the truth of his name. A new song of praise to the Lord from those who love him. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "41:15",
+     "text": "The corpus text marks a gap in the manuscript after \"foundations of the world\"."
+    }
+   ],
+   "heading": "Ode 41"
+  },
+  {
+   "n": 42,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I stretched out my hands and came near to my Lord,\nfor the stretching of my hands is his sign."
+    },
+    {
+     "v": 2,
+     "text": "And my spreading out is the upright wood,\nthat was hung on the way of the Upright One."
+    },
+    {
+     "v": 3,
+     "text": "And I was of no use to those who knew me,\nbecause I was hidden from those who did not hold me.{a}"
+    },
+    {
+     "v": 4,
+     "text": "But I will be with those who love me."
+    },
+    {
+     "v": 5,
+     "text": "All my persecutors are dead, and they sought me,\nthose who had put their hope in me, because I live."
+    },
+    {
+     "v": 6,
+     "text": "I rose, and I am with them,\nand I will speak through their mouths."
+    },
+    {
+     "v": 7,
+     "text": "For they put away those who pursued them,\nand I laid on them the yoke of my love."
+    },
+    {
+     "v": 8,
+     "text": "As the bridegroom's arm rests over the bride,\nso my yoke rests over those who know me."
+    },
+    {
+     "v": 9,
+     "text": "And as the bridal chamber is spread out in the house of the bridegrooms,\nso is my love over those who believe in me."
+    },
+    {
+     "v": 10,
+     "text": "I was not cast out, though they thought so;\nand I did not perish, though they planned it against me."
+    },
+    {
+     "v": 11,
+     "text": "Sheol saw me and was afflicted,\nand death gave me up, and many with me."
+    },
+    {
+     "v": 12,
+     "text": "I was gall and bitterness to it,\nand I descended with it to the limit of its depth."
+    },
+    {
+     "v": 13,
+     "text": "And I let go its feet and head,\nbecause they could not bear my face."
+    },
+    {
+     "v": 14,
+     "text": "And I made a congregation of the living among its dead,\nand spoke with them with living lips,\nso that my word would not be in vain."
+    },
+    {
+     "v": 15,
+     "text": "And those who had died ran to me, and cried out\nand said, \"Have pity on us, Son of God,"
+    },
+    {
+     "v": 16,
+     "text": "and act toward us in your kindness,\nand bring us out from the chains of darkness,"
+    },
+    {
+     "v": 17,
+     "text": "and open\nfor us the door through which we may come out to you. For we see that death has not touched you."
+    },
+    {
+     "v": 18,
+     "text": "May we also be redeemed with you,\nfor you are our Redeemer.\""
+    },
+    {
+     "v": 19,
+     "text": "And I heard their voice,\nand set their faith in my heart,"
+    },
+    {
+     "v": 20,
+     "text": "and set my name on their heads,\nfor they are free and are mine. Hallelujah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "42:3",
+     "text": "Verses 3 and 7 are difficult in the Syriac, and the sense given here is uncertain."
+    }
+   ],
+   "heading": "Ode 42"
+  }
+ ]
+}
