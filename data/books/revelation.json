@@ -1,0 +1,3221 @@
+{
+ "id": "revelation",
+ "name": "Revelation",
+ "division": "New Testament",
+ "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The writer names himself John (1:1, 4, 9; 22:8), a prophet exiled on the island of Patmos. From the 2nd century (Justin, Irenaeus) many identified him with John the apostle, while Dionysius of Alexandria (3rd century) argued from its Greek style that the author was a different John; this translation takes no position. Irenaeus dates the visions near the end of the reign of Domitian (about AD 95); some scholars prefer the late 60s. The Greek of Revelation is often unusual in grammar, and this translation does not smooth it entirely. The chief early witnesses include the papyri P18, P24, P47 (3rd century), P98 and P115 (3rd–4th century), Codex Sinaiticus, Codex Alexandrinus (often judged the best witness for this book) and Codex Ephraemi; Codex Vaticanus lacks Revelation. Erasmus’s first printed Greek text (1516), the basis of the King James Version, rested on one incomplete 12th-century manuscript, and he supplied the last six verses by translating from Latin. Measures are given in modern equivalents, with the original units in the notes. Hymns and songs are set as poetry.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1,
+    4,
+    8,
+    9,
+    12,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The revelation of Jesus Christ, which God gave him to show his slaves what must take place soon. He made it known by sending his angel to his slave John,{a}"
+    },
+    {
+     "v": 2,
+     "text": "He has testified to God’s word and to what Jesus Christ attested, all that he saw."
+    },
+    {
+     "v": 3,
+     "text": "Happy is the one who reads aloud the words of this prophecy, and happy are those who hear it and keep what is written in it, for the time is near.{b}"
+    },
+    {
+     "v": 4,
+     "text": "John, to the seven churches that are in Asia: grace to you and peace from the one who is and who was and who is coming, and from the seven spirits that are before his throne,{c}"
+    },
+    {
+     "v": 5,
+     "text": "and from Jesus Christ, the witness who keeps faith, first of the dead to be born to life, ruler over earth’s kings. ¶To him who loves us, who by his own blood has freed us from our sins,{d}"
+    },
+    {
+     "v": 6,
+     "text": "and made us a kingdom, priests to his God and Father: to him be the glory and the might forever and ever. Amen.{e}"
+    },
+    {
+     "v": 7,
+     "text": "Look, he is coming with the clouds,\nand every eye will see him,\nincluding those who pierced him,\nand all the tribes of the earth will mourn over him.\nSo it shall be. Amen.{f}"
+    },
+    {
+     "v": 8,
+     "text": "“I am the Alpha and the Omega,” says the Lord God, the one who is and who was and who is coming, the Almighty.{g}"
+    },
+    {
+     "v": 9,
+     "text": "I, John, your brother and your partner in the affliction, the kingdom and the endurance that belong to Jesus, found myself on the island called Patmos on account of God’s word and the testimony of Jesus.{h}"
+    },
+    {
+     "v": 10,
+     "text": "I came to be in the Spirit on the Lord’s day, and I heard behind me a loud voice like a trumpet,{i}"
+    },
+    {
+     "v": 11,
+     "text": "saying, “Write what you see in a book and send it to the seven churches, to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea.”{j}"
+    },
+    {
+     "v": 12,
+     "text": "I turned around to see the voice that was speaking with me, and on turning I saw seven golden lampstands,"
+    },
+    {
+     "v": 13,
+     "text": "and among the lampstands one like a son of man, clothed in a robe reaching his feet, with a golden sash around his chest.{k}"
+    },
+    {
+     "v": 14,
+     "text": "White was his head, and his hair white as wool, as white as snow; his eyes were a fiery flame;{l}"
+    },
+    {
+     "v": 15,
+     "text": "his feet shone like fine bronze glowing in a furnace, and his voice roared like a flood of many waters.{m}"
+    },
+    {
+     "v": 16,
+     "text": "In his right hand he held seven stars, and from his mouth came out a sharp two-edged sword, and his face was like the sun shining in its strength."
+    },
+    {
+     "v": 17,
+     "text": "At the sight of him I dropped at his feet like a dead man. He placed his right hand on me and said, “Stop being afraid. I am the first and the last,{n}"
+    },
+    {
+     "v": 18,
+     "text": "and the Living One. I became dead, yet see, I am alive for all the ages, and I hold the keys of Death and of Hades.{o}"
+    },
+    {
+     "v": 19,
+     "text": "So write what you have seen, both what is now and what is to happen after this."
+    },
+    {
+     "v": 20,
+     "text": "This is the secret of the seven stars that you saw at my right hand, and of the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches themselves.{p}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Revelation: Greek *apokalypsis*, “unveiling.” *Jesus*: Greek form of the Hebrew *Yeshuaʿ*, “Yahweh saves.” *John*: from the Hebrew *Yoḥanan*, “Yahweh is gracious.” *Slaves*: Greek *douloi*, “slaves,” “servants.”"
+    },
+    {
+     "m": "b",
+     "ref": "1:3",
+     "text": "Happy: or “blessed”; so in the other six beatitudes of the book (14:13; 16:15; 19:9; 20:6; 22:7, 14). *Reads aloud*: that is, in the assembly."
+    },
+    {
+     "m": "c",
+     "ref": "1:4",
+     "text": "Asia: the Roman province in the west of what is now Turkey. *The one who is*: compare Exod 3:14 in the Greek Old Testament, where God names himself. *Seven spirits*: perhaps the Holy Spirit in his fullness (compare Isa 11:2; Zech 4:2–10), or seven angelic beings."
+    },
+    {
+     "m": "d",
+     "ref": "1:5",
+     "text": "Ps 89:27, 37 (Greek Old Testament 88:28, 38). *Set us free*: later manuscripts read “washed.” *Our sins*: Westcott and Hort bracket “our.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:6",
+     "text": "Exod 19:6. *Forever and ever*: literally “to the ages of the ages”; so throughout."
+    },
+    {
+     "m": "f",
+     "ref": "1:7",
+     "text": "Dan 7:13; Zech 12:10–14."
+    },
+    {
+     "m": "g",
+     "ref": "1:8",
+     "text": "Alpha … Omega: the first and last letters of the Greek alphabet; compare 21:6; 22:13. Later manuscripts add “the beginning and the end.” *The Lord God … the Almighty*: in the Greek Old Testament *kyrios ho theos ho pantokratōr* renders Hebrew *Yahweh ʾElohe tsevaʾot*, “Yahweh, God of Armies” (for example Amos 3:13; 4:13)."
+    },
+    {
+     "m": "h",
+     "ref": "1:9",
+     "text": "Brother: Greek *adelphos*; the plural *adelphoi* in this book includes sisters. *Patmos*: a small island in the Aegean Sea, about 37 miles (60 km) southwest of Miletus."
+    },
+    {
+     "m": "i",
+     "ref": "1:10",
+     "text": "In the Spirit: or “in spirit,” that is, in a prophetic trance. *The Lord’s day*: Greek *kyriakē hēmera*, probably Sunday."
+    },
+    {
+     "m": "j",
+     "ref": "1:11",
+     "text": "The seven cities lie on a circular road in the province of Asia. *Ephesus*: perhaps “desirable.” *Smyrna*: “myrrh.” *Pergamum*: perhaps “citadel.” *Thyatira*: of uncertain meaning. *Sardis*: of uncertain meaning. *Philadelphia*: “brotherly love,” named after King Attalus II Philadelphus. *Laodicea*: “justice of the people,” named after Laodice, a Seleucid queen. Later manuscripts add at the start of the verse “I am the Alpha and the Omega, the first and the last.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:13",
+     "text": "Son of man: compare Dan 7:13; 10:5–6."
+    },
+    {
+     "m": "l",
+     "ref": "1:14",
+     "text": "Compare Dan 7:9."
+    },
+    {
+     "m": "m",
+     "ref": "1:15",
+     "text": "Fine bronze: Greek *chalkolibanon*, a word not found before this book, apparently a fine alloy of bronze. Compare Ezek 1:24; 43:2."
+    },
+    {
+     "m": "n",
+     "ref": "1:17",
+     "text": "Compare Isa 44:6; 48:12."
+    },
+    {
+     "m": "o",
+     "ref": "1:18",
+     "text": "Hades: the Greek name for the realm of the dead. Later manuscripts add “Amen.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:20",
+     "text": "Angels: or “messengers”; the Greek word *angelos* means both."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    8,
+    12,
+    18
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“To the angel of the church in Ephesus, write: ¶‘This is what is said by the one who holds the seven stars in his right hand, who walks among the seven golden lampstands:"
+    },
+    {
+     "v": 2,
+     "text": "I know your works, your toil and your endurance, and that you cannot bear evil people. You have tested those who call themselves apostles but are not, and you have found them to be liars."
+    },
+    {
+     "v": 3,
+     "text": "You have endurance, and you have borne up for my name’s sake, and you have not grown weary."
+    },
+    {
+     "v": 4,
+     "text": "But I hold this against you, that you have left the love you had at first."
+    },
+    {
+     "v": 5,
+     "text": "Call to mind, then, the height you fell from; turn back, and act as you did in the beginning. Otherwise I am coming to you, and unless you turn back I will take your lampstand away from where it stands."
+    },
+    {
+     "v": 6,
+     "text": "Yet this you have in your favor: you hate the works of the Nicolaitans, which I also hate.{a}"
+    },
+    {
+     "v": 7,
+     "text": "Whoever has ears, let him hear what the Spirit is saying to the churches. To the victor I will give the right to eat of the tree of life that stands in God’s paradise.’{b}"
+    },
+    {
+     "v": 8,
+     "text": "“To the angel of the church in Smyrna, write: ¶‘This is what is said by the first and the last, who was dead and came to life:"
+    },
+    {
+     "v": 9,
+     "text": "I know your distress and your poverty (yet you are rich), and the slander of those who say they are Jews and are not, but are a synagogue of Satan.{c}"
+    },
+    {
+     "v": 10,
+     "text": "Have no fear of what you are about to suffer. Look, the devil is going to throw some of you into prison so that you may be tested, and for ten days you will have distress. Be faithful to death, and I will give you the crown of life.{d}"
+    },
+    {
+     "v": 11,
+     "text": "Whoever has ears, let him hear what the Spirit is saying to the churches. The victor will suffer no harm at all from the second death.’"
+    },
+    {
+     "v": 12,
+     "text": "“To the angel of the church in Pergamum, write: ¶‘This is what is said by the one who has the sharp two-edged sword:"
+    },
+    {
+     "v": 13,
+     "text": "I know where you make your home: where Satan has his throne. Even so you cling to my name, and you did not disown your faith in me, not even in the days of Antipas, my faithful witness, who was put to death in your city, where Satan makes his home.{e}"
+    },
+    {
+     "v": 14,
+     "text": "Still, I have a few things against you. Some among you cling to what Balaam taught when he instructed Balak to set a trap for the Israelites, so that they ate meat offered to idols and practiced sexual immorality.{f}"
+    },
+    {
+     "v": 15,
+     "text": "So you too have some who hold the teaching of the Nicolaitans in the same way."
+    },
+    {
+     "v": 16,
+     "text": "So turn back! Otherwise I am coming to you quickly, and I will fight those people with the sword that comes from my mouth."
+    },
+    {
+     "v": 17,
+     "text": "Whoever has an ear, let that person hear what the Spirit is saying to the churches. To the conqueror I will give a portion of the hidden manna, and I will give a white pebble, and on the pebble a new name inscribed, which nobody knows apart from the one who gets it.’{g}"
+    },
+    {
+     "v": 18,
+     "text": "“To the angel of the church in Thyatira, write: ¶‘This is what is said by the Son of God, who has eyes like a flame of fire and feet like burnished bronze:{h}"
+    },
+    {
+     "v": 19,
+     "text": "I know your works, your love and faith and service and endurance, and that your latest works are greater than the first."
+    },
+    {
+     "v": 20,
+     "text": "But I hold this against you: you tolerate the woman Jezebel, who calls herself a prophetess and teaches and misleads my slaves to commit sexual immorality and to eat food sacrificed to idols.{i}"
+    },
+    {
+     "v": 21,
+     "text": "I gave her time to repent, but she refuses to repent of her immorality."
+    },
+    {
+     "v": 22,
+     "text": "Look, I am throwing her onto a sickbed, and those who commit adultery with her into great distress, unless they repent of her works.{j}"
+    },
+    {
+     "v": 23,
+     "text": "Her children I will strike with death, and every church will come to know that I am he who probes the inner self and the heart, and that I will repay each one of you as your deeds deserve.{k}"
+    },
+    {
+     "v": 24,
+     "text": "Now I speak to the others in Thyatira, all who do not follow this teaching and have not learned the so-called deep things of Satan: on you I am putting no further burden;{l}"
+    },
+    {
+     "v": 25,
+     "text": "just keep a firm grip on what you have until I arrive."
+    },
+    {
+     "v": 26,
+     "text": "To the one who conquers and keeps my works to the end I will give authority over the nations,"
+    },
+    {
+     "v": 27,
+     "text": "and he will shepherd them with an iron rod, as clay pots are shattered, just as I have received authority from my Father;{m}"
+    },
+    {
+     "v": 28,
+     "text": "and I will give him the morning star."
+    },
+    {
+     "v": 29,
+     "text": "Let whoever has ears hear what the Spirit says to the churches.’"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:6",
+     "text": "Nicolaitans: a group otherwise known only from later reports; the name may mean “conqueror of the people.” Compare verse 15."
+    },
+    {
+     "m": "b",
+     "ref": "2:7",
+     "text": "Gen 2:9; 3:22. *Paradise*: a Persian word for a walled garden or park, used in the Greek Old Testament for the garden of Eden."
+    },
+    {
+     "m": "c",
+     "ref": "2:9",
+     "text": "Satan: Hebrew *satan*, “adversary,” “accuser.” Later manuscripts add “your works” after “I know.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:10",
+     "text": "Devil: Greek *diabolos*, “slanderer.”"
+    },
+    {
+     "m": "e",
+     "ref": "2:13",
+     "text": "Antipas: “in place of the father,” a shortened form of Antipater; nothing more is known of him. *My faithful one*: Westcott and Hort bracket the second “my.” *Satan’s throne*: perhaps the great altar of Zeus, the temple of Augustus, or the city as a center of the imperial cult."
+    },
+    {
+     "m": "f",
+     "ref": "2:14",
+     "text": "Num 25:1–3; 31:16. *Balaam*: perhaps “devourer.” *Balak*: “devastator.” *Israel*: “God strives” or “he strives with God” (Gen 32:28)."
+    },
+    {
+     "m": "g",
+     "ref": "2:17",
+     "text": "Manna: Exod 16:31–35. *Pebble*: Greek *psēphos*, a small smooth stone. Its meaning here is uncertain; white pebbles were used in antiquity as tokens of acquittal, admission or membership."
+    },
+    {
+     "m": "h",
+     "ref": "2:18",
+     "text": "Eyes: Westcott and Hort bracket “his” before “eyes.”"
+    },
+    {
+     "m": "i",
+     "ref": "2:20",
+     "text": "Jezebel: the name of King Ahab’s wife (1 Kgs 16:31; 21:25–26; 2 Kgs 9:22), used here of a prophetess in Thyatira; perhaps “where is the prince?” *The woman*: many manuscripts read “your wife.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:22",
+     "text": "Her works: some manuscripts read “their works.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:23",
+     "text": "Strike with death: literally “kill with death,” perhaps “with plague.” *Minds*: literally “kidneys,” regarded as the seat of the feelings. Compare Jer 17:10."
+    },
+    {
+     "m": "l",
+     "ref": "2:24",
+     "text": "Compare Acts 15:28."
+    },
+    {
+     "m": "m",
+     "ref": "2:27",
+     "text": "Ps 2:8–9 in the Greek Old Testament. *Shepherd*: or “rule.”"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1,
+    7,
+    14
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“To the angel of the church in Sardis, write: ¶‘These are the words of him who holds God’s seven spirits and the seven stars: I know what you have done. You are reputed to be alive, yet you are dead."
+    },
+    {
+     "v": 2,
+     "text": "Wake up! Shore up what is left, for it is on the point of dying. I have not found what you have done to be complete before my God."
+    },
+    {
+     "v": 3,
+     "text": "So call to mind what you received and heard. Hold on to it and turn back. If you stay asleep, I will come like a thief, and you will have no idea at which hour I will be upon you."
+    },
+    {
+     "v": 4,
+     "text": "Still, there are a few people in Sardis whose clothing is unstained; they will walk at my side dressed in white, for they deserve it.{a}"
+    },
+    {
+     "v": 5,
+     "text": "The one who conquers will be clothed like them in white garments, and I will never blot his name out of the book of life; I will acknowledge his name before my Father and before his angels."
+    },
+    {
+     "v": 6,
+     "text": "Let whoever has ears hear what the Spirit says to the churches.’"
+    },
+    {
+     "v": 7,
+     "text": "“To the angel of the church in Philadelphia, write: ¶‘This is what is said by the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens:{b}"
+    },
+    {
+     "v": 8,
+     "text": "I know what you have done. I have placed in front of you a door standing open, which nobody can shut. Your strength is small, yet you have kept my word and not disowned my name."
+    },
+    {
+     "v": 9,
+     "text": "As for those from Satan’s synagogue, who call themselves Jews though they are not, but lie, I will see to it that they come and bow low at your feet and acknowledge that I have loved you.{c}"
+    },
+    {
+     "v": 10,
+     "text": "Because you have kept my word about endurance, I will also keep you from the hour of trial that is coming on the whole world, to test those who live on the earth."
+    },
+    {
+     "v": 11,
+     "text": "I am coming quickly. Keep a firm grip on what you have, so that nobody robs you of your crown."
+    },
+    {
+     "v": 12,
+     "text": "The one who conquers I will make a pillar in the temple of my God, and he will never go out of it again. I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down out of heaven from my God, and my own new name.{d}"
+    },
+    {
+     "v": 13,
+     "text": "Let whoever has ears hear what the Spirit says to the churches.’"
+    },
+    {
+     "v": 14,
+     "text": "“To the angel of the church in Laodicea, write: ¶‘This is what is said by the Amen, the faithful and true witness, the beginning of God’s creation:{e}"
+    },
+    {
+     "v": 15,
+     "text": "I know your works: you are neither cold nor hot. I wish you were cold or hot!"
+    },
+    {
+     "v": 16,
+     "text": "Since you are lukewarm, neither hot nor cold, I am going to vomit you from my mouth.{f}"
+    },
+    {
+     "v": 17,
+     "text": "You keep saying, “I am rich; I have grown wealthy; there is nothing I lack.” You do not realize that it is you who are miserable and pitiful, poor and blind and naked.{g}"
+    },
+    {
+     "v": 18,
+     "text": "My advice to you is this: buy from me gold purified in the fire, to make you rich; white clothes to wear, so that your shameful nakedness is not exposed; and ointment to rub on your eyes, so that you can see.{h}"
+    },
+    {
+     "v": 19,
+     "text": "All whom I love I reprove and discipline. So be earnest, and repent.{i}"
+    },
+    {
+     "v": 20,
+     "text": "Look, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me."
+    },
+    {
+     "v": 21,
+     "text": "I will grant the conqueror a seat beside me on my throne, just as I conquered and took my seat beside my Father on his throne."
+    },
+    {
+     "v": 22,
+     "text": "Let whoever has ears hear what the Spirit says to the churches.’”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:4",
+     "text": "People: literally “names.”"
+    },
+    {
+     "m": "b",
+     "ref": "3:7",
+     "text": "Isa 22:22. *David*: “beloved.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:9",
+     "text": "Compare Isa 45:14; 49:23; 60:14; 43:4."
+    },
+    {
+     "m": "d",
+     "ref": "3:12",
+     "text": "Jerusalem: perhaps “foundation of peace.”"
+    },
+    {
+     "m": "e",
+     "ref": "3:14",
+     "text": "Amen: a Hebrew word meaning “firm,” “true”; compare Isa 65:16. *Beginning*: or “origin,” “ruler.” *True*: Westcott and Hort bracket the article before this word."
+    },
+    {
+     "m": "f",
+     "ref": "3:16",
+     "text": "Laodicea’s water was piped in from a distance and arrived tepid, unlike the hot springs of nearby Hierapolis and the cold water of Colossae."
+    },
+    {
+     "m": "g",
+     "ref": "3:17",
+     "text": "Compare Hos 12:8."
+    },
+    {
+     "m": "h",
+     "ref": "3:18",
+     "text": "Laodicea was a banking center, known for its black wool and for a medical school associated with an eye remedy."
+    },
+    {
+     "m": "i",
+     "ref": "3:19",
+     "text": "Compare Prov 3:12."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After these things I looked, and there in heaven stood an open door. The first voice that I had heard, which sounded like a trumpet speaking with me, said, “Climb up here, and I will show you what has to happen after these things.”"
+    },
+    {
+     "v": 2,
+     "text": "At once I was in the Spirit. There in heaven stood a throne, with someone seated on the throne."
+    },
+    {
+     "v": 3,
+     "text": "The one seated there looked like jasper and carnelian in appearance, and around the throne was a rainbow resembling an emerald.{a}"
+    },
+    {
+     "v": 4,
+     "text": "Encircling the throne stood twenty-four other thrones, and on them sat twenty-four elders dressed in white, wearing crowns of gold."
+    },
+    {
+     "v": 5,
+     "text": "Out of the throne burst lightning, rumbling and thunder, while in front of it seven fiery torches were burning, the seven spirits of God;{b}"
+    },
+    {
+     "v": 6,
+     "text": "and before the throne there is something like a sea of glass, like crystal. ¶In the center, around the throne, are four living creatures, full of eyes in front and behind.{c}"
+    },
+    {
+     "v": 7,
+     "text": "The first living creature is like a lion, the second living creature like an ox, the third living creature has a face like a human being, and the fourth living creature is like a flying eagle.{d}"
+    },
+    {
+     "v": 8,
+     "text": "Each of the four living creatures has six wings and is covered with eyes, round about and underneath, and without rest, by day or by night, they keep saying,\n“Holy, holy, holy,\nLord God Almighty,\nwho was and who is and who is coming!”{e}"
+    },
+    {
+     "v": 9,
+     "text": "And whenever the living creatures give glory and honor and thanks to the one seated on the throne, who lives forever and ever,"
+    },
+    {
+     "v": 10,
+     "text": "the twenty-four elders will fall down before the one seated on the throne and bow to the one who lives for all the ages; they will throw their crowns down before the throne and say,"
+    },
+    {
+     "v": 11,
+     "text": "“You are worthy, our Lord and God,\nto take the glory, the honor and the power,\nbecause you made all things;\nit was through your will that they existed and were made.”{f}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:3",
+     "text": "Jasper: in antiquity the name covered several precious stones, perhaps here a clear, bright stone (compare 21:11). *Carnelian*: Greek *sardion*, a red stone named after Sardis."
+    },
+    {
+     "m": "b",
+     "ref": "4:5",
+     "text": "Rumbling: literally “voices.” Compare Exod 19:16."
+    },
+    {
+     "m": "c",
+     "ref": "4:6",
+     "text": "In the center, around the throne: the meaning of the Greek is uncertain; perhaps “in the middle of each side of the throne.” Compare Ezek 1:5–25; 10:12."
+    },
+    {
+     "m": "d",
+     "ref": "4:7",
+     "text": "Compare Ezek 1:10."
+    },
+    {
+     "m": "e",
+     "ref": "4:8",
+     "text": "Isa 6:2–3, where the Hebrew has “Yahweh of Armies.”"
+    },
+    {
+     "m": "f",
+     "ref": "4:11",
+     "text": "Our Lord and God: a title also claimed by the emperor Domitian, according to Suetonius."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1,
+    6
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the right hand of him who sat on the throne I then saw a scroll with writing inside and on the reverse, sealed up with seven seals.{a}"
+    },
+    {
+     "v": 2,
+     "text": "And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and break its seals?”"
+    },
+    {
+     "v": 3,
+     "text": "Yet nobody in heaven, nobody on earth, nobody beneath the earth could open the scroll or even look inside."
+    },
+    {
+     "v": 4,
+     "text": "And I wept and wept, because no one was found worthy to open the scroll or to look into it.{b}"
+    },
+    {
+     "v": 5,
+     "text": "But one of the elders told me, “Stop weeping. See, the lion from Judah’s tribe, David’s root, has won the victory; he can open the scroll with its seven seals.”{c}"
+    },
+    {
+     "v": 6,
+     "text": "And I saw, between the throne and the four living creatures and among the elders, a Lamb standing as though it had been slaughtered, with seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.{d}"
+    },
+    {
+     "v": 7,
+     "text": "The Lamb came and took the scroll out of the right hand of him who sat on the throne."
+    },
+    {
+     "v": 8,
+     "text": "And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp and golden bowls full of incense, which are the prayers of the saints."
+    },
+    {
+     "v": 9,
+     "text": "And a new song is on their lips:\n“Worthy are you to receive the scroll\nand to unseal it,\nsince you were slain, and at the cost of your blood you purchased for God\nthose of every tribe and tongue, of every people and nation,{e}"
+    },
+    {
+     "v": 10,
+     "text": "and you made them into a kingdom, priests serving our God,\nand they reign over the earth.”{f}"
+    },
+    {
+     "v": 11,
+     "text": "Then I looked, and I heard the voice of many angels around the throne and the living creatures and the elders, numbering myriads of myriads and thousands of thousands,{g}"
+    },
+    {
+     "v": 12,
+     "text": "saying in a loud voice,\n“Worthy is the slaughtered Lamb\nto receive power, riches, wisdom and strength,\nhonor, glory and blessing!”"
+    },
+    {
+     "v": 13,
+     "text": "Then every created thing in heaven, on earth, beneath the earth and on the sea, everything in them, I heard them all saying,\n“To him who sits on the throne, and to the Lamb,\nbe blessing and honor, glory and dominion,\nto the ages of the ages!”{h}"
+    },
+    {
+     "v": 14,
+     "text": "And the four living creatures said, “Amen!” And the elders fell down and worshiped.{i}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "Compare Ezek 2:9–10; Isa 29:11."
+    },
+    {
+     "m": "b",
+     "ref": "5:4",
+     "text": "I: Westcott and Hort bracket the emphatic pronoun."
+    },
+    {
+     "m": "c",
+     "ref": "5:5",
+     "text": "Gen 49:9–10; Isa 11:1, 10. *Judah*: “praised” (Gen 29:35)."
+    },
+    {
+     "m": "d",
+     "ref": "5:6",
+     "text": "Seven spirits: Westcott and Hort bracket “seven.” Compare Isa 53:7; Zech 4:10."
+    },
+    {
+     "m": "e",
+     "ref": "5:9",
+     "text": "Purchased for God: some manuscripts read “purchased us for God,” and Alexandrinus as reported lacks “for God.” *Those of every tribe*: literally “from every tribe.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:10",
+     "text": "They reign: some manuscripts read “they will reign.” Later manuscripts read “made us … and we will reign.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:11",
+     "text": "Myriads of myriads: literally “ten thousands of ten thousands”; compare Dan 7:10."
+    },
+    {
+     "m": "h",
+     "ref": "5:13",
+     "text": "On the sea: Westcott and Hort bracket a Greek verb after these words."
+    },
+    {
+     "m": "i",
+     "ref": "5:14",
+     "text": "Later manuscripts add “twenty-four” before “elders” and “him who lives forever and ever” after “worshiped.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1,
+    3,
+    5,
+    7,
+    9,
+    12
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I watched as the Lamb broke open one of the seven seals, and I heard one of the four living creatures cry out in a voice like a thunderclap, “Come!”{a}"
+    },
+    {
+     "v": 2,
+     "text": "I looked, and there before me was a white horse, and its rider held a bow. He received a crown, and away he rode, a conqueror bent on conquest."
+    },
+    {
+     "v": 3,
+     "text": "When he opened the second seal, I heard the second living creature say, “Come!”"
+    },
+    {
+     "v": 4,
+     "text": "Then another horse came out, red as fire, and its rider was given leave to take away peace from the earth and make people butcher one another; a huge sword was handed to him.{b}"
+    },
+    {
+     "v": 5,
+     "text": "When the Lamb broke the third seal, I heard the third of the living creatures say, “Come!” I looked, and there was a black horse, and the one sitting on it held a pair of scales in his hand."
+    },
+    {
+     "v": 6,
+     "text": "And from among the four living creatures came what sounded like a voice: “A quart of wheat for a day’s pay, three quarts of barley for a day’s pay, but leave the oil and the wine unharmed!”{c}"
+    },
+    {
+     "v": 7,
+     "text": "When he opened the fourth seal, I heard the voice of the fourth living creature say, “Come!”"
+    },
+    {
+     "v": 8,
+     "text": "I looked, and there before me was a horse the color of a corpse, and its rider was named Death, with Hades following close behind. Power was given them over a quarter of the earth, to kill by the sword, by famine, by disease, and by earth’s wild animals.{d}"
+    },
+    {
+     "v": 9,
+     "text": "When he opened the fifth seal, I saw under the altar the souls of those who had been slaughtered for the word of God and for the testimony they had borne."
+    },
+    {
+     "v": 10,
+     "text": "They cried out with a loud voice, “How long, holy and true Master, before you judge and avenge our blood on those who live on the earth?”{e}"
+    },
+    {
+     "v": 11,
+     "text": "Each of them received a white robe, and they were told to wait quietly a short time more, until the full number was reached of their fellow slaves and brothers who were to be put to death just as they themselves had been.{f}"
+    },
+    {
+     "v": 12,
+     "text": "When he opened the sixth seal, I looked, and there was a great earthquake, and the sun became black as sackcloth made of hair, and the whole moon became like blood,{g}"
+    },
+    {
+     "v": 13,
+     "text": "Down to the earth fell the stars of heaven, like unripe figs flung from a fig tree when a strong wind shakes it.{h}"
+    },
+    {
+     "v": 14,
+     "text": "The sky was pulled apart like a scroll rolling itself up, and every mountain and island was shifted out of its place."
+    },
+    {
+     "v": 15,
+     "text": "Earth’s kings, its great men and its commanders, the wealthy and the mighty, every slave and every free person hid in caves and among mountain crags,{i}"
+    },
+    {
+     "v": 16,
+     "text": "and they say to the mountains and the rocks, “Fall on us, and conceal us from the face of the one who sits on the throne and from the anger of the Lamb,{j}"
+    },
+    {
+     "v": 17,
+     "text": "because the great day of their wrath has come, and who is able to stand?”{k}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "Come: later manuscripts read “Come and see”; so also in verses 3, 5 and 7."
+    },
+    {
+     "m": "b",
+     "ref": "6:4",
+     "text": "Was given leave: Westcott and Hort bracket “to him” here and “from” before “the earth.”"
+    },
+    {
+     "m": "c",
+     "ref": "6:6",
+     "text": "Quart: Greek *choinix*, a dry measure of about 1 liter (just over a quart), roughly one person’s daily ration of grain. *A day’s wage*: Greek *dēnarion*, a Roman silver coin, the usual daily wage of a laborer (Matt 20:2). The prices are many times the normal rate, signifying famine."
+    },
+    {
+     "m": "d",
+     "ref": "6:8",
+     "text": "The color of a corpse: Greek *chlōros*, “pale green.” *Pestilence*: literally “death.” Compare Ezek 14:21. Westcott and Hort bracket “it” after “its rider” and the article before “Death.”"
+    },
+    {
+     "m": "e",
+     "ref": "6:10",
+     "text": "Master: Greek *despotēs*."
+    },
+    {
+     "m": "f",
+     "ref": "6:11",
+     "text": "Brothers: Greek *adelphoi*, which includes sisters. *Until the number was complete*: or “until their fellow slaves and brothers had completed their course.”"
+    },
+    {
+     "m": "g",
+     "ref": "6:12",
+     "text": "Compare Joel 2:10, 31; Isa 50:3."
+    },
+    {
+     "m": "h",
+     "ref": "6:13",
+     "text": "Compare Isa 34:4."
+    },
+    {
+     "m": "i",
+     "ref": "6:15",
+     "text": "Commanders: Greek *chiliarchoi*, “commanders of a thousand,” military tribunes."
+    },
+    {
+     "m": "j",
+     "ref": "6:16",
+     "text": "Hos 10:8; compare Luke 23:30."
+    },
+    {
+     "m": "k",
+     "ref": "6:17",
+     "text": "Their wrath: some manuscripts read “his wrath.” Compare Joel 2:11; Mal 3:2."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1,
+    9,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth so that no wind would blow on the earth or the sea or any tree."
+    },
+    {
+     "v": 2,
+     "text": "Next I saw another angel rising from the east with the seal of the living God, and he shouted to the four angels who had been granted power to damage land and sea,"
+    },
+    {
+     "v": 3,
+     "text": "He said, “Do no damage to the land, the sea or the trees until we have put the seal on the foreheads of the slaves of our God.”{a}"
+    },
+    {
+     "v": 4,
+     "text": "And I heard the number of those who were sealed, a hundred and forty-four thousand, sealed out of every tribe of the people of Israel:"
+    },
+    {
+     "v": 5,
+     "text": "Out of Judah’s tribe twelve thousand sealed; out of Reuben’s, twelve thousand; out of Gad’s, twelve thousand;{b}"
+    },
+    {
+     "v": 6,
+     "text": "out of Asher’s, twelve thousand; out of Naphtali’s, twelve thousand; out of Manasseh’s, twelve thousand;{c}"
+    },
+    {
+     "v": 7,
+     "text": "out of Simeon’s, twelve thousand; out of Levi’s, twelve thousand; out of Issachar’s, twelve thousand;{d}"
+    },
+    {
+     "v": 8,
+     "text": "out of Zebulun’s, twelve thousand; out of Joseph’s, twelve thousand; out of Benjamin’s, twelve thousand sealed.{e}"
+    },
+    {
+     "v": 9,
+     "text": "After these things I looked, and there stood a great multitude that no one could number, drawn from every nation, tribe, people and language. They stood before the throne and before the Lamb, wearing white robes and holding palm branches."
+    },
+    {
+     "v": 10,
+     "text": "And with a great shout they cry,\n“Salvation is the gift of our God,\nwho sits upon the throne,\nand of the Lamb!”"
+    },
+    {
+     "v": 11,
+     "text": "All the angels were standing in a circle about the throne, the elders and the four living creatures; and before the throne they fell face down and worshiped God,"
+    },
+    {
+     "v": 12,
+     "text": "saying,\n“Amen! Blessing and glory and wisdom\nand thanksgiving and honor\nand power and might\nbe to our God forever and ever! Amen.”{f}"
+    },
+    {
+     "v": 13,
+     "text": "Then one of the elders addressed me, saying, “These who are clothed in white robes, who are they, and where have they come from?”"
+    },
+    {
+     "v": 14,
+     "text": "I said to him, “My lord, you know.” And he said to me, “These are the ones who are coming out of the great distress. They have washed their robes and made them white in the blood of the Lamb.{g}"
+    },
+    {
+     "v": 15,
+     "text": "That is why they stand before God’s throne\nand worship him in his temple by day and by night,\nand he who sits on the throne will spread his tent over them.{h}"
+    },
+    {
+     "v": 16,
+     "text": "Never again will they be hungry, never again thirsty;\nno sun will beat down on them,\nno burning heat,{i}"
+    },
+    {
+     "v": 17,
+     "text": "for the Lamb who is at the throne’s center will be their shepherd;\nhe will guide them to fountains of life-giving water,\nand every tear God will wipe from their eyes.”{j}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:3",
+     "text": "Compare Ezek 9:4."
+    },
+    {
+     "m": "b",
+     "ref": "7:5",
+     "text": "Reuben: “see, a son” (Gen 29:32). *Gad*: “fortune” (Gen 30:11). The list differs from the Old Testament lists of the tribes: Dan is missing, and Joseph and his son Manasseh both appear."
+    },
+    {
+     "m": "c",
+     "ref": "7:6",
+     "text": "*Asher*: “happy” (Gen 30:13). *Naphtali*: “my wrestling” (Gen 30:8). *Manasseh*: “making to forget” (Gen 41:51)."
+    },
+    {
+     "m": "d",
+     "ref": "7:7",
+     "text": "*Simeon*: “he has heard” (Gen 29:33). *Levi*: “joined” (Gen 29:34). *Issachar*: “there is reward” (Gen 30:18)."
+    },
+    {
+     "m": "e",
+     "ref": "7:8",
+     "text": "*Zebulun*: “honor” or “dwelling” (Gen 30:20). *Joseph*: “may he add” (Gen 30:24). *Benjamin*: “son of the right hand” (Gen 35:18)."
+    },
+    {
+     "m": "f",
+     "ref": "7:12",
+     "text": "Amen: Westcott and Hort bracket the final “Amen.”"
+    },
+    {
+     "m": "g",
+     "ref": "7:14",
+     "text": "Compare Dan 12:1."
+    },
+    {
+     "m": "h",
+     "ref": "7:15",
+     "text": "Spread his tent over them: that is, shelter them with his presence."
+    },
+    {
+     "m": "i",
+     "ref": "7:16",
+     "text": "Isa 49:10."
+    },
+    {
+     "m": "j",
+     "ref": "7:17",
+     "text": "Ps 23:1–2; Isa 25:8. *Life-giving water*: literally “waters of life.”"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    2,
+    6,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When he opened the seventh seal, there was silence in heaven for about half an hour.{a}"
+    },
+    {
+     "v": 2,
+     "text": "And I saw the seven angels who stand before God, and seven trumpets were given to them."
+    },
+    {
+     "v": 3,
+     "text": "Then another angel, holding a golden censer, came and took his place at the altar. Much incense was given to him, to offer along with the prayers of all God’s people upon the golden altar in front of the throne."
+    },
+    {
+     "v": 4,
+     "text": "And the smoke of the incense, with the prayers of the saints, rose before God from the angel’s hand."
+    },
+    {
+     "v": 5,
+     "text": "Then the angel picked up the censer, put into it some fire from the altar, and cast it down upon the land. Thunder rumbled, voices sounded, lightning flashed, and the ground shook.{b}"
+    },
+    {
+     "v": 6,
+     "text": "The seven angels with the seven trumpets now got ready to blow."
+    },
+    {
+     "v": 7,
+     "text": "The first blew his trumpet, and there came hail and fire mixed with blood, and they were hurled on the earth. A third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.{c}"
+    },
+    {
+     "v": 8,
+     "text": "The second angel sounded, and something like a huge mountain ablaze with fire was cast into the sea; a third of the sea turned to blood,"
+    },
+    {
+     "v": 9,
+     "text": "a third of the sea’s living creatures perished, and a third of the ships were wrecked."
+    },
+    {
+     "v": 10,
+     "text": "The third angel sounded, and down from heaven fell a huge star, flaming like a torch; it fell upon a third of the rivers and upon the springs."
+    },
+    {
+     "v": 11,
+     "text": "The star is called Wormwood. A third of the water turned to wormwood, and many people died of the water, since it had turned bitter.{d}"
+    },
+    {
+     "v": 12,
+     "text": "The fourth angel sounded. A third of the sun was struck, and with it a third of the moon and of the stars, so that a third part of them went dark; a third of the day lost its light, and the night as well."
+    },
+    {
+     "v": 13,
+     "text": "As I watched, I heard an eagle flying high overhead, calling out in a loud voice, “Woe, woe, woe to the earth’s inhabitants, because of the trumpet blasts still to come from the three angels who are about to sound!”{e}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:1",
+     "text": "About half an hour: Greek *hōs hēmiōrion*, “about a half-hour.” The ancient hour was a twelfth of the daylight or of the night, and so varied in length with the season."
+    },
+    {
+     "m": "b",
+     "ref": "8:5",
+     "text": "Compare Ezek 10:2. *Censer*: a pan for carrying burning coals and incense."
+    },
+    {
+     "m": "c",
+     "ref": "8:7",
+     "text": "Compare Exod 9:23–25. *A third of the earth was burned up*: later manuscripts omit these words."
+    },
+    {
+     "m": "d",
+     "ref": "8:11",
+     "text": "Wormwood: a plant with a very bitter taste (Greek *apsinthos*); compare Jer 9:15."
+    },
+    {
+     "m": "e",
+     "ref": "8:13",
+     "text": "Eagle: later manuscripts read “angel.”"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1,
+    12,
+    13,
+    20
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The fifth angel sounded, and I saw a star that had fallen out of heaven to the earth. To it was handed the key to the shaft of the abyss.{a}"
+    },
+    {
+     "v": 2,
+     "text": "It unlocked the shaft of the abyss, and up from the shaft billowed smoke like smoke from a huge furnace, and the sun and the air grew dark with the smoke from the shaft."
+    },
+    {
+     "v": 3,
+     "text": "Out of the smoke locusts swarmed onto the earth, and they were given power like the power that earth’s scorpions have.{b}"
+    },
+    {
+     "v": 4,
+     "text": "They were told to do no damage to the grass of the earth, or to any green plant or tree, but only to those people who lack God’s seal on their foreheads."
+    },
+    {
+     "v": 5,
+     "text": "They were allowed not to kill them but to torment them for five months, and the torment they inflict is like a scorpion’s when it stings someone.{c}"
+    },
+    {
+     "v": 6,
+     "text": "In those days people will look for death and never find it; they will long to die, but death keeps fleeing from them."
+    },
+    {
+     "v": 7,
+     "text": "In appearance the locusts resembled horses made ready for war. They wore on their heads something like golden crowns, and they had faces like human faces.{d}"
+    },
+    {
+     "v": 8,
+     "text": "Their hair was like women’s hair, and their teeth were like lions’ teeth.{e}"
+    },
+    {
+     "v": 9,
+     "text": "They had chests like iron breastplates, and the whir of their wings was like the din of many horse-drawn chariots charging into battle."
+    },
+    {
+     "v": 10,
+     "text": "Their tails are like those of scorpions, with stings, and the power to injure people for five months lies in their tails."
+    },
+    {
+     "v": 11,
+     "text": "Over them as king they have the angel of the abyss, whose name in Hebrew is Abaddon, and in Greek he is called Apollyon.{f}"
+    },
+    {
+     "v": 12,
+     "text": "The first woe is past; two more woes are still to come after this."
+    },
+    {
+     "v": 13,
+     "text": "The sixth angel sounded, and I heard a single voice from the four horns of the golden altar that stands before God,{g}"
+    },
+    {
+     "v": 14,
+     "text": "telling the sixth angel, the one with the trumpet, “Set free the four angels who are held bound at the great river Euphrates.”{h}"
+    },
+    {
+     "v": 15,
+     "text": "So the four angels were set free, who had been kept ready for that hour, day, month and year, to kill a third of humankind.{i}"
+    },
+    {
+     "v": 16,
+     "text": "The number of the mounted troops was two hundred million; I heard what their number was.{j}"
+    },
+    {
+     "v": 17,
+     "text": "This is how the horses and those sitting on them looked to me in the vision: they wore breastplates of fiery red, dark blue and sulfur yellow; the heads of the horses were like the heads of lions, and from their mouths came fire, smoke and sulfur.{k}"
+    },
+    {
+     "v": 18,
+     "text": "These three plagues, the fire and smoke and sulfur pouring from the horses’ mouths, killed a third of humankind."
+    },
+    {
+     "v": 19,
+     "text": "For the horses’ power is in their mouths and in their tails; their tails are like snakes, with heads, and with them they do harm."
+    },
+    {
+     "v": 20,
+     "text": "Still the remainder of humanity, those these plagues had spared, did not repent of what their hands had made. They kept on worshiping demons, and gods of gold and of silver, of bronze, of stone and of wood, gods that are blind and deaf and lame.{l}"
+    },
+    {
+     "v": 21,
+     "text": "Nor did they turn away from their murders, their sorceries, their sexual immorality or their thefts.{m}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "Abyss: Greek *abyssos*, “bottomless,” the deep underworld prison of hostile spirits."
+    },
+    {
+     "m": "b",
+     "ref": "9:3",
+     "text": "Compare Exod 10:12–15; Joel 1–2."
+    },
+    {
+     "m": "c",
+     "ref": "9:5",
+     "text": "Five months: roughly the life span of a locust."
+    },
+    {
+     "m": "d",
+     "ref": "9:7",
+     "text": "Compare Joel 2:4–5."
+    },
+    {
+     "m": "e",
+     "ref": "9:8",
+     "text": "Compare Joel 1:6."
+    },
+    {
+     "m": "f",
+     "ref": "9:11",
+     "text": "Abaddon: Hebrew for “destruction,” a name for the realm of the dead (Job 26:6; Prov 15:11). *Apollyon*: Greek for “destroyer,” perhaps also a play on the name of the god Apollo."
+    },
+    {
+     "m": "g",
+     "ref": "9:13",
+     "text": "Four horns: Westcott and Hort read only “the horns”; many manuscripts add “four.”"
+    },
+    {
+     "m": "h",
+     "ref": "9:14",
+     "text": "Euphrates: the great river of Mesopotamia, the eastern frontier of the Roman world; the name perhaps means “fruitful.”"
+    },
+    {
+     "m": "i",
+     "ref": "9:15",
+     "text": "That hour: not a time of day but the appointed moment; Greek *eis tēn hōran*, “for the hour.” The single article governs all four nouns, pointing to one fixed time."
+    },
+    {
+     "m": "j",
+     "ref": "9:16",
+     "text": "Two hundred million: Greek *dismyriades myriadōn*, “twice ten thousand times ten thousand.”"
+    },
+    {
+     "m": "k",
+     "ref": "9:17",
+     "text": "Dark blue: Greek *hyakinthinos*, the color of the hyacinth, a deep blue or violet. *Sulfur*: Greek *theion*, traditionally “brimstone.”"
+    },
+    {
+     "m": "l",
+     "ref": "9:20",
+     "text": "Compare Ps 115:4–7; 135:15–17; Dan 5:23."
+    },
+    {
+     "m": "m",
+     "ref": "9:21",
+     "text": "Sorceries: Greek *pharmaka*, “drugs,” “potions,” “spells.”"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1,
+    8
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then I saw another mighty angel coming down out of heaven, wrapped in a cloud, with the rainbow over his head. His face was like the sun, and his legs like pillars of fire.{a}"
+    },
+    {
+     "v": 2,
+     "text": "In his hand he held a little scroll, lying open. He planted his right foot on the sea and his left on the land,"
+    },
+    {
+     "v": 3,
+     "text": "and he gave a great shout, like a lion roaring. When he shouted, the seven thunders spoke out with their own voices."
+    },
+    {
+     "v": 4,
+     "text": "After the seven thunders had spoken I was about to write it down, but I heard a voice out of heaven saying, “Put a seal on what the seven thunders have said; do not write it.”{b}"
+    },
+    {
+     "v": 5,
+     "text": "Then the angel whom I had seen standing on the sea and on the land raised his right hand toward heaven"
+    },
+    {
+     "v": 6,
+     "text": "and took an oath by the One who lives to the ages of the ages, the maker of heaven and all it holds, of the earth and all it holds, and of the sea and all it holds: “Time is up; there will be no more waiting.{c}"
+    },
+    {
+     "v": 7,
+     "text": "but in the days when the seventh angel is heard, when he is about to sound his trumpet, the mystery of God will be accomplished, as he announced as good news to his slaves the prophets.”{d}"
+    },
+    {
+     "v": 8,
+     "text": "Then the voice I had heard from heaven spoke to me again: “Go and take the scroll that lies open in the hand of the angel who stands on the sea and on the land.”"
+    },
+    {
+     "v": 9,
+     "text": "So I went to the angel and asked him to give me the little scroll. He told me, “Take it and eat it all. It will turn your stomach bitter, but in your mouth it will taste as sweet as honey.”{e}"
+    },
+    {
+     "v": 10,
+     "text": "I took the little scroll from the angel’s hand and ate it. In my mouth it was sweet as honey, but when I had swallowed it, my stomach turned bitter."
+    },
+    {
+     "v": 11,
+     "text": "Then I was told, “Once more you have to prophesy, concerning many peoples, nations, languages and kings.”{f}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:1",
+     "text": "Legs: literally “feet.”"
+    },
+    {
+     "m": "b",
+     "ref": "10:4",
+     "text": "Compare Dan 8:26; 12:4, 9."
+    },
+    {
+     "m": "c",
+     "ref": "10:6",
+     "text": "Dan 12:7; compare Deut 32:40. *Of the sea and all it holds*: Westcott and Hort bracket these words. *No more waiting*: literally “time will no longer be.”"
+    },
+    {
+     "m": "d",
+     "ref": "10:7",
+     "text": "Compare Amos 3:7."
+    },
+    {
+     "m": "e",
+     "ref": "10:9",
+     "text": "Ezek 2:8–3:3."
+    },
+    {
+     "m": "f",
+     "ref": "10:11",
+     "text": "Concerning: or “against.”"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1,
+    14,
+    15,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I was given a reed, like a staff, and was told, “Get up and measure the temple of God and the altar, and count those who worship there.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Omit the courtyard outside the temple and do not measure it, because it has been given to the nations; for forty-two months they will tread down the holy city.{b}"
+    },
+    {
+     "v": 3,
+     "text": "And I will give power to my two witnesses, and dressed in sackcloth they will prophesy for twelve hundred and sixty days.”{c}"
+    },
+    {
+     "v": 4,
+     "text": "These are the two olive trees and the two lampstands that stand before the Lord of the earth.{d}"
+    },
+    {
+     "v": 5,
+     "text": "If anyone intends to harm them, fire comes out of their mouths and devours their enemies; anyone who intends to harm them must die in this way.{e}"
+    },
+    {
+     "v": 6,
+     "text": "They have power to shut up the sky, so that no rain falls during the days of their prophesying, and they have power over the waters, to turn them into blood, and to strike the earth with every kind of plague, as often as they wish.{f}"
+    },
+    {
+     "v": 7,
+     "text": "When they have completed their testimony, the beast rising from the abyss will wage war against them, defeat them and put them to death.{g}"
+    },
+    {
+     "v": 8,
+     "text": "Their corpses will lie in the main street of the great city, which is called, in prophetic language, Sodom and Egypt, where their Lord too was crucified.{h}"
+    },
+    {
+     "v": 9,
+     "text": "For three and a half days people from every people, tribe, language and nation gaze at their corpses and refuse to let them be laid in a tomb."
+    },
+    {
+     "v": 10,
+     "text": "Those who live on the earth gloat over them and celebrate and exchange gifts, because these two prophets had tormented the inhabitants of the earth."
+    },
+    {
+     "v": 11,
+     "text": "After three and a half days, however, a life-giving breath from God went into them; they rose to their feet, and those who saw them were seized with great fear.{i}"
+    },
+    {
+     "v": 12,
+     "text": "Then they heard a loud voice from heaven calling to them, “Come up here!” And they went up to heaven in the cloud, while their enemies watched them.{j}"
+    },
+    {
+     "v": 13,
+     "text": "At that very hour there was a great earthquake; a tenth of the city fell, and seven thousand people were killed in the earthquake. The survivors were terrified and gave glory to the God of heaven.{k}"
+    },
+    {
+     "v": 14,
+     "text": "The second woe is past; look, the third woe is coming quickly."
+    },
+    {
+     "v": 15,
+     "text": "The seventh angel sounded, and there were loud voices in heaven, saying,\n“The kingdom of the world has become\nthe kingdom of our Lord and of his Christ,\nand he will reign forever and ever.”{l}"
+    },
+    {
+     "v": 16,
+     "text": "Then the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God,{m}"
+    },
+    {
+     "v": 17,
+     "text": "and they said,\n“Lord God Almighty, we thank you,\nyou who are and who were,\nbecause you have taken up your mighty power\nand assumed your reign.{n}"
+    },
+    {
+     "v": 18,
+     "text": "Furious were the nations,\nand now your anger has arrived,\nthe moment for judging the dead,\nfor paying their reward to your slaves the prophets,\nto the saints, and to all who revere your name,\nthe lowly and the great alike,\nand for ruining the ruiners of the earth.”{o}"
+    },
+    {
+     "v": 19,
+     "text": "Then the temple of God in heaven was thrown open, and inside it the ark of his covenant came into view, and there came lightning and rumbling and thunder, an earthquake and a great hailstorm."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:1",
+     "text": "Reed: a measuring rod; compare Ezek 40:3; Zech 2:1–2. *Was told*: literally “saying.”"
+    },
+    {
+     "m": "b",
+     "ref": "11:2",
+     "text": "Forty-two months: three and a half years, the period of Dan 7:25; 12:7; compare verse 3 and 12:6, 14; 13:5. Westcott and Hort bracket “and” in the Greek number. *Omit*: literally “cast out outside.” *The nations*: or “the Gentiles.”"
+    },
+    {
+     "m": "c",
+     "ref": "11:3",
+     "text": "Twelve hundred and sixty days: forty-two months of thirty days each."
+    },
+    {
+     "m": "d",
+     "ref": "11:4",
+     "text": "Zech 4:3, 11–14, where the Hebrew has *ʾadon*, “lord,” not the divine name."
+    },
+    {
+     "m": "e",
+     "ref": "11:5",
+     "text": "Compare 2 Kgs 1:10–12; Jer 5:14."
+    },
+    {
+     "m": "f",
+     "ref": "11:6",
+     "text": "Compare 1 Kgs 17:1; Exod 7:17–20."
+    },
+    {
+     "m": "g",
+     "ref": "11:7",
+     "text": "Compare Dan 7:3, 7, 21."
+    },
+    {
+     "m": "h",
+     "ref": "11:8",
+     "text": "In prophetic language: literally “spiritually.” *Sodom*: perhaps “burning.” *Egypt*: from the Greek *Aigyptos*; the Hebrew name is *Mitsrayim*."
+    },
+    {
+     "m": "i",
+     "ref": "11:11",
+     "text": "Ezek 37:5, 10. Westcott and Hort bracket “the” before “three” and “into” before “them.”"
+    },
+    {
+     "m": "j",
+     "ref": "11:12",
+     "text": "Compare 2 Kgs 2:11."
+    },
+    {
+     "m": "k",
+     "ref": "11:13",
+     "text": "At that very hour: not a clock time but “at that moment.” *Seven thousand people*: literally “names of people, seven thousand.”"
+    },
+    {
+     "m": "l",
+     "ref": "11:15",
+     "text": "Ps 2:2. *Christ*: Greek *Christos*, “anointed one,” translating the Hebrew *mashiaḥ*, “Messiah.”"
+    },
+    {
+     "m": "m",
+     "ref": "11:16",
+     "text": "Who sit: Westcott and Hort bracket the article before “before God.”"
+    },
+    {
+     "m": "n",
+     "ref": "11:17",
+     "text": "Who are and who were: later manuscripts add “and who are coming.” *Lord God Almighty*: see the note on 1:8."
+    },
+    {
+     "m": "o",
+     "ref": "11:18",
+     "text": "Ps 2:1; 115:13."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1,
+    7,
+    13
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A great sign was seen in heaven: a woman robed with the sun, the moon beneath her feet, and on her head a crown of twelve stars."
+    },
+    {
+     "v": 2,
+     "text": "She was pregnant, and she was crying out in labor, in anguish to give birth."
+    },
+    {
+     "v": 3,
+     "text": "Then another sign appeared in heaven: a great fiery red dragon with seven heads and ten horns, and seven diadems on its heads.{a}"
+    },
+    {
+     "v": 4,
+     "text": "Its tail swept a third of the stars of heaven and flung them to the earth. The dragon stood before the woman who was about to give birth, so that when she gave birth it might devour her child.{b}"
+    },
+    {
+     "v": 5,
+     "text": "She gave birth to a son, a male child, who is to shepherd all the nations with an iron rod, and her child was snatched up to God and to his throne.{c}"
+    },
+    {
+     "v": 6,
+     "text": "The woman fled into the wilderness, where she has a place prepared by God, so that there she might be nourished for twelve hundred and sixty days."
+    },
+    {
+     "v": 7,
+     "text": "Then war broke out in heaven: Michael and his angels fought against the dragon. The dragon and its angels fought back,{d}"
+    },
+    {
+     "v": 8,
+     "text": "but they lost the battle, and heaven had room for them no longer."
+    },
+    {
+     "v": 9,
+     "text": "The great dragon was thrown down, that ancient serpent called the devil and Satan, the deceiver of the whole world; it was thrown down to the earth, and its angels were thrown down with it.{e}"
+    },
+    {
+     "v": 10,
+     "text": "Then I heard a loud voice in heaven saying,\n“Now have come the salvation and the power\nand the kingdom of our God\nand the authority of his Christ,\nfor the accuser of our brothers has been thrown down,\nwho accuses them day and night before our God.{f}"
+    },
+    {
+     "v": 11,
+     "text": "By the Lamb’s blood they have defeated him,\nand by the word to which they bore witness;\nso little did they love their lives that they faced death."
+    },
+    {
+     "v": 12,
+     "text": "For this reason be glad, O heavens,\nand all who live in them!\nWoe to the land and the sea,\nbecause the devil has gone down to you\nin great rage, knowing that he has little time.”{g}"
+    },
+    {
+     "v": 13,
+     "text": "When the dragon saw that it had been thrown down to the earth, it pursued the woman who had given birth to the male child."
+    },
+    {
+     "v": 14,
+     "text": "The woman, though, received the two wings of the great eagle to fly away from the serpent’s presence to her own place in the wilderness, where she is cared for during a time, two times, and half a time.{h}"
+    },
+    {
+     "v": 15,
+     "text": "Then the serpent spewed water out of its mouth like a river behind the woman, to carry her off in the torrent."
+    },
+    {
+     "v": 16,
+     "text": "But the earth came to the woman’s aid: the ground opened its mouth and gulped down the river that the dragon had spewed out of its mouth."
+    },
+    {
+     "v": 17,
+     "text": "Furious at the woman, the dragon went away to wage war against the others among her children, those who obey the commands of God and bear the witness of Jesus.{i}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:3",
+     "text": "Diadems: royal crowns, as distinct from the victor’s wreath (Greek *stephanos*). Compare Dan 7:7."
+    },
+    {
+     "m": "b",
+     "ref": "12:4",
+     "text": "Compare Dan 8:10."
+    },
+    {
+     "m": "c",
+     "ref": "12:5",
+     "text": "Ps 2:9; Isa 66:7."
+    },
+    {
+     "m": "d",
+     "ref": "12:7",
+     "text": "Michael: Hebrew “who is like God?”; the angelic prince of Dan 10:13, 21; 12:1."
+    },
+    {
+     "m": "e",
+     "ref": "12:9",
+     "text": "Ancient serpent: compare Gen 3:1–15."
+    },
+    {
+     "m": "f",
+     "ref": "12:10",
+     "text": "Brothers: Greek *adelphoi*, which includes sisters. *Accuser*: compare Job 1:6–11; Zech 3:1."
+    },
+    {
+     "m": "g",
+     "ref": "12:12",
+     "text": "Compare Isa 44:23; 49:13."
+    },
+    {
+     "m": "h",
+     "ref": "12:14",
+     "text": "Dan 7:25; 12:7; that is, three and a half years. *Two times*: literally “times.” Compare Exod 19:4."
+    },
+    {
+     "m": "i",
+     "ref": "12:17",
+     "text": "Children: literally “seed.”"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1,
+    9,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "And it took its stand on the sand of the seashore. ¶Out of the sea I saw a beast emerging; it had ten horns and seven heads, a diadem on each of its ten horns, and names of blasphemy on its heads.{a}"
+    },
+    {
+     "v": 2,
+     "text": "The beast that I saw resembled a leopard; its feet were a bear’s, and its mouth a lion’s mouth. To it the dragon handed over his own power and his throne, and great authority.{b}"
+    },
+    {
+     "v": 3,
+     "text": "One of its heads looked as if it had been slaughtered to death, but its deadly wound was healed, and the whole earth went after the beast in amazement.{c}"
+    },
+    {
+     "v": 4,
+     "text": "People worshiped the dragon for giving its authority to the beast, and they worshiped the beast too, saying, “Who can compare with the beast? Who is able to fight against it?”{d}"
+    },
+    {
+     "v": 5,
+     "text": "It received a mouth that spoke arrogant words and blasphemy, and it received authority to act for forty-two months.{e}"
+    },
+    {
+     "v": 6,
+     "text": "It opened its mouth to speak slanders against God, to curse his name and his tent, those who live in heaven.{f}"
+    },
+    {
+     "v": 7,
+     "text": "Leave was given it, too, to make war on the saints and defeat them, and to hold power over every tribe, people, tongue and nation.{g}"
+    },
+    {
+     "v": 8,
+     "text": "All who live on the earth will worship it, everyone whose name has not been written since the founding of the world in the book of life of the Lamb who was slain.{h}"
+    },
+    {
+     "v": 9,
+     "text": "If anyone has an ear, let him listen:"
+    },
+    {
+     "v": 10,
+     "text": "If anyone is bound for captivity,\ninto captivity he goes;\nif anyone kills with the sword,\nwith the sword he must be killed.\nHere the saints are called to endurance and faithfulness.{i}"
+    },
+    {
+     "v": 11,
+     "text": "Next I saw a second beast, coming up out of the earth. It had two horns like a lamb’s, but it spoke like a dragon."
+    },
+    {
+     "v": 12,
+     "text": "Acting on its behalf, it exercises the full authority of the first beast, and it compels the earth and all who inhabit it to bow down to the first beast, the one whose fatal wound was cured.{j}"
+    },
+    {
+     "v": 13,
+     "text": "It performs great signs, even bringing fire down out of heaven onto the earth in full view of everyone.{k}"
+    },
+    {
+     "v": 14,
+     "text": "Through the signs it was granted to do on the beast’s behalf, it leads astray earth’s inhabitants, ordering them to make an image for the beast that was struck by the sword and yet came to life."
+    },
+    {
+     "v": 15,
+     "text": "It was granted power to give breath to the beast’s image, so that the image could even speak, and to have everyone killed who would not worship the image of the beast.{l}"
+    },
+    {
+     "v": 16,
+     "text": "Everyone, the lowly and the mighty, the wealthy and the needy, the free and the enslaved, it compels to receive a mark on the right hand or the forehead,{m}"
+    },
+    {
+     "v": 17,
+     "text": "so that no one is able to buy or sell unless he bears the mark, which is the beast’s name or the number of its name.{n}"
+    },
+    {
+     "v": 18,
+     "text": "This calls for wisdom: let anyone with understanding work out the number of the beast, for it is a human number, and its number is six hundred and sixty-six.{o}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:1",
+     "text": "And it took its stand on the sand of the seashore: many modern editions number these words 12:18. *It* is the dragon; later manuscripts read “I stood,” attaching the words to John’s vision. *Names of blasphemy*: some manuscripts read “a name of blasphemy.” Compare Dan 7:2–7."
+    },
+    {
+     "m": "b",
+     "ref": "13:2",
+     "text": "Compare Dan 7:4–6."
+    },
+    {
+     "m": "c",
+     "ref": "13:3",
+     "text": "Slaughtered to death: the same Greek word that is used of the Lamb in 5:6."
+    },
+    {
+     "m": "d",
+     "ref": "13:4",
+     "text": "Compare Exod 15:11."
+    },
+    {
+     "m": "e",
+     "ref": "13:5",
+     "text": "Compare Dan 7:8, 11, 20, 25. Westcott and Hort bracket “and” in the Greek number."
+    },
+    {
+     "m": "f",
+     "ref": "13:6",
+     "text": "His tent: that is, his dwelling place. Later manuscripts read “his tent and those who live in heaven.”"
+    },
+    {
+     "m": "g",
+     "ref": "13:7",
+     "text": "Leave was given it, too, to make war on the saints and defeat them: Westcott and Hort bracket these words, which P47, Alexandrinus and Ephraemi omit. Compare Dan 7:21."
+    },
+    {
+     "m": "h",
+     "ref": "13:8",
+     "text": "Since the founding of the world: these words may instead go with “slain,” “the Lamb slain since the founding of the world”; compare 17:8. *Everyone whose name*: literally “whose name,” in the singular."
+    },
+    {
+     "m": "i",
+     "ref": "13:10",
+     "text": "Jer 15:2; 43:11. *Kills*: Westcott and Hort read “will kill”; Alexandrinus as reported reads “is to be killed,” giving “if anyone is to be killed with the sword, with the sword he will be killed.” *Here the saints are called to*: literally “here is the endurance and the faith of the saints.”"
+    },
+    {
+     "m": "j",
+     "ref": "13:12",
+     "text": "On its behalf: literally “before it,” “in its presence.”"
+    },
+    {
+     "m": "k",
+     "ref": "13:13",
+     "text": "Compare 1 Kgs 18:38."
+    },
+    {
+     "m": "l",
+     "ref": "13:15",
+     "text": "Breath: or “spirit.” Westcott and Hort bracket the Greek conjunction before “everyone.” Compare Dan 3:5–6."
+    },
+    {
+     "m": "m",
+     "ref": "13:16",
+     "text": "Mark: Greek *charagma*, a brand or stamp; the word was also used of the impression on coins and official seals."
+    },
+    {
+     "m": "n",
+     "ref": "13:17",
+     "text": "So that: Westcott and Hort bracket “and” before these words."
+    },
+    {
+     "m": "o",
+     "ref": "13:18",
+     "text": "Work out: literally “count,” “reckon,” using the ancient practice of giving each letter a numerical value (gematria). *A human number*: or “the number of a person.” *Six hundred and sixty-six*: so Westcott and Hort and most manuscripts. P115 (3rd–4th century), Codex Ephraemi and some others read “six hundred and sixteen,” and Irenaeus (about AD 180) knew of copies with that number. Both totals can be obtained from the Hebrew letters of “Nero Caesar” in different spellings, though many other solutions have been proposed."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1,
+    6,
+    8,
+    9,
+    13,
+    14,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I looked again, and there stood the Lamb on Mount Zion, and with him one hundred forty-four thousand people bearing his name and the name of his Father inscribed upon their foreheads.{a}"
+    },
+    {
+     "v": 2,
+     "text": "And I heard a sound from heaven like the roar of many waters and like a mighty peal of thunder; the sound I heard was like harpists playing their harps."
+    },
+    {
+     "v": 3,
+     "text": "They are singing what seems a new song in front of the throne and in front of the four living creatures and the elders. No one could master that song except the hundred and forty-four thousand who had been bought from the earth."
+    },
+    {
+     "v": 4,
+     "text": "These are the ones who did not defile themselves with women, for they are virgins. They follow the Lamb wherever he leads. They were bought from among humankind as firstfruits for God and the Lamb,{b}"
+    },
+    {
+     "v": 5,
+     "text": "and in their speech no lie was found; they are without blemish.{c}"
+    },
+    {
+     "v": 6,
+     "text": "Next I saw another angel in flight high overhead, bringing an everlasting gospel to announce to earth’s inhabitants, to every nation, tribe, tongue and people.{d}"
+    },
+    {
+     "v": 7,
+     "text": "With a loud voice he said, “Fear God and give him glory, for the hour of his judgment has arrived. Worship the maker of heaven and earth, of the sea and the springs of water.”{e}"
+    },
+    {
+     "v": 8,
+     "text": "A second angel followed, saying, “Fallen, fallen is Babylon the great, she who made all the nations drink the wine of her passionate immorality!”{f}"
+    },
+    {
+     "v": 9,
+     "text": "A third angel followed them, crying in a loud voice, “Whoever worships the beast and its image, and takes its mark on the forehead or on the hand,"
+    },
+    {
+     "v": 10,
+     "text": "will drink as well from the wine of God’s fury, poured out undiluted into the cup of his anger, and will be tormented with fire and sulfur in the sight of the holy angels and of the Lamb.{g}"
+    },
+    {
+     "v": 11,
+     "text": "The smoke of their torment goes up forever and ever. Day and night there is no rest for those who worship the beast and its image, or for anyone who takes the mark of its name.”{h}"
+    },
+    {
+     "v": 12,
+     "text": "Here is the call for the endurance of the saints, who keep God’s commandments and the faith of Jesus.{i}"
+    },
+    {
+     "v": 13,
+     "text": "And I heard a voice from heaven saying, “Write this: Happy are the dead who die in the Lord from now on.” “Yes,” says the Spirit, “so that they may rest from their labors, for their deeds go with them.”{j}"
+    },
+    {
+     "v": 14,
+     "text": "As I watched, a white cloud appeared, and on it sat someone resembling a son of man; on his head was a crown of gold, and in his hand a keen-edged sickle.{k}"
+    },
+    {
+     "v": 15,
+     "text": "Another angel came out of the temple, calling with a loud voice to the one seated on the cloud, “Put in your sickle and reap, for the hour to reap has come, because the harvest of the earth is ripe.”{l}"
+    },
+    {
+     "v": 16,
+     "text": "He who sat on the cloud cast his sickle onto the earth, and the earth’s harvest was gathered in."
+    },
+    {
+     "v": 17,
+     "text": "Out of the heavenly temple came yet another angel, and he as well held a keen-edged sickle."
+    },
+    {
+     "v": 18,
+     "text": "And yet another angel came from the altar, the one who has authority over the fire, and he called with a loud voice to the one with the sharp sickle, “Put in your sharp sickle and gather the clusters from the vine of the earth, for its grapes are ripe.”{m}"
+    },
+    {
+     "v": 19,
+     "text": "The angel cast his sickle onto the earth and harvested its grapes, flinging them into the vast winepress of God’s fury."
+    },
+    {
+     "v": 20,
+     "text": "Outside the city the grapes were trampled in the press, and out of it poured blood, rising to the horses’ bridles, across a distance of about 180 miles.{n}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:1",
+     "text": "Zion: the hill of Jerusalem’s temple, and a name for the city; perhaps “fortress.” *His name and*: later manuscripts omit these words."
+    },
+    {
+     "m": "b",
+     "ref": "14:4",
+     "text": "Virgins: Greek *parthenoi*, here masculine, perhaps picturing holy-war purity (compare Deut 23:9–10; 1 Sam 21:5) or faithfulness to God in contrast with spiritual prostitution."
+    },
+    {
+     "m": "c",
+     "ref": "14:5",
+     "text": "Compare Zeph 3:13; Isa 53:9. Later manuscripts add “before the throne of God.”"
+    },
+    {
+     "m": "d",
+     "ref": "14:6",
+     "text": "Gospel: Greek *euangelion*, “good news.” *Another*: some manuscripts omit this word."
+    },
+    {
+     "m": "e",
+     "ref": "14:7",
+     "text": "The hour: the appointed time, not a time of day. Compare Exod 20:11; Ps 146:6."
+    },
+    {
+     "m": "f",
+     "ref": "14:8",
+     "text": "Isa 21:9; Jer 51:7–8. *Babylon*: the Greek form of the Hebrew *Bavel*; the Akkadian *Bab-ili* means “gate of god,” while Gen 11:9 links it with Hebrew *balal*, “confuse.” Here it is a code name for a great city, probably Rome (compare 1 Pet 5:13). *Passionate immorality*: literally “the wine of the passion of her immorality”; the Greek *thymos* can mean both “passion” and “wrath.” *A second angel*: Westcott and Hort bracket “angel.”"
+    },
+    {
+     "m": "g",
+     "ref": "14:10",
+     "text": "Compare Isa 51:17; Jer 25:15; Gen 19:24."
+    },
+    {
+     "m": "h",
+     "ref": "14:11",
+     "text": "Compare Isa 34:10."
+    },
+    {
+     "m": "i",
+     "ref": "14:12",
+     "text": "The faith of Jesus: or “their faith in Jesus,” or “faithfulness to Jesus.”"
+    },
+    {
+     "m": "j",
+     "ref": "14:13",
+     "text": "From now on: the Greek *ap’ arti* may instead go with what follows: “From now on, yes, says the Spirit.”"
+    },
+    {
+     "m": "k",
+     "ref": "14:14",
+     "text": "Dan 7:13."
+    },
+    {
+     "m": "l",
+     "ref": "14:15",
+     "text": "Ripe: literally “dried,” that is, fully ripe. Compare Joel 3:13."
+    },
+    {
+     "m": "m",
+     "ref": "14:18",
+     "text": "Came: Westcott and Hort bracket this verb and the article before “who has authority.” *Authority over the fire*: compare 8:3–5."
+    },
+    {
+     "m": "n",
+     "ref": "14:20",
+     "text": "About 180 miles: Greek “1,600 stadia,” about 300 km; a stadion was about 607 feet (185 m). The number may be symbolic (40 × 40, or 4 × 4 × 100). Compare Isa 63:1–6; Joel 3:13."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1,
+    2,
+    5
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then I saw another sign in heaven, great and astonishing: seven angels with seven plagues, the last ones, for with them God’s fury is brought to completion."
+    },
+    {
+     "v": 2,
+     "text": "I saw too what appeared to be a glassy sea shot through with fire, and beside that glassy sea stood those who had won the victory over the beast, its image and its name’s number, with harps of God in their hands.{a}"
+    },
+    {
+     "v": 3,
+     "text": "And they sing the song of Moses, the slave of God, and the song of the Lamb:\n“Great and wonderful are your deeds,\nLord God Almighty!\nJust and true are your ways,\nKing of the ages!{b}"
+    },
+    {
+     "v": 4,
+     "text": "Lord, who will fail to fear you\nand give glory to your name?\nYou alone are holy.\nEvery nation will come\nand bow low before you,\nfor your judgments stand revealed.”{c}"
+    },
+    {
+     "v": 5,
+     "text": "After these things I saw it: the sanctuary of the tent of testimony in heaven was opened,{d}"
+    },
+    {
+     "v": 6,
+     "text": "and the seven angels holding the seven plagues emerged from it, clothed in stone, pure and shining, and wearing gold sashes about their breasts.{e}"
+    },
+    {
+     "v": 7,
+     "text": "Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever."
+    },
+    {
+     "v": 8,
+     "text": "And the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.{f}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:2",
+     "text": "Beside: or “on.” *Harps of God*: that is, harps given by God, or harps for the worship of God."
+    },
+    {
+     "m": "b",
+     "ref": "15:3",
+     "text": "Exod 15:1–18; Deut 32:4; Ps 111:2; 139:14. *Moses*: explained in Exod 2:10 by Hebrew *mashah*, “draw out.” *Lord God Almighty*: see the note on 1:8. *King of the ages*: so Westcott and Hort, with P47 and Sinaiticus as first written; Alexandrinus and many others read “King of the nations,” and later manuscripts “King of the saints.”"
+    },
+    {
+     "m": "c",
+     "ref": "15:4",
+     "text": "Jer 10:7; Ps 86:9; Mal 1:11. In Jer 10:7 the Hebrew has no divine name; in Ps 86:9 it has *ʾAdonay*, “Lord.”"
+    },
+    {
+     "m": "d",
+     "ref": "15:5",
+     "text": "Tent of testimony: the tabernacle (Exod 38:21; 40:34–35 in the Greek Old Testament)."
+    },
+    {
+     "m": "e",
+     "ref": "15:6",
+     "text": "Clothed in stone: so Westcott and Hort, following Alexandrinus and Ephraemi, perhaps picturing robes set with precious stones (compare Ezek 28:13). Many manuscripts read *linon*, “linen,” for *lithon*, “stone.” Westcott and Hort bracket the article before “with the seven plagues.”"
+    },
+    {
+     "m": "f",
+     "ref": "15:8",
+     "text": "Compare Exod 40:34–35; 1 Kgs 8:10–11; Isa 6:4."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paras": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    10,
+    12,
+    17
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A loud voice from the temple then called to the seven angels, “Go, empty the seven bowls of God’s fury onto the earth.”"
+    },
+    {
+     "v": 2,
+     "text": "The first angel went off and emptied his bowl onto the land, and ugly, festering sores appeared on those who wore the beast’s mark and bowed down to its image.{a}"
+    },
+    {
+     "v": 3,
+     "text": "The second poured his bowl into the sea, and it became blood, like a corpse’s blood, and every living thing in the sea died.{b}"
+    },
+    {
+     "v": 4,
+     "text": "The third poured his bowl into the rivers and the springs of water, and they became blood."
+    },
+    {
+     "v": 5,
+     "text": "And I heard the angel of the waters say,\n“You are just, you who are and who were, the Holy One,\nbecause you have judged these things;{c}"
+    },
+    {
+     "v": 6,
+     "text": "for they shed the blood of saints and prophets,\nand you have given them blood to drink.\nThey deserve it!”"
+    },
+    {
+     "v": 7,
+     "text": "And I heard the altar saying,\n“Yes, Lord God, the Almighty,\nyour judgments are true and righteous.”{d}"
+    },
+    {
+     "v": 8,
+     "text": "The fourth emptied his bowl onto the sun, and the sun was permitted to burn people with its fire."
+    },
+    {
+     "v": 9,
+     "text": "Searing heat burned them, and they cursed the name of the God who held power over these plagues, yet they refused to repent and glorify him."
+    },
+    {
+     "v": 10,
+     "text": "The fifth emptied his bowl onto the beast’s throne, and darkness covered its kingdom. In their anguish people chewed their tongues{e}"
+    },
+    {
+     "v": 11,
+     "text": "and they cursed the God of heaven because of their pains and their sores, yet they would not turn from what they had done."
+    },
+    {
+     "v": 12,
+     "text": "The sixth emptied his bowl onto the mighty river Euphrates, and its waters dried up, opening a road for the kings from the east.{f}"
+    },
+    {
+     "v": 13,
+     "text": "And I saw three unclean spirits like frogs coming out of the mouth of the dragon, out of the mouth of the beast and out of the mouth of the false prophet.{g}"
+    },
+    {
+     "v": 14,
+     "text": "They are spirits of demons, working signs; they set out to the kings of all the world to muster them for war on that great day of God the Almighty."
+    },
+    {
+     "v": 15,
+     "text": "(“Look, I am coming like a thief! Happy is the one who stays awake and keeps his clothes on, so that he will not go about naked and be seen in his shame.”)"
+    },
+    {
+     "v": 16,
+     "text": "And they gathered the kings together at the place that is called Harmagedon in Hebrew.{h}"
+    },
+    {
+     "v": 17,
+     "text": "The seventh poured his bowl into the air, and a loud voice came out of the temple, from the throne, saying, “It is done!”{i}"
+    },
+    {
+     "v": 18,
+     "text": "Lightning flashed, there was rumbling and thunder, and a great earthquake struck, the like of which had not happened since humans first lived on the earth, so violent was the quake.{j}"
+    },
+    {
+     "v": 19,
+     "text": "The great city broke into three pieces, and the nations’ cities collapsed. Babylon the great came to mind before God, and he made her drink the cup brimming with the wine of his fierce anger."
+    },
+    {
+     "v": 20,
+     "text": "Every island vanished; the mountains were nowhere to be seen."
+    },
+    {
+     "v": 21,
+     "text": "Huge hailstones, each weighing about seventy pounds, fell from heaven on people, and people cursed God for the plague of the hail, so severe was that plague.{k}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:2",
+     "text": "Compare Exod 9:9–11."
+    },
+    {
+     "m": "b",
+     "ref": "16:3",
+     "text": "Compare Exod 7:17–21."
+    },
+    {
+     "m": "c",
+     "ref": "16:5",
+     "text": "The Holy One: Westcott and Hort bracket the article. Later manuscripts read “and who will be.”"
+    },
+    {
+     "m": "d",
+     "ref": "16:7",
+     "text": "Lord God, the Almighty: see the note on 1:8. Compare Ps 19:9."
+    },
+    {
+     "m": "e",
+     "ref": "16:10",
+     "text": "Compare Exod 10:21–23."
+    },
+    {
+     "m": "f",
+     "ref": "16:12",
+     "text": "From the east: literally “from the rising of the sun.” Westcott and Hort bracket the article before “Euphrates.” Compare Isa 11:15; Jer 50:38."
+    },
+    {
+     "m": "g",
+     "ref": "16:13",
+     "text": "Compare Exod 8:2–7."
+    },
+    {
+     "m": "h",
+     "ref": "16:16",
+     "text": "Harmagedon: traditionally “Armageddon”; probably Hebrew *har Megiddo*, “mountain of Megiddo,” the site of famous battles (Judg 5:19; 2 Kgs 23:29). Some manuscripts read “Mageddon.”"
+    },
+    {
+     "m": "i",
+     "ref": "16:17",
+     "text": "From the throne: later manuscripts read “of heaven, from the throne.”"
+    },
+    {
+     "m": "j",
+     "ref": "16:18",
+     "text": "Compare Dan 12:1."
+    },
+    {
+     "m": "k",
+     "ref": "16:21",
+     "text": "About seventy pounds: literally “about a talent’s weight”; the talent was the largest ancient unit of weight, about 30–35 kg (65–75 pounds), though its value varied. Compare Exod 9:23–25."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "paras": [
+    1,
+    7,
+    9,
+    15
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "One of the seven angels who held the seven bowls then came and spoke to me. “Come,” he said, “and I will show you how judgment falls on the great prostitute who is enthroned beside many waters,{a}"
+    },
+    {
+     "v": 2,
+     "text": "the one with whom earth’s kings have committed immorality, and with the wine of whose immorality the earth’s inhabitants have grown drunk.”"
+    },
+    {
+     "v": 3,
+     "text": "Then in the Spirit he carried me off into a wilderness, and I saw a woman mounted on a scarlet beast that was covered all over with blasphemous names and had seven heads and ten horns."
+    },
+    {
+     "v": 4,
+     "text": "The woman was dressed in purple and scarlet and decked out in gold, precious stones and pearls. In her hand she held a golden cup filled with abominations and the filth of her immorality.{b}"
+    },
+    {
+     "v": 5,
+     "text": "On her forehead a name was written, a mystery: “Babylon the great, mother of prostitutes and of the earth’s abominations.”{c}"
+    },
+    {
+     "v": 6,
+     "text": "I saw the woman drunk with the blood of the holy ones and with the blood of Jesus’ witnesses; and when I saw her, I marveled with great wonder.{d}"
+    },
+    {
+     "v": 7,
+     "text": "But the angel asked me, “Why are you amazed? I will explain to you the mystery of the woman and of the beast with seven heads and ten horns that carries her."
+    },
+    {
+     "v": 8,
+     "text": "The beast that you saw existed once and exists no longer; it is going to rise from the abyss and then head for ruin. Earth’s inhabitants whose names have not, since the world was founded, been entered in the book of life will marvel at the sight of the beast, because it existed once, exists no longer, and yet will appear.{e}"
+    },
+    {
+     "v": 9,
+     "text": "“This calls for a mind that has wisdom. The seven heads are seven mountains where the woman sits. They are also seven kings:{f}"
+    },
+    {
+     "v": 10,
+     "text": "Five have fallen, one is living, and the other has not yet arrived; and when he comes, he must stay only a little while."
+    },
+    {
+     "v": 11,
+     "text": "As for the beast that once was and now is not, it is itself an eighth, but it springs from the seven, and it is heading for destruction."
+    },
+    {
+     "v": 12,
+     "text": "The ten horns that you saw are ten kings. They have not yet received a kingdom, but for a single hour they receive authority as kings alongside the beast.{g}"
+    },
+    {
+     "v": 13,
+     "text": "They share a single purpose, and they surrender their might and their authority to the beast."
+    },
+    {
+     "v": 14,
+     "text": "They will make war on the Lamb, but the Lamb will overcome them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful.”{h}"
+    },
+    {
+     "v": 15,
+     "text": "He said to me further, “The waters you saw, where the prostitute is seated, are peoples and crowds, nations and languages."
+    },
+    {
+     "v": 16,
+     "text": "The ten horns that you saw, and the beast, will hate the prostitute. They will leave her ruined and naked, eat her flesh and burn what remains of her in fire.{i}"
+    },
+    {
+     "v": 17,
+     "text": "It is God who has moved their hearts to accomplish his intention, to act with one accord and yield their royal power to the beast until what God has spoken comes to pass."
+    },
+    {
+     "v": 18,
+     "text": "The woman you saw is the great city that holds sovereignty over the kings of the earth.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "17:1",
+     "text": "Beside many waters: compare Jer 51:13, of Babylon on the Euphrates and its canals."
+    },
+    {
+     "m": "b",
+     "ref": "17:4",
+     "text": "Compare Jer 51:7."
+    },
+    {
+     "m": "c",
+     "ref": "17:5",
+     "text": "A mystery: or “a name of mystery,” that is, a symbolic name."
+    },
+    {
+     "m": "d",
+     "ref": "17:6",
+     "text": "Witnesses: Greek *martyres*, the source of the English word “martyrs.”"
+    },
+    {
+     "m": "e",
+     "ref": "17:8",
+     "text": "Compare Dan 7:3."
+    },
+    {
+     "m": "f",
+     "ref": "17:9",
+     "text": "Mountains: Greek *orē*, “mountains” or “hills”; Rome was famous as the city of seven hills. *They are also seven kings*: in the Greek these words begin verse 10."
+    },
+    {
+     "m": "g",
+     "ref": "17:12",
+     "text": "For a single hour: that is, for a very short time. Compare Dan 7:24."
+    },
+    {
+     "m": "h",
+     "ref": "17:14",
+     "text": "Compare Deut 10:17; Dan 2:47."
+    },
+    {
+     "m": "i",
+     "ref": "17:16",
+     "text": "In fire: Westcott and Hort bracket the Greek preposition."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "paras": [
+    1,
+    4,
+    9,
+    11,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this I saw another angel descending from heaven. He had great authority, and the earth was lit up by his splendor.{a}"
+    },
+    {
+     "v": 2,
+     "text": "He called out with a mighty voice:\n“She has fallen, fallen, Babylon the great!\nShe has become a haunt for demons,\na prison for every foul spirit,\na prison for every foul bird,\nand a prison for every foul and hated beast.{b}"
+    },
+    {
+     "v": 3,
+     "text": "For all the nations have fallen\nthrough the wine of her passionate immorality;\nthe kings of the earth were immoral with her,\nand the merchants of the earth grew rich\nfrom the power of her luxury.”{c}"
+    },
+    {
+     "v": 4,
+     "text": "Another voice from heaven I heard, crying,\n“My people, leave her,\nso you take no part in her sins\nand no portion of her plagues;{d}"
+    },
+    {
+     "v": 5,
+     "text": "for her sins are heaped up to heaven,\nand God has remembered her crimes.{e}"
+    },
+    {
+     "v": 6,
+     "text": "Pay her back as she herself has paid,\nand repay her double for her deeds;\nin the cup she mixed, mix her a double draught.{f}"
+    },
+    {
+     "v": 7,
+     "text": "Give her pain and mourning\nto match the glory she gave herself and her wanton luxury.\nIn her heart she boasts,\n‘Enthroned as a queen I sit;\nwidow I am not,\nand mourning I shall never know.’{g}"
+    },
+    {
+     "v": 8,
+     "text": "That is why her plagues will strike in a single day,\ndeath and mourning and hunger,\nand fire will consume her,\nfor strong is the Lord God who has passed sentence on her.”{h}"
+    },
+    {
+     "v": 9,
+     "text": "The kings of the earth, who were immoral with her and shared her luxury, will weep and mourn over her as they see the smoke of her burning."
+    },
+    {
+     "v": 10,
+     "text": "Keeping their distance for terror at her torment, they will cry,\n“Alas, alas, great city,\nBabylon, city of might!\nIn a single hour your doom has fallen!”{i}"
+    },
+    {
+     "v": 11,
+     "text": "And the merchants of the earth weep and grieve over her, because no one buys their cargo anymore,{j}"
+    },
+    {
+     "v": 12,
+     "text": "cargo of gold, silver, jewels and pearls; of fine linen, purple, silk and scarlet; all kinds of citron wood, all sorts of articles of ivory, all sorts of articles of costly wood, bronze, iron and marble;{k}"
+    },
+    {
+     "v": 13,
+     "text": "cinnamon and spice, incense, ointment and frankincense; wine, oil, fine flour and grain; cattle and sheep; horses and wagons; and bodies, even human lives.{l}"
+    },
+    {
+     "v": 14,
+     "text": "“The fruit your soul longed for\nhas gone from you,\nand all your luxury and glitter\nhave perished from you,\nand no one will find them ever again.”{m}"
+    },
+    {
+     "v": 15,
+     "text": "Those who traded in these goods and made their fortunes from her will keep their distance, terrified at her torment, crying and mourning,"
+    },
+    {
+     "v": 16,
+     "text": "saying,\n“Alas, alas, the great city,\ndressed in fine linen, purple and scarlet,\nglittering with gold,\nwith jewels and pearls!{n}"
+    },
+    {
+     "v": 17,
+     "text": "In a single hour such vast riches have been ruined!” ¶Every helmsman, everyone who sails anywhere, the seamen and all who make a living from the sea kept their distance{o}"
+    },
+    {
+     "v": 18,
+     "text": "and cried out as they watched the smoke of her burning, “What city was ever like the great city?”{p}"
+    },
+    {
+     "v": 19,
+     "text": "They flung dust on their heads, crying and mourning, and they shouted,\n“Alas, alas, great city,\nwhose costly wealth made rich\nall who owned ships at sea!\nIn a single hour she is ruined.”{q}"
+    },
+    {
+     "v": 20,
+     "text": "Heaven, be glad over her,\nand you saints, apostles and prophets,\nfor God has given judgment for you against her!{r}"
+    },
+    {
+     "v": 21,
+     "text": "A strong angel then picked up a boulder like a huge millstone and flung it into the sea, crying,\n“So violently will Babylon the great city\nbe hurled down,\nnever to be seen again.{s}"
+    },
+    {
+     "v": 22,
+     "text": "No more will the music of harp and song,\nof pipe and trumpet,\nbe heard within you;\nnever again will any craftsman of any trade\nbe found within you;\nnever again will the grinding of the mill\nbe heard within you;{t}"
+    },
+    {
+     "v": 23,
+     "text": "never again will lamplight\ngleam within you;\nnever again will the voices of groom and bride\nbe heard within you.\nYour traders were the great ones of the earth,\nand by your witchcraft every nation was led astray.{u}"
+    },
+    {
+     "v": 24,
+     "text": "And in her was found the blood of prophets and of saints,\nand of all who have been slaughtered on the earth.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "18:1",
+     "text": "Compare Ezek 43:2."
+    },
+    {
+     "m": "b",
+     "ref": "18:2",
+     "text": "Isa 21:9; 13:21; 34:11–15; Jer 50:39. *Prison*: or “lair.” *And a prison for every foul and hated beast*: so Alexandrinus and some other manuscripts; Westcott and Hort place these words in the margin and read “a prison for every foul and hated bird.”"
+    },
+    {
+     "m": "c",
+     "ref": "18:3",
+     "text": "Have fallen: so Westcott and Hort; many manuscripts read “have drunk.” *Wine*: Westcott and Hort bracket “the wine.”"
+    },
+    {
+     "m": "d",
+     "ref": "18:4",
+     "text": "Jer 51:45; Isa 48:20; 52:11."
+    },
+    {
+     "m": "e",
+     "ref": "18:5",
+     "text": "Compare Jer 51:9."
+    },
+    {
+     "m": "f",
+     "ref": "18:6",
+     "text": "Jer 50:29; Ps 137:8. Westcott and Hort bracket the article before “double.”"
+    },
+    {
+     "m": "g",
+     "ref": "18:7",
+     "text": "Isa 47:7–8."
+    },
+    {
+     "m": "h",
+     "ref": "18:8",
+     "text": "Single day: compare Isa 47:9. *The Lord God*: Westcott and Hort bracket “Lord.” Compare Jer 50:34, where the Hebrew has *Yahweh*."
+    },
+    {
+     "m": "i",
+     "ref": "18:10",
+     "text": "Alas: Greek *ouai*, translated “woe” elsewhere. *In a single hour*: that is, suddenly; not a clock time. So also verses 17 and 19."
+    },
+    {
+     "m": "j",
+     "ref": "18:11",
+     "text": "Compare Ezek 27:1–36, the lament over Tyre."
+    },
+    {
+     "m": "k",
+     "ref": "18:12",
+     "text": "Citron wood: a fragrant North African wood prized for luxury tables."
+    },
+    {
+     "m": "l",
+     "ref": "18:13",
+     "text": "Spice: Greek *amōmon*, an aromatic plant from India. *Ointment*: Greek *myron*, perfumed oil. *Bodies*: Greek *sōmata*, a common term for slaves in commercial documents. *Even human lives*: literally “and souls of people”; compare Ezek 27:13."
+    },
+    {
+     "m": "m",
+     "ref": "18:14",
+     "text": "No one will find them: literally “they will never find them.”"
+    },
+    {
+     "m": "n",
+     "ref": "18:16",
+     "text": "With gold: Westcott and Hort bracket the Greek preposition."
+    },
+    {
+     "m": "o",
+     "ref": "18:17",
+     "text": "Everyone who sails anywhere: literally “everyone sailing to a place”; later manuscripts read “all the company on ships.”"
+    },
+    {
+     "m": "p",
+     "ref": "18:18",
+     "text": "Compare Ezek 27:32."
+    },
+    {
+     "m": "q",
+     "ref": "18:19",
+     "text": "Compare Ezek 27:30."
+    },
+    {
+     "m": "r",
+     "ref": "18:20",
+     "text": "Has given judgment for you against her: literally “has judged your judgment from her.” Compare Deut 32:43."
+    },
+    {
+     "m": "s",
+     "ref": "18:21",
+     "text": "Compare Jer 51:63–64."
+    },
+    {
+     "m": "t",
+     "ref": "18:22",
+     "text": "Of any trade: Westcott and Hort bracket these words. Compare Ezek 26:13; Jer 25:10."
+    },
+    {
+     "m": "u",
+     "ref": "18:23",
+     "text": "Jer 7:34; 16:9; 25:10; Isa 23:8. Westcott and Hort bracket the article before “merchants.”"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "paras": [
+    1,
+    5,
+    6,
+    9,
+    11,
+    17,
+    19
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this I heard what sounded like the loud roar of a vast crowd in heaven, crying,\n“Hallelujah!\nSalvation and glory and power belong to our God,{a}"
+    },
+    {
+     "v": 2,
+     "text": "for true and just are his judgments;\nhe has judged the great prostitute\nwho corrupted the earth with her immorality,\nand he has avenged on her\nthe blood of his slaves.”{b}"
+    },
+    {
+     "v": 3,
+     "text": "And a second time they said,\n“Hallelujah!\nHer smoke rises to the ages of the ages.”{c}"
+    },
+    {
+     "v": 4,
+     "text": "And the twenty-four elders and the four living creatures fell down and worshiped God, who is seated on the throne, saying,\n“Amen. Hallelujah!”{d}"
+    },
+    {
+     "v": 5,
+     "text": "Then a voice went out from the throne:\n“Give praise to our God,\nall his slaves,\nall who revere him,\nthe lowly and the great.”{e}"
+    },
+    {
+     "v": 6,
+     "text": "Then I heard what sounded like the voice of a vast crowd, like the roar of many waters and like mighty peals of thunder, crying,\n“Hallelujah!\nFor the Lord our God,\nthe Almighty, has begun to reign.{f}"
+    },
+    {
+     "v": 7,
+     "text": "Let us rejoice and exult,\nand let us give the glory to him,\nfor the marriage of the Lamb has arrived,\nand his bride has prepared herself.{g}"
+    },
+    {
+     "v": 8,
+     "text": "She was granted to clothe herself\nin fine linen, bright and pure.”\nFor the fine linen is the righteous deeds of the saints."
+    },
+    {
+     "v": 9,
+     "text": "Then the angel said to me, “Write: Happy are those who are invited to the wedding banquet of the Lamb.” And he said to me, “These are true words of God.”{h}"
+    },
+    {
+     "v": 10,
+     "text": "I threw myself down at his feet to worship him, but he told me, “Don’t! I am only a slave like you and your brothers who hold fast the testimony of Jesus. Give your worship to God! For the testimony of Jesus is the spirit of prophecy.”{i}"
+    },
+    {
+     "v": 11,
+     "text": "Next I saw heaven opened wide, and before me was a white horse. The one riding it is called Faithful and True; with justice he judges and makes war.{j}"
+    },
+    {
+     "v": 12,
+     "text": "His eyes are a flame of fire, and on his head are many diadems. He has a name written that no one knows but himself.{k}"
+    },
+    {
+     "v": 13,
+     "text": "He is clothed in a robe sprinkled with blood, and his name is called the Word of God.{l}"
+    },
+    {
+     "v": 14,
+     "text": "Heaven’s armies rode behind him on white horses, dressed in pure white linen."
+    },
+    {
+     "v": 15,
+     "text": "Out of his mouth goes a keen sword to strike the nations with, and he himself will shepherd them with a rod of iron; he himself tramples the winepress, pressing the wine of the fierce anger of God the Almighty.{m}"
+    },
+    {
+     "v": 16,
+     "text": "Written on his robe, upon his thigh, he bears this name: King of kings and Lord of lords."
+    },
+    {
+     "v": 17,
+     "text": "I saw next an angel stationed in the sun, and with a loud voice he cried out to every bird that flies high overhead, “Come! Assemble for God’s great feast,{n}"
+    },
+    {
+     "v": 18,
+     "text": "to eat the flesh of kings, the flesh of commanders, the flesh of the mighty, the flesh of horses and their riders, and the flesh of all, free and slave, small and great.”{o}"
+    },
+    {
+     "v": 19,
+     "text": "I saw the beast as well, and earth’s kings and their armies, mustered to do battle with the horse’s rider and his army."
+    },
+    {
+     "v": 20,
+     "text": "The beast was seized, and so was the false prophet who had done the signs in its presence, signs that had misled those who took the beast’s mark and bowed down to its image. Both of them were flung alive into the fiery lake that blazes with sulfur."
+    },
+    {
+     "v": 21,
+     "text": "All the others were slain by the sword that issues from the rider’s mouth, and every bird ate its fill of their flesh."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "19:1",
+     "text": "Hallelujah: Hebrew *halelu-yah*, “praise Yah,” *Yah* being a short form of *Yahweh*. In the New Testament the word occurs only in this chapter (verses 1, 3, 4, 6)."
+    },
+    {
+     "m": "b",
+     "ref": "19:2",
+     "text": "Deut 32:43; 2 Kgs 9:7. *On her*: literally “from her hand.”"
+    },
+    {
+     "m": "c",
+     "ref": "19:3",
+     "text": "Isa 34:10."
+    },
+    {
+     "m": "d",
+     "ref": "19:4",
+     "text": "Ps 106:48."
+    },
+    {
+     "m": "e",
+     "ref": "19:5",
+     "text": "Ps 115:13; 134:1; 135:1."
+    },
+    {
+     "m": "f",
+     "ref": "19:6",
+     "text": "Our God: Westcott and Hort bracket “our.” *The Lord our God, the Almighty*: see the note on 1:8. Compare Ps 93:1; 97:1, where the Hebrew has *Yahweh*."
+    },
+    {
+     "m": "g",
+     "ref": "19:7",
+     "text": "Bride: literally “wife.”"
+    },
+    {
+     "m": "h",
+     "ref": "19:9",
+     "text": "The angel: Greek “he”; compare 17:1."
+    },
+    {
+     "m": "i",
+     "ref": "19:10",
+     "text": "Brothers: Greek *adelphoi*, which includes sisters. *The testimony of Jesus*: either the witness Jesus gave, or the witness borne to him."
+    },
+    {
+     "m": "j",
+     "ref": "19:11",
+     "text": "Is called: Westcott and Hort bracket this word. Compare Isa 11:4."
+    },
+    {
+     "m": "k",
+     "ref": "19:12",
+     "text": "Later manuscripts add “names written and” before “a name written.”"
+    },
+    {
+     "m": "l",
+     "ref": "19:13",
+     "text": "Sprinkled: so Westcott and Hort, following some manuscripts; Alexandrinus and most others read “dipped in.” Compare Isa 63:1–3."
+    },
+    {
+     "m": "m",
+     "ref": "19:15",
+     "text": "Ps 2:9; Isa 11:4; 63:3. Later manuscripts read “two-edged sword.”"
+    },
+    {
+     "m": "n",
+     "ref": "19:17",
+     "text": "With a loud voice: Westcott and Hort bracket the Greek preposition."
+    },
+    {
+     "m": "o",
+     "ref": "19:18",
+     "text": "Ezek 39:17–20. *Commanders*: see the note on 6:15."
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "paras": [
+    1,
+    4,
+    7,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then I saw an angel coming down out of heaven. In his hand he held the key to the abyss and a great chain."
+    },
+    {
+     "v": 2,
+     "text": "He seized the dragon, that ancient serpent, who is the devil and Satan, and bound him fast for a thousand years.{a}"
+    },
+    {
+     "v": 3,
+     "text": "He hurled him into the abyss, locked it and set a seal over him, so that he could lead the nations astray no longer, until the thousand years were over. After that he must be let loose for a brief time."
+    },
+    {
+     "v": 4,
+     "text": "I saw thrones, and they sat upon them, and judgment was given to them. I saw too the souls of those beheaded for the testimony of Jesus and for the word of God, and of those who did not bow to the beast or to its image, and did not accept the mark upon their forehead and upon their hand. They lived and ruled with Christ a thousand years.{b}"
+    },
+    {
+     "v": 5,
+     "text": "(The rest of the dead did not live again until the thousand years were completed.) This is the first resurrection."
+    },
+    {
+     "v": 6,
+     "text": "Happy and holy is whoever has a part in the first resurrection! Over them the second death holds no power; they will be priests of God and of Christ, and they will reign alongside him for the thousand years.{c}"
+    },
+    {
+     "v": 7,
+     "text": "When the thousand years have run their course, Satan will be released from his prison."
+    },
+    {
+     "v": 8,
+     "text": "He will go out to mislead the nations at the earth’s four corners, Gog and Magog, and to muster them for battle; they are as countless as the sand along the sea.{d}"
+    },
+    {
+     "v": 9,
+     "text": "They marched up across the breadth of the earth and surrounded the camp of the saints, the beloved city. But fire fell from heaven and consumed them.{e}"
+    },
+    {
+     "v": 10,
+     "text": "The devil, their deceiver, was flung into the lake of fire and sulfur, where the beast and the false prophet are too, and there they will be tormented day and night to the ages of the ages."
+    },
+    {
+     "v": 11,
+     "text": "Then I saw a great white throne, with the one seated upon it. Earth and heaven fled from his face, and no place could be found for them."
+    },
+    {
+     "v": 12,
+     "text": "And I saw the dead, the great and the small, standing before the throne, and books were opened. Another book was opened as well, the book of life. The dead were judged by what was written in the books, according to their deeds.{f}"
+    },
+    {
+     "v": 13,
+     "text": "The sea yielded up the dead it held; Death and Hades yielded up the dead they held; and each person was judged by what he had done."
+    },
+    {
+     "v": 14,
+     "text": "Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.{g}"
+    },
+    {
+     "v": 15,
+     "text": "Whoever was not found with their name written in the book of life was thrown into the lake of fire."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "20:2",
+     "text": "A thousand years: Latin *millennium*; so also in verses 3–7."
+    },
+    {
+     "m": "b",
+     "ref": "20:4",
+     "text": "Beheaded: literally “executed with the axe.” Compare Dan 7:9, 22."
+    },
+    {
+     "m": "c",
+     "ref": "20:6",
+     "text": "For the thousand years: Westcott and Hort bracket “the.”"
+    },
+    {
+     "m": "d",
+     "ref": "20:8",
+     "text": "Gog and Magog: compare Ezek 38–39, where Gog is a ruler “of the land of Magog”; the meaning of the names is uncertain. Here both stand for the hostile nations."
+    },
+    {
+     "m": "e",
+     "ref": "20:9",
+     "text": "Compare 2 Kgs 1:10–12; Ezek 38:22. Later manuscripts read “from God out of heaven.”"
+    },
+    {
+     "m": "f",
+     "ref": "20:12",
+     "text": "Compare Dan 7:10; 12:1."
+    },
+    {
+     "m": "g",
+     "ref": "20:14",
+     "text": "The lake of fire: Westcott and Hort print these words at the end of the verse; some manuscripts omit them."
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "paras": [
+    1,
+    5,
+    9,
+    15,
+    22
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then I saw a new heaven and a new earth, for the first heaven and the first earth had vanished, and the sea is no more.{a}"
+    },
+    {
+     "v": 2,
+     "text": "And I saw the holy city, a new Jerusalem, descending out of heaven from God, made ready like a bride adorned for her husband.{b}"
+    },
+    {
+     "v": 3,
+     "text": "And from the throne I heard a loud voice proclaim,\n“Look, God’s dwelling is among humankind!\nHe will make his home among them,\nand they will be his peoples,\nand God himself will be with them.{c}"
+    },
+    {
+     "v": 4,
+     "text": "He will wipe away every tear from their eyes,\nand death will be no more,\nnor mourning, nor crying, nor pain any more,\nfor the former things are gone.”{d}"
+    },
+    {
+     "v": 5,
+     "text": "The one seated on the throne said, “Look, I make everything new.” And he says, “Write this, because these words are faithful and true.”{e}"
+    },
+    {
+     "v": 6,
+     "text": "He said to me, “They are accomplished! I am the Alpha and the Omega, the beginning and the end. To anyone who thirsts I will freely give from the spring of the water of life.{f}"
+    },
+    {
+     "v": 7,
+     "text": "Whoever conquers will inherit these things, and I will be his God and he will be my son.{g}"
+    },
+    {
+     "v": 8,
+     "text": "But as for the cowards, the faithless, the polluted, murderers, the sexually immoral, sorcerers, idolaters and all liars, their portion will be in the lake burning with fire and sulfur, which is the second death.”{h}"
+    },
+    {
+     "v": 9,
+     "text": "One of the seven angels holding the seven bowls full of the seven last plagues came and spoke to me: “Come, I will show you the bride, the wife of the Lamb.”"
+    },
+    {
+     "v": 10,
+     "text": "And in the Spirit he carried me away to a vast, high mountain and showed me the holy city Jerusalem descending out of heaven from God,{i}"
+    },
+    {
+     "v": 11,
+     "text": "radiant with God’s glory. Its brilliance was like that of a priceless jewel, like jasper, clear as crystal.{j}"
+    },
+    {
+     "v": 12,
+     "text": "It had a great, high wall with twelve gates, and at the gates twelve angels, and on the gates were inscribed the names of the twelve tribes of the people of Israel.{k}"
+    },
+    {
+     "v": 13,
+     "text": "On the east were three gates, on the north three gates, on the south three gates, and on the west three gates."
+    },
+    {
+     "v": 14,
+     "text": "The city wall had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb."
+    },
+    {
+     "v": 15,
+     "text": "The angel who spoke with me held a golden measuring rod to measure the city, its gates and its wall.{l}"
+    },
+    {
+     "v": 16,
+     "text": "The city lies foursquare, its length equal to its width. He measured the city with the rod: about 1,400 miles; its length and width and height are equal.{m}"
+    },
+    {
+     "v": 17,
+     "text": "Its wall he also measured, 216 feet, using a human unit of measure, which was the angel’s.{n}"
+    },
+    {
+     "v": 18,
+     "text": "The material of its wall was jasper, and the city itself was pure gold, like clear glass."
+    },
+    {
+     "v": 19,
+     "text": "The foundation stones of the city wall were adorned with every precious gem. The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,{o}"
+    },
+    {
+     "v": 20,
+     "text": "the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst.{p}"
+    },
+    {
+     "v": 21,
+     "text": "The twelve gates were twelve pearls, each gate made from a single pearl, and the street of the city was pure gold, transparent as glass.{q}"
+    },
+    {
+     "v": 22,
+     "text": "And I saw no sanctuary in it, because its sanctuary is the Lord God, the Almighty, and the Lamb.{r}"
+    },
+    {
+     "v": 23,
+     "text": "The city has no need of the sun or the moon to give it light, for the glory of God has lit it up, and the Lamb is its lamp.{s}"
+    },
+    {
+     "v": 24,
+     "text": "The nations will walk by means of its light, and the kings of the earth carry their glory into it.{t}"
+    },
+    {
+     "v": 25,
+     "text": "Its gates will never be shut by day, for there will be no night there.{u}"
+    },
+    {
+     "v": 26,
+     "text": "They will carry the glory and the honor of the nations into it."
+    },
+    {
+     "v": 27,
+     "text": "Nothing profane will ever enter it, nor anyone who commits abomination and falsehood, only those whose names are written in the Lamb’s book of life.{v}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "21:1",
+     "text": "Isa 65:17; 66:22."
+    },
+    {
+     "m": "b",
+     "ref": "21:2",
+     "text": "Compare Isa 52:1; 61:10."
+    },
+    {
+     "m": "c",
+     "ref": "21:3",
+     "text": "Lev 26:11–12; Ezek 37:27; Zech 2:10–11. *Dwelling*: literally “tent.” *Peoples*: so Westcott and Hort; many manuscripts read “people.” Some manuscripts add “as their God” at the end."
+    },
+    {
+     "m": "d",
+     "ref": "21:4",
+     "text": "Isa 25:8; 35:10; 65:19."
+    },
+    {
+     "m": "e",
+     "ref": "21:5",
+     "text": "Compare Isa 43:19."
+    },
+    {
+     "m": "f",
+     "ref": "21:6",
+     "text": "Isa 55:1. *They are accomplished*: literally “they have come to be.” *Alpha … Omega*: see the note on 1:8."
+    },
+    {
+     "m": "g",
+     "ref": "21:7",
+     "text": "2 Sam 7:14; Ps 89:26–27."
+    },
+    {
+     "m": "h",
+     "ref": "21:8",
+     "text": "The faithless: or “the unbelieving.” Later manuscripts add “and sinners” after “cowards.”"
+    },
+    {
+     "m": "i",
+     "ref": "21:10",
+     "text": "Compare Ezek 40:2."
+    },
+    {
+     "m": "j",
+     "ref": "21:11",
+     "text": "Compare Isa 60:1–2, 19."
+    },
+    {
+     "m": "k",
+     "ref": "21:12",
+     "text": "Compare Ezek 48:30–35."
+    },
+    {
+     "m": "l",
+     "ref": "21:15",
+     "text": "Compare Ezek 40:3–5."
+    },
+    {
+     "m": "m",
+     "ref": "21:16",
+     "text": "About 1,400 miles: Greek “12,000 stadia,” about 2,200 km; a stadion was about 607 feet (185 m). The number is symbolic (12 × 1,000). The city is a cube, like the inner sanctuary of Solomon’s temple (1 Kgs 6:20)."
+    },
+    {
+     "m": "n",
+     "ref": "21:17",
+     "text": "216 feet: Greek “144 cubits,” about 65 m; a cubit was about 18 inches (45 cm). The figure (12 × 12) may refer to the wall’s height or its thickness. *A human unit of measure, which was the angel’s*: literally “a measure of a man, which is of an angel.”"
+    },
+    {
+     "m": "o",
+     "ref": "21:19",
+     "text": "The identification of several of these stones with their modern namesakes is uncertain. Compare the stones of the high priest’s breastpiece (Exod 28:17–20) and of Ezek 28:13. *Sapphire*: probably lapis lazuli."
+    },
+    {
+     "m": "p",
+     "ref": "21:20",
+     "text": "Carnelian: Greek *sardion*; see the note on 4:3. *Chrysolite*: literally “gold stone,” perhaps a yellow topaz. *Topaz*: perhaps peridot. *Jacinth*: Greek *hyakinthos*, a blue or violet stone."
+    },
+    {
+     "m": "q",
+     "ref": "21:21",
+     "text": "Compare Isa 54:11–12."
+    },
+    {
+     "m": "r",
+     "ref": "21:22",
+     "text": "The Lord God, the Almighty: see the note on 1:8."
+    },
+    {
+     "m": "s",
+     "ref": "21:23",
+     "text": "Isa 60:19–20."
+    },
+    {
+     "m": "t",
+     "ref": "21:24",
+     "text": "Isa 60:3, 5, 11. Later manuscripts read “the nations of those who are saved.”"
+    },
+    {
+     "m": "u",
+     "ref": "21:25",
+     "text": "Isa 60:11; Zech 14:7."
+    },
+    {
+     "m": "v",
+     "ref": "21:27",
+     "text": "Isa 52:1. *Anyone who commits*: Westcott and Hort bracket the article."
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "paras": [
+    1,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    17,
+    18,
+    20,
+    21
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then he showed me a river of the water of life, as bright as crystal, issuing from the throne of God and of the Lamb{a}"
+    },
+    {
+     "v": 2,
+     "text": "down the middle of the city’s street. On either side of the river stood the tree of life, bearing twelve kinds of fruit, yielding its fruit each month, and the leaves of the tree are for the healing of the nations.{b}"
+    },
+    {
+     "v": 3,
+     "text": "Nothing accursed will be found there any longer. The throne of God and of the Lamb will be in the city, and his slaves will worship him;{c}"
+    },
+    {
+     "v": 4,
+     "text": "they will see his face, and his name will be on their foreheads.{d}"
+    },
+    {
+     "v": 5,
+     "text": "There will be no more night, and they have no need of lamplight or sunlight, for the Lord God will give them light, and they will rule for all the ages.{e}"
+    },
+    {
+     "v": 6,
+     "text": "He said to me, “These words are faithful and true; and the Lord, the God of the spirits of the prophets, sent his angel to show his slaves what must happen soon.”{f}"
+    },
+    {
+     "v": 7,
+     "text": "“And look, I am coming soon! Happy is the one who keeps the words of the prophecy of this book.”"
+    },
+    {
+     "v": 8,
+     "text": "I, John, am the one who heard and saw these things. When I had heard and seen them, I fell down to worship at the feet of the angel who was showing them to me."
+    },
+    {
+     "v": 9,
+     "text": "But he said to me, “Do not do that! I am a fellow slave with you and your brothers the prophets, and with those who keep the words of this book. Worship God!”{g}"
+    },
+    {
+     "v": 10,
+     "text": "He also said to me, “Do not seal the words of the prophecy of this book, because the time is near.{h}"
+    },
+    {
+     "v": 11,
+     "text": "Let the one who does wrong go on doing wrong, and let the one who is filthy go on being filthy; let the righteous go on practicing righteousness, and let the holy go on being made holy.”{i}"
+    },
+    {
+     "v": 12,
+     "text": "“Look, I am coming soon, and my reward is with me, to repay each one as his work deserves.{j}"
+    },
+    {
+     "v": 13,
+     "text": "I am the Alpha and the Omega, the first and the last, the beginning and the end.”"
+    },
+    {
+     "v": 14,
+     "text": "Happy are those who wash their robes: they will have the right to the tree of life, and they may go in by the gates to the city.{k}"
+    },
+    {
+     "v": 15,
+     "text": "Outside are the dogs, the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices falsehood.{l}"
+    },
+    {
+     "v": 16,
+     "text": "“I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the offspring of David, the bright morning star.”{m}"
+    },
+    {
+     "v": 17,
+     "text": "The Spirit and the bride say, “Come!” And let whoever hears say, “Come!” And let whoever is thirsty come; let whoever wishes take the water of life as a gift.{n}"
+    },
+    {
+     "v": 18,
+     "text": "I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book;{o}"
+    },
+    {
+     "v": 19,
+     "text": "and if anyone removes any of the words of the book of this prophecy, God will remove that person’s share from the tree of life and from the holy city, which are written about in this book.{p}"
+    },
+    {
+     "v": 20,
+     "text": "The one who bears witness to these things says, “Yes, I am coming quickly.” Amen. Come, Lord Jesus!{q}"
+    },
+    {
+     "v": 21,
+     "text": "The grace of the Lord Jesus be with the saints.{r}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "22:1",
+     "text": "Ezek 47:1–12; Zech 14:8."
+    },
+    {
+     "m": "b",
+     "ref": "22:2",
+     "text": "Tree of life: Gen 2:9; compare Ezek 47:12. *Down the middle of the city’s street*: these words may instead go with what follows: “Between the street and the river, on either side, stood the tree of life.” *Tree*: the Greek may be collective, “trees.”"
+    },
+    {
+     "m": "c",
+     "ref": "22:3",
+     "text": "Compare Zech 14:11."
+    },
+    {
+     "m": "d",
+     "ref": "22:4",
+     "text": "Compare Ps 17:15; Exod 33:20."
+    },
+    {
+     "m": "e",
+     "ref": "22:5",
+     "text": "Isa 60:19; Dan 7:18, 27. *Give them light*: Westcott and Hort bracket the Greek preposition “upon.”"
+    },
+    {
+     "m": "f",
+     "ref": "22:6",
+     "text": "The God of the spirits of the prophets: compare Num 16:22; 27:16. Later manuscripts read “the God of the holy prophets.”"
+    },
+    {
+     "m": "g",
+     "ref": "22:9",
+     "text": "Brothers: Greek *adelphoi*, which includes sisters."
+    },
+    {
+     "m": "h",
+     "ref": "22:10",
+     "text": "Contrast Dan 12:4, 9."
+    },
+    {
+     "m": "i",
+     "ref": "22:11",
+     "text": "Compare Dan 12:10."
+    },
+    {
+     "m": "j",
+     "ref": "22:12",
+     "text": "Isa 40:10; 62:11; Prov 24:12."
+    },
+    {
+     "m": "k",
+     "ref": "22:14",
+     "text": "Who wash their robes: so Westcott and Hort, with Sinaiticus and Alexandrinus; later manuscripts read “who do his commandments.”"
+    },
+    {
+     "m": "l",
+     "ref": "22:15",
+     "text": "Dogs: a term of contempt for the impure; compare Deut 23:18; Phil 3:2."
+    },
+    {
+     "m": "m",
+     "ref": "22:16",
+     "text": "Isa 11:1, 10; Num 24:17. *To you*: the Greek is plural."
+    },
+    {
+     "m": "n",
+     "ref": "22:17",
+     "text": "Isa 55:1."
+    },
+    {
+     "m": "o",
+     "ref": "22:18",
+     "text": "Compare Deut 4:2; 12:32."
+    },
+    {
+     "m": "p",
+     "ref": "22:19",
+     "text": "Tree of life: so Westcott and Hort and the early Greek manuscripts. The King James Version’s “book of life” goes back to Erasmus, whose single Greek manuscript lacked the last verses of the book; he translated them from the Latin Vulgate, whose text in many copies reads *libro*, “book,” for *ligno*, “tree.”"
+    },
+    {
+     "m": "q",
+     "ref": "22:20",
+     "text": "Quickly: Greek *tachy*, also “soon,” as in 22:7, 12."
+    },
+    {
+     "m": "r",
+     "ref": "22:21",
+     "text": "Lord Jesus: Westcott and Hort bracket “Christ” after “Jesus.” *With the saints*: so Westcott and Hort, with Sinaiticus; Alexandrinus reads “with all,” and later manuscripts “with you all” or “with all the saints.” Later manuscripts add “Amen.”"
+    }
+   ]
+  }
+ ]
+}
