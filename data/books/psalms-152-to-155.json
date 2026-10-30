@@ -1,0 +1,363 @@
+{
+ "id": "psalms-152-to-155",
+ "name": "Psalms 152–155",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the Syriac text of the four apocryphal psalms numbered 152, 153, 154, and 155 in the Mosul manuscript of the Syriac Psalter (12th century AD; now Baghdad, Library of the Chaldean Patriarchate, no. 1113, Peshitta Institute siglum 12t4), in the transcription printed by the Peshitta Institute (ed. W. Baars, 1972) and available in the Comprehensive Aramaic Lexicon database. The English edition of W. Wright (*Proceedings of the Society of Biblical Archaeology* 9, 1887; public domain) was consulted for obscure words; the English here is new. Syriac *maryā* is rendered “Lord.” Readings of the Dead Sea Scrolls are cited “as reported.” **Numbering.** The Mosul manuscript numbers these four psalms 152–155 (Psalm 151 is the psalm of David and Goliath already known from the Greek Psalter). In the manuscripts of the *Book of Discipline* by Elias of al-Anbar (about the 10th century AD) the five psalms stand in a different order and without numbers: they are Psalm I (151), II (154), III (155), IV (152), and V (153). Verse numbers here follow the Mosul manuscript, and the verse counts of Psalms 154 and 155 (20 and 21) are higher than in Wright’s edition (17 and 20), which was made from a later group of manuscripts and has a shorter, somewhat different text. **About the book.** These are four short Hebrew-style psalms ascribed to David (152 and 153, which concern his fight with the lion and the wolf) and to King Hezekiah or the returning exiles (154 and 155, headings that differ among manuscripts). They survive only in Syriac. Psalms 154 and 155 also appear in Hebrew in the Great Psalms Scroll from Qumran Cave 11 (11QPs-a), a scroll usually dated to the 1st century AD; the Hebrew of Psalm 154 is also found in part in a fragment from Cave 4 (4Q448), as reported. The Syriac translation of these two psalms is thus based on a Hebrew text close to the Qumran one, but with a good many differences. No Hebrew text of Psalms 152 and 153 has been found, and scholars disagree about whether they were translated from a lost Hebrew original or composed in Syriac. A letter of the Catholicos Timothy I (died AD 823) mentions Hebrew manuscripts with extra “psalms of David” found near Jericho, which may explain how such psalms reached the Syriac church. The Syriac texts were first printed in the 18th century and edited by Wright in 1887 and by Baars in 1972. These psalms are not in the Jewish, Catholic, Orthodox, or Protestant canons. The Syriac Orthodox and Church of the East traditions copy them mostly as an appendix to the Psalter, and the Mosul scribe notes that they are not found in the Greek or Hebrew reckoning. Dates are given as BC/AD. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "My God, my God, hurry to my side;\nsupport me and set me free,\nand deliver my soul from those who kill.{b}"
+    },
+    {
+     "v": 2,
+     "text": "Shall I go down to Sheol at the lion’s mouth,\nor shall the wolf throw me into confusion?{c}"
+    },
+    {
+     "v": 3,
+     "text": "Did they not have enough, lurking near my father’s sheep\nand ripping one away from his fold?\nMust they also try to destroy my soul?"
+    },
+    {
+     "v": 4,
+     "text": "Have pity, Lord, on your chosen one,\nand rescue your devout servant from destruction,\nso that he may stand firm in praising you at all times\nand give glory to the name of your greatness.{d}"
+    },
+    {
+     "v": 5,
+     "text": "Once you have freed him from the grip of the lion that destroys\nand the wolf that tears,\nand have taken my captive life out of the mouth of the wild beasts,"
+    },
+    {
+     "v": 6,
+     "text": "quickly, my Adonai,\nsend a savior from your presence,\nand lift me out of the gaping pit\nthat wants to shut me up in its depths.{e}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:title",
+     "text": "Syriac *maryā*, “Lord,” is the word the Syriac Bible uses for Yahweh, and it is rendered “Lord” throughout these psalms. In the Mosul manuscript this psalm is preceded by a note saying that these four psalms (152–155) have no explanatory introductions from Eusebius, Athanasius, or Theodore the Interpreter, and are simply written out."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Syriac *ʾel*, a short form of the divine name “God,” appears twice here."
+    },
+    {
+     "m": "c",
+     "ref": "1:2",
+     "text": "The Syriac of this verse is run together and uncertain in the manuscript; the sense given is the likeliest, and the last words are read “as reported.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "Another reading, found in some manuscripts, is “so that he may recount your praises at all times.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:6",
+     "text": "Syriac *ʾadonayhi*, a form of the Hebrew *Adonay*, “my Lord,” left in a Hebrew form in the Syriac."
+    }
+   ],
+   "heading": "Psalm 152",
+   "title": "Spoken by David when he was fighting with a lion and a wolf that were carrying off sheep from his flock.{a}"
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Praise the Lord, all you nations;\npraise him, and bless his name."
+    },
+    {
+     "v": 2,
+     "text": "For he rescued the soul of his chosen one from the hands of death,\nand saved his devout servant from destruction."
+    },
+    {
+     "v": 3,
+     "text": "He delivered me from the snares of Sheol,\nand drew my soul out of the pit that cannot be fathomed."
+    },
+    {
+     "v": 4,
+     "text": "For just before my rescue came out from his presence,\nI had become two portions for two beasts.{a}"
+    },
+    {
+     "v": 5,
+     "text": "But he sent his angel,\nshut up the gaping mouths against me,\nand saved my life from destruction."
+    },
+    {
+     "v": 6,
+     "text": "My soul praises him and exalts him\nfor all his kindnesses,\nwhich he has done and will do for me."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:4",
+     "text": "Literally “two portions for two beasts.” The idea is that each animal had a share of him, as though he were already divided between them."
+    }
+   ],
+   "heading": "Psalm 153",
+   "title": "Spoken by David when he received God’s kindness, when God rescued him from the lion and the wolf and he killed both of them with his own hands."
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "With a loud voice praise God;\nin the assembly of the many, make his glory heard."
+    },
+    {
+     "v": 2,
+     "text": "Among the throng of the upright, praise him;\nwith the righteous, recount his majesty."
+    },
+    {
+     "v": 3,
+     "text": "Unite your soul with the good and the whole-hearted,\nso as to praise the Most High."
+    },
+    {
+     "v": 4,
+     "text": "Gather together to make known his strength;\ndo not be slow to show his deliverance,\nand his glory to all the simple.{b}"
+    },
+    {
+     "v": 5,
+     "text": "So that the Lord’s honor may be known, wisdom was given.{c}"
+    },
+    {
+     "v": 6,
+     "text": "So that his works may be recounted, she was made known to people.{d}"
+    },
+    {
+     "v": 7,
+     "text": "She was given to make his strength known to the simple,\nand to make those who lack heart understand his glory,"
+    },
+    {
+     "v": 8,
+     "text": "who are far from her entrances\nand far away from her gates."
+    },
+    {
+     "v": 9,
+     "text": "For the Most High is the Lord of Jacob,\nand his splendor is over all his works."
+    },
+    {
+     "v": 10,
+     "text": "And the person who praises the Most High,\nhe will take pleasure in him,\nlike one who offers fine flour,"
+    },
+    {
+     "v": 11,
+     "text": "and like one who offers he-goats and young bulls,\nand like one who makes the altar shine with a great number of burnt offerings,\nand like the fragrance of spices from the hand of the righteous.{e}"
+    },
+    {
+     "v": 12,
+     "text": "From the gates of the upright his voice is heard,\nand out of the upright’s own voice comes his meditation.{f}"
+    },
+    {
+     "v": 13,
+     "text": "At their meal there is plenty, in truth,\nand at their drink they drink together."
+    },
+    {
+     "v": 14,
+     "text": "Their conversation dwells on the Most High’s Law,\nand they speak in order to declare his strength."
+    },
+    {
+     "v": 15,
+     "text": "How far from the wicked is speaking of him,\nand from all the unjust, knowing him!"
+    },
+    {
+     "v": 16,
+     "text": "See, the Lord’s eye looks with pity on the good,"
+    },
+    {
+     "v": 17,
+     "text": "and on those who praise him he will multiply mercies,\nand from the time of evil he will rescue their souls."
+    },
+    {
+     "v": 18,
+     "text": "Blessed be the Lord, who rescued the afflicted from the hand of foreigners,\nand delivered the blameless from the hand of the wicked,"
+    },
+    {
+     "v": 19,
+     "text": "who raises up a strong horn from Jacob,\na judge for the nations from Israel,"
+    },
+    {
+     "v": 20,
+     "text": "that he may make his dwelling long in Zion,\nand that it may be planted in Jerusalem for all ages.{g}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:title",
+     "text": "Hezekiah, king of Judah about 715–686 BC, was besieged by the Assyrian king Sennacherib in 701 BC (2 Kings 18–19; Isaiah 36–37). The name means “Yahweh strengthens.” Cyrus the Persian allowed the exiles to return in 538 BC (Ezra 1). The heading joins the two situations and does not fit the psalm well; in other Syriac manuscripts, the Hezekiah heading belongs to Psalm 154 and the Cyrus heading to Psalm 155, as reported."
+    },
+    {
+     "m": "b",
+     "ref": "3:4",
+     "text": "The Syriac word is uncertain; it means something like “the simple” or “the untaught.” Wright’s 1887 English has “babes.” The same word is used in verse 7."
+    },
+    {
+     "m": "c",
+     "ref": "3:5",
+     "text": "In the Hebrew text from Qumran (11QPs-a, as reported), wisdom is a woman and is called “she” and “her” through verse 8; the Syriac pronouns are less clear. “Her” in verse 8 follows the likely sense."
+    },
+    {
+     "m": "d",
+     "ref": "3:6",
+     "text": "In the Hebrew text from Qumran (as reported), wisdom is a woman, and she is addressed as “she” and “her” through the rest of the psalm. The Syriac pronouns are not always clear, so “her” in verse 8 follows the likely sense."
+    },
+    {
+     "m": "e",
+     "ref": "3:11",
+     "text": "Syriac *bsāmē*, “spices.” Wright’s 1887 text, from a later family of manuscripts, has “incense.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:12",
+     "text": "Syriac *martīnūteh*. The word is uncertain and could also mean “his murmured prayer.” Wright has “admonition.” Whose voice is meant is also unclear."
+    },
+    {
+     "m": "g",
+     "ref": "3:20",
+     "text": "Some manuscripts read “and may beautify our age in Jerusalem,” a different line."
+    }
+   ],
+   "heading": "Psalm 154",
+   "title": "The prayer of Hezekiah when the Assyrians were surrounding him and he was asking God for relief from them, like a people who had obtained leave from Cyrus to go back to their own place and who ask God that their hope be fulfilled.{a}"
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Lord, I called to you; hear me."
+    },
+    {
+     "v": 2,
+     "text": "I spread out my hands toward the dwelling places of your holiness."
+    },
+    {
+     "v": 3,
+     "text": "Bend your ear to me and grant me my request."
+    },
+    {
+     "v": 4,
+     "text": "Do not hold back my petition from me."
+    },
+    {
+     "v": 5,
+     "text": "Build up my soul,\nand do not tear it down."
+    },
+    {
+     "v": 6,
+     "text": "Do not lay it bare before the wicked."
+    },
+    {
+     "v": 7,
+     "text": "Turn away from me those who repay evil,\nO judge of truth.{a}"
+    },
+    {
+     "v": 8,
+     "text": "Lord, do not judge me according to my sins,\nfor no one living is righteous before you."
+    },
+    {
+     "v": 9,
+     "text": "Make me wise, Lord, in your Law,\nand teach me your judgments.{b}"
+    },
+    {
+     "v": 10,
+     "text": "So that many may hear of your works,\nand the nations may confess your glory.{c}"
+    },
+    {
+     "v": 11,
+     "text": "Remember me and do not forget me,\nand do not bring me into what is too hard for me."
+    },
+    {
+     "v": 12,
+     "text": "Pass away from me the sins of my youth,\nand do not remember my rebellion against me."
+    },
+    {
+     "v": 13,
+     "text": "Cleanse me, Lord, from the evil scab,\nand let it not return to me again."
+    },
+    {
+     "v": 14,
+     "text": "Dry up its roots from me,\nand do not let its leaves sprout in me."
+    },
+    {
+     "v": 15,
+     "text": "Mighty and great are you, Lord;\ntherefore my petition is granted before you."
+    },
+    {
+     "v": 16,
+     "text": "To whom shall I appeal, so that he may give to me?\nAnd what more can human might supply?"
+    },
+    {
+     "v": 17,
+     "text": "From before you, Lord, comes my confidence.\nI called to the Lord, and he answered me,\nand healed the break in my heart."
+    },
+    {
+     "v": 18,
+     "text": "I dozed and fell asleep;\nI dreamed, and then was woken.{d}"
+    },
+    {
+     "v": 19,
+     "text": "You held me up, Lord,\nand I accept it, because the Lord has delivered me.{e}"
+    },
+    {
+     "v": 20,
+     "text": "Now I will look on their shame.\nI put my hope in you and was not put to shame.\nGive honor forever and ever."
+    },
+    {
+     "v": 21,
+     "text": "Redeem Israel, your chosen,\nand the house of Jacob, your tested one.{f}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:7",
+     "text": "Syriac *dīnā d-qushtā*, “judge of truth.” The first words, *parʿay bīshtā*, “repayers of evil,” are not entirely certain."
+    },
+    {
+     "m": "b",
+     "ref": "4:9",
+     "text": "The manuscript has a damaged letter at the end of this line, and the Syriac text printed by its editors marks the end of the verse as uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "4:10",
+     "text": "Syriac *ʿabdayk*. The consonants can be read as “your works” or “your servants.” “Works” is followed because the line is about what is heard and fits the parallel clause about confessing his glory."
+    },
+    {
+     "m": "d",
+     "ref": "4:18",
+     "text": "Another reading is “I was helped.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:19",
+     "text": "Syriac *ʾeqbal*, “I receive” or “I accept.” This is an uncertain readingWright’s 1887 English has “I will return thanks,” which may reflect a different reading."
+    },
+    {
+     "m": "f",
+     "ref": "4:21",
+     "text": "At this point the Mosul manuscript closes the Psalter with a note: “Finished, with the help of our Lord: the book of the Psalms of the blessed David, prophet and king, together with five psalms that are not in the Greek reckoning or the Hebrew. But, as people say, they were found in Syriac, and I wrote them for those who look for them.”"
+    }
+   ],
+   "heading": "Psalm 155",
+   "title": "The prayer of Hezekiah when the Assyrians were surrounding him, and he asked God for relief from them."
+  }
+ ]
+}

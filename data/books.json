@@ -2348,9 +2348,14 @@
    "id": "psalms-152-to-155",
    "name": "Psalms 152 to 155",
    "division": "Pseudepigrapha",
-   "chapterCount": "4 psalms",
-   "translated": [],
-   "file": null
+   "chapterCount": 4,
+   "translated": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "file": "data/books/psalms-152-to-155.json"
   },
   {
    "id": "odes-of-solomon",
