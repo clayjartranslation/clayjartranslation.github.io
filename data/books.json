@@ -2521,9 +2521,22 @@
    "id": "testaments-of-the-twelve-patriarchs",
    "name": "Testaments of the Twelve Patriarchs",
    "division": "Pseudepigrapha",
-   "chapterCount": "12 testaments",
-   "translated": [],
-   "file": null
+   "chapterCount": 12,
+   "translated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "file": "data/books/testaments-of-the-twelve-patriarchs.json"
   },
   {
    "id": "psalms-of-solomon",
