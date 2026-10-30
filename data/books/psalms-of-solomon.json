@@ -1,0 +1,1692 @@
+{
+ "id": "psalms-of-solomon",
+ "name": "Psalms of Solomon",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the Greek text of the Psalms of Solomon in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 3 (1899; public domain), which reprints the text of O. von Gebhardt (1895) from the late Greek manuscripts. The Greek edition and English translation of H. E. Ryle and M. R. James, *Psalms of the Pharisees, commonly called the Psalms of Solomon* (1891; public domain), were consulted; the English here is new. Greek *kyrios* is rendered “Lord” and *theos* “God.” The Greek in Swete is sometimes obscure or damaged, the OCR of the printed apparatus is poor, and readings are cited “as reported.” **Numbering.** The verse numbers follow Swete (and Gebhardt, and Ryle–James). Editions based on Rahlfs (1935) and the translations made from them divide the verses differently in places (for example, Psalm 2 has 41 verses here and 37 in Rahlfs; Psalm 17 has 51 and 46), so references from other books may differ by a few verses. **About the book.** The eighteen Psalms of Solomon are a collection of Jewish hymns and prayers. Though ascribed to Solomon in the manuscript titles, they were written long after his time, most likely in Hebrew, in Jerusalem, in the middle of the 1st century BC. Psalms 2 and 8 describe the Roman general Pompey’s capture of Jerusalem in 63 BC and his death in Egypt in 48 BC; Psalm 17 and the opening of Psalm 18 look for a king from the line of David who will drive out the foreign rulers and the corrupt Hasmonean rulers and rule in righteousness. The “sinners” and the “people-pleasers” the psalms attack are generally taken to be the Hasmonean priest-kings and their party (Sadducees), and the “devout” are the circle of the author, often connected with the Pharisees; this identification is a matter of scholarly debate. The Hebrew original has not survived. The psalms are known from a Greek translation, which is usually dated to the 1st century AD, and from a Syriac translation made from the Greek (cited “as reported”; its manuscripts also contain the Odes of Solomon, and the discoverer, J. Rendel Harris, published them in 1909). The Greek survives in about a dozen late manuscripts (roughly the 10th to the 16th century AD), and the book was first printed in 1626 by J. L. de la Cerda. The book has no canonical status in the Jewish, Catholic, Orthodox, or Protestant traditions, and no Qumran manuscript of it has been found. The list of contents in the 5th-century Codex Alexandrinus names the “Psalms of Solomon” after the New Testament, but the text itself is no longer in the codex; and the stichometry of Nicephorus (9th century AD) also lists them among the disputed books. Some have found echoes of its messianic hope in the New Testament (for example, Luke 1–2). Dates are given as BC/AD. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I cried out to the Lord in my distress,\nto God, when sinners attacked."
+    },
+    {
+     "v": 2,
+     "text": "All at once the sound of war was in my ears,\nand I said, “He will hear me, since I am filled with righteousness.”"
+    },
+    {
+     "v": 3,
+     "text": "I assumed in my own mind that I was full of righteousness,\nbecause I was doing well and had many children."
+    },
+    {
+     "v": 4,
+     "text": "Their wealth spread over the whole earth,\nand their fame reached the ends of the earth."
+    },
+    {
+     "v": 5,
+     "text": "They rose as high as the stars;\nthey claimed, “They can never fall.”"
+    },
+    {
+     "v": 6,
+     "text": "But they grew insolent in their good fortune and could not bear it,\nand their sins were done in secret, and I did not know them."
+    },
+    {
+     "v": 7,
+     "text": "Their lawless deeds went beyond those of the nations before them;\nthey completely desecrated what belongs to the Lord."
+    },
+    {
+     "v": 8,
+     "text": "They grew proud over everything, and their sins were many.{b}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:title",
+     "text": "Greek *Psalmos tō Salomōn*. The title is attached to nearly every psalm in the collection. Psalm 1 has no title in the oldest Greek manuscripts and may have been added later; the ascription to Solomon is traditional and is not meant literally. See the introduction above."
+    },
+    {
+     "m": "b",
+     "ref": "1:8",
+     "text": "The verse numbering of this book follows Swete’s Greek text (which is that of Gebhardt, 1895, and of Ryle and James, 1891). Modern translations that follow Rahlfs’s edition (1935) number the verses differently in several psalms, so references may differ by a few verses."
+    }
+   ],
+   "title": "A psalm of Solomon.{a}"
+  },
+  {
+   "n": 2,
+   "paras": [
+    1,
+    13,
+    20,
+    24,
+    30,
+    36
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When the sinner grew arrogant, he knocked down fortified walls with a battering ram,\nand you did not stop him."
+    },
+    {
+     "v": 2,
+     "text": "Foreign nations went up to your altar;\nthey trampled it arrogantly, with their sandals on,"
+    },
+    {
+     "v": 3,
+     "text": "because the sons of Jerusalem had made the Lord’s sacred things unclean;\nthey had desecrated the offerings made to God by their lawless acts."
+    },
+    {
+     "v": 4,
+     "text": "For this reason he said, “Throw them far away from me.”\nThe beauty of his glory was of no benefit to them.{b}"
+    },
+    {
+     "v": 5,
+     "text": "It was despised before God;\nit was utterly dishonored."
+    },
+    {
+     "v": 6,
+     "text": "Sons and daughters went into a wretched captivity;\ntheir necks were sealed, and they were marked out among the nations."
+    },
+    {
+     "v": 7,
+     "text": "He treated them according to their sins,\nbecause he abandoned them into the hands of the powerful."
+    },
+    {
+     "v": 8,
+     "text": "For he turned his face away from pitying them,\nyoung and old and their children alike."
+    },
+    {
+     "v": 9,
+     "text": "For they had done evil all together,\nso as not to listen."
+    },
+    {
+     "v": 10,
+     "text": "The heaven was angry,\nand the earth detested them,"
+    },
+    {
+     "v": 11,
+     "text": "because no one on earth had ever done\nwhat they did."
+    },
+    {
+     "v": 12,
+     "text": "So the earth will recognize all your judgments, God, as just."
+    },
+    {
+     "v": 13,
+     "text": "They set the sons of Jerusalem up as a laughingstock\nin place of its prostitutes;{c}\neveryone who passed by went in under the sun’s eye."
+    },
+    {
+     "v": 14,
+     "text": "They made fun of their lawless acts, as they themselves used to do;\nthey put their wrongdoing on public display in the face of the sun."
+    },
+    {
+     "v": 15,
+     "text": "Because these women defiled themselves in a confusion of mixed unions,\nmy belly and my inward parts ache over this."
+    },
+    {
+     "v": 16,
+     "text": "I will declare you righteous, God, with an upright heart,\nfor your righteousness lies in your judgments, God."
+    },
+    {
+     "v": 17,
+     "text": "For you paid sinners back according to their deeds,\nand according to their sins, which were very wicked."
+    },
+    {
+     "v": 18,
+     "text": "You uncovered their sins so that your judgment would be seen;"
+    },
+    {
+     "v": 19,
+     "text": "you wiped out their memory from the earth.\nGod is a just judge, and no one’s appearance impresses him.{d}"
+    },
+    {
+     "v": 20,
+     "text": "For the nations reproached Jerusalem by trampling her down;\nher beauty was dragged down from the throne of glory."
+    },
+    {
+     "v": 21,
+     "text": "She put on sackcloth in place of her fine robe,\na rope around her head in place of a crown."
+    },
+    {
+     "v": 22,
+     "text": "She was stripped of the turban of glory\nwhich God had put on her;"
+    },
+    {
+     "v": 23,
+     "text": "in dishonor her beauty was thrown to the ground."
+    },
+    {
+     "v": 24,
+     "text": "And I looked, and pleaded before the face of the Lord, and said:\n“Enough, Lord, of your hand weighing heavily on Israel,\nby bringing the nations against it."
+    },
+    {
+     "v": 25,
+     "text": "For they have mocked and have shown no mercy,\nin anger and rage and bitter fury,"
+    },
+    {
+     "v": 26,
+     "text": "and they will make an end of us,\nunless you, Lord, rebuke them in your anger."
+    },
+    {
+     "v": 27,
+     "text": "For they have not acted out of zeal,\nbut out of the desire of their soul,"
+    },
+    {
+     "v": 28,
+     "text": "to pour out their anger on us in plunder."
+    },
+    {
+     "v": 29,
+     "text": "Do not delay, God, to repay them on their heads,\nto speak against the dragon’s pride\nin a single charge.”{e}"
+    },
+    {
+     "v": 30,
+     "text": "I did not have to wait long before God showed me his arrogance:\npierced through on the mountains of Egypt,\nof less account than the least of men on land and sea.{f}"
+    },
+    {
+     "v": 31,
+     "text": "His body was carried to and fro on the waves in great disgrace,\nand there was no one to bury him."
+    },
+    {
+     "v": 32,
+     "text": "For he had treated others with contempt, in dishonor;\nhe did not reckon that he was a man,\nand did not think of what comes afterward."
+    },
+    {
+     "v": 33,
+     "text": "He said, “I shall be master of land and sea,”\nand he did not realize that God is great,\npowerful in his enormous might."
+    },
+    {
+     "v": 34,
+     "text": "He himself is king over the heavens,\nand judges kings and rulers."
+    },
+    {
+     "v": 35,
+     "text": "It is he who raises me to glory,\nand who puts the proud to sleep in everlasting destruction and dishonor,\nbecause they did not know him."
+    },
+    {
+     "v": 36,
+     "text": "And now, you magnates of the earth, behold the Lord’s judgment:\nhe is a mighty and righteous king,\nwho judges all that lies under the sky."
+    },
+    {
+     "v": 37,
+     "text": "Praise God, you who revere the Lord with knowledge,\nfor the Lord’s mercy rests on those who revere him,\nand comes along with his verdict,"
+    },
+    {
+     "v": 38,
+     "text": "to separate the righteous from the sinner,\nand to repay sinners forever according to their deeds,"
+    },
+    {
+     "v": 39,
+     "text": "and to have mercy on the righteous, away from the humiliation by the sinner,\nand to repay the sinner for what he did to the righteous."
+    },
+    {
+     "v": 40,
+     "text": "For the Lord is good to those who call on him with patience,\nto act according to his mercy toward his devout ones,\nand to let them stand before him continually in strength."
+    },
+    {
+     "v": 41,
+     "text": "Blessed be the Lord forever in the presence of his servants."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:title",
+     "text": "Jerusalem is probably “foundation of Shalem” or “city of peace,” but the origin of the name is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "2:4",
+     "text": "“His glory” here is probably the glory of God dwelling in the temple."
+    },
+    {
+     "m": "c",
+     "ref": "2:13",
+     "text": "Greek *pornai*, “prostitutes.” Verses 13–14 are obscure; the idea seems to be that the Gentile soldiers treated the city’s people as they would treat prostitutes, openly, in daylight."
+    },
+    {
+     "m": "d",
+     "ref": "2:19",
+     "text": "That is, he shows no partiality (compare Deut 10:17)."
+    },
+    {
+     "m": "e",
+     "ref": "2:29",
+     "text": "The Greek of this verse is hard and probably damaged, and a few manuscripts read differently. “The dragon” is the foreign conqueror of verse 1, whom most scholars identify with the Roman general Pompey (who took Jerusalem in 63 BC); compare Jer 51:34 and Ezek 29:3. His death is described in verses 30–31."
+    },
+    {
+     "m": "f",
+     "ref": "2:30",
+     "text": "Pompey was murdered on the Egyptian shore in 48 BC after his defeat by Julius Caesar; his body was left on the beach and cremated by a freedman. The psalm does not name him."
+    }
+   ],
+   "title": "A psalm of Solomon, about Jerusalem.{a}"
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Why are you sleeping, my soul, and not blessing the Lord?"
+    },
+    {
+     "v": 2,
+     "text": "Sing a hymn, a new song, to God who is worthy of praise.\nSing and be wide awake at his watch,\nfor a psalm to God from a good heart is good.{a}"
+    },
+    {
+     "v": 3,
+     "text": "The righteous always remember the Lord,\nin confession and in declaring the Lord’s judgments to be right."
+    },
+    {
+     "v": 4,
+     "text": "The righteous do not make light of the Lord’s discipline,\nand their good will is always before the Lord."
+    },
+    {
+     "v": 5,
+     "text": "The righteous stumble and they declare the Lord just;\nthey fall and look to see what God will do for them;\n"
+    },
+    {
+     "v": 6,
+     "text": "they look out from where their rescue will come."
+    },
+    {
+     "v": 7,
+     "text": "The confidence of the righteous is from God their savior.\nSin upon sin does not lodge in the house of a righteous man."
+    },
+    {
+     "v": 8,
+     "text": "The righteous constantly looks over his house,\nto remove any wrong done by his own transgression."
+    },
+    {
+     "v": 9,
+     "text": "He makes atonement for sins of ignorance by fasting and humbling his soul,"
+    },
+    {
+     "v": 10,
+     "text": "and the Lord cleanses every devout man and his household."
+    },
+    {
+     "v": 11,
+     "text": "The sinner stumbles and curses his life,\nthe day he was born and the pains of his mother’s labor."
+    },
+    {
+     "v": 12,
+     "text": "He adds sins to sins as long as he lives."
+    },
+    {
+     "v": 13,
+     "text": "He falls, for his fall is evil, and he will not get up;\nthe destruction of the sinner is forever,"
+    },
+    {
+     "v": 14,
+     "text": "and he will not be remembered when God visits the righteous."
+    },
+    {
+     "v": 15,
+     "text": "This is the portion of sinners forever."
+    },
+    {
+     "v": 16,
+     "text": "But those who fear the Lord will rise up to eternal life,\nand their life will be in the Lord’s light, which will never come to an end."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:2",
+     "text": "“Watch” translates Greek *egrēgorsis*, “wakefulness”; it may refer to the night watches, or to the stations at which singers and watchmen served in the temple."
+    }
+   ],
+   "title": "A psalm of Solomon, about the righteous."
+  },
+  {
+   "n": 4,
+   "paras": [
+    1,
+    16,
+    26
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Why do you sit, you profane man, in the council of the devout,\nwhile your heart is far away from the Lord,\nangering the God of Israel with your lawless acts?"
+    },
+    {
+     "v": 2,
+     "text": "Excessive in words, excessive in outward display beyond everyone,\nhe is harsh in his speech when he condemns sinners in judgment."
+    },
+    {
+     "v": 3,
+     "text": "His hand is the first against them, as though in zeal,\nand yet he is himself guilty in many kinds of sin and in lack of self-control."
+    },
+    {
+     "v": 4,
+     "text": "His eyes are on every woman, without distinction;\nhis tongue lies when he makes a contract with an oath."
+    },
+    {
+     "v": 5,
+     "text": "At night and in secret places he sins as though no one sees him;\nwith his eyes he talks to every woman in an appointment for wickedness."
+    },
+    {
+     "v": 6,
+     "text": "He is quick to enter every house with a cheerful face, as though he were innocent."
+    },
+    {
+     "v": 7,
+     "text": "May God remove those who live in hypocrisy among the devout,\nin the ruin of his flesh and with a life of poverty."
+    },
+    {
+     "v": 8,
+     "text": "May God uncover the works of the people-pleasers,\nand may his works become a laughingstock and a mockery."
+    },
+    {
+     "v": 9,
+     "text": "May the devout declare the judgment of their God to be just,\nwhen sinners are removed from the face of the righteous,"
+    },
+    {
+     "v": 10,
+     "text": "the people-pleaser who speaks only with deceit."
+    },
+    {
+     "v": 11,
+     "text": "And their eyes are on a man’s house in its security, like a snake,\nto break up each other’s wisdom with the words of lawless men."
+    },
+    {
+     "v": 12,
+     "text": "His words are deceptions,\naiming at the fulfillment of unjust desire."
+    },
+    {
+     "v": 13,
+     "text": "He does not stop until he has succeeded in scattering them as orphans,\nand he has made a house desolate for the sake of lawless desire."
+    },
+    {
+     "v": 14,
+     "text": "He deceived them with words, saying that there is no one who sees and judges;"
+    },
+    {
+     "v": 15,
+     "text": "he is filled with lawlessness in this,\nand his eyes are on another house, to destroy it with words that will fill his appetite.\nHis soul is never satisfied, like Hades, in all these things.{b}"
+    },
+    {
+     "v": 16,
+     "text": "Lord, may his portion be dishonor in your presence;\nmay he leave with groans and arrive to curses."
+    },
+    {
+     "v": 17,
+     "text": "May his life be in pains and poverty and helplessness, Lord;\nmay his sleep be in sorrows and his waking in distress."
+    },
+    {
+     "v": 18,
+     "text": "May sleep be taken from his temples at night;\nmay he fail in every work of his hands, in dishonor."
+    },
+    {
+     "v": 19,
+     "text": "May his house be empty,\nlacking everything that would fill his soul,"
+    },
+    {
+     "v": 20,
+     "text": "and may his old age be spent in the loneliness of childlessness, until he is taken away."
+    },
+    {
+     "v": 21,
+     "text": "May the flesh of the people-pleasers be torn apart by wild animals,\nand the bones of the lawless lie in the sun, in dishonor."
+    },
+    {
+     "v": 22,
+     "text": "May crows pull out the eyes of those who put on a show,"
+    },
+    {
+     "v": 23,
+     "text": "because they have laid waste many people’s houses in dishonor and scattered them in their greed."
+    },
+    {
+     "v": 24,
+     "text": "They did not remember God,\nand they did not fear God in any of this."
+    },
+    {
+     "v": 25,
+     "text": "They provoked God and made him angry, so that he would remove them from the earth,\nbecause they pretended to be on the side of innocent souls, deceiving them."
+    },
+    {
+     "v": 26,
+     "text": "Blessed are those who fear the Lord in their innocence."
+    },
+    {
+     "v": 27,
+     "text": "The Lord will rescue them from deceitful men and sinners,\nand he will rescue us from every trap of the lawless."
+    },
+    {
+     "v": 28,
+     "text": "May God remove those who in arrogance do every kind of wrong,\nfor the Lord our God is a great and mighty judge in righteousness."
+    },
+    {
+     "v": 29,
+     "text": "Lord, may your mercy be on all who love you."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:title",
+     "text": "Greek *anthrōparesko*, “those who please men”; compare Col 3:22 and Eph 6:6. The psalm attacks hypocrites, probably the religious and political leaders of the Hasmonean period, who put on a show of devotion."
+    },
+    {
+     "m": "b",
+     "ref": "4:15",
+     "text": "Hades (Greek *hadēs*) is the realm of the dead, the Hebrew Sheol, which is never full (Prov 27:20; Hab 2:5)."
+    }
+   ],
+   "title": "Solomon’s dialogue with the people-pleasers.{a}"
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Lord God, I will praise your name with joy\namong those who know your righteous judgments."
+    },
+    {
+     "v": 2,
+     "text": "For you are kind and merciful,\na refuge for the poor,"
+    },
+    {
+     "v": 3,
+     "text": "so when I cry out to you, do not be silent toward me."
+    },
+    {
+     "v": 4,
+     "text": "For no one can take plunder away from a powerful man,"
+    },
+    {
+     "v": 5,
+     "text": "and who can take anything from all that you have made, unless you give it?"
+    },
+    {
+     "v": 6,
+     "text": "For a man and his portion are weighed out by you;\nhe will not add to it, to have more than your judgment allows, God."
+    },
+    {
+     "v": 7,
+     "text": "When we are afflicted we will call on you for help,\nand you will not turn away our plea,\nfor you are our God."
+    },
+    {
+     "v": 8,
+     "text": "Do not lay your hand heavily on us,\nlest in our need we sin."
+    },
+    {
+     "v": 9,
+     "text": "Even if you do not turn us back, we will not hold back,\nbut we will come to you."
+    },
+    {
+     "v": 10,
+     "text": "For if I am hungry I will cry out to you, God,\nand you will give to me."
+    },
+    {
+     "v": 11,
+     "text": "You feed the birds and the fish,\nwhen you send rain in the deserts so that the green grass can spring up,"
+    },
+    {
+     "v": 12,
+     "text": "and so prepare fodder in the wilderness for every living creature;\nand if they are hungry, they lift their faces to you."
+    },
+    {
+     "v": 13,
+     "text": "You feed kings and rulers and peoples, God,\nand what hope has the poor and needy man, if not you, Lord?"
+    },
+    {
+     "v": 14,
+     "text": "And you will listen. For who is so kind and gentle but you?\nYou cheer the humble soul by opening your hand with mercy."
+    },
+    {
+     "v": 15,
+     "text": "A man’s kindness is given sparingly, and it is for a day;\nand if he repeats it without grumbling, even that is a marvel."
+    },
+    {
+     "v": 16,
+     "text": "But your gift is great, with kindness, and rich,\nand the one whose hope is in you will not be held back from your gift."
+    },
+    {
+     "v": 17,
+     "text": "Your mercy is over all the earth, Lord, in kindness."
+    },
+    {
+     "v": 18,
+     "text": "Blessed is the one whom God remembers with a fair measure of sufficiency."
+    },
+    {
+     "v": 19,
+     "text": "If a man has too much, he sins;"
+    },
+    {
+     "v": 20,
+     "text": "enough in moderation is sufficient, together with righteousness,\nand in that is the Lord’s blessing: to have enough, with righteousness."
+    },
+    {
+     "v": 21,
+     "text": "Those who fear the Lord rejoiced in good things,\nand your kindness is upon Israel in your kingdom.{a}"
+    },
+    {
+     "v": 22,
+     "text": "May the Lord’s glory be blessed, for he is our king."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:21",
+     "text": "Israel (“God strives” or “he who strives with God,” Gen 32:28) is the name given to Jacob and then to his descendants."
+    }
+   ],
+   "title": "A psalm of Solomon."
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Happy is the man who is prepared in heart to invoke the Lord’s name."
+    },
+    {
+     "v": 2,
+     "text": "When he remembers the name of the Lord, he will be saved;"
+    },
+    {
+     "v": 3,
+     "text": "the Lord sets his paths straight,\nand the Lord his God keeps the work of his hands safe."
+    },
+    {
+     "v": 4,
+     "text": "Because of the dreams of the night his soul is not troubled;\nwhen he crosses rivers or in storms at sea, he will not be afraid."
+    },
+    {
+     "v": 5,
+     "text": "He gets up from sleep and blesses the name of the Lord;\nwhen his heart is calm, he sings to the name of his God."
+    },
+    {
+     "v": 6,
+     "text": "And he prays to the Lord for his whole house,\nand the Lord listens to the prayer of everyone who fears God."
+    },
+    {
+     "v": 7,
+     "text": "Whatever he asks for, he will receive from the Lord;\nthe Lord will answer every request of a man who is hoping in God."
+    },
+    {
+     "v": 8,
+     "text": "Blessed be the Lord, who shows mercy to those who love him in sincerity."
+    },
+    {
+     "v": 9,
+     "text": "Blessed is the Lord forever."
+    }
+   ],
+   "notes": [],
+   "title": "Of Solomon: in hope."
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Do not take your dwelling far from us, God,\nlest those who hate us without cause attack us."
+    },
+    {
+     "v": 2,
+     "text": "For you have rejected them, God;\ndo not let their feet trample on your holy inheritance."
+    },
+    {
+     "v": 3,
+     "text": "Discipline us yourself, as you wish,\nbut do not hand us over to the nations."
+    },
+    {
+     "v": 4,
+     "text": "For if you send death, you yourself command it for us;\nyou will have mercy on us."
+    },
+    {
+     "v": 5,
+     "text": "While your name dwells among us, we will find mercy,\n"
+    },
+    {
+     "v": 6,
+     "text": "and the nation will have no power against us."
+    },
+    {
+     "v": 7,
+     "text": "For you are our protector,\nand we will call on you, and you will listen to us."
+    },
+    {
+     "v": 8,
+     "text": "For you will have pity on the house of Israel forever, and you will not reject it."
+    },
+    {
+     "v": 9,
+     "text": "We are under your yoke forever, and under the rod of your discipline.\nYou will set us straight in the time of your visit."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:title",
+     "text": "Greek *epistrophēs*; in the Psalms of Solomon the word suggests “repentance” or “being brought back” to God."
+    }
+   ],
+   "title": "Of Solomon: of turning back.{a}"
+  },
+  {
+   "n": 8,
+   "paras": [
+    1,
+    15,
+    30
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The sound of distress and the cry of war has reached my ear,\nthe sound of a trumpet blaring slaughter and destruction."
+    },
+    {
+     "v": 2,
+     "text": "The noise of a great crowd, like a very strong wind,\nlike a storm of fire raging through the desert."
+    },
+    {
+     "v": 3,
+     "text": "And I said in my heart, “Where, then, will God judge it?”"
+    },
+    {
+     "v": 4,
+     "text": "I heard a sound from Jerusalem, the holy city."
+    },
+    {
+     "v": 5,
+     "text": "My loins were shattered at the news,\nmy knees gave way;"
+    },
+    {
+     "v": 6,
+     "text": "my heart was terrified,\nand my bones trembled like flax stalks."
+    },
+    {
+     "v": 7,
+     "text": "I said, “They are making their ways straight in righteousness.”\nI thought over the judgments of God from the creation of heaven and earth;\nI declared God righteous in his judgments of all time."
+    },
+    {
+     "v": 8,
+     "text": "God uncovered their sins in the face of the sun;\nthe whole earth knew the righteous judgments of God."
+    },
+    {
+     "v": 9,
+     "text": "Their lawless acts were in hidden underground rooms, to provoke him:"
+    },
+    {
+     "v": 10,
+     "text": "son with mother and father with daughter were mixed together;"
+    },
+    {
+     "v": 11,
+     "text": "each committed adultery with his neighbor’s wife;\nthey made agreements with each other with oaths about these things."
+    },
+    {
+     "v": 12,
+     "text": "They plundered the holy things of God,\nas though there were no heir to redeem them."
+    },
+    {
+     "v": 13,
+     "text": "They trampled the altar of the Lord, in every uncleanness,\nand with menstrual blood they defiled the sacrifices as if they were common meat."
+    },
+    {
+     "v": 14,
+     "text": "There was no sin they left undone;\nthey surpassed the nations."
+    },
+    {
+     "v": 15,
+     "text": "For this reason God mixed a spirit of confusion for them,\nand made them drink a cup of unmixed wine to drunkenness."
+    },
+    {
+     "v": 16,
+     "text": "He brought one from the end of the earth, one who strikes with power;"
+    },
+    {
+     "v": 17,
+     "text": "he decided on war against Jerusalem and its land."
+    },
+    {
+     "v": 18,
+     "text": "The rulers of the land met him with joy,\nand said to him, “Your road is blessed;\ncome, enter in peace.”"
+    },
+    {
+     "v": 19,
+     "text": "They smoothed the rough roads before his entry;\nthey opened the gates to Jerusalem;\nthey crowned her walls."
+    },
+    {
+     "v": 20,
+     "text": "He entered like a father into the house of his sons, in peace;\nhe set his feet down with great security."
+    },
+    {
+     "v": 21,
+     "text": "He captured her fortified towers and the wall of Jerusalem,"
+    },
+    {
+     "v": 22,
+     "text": "and God led him in safety while they went astray.{b}"
+    },
+    {
+     "v": 23,
+     "text": "He destroyed their rulers and every wise counselor;\nhe spilled the blood of Jerusalem’s residents as if it were dirty water."
+    },
+    {
+     "v": 24,
+     "text": "He led away their sons and daughters,\nwhom they had fathered in defilement."
+    },
+    {
+     "v": 25,
+     "text": "They did according to their uncleanness, as their fathers had done."
+    },
+    {
+     "v": 26,
+     "text": "They defiled Jerusalem and the things that were consecrated to God’s name."
+    },
+    {
+     "v": 27,
+     "text": "God was shown to be righteous in his judgments among the nations of the earth,"
+    },
+    {
+     "v": 28,
+     "text": "and the devout of God were like lambs in their innocence in the midst of them."
+    },
+    {
+     "v": 29,
+     "text": "Praised be the Lord, who judges all the earth in his righteousness."
+    },
+    {
+     "v": 30,
+     "text": "See now, God, you have shown us your judgment in your righteousness;"
+    },
+    {
+     "v": 31,
+     "text": "our eyes have seen your judgments, God."
+    },
+    {
+     "v": 32,
+     "text": "We have declared your honored name righteous forever,\nfor you are the God of righteousness, who judges Israel with discipline."
+    },
+    {
+     "v": 33,
+     "text": "Turn your mercy toward us, God, and have pity on us;"
+    },
+    {
+     "v": 34,
+     "text": "bring together Israel’s scattered people with compassion and goodness."
+    },
+    {
+     "v": 35,
+     "text": "For your faithfulness is with us,\nand though we stiffened our necks, you are our discipliner."
+    },
+    {
+     "v": 36,
+     "text": "Do not overlook us, our God,\nlest the nations swallow us up as though there were no one to redeem us."
+    },
+    {
+     "v": 37,
+     "text": "You have been our God from the beginning,\nand our hope is in you, Lord."
+    },
+    {
+     "v": 38,
+     "text": "We will not turn away from you,\nfor your judgments toward us are kind."
+    },
+    {
+     "v": 39,
+     "text": "The favor is ours and our children’s forever.\nLord, our savior, we will never be shaken again, for all time."
+    },
+    {
+     "v": 40,
+     "text": "Praised be the Lord in his judgments through the mouth of the devout,\nand may Israel be blessed by the Lord forever."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:title",
+     "text": "The Greek *eis nikos* may stand for Hebrew *lamnatseach* (“for the leader”), a heading found in many biblical psalms, as in Ps 4–6."
+    },
+    {
+     "m": "b",
+     "ref": "8:22",
+     "text": "The verses refer to Pompey’s entry into Jerusalem in 63 BC, apparently by agreement with one of the rival Hasmonean brothers (Hyrcanus II), followed by the siege and storming of the temple hill by his troops."
+    }
+   ],
+   "title": "Of Solomon: for victory.{a}"
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Israel was led away in exile to a foreign land,\nwhen they had turned away from the Lord who had redeemed them,"
+    },
+    {
+     "v": 2,
+     "text": "they were thrown out of the inheritance that the Lord had given them.\nIsrael is dispersed among every nation, according to the word of God,"
+    },
+    {
+     "v": 3,
+     "text": "so that you, God, may be shown to be righteous in your righteousness,\nby our lawless acts."
+    },
+    {
+     "v": 4,
+     "text": "For you are a just judge over all the peoples on earth."
+    },
+    {
+     "v": 5,
+     "text": "No one who does wrong can be hidden from your knowledge,"
+    },
+    {
+     "v": 6,
+     "text": "and the righteous deeds of your devout are before you, Lord;\nand where could a person hide from your knowledge, God?"
+    },
+    {
+     "v": 7,
+     "text": "Our deeds are by our own choice and by the authority of our own soul,\nto practice justice or injustice in what our hands do."
+    },
+    {
+     "v": 8,
+     "text": "And in your righteousness you visit the sons of men."
+    },
+    {
+     "v": 9,
+     "text": "The one who does righteousness stores up life for himself with the Lord,\nand the one who does wrong is himself to blame for the ruin of his soul."
+    },
+    {
+     "v": 10,
+     "text": "For the Lord’s judgments are in righteousness, for each man and household."
+    },
+    {
+     "v": 11,
+     "text": "To whom will you be kind, God, if not to those who call on the Lord?"
+    },
+    {
+     "v": 12,
+     "text": "He will cleanse a soul from sins in confession, in open acknowledgment,"
+    },
+    {
+     "v": 13,
+     "text": "for shame is ours, and on our faces, because of everything."
+    },
+    {
+     "v": 14,
+     "text": "And whose sins will he pardon, if not those of sinners?"
+    },
+    {
+     "v": 15,
+     "text": "You will bless the righteous, and will not call them to account for what they have sinned,\nand your kindness is for sinners when they repent."
+    },
+    {
+     "v": 16,
+     "text": "And now, you are God, and we are your people, whom you have loved.\nLook, and have pity, God of Israel, for we are yours."
+    },
+    {
+     "v": 17,
+     "text": "Do not take your mercy away from us, lest they set upon us."
+    },
+    {
+     "v": 18,
+     "text": "For you chose the descendants of Abraham above all the nations,\nand put your name on us, Lord,\nand you will not cease forever.{a}"
+    },
+    {
+     "v": 19,
+     "text": "You made a covenant with our fathers about us,\nand we put our hope in you as our soul turns back."
+    },
+    {
+     "v": 20,
+     "text": "The Lord’s mercy is on the house of Israel forever and ever."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:18",
+     "text": "Abraham (“father of a multitude,” Gen 17:5) is named here as the ancestor to whom the covenant promise was first given."
+    }
+   ],
+   "title": "Of Solomon: for reproof."
+  },
+  {
+   "n": 10,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "How fortunate is the one the Lord keeps in mind by reproving him,\nand who is hemmed in from the way of evil by the whip,\nto be cleansed from sin, that it may not multiply."
+    },
+    {
+     "v": 2,
+     "text": "The one who prepares his back for the lashes will be cleansed,\nfor the Lord is kind to those who endure discipline."
+    },
+    {
+     "v": 3,
+     "text": "For he will make the ways of the righteous straight,\nand will not bend them in his discipline."
+    },
+    {
+     "v": 4,
+     "text": "The Lord’s compassion rests on those who love him sincerely,\nand the Lord will not forget his servants but treat them mercifully."
+    },
+    {
+     "v": 5,
+     "text": "For the testimony lies in the Law, an everlasting covenant;\nthe Lord’s testimony oversees what people do with their lives."
+    },
+    {
+     "v": 6,
+     "text": "Our Lord is righteous and devout in his judgments forever,\nand Israel will praise the name of the Lord with gladness."
+    },
+    {
+     "v": 7,
+     "text": "And the devout will confess him in the people’s gathering,\nand God will pity the poor, to the joy of Israel."
+    },
+    {
+     "v": 8,
+     "text": "For God is kind and merciful forever,\nand the assemblies of Israel will glorify the name of the Lord."
+    },
+    {
+     "v": 9,
+     "text": "The salvation of the Lord is on the house of Israel, for everlasting gladness.{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:9",
+     "text": "Swete’s Greek text reads *sōphrosynē* (“sound mind, self-control”), but editors commonly read *euphrosynē* (“gladness”), as in verses 6 and 7. “Gladness” is used here. This is a point to check against the manuscripts."
+    }
+   ],
+   "title": "Among the hymns, of Solomon."
+  },
+  {
+   "n": 11,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Blow the trumpet in Zion, the trumpet that calls the holy ones.{a}"
+    },
+    {
+     "v": 2,
+     "text": "Announce in Jerusalem the voice of the one who brings good news,\nfor God has had mercy on Israel by visiting them."
+    },
+    {
+     "v": 3,
+     "text": "Stand on a height, Jerusalem, and look at your children,\ngathered from east and west, all together, by the Lord."
+    },
+    {
+     "v": 4,
+     "text": "From the north they come with the joy of their God;\nfrom far-off islands God has gathered them."
+    },
+    {
+     "v": 5,
+     "text": "He lowered high mountains to make level ground for them."
+    },
+    {
+     "v": 6,
+     "text": "The hills fled at their coming;\nthe forests gave them shade as they passed."
+    },
+    {
+     "v": 7,
+     "text": "God made every fragrant tree spring up for them,\nso that Israel might pass by with the visit of the glory of their God."
+    },
+    {
+     "v": 8,
+     "text": "Put on, Jerusalem, your garments of glory;\nprepare your holy robe,\nfor God has spoken good things for Israel forever and ever."
+    },
+    {
+     "v": 9,
+     "text": "May the Lord do what he has promised for Israel and Jerusalem;\nmay the Lord raise Israel up by his glorious name.\nThe Lord’s mercy is on Israel forever and ever.{b}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:1",
+     "text": "Zion is the hill of Jerusalem on which the temple stood, and in poetry stands for the city itself."
+    },
+    {
+     "m": "b",
+     "ref": "11:9",
+     "text": "Compare Baruch 4:36–5:9, which is very close to this psalm; the two probably share a source, or one is based on the other."
+    }
+   ],
+   "title": "Of Solomon: for expectation."
+  },
+  {
+   "n": 12,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Lord, rescue my soul from the lawless and wicked man,\nfrom the lawless tongue that slanders and speaks falsehood and deceit."
+    },
+    {
+     "v": 2,
+     "text": "The words of a wicked man’s tongue twist and turn in many ways."
+    },
+    {
+     "v": 3,
+     "text": "Like a fire in a crowd, it sets fire to its own beauty;\nits guest, the tongue, fills houses with lies,\ncutting down trees of gladness, setting the lawless ablaze.{a}"
+    },
+    {
+     "v": 4,
+     "text": "It throws the houses of the lawless into confusion, with a war of whispering lips.\nMay God keep the lips of the lawless far away from the innocent, in their helplessness,\nand may the bones of the slanderers be scattered far from those who fear the Lord."
+    },
+    {
+     "v": 5,
+     "text": "May the slanderer’s tongue perish in a flaming fire, away from the devout."
+    },
+    {
+     "v": 6,
+     "text": "May the Lord guard the soul of the man who makes peace in his house."
+    },
+    {
+     "v": 7,
+     "text": "The salvation of the Lord is on Israel his servant forever,"
+    },
+    {
+     "v": 8,
+     "text": "and may the sinners perish from the face of the Lord all at once,\nand may the devout of the Lord inherit his promises."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:3",
+     "text": "The Greek of this verse is rough and the text may be damaged. The sense is that slander is a fire that burns first the speaker and then every household it enters."
+    }
+   ],
+   "title": "Of Solomon: against the tongue of lawless men."
+  },
+  {
+   "n": 13,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Lord’s right hand sheltered me;\nhis right hand showed us pity."
+    },
+    {
+     "v": 2,
+     "text": "The Lord’s arm rescued us from the sword sweeping by,\nfrom hunger and from the sinners’ death."
+    },
+    {
+     "v": 3,
+     "text": "Wild beasts rushed upon them, vicious ones;\nwith their teeth they tore at their flesh,\nand with their molars they ground their bones.\nAnd from all these the Lord rescued us."
+    },
+    {
+     "v": 4,
+     "text": "The ungodly man was troubled because of his offenses,\nlest he be carried off with the sinners."
+    },
+    {
+     "v": 5,
+     "text": "For the sinner’s ruin is terrible,\nand none of this will touch the righteous."
+    },
+    {
+     "v": 6,
+     "text": "For the correction of the righteous, done in ignorance,\nis not like the ruin of the sinner."
+    },
+    {
+     "v": 7,
+     "text": "The righteous man is disciplined in secret,\nso that the sinner will not rejoice over him."
+    },
+    {
+     "v": 8,
+     "text": "For he will admonish the righteous like a dearly loved son,\nand his correction is that given to a firstborn."
+    },
+    {
+     "v": 9,
+     "text": "For the Lord will spare his devout ones,\nand wipe out their offenses by discipline.\nThe life of the righteous is forever."
+    },
+    {
+     "v": 10,
+     "text": "But sinners will be taken away to destruction,\nand no memory of them will be found any more."
+    },
+    {
+     "v": 11,
+     "text": "The Lord’s mercy is on the devout,\nand his mercy is on those who fear him."
+    }
+   ],
+   "notes": [],
+   "title": "A psalm of Solomon, a comfort for the righteous."
+  },
+  {
+   "n": 14,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Lord is faithful to those who love him in truth,\nto those who endure his discipline,\nto those who walk in righteousness by his commandments,\nin the Law that he gave us for our life."
+    },
+    {
+     "v": 2,
+     "text": "The devout of the Lord will live by it forever.\nThe Lord’s paradise, the trees of life, are his devout ones."
+    },
+    {
+     "v": 3,
+     "text": "Their planting is rooted forever;\nthey will not be uprooted all the days of heaven,\nfor Israel is the portion and the inheritance of God."
+    },
+    {
+     "v": 4,
+     "text": "Not so the sinners and the lawless,\nwho loved the day of sharing in their sin;\ntheir desire is in the smallness of decay.{a}"
+    },
+    {
+     "v": 5,
+     "text": "And they did not remember God,\nfor human conduct is always plain to him,\nand he knows the secret rooms of the heart before they exist."
+    },
+    {
+     "v": 6,
+     "text": "For this reason their inheritance is Hades and darkness and destruction,\nand they will not be found on the day when the righteous receive mercy."
+    },
+    {
+     "v": 7,
+     "text": "But the devout of the Lord will inherit life in gladness."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:4",
+     "text": "The Greek is difficult. The idea seems to be that the pleasures of the wicked are brief and rotten."
+    }
+   ],
+   "title": "A hymn of Solomon."
+  },
+  {
+   "n": 15,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In my distress I called on the Lord,\nwhen I was pressed hard by the sinners, and I was saved."
+    },
+    {
+     "v": 2,
+     "text": "For you are the hope and the refuge of the poor, God."
+    },
+    {
+     "v": 3,
+     "text": "For who is strong, God, if not to give you thanks in truth?"
+    },
+    {
+     "v": 4,
+     "text": "And what is a man’s power, if not to give thanks to your name?"
+    },
+    {
+     "v": 5,
+     "text": "With a new psalm and song, in the gladness of the heart,\nlips bearing fruit, with the tongue a well-tuned instrument,\nthe first offering of lips from a devout and righteous heart—"
+    },
+    {
+     "v": 6,
+     "text": "the one who does these things will never be shaken by evil;\nthe flame of fire and the anger of the unjust will not touch him,"
+    },
+    {
+     "v": 7,
+     "text": "when it goes out against sinners from the Lord’s presence,\nto wipe out all that sinners stand on."
+    },
+    {
+     "v": 8,
+     "text": "For the mark of God is on the righteous, for their salvation;\nfamine and sword and death are far from the righteous."
+    },
+    {
+     "v": 9,
+     "text": "For they will flee from the devout as from an enemy chasing them,\nbut they will be pursued and caught, the sinners;\nand those who do lawless things will not escape the Lord’s judgment,\nbut will be overtaken as by skilled enemies."
+    },
+    {
+     "v": 10,
+     "text": "For the mark of destruction is on their foreheads."
+    },
+    {
+     "v": 11,
+     "text": "And what sinners inherit is destruction and darkness,\nand their lawless acts will chase them down to Hades below."
+    },
+    {
+     "v": 12,
+     "text": "Their inheritance will not be found for their children."
+    },
+    {
+     "v": 13,
+     "text": "For sins will leave the houses of sinners empty."
+    },
+    {
+     "v": 14,
+     "text": "And sinners will perish forever on the day of the Lord’s judgment,\nwhen God visits the earth with his judgment."
+    },
+    {
+     "v": 15,
+     "text": "But those who fear the Lord will be shown mercy in it,\nand will live by the generosity of their God;\nbut sinners will perish forever.{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:15",
+     "text": "The “mark” of verses 8 and 10 recalls the sign on the forehead in Ezek 9:4–6, and the mark of the beast in Rev 13:16–17 and 14:9. In the Psalms of Solomon, the righteous bear God’s mark for protection and the sinners bear a mark of destruction."
+    }
+   ],
+   "title": "A psalm of Solomon, with a song."
+  },
+  {
+   "n": 16,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When my soul was drowsy, away from the Lord,\nI almost slipped into the deep sleep of falling."
+    },
+    {
+     "v": 2,
+     "text": "When I was far from God, my soul was almost poured out to death,\nnear the gates of Hades, with the sinner."
+    },
+    {
+     "v": 3,
+     "text": "When my soul was torn away from the Lord, the God of Israel,\nit would have been so, had the Lord not taken hold of me, in his lasting mercy."
+    },
+    {
+     "v": 4,
+     "text": "He pricked me like a horseman’s spur, to wake me up;\nmy savior and helper in every time saved me."
+    },
+    {
+     "v": 5,
+     "text": "I will give thanks to you, God, that you took hold of me for salvation,\nand did not count me with the sinners to my ruin."
+    },
+    {
+     "v": 6,
+     "text": "Do not take your mercy away from me, God,\nor your remembrance from my heart, until death."
+    },
+    {
+     "v": 7,
+     "text": "Master me, God, away from evil sin\nand from every wicked woman who trips up the foolish."
+    },
+    {
+     "v": 8,
+     "text": "And do not let the beauty of a lawless woman deceive me,\nnor anyone lying under the power of useless sin."
+    },
+    {
+     "v": 9,
+     "text": "Make straight the works of my hands according to your pattern,\nand watch over my steps with your remembrance."
+    },
+    {
+     "v": 10,
+     "text": "Hold in check my tongue and my lips with words of truth;\nput anger and unreasoning rage far away from me."
+    },
+    {
+     "v": 11,
+     "text": "Take grumbling and faint-heartedness in distress away from me,\neven if I sin when you discipline me to bring me back."
+    },
+    {
+     "v": 12,
+     "text": "But in your good pleasure, with cheerfulness, strengthen my soul;\nwhen you give strength to my soul, what is given will be enough for me."
+    },
+    {
+     "v": 13,
+     "text": "For if you do not give strength, who will endure discipline in poverty?"
+    },
+    {
+     "v": 14,
+     "text": "When the soul is poured into the hand of its decay,\nyour test is in his flesh and in the distress of poverty."
+    },
+    {
+     "v": 15,
+     "text": "If the righteous endures in these things, he will receive mercy from the Lord."
+    }
+   ],
+   "notes": [],
+   "title": "A hymn of Solomon, for the support of the devout."
+  },
+  {
+   "n": 17,
+   "paras": [
+    1,
+    23,
+    32
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Lord, you are our king forever and ever,\nfor in you, God, our soul will boast."
+    },
+    {
+     "v": 2,
+     "text": "And how long is the span of a man’s life on earth?\nHis hope is as long as his time."
+    },
+    {
+     "v": 3,
+     "text": "But we will hope in God our savior,\nfor the might of our God is forever, with mercy,"
+    },
+    {
+     "v": 4,
+     "text": "and our God’s kingdom lasts forever, ruling the nations."
+    },
+    {
+     "v": 5,
+     "text": "You, Lord, chose David as king over Israel,\nand you swore to him about his descendants forever,\nthat his kingdom would not fail before you."
+    },
+    {
+     "v": 6,
+     "text": "But because of our sins sinners rose up against us;\nthey attacked us and drove us out.\nThose to whom you made no promise took it by force,"
+    },
+    {
+     "v": 7,
+     "text": "and did not glorify your honored name.\nThey set up a royal house in glory, in place of their height;"
+    },
+    {
+     "v": 8,
+     "text": "they laid waste David’s throne with the arrogance of a war cry.{b}"
+    },
+    {
+     "v": 9,
+     "text": "But you, God, will throw them down and remove their offspring from the earth,\nwhen a man foreign to our race rises up against them."
+    },
+    {
+     "v": 10,
+     "text": "According to their sins you will repay them, God,\nso that they find themselves treated as their deeds deserve."
+    },
+    {
+     "v": 11,
+     "text": "God will have no pity on them;\nhe searched out their offspring and let not one of them go."
+    },
+    {
+     "v": 12,
+     "text": "The Lord is faithful in all his judgments\nthat he carries out on the earth."
+    },
+    {
+     "v": 13,
+     "text": "The lawless man laid our land waste, taking away its inhabitants;\nthey destroyed young and old and their children together."
+    },
+    {
+     "v": 14,
+     "text": "In the anger of his splendor he sent them away to the west,\nand made the rulers of the land a laughingstock, and showed no pity."
+    },
+    {
+     "v": 15,
+     "text": "In his hostility the enemy acted with arrogance,\nand his heart was foreign to our God."
+    },
+    {
+     "v": 16,
+     "text": "And everything he did in Jerusalem was like what the nations do in their cities for their gods."
+    },
+    {
+     "v": 17,
+     "text": "And the sons of the covenant, living among the mixed peoples, gave way to them;\nthere was no one among them in Jerusalem who practiced mercy and truth."
+    },
+    {
+     "v": 18,
+     "text": "Those who loved the gatherings of the devout fled from them;\nlike sparrows they were scattered from their nests."
+    },
+    {
+     "v": 19,
+     "text": "They wandered in the deserts to save their souls from evil,\nand in the eyes of those who lived abroad a life that had been saved from them was precious."
+    },
+    {
+     "v": 20,
+     "text": "Their dispersion came upon the whole earth, from lawless men."
+    },
+    {
+     "v": 21,
+     "text": "For the heaven held back from letting rain fall on the earth,\nand the ever-flowing springs were stopped, from the deeps, from the high mountains,\nbecause there was no one among them who did righteousness and justice;\nfrom their ruler to the least of the people, all were in every sin."
+    },
+    {
+     "v": 22,
+     "text": "The king was in lawlessness, the judge in disobedience, and the people in sin."
+    },
+    {
+     "v": 23,
+     "text": "See, Lord, and raise up for them their king,\nthe son of David, at the time you have seen, God,\nto rule over Israel your servant.{c}"
+    },
+    {
+     "v": 24,
+     "text": "Gird him with strength to shatter unjust rulers,"
+    },
+    {
+     "v": 25,
+     "text": "to cleanse Jerusalem from the nations who trample her to ruin,"
+    },
+    {
+     "v": 26,
+     "text": "in wisdom and righteousness to drive out sinners from the inheritance,\nto smash the arrogance of the sinner like a potter’s jars;\nwith an iron rod to break all their strength to pieces,"
+    },
+    {
+     "v": 27,
+     "text": "to wipe out lawless nations by a word from his mouth,\nso that nations run from his presence when he threatens them,\nand to convict sinners by the word of their own hearts."
+    },
+    {
+     "v": 28,
+     "text": "And he will gather a holy people, whom he will lead in righteousness,\nand will judge the tribes of the people who have been made holy by the Lord their God."
+    },
+    {
+     "v": 29,
+     "text": "And he will not allow wrong to lodge among them any longer,\nand no man who knows evil will live with them."
+    },
+    {
+     "v": 30,
+     "text": "For he will know them, that they are all sons of their God,\nand he will divide them up by their tribes on the land."
+    },
+    {
+     "v": 31,
+     "text": "And no foreigner or stranger will live among them anymore.\nHe will judge peoples and nations with the wisdom of his righteousness. Pause.{d}"
+    },
+    {
+     "v": 32,
+     "text": "And he will have the peoples of the nations serve him under his yoke,\nand he will glorify the Lord in a place marked out for all the earth to see."
+    },
+    {
+     "v": 33,
+     "text": "And he will cleanse Jerusalem in holiness, as it was from the beginning,"
+    },
+    {
+     "v": 34,
+     "text": "so that nations come from the end of the earth to see his glory,\ncarrying her exhausted sons as presents,"
+    },
+    {
+     "v": 35,
+     "text": "and to see the glory of the Lord, with which God has glorified her.\nAnd he is a righteous king, taught by God, over them."
+    },
+    {
+     "v": 36,
+     "text": "There will be no injustice among them in his days,\nfor all will be holy, and their king will be the Lord’s anointed.{e}"
+    },
+    {
+     "v": 37,
+     "text": "For he will not put his hope in horse or rider or bow,\nnor will he pile up gold or silver for war,\nnor will he gather hopes in the numbers of men for the day of war."
+    },
+    {
+     "v": 38,
+     "text": "The Lord himself is his king;\nthe strong man’s hope is the hope he rests in God,\nand he will have mercy on all the nations before him in fear."
+    },
+    {
+     "v": 39,
+     "text": "For he will smite the land with a word from his mouth, for all time,"
+    },
+    {
+     "v": 40,
+     "text": "he will bless the Lord’s people with wisdom and with gladness."
+    },
+    {
+     "v": 41,
+     "text": "And he himself is free from sin, so as to rule a great people,\nto convict rulers and remove sinners by the strength of his word."
+    },
+    {
+     "v": 42,
+     "text": "He will not grow weak in his days, because of his God,\nfor God has made him strong in the holy spirit,\nand wise in counsel with understanding, with strength and righteousness."
+    },
+    {
+     "v": 43,
+     "text": "And the Lord’s blessing goes with him, with power,"
+    },
+    {
+     "v": 44,
+     "text": "and his hope in the Lord will not fail.\nAnd who can stand against him?\nHe is mighty in what he does and strong through reverence for God;"
+    },
+    {
+     "v": 45,
+     "text": "he shepherds the Lord’s flock in faith and righteousness,\nand will not let any of them grow weak in their pasture."
+    },
+    {
+     "v": 46,
+     "text": "He will lead them all in equality,\nand there will be no arrogance among them, so that anyone is oppressed."
+    },
+    {
+     "v": 47,
+     "text": "This is the glory of Israel’s king, as God foresaw,\nto set him over the house of Israel and train it."
+    },
+    {
+     "v": 48,
+     "text": "His words are refined, more than fine gold, the most precious;\nin the assemblies he will judge the tribes of the people made holy."
+    },
+    {
+     "v": 49,
+     "text": "His words are like the words of the holy ones among sanctified peoples."
+    },
+    {
+     "v": 50,
+     "text": "Blessed are those who will live in those days,\nto see the good things of Israel in the gathering of the tribes,\nwhich God will do."
+    },
+    {
+     "v": 51,
+     "text": "May God hasten his mercy to Israel;\nmay he rescue us from the uncleanness of profane enemies.\nThe Lord himself is our king forever and ever."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "17:title",
+     "text": "The Greek *meta ōdēs* (“with a song”) is a heading also found on Psalms 15 and 17. “To the king” may refer to the Lord as king, or to the Davidic king expected in the psalm. This psalm is the most important description of the Messiah in the literature of the time."
+    },
+    {
+     "m": "b",
+     "ref": "17:8",
+     "text": "The Hasmonean rulers (from 104 BC they took the title “king”) were priests, not descendants of David. The psalmist regards them as usurpers."
+    },
+    {
+     "m": "c",
+     "ref": "17:23",
+     "text": "“Son of David” is a title here for the future king. The hope of a king from David’s line rests on 2 Sam 7:12–16."
+    },
+    {
+     "m": "d",
+     "ref": "17:31",
+     "text": "Greek *diapsalma*, as in the Greek Psalms (Hebrew *selah*), a mark whose meaning is not known; it may signal a musical interlude or a pause."
+    },
+    {
+     "m": "e",
+     "ref": "17:36",
+     "text": "Greek *christos kyrios*. Most scholars read “the Lord’s anointed” (*christos kyriou*, as in 18:6 and 18:8); some think the original was a Hebrew phrase “the Lord’s anointed” and that “Lord Messiah” arose in translation, or that a Christian hand altered it. “Anointed” and “Messiah” are the same word (Hebrew *mashiach*, Greek *christos*)."
+    }
+   ],
+   "title": "A psalm of Solomon, with a song, to the king.{a}"
+  },
+  {
+   "n": 18,
+   "paras": [
+    1,
+    11
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Lord, your mercy is over the works of your hands forever."
+    },
+    {
+     "v": 2,
+     "text": "Your kindness is on Israel in a rich gift.\nYour eyes look on them, and none of them will lack anything."
+    },
+    {
+     "v": 3,
+     "text": "Your ears listen to the prayer of the poor who hope;\nyour judgments over all the earth are with mercy,"
+    },
+    {
+     "v": 4,
+     "text": "and your love is over the descendants of Abraham, the sons of Israel.\nYour discipline is on us as on a firstborn, an only son,"
+    },
+    {
+     "v": 5,
+     "text": "to turn a listening soul away from foolishness and ignorance."
+    },
+    {
+     "v": 6,
+     "text": "May God cleanse Israel for the day of mercy, with blessing,\nfor the day of choice, when his anointed one is brought in."
+    },
+    {
+     "v": 7,
+     "text": "Blessed are those who will be born in those days,\nto see the good things of the Lord which he will do for the coming generation,"
+    },
+    {
+     "v": 8,
+     "text": "under the rod of discipline of the Lord’s anointed,\nin reverence for his God, in the wisdom of the spirit and of righteousness and strength,"
+    },
+    {
+     "v": 9,
+     "text": "to set men straight in works of righteousness in the fear of God,\nto set them all before the Lord."
+    },
+    {
+     "v": 10,
+     "text": "A good generation, living in reverence for God, in the days of mercy. Pause.{b}"
+    },
+    {
+     "v": 11,
+     "text": "Great is our God and glorious, living on high,"
+    },
+    {
+     "v": 12,
+     "text": "who set the lights in their courses to mark the seasons of the hours from day to day,\nand they have not left the road you ordered them to follow."
+    },
+    {
+     "v": 13,
+     "text": "In the fear of God their path goes on each day,\nfrom the day God made them and to the end of time."
+    },
+    {
+     "v": 14,
+     "text": "And they have not strayed since the day he made them;\nfrom ancient generations they have not left their ways,\nunless God commanded them, through the order given by his servants."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "18:title",
+     "text": "Greek *eti peri tou christou kyriou*. As in 17:36 some read “the Lord’s anointed” and others “the Lord Messiah”."
+    },
+    {
+     "m": "b",
+     "ref": "18:10",
+     "text": "Greek *diapsalma*; see the note at 17:31."
+    }
+   ],
+   "title": "A psalm of Solomon, still about the Lord’s anointed.{a}"
+  }
+ ]
+}
