@@ -1,0 +1,1131 @@
+{
+ "id": "4-baruch",
+ "name": "4 Baruch",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the Greek text of 4 Baruch (the *Paraleipomena Ieremiou*, \"Things Omitted from Jeremiah\") as edited by J. Rendel Harris, *The Rest of the Words of Baruch* (London, 1889), which is in the public domain and prints three groups of Greek copies, called a, b and c in its notes, along with readings from the Ethiopic version. Harris's Greek was read directly; his English rendering and R. H. Charles's later reference translation (public domain) were consulted only to line up verses, and the English here is new. Where the Greek is damaged or the copies differ in a way that changes the sense, the footnotes say so. Greek *Kyrios* is \"the Lord\" throughout; where the Bible's own text would have Yahweh, this book simply says \"the Lord,\" because the Greek never writes the Hebrew name. **Date and text.** The story is set at the fall of Jerusalem to the Babylonians in 587/586 BC, but it was written much later. Most scholars place the Jewish core shortly after the Romans destroyed Jerusalem in AD 70 and before the Bar Kokhba revolt, perhaps between about AD 100 and 136; Harris himself argued for a date close to AD 136. Some wording, especially the passage in chapter 9 about the Son of God and Jesus Christ, may have been added by a Christian editor or may reflect a Christian rework of the whole. The Greek is preserved in medieval copies, and the book also survives in Ethiopic, Armenian, Slavonic and other translations, which sometimes keep readings the Greek lost. **Numbering.** The chapters here (nine) and the verse counts follow the numbering most commonly used in English study of the book. Harris's own verse divisions differ in several chapters (his chapters 3 and 8 have far fewer verses, for example), so a verse number here may not match a citation to Harris's page. **Canon status.** 4 Baruch is not in the Jewish Bible, the Catholic and Orthodox Old Testaments, or the Protestant canon. It is accepted in the wider canon of the Ethiopian Orthodox Tewahedo Church, where it is known as the \"Rest of the Words of Baruch.\" **About the book.** In 4 Baruch, Jeremiah and his scribe Baruch are in Jerusalem as the Babylonians approach. Jeremiah hides the Temple vessels and keys, and the people are taken to Babylon, while the Ethiopian Abimelech, who had once rescued Jeremiah from a pit, is spared and sent to rest among the figs of Agrippa's estate, where he sleeps sixty-six years. When Abimelech wakes, an angel leads him back to Jerusalem; Baruch and Jeremiah's letter bring the exiles home. Jeremiah then calls the people to leave the habits of Babylon; those who refuse build Samaria, and Jeremiah falls into a three-day trance in which he sees the coming of the Son of God. The people stone a stone that has taken his shape, and he is killed after finishing his message. The book aims to comfort Jews after the loss of the Temple and to teach that resurrection and a return from exile follow faithfulness to God, and it later played a part in Christian reading of Jeremiah.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When the people of Israel were being carried away captive by the Chaldean king,{a} God spoke to Jeremiah.{b} \"Jeremiah, my chosen servant,\" he said, \"rise up and leave this city, you and Baruch,{c} because I am about to lay it in ruins; those who live in it have heaped up so many sins.\""
+    },
+    {
+     "v": 2,
+     "text": "Your prayers stand in the middle of it like a firm pillar, and like a wall of unbreakable steel running all around it."
+    },
+    {
+     "v": 3,
+     "text": "So now, get up and go out before the Chaldean army has the city ringed."
+    },
+    {
+     "v": 4,
+     "text": "Jeremiah answered, \"I beg you, Lord,{d} let your servant speak in your presence.\""
+    },
+    {
+     "v": 5,
+     "text": "\"Speak, Jeremiah, my chosen one,\" the Lord answered."
+    },
+    {
+     "v": 6,
+     "text": "So Jeremiah said, \"Lord Almighty,{e} are you handing your chosen city over to the Chaldeans, so that the king and all his people may boast and say, 'I have beaten the holy city of God'?"
+    },
+    {
+     "v": 7,
+     "text": "No, my Lord. But if that is what you want, then destroy it with your own hands.\""
+    },
+    {
+     "v": 8,
+     "text": "The Lord said to Jeremiah, \"Because you are my chosen one, get up and leave this city, you and Baruch, because I am going to destroy it for the great number of sins of those who live in it."
+    },
+    {
+     "v": 9,
+     "text": "The king and his army cannot get inside unless I myself open its gates for them."
+    },
+    {
+     "v": 10,
+     "text": "So get up, go to Baruch, and give him these words."
+    },
+    {
+     "v": 11,
+     "text": "At midnight,{f} after you have gotten up, climb onto the city walls. I will show you that they cannot enter until I have brought the city down first.\""
+    },
+    {
+     "v": 12,
+     "text": "When the Lord had spoken, he went away from Jeremiah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "\"Chaldeans\" is the Greek form of Hebrew Kasdim, the people who ruled Babylon. The book looks back to the Babylonian conquest of Jerusalem in 587/586 BC (compare 2 Kings 25; Jeremiah 39)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "The Hebrew name Yirmeyahu is often explained as \"Yahweh lifts up\" or \"Yahweh throws down\"; the meaning is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Baruch (Hebrew Barukh) means \"blessed.\" He is Jeremiah's scribe in Jeremiah 36 and 45."
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "The Greek text has *kyrios*, \"Lord,\" the word the Greek Bible regularly uses for Yahweh. Throughout the book, \"the Lord\" renders *kyrios*; the Hebrew name Yahweh itself does not occur in this Greek text."
+    },
+    {
+     "m": "e",
+     "ref": "1:6",
+     "text": "Greek *pantokratōr*, \"ruler of all,\" which the Greek Bible uses for the Hebrew title Yahweh Sabaoth (\"Yahweh of Armies\")."
+    },
+    {
+     "m": "f",
+     "ref": "1:11",
+     "text": "Greek \"the sixth hour of the night.\" Counting the night hours from about 6 p.m., the sixth hour is about midnight."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Jeremiah hurried to tell Baruch everything. The two of them went to the Temple of God; there Jeremiah ripped his robe, covered his head with dust, and walked into the sanctuary of God.{a}"
+    },
+    {
+     "v": 2,
+     "text": "When Baruch saw him with his garments torn and dust on his head, he cried out in a loud voice, \"Father Jeremiah, what has happened to you? What dreadful sin has the people committed?\""
+    },
+    {
+     "v": 3,
+     "text": "Each time the people had sinned, Jeremiah would throw dust over his head and plead for them, until their sin was forgiven."
+    },
+    {
+     "v": 4,
+     "text": "So Baruch asked him, \"Father, why are you doing this? What is going on?\""
+    },
+    {
+     "v": 5,
+     "text": "Jeremiah said to him, \"Rather, let us tear open our hearts, and not fetch water for the troughs. Let us weep until our tears fill them, because the Lord will show this people no pity.\""
+    },
+    {
+     "v": 6,
+     "text": "Baruch said, \"Father Jeremiah, what has happened?\""
+    },
+    {
+     "v": 7,
+     "text": "Jeremiah said, \"God is handing the city over to the king of the Chaldeans, to carry the people away captive to Babylon.\""
+    },
+    {
+     "v": 8,
+     "text": "When Baruch heard it, he tore his own robe too. \"Father Jeremiah,\" he said, \"who told you this?\""
+    },
+    {
+     "v": 9,
+     "text": "Jeremiah said to him, \"Stay with me a little while, until midnight, so that you can know that this word is true.\""
+    },
+    {
+     "v": 10,
+     "text": "So the two of them remained beside the altar,{b} weeping, with their clothes torn."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "The Greek says \"the sanctuary (*hagiastērion*) of God,\" meaning the Temple."
+    },
+    {
+     "m": "b",
+     "ref": "2:10",
+     "text": "The Greek word is *thysiastērion*, \"the place of sacrifice, altar.\""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When the hour of night came that the Lord had spoken of to Jeremiah, Jeremiah and Baruch went together up onto the city walls."
+    },
+    {
+     "v": 2,
+     "text": "A trumpet sounded, and angels came out of heaven carrying torches in their hands, and they stood on the walls of the city."
+    },
+    {
+     "v": 3,
+     "text": "When Jeremiah and Baruch saw the angels, they wept. \"Now we know the word is true,\" they said."
+    },
+    {
+     "v": 4,
+     "text": "Then Jeremiah pleaded with the angels: \"I ask you not to destroy the city yet, until I have spoken to the Lord.\""
+    },
+    {
+     "v": 5,
+     "text": "The Lord said to the angels, \"Do not destroy the city until I have spoken with my chosen servant Jeremiah.\""
+    },
+    {
+     "v": 6,
+     "text": "Jeremiah said, \"I beg you, Lord, allow me to speak in your presence.\""
+    },
+    {
+     "v": 7,
+     "text": "The Lord said, \"Speak, my chosen Jeremiah.\""
+    },
+    {
+     "v": 8,
+     "text": "Jeremiah said, \"Look, Lord, we now know that you are handing the city over to its enemies, and they will carry the people off to Babylon."
+    },
+    {
+     "v": 9,
+     "text": "What would you have me do with the sacred vessels used in the Temple's worship?\""
+    },
+    {
+     "v": 10,
+     "text": "The Lord answered, \"Take them, give them over to the earth, and say: 'Listen, earth, to the voice of the one who shaped you, who set you down amid the waters,{a} and who sealed you with seven seals through seven seasons. After all this, you will be given back your adornment."
+    },
+    {
+     "v": 11,
+     "text": "Keep safe the sacred vessels of the Temple until the beloved ones are gathered.'\""
+    },
+    {
+     "v": 12,
+     "text": "Jeremiah said, \"Lord, show me, I pray, what I ought to do for Abimelech the Ethiopian.{b} He has shown great kindness to the people and to your servant Jeremiah."
+    },
+    {
+     "v": 13,
+     "text": "For he is the one who lifted me out of the muddy pit.{c} I do not want him to see the ruin of the city and its desolation; instead, be merciful to him, so that he is not grieved.\""
+    },
+    {
+     "v": 14,
+     "text": "The Lord said to Jeremiah, \"Send him away to the estate of Agrippa{d} by way of the mountain, and I will shelter him until I bring your people back to the city."
+    },
+    {
+     "v": 15,
+     "text": "And you, Jeremiah, go with your people to Babylon, and stay there preaching the good news to them,{e} until I bring them back to the city."
+    },
+    {
+     "v": 16,
+     "text": "Baruch must stay here while I speak with him.\""
+    },
+    {
+     "v": 17,
+     "text": "When he had said this, the Lord went up from Jeremiah into heaven."
+    },
+    {
+     "v": 18,
+     "text": "Then Jeremiah and Baruch went into the sanctuary and took the holy vessels of the service; they handed them over to the earth, just as the Lord had told them."
+    },
+    {
+     "v": 19,
+     "text": "Right away, the earth swallowed them up."
+    },
+    {
+     "v": 20,
+     "text": "And the two sat down and wept."
+    },
+    {
+     "v": 21,
+     "text": "At daybreak Jeremiah sent Abimelech off, saying, \"Take a basket, and go along the mountain road to the estate of Agrippa. Bring back a few figs for the sick among the people, because the Lord's favor rests on you and his glory crowns your head.\""
+    },
+    {
+     "v": 22,
+     "text": "Abimelech went, as he had been told."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:10",
+     "text": "Greek \"in the abundance (or fullness) of the waters.\" Ancient writers pictured the earth as a land set in the waters of the sea (compare Psalm 24:2)."
+    },
+    {
+     "m": "b",
+     "ref": "3:12",
+     "text": "\"Ethiopian\" translates Greek *Aithiops* (Hebrew Kushi, \"Cushite\"), a man from the upper Nile region south of Egypt. He is the court official of Jeremiah 38:7–13 and 39:15–18."
+    },
+    {
+     "m": "c",
+     "ref": "3:13",
+     "text": "Greek *lakkos tou borborou*, \"the pit of mud\"; compare the cistern in Jeremiah 38:6, where Jeremiah sank into the mud."
+    },
+    {
+     "m": "d",
+     "ref": "3:14",
+     "text": "\"Agrippa\" is the name the Greek gives to a country property near Jerusalem. It is a Greek or Latin name not otherwise known from Jeremiah's time, which is one sign that the book was composed long after the events it describes."
+    },
+    {
+     "m": "e",
+     "ref": "3:15",
+     "text": "The Greek participle *euangelizomenos* means \"bringing good news.\" It is the verb the New Testament uses for preaching the gospel; here it describes Jeremiah's message of comfort and return to the exiles."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When morning came, the army of the Chaldeans appeared and surrounded the city."
+    },
+    {
+     "v": 2,
+     "text": "Then the great angel sounded the trumpet and called out, \"Come in, you forces of the Chaldeans, for the gate has been opened to you.\""
+    },
+    {
+     "v": 3,
+     "text": "\"Let the king come in with his multitude, and let him carry all the people away captive.\""
+    },
+    {
+     "v": 4,
+     "text": "Jeremiah took the Temple keys, went out beyond the city, and hurled them toward the sun,{a} calling out, \"Sun, this is my command: take the Temple keys of God and hold on to them until the day the Lord demands them back from you."
+    },
+    {
+     "v": 5,
+     "text": "For we were not found worthy to guard them, because we proved to be faithless stewards.\""
+    },
+    {
+     "v": 6,
+     "text": "While Jeremiah was still weeping over the people, they were being dragged off to Babylon.{b}"
+    },
+    {
+     "v": 7,
+     "text": "Baruch threw dust on his head and sat down, and he sang this lament:{c} \"Why has Jerusalem been laid waste?\nBecause of the sins of the people we love, it was handed over to enemy hands, because of our sins and the sins of the people."
+    },
+    {
+     "v": 8,
+     "text": "But let the lawless ones not boast, saying, 'We had the strength to take God's city by our own power.' You could not do it. It was because of our sins that we were handed over."
+    },
+    {
+     "v": 9,
+     "text": "But our God will have compassion on us and bring us back to our city. You, however, will not live.\""
+    },
+    {
+     "v": 10,
+     "text": "\"Happy are our ancestors Abraham, Isaac, and Jacob: they passed out of this world and never saw this city fall.\""
+    },
+    {
+     "v": 11,
+     "text": "When he had said this, Baruch went outside the city, weeping and saying, \"I grieve on your account, Jerusalem, because I left you.\""
+    },
+    {
+     "v": 12,
+     "text": "He kept sitting in a burial place, and the angels visited him and made everything clear to him."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:4",
+     "text": "Addressing the sun, and the earth in chapter 3 above, matches the Bible's way of calling on creation as a witness (compare Deuteronomy 32:1; Isaiah 1:2)."
+    },
+    {
+     "m": "b",
+     "ref": "4:6",
+     "text": "\"Babylon\" is the Greek form of Hebrew Bavel, a name sometimes explained as \"gate of god\" (Akkadian) and linked in Genesis 11:9 to the Hebrew word *balal*, \"confuse.\""
+    },
+    {
+     "m": "c",
+     "ref": "4:7",
+     "text": "The Greek word is *thrēnos*, a funeral song or lament, like the Hebrew book of Lamentations."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Abimelech took the figs in the scorching heat and came to a tree; he sat down in its shade to rest for a short while.{a}"
+    },
+    {
+     "v": 2,
+     "text": "He leaned his head against the basket of figs and fell asleep. He slept for sixty-six years,{b} and he did not wake from his sleep."
+    },
+    {
+     "v": 3,
+     "text": "Then, waking from his sleep, he said, \"That was sweet sleep, but short; my head still feels heavy, since I have not slept my fill.\""
+    },
+    {
+     "v": 4,
+     "text": "He lifted the cover off the basket of figs and saw that they were still wet, running with a milky sap."
+    },
+    {
+     "v": 5,
+     "text": "He said, \"I would like another little sleep, but my head weighs on me. Still, I fear that if I drift off I will wake late, and my father Jeremiah will think ill of me. He would not have sent me out at first light today unless he needed them quickly."
+    },
+    {
+     "v": 6,
+     "text": "So I will get up and go on in the heat, and I will reach the place where there is no scorching heat and no daily weariness.\"{c}"
+    },
+    {
+     "v": 7,
+     "text": "He got up, took the basket of figs, and lifted it onto his shoulder. He went into Jerusalem, and he did not recognize it, or the house, or the place, or anyone from his own family."
+    },
+    {
+     "v": 8,
+     "text": "He said, \"May the Lord be praised, since a deep daze has fallen on me!"
+    },
+    {
+     "v": 9,
+     "text": "This is not the city! I have lost my way. I came up by the mountain road, and when I woke, my head was so heavy from lack of rest that I wandered off the path.\""
+    },
+    {
+     "v": 10,
+     "text": "It will seem remarkable to Jeremiah when I tell him that I have lost my way.\""
+    },
+    {
+     "v": 11,
+     "text": "He went out of the city and looked carefully for the signs of the city, and he said, \"This is the city all right, but I have lost my way.\""
+    },
+    {
+     "v": 12,
+     "text": "He went into the city again and looked around, but found no one he knew. He said, \"May the Lord be praised, since a deep daze has fallen on me.\""
+    },
+    {
+     "v": 13,
+     "text": "He went out of the city again, and stayed there in distress, not knowing where he should go."
+    },
+    {
+     "v": 14,
+     "text": "He set the basket down and said, \"I will stay seated here until the Lord lifts this daze off me.\""
+    },
+    {
+     "v": 15,
+     "text": "As he was sitting there, he saw an old man coming in from the field. Abimelech said to him, \"Look, old man, what city is this?\""
+    },
+    {
+     "v": 16,
+     "text": "He answered him, \"It is Jerusalem.\""
+    },
+    {
+     "v": 17,
+     "text": "Abimelech said to him, \"Where are Jeremiah the priest and Baruch the reader,{d} and all the people of this city, since I could not find them?\""
+    },
+    {
+     "v": 18,
+     "text": "The old man asked him, \"Are you not a native of this city? You mention Jeremiah today, and you ask after him after so long a time?"
+    },
+    {
+     "v": 19,
+     "text": "Jeremiah is in Babylon with the people, who were carried off by King Nebuchadnezzar,{e} and he is there with them to announce good news and instruct them in the word.\""
+    },
+    {
+     "v": 20,
+     "text": "Abimelech heard the old man out, and answered, \"If you were not so aged, and if it were not improper to rebuke a man who is older than oneself, I would laugh at you and tell you that you have lost your mind, for claiming that the people have been carried off to Babylon."
+    },
+    {
+     "v": 21,
+     "text": "Even if the floodgates of heaven had opened on them, it would not yet be time to go to Babylon!"
+    },
+    {
+     "v": 22,
+     "text": "Why, it was only a short time ago that my father Jeremiah sent me to Agrippa's estate to fetch a few figs, which we meant to give to the sick among the people."
+    },
+    {
+     "v": 23,
+     "text": "I went and picked them, and on reaching a certain tree in the blazing heat, I sat down for a short rest. I put my head on the basket and dozed off."
+    },
+    {
+     "v": 24,
+     "text": "When I woke up, I uncovered the basket of figs, thinking that I had slept too long, and I found the figs dripping with milk, just as I had gathered them."
+    },
+    {
+     "v": 25,
+     "text": "But you say the people were taken captive to Babylon."
+    },
+    {
+     "v": 26,
+     "text": "But so that you can know, take the figs and look!\""
+    },
+    {
+     "v": 27,
+     "text": "He lifted the cover of the basket for the old man."
+    },
+    {
+     "v": 28,
+     "text": "When the old man looked at the figs, he said, \"My son, you are a righteous man. God did not wish you to witness the city's desolation, so he sent this daze over you."
+    },
+    {
+     "v": 29,
+     "text": "For now it has been sixty-six years since the people were taken captive to Babylon."
+    },
+    {
+     "v": 30,
+     "text": "So that you can learn, my child, that this is true: look out over the field and see that the crops are springing up.{f}"
+    },
+    {
+     "v": 31,
+     "text": "Look also at the figs: it is not their season. Learn from that, and be enlightened.\""
+    },
+    {
+     "v": 32,
+     "text": "Then Abimelech cried out loudly, saying, \"Blessed be God, who gives the souls of the righteous rest in every place!\""
+    },
+    {
+     "v": 33,
+     "text": "Then he asked the old man, \"What month is this?\""
+    },
+    {
+     "v": 34,
+     "text": "He answered, \"Nisan{g} (March–April), the twelfth.\""
+    },
+    {
+     "v": 35,
+     "text": "He took a few of the figs and handed them to the old man, saying, \"May God light your path to the Jerusalem above.\""
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:1",
+     "text": "The Greek says \"the heat\" (*kauma*), the midday heat of the Judean hills."
+    },
+    {
+     "m": "b",
+     "ref": "5:2",
+     "text": "Greek *hexēkonta hex etē*, \"sixty-six years\"; the same number is repeated in 5:29. Abimelech's long sleep is the main sign in the book that the exile has begun and that years have passed."
+    },
+    {
+     "m": "c",
+     "ref": "5:6",
+     "text": "The Greek of this verse is damaged. Harris notes that the manuscripts differ here and that the line is probably corrupt, so the sense given is tentative."
+    },
+    {
+     "m": "d",
+     "ref": "5:17",
+     "text": "Greek *anagnōstēs*, \"reader\" (one who reads the Scriptures aloud); here it names Baruch as Jeremiah's scribe and reader."
+    },
+    {
+     "m": "e",
+     "ref": "5:19",
+     "text": "\"Nebuchadnezzar\" is the Greek form of Babylonian *Nabu-kudurri-usur*, \"Nabu, protect my heir\" (a common spelling in the Bible is Nebuchadrezzar)."
+    },
+    {
+     "m": "f",
+     "ref": "5:30",
+     "text": "The Greek reads \"the growth of the crops has appeared\" (so Harris); some editors emend this to \"has not appeared.\" Either way the point is that the figs are out of season."
+    },
+    {
+     "m": "g",
+     "ref": "5:34",
+     "text": "Greek *Nisan*, the Hebrew first month (March–April). Harris notes that Nisan was never the twelfth month, and suggests that \"the twelfth\" here means the twelfth day of the first month, the day Ezra left the Ahava river for Jerusalem (Ezra 8:31); he also wonders whether the text once read \"Nisan, which is Abib\" (Abib is the older Hebrew name of the month, Exodus 13:4). The Ethiopic version has \"the twelfth of the month Nisan.\""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Afterward Abimelech left the city and prayed to the Lord."
+    },
+    {
+     "v": 2,
+     "text": "And an angel of the Lord appeared, and set him down at the place where Baruch was; he found him sitting in a tomb."
+    },
+    {
+     "v": 3,
+     "text": "When they saw each other, they embraced and kissed one another."
+    },
+    {
+     "v": 4,
+     "text": "Baruch looked up and saw the figs, still covered over in the basket."
+    },
+    {
+     "v": 5,
+     "text": "Then he raised his eyes toward heaven and prayed:"
+    },
+    {
+     "v": 6,
+     "text": "\"Lord, you are the God who pays back those who are holy. Prepare yourself, my heart, and be glad and celebrate inside your tent,{a} and tell your house of flesh that your sorrow has turned into joy. For the One who is able is on his way, and he will bring you out of your tent; there is no sin in you."
+    },
+    {
+     "v": 7,
+     "text": "Come to life again in your dwelling, in my unspoiled faith,{b} and believe that you will live!"
+    },
+    {
+     "v": 8,
+     "text": "Look at this basket of figs: it has been sixty-six years since they were picked, and they have not withered or rotted; they are dripping milk."
+    },
+    {
+     "v": 9,
+     "text": "So it will be for you, my flesh, if you carry out what the angel of righteousness has told you.\""
+    },
+    {
+     "v": 10,
+     "text": "The one who kept the basket of figs safe is the same one who will keep you safe again by his power.\""
+    },
+    {
+     "v": 11,
+     "text": "After saying this, Baruch turned to Abimelech. \"Rise, and let us pray that the Lord will teach us how we can get word to Jeremiah in Babylon about the shelter that was given you on your way.\""
+    },
+    {
+     "v": 12,
+     "text": "Baruch prayed, \"You are our strength, our God and Lord, the chosen light that has come out of your mouth."
+    },
+    {
+     "v": 13,
+     "text": "We turn to your goodness and plead with you, whose great Name{c} nobody can know: listen to the voices of your servants, and let understanding enter our hearts.\""
+    },
+    {
+     "v": 14,
+     "text": "What do you want us to do? How can we send word to Jeremiah in Babylon?\""
+    },
+    {
+     "v": 15,
+     "text": "While Baruch was still praying, an angel of the Lord appeared and spoke to him. \"Baruch, helper of the light, do not worry over how you are to get word to Jeremiah. An eagle will come to you tomorrow, at the hour of light, and you will send it to Jeremiah."
+    },
+    {
+     "v": 16,
+     "text": "So put this in the letter: 'Say to the sons of Israel: Anyone who has become a foreigner among you should be kept apart, and let fifteen days go by. After that, I will bring you to your own city, says the Lord."
+    },
+    {
+     "v": 17,
+     "text": "Whoever is not separated from Babylon, Jeremiah, will not enter the city. I command that they not be taken back again by the Babylonians, says the Lord.'\""
+    },
+    {
+     "v": 18,
+     "text": "When the angel had said this, he left Baruch."
+    },
+    {
+     "v": 19,
+     "text": "Baruch sent a messenger to the market of the Gentiles, who returned with papyrus and ink, and Baruch wrote a letter that read: \"From Baruch, servant of God, to Jeremiah in the Babylonian exile."
+    },
+    {
+     "v": 20,
+     "text": "Greetings! Rejoice and be glad, because God did not let us leave this body in grief over the city that was laid waste and insulted."
+    },
+    {
+     "v": 21,
+     "text": "For this reason the Lord had compassion on our tears and remembered the covenant that he made with our fathers Abraham, Isaac, and Jacob.{d}"
+    },
+    {
+     "v": 22,
+     "text": "He sent his angel to me, who told me these words that I am sending to you."
+    },
+    {
+     "v": 23,
+     "text": "These are the words of the Lord, the God of Israel, who brought us up from the land of Egypt,{e} from the great furnace:{f} 'You did not keep my laws; your heart grew proud, and you held your necks stiff against me. So in anger and fury I gave you over to the furnace of Babylon."
+    },
+    {
+     "v": 24,
+     "text": "If you will obey my voice, says the Lord, as it comes through Jeremiah my servant, then I will lead the obedient up out of Babylon. But whoever will not obey will be an outsider to Jerusalem and to Babylon alike."
+    },
+    {
+     "v": 25,
+     "text": "You will put them to the test with the water of the Jordan:{g} the one who will not obey will be shown up. That is the sign of the great seal.'\""
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:6",
+     "text": "\"Tent\" translates Greek *skēnōma*, \"dwelling,\" the body, as in 2 Corinthians 5:1 and 2 Peter 1:13; the speaker is preparing his soul for the resurrection of the body he describes next."
+    },
+    {
+     "m": "b",
+     "ref": "6:7",
+     "text": "Greek *parthenikē pistis*, literally \"virginal faith,\" meaning a faith not spoiled by any impurity. The manuscripts differ widely in this verse; Harris notes that one of them reads \"in your own home, my virginal faith.\""
+    },
+    {
+     "m": "c",
+     "ref": "6:13",
+     "text": "Greek *to mega onoma*, \"the great Name\"; here it refers to the divine name, which is Yahweh in Hebrew (Exodus 3:14–15). The Greek text does not spell it out."
+    },
+    {
+     "m": "d",
+     "ref": "6:21",
+     "text": "\"Abraham\" (Hebrew *Avraham*) means \"father of a multitude\" (Genesis 17:5); \"Isaac\" (*Yitskhaq*) means \"he laughs\" (Genesis 21:6); \"Jacob\" (*Ya'aqov*) is linked in Genesis 25:26 to \"heel\" and means \"he grasps the heel,\" or \"he supplants.\""
+    },
+    {
+     "m": "e",
+     "ref": "6:23",
+     "text": "\"Egypt\" is Greek *Aigyptos*; the Hebrew is *Mitsrayim*, of uncertain meaning."
+    },
+    {
+     "m": "f",
+     "ref": "6:23",
+     "text": "The \"iron furnace\" is the Bible's image for Egypt (Deuteronomy 4:20; 1 Kings 8:51; Jeremiah 11:4)."
+    },
+    {
+     "m": "g",
+     "ref": "6:25",
+     "text": "\"Jordan\" (Hebrew *Yarden*) means \"the descender,\" because the river drops steeply from the north to the Dead Sea."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Baruch got up and left the tomb, and he saw an eagle sitting outside the tomb."
+    },
+    {
+     "v": 2,
+     "text": "The eagle answered in a human voice, \"Greetings, Baruch, steward of the faith.\""
+    },
+    {
+     "v": 3,
+     "text": "Baruch said to him, \"You who speak this way: you are chosen out of all the birds of heaven, because it shows in the look of your eyes. Tell me what you are doing here.\""
+    },
+    {
+     "v": 4,
+     "text": "The eagle replied, \"I have been sent so that you can use me to carry any word you wish.\""
+    },
+    {
+     "v": 5,
+     "text": "\"Can you take a message to Jeremiah in Babylon?\" Baruch asked."
+    },
+    {
+     "v": 6,
+     "text": "The eagle said to him, \"Yes; that is the very reason I was sent.\""
+    },
+    {
+     "v": 7,
+     "text": "Baruch took the letter, together with fifteen figs from Abimelech's basket, and fastened them around the eagle's neck. \"Hear me, king of the birds,\" he said. \"Go in peace and good health, and bring back word to me."
+    },
+    {
+     "v": 8,
+     "text": "Do not be like the raven that Noah sent out,{a} which did not come back to him in the ark. Be like the dove that, after the third time, brought the news to the righteous man."
+    },
+    {
+     "v": 9,
+     "text": "In the same way, you also take this good news to Jeremiah and those with him, so that it will go well with you; take this joy to the chosen people of God."
+    },
+    {
+     "v": 10,
+     "text": "Should every bird in the sky close in around you, and every enemy of the truth wish to attack you, fight back; the Lord will give you power."
+    },
+    {
+     "v": 11,
+     "text": "Do not swerve right or left. Fly as straight as a flying arrow, and travel in the strength of God, who will accompany you the whole way.\"{b}"
+    },
+    {
+     "v": 12,
+     "text": "The eagle then rose into the air and flew off to Babylon, where it settled upon a post in a lonely place outside the city."
+    },
+    {
+     "v": 13,
+     "text": "It stayed silent until Jeremiah came by with some of the people, who were on their way out of the city to bury a dead body."
+    },
+    {
+     "v": 14,
+     "text": "Jeremiah had asked Nebuchadnezzar for this: \"Give me a place to bury the dead of my people.\" And the king had given it to him."
+    },
+    {
+     "v": 15,
+     "text": "As they were coming out, weeping beside the corpse, they came to the spot opposite the eagle."
+    },
+    {
+     "v": 16,
+     "text": "The eagle cried out loudly, \"I say to you, Jeremiah, chosen of God: go, gather all the people, and let them come here, to hear the letter I have brought you from Baruch and Abimelech.\""
+    },
+    {
+     "v": 17,
+     "text": "When Jeremiah heard this, he glorified God. He went and gathered the people with their wives and children, and came to the place where the eagle was."
+    },
+    {
+     "v": 18,
+     "text": "The eagle swooped down onto the dead body, and the man was alive again.{c}"
+    },
+    {
+     "v": 19,
+     "text": "This happened so that they would believe."
+    },
+    {
+     "v": 20,
+     "text": "The whole crowd was astonished at what had taken place. \"Is this the God who showed himself to our ancestors in the wilderness through Moses,{d} and has now shown himself to us through this great eagle?\" they said."
+    },
+    {
+     "v": 21,
+     "text": "\"Jeremiah,\" the eagle said, \"I am speaking to you: loosen this letter and read it aloud to the people.\""
+    },
+    {
+     "v": 22,
+     "text": "When the people heard it, they wept, put dust on their heads, and said to Jeremiah, \"Save us, and tell us what we should do, so that we can enter our city again.\""
+    },
+    {
+     "v": 23,
+     "text": "Jeremiah answered and said, \"Whatever you heard in the letter, keep it, and he will bring us into our city.\""
+    },
+    {
+     "v": 24,
+     "text": "Jeremiah also wrote a letter to Baruch, as follows: \"My beloved child, do not slack off in your prayers for us, asking him to set our way straight until we escape from the commands of this lawless king."
+    },
+    {
+     "v": 25,
+     "text": "For you were found righteous before him, and he did not allow you to come here with us, so that you would not see the abuse the people are suffering at the hands of the Babylonians."
+    },
+    {
+     "v": 26,
+     "text": "Think of a father whose only son has been given up to be punished. The bystanders cover the father's face so that he will not watch his son suffer and be crushed by sorrow."
+    },
+    {
+     "v": 27,
+     "text": "In the same way God felt pity for you and kept you from entering Babylon, so that you would not witness the people's sufferings."
+    },
+    {
+     "v": 28,
+     "text": "We have not been free of grief since we arrived here, and today makes sixty-six years."
+    },
+    {
+     "v": 29,
+     "text": "More than once, whenever I went outside, some of the people were hanging there on the orders of King Nebuchadnezzar, wailing, 'Have pity on us, God Zar!'{e}"
+    },
+    {
+     "v": 30,
+     "text": "Hearing it, I mourned and wept doubly, not only because they hung there but because they were crying out to a god who was not ours: 'Have pity on us.'"
+    },
+    {
+     "v": 31,
+     "text": "But I remembered the days of festival that we used to celebrate in Jerusalem before we were taken into exile; and as I remembered them I groaned, and went back to my house sighing and weeping."
+    },
+    {
+     "v": 32,
+     "text": "So pray now where you are, you and Abimelech, on behalf of this people, asking that they will heed my voice and the rulings of my mouth, and that we may be able to depart from this place."
+    },
+    {
+     "v": 33,
+     "text": "I tell you, all the time we have been here, our captors have been demanding, 'Sing us one of the songs of Zion,{f} a song of your God.'"
+    },
+    {
+     "v": 34,
+     "text": "And we answer them, 'How can we sing a song of the Lord on foreign soil?'\""
+    },
+    {
+     "v": 35,
+     "text": "Jeremiah then fastened the letter around the eagle's neck and said, \"Go in peace; may the Lord guard the two of us.\""
+    },
+    {
+     "v": 36,
+     "text": "The eagle flew off and came to Baruch, and gave him the letter. He opened it and read it, kissed it, and wept when he heard of the sufferings and troubles of the people."
+    },
+    {
+     "v": 37,
+     "text": "Jeremiah took the figs and distributed them among the sick of the people. He stayed on, teaching them to keep away from the wrongdoing of the gentiles of Babylon."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:8",
+     "text": "Compare Genesis 8:6–12. In Genesis the raven goes out and is not said to return, and the dove is sent out three times: the second time it returns with an olive leaf, and the third time it does not come back. Here the story is told differently, and it is the third trip that brings word. \"Noah\" (*Noach*) is explained in Genesis 5:29 as related to the Hebrew for \"comfort.\""
+    },
+    {
+     "m": "b",
+     "ref": "7:11",
+     "text": "At the end of this verse, two of Harris's three manuscript groups (a and b) add: \"and the glory of the Lord will be on every road you travel.\""
+    },
+    {
+     "m": "c",
+     "ref": "7:18",
+     "text": "Harris's manuscripts a and b add \"and rose up.\""
+    },
+    {
+     "m": "d",
+     "ref": "7:20",
+     "text": "\"Moses\" (Hebrew *Mosheh*) is explained in Exodus (chapter 2, verse 10) as \"drawn out\" of the water."
+    },
+    {
+     "m": "e",
+     "ref": "7:29",
+     "text": "The manuscripts differ here. Harris prints *Zar*, which he takes to be Hebrew *zar*, \"foreign\" or \"alien\"; one of his manuscripts reads *Sabaoth*, and the Ethiopic copies read Zar, Sotoi, or Sarot."
+    },
+    {
+     "m": "f",
+     "ref": "7:33",
+     "text": "\"Zion\" (Hebrew *Tsiyyon*) is the hill of Jerusalem and a poetic name for the city itself; the demand echoes Psalm 137:3."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The day came on which God was bringing the people up out of Babylon."
+    },
+    {
+     "v": 2,
+     "text": "The Lord told Jeremiah, \"Get up, you and the people, and go to the Jordan. Tell the people: 'Whoever wishes to follow the Lord must give up the practices of Babylon, including the men who have taken wives from that land and the women who have taken husbands."
+    },
+    {
+     "v": 3,
+     "text": "If they heed you, take them across to Jerusalem; but if they refuse to heed you, bring them no farther.'\""
+    },
+    {
+     "v": 4,
+     "text": "Jeremiah relayed all of this to the people, and they got up and went to the Jordan to cross it."
+    },
+    {
+     "v": 5,
+     "text": "As he told them what the Lord had said to him, half of those who had married among the Babylonians{a} refused to hear Jeremiah. They said, \"We will not give up our wives for good. We will take them back with us to our city.\""
+    },
+    {
+     "v": 6,
+     "text": "They went over the Jordan and reached Jerusalem."
+    },
+    {
+     "v": 7,
+     "text": "Jeremiah, Baruch, and Abimelech stood and said, \"Any man who has had fellowship with the Babylonians will not enter this city!\""
+    },
+    {
+     "v": 8,
+     "text": "Then the others said to one another, \"Let us get up and go back to Babylon, to our own place.\" And they left."
+    },
+    {
+     "v": 9,
+     "text": "But as they neared Babylon, the Babylonians came out to confront them. \"You may not enter our city,\" they said, \"since you despised us and left us in secret. That is why you cannot come in among us."
+    },
+    {
+     "v": 10,
+     "text": "We have bound ourselves to each other by oath, in the name of our God, to take in neither you nor your children, since you slipped away from us.\""
+    },
+    {
+     "v": 11,
+     "text": "Hearing this, they turned around and traveled to an empty region well away from Jerusalem. There they founded a city of their own and called it Samaria.{b}"
+    },
+    {
+     "v": 12,
+     "text": "Jeremiah sent a message to them: \"Turn back, for the angel of righteousness is on his way, and he will take you to your lofty home.\""
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:5",
+     "text": "Greek *Babylōnitai*, \"Babylonians,\" inhabitants of Babylon; the book pictures marriages between exiles and local people in Babylon."
+    },
+    {
+     "m": "b",
+     "ref": "8:11",
+     "text": "\"Samaria\" (Hebrew *Shomron*) was the capital of the northern kingdom (1 Kings 16:24), named after the hill's owner Shemer. The book's closing story gives Samaria's origin as a town of the exiles who were turned away from Jerusalem because of mixed marriages, a way of explaining the later hostility between Jews and Samaritans."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Those who were with Jeremiah{a} rejoiced and offered a sacrifice for the people nine days."
+    },
+    {
+     "v": 2,
+     "text": "On the tenth day, Jeremiah offered a sacrifice by himself."
+    },
+    {
+     "v": 3,
+     "text": "He started to pray: \"Holy, holy, holy, incense of the living trees, true light shining on me, until I rise up to you."
+    },
+    {
+     "v": 4,
+     "text": "I ask you, too, for the sweet sound of the two Seraphim,{b} and for yet another fragrance of incense."
+    },
+    {
+     "v": 5,
+     "text": "My concern is Michael,{c} the archangel of righteousness, [who opens the gates of righteousness] until he brings the righteous in."
+    },
+    {
+     "v": 6,
+     "text": "I plead with you, Lord, almighty over all creation, the One who was never born and cannot be fully known, in whom all judgment lay hidden before these things came to be.\""
+    },
+    {
+     "v": 7,
+     "text": "While Jeremiah was saying this, standing at the altar with Baruch and Abimelech, he became like someone giving up his soul."
+    },
+    {
+     "v": 8,
+     "text": "Baruch and Abimelech stayed where they were, weeping and shouting at the top of their voices: \"Our father Jeremiah has left us! God's priest is gone!\""
+    },
+    {
+     "v": 9,
+     "text": "All the people heard the sound of their weeping, and everyone ran to them, and they saw Jeremiah lying on the ground as though dead."
+    },
+    {
+     "v": 10,
+     "text": "They ripped their clothes, threw dust on their heads, and sobbed in bitter grief."
+    },
+    {
+     "v": 11,
+     "text": "After this, they got ready to bury him."
+    },
+    {
+     "v": 12,
+     "text": "Then a voice said, \"Do not bury the man who is still alive, because his soul is coming back into his body.\""
+    },
+    {
+     "v": 13,
+     "text": "They obeyed the voice and did not bury him. For three days they waited by his tent, asking, \"When will he get up?\""
+    },
+    {
+     "v": 14,
+     "text": "Three days later his soul returned to his body. Standing among all of them, he cried out, \"All of you, praise God! Praise God, and praise the Son of God, who rouses you toward Jesus Christ,{d} the light of every age, the lamp that cannot be put out, the life of faith.\""
+    },
+    {
+     "v": 15,
+     "text": "\"After these times, there will come four hundred seventy-seven more years,{e} and he will come to the earth."
+    },
+    {
+     "v": 16,
+     "text": "The tree of life planted in the middle of paradise will make all the unfruitful trees bear fruit,{f} and they will grow and sprout."
+    },
+    {
+     "v": 17,
+     "text": "As for the trees that have sprouted and grown proud, and say, 'We gave our strength to the air,' he will make them wither, along with the height of their branches, and will have them judged by that firmly planted tree."
+    },
+    {
+     "v": 18,
+     "text": "The crimson will turn white as wool, the snow will darken, and sweet waters will turn salty,{g} in the great light of God's joy."
+    },
+    {
+     "v": 19,
+     "text": "He will bless the islands and make them fruitful through the word that comes from his Anointed One's mouth."
+    },
+    {
+     "v": 20,
+     "text": "For he himself will come and go forth, and choose twelve apostles for himself, to carry the good news among the nations. I saw him, adorned by his Father, as he entered the world, at the Mount of Olives,{h} and he will fill souls that hunger.\""
+    },
+    {
+     "v": 21,
+     "text": "While Jeremiah was saying this about the Son of God, the people became angry and said, \"These are once again the words that Isaiah son of Amoz{i} spoke, when he said, 'I saw God and the Son of God.'"
+    },
+    {
+     "v": 22,
+     "text": "Come, let us not put him to death the way we did Isaiah,{j} but let us throw stones at him.\""
+    },
+    {
+     "v": 23,
+     "text": "Baruch and Abimelech were deeply grieved at this absence, and because they wanted to hear fully the things that he had seen."
+    },
+    {
+     "v": 24,
+     "text": "But Jeremiah said to them, \"Be quiet and do not weep, for they cannot kill me until I have told you everything I saw.\""
+    },
+    {
+     "v": 25,
+     "text": "And he said to them, \"Bring me a stone.\" They brought a stone to him."
+    },
+    {
+     "v": 26,
+     "text": "He stood it up and prayed, \"Light of the ages, let this stone take on my likeness until I have told Baruch and Abimelech all that I saw.\""
+    },
+    {
+     "v": 27,
+     "text": "So, at God's order, the stone took on Jeremiah's likeness."
+    },
+    {
+     "v": 28,
+     "text": "And they were stoning the stone, thinking that it was Jeremiah."
+    },
+    {
+     "v": 29,
+     "text": "But Jeremiah handed over all the mysteries that he had seen to Baruch and Abimelech, and then he stood up in the middle of the people, wishing to carry out his commission."
+    },
+    {
+     "v": 30,
+     "text": "The stone cried out, \"You foolish sons of Israel, why are you stoning me, thinking that I am Jeremiah? Look, Jeremiah is standing in your midst!\""
+    },
+    {
+     "v": 31,
+     "text": "When they saw him, they ran at him right away with many stones, and his commission was fulfilled."
+    },
+    {
+     "v": 32,
+     "text": "Baruch and Abimelech came and buried him, and they took the stone and set it on his tomb, and they inscribed on it, \"This stone is the helper of Jeremiah.\"{k}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:1",
+     "text": "The Greek verb at the start of this verse is awkward in the printed text (it literally means \"begot\"), and the sense here, taken from the context, is that Jeremiah's followers were celebrating."
+    },
+    {
+     "m": "b",
+     "ref": "9:4",
+     "text": "\"Seraphim\" (Hebrew *seraphim*, \"burning ones\") are the winged beings around God's throne in Isaiah 6:2–3; the Ethiopic version appears to read \"Cherubim\" here instead."
+    },
+    {
+     "m": "c",
+     "ref": "9:5",
+     "text": "\"Michael\" (Hebrew *Mikha'el*) means \"Who is like God?\" The words in brackets are not in the Greek printed by Harris; they come from the Ethiopic version, which has Michael hold the gates of righteousness open."
+    },
+    {
+     "m": "d",
+     "ref": "9:14",
+     "text": "The Greek words \"Jesus Christ\" are in Harris's text, and scholars debate whether these two words were added by a Christian hand to an originally Jewish text. \"Christ\" is Greek *Christos*, \"anointed,\" the equivalent of Hebrew *mashiach*, \"messiah.\""
+    },
+    {
+     "m": "e",
+     "ref": "9:15",
+     "text": "This is the number in Greek manuscripts a and b; the Ethiopic counts in \"weeks of days,\" with a figure of 303 (some copies 330 or 333)."
+    },
+    {
+     "m": "f",
+     "ref": "9:16",
+     "text": "Harris's manuscripts a and b omit the clause that follows in the Ethiopic: \"and their fruit will remain with the angels.\""
+    },
+    {
+     "m": "g",
+     "ref": "9:18",
+     "text": "The Ethiopic adds \"and the salty waters will become sweet.\""
+    },
+    {
+     "m": "h",
+     "ref": "9:20",
+     "text": "The Mount of Olives is the ridge east of Jerusalem (Zechariah 14:4; Mark 13:3). The Greek reads *Elaiōn*, \"of the olive trees.\""
+    },
+    {
+     "m": "i",
+     "ref": "9:21",
+     "text": "\"Isaiah\" (Hebrew *Yeshayahu*) means \"Yahweh saves\"; \"Amoz\" (*Amots*) means \"strong.\" The Greek text spells his father's name \"Amos.\""
+    },
+    {
+     "m": "j",
+     "ref": "9:22",
+     "text": "An old Jewish tradition, preserved in the *Martyrdom of Isaiah* and probably referred to in Hebrews 11:37, says that Isaiah was sawn in two."
+    },
+    {
+     "m": "k",
+     "ref": "9:32",
+     "text": "Harris's manuscripts a and b add a closing sentence saying that the rest of Jeremiah's words and every aspect of his power are not written here but in the letter of Baruch."
+    }
+   ]
+  }
+ ]
+}
