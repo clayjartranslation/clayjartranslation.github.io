@@ -11,7 +11,7 @@
    "id": "genesis",
    "name": "Genesis",
    "division": "Old Testament",
-   "chapterCount": "50",
+   "chapterCount": 50,
    "translated": [
     1,
     2,
@@ -70,7 +70,7 @@
    "id": "exodus",
    "name": "Exodus",
    "division": "Old Testament",
-   "chapterCount": "40",
+   "chapterCount": 40,
    "translated": [
     1,
     2,
@@ -119,7 +119,7 @@
    "id": "leviticus",
    "name": "Leviticus",
    "division": "Old Testament",
-   "chapterCount": "27",
+   "chapterCount": 27,
    "translated": [
     1,
     2,
@@ -155,7 +155,7 @@
    "id": "numbers",
    "name": "Numbers",
    "division": "Old Testament",
-   "chapterCount": "36",
+   "chapterCount": 36,
    "translated": [
     1,
     2,
@@ -200,7 +200,7 @@
    "id": "deuteronomy",
    "name": "Deuteronomy",
    "division": "Old Testament",
-   "chapterCount": "34",
+   "chapterCount": 34,
    "translated": [
     1,
     2,
@@ -243,7 +243,7 @@
    "id": "joshua",
    "name": "Joshua",
    "division": "Old Testament",
-   "chapterCount": "24",
+   "chapterCount": 24,
    "translated": [
     1,
     2,
@@ -276,7 +276,7 @@
    "id": "judges",
    "name": "Judges",
    "division": "Old Testament",
-   "chapterCount": "21",
+   "chapterCount": 21,
    "translated": [
     1,
     2,
@@ -306,7 +306,7 @@
    "id": "ruth",
    "name": "Ruth",
    "division": "Old Testament",
-   "chapterCount": "4",
+   "chapterCount": 4,
    "translated": [
     1,
     2,
@@ -319,7 +319,7 @@
    "id": "1-samuel",
    "name": "1 Samuel",
    "division": "Old Testament",
-   "chapterCount": "31",
+   "chapterCount": 31,
    "translated": [
     1,
     2,
@@ -359,7 +359,7 @@
    "id": "2-samuel",
    "name": "2 Samuel",
    "division": "Old Testament",
-   "chapterCount": "24",
+   "chapterCount": 24,
    "translated": [
     1,
     2,
@@ -392,7 +392,7 @@
    "id": "1-kings",
    "name": "1 Kings",
    "division": "Old Testament",
-   "chapterCount": "22",
+   "chapterCount": 22,
    "translated": [
     1,
     2,
@@ -423,7 +423,7 @@
    "id": "2-kings",
    "name": "2 Kings",
    "division": "Old Testament",
-   "chapterCount": "25",
+   "chapterCount": 25,
    "translated": [
     1,
     2,
@@ -457,7 +457,7 @@
    "id": "1-chronicles",
    "name": "1 Chronicles",
    "division": "Old Testament",
-   "chapterCount": "29",
+   "chapterCount": 29,
    "translated": [
     1,
     2,
@@ -495,7 +495,7 @@
    "id": "2-chronicles",
    "name": "2 Chronicles",
    "division": "Old Testament",
-   "chapterCount": "36",
+   "chapterCount": 36,
    "translated": [
     1,
     2,
@@ -540,7 +540,7 @@
    "id": "ezra",
    "name": "Ezra",
    "division": "Old Testament",
-   "chapterCount": "10",
+   "chapterCount": 10,
    "translated": [
     1,
     2,
@@ -559,7 +559,7 @@
    "id": "nehemiah",
    "name": "Nehemiah",
    "division": "Old Testament",
-   "chapterCount": "13",
+   "chapterCount": 13,
    "translated": [
     1,
     2,
@@ -581,7 +581,7 @@
    "id": "esther",
    "name": "Esther",
    "division": "Old Testament",
-   "chapterCount": "10",
+   "chapterCount": 10,
    "translated": [
     1,
     2,
@@ -600,7 +600,7 @@
    "id": "job",
    "name": "Job",
    "division": "Old Testament",
-   "chapterCount": "42",
+   "chapterCount": 42,
    "translated": [
     1,
     2,
@@ -651,7 +651,7 @@
    "id": "psalms",
    "name": "Psalms",
    "division": "Old Testament",
-   "chapterCount": "150",
+   "chapterCount": 150,
    "translated": [
     1,
     2,
@@ -810,7 +810,7 @@
    "id": "proverbs",
    "name": "Proverbs",
    "division": "Old Testament",
-   "chapterCount": "31",
+   "chapterCount": 31,
    "translated": [
     1,
     2,
@@ -850,7 +850,7 @@
    "id": "ecclesiastes",
    "name": "Ecclesiastes",
    "division": "Old Testament",
-   "chapterCount": "12",
+   "chapterCount": 12,
    "translated": [
     1,
     2,
@@ -871,7 +871,7 @@
    "id": "song-of-songs",
    "name": "Song of Songs",
    "division": "Old Testament",
-   "chapterCount": "8",
+   "chapterCount": 8,
    "translated": [
     1,
     2,
@@ -888,7 +888,7 @@
    "id": "isaiah",
    "name": "Isaiah",
    "division": "Old Testament",
-   "chapterCount": "66",
+   "chapterCount": 66,
    "translated": [
     1,
     2,
@@ -963,7 +963,7 @@
    "id": "jeremiah",
    "name": "Jeremiah",
    "division": "Old Testament",
-   "chapterCount": "52",
+   "chapterCount": 52,
    "translated": [
     1,
     2,
@@ -1024,7 +1024,7 @@
    "id": "lamentations",
    "name": "Lamentations",
    "division": "Old Testament",
-   "chapterCount": "5",
+   "chapterCount": 5,
    "translated": [
     1,
     2,
@@ -1095,7 +1095,7 @@
    "id": "daniel",
    "name": "Daniel",
    "division": "Old Testament",
-   "chapterCount": "12",
+   "chapterCount": 12,
    "translated": [
     1,
     2,
@@ -1116,7 +1116,7 @@
    "id": "hosea",
    "name": "Hosea",
    "division": "Old Testament",
-   "chapterCount": "14",
+   "chapterCount": 14,
    "translated": [
     1,
     2,
@@ -1139,7 +1139,7 @@
    "id": "joel",
    "name": "Joel",
    "division": "Old Testament",
-   "chapterCount": "3",
+   "chapterCount": 3,
    "translated": [
     1,
     2,
@@ -1151,7 +1151,7 @@
    "id": "amos",
    "name": "Amos",
    "division": "Old Testament",
-   "chapterCount": "9",
+   "chapterCount": 9,
    "translated": [
     1,
     2,
@@ -1169,7 +1169,7 @@
    "id": "obadiah",
    "name": "Obadiah",
    "division": "Old Testament",
-   "chapterCount": "1",
+   "chapterCount": 1,
    "translated": [
     1
    ],
@@ -1179,7 +1179,7 @@
    "id": "jonah",
    "name": "Jonah",
    "division": "Old Testament",
-   "chapterCount": "4",
+   "chapterCount": 4,
    "translated": [
     1,
     2,
@@ -1192,7 +1192,7 @@
    "id": "micah",
    "name": "Micah",
    "division": "Old Testament",
-   "chapterCount": "7",
+   "chapterCount": 7,
    "translated": [
     1,
     2,
@@ -1208,7 +1208,7 @@
    "id": "nahum",
    "name": "Nahum",
    "division": "Old Testament",
-   "chapterCount": "3",
+   "chapterCount": 3,
    "translated": [
     1,
     2,
@@ -1220,7 +1220,7 @@
    "id": "habakkuk",
    "name": "Habakkuk",
    "division": "Old Testament",
-   "chapterCount": "3",
+   "chapterCount": 3,
    "translated": [
     1,
     2,
@@ -1232,7 +1232,7 @@
    "id": "zephaniah",
    "name": "Zephaniah",
    "division": "Old Testament",
-   "chapterCount": "3",
+   "chapterCount": 3,
    "translated": [
     1,
     2,
@@ -1244,7 +1244,7 @@
    "id": "haggai",
    "name": "Haggai",
    "division": "Old Testament",
-   "chapterCount": "2",
+   "chapterCount": 2,
    "translated": [
     1,
     2
@@ -1255,7 +1255,7 @@
    "id": "zechariah",
    "name": "Zechariah",
    "division": "Old Testament",
-   "chapterCount": "14",
+   "chapterCount": 14,
    "translated": [
     1,
     2,
@@ -1278,7 +1278,7 @@
    "id": "malachi",
    "name": "Malachi",
    "division": "Old Testament",
-   "chapterCount": "4",
+   "chapterCount": 4,
    "translated": [
     1,
     2,
