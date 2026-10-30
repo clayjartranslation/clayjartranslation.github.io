@@ -43,7 +43,7 @@
       <a class="icon-btn" href="#/search" aria-label="Search" title="Search">
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       </a>
-      <button class="icon-btn" id="settingsBtn" type="button" aria-label="Reading settings" title="Reading settings" aria-expanded="false" aria-controls="settings">
+      <button class="icon-btn" id="settingsBtn" type="button" aria-label="Menu: reading settings, bookmarks, highlights" title="Menu and reading settings" aria-expanded="false" aria-controls="settings">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg>
       </button>
     </nav>
@@ -73,6 +73,18 @@
         <span class="track" aria-hidden="true"></span>
       </label>
     </div>
+    <div class="setting">
+      <label class="switch" for="resumeToggle">
+        <span class="setting-label">Open where I left off</span>
+        <input type="checkbox" id="resumeToggle" role="switch">
+        <span class="track" aria-hidden="true"></span>
+      </label>
+    </div>
+    <div class="setting setting-links">
+      <a class="btn" href="#/saved/bookmarks">Bookmarks</a>
+      <a class="btn" href="#/saved/highlights">Highlights</a>
+      <a class="btn" href="#/saved/backup">Backup</a>
+    </div>
   </div>
 
   <main id="main" tabindex="-1">
@@ -89,6 +101,51 @@
     </div>
     <p id="sheetText"></p>
   </aside>
+
+  <div class="hlbar" id="hlbar" role="toolbar" aria-label="Bookmark and highlight" hidden>
+    <span class="visually-hidden" id="tbLabel" aria-live="polite"></span>
+    <button type="button" class="tb-btn" id="tbBm" aria-pressed="false" aria-label="Bookmark this verse">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h10v18l-5-4-5 4z"/></svg>
+    </button>
+    <button type="button" class="tb-btn tb-color" data-color="yellow" aria-label="Highlight yellow"><i class="hl-yellow"></i></button>
+    <button type="button" class="tb-btn tb-color" data-color="green" aria-label="Highlight green"><i class="hl-green"></i></button>
+    <button type="button" class="tb-btn tb-color" data-color="blue" aria-label="Highlight blue"><i class="hl-blue"></i></button>
+    <button type="button" class="tb-btn tb-color" data-color="pink" aria-label="Highlight pink"><i class="hl-pink"></i></button>
+    <button type="button" class="tb-btn" id="tbClear" aria-label="Remove highlight">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+    </button>
+    <button type="button" class="tb-btn" id="tbListen" aria-label="Listen from this verse">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+    </button>
+  </div>
+
+  <section class="player" id="player" aria-label="Listening controls" hidden>
+    <div class="player-main">
+      <div class="player-now" id="plNow"></div>
+      <div class="player-btns">
+        <button type="button" class="pl-btn" id="plPrev" aria-label="Previous verse"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5v14M19 5v14L9 12z"/></svg></button>
+        <button type="button" class="pl-btn pl-play" id="plPlay" aria-label="Play" data-state="paused">
+          <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+          <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg>
+        </button>
+        <button type="button" class="pl-btn" id="plNext" aria-label="Next verse"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 5v14M5 5v14l10-7z"/></svg></button>
+        <button type="button" class="pl-btn" id="plStop" aria-label="Stop listening"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1.5"/></svg></button>
+        <button type="button" class="pl-btn" id="plOpts" aria-label="Speed and voice" aria-expanded="false" aria-controls="plOptions"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
+      </div>
+    </div>
+    <div class="player-opts" id="plOptions" hidden>
+      <label>Speed
+        <select id="plRate">
+          <option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1">1× (normal)</option>
+          <option value="1.1">1.1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option>
+        </select>
+      </label>
+      <label>Voice <select id="plVoice"><option value="">Automatic</option></select></label>
+      <label class="chk"><input type="checkbox" id="plAuto"> Keep going into the next chapter</label>
+    </div>
+  </section>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 
   <footer class="foot">
     <p><strong>Clay Jar Translation™ (CJT)</strong>. The translation text is dedicated to the public domain. No one owns it. Copy, print, share, translate, or sell it freely, with no permission needed.</p>
