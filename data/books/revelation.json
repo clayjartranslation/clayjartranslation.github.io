@@ -2,7 +2,7 @@
  "id": "revelation",
  "name": "Revelation",
  "division": "New Testament",
- "sourceNote": "Translated from the Greek text of B. F. Westcott and F. J. A. Hort, *The New Testament in the Original Greek* (1881; public domain), with Tischendorf’s eighth edition (1869–72; public domain) consulted. Variant readings were also compared with the SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Byzantine text of Robinson and Pierpont, which were consulted for variants only. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The writer names himself John (1:1, 4, 9; 22:8), a prophet exiled on the island of Patmos. From the 2nd century (Justin, Irenaeus) many identified him with John the apostle, while Dionysius of Alexandria (3rd century) argued from its Greek style that the author was a different John; this translation takes no position. Irenaeus dates the visions near the end of the reign of Domitian (about AD 95); some scholars prefer the late 60s. The Greek of Revelation is often unusual in grammar, and this translation does not smooth it entirely. The chief early witnesses include the papyri P18, P24, P47 (3rd century), P98 and P115 (3rd–4th century), Codex Sinaiticus, Codex Alexandrinus (often judged the best witness for this book) and Codex Ephraemi; Codex Vaticanus lacks Revelation. Erasmus’s first printed Greek text (1516), the basis of the King James Version, rested on one incomplete 12th-century manuscript, and he supplied the last six verses by translating from Latin. Measures are given in modern equivalents, with the original units in the notes. Hymns and songs are set as poetry.",
+ "sourceNote": "This translation was made directly from the Greek text of Westcott and Hort (1881; public domain), published under the title *The New Testament in the Original Greek*, with Tischendorf’s eighth edition (1869–72; public domain) consulted. It is not made from any other Greek edition. The SBL Greek New Testament, the Nestle–Aland *Novum Testamentum Graece*, and the Robinson–Pierpont Byzantine text were consulted only to see where their readings differ, so that variants could be noted; no wording from them is reproduced. The English was written afresh from the Greek and checked against modern translations so that their wording is not reproduced either. Where manuscript readings are cited in the notes, they are reported from the standard editions and have not been verified against the manuscripts. Greek *kyrios* is rendered “Lord”; where an Old Testament passage with the divine name is quoted or echoed, a note gives the Hebrew *Yahweh*. *Christos* is rendered “Christ” where it functions as part of Jesus’ name. The writer names himself John (1:1, 4, 9; 22:8), a prophet exiled on the island of Patmos. From the 2nd century (Justin, Irenaeus) many identified him with John the apostle, while Dionysius of Alexandria (3rd century) argued from its Greek style that the author was a different John; this translation takes no position. Irenaeus dates the visions near the end of the reign of Domitian (about AD 95); some scholars prefer the late 60s. The Greek of Revelation is often unusual in grammar, and this translation does not smooth it entirely. The chief early witnesses include the papyri P18, P24, P47 (3rd century), P98 and P115 (3rd–4th century), Codex Sinaiticus, Codex Alexandrinus (often judged the best witness for this book) and Codex Ephraemi; Codex Vaticanus lacks Revelation. Erasmus’s first printed Greek text (1516), the basis of the King James Version, rested on one incomplete 12th-century manuscript, and he supplied the last six verses by translating from Latin. Measures are given in modern equivalents, with the original units in the notes. Hymns and songs are set as poetry.",
  "chapters": [
   {
    "n": 1,
@@ -17,7 +17,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "The revelation of Jesus Christ, which God gave him to show his slaves what must take place soon. He made it known by sending his angel to his slave John,{a}"
+     "text": "The unveiling of Jesus Christ, which God gave him in order to show his slaves what must happen before long. Jesus signified it by dispatching his angel to his slave John,{a}"
     },
     {
      "v": 2,
@@ -25,11 +25,11 @@
     },
     {
      "v": 3,
-     "text": "Happy is the one who reads aloud the words of this prophecy, and happy are those who hear it and keep what is written in it, for the time is near.{b}"
+     "text": "Blessed is the person who reads this prophecy aloud, and blessed are the ones who listen to it and hold fast to the things written here, because the appointed time is close.{b}"
     },
     {
      "v": 4,
-     "text": "John, to the seven churches that are in Asia: grace to you and peace from the one who is and who was and who is coming, and from the seven spirits that are before his throne,{c}"
+     "text": "John, to the seven churches in Asia: favor and peace to you from him who is, and was, and is on his way, and from the seven spirits that stand before his throne,{c}"
     },
     {
      "v": 5,
@@ -37,55 +37,55 @@
     },
     {
      "v": 6,
-     "text": "and made us a kingdom, priests to his God and Father: to him be the glory and the might forever and ever. Amen.{e}"
+     "text": "and made us a royal house, priests for God, his Father. To him belong glory and dominion through the ages of ages. Amen.{e}"
     },
     {
      "v": 7,
-     "text": "Look, he is coming with the clouds,\nand every eye will see him,\nincluding those who pierced him,\nand all the tribes of the earth will mourn over him.\nSo it shall be. Amen.{f}"
+     "text": "Behold, he comes among the clouds,\nand every eye will look on him,\neven the ones who stabbed him,\nand all the peoples of the land will beat their breasts for him.\nYes, truly. Amen.{f}"
     },
     {
      "v": 8,
-     "text": "“I am the Alpha and the Omega,” says the Lord God, the one who is and who was and who is coming, the Almighty.{g}"
+     "text": "“I am the Alpha and the Omega,” says the Lord God, who is, and was, and is on his way, the Almighty.{g}"
     },
     {
      "v": 9,
-     "text": "I, John, your brother and your partner in the affliction, the kingdom and the endurance that belong to Jesus, found myself on the island called Patmos on account of God’s word and the testimony of Jesus.{h}"
+     "text": "I am John, your brother and your companion in the tribulation, the kingdom, and the perseverance that belong to Jesus. I came to be on the island named Patmos on account of God’s word and the witness of Jesus.{h}"
     },
     {
      "v": 10,
-     "text": "I came to be in the Spirit on the Lord’s day, and I heard behind me a loud voice like a trumpet,{i}"
+     "text": "In the Spirit I came to be, on the Lord’s day, and behind me I heard a great voice, resounding like a trumpet,{i}"
     },
     {
      "v": 11,
-     "text": "saying, “Write what you see in a book and send it to the seven churches, to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea.”{j}"
+     "text": "and it said, “Whatever you see, write it in a scroll and transmit it to the seven churches—Ephesus and Smyrna and Pergamum and Thyatira and Sardis and Philadelphia and Laodicea.”{j}"
     },
     {
      "v": 12,
-     "text": "I turned around to see the voice that was speaking with me, and on turning I saw seven golden lampstands,"
+     "text": "So I wheeled around to look at the voice that was speaking to me. On wheeling, I observed seven lampstands made of gold,"
     },
     {
      "v": 13,
-     "text": "and among the lampstands one like a son of man, clothed in a robe reaching his feet, with a golden sash around his chest.{k}"
+     "text": "and in the midst of the lampstands a figure like a son of man, wearing a garment that reached to his feet and a golden band across his breast.{k}"
     },
     {
      "v": 14,
-     "text": "White was his head, and his hair white as wool, as white as snow; his eyes were a fiery flame;{l}"
+     "text": "His head and hair shone with a whiteness like wool or fresh snow, and his eyes blazed like fire;{l}"
     },
     {
      "v": 15,
-     "text": "his feet shone like fine bronze glowing in a furnace, and his voice roared like a flood of many waters.{m}"
+     "text": "his feet resembled bronze glowing hot in a kiln, and his voice rang out like a roar of many waters.{m}"
     },
     {
      "v": 16,
-     "text": "In his right hand he held seven stars, and from his mouth came out a sharp two-edged sword, and his face was like the sun shining in its strength."
+     "text": "His right hand held seven stars. A sharp sword with two edges projected from his mouth. His face shone as the sun does at midday."
     },
     {
      "v": 17,
-     "text": "At the sight of him I dropped at his feet like a dead man. He placed his right hand on me and said, “Stop being afraid. I am the first and the last,{n}"
+     "text": "On seeing him, I fell at his feet like one who was dead. Then he rested his right hand upon me, saying, “Fear not. I am the first and the last,{n}"
     },
     {
      "v": 18,
-     "text": "and the Living One. I became dead, yet see, I am alive for all the ages, and I hold the keys of Death and of Hades.{o}"
+     "text": "as well as the one who lives. I died, and see, I am alive for all the ages, and I hold the keys of Death and of Hades.{o}"
     },
     {
      "v": 19,
@@ -105,7 +105,7 @@
     {
      "m": "b",
      "ref": "1:3",
-     "text": "Happy: or “blessed”; so in the other six beatitudes of the book (14:13; 16:15; 19:9; 20:6; 22:7, 14). *Reads aloud*: that is, in the assembly."
+     "text": "Happy: or “blessed”; so in the other six beatitudes of the book (22:14, 22:7, 20:6, 19:9, 16:15 and 14:13). *Reads aloud*: that is, in the assembly."
     },
     {
      "m": "c",
@@ -130,12 +130,12 @@
     {
      "m": "g",
      "ref": "1:8",
-     "text": "Alpha … Omega: the first and last letters of the Greek alphabet; compare 21:6; 22:13. Later manuscripts add “the beginning and the end.” *The Lord God … the Almighty*: in the Greek Old Testament *kyrios ho theos ho pantokratōr* renders Hebrew *Yahweh ʾElohe tsevaʾot*, “Yahweh, God of Armies” (for example Amos 3:13; 4:13)."
+     "text": "Alpha … Omega: the opening and closing letters of the Greek alphabet; compare 21:6; 22:13. Later manuscripts add “the beginning and the end.” *The Lord God … the Almighty*: in the Greek Old Testament *kyrios ho theos ho pantokratōr* renders Hebrew *Yahweh ʾElohe tsevaʾot*, “Yahweh, God of Armies” (for example Amos 3:13; 4:13)."
     },
     {
      "m": "h",
      "ref": "1:9",
-     "text": "Brother: Greek *adelphos*; the plural *adelphoi* in this book includes sisters. *Patmos*: a small island in the Aegean Sea, about 37 miles (60 km) southwest of Miletus."
+     "text": "Brother: Greek *adelphos*; the plural *adelphoi* in this book includes sisters. *Patmos*: a small Aegean island lying roughly 37 miles (60 km) southwest of Miletus."
     },
     {
      "m": "i",
@@ -190,15 +190,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "“To the angel of the church in Ephesus, write: ¶‘This is what is said by the one who holds the seven stars in his right hand, who walks among the seven golden lampstands:"
+     "text": "“To the angel of the church in Ephesus, write: ¶‘These are the words of him who grips the seven stars in his right hand and walks about among the seven golden lampstands:"
     },
     {
      "v": 2,
-     "text": "I know your works, your toil and your endurance, and that you cannot bear evil people. You have tested those who call themselves apostles but are not, and you have found them to be liars."
+     "text": "I know your works—how hard you labor and how you persevere—and that you cannot endure bad people. You tested those who claim to be apostles though they are not, and you discovered that they were liars."
     },
     {
      "v": 3,
-     "text": "You have endurance, and you have borne up for my name’s sake, and you have not grown weary."
+     "text": "You are enduring, and for my name’s sake you have borne hardships without growing weary."
     },
     {
      "v": 4,
@@ -210,71 +210,71 @@
     },
     {
      "v": 6,
-     "text": "Yet this you have in your favor: you hate the works of the Nicolaitans, which I also hate.{a}"
+     "text": "But you have this to your credit: you detest what the Nicolaitans do, as I do too.{a}"
     },
     {
      "v": 7,
-     "text": "Whoever has ears, let him hear what the Spirit is saying to the churches. To the victor I will give the right to eat of the tree of life that stands in God’s paradise.’{b}"
+     "text": "Anyone who has an ear, let him pay attention to the Spirit’s message for the churches. I will give the conqueror a share of the tree of life, which grows in the paradise of God.’{b}"
     },
     {
      "v": 8,
-     "text": "“To the angel of the church in Smyrna, write: ¶‘This is what is said by the first and the last, who was dead and came to life:"
+     "text": "“To the angel of the Smyrna church write: ¶‘Thus speaks the first and the last, who became dead and came alive again:"
     },
     {
      "v": 9,
-     "text": "I know your distress and your poverty (yet you are rich), and the slander of those who say they are Jews and are not, but are a synagogue of Satan.{c}"
+     "text": "I am aware of your tribulation and poverty—yet you are rich—and of the blasphemy against you by people claiming to be Jews who are not, but are Satan’s synagogue.{c}"
     },
     {
      "v": 10,
-     "text": "Have no fear of what you are about to suffer. Look, the devil is going to throw some of you into prison so that you may be tested, and for ten days you will have distress. Be faithful to death, and I will give you the crown of life.{d}"
+     "text": "Do not be afraid of what you will soon suffer. Notice: the devil is going to put some of you in prison as a test, and you will endure tribulation for ten days. Prove faithful to the point of dying, and I will present you with the crown of life.{d}"
     },
     {
      "v": 11,
-     "text": "Whoever has ears, let him hear what the Spirit is saying to the churches. The victor will suffer no harm at all from the second death.’"
+     "text": "Anyone who has an ear, let him pay attention to the Spirit’s message for the churches. The one who conquers will suffer no injury from the second death.’"
     },
     {
      "v": 12,
-     "text": "“To the angel of the church in Pergamum, write: ¶‘This is what is said by the one who has the sharp two-edged sword:"
+     "text": "“To the angel of the church in Pergamum, write: ¶‘These are the words of him who holds the sharp, double-edged sword:"
     },
     {
      "v": 13,
-     "text": "I know where you make your home: where Satan has his throne. Even so you cling to my name, and you did not disown your faith in me, not even in the days of Antipas, my faithful witness, who was put to death in your city, where Satan makes his home.{e}"
+     "text": "I am aware of where you dwell, where Satan’s throne stands. You keep a firm hold on my name, and you never abandoned your faith in me, even during the days when Antipas, my faithful witness, was killed in your midst, where Satan dwells.{e}"
     },
     {
      "v": 14,
-     "text": "Still, I have a few things against you. Some among you cling to what Balaam taught when he instructed Balak to set a trap for the Israelites, so that they ate meat offered to idols and practiced sexual immorality.{f}"
+     "text": "But a few matters count against you. There are people with you who maintain the doctrine of Balaam, who taught Balak to lay a trap before the people of Israel: to eat idol sacrifices and to fornicate.{f}"
     },
     {
      "v": 15,
-     "text": "So you too have some who hold the teaching of the Nicolaitans in the same way."
+     "text": "In the same way you also have some who adhere to the teaching of the Nicolaitans."
     },
     {
      "v": 16,
-     "text": "So turn back! Otherwise I am coming to you quickly, and I will fight those people with the sword that comes from my mouth."
+     "text": "Repent, then. If not, I am coming against you swiftly, and I will fight them with the sword of my mouth."
     },
     {
      "v": 17,
-     "text": "Whoever has an ear, let that person hear what the Spirit is saying to the churches. To the conqueror I will give a portion of the hidden manna, and I will give a white pebble, and on the pebble a new name inscribed, which nobody knows apart from the one who gets it.’{g}"
+     "text": "Anyone who has an ear, let him pay attention to the Spirit’s message for the churches. I will give the conqueror a portion of the concealed manna. I will give him a white pebble as well, and engraved on the pebble is a new name, which nobody recognizes except its recipient.’{g}"
     },
     {
      "v": 18,
-     "text": "“To the angel of the church in Thyatira, write: ¶‘This is what is said by the Son of God, who has eyes like a flame of fire and feet like burnished bronze:{h}"
+     "text": "“To the angel of the Thyatira church write: ¶‘Thus speaks the Son of God, the one with eyes like a blaze of fire and with feet like burnished bronze:{h}"
     },
     {
      "v": 19,
-     "text": "I know your works, your love and faith and service and endurance, and that your latest works are greater than the first."
+     "text": "I am aware of your works—your love, faith, ministry, and perseverance—and that your recent works exceed the earlier ones."
     },
     {
      "v": 20,
-     "text": "But I hold this against you: you tolerate the woman Jezebel, who calls herself a prophetess and teaches and misleads my slaves to commit sexual immorality and to eat food sacrificed to idols.{i}"
+     "text": "Yet this is my complaint against you: you put up with Jezebel, that woman who declares herself a prophetess; she instructs my slaves and misleads them into fornicating and eating idol sacrifices.{i}"
     },
     {
      "v": 21,
-     "text": "I gave her time to repent, but she refuses to repent of her immorality."
+     "text": "Time to repent was given to her, but she is unwilling to turn back from her fornication."
     },
     {
      "v": 22,
-     "text": "Look, I am throwing her onto a sickbed, and those who commit adultery with her into great distress, unless they repent of her works.{j}"
+     "text": "Watch: I will cast her on a bed, and her fellow adulterers into severe tribulation, if they do not repent of her deeds.{j}"
     },
     {
      "v": 23,
@@ -282,7 +282,7 @@
     },
     {
      "v": 24,
-     "text": "Now I speak to the others in Thyatira, all who do not follow this teaching and have not learned the so-called deep things of Satan: on you I am putting no further burden;{l}"
+     "text": "But to the remaining ones in Thyatira—as many as lack this teaching, such as have not known the so-called “deep things of Satan”—I tell you: I am not loading any other burden on you;{l}"
     },
     {
      "v": 25,
@@ -290,19 +290,19 @@
     },
     {
      "v": 26,
-     "text": "To the one who conquers and keeps my works to the end I will give authority over the nations,"
+     "text": "To the conqueror, who guards my works right to the end, I will grant authority over the nations,"
     },
     {
      "v": 27,
-     "text": "and he will shepherd them with an iron rod, as clay pots are shattered, just as I have received authority from my Father;{m}"
+     "text": "and he will shepherd them with an iron rod, as clay vessels are smashed to pieces, just as I too have received it from my Father;{m}"
     },
     {
      "v": 28,
-     "text": "and I will give him the morning star."
+     "text": "and I will hand him the morning star."
     },
     {
      "v": 29,
-     "text": "Let whoever has ears hear what the Spirit says to the churches.’"
+     "text": "Anyone who has an ear, let him pay attention to the Spirit’s message for the churches.’"
     }
    ],
    "notes": [
@@ -383,7 +383,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "“To the angel of the church in Sardis, write: ¶‘These are the words of him who holds God’s seven spirits and the seven stars: I know what you have done. You are reputed to be alive, yet you are dead."
+     "text": "“To the angel of the Sardis church write: ¶‘Thus speaks he who possesses the seven spirits of God and the seven stars: I am aware of your works—that you bear a name saying you live, though you are dead."
     },
     {
      "v": 2,
@@ -391,7 +391,7 @@
     },
     {
      "v": 3,
-     "text": "So call to mind what you received and heard. Hold on to it and turn back. If you stay asleep, I will come like a thief, and you will have no idea at which hour I will be upon you."
+     "text": "Call to mind, therefore, what you received and heard; guard it, and repent. If you do not rouse yourself, I will arrive like a thief, and you will not learn at which hour I will reach you."
     },
     {
      "v": 4,
@@ -399,27 +399,27 @@
     },
     {
      "v": 5,
-     "text": "The one who conquers will be clothed like them in white garments, and I will never blot his name out of the book of life; I will acknowledge his name before my Father and before his angels."
+     "text": "Thus will the conqueror be clothed in white clothes; and his name I will never blot out of the book of life, but I will confess his name before my Father and before his angels."
     },
     {
      "v": 6,
-     "text": "Let whoever has ears hear what the Spirit says to the churches.’"
+     "text": "Anyone who has an ear, let him pay attention to the Spirit’s message for the churches.’"
     },
     {
      "v": 7,
-     "text": "“To the angel of the church in Philadelphia, write: ¶‘This is what is said by the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens:{b}"
+     "text": "“To the angel of the Philadelphia church write: ¶‘Thus speaks the holy one, the genuine one, who holds the key of David; what he opens, none will close, and what he closes, none opens:{b}"
     },
     {
      "v": 8,
-     "text": "I know what you have done. I have placed in front of you a door standing open, which nobody can shut. Your strength is small, yet you have kept my word and not disowned my name."
+     "text": "I am aware of your works. Observe: I have placed before you a doorway, opened, that nobody has power to close. You possess little strength; still, you kept my word and did not deny my name."
     },
     {
      "v": 9,
-     "text": "As for those from Satan’s synagogue, who call themselves Jews though they are not, but lie, I will see to it that they come and bow low at your feet and acknowledge that I have loved you.{c}"
+     "text": "Observe, I am handing over some from Satan’s synagogue, who call themselves Jews and are not, but are liars. I will cause them to arrive and kneel at your feet, and to learn that I have loved you.{c}"
     },
     {
      "v": 10,
-     "text": "Because you have kept my word about endurance, I will also keep you from the hour of trial that is coming on the whole world, to test those who live on the earth."
+     "text": "Since you guarded my message of patient endurance, I in turn will guard you from the hour of testing that is about to come upon the entire inhabited world, to try the people living on earth."
     },
     {
      "v": 11,
@@ -427,23 +427,23 @@
     },
     {
      "v": 12,
-     "text": "The one who conquers I will make a pillar in the temple of my God, and he will never go out of it again. I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down out of heaven from my God, and my own new name.{d}"
+     "text": "The victor I will make a pillar in the temple of my God, and he will go out from it no more. I will write on him the name of my God, and the name of the city of my God—the new Jerusalem that comes down out of heaven from my God—and also my own new name.{d}"
     },
     {
      "v": 13,
-     "text": "Let whoever has ears hear what the Spirit says to the churches.’"
+     "text": "Anyone who has an ear, let him pay attention to the Spirit’s message for the churches.’"
     },
     {
      "v": 14,
-     "text": "“To the angel of the church in Laodicea, write: ¶‘This is what is said by the Amen, the faithful and true witness, the beginning of God’s creation:{e}"
+     "text": "“To the angel of the Laodicea church write: ¶‘Thus speaks the Amen, the reliable and genuine witness, the source of God’s creation:{e}"
     },
     {
      "v": 15,
-     "text": "I know your works: you are neither cold nor hot. I wish you were cold or hot!"
+     "text": "I am aware of your works, that you are not cold and not hot. I would prefer you to be either cold or hot."
     },
     {
      "v": 16,
-     "text": "Since you are lukewarm, neither hot nor cold, I am going to vomit you from my mouth.{f}"
+     "text": "Thus, because you are warm and neither hot nor cold, I intend to spit you out of my mouth.{f}"
     },
     {
      "v": 17,
@@ -451,23 +451,23 @@
     },
     {
      "v": 18,
-     "text": "My advice to you is this: buy from me gold purified in the fire, to make you rich; white clothes to wear, so that your shameful nakedness is not exposed; and ointment to rub on your eyes, so that you can see.{h}"
+     "text": "I advise you to acquire from me gold fired and purified, to make you wealthy; also white garments for you to wear, so that your disgraceful nudity is concealed; and ointment to put on your eyes, that you may see.{h}"
     },
     {
      "v": 19,
-     "text": "All whom I love I reprove and discipline. So be earnest, and repent.{i}"
+     "text": "I correct and train everyone I love. Be zealous, then, and change your ways.{i}"
     },
     {
      "v": 20,
-     "text": "Look, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me."
+     "text": "Look at me, standing at the door and knocking! Should anyone hear my voice and open the door, I will enter and dine with that person, and he with me."
     },
     {
      "v": 21,
-     "text": "I will grant the conqueror a seat beside me on my throne, just as I conquered and took my seat beside my Father on his throne."
+     "text": "To the one who prevails I will grant a place beside me on my throne, as I too prevailed and sat down with my Father on his throne."
     },
     {
      "v": 22,
-     "text": "Let whoever has ears hear what the Spirit says to the churches.’”"
+     "text": "Anyone who has an ear, let him pay attention to the Spirit’s message for the churches.’”"
     }
    ],
    "notes": [
@@ -526,7 +526,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "After these things I looked, and there in heaven stood an open door. The first voice that I had heard, which sounded like a trumpet speaking with me, said, “Climb up here, and I will show you what has to happen after these things.”"
+     "text": "After this I looked, and an open door appeared in heaven. The first voice, the one I had heard like a trumpet speaking with me, now said, “Climb up here, and I will let you see what must occur after these events.”"
     },
     {
      "v": 2,
@@ -546,11 +546,11 @@
     },
     {
      "v": 6,
-     "text": "and before the throne there is something like a sea of glass, like crystal. ¶In the center, around the throne, are four living creatures, full of eyes in front and behind.{c}"
+     "text": "and in front of the throne lay what seemed a glass sea like crystal. ¶In the center, around the throne, stood four living beings with eyes covering them, front and back.{c}"
     },
     {
      "v": 7,
-     "text": "The first living creature is like a lion, the second living creature like an ox, the third living creature has a face like a human being, and the fourth living creature is like a flying eagle.{d}"
+     "text": "The first being resembled a lion, the second a young bull, the third had a human-looking face, and the fourth resembled an eagle in flight.{d}"
     },
     {
      "v": 8,
@@ -558,15 +558,15 @@
     },
     {
      "v": 9,
-     "text": "And whenever the living creatures give glory and honor and thanks to the one seated on the throne, who lives forever and ever,"
+     "text": "Whenever the living beings render glory, honor, and thanks to the occupant of the throne, who lives to the ages of ages,"
     },
     {
      "v": 10,
-     "text": "the twenty-four elders will fall down before the one seated on the throne and bow to the one who lives for all the ages; they will throw their crowns down before the throne and say,"
+     "text": "the twenty-four elders will prostrate themselves in front of the occupant of the throne and will worship the one who lives to the ages of ages. They will throw their crowns before the throne and say:"
     },
     {
      "v": 11,
-     "text": "“You are worthy, our Lord and God,\nto take the glory, the honor and the power,\nbecause you made all things;\nit was through your will that they existed and were made.”{f}"
+     "text": "“Deserving are you, our Lord and our God,\nof taking the glory, the honor, and the power;\nfor you made all things,\nand it is by your desire that they existed and were created.”{f}"
     }
    ],
    "notes": [
@@ -615,15 +615,15 @@
     },
     {
      "v": 2,
-     "text": "And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and break its seals?”"
+     "text": "I also saw a powerful angel announcing in a booming voice, “Who deserves to open the scroll and undo its seals?”"
     },
     {
      "v": 3,
-     "text": "Yet nobody in heaven, nobody on earth, nobody beneath the earth could open the scroll or even look inside."
+     "text": "Yet nobody in the heavens, nor on the land, nor beneath the ground had the ability to unroll the scroll or peer into it."
     },
     {
      "v": 4,
-     "text": "And I wept and wept, because no one was found worthy to open the scroll or to look into it.{b}"
+     "text": "I began to weep bitterly, because no one had been found who deserved to open the scroll or look inside it.{b}"
     },
     {
      "v": 5,
@@ -631,7 +631,7 @@
     },
     {
      "v": 6,
-     "text": "And I saw, between the throne and the four living creatures and among the elders, a Lamb standing as though it had been slaughtered, with seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.{d}"
+     "text": "Then, in the very center—with the throne and its four living creatures on one side and the elders on the other—I saw a Lamb standing, bearing the marks of slaughter. He had seven horns and seven eyes, and these are the seven spirits of God, commissioned to go out over all the earth.{d}"
     },
     {
      "v": 7,
@@ -639,11 +639,11 @@
     },
     {
      "v": 8,
-     "text": "And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp and golden bowls full of incense, which are the prayers of the saints."
+     "text": "As he took the scroll, the four living creatures and the twenty-four elders prostrated themselves before the Lamb. Every one of them held a harp and golden bowls full of incense—the prayers of God’s holy people."
     },
     {
      "v": 9,
-     "text": "And a new song is on their lips:\n“Worthy are you to receive the scroll\nand to unseal it,\nsince you were slain, and at the cost of your blood you purchased for God\nthose of every tribe and tongue, of every people and nation,{e}"
+     "text": "They sing a new song:\n“You deserve to take the scroll\nand open its seals,\nsince you were slaughtered, and with your blood you bought for God\npeople out of every tribe, language, nation, and people,{e}"
     },
     {
      "v": 10,
@@ -651,15 +651,15 @@
     },
     {
      "v": 11,
-     "text": "Then I looked, and I heard the voice of many angels around the throne and the living creatures and the elders, numbering myriads of myriads and thousands of thousands,{g}"
+     "text": "And I looked and heard a sound: many angels in a ring around the throne, around the living creatures, and around the elders. Their number was myriads upon myriads and thousands upon thousands,{g}"
     },
     {
      "v": 12,
-     "text": "saying in a loud voice,\n“Worthy is the slaughtered Lamb\nto receive power, riches, wisdom and strength,\nhonor, glory and blessing!”"
+     "text": "calling out in a great voice,\n“The slaughtered Lamb deserves\nto receive might and wealth, wisdom and strength,\nhonor and glory and praise!”"
     },
     {
      "v": 13,
-     "text": "Then every created thing in heaven, on earth, beneath the earth and on the sea, everything in them, I heard them all saying,\n“To him who sits on the throne, and to the Lamb,\nbe blessing and honor, glory and dominion,\nto the ages of the ages!”{h}"
+     "text": "I heard, too, every creature that is in heaven, on the land, beneath the ground, and on the sea—everything in them—saying,\n“Praise, honor, glory, and might\nbelong to him who sits on the throne, and to the Lamb,\nfor ever and ever!”{h}"
     },
     {
      "v": 14,
@@ -727,11 +727,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "I watched as the Lamb broke open one of the seven seals, and I heard one of the four living creatures cry out in a voice like a thunderclap, “Come!”{a}"
+     "text": "Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living creatures speak in a thunderous voice: “Come!”{a}"
     },
     {
      "v": 2,
-     "text": "I looked, and there before me was a white horse, and its rider held a bow. He received a crown, and away he rode, a conqueror bent on conquest."
+     "text": "And I looked: a white horse, and its rider holding a bow! A crown was given him, and he rode forth as a conqueror, bent on conquest."
     },
     {
      "v": 3,
@@ -743,35 +743,35 @@
     },
     {
      "v": 5,
-     "text": "When the Lamb broke the third seal, I heard the third of the living creatures say, “Come!” I looked, and there was a black horse, and the one sitting on it held a pair of scales in his hand."
+     "text": "When the third seal was opened by the Lamb, I heard the third living creature cry, “Come!” And what I saw was a black horse, and the rider on it held a pair of balances in his hand."
     },
     {
      "v": 6,
-     "text": "And from among the four living creatures came what sounded like a voice: “A quart of wheat for a day’s pay, three quarts of barley for a day’s pay, but leave the oil and the wine unharmed!”{c}"
+     "text": "And I heard what sounded like a voice amid the four living beings, saying, “Wheat is a quart for a day’s wage, and barley is three quarts for a day’s wage; do not injure the oil and wine.”{c}"
     },
     {
      "v": 7,
-     "text": "When he opened the fourth seal, I heard the voice of the fourth living creature say, “Come!”"
+     "text": "When he opened the fourth seal, I heard the voice of the fourth living creature saying, “Come!”"
     },
     {
      "v": 8,
-     "text": "I looked, and there before me was a horse the color of a corpse, and its rider was named Death, with Hades following close behind. Power was given them over a quarter of the earth, to kill by the sword, by famine, by disease, and by earth’s wild animals.{d}"
+     "text": "And there before me was a pale green horse, and the name of its rider was Death, and Hades came behind him. Authority was given to them over one quarter of the earth, to kill with the sword, with famine, with deadly disease, and through the wild beasts of the earth.{d}"
     },
     {
      "v": 9,
-     "text": "When he opened the fifth seal, I saw under the altar the souls of those who had been slaughtered for the word of God and for the testimony they had borne."
+     "text": "When he opened the fifth seal, I saw beneath the altar the souls of people who had been put to death because of God’s word and because of the witness they maintained."
     },
     {
      "v": 10,
-     "text": "They cried out with a loud voice, “How long, holy and true Master, before you judge and avenge our blood on those who live on the earth?”{e}"
+     "text": "They shouted in a great voice: “Holy and true Master, how long until you give judgment and take vengeance for our blood upon the inhabitants of the earth?”{e}"
     },
     {
      "v": 11,
-     "text": "Each of them received a white robe, and they were told to wait quietly a short time more, until the full number was reached of their fellow slaves and brothers who were to be put to death just as they themselves had been.{f}"
+     "text": "Each of them received a white robe, and word came to them to take rest for a little time yet, until the count was complete of their fellow slaves and their brothers, those soon to be put to death, as they had been.{f}"
     },
     {
      "v": 12,
-     "text": "When he opened the sixth seal, I looked, and there was a great earthquake, and the sun became black as sackcloth made of hair, and the whole moon became like blood,{g}"
+     "text": "Then he opened the sixth seal, and I watched. A great earthquake struck, the sun turned black like a sack woven of hair, and the full moon turned red as blood,{g}"
     },
     {
      "v": 13,
@@ -779,7 +779,7 @@
     },
     {
      "v": 14,
-     "text": "The sky was pulled apart like a scroll rolling itself up, and every mountain and island was shifted out of its place."
+     "text": "The sky was torn away like a scroll being rolled up, and every mountain and island was shifted from its place."
     },
     {
      "v": 15,
@@ -787,11 +787,11 @@
     },
     {
      "v": 16,
-     "text": "and they say to the mountains and the rocks, “Fall on us, and conceal us from the face of the one who sits on the throne and from the anger of the Lamb,{j}"
+     "text": "and they call to the mountains and to the rocks: “Fall upon us and hide us from the face of the one seated on the throne, and from the wrath of the Lamb,{j}"
     },
     {
      "v": 17,
-     "text": "because the great day of their wrath has come, and who is able to stand?”{k}"
+     "text": "for the great day of their anger has arrived, and who can remain standing?”{k}"
     }
    ],
    "notes": [
@@ -862,19 +862,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth so that no wind would blow on the earth or the sea or any tree."
+     "text": "After this I saw four angels standing on the earth’s four corners, holding back its four winds so that no wind would blow upon land, upon sea, or upon any tree."
     },
     {
      "v": 2,
-     "text": "Next I saw another angel rising from the east with the seal of the living God, and he shouted to the four angels who had been granted power to damage land and sea,"
+     "text": "And I saw a different angel ascending from the sunrise, carrying the living God’s seal; he called out in a great voice to the four angels who had received permission to injure earth and sea,"
     },
     {
      "v": 3,
-     "text": "He said, “Do no damage to the land, the sea or the trees until we have put the seal on the foreheads of the slaves of our God.”{a}"
+     "text": "“Harm neither the earth nor the sea nor the trees, until we have sealed the foreheads of our God’s slaves.”{a}"
     },
     {
      "v": 4,
-     "text": "And I heard the number of those who were sealed, a hundred and forty-four thousand, sealed out of every tribe of the people of Israel:"
+     "text": "And I heard how many were sealed: one hundred forty-four thousand, sealed out of every tribe of Israel’s descendants:"
     },
     {
      "v": 5,
@@ -894,7 +894,7 @@
     },
     {
      "v": 9,
-     "text": "After these things I looked, and there stood a great multitude that no one could number, drawn from every nation, tribe, people and language. They stood before the throne and before the Lamb, wearing white robes and holding palm branches."
+     "text": "After this I looked, and behold, a vast crowd that nobody could count, drawn from every nation, tribe, people, and language, stood in front of the throne and also before the Lamb. They were dressed in white robes, with palm branches in their hands,"
     },
     {
      "v": 10,
@@ -906,19 +906,19 @@
     },
     {
      "v": 12,
-     "text": "saying,\n“Amen! Blessing and glory and wisdom\nand thanksgiving and honor\nand power and might\nbe to our God forever and ever! Amen.”{f}"
+     "text": "and said,\n“Amen! Praise and glory and wisdom,\nthanks and honor,\nmight and strength,\nbelong to our God for ever and ever! Amen.”{f}"
     },
     {
      "v": 13,
-     "text": "Then one of the elders addressed me, saying, “These who are clothed in white robes, who are they, and where have they come from?”"
+     "text": "And one of the elders began to question me: “These who are wearing the white robes—who are they, and from where did they come?”"
     },
     {
      "v": 14,
-     "text": "I said to him, “My lord, you know.” And he said to me, “These are the ones who are coming out of the great distress. They have washed their robes and made them white in the blood of the Lamb.{g}"
+     "text": "I replied, “My lord, you know.” He answered me, “These are the ones who are coming out of the great affliction. They have washed their robes and made them white in the Lamb’s blood.{g}"
     },
     {
      "v": 15,
-     "text": "That is why they stand before God’s throne\nand worship him in his temple by day and by night,\nand he who sits on the throne will spread his tent over them.{h}"
+     "text": "For this reason they are before God’s throne\nand serve him by day and by night in his sanctuary;\nthe one seated on the throne will spread a shelter over them.{h}"
     },
     {
      "v": 16,
@@ -1001,11 +1001,11 @@
     },
     {
      "v": 3,
-     "text": "Then another angel, holding a golden censer, came and took his place at the altar. Much incense was given to him, to offer along with the prayers of all God’s people upon the golden altar in front of the throne."
+     "text": "And another angel came and stood by the altar with a gold incense pan. He was given a great amount of incense, in order to present it with the prayers of all the holy people at the golden altar before the throne."
     },
     {
      "v": 4,
-     "text": "And the smoke of the incense, with the prayers of the saints, rose before God from the angel’s hand."
+     "text": "And the smoke of the incense rose from the angel’s hand before God, along with the prayers of the holy people."
     },
     {
      "v": 5,
@@ -1017,15 +1017,15 @@
     },
     {
      "v": 7,
-     "text": "The first blew his trumpet, and there came hail and fire mixed with blood, and they were hurled on the earth. A third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.{c}"
+     "text": "The first angel sounded his trumpet; hail and fire mingled with blood came down and was flung to the earth. One third of the earth burned up, one third of the trees burned up, and every blade of green grass burned up.{c}"
     },
     {
      "v": 8,
-     "text": "The second angel sounded, and something like a huge mountain ablaze with fire was cast into the sea; a third of the sea turned to blood,"
+     "text": "The second angel sounded his trumpet, and what looked like a great burning mountain was thrown into the sea; one third of the sea became blood,"
     },
     {
      "v": 9,
-     "text": "a third of the sea’s living creatures perished, and a third of the ships were wrecked."
+     "text": "one third of the creatures in the sea that had life died, and one third of the ships were destroyed."
     },
     {
      "v": 10,
@@ -1037,11 +1037,11 @@
     },
     {
      "v": 12,
-     "text": "The fourth angel sounded. A third of the sun was struck, and with it a third of the moon and of the stars, so that a third part of them went dark; a third of the day lost its light, and the night as well."
+     "text": "The fourth angel sounded his trumpet. One third of the sun was struck, and one third of the moon, and one third of the stars, so that one third of them was darkened and the day lost one third of its light, and the night likewise."
     },
     {
      "v": 13,
-     "text": "As I watched, I heard an eagle flying high overhead, calling out in a loud voice, “Woe, woe, woe to the earth’s inhabitants, because of the trumpet blasts still to come from the three angels who are about to sound!”{e}"
+     "text": "Then, as I looked, I heard an eagle flying in midheaven call out in a great voice: “Woe! Woe! Woe to the earth’s inhabitants, on account of the other trumpet blasts about to be sounded by the three remaining angels!”{e}"
     }
    ],
    "notes": [
@@ -1083,7 +1083,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "The fifth angel sounded, and I saw a star that had fallen out of heaven to the earth. To it was handed the key to the shaft of the abyss.{a}"
+     "text": "The fifth angel sounded his trumpet, and I saw a star that had dropped from heaven to the earth. To the star was given the key of the pit of the abyss.{a}"
     },
     {
      "v": 2,
@@ -1091,7 +1091,7 @@
     },
     {
      "v": 3,
-     "text": "Out of the smoke locusts swarmed onto the earth, and they were given power like the power that earth’s scorpions have.{b}"
+     "text": "Locusts came down out of the smoke to the earth, and they were granted the kind of power that scorpions of the earth have.{b}"
     },
     {
      "v": 4,
@@ -1099,11 +1099,11 @@
     },
     {
      "v": 5,
-     "text": "They were allowed not to kill them but to torment them for five months, and the torment they inflict is like a scorpion’s when it stings someone.{c}"
+     "text": "They were allowed not to kill them but to torment them five months, and their torment is like the torment of a scorpion when it strikes a person.{c}"
     },
     {
      "v": 6,
-     "text": "In those days people will look for death and never find it; they will long to die, but death keeps fleeing from them."
+     "text": "In those days people will search for death but will not discover it; they will yearn to die, and death will flee from them."
     },
     {
      "v": 7,
@@ -1111,11 +1111,11 @@
     },
     {
      "v": 8,
-     "text": "Their hair was like women’s hair, and their teeth were like lions’ teeth.{e}"
+     "text": "They had hair like women’s hair, and their teeth were like those of lions.{e}"
     },
     {
      "v": 9,
-     "text": "They had chests like iron breastplates, and the whir of their wings was like the din of many horse-drawn chariots charging into battle."
+     "text": "Their chests were like breastplates of iron, and the sound of their wings was like the thunder of many chariots with horses rushing into war."
     },
     {
      "v": 10,
@@ -1123,7 +1123,7 @@
     },
     {
      "v": 11,
-     "text": "Over them as king they have the angel of the abyss, whose name in Hebrew is Abaddon, and in Greek he is called Apollyon.{f}"
+     "text": "They have a king over them, the angel of the abyss; his name in Hebrew is Abaddon, but in Greek he has the name Apollyon.{f}"
     },
     {
      "v": 12,
@@ -1131,15 +1131,15 @@
     },
     {
      "v": 13,
-     "text": "The sixth angel sounded, and I heard a single voice from the four horns of the golden altar that stands before God,{g}"
+     "text": "The sixth angel sounded his trumpet, and I heard one voice coming from the corners of the golden altar that is in God’s presence,{g}"
     },
     {
      "v": 14,
-     "text": "telling the sixth angel, the one with the trumpet, “Set free the four angels who are held bound at the great river Euphrates.”{h}"
+     "text": "It said to the sixth angel, the trumpet holder: “Release the four angels who are held bound at the great river, the Euphrates.”{h}"
     },
     {
      "v": 15,
-     "text": "So the four angels were set free, who had been kept ready for that hour, day, month and year, to kill a third of humankind.{i}"
+     "text": "And the four angels were let loose, who stood ready for that precise hour and day and month and year, to kill one third of humanity.{i}"
     },
     {
      "v": 16,
@@ -1147,7 +1147,7 @@
     },
     {
      "v": 17,
-     "text": "This is how the horses and those sitting on them looked to me in the vision: they wore breastplates of fiery red, dark blue and sulfur yellow; the heads of the horses were like the heads of lions, and from their mouths came fire, smoke and sulfur.{k}"
+     "text": "This is how the horses and their riders looked in my vision: the riders wore breastplates of fiery red, deep blue, and brimstone yellow. The horses had heads like lions’ heads, and fire, smoke, and brimstone streamed from their mouths.{k}"
     },
     {
      "v": 18,
@@ -1155,11 +1155,11 @@
     },
     {
      "v": 19,
-     "text": "For the horses’ power is in their mouths and in their tails; their tails are like snakes, with heads, and with them they do harm."
+     "text": "The horses’ power lies in their mouths and in their tails as well, for their tails look like serpents and have heads, and by means of them they inflict injury."
     },
     {
      "v": 20,
-     "text": "Still the remainder of humanity, those these plagues had spared, did not repent of what their hands had made. They kept on worshiping demons, and gods of gold and of silver, of bronze, of stone and of wood, gods that are blind and deaf and lame.{l}"
+     "text": "The people who remained, who had not been killed in these plagues, nevertheless did not repent of what their hands had made, nor stop worshiping the demons and the golden, silver, bronze, stone and wooden idols, which have no power to see, to hear or to walk.{l}"
     },
     {
      "v": 21,
@@ -1225,7 +1225,7 @@
     {
      "m": "l",
      "ref": "9:20",
-     "text": "Compare Ps 115:4–7; 135:15–17; Dan 5:23."
+     "text": "Compare Dan 5:23; Ps 135:15–17; 115:4–7."
     },
     {
      "m": "m",
@@ -1243,23 +1243,23 @@
    "verses": [
     {
      "v": 1,
-     "text": "Then I saw another mighty angel coming down out of heaven, wrapped in a cloud, with the rainbow over his head. His face was like the sun, and his legs like pillars of fire.{a}"
+     "text": "Then I saw another mighty angel descending from heaven. A cloud was wrapped around him, a rainbow crowned his head, his face was like the sun, and his legs were like pillars of fire.{a}"
     },
     {
      "v": 2,
-     "text": "In his hand he held a little scroll, lying open. He planted his right foot on the sea and his left on the land,"
+     "text": "He had a small scroll in his hand, unrolled. Then he placed his right foot on the sea and his left on the land,"
     },
     {
      "v": 3,
-     "text": "and he gave a great shout, like a lion roaring. When he shouted, the seven thunders spoke out with their own voices."
+     "text": "and cried out with a great voice, as a lion roars. And when he cried out, the seven thunders uttered their voices."
     },
     {
      "v": 4,
-     "text": "After the seven thunders had spoken I was about to write it down, but I heard a voice out of heaven saying, “Put a seal on what the seven thunders have said; do not write it.”{b}"
+     "text": "When the seven thunders spoke, I was on the point of writing, but I heard a voice out of heaven saying, “Put a seal on what the seven thunders said; do not write it down.”{b}"
     },
     {
      "v": 5,
-     "text": "Then the angel whom I had seen standing on the sea and on the land raised his right hand toward heaven"
+     "text": "Then the angel I had seen standing upon the sea and upon the land lifted up his right hand to heaven"
     },
     {
      "v": 6,
@@ -1267,19 +1267,19 @@
     },
     {
      "v": 7,
-     "text": "but in the days when the seventh angel is heard, when he is about to sound his trumpet, the mystery of God will be accomplished, as he announced as good news to his slaves the prophets.”{d}"
+     "text": "but in the days of the seventh angel’s voice, when he is about to sound his trumpet, the hidden purpose of God will be completed, just as he announced to his slaves the prophets.”{d}"
     },
     {
      "v": 8,
-     "text": "Then the voice I had heard from heaven spoke to me again: “Go and take the scroll that lies open in the hand of the angel who stands on the sea and on the land.”"
+     "text": "The voice I had heard out of heaven was speaking to me once more, and it said, “Go and take the scroll that lies unrolled on the hand of the angel who is standing on the sea and on the land.”"
     },
     {
      "v": 9,
-     "text": "So I went to the angel and asked him to give me the little scroll. He told me, “Take it and eat it all. It will turn your stomach bitter, but in your mouth it will taste as sweet as honey.”{e}"
+     "text": "And I went to that angel and asked him for the little scroll. “Here, take it and eat it,” he replied. “It will embitter your belly, yet in your mouth it will be as sweet as honey.”{e}"
     },
     {
      "v": 10,
-     "text": "I took the little scroll from the angel’s hand and ate it. In my mouth it was sweet as honey, but when I had swallowed it, my stomach turned bitter."
+     "text": "I took the small scroll from the angel’s hand and ate it up. In my mouth it tasted sweet as honey, yet once I had eaten it, my stomach turned bitter."
     },
     {
      "v": 11,
@@ -1330,15 +1330,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "I was given a reed, like a staff, and was told, “Get up and measure the temple of God and the altar, and count those who worship there.{a}"
+     "text": "I was given a measuring rod like a staff, and told, “Rise, and measure God’s temple and the altar, and count the people who worship in it.{a}"
     },
     {
      "v": 2,
-     "text": "Omit the courtyard outside the temple and do not measure it, because it has been given to the nations; for forty-two months they will tread down the holy city.{b}"
+     "text": "But the outer court of the temple, leave it out and do not measure it, since it was given over to the nations, who will trample down the holy city for forty-two months.{b}"
     },
     {
      "v": 3,
-     "text": "And I will give power to my two witnesses, and dressed in sackcloth they will prophesy for twelve hundred and sixty days.”{c}"
+     "text": "I will empower my two witnesses, and clothed in sackcloth they will prophesy during one thousand two hundred sixty days.”{c}"
     },
     {
      "v": 4,
@@ -1346,19 +1346,19 @@
     },
     {
      "v": 5,
-     "text": "If anyone intends to harm them, fire comes out of their mouths and devours their enemies; anyone who intends to harm them must die in this way.{e}"
+     "text": "Should any enemy try to injure them, flames stream out of their mouths and devour the foes; in just that way every would-be attacker is doomed to die.{e}"
     },
     {
      "v": 6,
-     "text": "They have power to shut up the sky, so that no rain falls during the days of their prophesying, and they have power over the waters, to turn them into blood, and to strike the earth with every kind of plague, as often as they wish.{f}"
+     "text": "These two possess the power to close up heaven, so that during the span of their prophesying no showers come down; they also command the waters, changing them to blood, and can afflict the land with plagues of every sort as often as they like.{f}"
     },
     {
      "v": 7,
-     "text": "When they have completed their testimony, the beast rising from the abyss will wage war against them, defeat them and put them to death.{g}"
+     "text": "When their witnessing is finished, the beast coming up from the bottomless pit will battle them, defeat them, and put them to death.{g}"
     },
     {
      "v": 8,
-     "text": "Their corpses will lie in the main street of the great city, which is called, in prophetic language, Sodom and Egypt, where their Lord too was crucified.{h}"
+     "text": "And their corpses will lie in the broad street of the great city, which is called, in a spiritual sense, Sodom and Egypt, where their Lord also was crucified.{h}"
     },
     {
      "v": 9,
@@ -1370,15 +1370,15 @@
     },
     {
      "v": 11,
-     "text": "After three and a half days, however, a life-giving breath from God went into them; they rose to their feet, and those who saw them were seized with great fear.{i}"
+     "text": "After three and a half days, however, life-giving breath from God entered them. They rose upright, and terror gripped the people looking on.{i}"
     },
     {
      "v": 12,
-     "text": "Then they heard a loud voice from heaven calling to them, “Come up here!” And they went up to heaven in the cloud, while their enemies watched them.{j}"
+     "text": "And they heard a mighty voice out of heaven say to them, “Come up here!” And in a cloud they went up into heaven, while their enemies looked on.{j}"
     },
     {
      "v": 13,
-     "text": "At that very hour there was a great earthquake; a tenth of the city fell, and seven thousand people were killed in the earthquake. The survivors were terrified and gave glory to the God of heaven.{k}"
+     "text": "In that same hour a great earthquake struck, and a tenth of the city collapsed; the earthquake killed seven thousand persons. The rest were filled with fear and gave glory to the God of heaven.{k}"
     },
     {
      "v": 14,
@@ -1386,15 +1386,15 @@
     },
     {
      "v": 15,
-     "text": "The seventh angel sounded, and there were loud voices in heaven, saying,\n“The kingdom of the world has become\nthe kingdom of our Lord and of his Christ,\nand he will reign forever and ever.”{l}"
+     "text": "The seventh angel sounded the trumpet. Loud voices were heard in heaven, declaring,\n“The kingdom of the world has become\nthe possession of our Lord and of his Christ,\nand he shall be king through all the ages.”{l}"
     },
     {
      "v": 16,
-     "text": "Then the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God,{m}"
+     "text": "And the twenty-four elders, who sit on their thrones before God, prostrated themselves, faces to the ground, and worshiped God,{m}"
     },
     {
      "v": 17,
-     "text": "and they said,\n“Lord God Almighty, we thank you,\nyou who are and who were,\nbecause you have taken up your mighty power\nand assumed your reign.{n}"
+     "text": "saying,\n“We give you thanks, Lord God Almighty,\nthe one who is and who was,\nbecause you have taken up your great power\nand have begun your reign.{n}"
     },
     {
      "v": 18,
@@ -1414,12 +1414,12 @@
     {
      "m": "b",
      "ref": "11:2",
-     "text": "Forty-two months: three and a half years, the period of Dan 7:25; 12:7; compare verse 3 and 12:6, 14; 13:5. Westcott and Hort bracket “and” in the Greek number. *Omit*: literally “cast out outside.” *The nations*: or “the Gentiles.”"
+     "text": "Forty-two months: this equals three and a half years, the span named in Dan 7:25; 12:7; compare verse 3 and 12:6, 14; 13:5. Westcott and Hort bracket “and” in the Greek number. *Omit*: literally “cast out outside.” *The nations*: or “the Gentiles.”"
     },
     {
      "m": "c",
      "ref": "11:3",
-     "text": "Twelve hundred and sixty days: forty-two months of thirty days each."
+     "text": "Twelve hundred and sixty days: the same span as forty-two months, counting thirty days to a month."
     },
     {
      "m": "d",
@@ -1429,7 +1429,7 @@
     {
      "m": "e",
      "ref": "11:5",
-     "text": "Compare 2 Kgs 1:10–12; Jer 5:14."
+     "text": "Compare Jer 5:14; 2 Kgs 1:10–12."
     },
     {
      "m": "f",
@@ -1493,7 +1493,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "A great sign was seen in heaven: a woman robed with the sun, the moon beneath her feet, and on her head a crown of twelve stars."
+     "text": "A great sign was seen in heaven: a woman wrapped in the sun, with the moon under her feet and a crown of twelve stars on her head."
     },
     {
      "v": 2,
@@ -1501,23 +1501,23 @@
     },
     {
      "v": 3,
-     "text": "Then another sign appeared in heaven: a great fiery red dragon with seven heads and ten horns, and seven diadems on its heads.{a}"
+     "text": "Another sign was seen in heaven as well: a great red dragon, having seven heads and ten horns, and wearing seven royal crowns on its heads.{a}"
     },
     {
      "v": 4,
-     "text": "Its tail swept a third of the stars of heaven and flung them to the earth. The dragon stood before the woman who was about to give birth, so that when she gave birth it might devour her child.{b}"
+     "text": "Its tail dragged down a third of heaven’s stars and flung them onto the earth. The dragon took its stand before the woman who was about to give birth, in order to swallow her child as soon as it was born.{b}"
     },
     {
      "v": 5,
-     "text": "She gave birth to a son, a male child, who is to shepherd all the nations with an iron rod, and her child was snatched up to God and to his throne.{c}"
+     "text": "And she bore a child, a son, who is destined to govern every nation with a rod of iron. Her child, though, was caught up to God and to his throne.{c}"
     },
     {
      "v": 6,
-     "text": "The woman fled into the wilderness, where she has a place prepared by God, so that there she might be nourished for twelve hundred and sixty days."
+     "text": "The woman herself fled into the wilderness, to a spot God had prepared for her, where she would be fed for twelve hundred sixty days."
     },
     {
      "v": 7,
-     "text": "Then war broke out in heaven: Michael and his angels fought against the dragon. The dragon and its angels fought back,{d}"
+     "text": "A battle then broke out in heaven. Michael and his angels waged war against the dragon, and the dragon with his angels fought back,{d}"
     },
     {
      "v": 8,
@@ -1525,35 +1525,35 @@
     },
     {
      "v": 9,
-     "text": "The great dragon was thrown down, that ancient serpent called the devil and Satan, the deceiver of the whole world; it was thrown down to the earth, and its angels were thrown down with it.{e}"
+     "text": "and the great dragon was cast out: that primeval serpent, called the Devil and Satan, who leads the whole world astray. It was cast down to the earth, and its angels were cast down with it.{e}"
     },
     {
      "v": 10,
-     "text": "Then I heard a loud voice in heaven saying,\n“Now have come the salvation and the power\nand the kingdom of our God\nand the authority of his Christ,\nfor the accuser of our brothers has been thrown down,\nwho accuses them day and night before our God.{f}"
+     "text": "Then a loud voice in heaven said,\n“Salvation and strength have come at last,\nalong with the kingdom of our God\nand the authority of his Christ;\nfor the prosecutor of our brothers and sisters,\nwho charged them before our God both day and night,\nhas been hurled down.{f}"
     },
     {
      "v": 11,
-     "text": "By the Lamb’s blood they have defeated him,\nand by the word to which they bore witness;\nso little did they love their lives that they faced death."
+     "text": "They overcame him by the Lamb’s blood\nand by the word of their testimony,\nand did not love their lives, even when facing death."
     },
     {
      "v": 12,
-     "text": "For this reason be glad, O heavens,\nand all who live in them!\nWoe to the land and the sea,\nbecause the devil has gone down to you\nin great rage, knowing that he has little time.”{g}"
+     "text": "So be glad, you heavens,\nand all who make your home in them!\nBut woe to the earth and to the sea,\nbecause the devil has descended to you\nin great fury, aware that his time is short!”{g}"
     },
     {
      "v": 13,
-     "text": "When the dragon saw that it had been thrown down to the earth, it pursued the woman who had given birth to the male child."
+     "text": "On seeing that it had been cast down to the earth, the dragon went in pursuit of the woman, the one who had borne the male child."
     },
     {
      "v": 14,
-     "text": "The woman, though, received the two wings of the great eagle to fly away from the serpent’s presence to her own place in the wilderness, where she is cared for during a time, two times, and half a time.{h}"
+     "text": "Yet the woman received the two wings of the great eagle, to fly away into the wilderness, to the place prepared for her, where she is fed for a season, two seasons, and half a season, out of the serpent’s sight.{h}"
     },
     {
      "v": 15,
-     "text": "Then the serpent spewed water out of its mouth like a river behind the woman, to carry her off in the torrent."
+     "text": "And from its mouth the serpent poured out water after the woman, like a river, to sweep her away with the flood."
     },
     {
      "v": 16,
-     "text": "But the earth came to the woman’s aid: the ground opened its mouth and gulped down the river that the dragon had spewed out of its mouth."
+     "text": "The earth, however, rescued the woman. It opened its mouth and gulped down the river that the dragon had spouted from its own mouth."
     },
     {
      "v": 17,
@@ -1622,7 +1622,7 @@
     },
     {
      "v": 2,
-     "text": "The beast that I saw resembled a leopard; its feet were a bear’s, and its mouth a lion’s mouth. To it the dragon handed over his own power and his throne, and great authority.{b}"
+     "text": "The creature I saw looked like a leopard, with paws like a bear’s and a mouth like a lion’s. The dragon gave it his own power and throne, along with extensive authority.{b}"
     },
     {
      "v": 3,
@@ -1630,7 +1630,7 @@
     },
     {
      "v": 4,
-     "text": "People worshiped the dragon for giving its authority to the beast, and they worshiped the beast too, saying, “Who can compare with the beast? Who is able to fight against it?”{d}"
+     "text": "They worshiped the dragon because it had given the authority to the beast, and they worshiped the beast as well, asking, “Who is like the beast, and who can wage war against it?”{d}"
     },
     {
      "v": 5,
@@ -1646,7 +1646,7 @@
     },
     {
      "v": 8,
-     "text": "All who live on the earth will worship it, everyone whose name has not been written since the founding of the world in the book of life of the Lamb who was slain.{h}"
+     "text": "Every inhabitant of the earth will worship it, all those whose names were not recorded, from the world’s founding, in the book of life belonging to the slaughtered Lamb.{h}"
     },
     {
      "v": 9,
@@ -1654,15 +1654,15 @@
     },
     {
      "v": 10,
-     "text": "If anyone is bound for captivity,\ninto captivity he goes;\nif anyone kills with the sword,\nwith the sword he must be killed.\nHere the saints are called to endurance and faithfulness.{i}"
+     "text": "Whoever is meant for captivity\nwill go to captivity;\nwhoever kills by the sword\nmust be killed by the sword.\nHere is the call for the endurance and faithfulness of God’s holy people.{i}"
     },
     {
      "v": 11,
-     "text": "Next I saw a second beast, coming up out of the earth. It had two horns like a lamb’s, but it spoke like a dragon."
+     "text": "Then I saw a second beast ascending from the earth, with two horns like those of a lamb, yet it spoke like a dragon."
     },
     {
      "v": 12,
-     "text": "Acting on its behalf, it exercises the full authority of the first beast, and it compels the earth and all who inhabit it to bow down to the first beast, the one whose fatal wound was cured.{j}"
+     "text": "It wields all the authority of the first beast, acting before its eyes, and it causes the earth and those living on it to worship the first beast, the one whose deadly wound had been healed.{j}"
     },
     {
      "v": 13,
@@ -1670,11 +1670,11 @@
     },
     {
      "v": 14,
-     "text": "Through the signs it was granted to do on the beast’s behalf, it leads astray earth’s inhabitants, ordering them to make an image for the beast that was struck by the sword and yet came to life."
+     "text": "Through the signs it was permitted to do before the beast, it misleads those living on the earth, instructing them to fashion an image of the beast who had received the sword stroke and yet lived."
     },
     {
      "v": 15,
-     "text": "It was granted power to give breath to the beast’s image, so that the image could even speak, and to have everyone killed who would not worship the image of the beast.{l}"
+     "text": "It was also permitted to impart a spirit to the beast’s statue, so that the statue itself would talk and would bring about the execution of all who would not bow before it.{l}"
     },
     {
      "v": 16,
@@ -1682,11 +1682,11 @@
     },
     {
      "v": 17,
-     "text": "so that no one is able to buy or sell unless he bears the mark, which is the beast’s name or the number of its name.{n}"
+     "text": "so that nobody can buy or sell without having the mark—the name of the beast or the number that stands for its name.{n}"
     },
     {
      "v": 18,
-     "text": "This calls for wisdom: let anyone with understanding work out the number of the beast, for it is a human number, and its number is six hundred and sixty-six.{o}"
+     "text": "Here is wisdom: whoever has insight should calculate the beast’s number, for it stands for a person; its number is 666.{o}"
     }
    ],
    "notes": [
@@ -1733,7 +1733,7 @@
     {
      "m": "i",
      "ref": "13:10",
-     "text": "Jer 15:2; 43:11. *Kills*: Westcott and Hort read “will kill”; Alexandrinus as reported reads “is to be killed,” giving “if anyone is to be killed with the sword, with the sword he will be killed.” *Here the saints are called to*: literally “here is the endurance and the faith of the saints.”"
+     "text": "Jer 15:2; 43:11. *Kills*: Westcott and Hort read “will kill”; Alexandrinus, as reported, reads “is to be killed,” which would yield the sense that anyone fated to be slain by the sword is slain by it. *Here the saints are called to*: literally “here is the endurance and the faith of the saints.”"
     },
     {
      "m": "j",
@@ -1781,19 +1781,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "I looked again, and there stood the Lamb on Mount Zion, and with him one hundred forty-four thousand people bearing his name and the name of his Father inscribed upon their foreheads.{a}"
+     "text": "I looked, and the Lamb was there, standing on Mount Zion! Along with him, 144,000 people bore on their foreheads his name and the name of his Father.{a}"
     },
     {
      "v": 2,
-     "text": "And I heard a sound from heaven like the roar of many waters and like a mighty peal of thunder; the sound I heard was like harpists playing their harps."
+     "text": "And out of heaven I heard a sound like the rushing of great waters and like loud thunder rolling; the voice that I heard was like that of harpists accompanying themselves on their harps."
     },
     {
      "v": 3,
-     "text": "They are singing what seems a new song in front of the throne and in front of the four living creatures and the elders. No one could master that song except the hundred and forty-four thousand who had been bought from the earth."
+     "text": "They sing what seems a new song before the throne and before the four living creatures and the elders. And none was able to learn the song except for those 144,000 who have been bought out of the earth."
     },
     {
      "v": 4,
-     "text": "These are the ones who did not defile themselves with women, for they are virgins. They follow the Lamb wherever he leads. They were bought from among humankind as firstfruits for God and the Lamb,{b}"
+     "text": "They are the ones who kept themselves unsoiled by women, being virgins; they are the followers of the Lamb, going wherever he leads. They were bought out of humanity as firstfruits offered to God and to the Lamb,{b}"
     },
     {
      "v": 5,
@@ -1809,15 +1809,15 @@
     },
     {
      "v": 8,
-     "text": "A second angel followed, saying, “Fallen, fallen is Babylon the great, she who made all the nations drink the wine of her passionate immorality!”{f}"
+     "text": "Another angel, a second, followed and said, “She has fallen! Fallen is Babylon the great, who gave all the nations a drink of the wine of her raging immorality!”{f}"
     },
     {
      "v": 9,
-     "text": "A third angel followed them, crying in a loud voice, “Whoever worships the beast and its image, and takes its mark on the forehead or on the hand,"
+     "text": "Next, a third angel came after them, saying in a mighty voice, “If anyone worships the beast and its statue, and gets a mark on his forehead or on his hand,"
     },
     {
      "v": 10,
-     "text": "will drink as well from the wine of God’s fury, poured out undiluted into the cup of his anger, and will be tormented with fire and sulfur in the sight of the holy angels and of the Lamb.{g}"
+     "text": "he too will drink the wine of God’s anger, mixed full strength in the cup of his wrath. He will be tortured in fire and brimstone before the holy angels and before the Lamb.{g}"
     },
     {
      "v": 11,
@@ -1825,11 +1825,11 @@
     },
     {
      "v": 12,
-     "text": "Here is the call for the endurance of the saints, who keep God’s commandments and the faith of Jesus.{i}"
+     "text": "Here is the call for endurance on the part of the holy people, who keep God’s commandments and the faith of Jesus.{i}"
     },
     {
      "v": 13,
-     "text": "And I heard a voice from heaven saying, “Write this: Happy are the dead who die in the Lord from now on.” “Yes,” says the Spirit, “so that they may rest from their labors, for their deeds go with them.”{j}"
+     "text": "And I heard a voice speak from heaven: “Write: Blessed from this moment are the dead who die in the Lord.” “Yes,” the Spirit says, “let them find relief from their labors, for their deeds accompany them.”{j}"
     },
     {
      "v": 14,
@@ -1837,7 +1837,7 @@
     },
     {
      "v": 15,
-     "text": "Another angel came out of the temple, calling with a loud voice to the one seated on the cloud, “Put in your sickle and reap, for the hour to reap has come, because the harvest of the earth is ripe.”{l}"
+     "text": "And a different angel emerged from the temple, shouting with a powerful voice to the one who sat upon the cloud: “Send out your sickle and harvest, for the hour to harvest has come, because the earth’s crop has dried out.”{l}"
     },
     {
      "v": 16,
@@ -1849,7 +1849,7 @@
     },
     {
      "v": 18,
-     "text": "And yet another angel came from the altar, the one who has authority over the fire, and he called with a loud voice to the one with the sharp sickle, “Put in your sharp sickle and gather the clusters from the vine of the earth, for its grapes are ripe.”{m}"
+     "text": "And from the altar there came out yet another angel, who has charge over the fire. He called out with a strong voice to the holder of the sharp sickle, “Send out your sharp sickle and collect the clusters of grapes on the earth’s vine, for its grapes have reached full ripeness.”{m}"
     },
     {
      "v": 19,
@@ -1943,15 +1943,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "Then I saw another sign in heaven, great and astonishing: seven angels with seven plagues, the last ones, for with them God’s fury is brought to completion."
+     "text": "And I saw another portent in heaven, large and astonishing: seven angels holding the seven final plagues, since by them God’s wrath is completed."
     },
     {
      "v": 2,
-     "text": "I saw too what appeared to be a glassy sea shot through with fire, and beside that glassy sea stood those who had won the victory over the beast, its image and its name’s number, with harps of God in their hands.{a}"
+     "text": "I also saw what looked like a glassy sea mingled with fire, and the victors over the beast, over its likeness, and over its name’s number stood beside the glassy sea, holding God’s harps.{a}"
     },
     {
      "v": 3,
-     "text": "And they sing the song of Moses, the slave of God, and the song of the Lamb:\n“Great and wonderful are your deeds,\nLord God Almighty!\nJust and true are your ways,\nKing of the ages!{b}"
+     "text": "They are chanting the song of Moses, God’s slave, and the song of the Lamb:\n“Mighty and astonishing are the things you do,\nO Lord God, Ruler over all!\nUpright and true are your paths,\nKing of the ages!{b}"
     },
     {
      "v": 4,
@@ -2030,23 +2030,23 @@
     },
     {
      "v": 3,
-     "text": "The second poured his bowl into the sea, and it became blood, like a corpse’s blood, and every living thing in the sea died.{b}"
+     "text": "Then the second angel emptied his bowl into the sea, and the water turned into blood like a dead man’s, and every living creature in the sea perished.{b}"
     },
     {
      "v": 4,
-     "text": "The third poured his bowl into the rivers and the springs of water, and they became blood."
+     "text": "Then the third emptied his bowl into the rivers and the water sources, and these turned into blood."
     },
     {
      "v": 5,
-     "text": "And I heard the angel of the waters say,\n“You are just, you who are and who were, the Holy One,\nbecause you have judged these things;{c}"
+     "text": "And I heard the angel who presides over the waters declaring,\n“You are righteous—who are and who were, the Holy One—\nbecause you have rendered this verdict;{c}"
     },
     {
      "v": 6,
-     "text": "for they shed the blood of saints and prophets,\nand you have given them blood to drink.\nThey deserve it!”"
+     "text": "they shed the blood of the holy and of the prophets,\nand blood you have given them to drink;\nthey have earned it!”"
     },
     {
      "v": 7,
-     "text": "And I heard the altar saying,\n“Yes, Lord God, the Almighty,\nyour judgments are true and righteous.”{d}"
+     "text": "And I heard the altar answer,\n“Yes, O Lord God, the Almighty,\nyour verdicts are true and righteous!”{d}"
     },
     {
      "v": 8,
@@ -2054,31 +2054,31 @@
     },
     {
      "v": 9,
-     "text": "Searing heat burned them, and they cursed the name of the God who held power over these plagues, yet they refused to repent and glorify him."
+     "text": "People were seared by tremendous heat, and they cursed God’s name—the God who holds power over these plagues—and refused to repent and to glorify him."
     },
     {
      "v": 10,
-     "text": "The fifth emptied his bowl onto the beast’s throne, and darkness covered its kingdom. In their anguish people chewed their tongues{e}"
+     "text": "Then the fifth emptied his bowl onto the throne of the beast, and its realm was darkened. People chewed their tongues in anguish{e}"
     },
     {
      "v": 11,
-     "text": "and they cursed the God of heaven because of their pains and their sores, yet they would not turn from what they had done."
+     "text": "and reviled the God of heaven for their sufferings and sores, yet they did not repent of their works."
     },
     {
      "v": 12,
-     "text": "The sixth emptied his bowl onto the mighty river Euphrates, and its waters dried up, opening a road for the kings from the east.{f}"
+     "text": "Then the sixth emptied his bowl onto the great Euphrates River. Its water dried up, so that a road lay ready for the kings from the east.{f}"
     },
     {
      "v": 13,
-     "text": "And I saw three unclean spirits like frogs coming out of the mouth of the dragon, out of the mouth of the beast and out of the mouth of the false prophet.{g}"
+     "text": "And from the dragon’s mouth, from the mouth of the beast, and from the mouth of the false prophet, I watched three unclean spirits emerge, which resembled frogs.{g}"
     },
     {
      "v": 14,
-     "text": "They are spirits of demons, working signs; they set out to the kings of all the world to muster them for war on that great day of God the Almighty."
+     "text": "These are spirits of demons that do signs; they travel out to the rulers of the entire world to gather them for the war of that great day belonging to God, the Almighty."
     },
     {
      "v": 15,
-     "text": "(“Look, I am coming like a thief! Happy is the one who stays awake and keeps his clothes on, so that he will not go about naked and be seen in his shame.”)"
+     "text": "(“Notice, I come as a thief does! Happy is the one who stays alert and holds on to his clothing, so that he need not walk naked and have his shame seen.”)"
     },
     {
      "v": 16,
@@ -2086,7 +2086,7 @@
     },
     {
      "v": 17,
-     "text": "The seventh poured his bowl into the air, and a loud voice came out of the temple, from the throne, saying, “It is done!”{i}"
+     "text": "The seventh angel emptied his bowl upon the air, and from the sanctuary, from the throne, a great voice called, “It is finished!”{i}"
     },
     {
      "v": 18,
@@ -2102,7 +2102,7 @@
     },
     {
      "v": 21,
-     "text": "Huge hailstones, each weighing about seventy pounds, fell from heaven on people, and people cursed God for the plague of the hail, so severe was that plague.{k}"
+     "text": "And great hailstones, weighing about a talent, fell from the sky upon people, and people blasphemed God because of the plague of hail; for that plague was extremely severe.{k}"
     }
    ],
    "notes": [
@@ -2174,7 +2174,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "One of the seven angels who held the seven bowls then came and spoke to me. “Come,” he said, “and I will show you how judgment falls on the great prostitute who is enthroned beside many waters,{a}"
+     "text": "Then there came one of the seven angels who had been carrying the seven bowls, and he told me, “Come along! I will let you see the condemnation of the notorious prostitute who sits beside the many waters,{a}"
     },
     {
      "v": 2,
@@ -2182,23 +2182,23 @@
     },
     {
      "v": 3,
-     "text": "Then in the Spirit he carried me off into a wilderness, and I saw a woman mounted on a scarlet beast that was covered all over with blasphemous names and had seven heads and ten horns."
+     "text": "In the Spirit he took me away to a wilderness. There I noticed a woman seated upon a scarlet beast that was covered with blasphemous names and had seven heads and ten horns."
     },
     {
      "v": 4,
-     "text": "The woman was dressed in purple and scarlet and decked out in gold, precious stones and pearls. In her hand she held a golden cup filled with abominations and the filth of her immorality.{b}"
+     "text": "The woman wore purple and scarlet, and was resplendent with gold, jewels, and pearls. A gold cup brimming with detestable things and with the foulness of her immorality was in her hand.{b}"
     },
     {
      "v": 5,
-     "text": "On her forehead a name was written, a mystery: “Babylon the great, mother of prostitutes and of the earth’s abominations.”{c}"
+     "text": "Across her forehead a name was written, a mystery: “Babylon the great, mother of the prostitutes and of the abominations of the earth.”{c}"
     },
     {
      "v": 6,
-     "text": "I saw the woman drunk with the blood of the holy ones and with the blood of Jesus’ witnesses; and when I saw her, I marveled with great wonder.{d}"
+     "text": "The woman, I noticed, was drunk with the blood of the holy people and with the blood of Jesus’s witnesses. And when I saw her, I wondered greatly.{d}"
     },
     {
      "v": 7,
-     "text": "But the angel asked me, “Why are you amazed? I will explain to you the mystery of the woman and of the beast with seven heads and ten horns that carries her."
+     "text": "The angel said, “Why do you wonder? Let me explain the secret of the woman, and of the beast that bears her, which has seven heads and ten horns."
     },
     {
      "v": 8,
@@ -2206,11 +2206,11 @@
     },
     {
      "v": 9,
-     "text": "“This calls for a mind that has wisdom. The seven heads are seven mountains where the woman sits. They are also seven kings:{f}"
+     "text": "Here is something that calls for a mind with insight: the seven heads stand for seven hills, where the woman has her seat. They also stand for seven kings;{f}"
     },
     {
      "v": 10,
-     "text": "Five have fallen, one is living, and the other has not yet arrived; and when he comes, he must stay only a little while."
+     "text": "five are fallen, one is living, and the last has still to come; and whenever he comes, he is to remain a little while."
     },
     {
      "v": 11,
@@ -2226,15 +2226,15 @@
     },
     {
      "v": 14,
-     "text": "They will make war on the Lamb, but the Lamb will overcome them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful.”{h}"
+     "text": "These will fight against the Lamb, yet the Lamb will triumph over them, because Lord of lords he is, and King of kings; and with him are the called, the chosen, and the faithful ones.”{h}"
     },
     {
      "v": 15,
-     "text": "He said to me further, “The waters you saw, where the prostitute is seated, are peoples and crowds, nations and languages."
+     "text": "He says to me: “Those waters that you saw, on which the prostitute is seated, stand for peoples and crowds and nations and languages."
     },
     {
      "v": 16,
-     "text": "The ten horns that you saw, and the beast, will hate the prostitute. They will leave her ruined and naked, eat her flesh and burn what remains of her in fire.{i}"
+     "text": "And the ten horns you saw, along with the beast—they will hate the prostitute, strip her of everything and leave her naked, eat her flesh, and burn what remains of her with fire.{i}"
     },
     {
      "v": 17,
@@ -2305,15 +2305,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "After this I saw another angel descending from heaven. He had great authority, and the earth was lit up by his splendor.{a}"
+     "text": "After these things I saw a different angel coming down out of heaven. He possessed great authority, and the earth shone with his glory.{a}"
     },
     {
      "v": 2,
-     "text": "He called out with a mighty voice:\n“She has fallen, fallen, Babylon the great!\nShe has become a haunt for demons,\na prison for every foul spirit,\na prison for every foul bird,\nand a prison for every foul and hated beast.{b}"
+     "text": "He shouted in a mighty voice:\n“Fallen, fallen is Babylon the great!\nShe has turned into a dwelling for demons,\na lockup for every unclean spirit,\na lockup for every unclean and loathsome bird,\nand a lockup for every unclean and loathsome beast.{b}"
     },
     {
      "v": 3,
-     "text": "For all the nations have fallen\nthrough the wine of her passionate immorality;\nthe kings of the earth were immoral with her,\nand the merchants of the earth grew rich\nfrom the power of her luxury.”{c}"
+     "text": "For from the wine of her passionate immorality\nall the nations have drunk,\nand the kings of the earth fornicated with her,\nand the merchants of the earth grew rich\nfrom the power of her luxury.”{c}"
     },
     {
      "v": 4,
@@ -2321,11 +2321,11 @@
     },
     {
      "v": 5,
-     "text": "for her sins are heaped up to heaven,\nand God has remembered her crimes.{e}"
+     "text": "For her sins have piled up to the sky,\nand God has recalled her crimes.{e}"
     },
     {
      "v": 6,
-     "text": "Pay her back as she herself has paid,\nand repay her double for her deeds;\nin the cup she mixed, mix her a double draught.{f}"
+     "text": "Give back to her what she has given,\nand pay her twice over according to her deeds;\nin the cup that she mixed for others, mix twice as much for her.{f}"
     },
     {
      "v": 7,
@@ -2333,7 +2333,7 @@
     },
     {
      "v": 8,
-     "text": "That is why her plagues will strike in a single day,\ndeath and mourning and hunger,\nand fire will consume her,\nfor strong is the Lord God who has passed sentence on her.”{h}"
+     "text": "Therefore, in a single day her plagues will arrive:\npestilence, mourning, and famine,\nand she will be consumed by fire,\nfor strong is the Lord God who has judged her.”{h}"
     },
     {
      "v": 9,
@@ -2345,19 +2345,19 @@
     },
     {
      "v": 11,
-     "text": "And the merchants of the earth weep and grieve over her, because no one buys their cargo anymore,{j}"
+     "text": "And the merchants of the earth are weeping and mourning over her, because nobody buys their merchandise any longer:{j}"
     },
     {
      "v": 12,
-     "text": "cargo of gold, silver, jewels and pearls; of fine linen, purple, silk and scarlet; all kinds of citron wood, all sorts of articles of ivory, all sorts of articles of costly wood, bronze, iron and marble;{k}"
+     "text": "a cargo of gold, silver, jewels, and pearls; of fine linen, purple cloth, silk, and scarlet; of all kinds of citron wood and every article of ivory; of every article of expensive wood, and of bronze, iron, and marble;{k}"
     },
     {
      "v": 13,
-     "text": "cinnamon and spice, incense, ointment and frankincense; wine, oil, fine flour and grain; cattle and sheep; horses and wagons; and bodies, even human lives.{l}"
+     "text": "and cinnamon, spices, incense, perfume, and frankincense; and wine, oil, fine flour, and grain; and cattle and sheep and horses and carriages; and bodies—that is, human souls.{l}"
     },
     {
      "v": 14,
-     "text": "“The fruit your soul longed for\nhas gone from you,\nand all your luxury and glitter\nhave perished from you,\nand no one will find them ever again.”{m}"
+     "text": "“The ripe fruit you craved with all your soul\nhas left you,\nand all your rich and dazzling things\nare lost to you,\nand never again will people find them.”{m}"
     },
     {
      "v": 15,
@@ -2365,15 +2365,15 @@
     },
     {
      "v": 16,
-     "text": "saying,\n“Alas, alas, the great city,\ndressed in fine linen, purple and scarlet,\nglittering with gold,\nwith jewels and pearls!{n}"
+     "text": "saying,\n“Alas, alas, that great city,\nwhich wore fine linen, purple, and scarlet,\nand was gilded with gold,\nwith precious stones and pearls!{n}"
     },
     {
      "v": 17,
-     "text": "In a single hour such vast riches have been ruined!” ¶Every helmsman, everyone who sails anywhere, the seamen and all who make a living from the sea kept their distance{o}"
+     "text": "In a single hour such great wealth was devastated!” ¶Every shipmaster, everyone sailing to any destination, the sailors, and all who make their living from the sea remained at a distance{o}"
     },
     {
      "v": 18,
-     "text": "and cried out as they watched the smoke of her burning, “What city was ever like the great city?”{p}"
+     "text": "and shouted, as they saw the smoke rising from her burning, “Which city was like this great city?”{p}"
     },
     {
      "v": 19,
@@ -2381,11 +2381,11 @@
     },
     {
      "v": 20,
-     "text": "Heaven, be glad over her,\nand you saints, apostles and prophets,\nfor God has given judgment for you against her!{r}"
+     "text": "Rejoice over her, O heaven,\nyou holy people, apostles, and prophets,\nbecause God has pronounced your sentence on her!”{r}"
     },
     {
      "v": 21,
-     "text": "A strong angel then picked up a boulder like a huge millstone and flung it into the sea, crying,\n“So violently will Babylon the great city\nbe hurled down,\nnever to be seen again.{s}"
+     "text": "Then one mighty angel picked up a boulder like a huge millstone and flung it into the sea, with these words:\n“Just so, in a violent plunge,\nBabylon the great city will be hurled down,\nand nobody will find her again.{s}"
     },
     {
      "v": 22,
@@ -2393,11 +2393,11 @@
     },
     {
      "v": 23,
-     "text": "never again will lamplight\ngleam within you;\nnever again will the voices of groom and bride\nbe heard within you.\nYour traders were the great ones of the earth,\nand by your witchcraft every nation was led astray.{u}"
+     "text": "No lamp will ever again give light in you;\nnever again will the voices of a bridegroom and a bride sound within you.\nYour merchants were the world’s great men,\nand by your sorcery all the nations were led astray.{u}"
     },
     {
      "v": 24,
-     "text": "And in her was found the blood of prophets and of saints,\nand of all who have been slaughtered on the earth.”"
+     "text": "In her the blood of prophets and of holy people was found,\ntogether with the blood of everyone slaughtered on earth.”"
     }
    ],
    "notes": [
@@ -2522,27 +2522,27 @@
    "verses": [
     {
      "v": 1,
-     "text": "After this I heard what sounded like the loud roar of a vast crowd in heaven, crying,\n“Hallelujah!\nSalvation and glory and power belong to our God,{a}"
+     "text": "After this I heard what seemed a great noise, the voice of an immense multitude in heaven, saying,\n“Hallelujah!\nSalvation and glory and power are our God’s,{a}"
     },
     {
      "v": 2,
-     "text": "for true and just are his judgments;\nhe has judged the great prostitute\nwho corrupted the earth with her immorality,\nand he has avenged on her\nthe blood of his slaves.”{b}"
+     "text": "because true and just are his judgments.\nHe condemned the great prostitute,\nthe one who corrupted the earth by her immorality,\nand he has taken vengeance on her for the blood of his slaves.”{b}"
     },
     {
      "v": 3,
-     "text": "And a second time they said,\n“Hallelujah!\nHer smoke rises to the ages of the ages.”{c}"
+     "text": "And a second time they cried out,\n“Hallelujah!\nHer smoke rises for ever and ever.”{c}"
     },
     {
      "v": 4,
-     "text": "And the twenty-four elders and the four living creatures fell down and worshiped God, who is seated on the throne, saying,\n“Amen. Hallelujah!”{d}"
+     "text": "The twenty-four elders and the four living creatures fell prostrate and worshiped the God seated on the throne, saying,\n“Amen! Hallelujah!”{d}"
     },
     {
      "v": 5,
-     "text": "Then a voice went out from the throne:\n“Give praise to our God,\nall his slaves,\nall who revere him,\nthe lowly and the great.”{e}"
+     "text": "A voice came out of the throne, and it said,\n“Give praise to our God,\nall his slaves,\nand those who fear him,\nthe small and the great.”{e}"
     },
     {
      "v": 6,
-     "text": "Then I heard what sounded like the voice of a vast crowd, like the roar of many waters and like mighty peals of thunder, crying,\n“Hallelujah!\nFor the Lord our God,\nthe Almighty, has begun to reign.{f}"
+     "text": "Then I heard what seemed the voice of an immense multitude, like the sound of rushing water and like the rumble of loud thunder, saying,\n“Hallelujah!\nBecause the Lord our God,\nthe Almighty, has taken up his reign.{f}"
     },
     {
      "v": 7,
@@ -2550,23 +2550,23 @@
     },
     {
      "v": 8,
-     "text": "She was granted to clothe herself\nin fine linen, bright and pure.”\nFor the fine linen is the righteous deeds of the saints."
+     "text": "and she was given clothing\nof bright, clean fine linen to wear.”\n(The fine linen, you see, stands for the righteous deeds of the holy people.)"
     },
     {
      "v": 9,
-     "text": "Then the angel said to me, “Write: Happy are those who are invited to the wedding banquet of the Lamb.” And he said to me, “These are true words of God.”{h}"
+     "text": "Then he told me, “Write: Blessed are the people invited to the marriage banquet of the Lamb!” And he told me, “These words are God’s own truth.”{h}"
     },
     {
      "v": 10,
-     "text": "I threw myself down at his feet to worship him, but he told me, “Don’t! I am only a slave like you and your brothers who hold fast the testimony of Jesus. Give your worship to God! For the testimony of Jesus is the spirit of prophecy.”{i}"
+     "text": "I threw myself down in front of his feet to worship him. But he told me, “Never do that! I am only a slave like you and your brothers who maintain the testimony of Jesus. Worship God! The testimony about Jesus is what inspires prophecy.”{i}"
     },
     {
      "v": 11,
-     "text": "Next I saw heaven opened wide, and before me was a white horse. The one riding it is called Faithful and True; with justice he judges and makes war.{j}"
+     "text": "Then I saw heaven standing open, and a white horse appeared. Its rider is named Faithful and True, and he judges and wages war in righteousness.{j}"
     },
     {
      "v": 12,
-     "text": "His eyes are a flame of fire, and on his head are many diadems. He has a name written that no one knows but himself.{k}"
+     "text": "His eyes blaze like fire, and many diadems are on his head. A name is inscribed on him that no one understands but he himself.{k}"
     },
     {
      "v": 13,
@@ -2578,19 +2578,19 @@
     },
     {
      "v": 15,
-     "text": "Out of his mouth goes a keen sword to strike the nations with, and he himself will shepherd them with a rod of iron; he himself tramples the winepress, pressing the wine of the fierce anger of God the Almighty.{m}"
+     "text": "A sharp sword extends from his mouth, so that with it he may strike the nations; he will shepherd them with a rod of iron. And he himself treads the winepress that holds the fierce wrath of God the Almighty.{m}"
     },
     {
      "v": 16,
-     "text": "Written on his robe, upon his thigh, he bears this name: King of kings and Lord of lords."
+     "text": "The title “King of kings and Lord of lords” is inscribed upon his cloak, on his thigh."
     },
     {
      "v": 17,
-     "text": "I saw next an angel stationed in the sun, and with a loud voice he cried out to every bird that flies high overhead, “Come! Assemble for God’s great feast,{n}"
+     "text": "Then I noticed an angel standing in the sun. He called out in a mighty voice to every bird that flies across midheaven: “Come, assemble for God’s great banquet,{n}"
     },
     {
      "v": 18,
-     "text": "to eat the flesh of kings, the flesh of commanders, the flesh of the mighty, the flesh of horses and their riders, and the flesh of all, free and slave, small and great.”{o}"
+     "text": "so that you may eat the flesh of kings, of generals, and of the strong; the flesh of horses and of those who sit on them; and the flesh of everyone, free and slave, small and great.”{o}"
     },
     {
      "v": 19,
@@ -2694,7 +2694,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "Then I saw an angel coming down out of heaven. In his hand he held the key to the abyss and a great chain."
+     "text": "And I saw an angel come down from heaven; in his hand he held the key of the abyss, together with a massive chain."
     },
     {
      "v": 2,
@@ -2702,7 +2702,7 @@
     },
     {
      "v": 3,
-     "text": "He hurled him into the abyss, locked it and set a seal over him, so that he could lead the nations astray no longer, until the thousand years were over. After that he must be let loose for a brief time."
+     "text": "He flung it into the abyss, closed it up, and set a seal over it, so that it could no longer mislead the nations until the thousand years should be completed. After that it must be let loose for a short while."
     },
     {
      "v": 4,
@@ -2710,11 +2710,11 @@
     },
     {
      "v": 5,
-     "text": "(The rest of the dead did not live again until the thousand years were completed.) This is the first resurrection."
+     "text": "The rest of the dead had no new life until the thousand years ended. This is the first resurrection."
     },
     {
      "v": 6,
-     "text": "Happy and holy is whoever has a part in the first resurrection! Over them the second death holds no power; they will be priests of God and of Christ, and they will reign alongside him for the thousand years.{c}"
+     "text": "Blessed—and holy—are those who have a place in the first resurrection. Over them the second death holds no authority; instead they will be priests belonging to God and to Christ, and for those thousand years they will reign with him.{c}"
     },
     {
      "v": 7,
@@ -2726,11 +2726,11 @@
     },
     {
      "v": 9,
-     "text": "They marched up across the breadth of the earth and surrounded the camp of the saints, the beloved city. But fire fell from heaven and consumed them.{e}"
+     "text": "They advanced over the breadth of the earth and besieged the camp of the holy people, the city that he loves. Then fire fell from heaven and consumed them.{e}"
     },
     {
      "v": 10,
-     "text": "The devil, their deceiver, was flung into the lake of fire and sulfur, where the beast and the false prophet are too, and there they will be tormented day and night to the ages of the ages."
+     "text": "As for the devil who had led them astray, he was cast into the lake of burning sulfur, in which the beast and the false prophet are also found; there they will be in torment by day and by night through all the ages."
     },
     {
      "v": 11,
@@ -2738,7 +2738,7 @@
     },
     {
      "v": 12,
-     "text": "And I saw the dead, the great and the small, standing before the throne, and books were opened. Another book was opened as well, the book of life. The dead were judged by what was written in the books, according to their deeds.{f}"
+     "text": "And I saw the dead, important and unimportant alike, standing before the throne. Scrolls were unrolled; then another scroll was unrolled—the scroll of life. By the contents of the scrolls the dead were judged, each according to his deeds.{f}"
     },
     {
      "v": 13,
@@ -2750,7 +2750,7 @@
     },
     {
      "v": 15,
-     "text": "Whoever was not found with their name written in the book of life was thrown into the lake of fire."
+     "text": "Whoever was not listed in the scroll of life was hurled into the pool of fire."
     }
    ],
    "notes": [
@@ -2807,63 +2807,63 @@
     },
     {
      "v": 2,
-     "text": "And I saw the holy city, a new Jerusalem, descending out of heaven from God, made ready like a bride adorned for her husband.{b}"
+     "text": "I saw the holy city too—a new Jerusalem—descending from God out of heaven, adorned like a bride made ready for her husband.{b}"
     },
     {
      "v": 3,
-     "text": "And from the throne I heard a loud voice proclaim,\n“Look, God’s dwelling is among humankind!\nHe will make his home among them,\nand they will be his peoples,\nand God himself will be with them.{c}"
+     "text": "A loud voice from the throne declared:\n“Look! God’s tent is among human beings.\nHe will pitch it among them,\nand they will be his peoples,\nwith God himself present among them as their God.{c}"
     },
     {
      "v": 4,
-     "text": "He will wipe away every tear from their eyes,\nand death will be no more,\nnor mourning, nor crying, nor pain any more,\nfor the former things are gone.”{d}"
+     "text": "Every tear will be wiped by him from their eyes.\nDeath will be no more;\nno more mourning, no more crying, no more suffering,\nfor the former things have gone.”{d}"
     },
     {
      "v": 5,
-     "text": "The one seated on the throne said, “Look, I make everything new.” And he says, “Write this, because these words are faithful and true.”{e}"
+     "text": "Then the one seated on the throne declared, “Look, I make everything new!” And he said, “Write this down, because these words are faithful and true.”{e}"
     },
     {
      "v": 6,
-     "text": "He said to me, “They are accomplished! I am the Alpha and the Omega, the beginning and the end. To anyone who thirsts I will freely give from the spring of the water of life.{f}"
+     "text": "Then he said to me, “They have come to pass! I am the Alpha and the Omega, the beginning and the end. To the thirsty one I will give as a gift out of the spring of life-giving water.{f}"
     },
     {
      "v": 7,
-     "text": "Whoever conquers will inherit these things, and I will be his God and he will be my son.{g}"
+     "text": "Whoever conquers will have this as an inheritance; I will be his God, and he will be my son.{g}"
     },
     {
      "v": 8,
-     "text": "But as for the cowards, the faithless, the polluted, murderers, the sexually immoral, sorcerers, idolaters and all liars, their portion will be in the lake burning with fire and sulfur, which is the second death.”{h}"
+     "text": "But for the cowards, the unbelieving, the vile, murderers, fornicators, sorcerers, idolaters, and all liars: the lake that blazes with fire and sulfur will be their portion—this is the second death.”{h}"
     },
     {
      "v": 9,
-     "text": "One of the seven angels holding the seven bowls full of the seven last plagues came and spoke to me: “Come, I will show you the bride, the wife of the Lamb.”"
+     "text": "And there approached me one of those seven angels, those having the seven bowls that were filled with the final seven plagues; he spoke with me and said, “Come here; I will point out to you the bride, the Lamb’s wife.”"
     },
     {
      "v": 10,
-     "text": "And in the Spirit he carried me away to a vast, high mountain and showed me the holy city Jerusalem descending out of heaven from God,{i}"
+     "text": "And in the Spirit he carried me off to a mountain great and high, and he displayed to me the holy city Jerusalem as it came down out of heaven from God,{i}"
     },
     {
      "v": 11,
-     "text": "radiant with God’s glory. Its brilliance was like that of a priceless jewel, like jasper, clear as crystal.{j}"
+     "text": "shining with the glory of God. Its radiance was like a rare jewel, like jasper, crystal clear.{j}"
     },
     {
      "v": 12,
-     "text": "It had a great, high wall with twelve gates, and at the gates twelve angels, and on the gates were inscribed the names of the twelve tribes of the people of Israel.{k}"
+     "text": "It had a wall, great and high; it had twelve gates, and over the gates twelve angels, and engraved names, which are those of the twelve tribes of Israel’s sons.{k}"
     },
     {
      "v": 13,
-     "text": "On the east were three gates, on the north three gates, on the south three gates, and on the west three gates."
+     "text": "There were three gates facing east, three facing north, three facing south, and three facing west."
     },
     {
      "v": 14,
-     "text": "The city wall had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb."
+     "text": "The city’s wall rested on twelve foundations, and written on them were twelve names: those of the twelve apostles of the Lamb."
     },
     {
      "v": 15,
-     "text": "The angel who spoke with me held a golden measuring rod to measure the city, its gates and its wall.{l}"
+     "text": "The one speaking with me had a golden measuring rod, in order to measure the city, along with its gates and its wall.{l}"
     },
     {
      "v": 16,
-     "text": "The city lies foursquare, its length equal to its width. He measured the city with the rod: about 1,400 miles; its length and width and height are equal.{m}"
+     "text": "The city lies foursquare, with its length equal to its width. With the rod he measured the city: about 1,400 miles. Its length, width, and height are identical.{m}"
     },
     {
      "v": 17,
@@ -2871,11 +2871,11 @@
     },
     {
      "v": 18,
-     "text": "The material of its wall was jasper, and the city itself was pure gold, like clear glass."
+     "text": "Its wall was constructed of jasper, and the city itself was pure gold, resembling clear glass."
     },
     {
      "v": 19,
-     "text": "The foundation stones of the city wall were adorned with every precious gem. The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,{o}"
+     "text": "The foundations of the city’s wall were adorned with all kinds of precious stones: the first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald;{o}"
     },
     {
      "v": 20,
@@ -2883,15 +2883,15 @@
     },
     {
      "v": 21,
-     "text": "The twelve gates were twelve pearls, each gate made from a single pearl, and the street of the city was pure gold, transparent as glass.{q}"
+     "text": "And twelve pearls were the twelve gates—every gate fashioned from one single pearl. The city’s broad street was pure gold, transparent as glass.{q}"
     },
     {
      "v": 22,
-     "text": "And I saw no sanctuary in it, because its sanctuary is the Lord God, the Almighty, and the Lamb.{r}"
+     "text": "No temple did I see in it, for the Lord God, the Almighty, is its temple, and so is the Lamb.{r}"
     },
     {
      "v": 23,
-     "text": "The city has no need of the sun or the moon to give it light, for the glory of God has lit it up, and the Lamb is its lamp.{s}"
+     "text": "The city requires neither sun nor moon to shine upon it, since God’s glory gave it light, and it has the Lamb as its lamp.{s}"
     },
     {
      "v": 24,
@@ -2899,7 +2899,7 @@
     },
     {
      "v": 25,
-     "text": "Its gates will never be shut by day, for there will be no night there.{u}"
+     "text": "Its gates will not be closed by day—and night will not exist there.{u}"
     },
     {
      "v": 26,
@@ -2944,7 +2944,7 @@
     {
      "m": "g",
      "ref": "21:7",
-     "text": "2 Sam 7:14; Ps 89:26–27."
+     "text": "Echoing Ps 89:26–27 and 2 Sam 7:14."
     },
     {
      "m": "h",
@@ -3041,15 +3041,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "Then he showed me a river of the water of life, as bright as crystal, issuing from the throne of God and of the Lamb{a}"
+     "text": "Then he showed me a river of water that gives life, as clear as crystal, issuing from the throne belonging to God and to the Lamb{a}"
     },
     {
      "v": 2,
-     "text": "down the middle of the city’s street. On either side of the river stood the tree of life, bearing twelve kinds of fruit, yielding its fruit each month, and the leaves of the tree are for the healing of the nations.{b}"
+     "text": "midway along the city’s broad street; and on this bank and that of the river stood a tree of life, which yields twelve harvests, rendering its fruit month by month. The tree’s leaves serve to heal the nations.{b}"
     },
     {
      "v": 3,
-     "text": "Nothing accursed will be found there any longer. The throne of God and of the Lamb will be in the city, and his slaves will worship him;{c}"
+     "text": "No accursed thing will exist any longer. In the city will stand the throne of God and the Lamb, and his slaves will worship him;{c}"
     },
     {
      "v": 4,
@@ -3057,27 +3057,27 @@
     },
     {
      "v": 5,
-     "text": "There will be no more night, and they have no need of lamplight or sunlight, for the Lord God will give them light, and they will rule for all the ages.{e}"
+     "text": "And night will exist no longer; nor will they need the light of a lamp or of the sun, for the Lord God will cast his light on them; and they will rule as kings for ever and ever.{e}"
     },
     {
      "v": 6,
-     "text": "He said to me, “These words are faithful and true; and the Lord, the God of the spirits of the prophets, sent his angel to show his slaves what must happen soon.”{f}"
+     "text": "And the angel said to me, “These words are faithful and true. The Lord, the God of the spirits of the prophets, commissioned his angel to show his slaves the things that must soon take place.”{f}"
     },
     {
      "v": 7,
-     "text": "“And look, I am coming soon! Happy is the one who keeps the words of the prophecy of this book.”"
+     "text": "“Look, I am on my way soon! Blessed is whoever heeds the prophetic words of this book.”"
     },
     {
      "v": 8,
-     "text": "I, John, am the one who heard and saw these things. When I had heard and seen them, I fell down to worship at the feet of the angel who was showing them to me."
+     "text": "I, John, am the one who heard these things and saw them. After I had heard and seen, I prostrated myself in homage at the angel’s feet—the angel who was pointing these things out to me."
     },
     {
      "v": 9,
-     "text": "But he said to me, “Do not do that! I am a fellow slave with you and your brothers the prophets, and with those who keep the words of this book. Worship God!”{g}"
+     "text": "But he said to me, “Do not do that! I am a slave together with you, with your brothers the prophets, and with those who keep the words of this book. Worship God.”{g}"
     },
     {
      "v": 10,
-     "text": "He also said to me, “Do not seal the words of the prophecy of this book, because the time is near.{h}"
+     "text": "And he told me, “Do not seal up the words of this book’s prophecy, for the time is near.{h}"
     },
     {
      "v": 11,
@@ -3085,7 +3085,7 @@
     },
     {
      "v": 12,
-     "text": "“Look, I am coming soon, and my reward is with me, to repay each one as his work deserves.{j}"
+     "text": "“Look, I am on my way soon, and my reward is with me, to give to each one as his work deserves.{j}"
     },
     {
      "v": 13,
@@ -3093,7 +3093,7 @@
     },
     {
      "v": 14,
-     "text": "Happy are those who wash their robes: they will have the right to the tree of life, and they may go in by the gates to the city.{k}"
+     "text": "Blessed are those who wash their robes, so that the tree of life will be theirs by right, and they may enter the city through its gates.{k}"
     },
     {
      "v": 15,
@@ -3101,23 +3101,23 @@
     },
     {
      "v": 16,
-     "text": "“I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the offspring of David, the bright morning star.”{m}"
+     "text": "“I, Jesus, have sent my angel to testify these things to you about the churches. I am the descendant of David and the root from which he sprang, the bright star of the morning.”{m}"
     },
     {
      "v": 17,
-     "text": "The Spirit and the bride say, “Come!” And let whoever hears say, “Come!” And let whoever is thirsty come; let whoever wishes take the water of life as a gift.{n}"
+     "text": "The Spirit and the bride are saying, “Come!” And whoever hears should also say, “Come!” Whoever is thirsty should come; whoever wishes should receive the water of life as a gift.{n}"
     },
     {
      "v": 18,
-     "text": "I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book;{o}"
+     "text": "I give this warning to everyone who hears the words of this book’s prophecy: should anyone add to them, God will lay on him the plagues described in this book;{o}"
     },
     {
      "v": 19,
-     "text": "and if anyone removes any of the words of the book of this prophecy, God will remove that person’s share from the tree of life and from the holy city, which are written about in this book.{p}"
+     "text": "and if anyone cuts anything from the words of the book containing this prophecy, God will cut off his allotment, whether in the tree of life or in the holy city—things written about in this book.{p}"
     },
     {
      "v": 20,
-     "text": "The one who bears witness to these things says, “Yes, I am coming quickly.” Amen. Come, Lord Jesus!{q}"
+     "text": "The one who gives these testimonies says, “Certainly, I am on my way soon.” Amen! Come, Lord Jesus!{q}"
     },
     {
      "v": 21,
