@@ -1,0 +1,1101 @@
+{
+ "id": "life-of-adam-and-eve",
+ "name": "Life of Adam and Eve",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the Latin *Vita Adae et Evae* in the critical edition of Wilhelm Meyer (Abhandlungen der Bayerischen Akademie der Wissenschaften 14.3, Munich, 1878; public domain), as digitized in the Online Critical Pseudepigrapha, with variants and additions from other Latin manuscripts given in round brackets as they stand in that printed text. Readings of the Greek *Apocalypse of Moses* (Tischendorf, 1866; public domain) were looked up directly for the few notes that cite them. The English here is new, made directly from the Latin. The Latin *dominus deus* is rendered “the Lord God,” and the one occurrence of *Jehova* is rendered “Yahweh.” **Chapters and verses.** The Latin edition is divided into 51 chapters; it has no verse numbers, so the verses here are numbered sections made for this edition. The additional passages that Meyer prints at the end of chapters 29 and 51 are included as further verses of those chapters. The chapter numbers differ from those of the Greek *Apocalypse of Moses*, whose chapters follow a different order and length. Numbers in the text are given as numerals, and the Latin chronology is kept as written. **About the book.** The *Life of Adam and Eve* is a retelling of the story of Adam and Eve after their expulsion from paradise: their penance in the rivers, Satan’s account of why he fell (he refused to bow down to Adam), the birth of Cain, Abel, and Seth, Seth’s journey to paradise for the oil of mercy, Adam’s death and burial by angels, and Eve’s last words. Most scholars think that the original was a Jewish work written in Hebrew or Aramaic, probably in the 1st century AD, and later translated into Greek (the *Apocalypse of Moses*, which tells the story differently and ends with Eve’s death), then into Latin, Armenian, Georgian, Slavonic, and other languages. The Latin version is later than the Greek and contains some Christian additions (for example, the prophecy of Christ’s baptism in chapter 42). The oldest Latin manuscripts date from the 9th century AD (Munich), and over seventy are known. The book is not in the Jewish, Catholic, Orthodox, or Protestant canons, but it was widely read in the Middle Ages and shaped later legends, such as that of the wood of the cross. Dates are given as BC/AD. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After they were driven out of paradise, they built themselves a hut and spent seven days mourning and wailing in deep sorrow."
+    },
+    {
+     "v": 2,
+     "text": "When the seven days were over, they began to feel hungry, and they looked for something to eat, but could find nothing."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Eve spoke to Adam: “Master, I am starving. Go and find us something to eat."
+    },
+    {
+     "v": 2,
+     "text": "Perhaps the Lord God will look on us again and take pity, and call us back to the place where we used to be.”"
+    },
+    {
+     "v": 3,
+     "text": "So Adam got up and walked for seven days across the whole country, and he found no food like the food they had had in paradise."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Eve said to Adam, “My lord, you would do better to kill me, so that I die. Perhaps then the Lord God will bring you back into paradise, because it was on my account that the Lord God was angry with you."
+    },
+    {
+     "v": 2,
+     "text": "Do you want to put me to death? Perhaps the Lord God will bring you into paradise again, since it was because of me that you were driven out.”"
+    },
+    {
+     "v": 3,
+     "text": "Adam answered, “Eve, do not talk like that, or the Lord God may bring another curse on us. How could I raise my hand against my own flesh?"
+    },
+    {
+     "v": 4,
+     "text": "No, let us get up and look for something to live on, so that we do not waste away.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "So they set out and went on searching for nine days, and found nothing like what they had had in paradise. They found only what the animals ate."
+    },
+    {
+     "v": 2,
+     "text": "Then Adam said to Eve, “The Lord gave this food to the animals and wild beasts to eat. We used to have the food of angels."
+    },
+    {
+     "v": 3,
+     "text": "It is right and proper that we should grieve before the face of God who made us. Let us do great penance. Perhaps the Lord God will forgive us, take pity on us, and provide a way for us to live.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Eve said to Adam, “My lord, tell me what penance is and how I should do it. I am afraid we may take on a burden we cannot bear, and then he will not hear our prayers, and the Lord will turn his face away from us, because we have not kept what we promised."
+    },
+    {
+     "v": 2,
+     "text": "My lord, you have thought how much you are willing to bear in penance, because I brought this toil and trouble on you.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Adam said to Eve, “You cannot do as much as I can. Do only as much as will save you."
+    },
+    {
+     "v": 2,
+     "text": "I will fast for forty days. You must get up and go to the river Tigris, find a stone, step onto it in the current, and stay where the river is deep enough to reach your neck."
+    },
+    {
+     "v": 3,
+     "text": "No word is to come out of your mouth, because we are not fit to pray to the Lord; our lips are unclean from the forbidden tree we were told not to touch."
+    },
+    {
+     "v": 4,
+     "text": "Stand in the water of the river for thirty-seven days. I will stand in the water of the Jordan for forty days. Perhaps the Lord God will take pity on us.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Eve went to the river Tigris and did what Adam had told her."
+    },
+    {
+     "v": 2,
+     "text": "Adam in the same way went to the Jordan and took his stand on a stone, the water reaching his neck."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Adam said, “Waters of the Jordan, I am speaking to you: suffer with me. Gather to me all the creatures that swim in you, so that they surround me and mourn with me."
+    },
+    {
+     "v": 2,
+     "text": "Let them not lament for themselves, but for me, because it was not they who sinned, but I.”"
+    },
+    {
+     "v": 3,
+     "text": "Immediately all the living creatures came and crowded around him, and from that hour the Jordan’s water halted and did not flow."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When eighteen days had passed, Satan became angry. He changed himself into the brightness of the angels, went to the river Tigris, to Eve, and found her weeping."
+    },
+    {
+     "v": 2,
+     "text": "The devil himself, as if he grieved for her, began to cry and told her, “Leave the river, and stop your weeping. Stop your sadness and your groaning now."
+    },
+    {
+     "v": 3,
+     "text": "Why are you so anxious, you and your husband Adam? The Lord God has heard your groaning and accepted your penance, and all of us angels have begged the Lord on your behalf."
+    },
+    {
+     "v": 4,
+     "text": "He has sent me to lead you from the water and to give you the food you used to have in paradise, the food you have been mourning for."
+    },
+    {
+     "v": 5,
+     "text": "So come out of the water now, and I will lead you to the place where your food is ready.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 10,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Eve heard this, she believed him. She left the river, and her skin looked like grass shriveled by the chill of the water."
+    },
+    {
+     "v": 2,
+     "text": "As she climbed out she collapsed on the ground; the devil lifted her to her feet and took her to Adam."
+    },
+    {
+     "v": 3,
+     "text": "When Adam saw her and the devil with her, he cried out in tears, “Oh, Eve, Eve! Where is the work of your penance?"
+    },
+    {
+     "v": 4,
+     "text": "How have you been deceived again by our enemy, the one who caused us to be shut out of our home in paradise and from its spiritual joy?”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 11,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Eve heard this, she realized that the devil had talked her into leaving the river. She fell on her face on the ground, and her grief and groaning and lamenting were doubled."
+    },
+    {
+     "v": 2,
+     "text": "She cried out, “Curse you, devil! Why do you attack us for nothing? What do you have against us? What have we done to you, that you pursue us so cunningly? What does your wickedness have to do with us?"
+    },
+    {
+     "v": 3,
+     "text": "Did we take your glory away and leave you without honor? Why do you hound us to death, you wicked and spiteful enemy?”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 12,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The devil groaned and said, “Adam, all my hostility and envy and pain are aimed at you. Because of you I was driven out and cut off from the glory that I had in heaven among the angels, and because of you I was thrown down to earth.”"
+    },
+    {
+     "v": 2,
+     "text": "Adam answered, “What have I done to you? What is my fault against you? You have not been harmed or hurt by us, so why do you hunt us down?”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 13,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The devil answered, “Adam, what are you saying to me? It is because of you that I was thrown out. When you were formed, I was thrown out from God’s presence and sent away from the company of the angels."
+    },
+    {
+     "v": 2,
+     "text": "When God breathed the breath of life into you, and your face and likeness were made in the image of God, Michael brought you and made you bow down in the sight of God. And the Lord God said, ‘See, Adam, I have made you in our image and likeness.’”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 14,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Michael went out and summoned every angel: ‘Bow down to the image of the Lord God, as the Lord God has ordered.’ Michael was the first to bow. Next he summoned me and said, ‘Bow down to the image of God, Yahweh.’"
+    },
+    {
+     "v": 2,
+     "text": "My answer was, ‘Worshiping Adam is not something I have to do.’ But Michael kept urging me to bow, and I said to him, ‘Why are you forcing me? I will not worship one who is lower than I am and came after me. In creation I am older than he is. Before he was made, I had already been made. He ought to worship me.’”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 15,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“The other angels who served under me heard this, and they also refused to bow to him. Michael said, ‘Worship the image of God. If you do not, the Lord God will be angry with you.’"
+    },
+    {
+     "v": 2,
+     "text": "And I said, ‘If he is angry with me, I will set my throne above the stars of heaven and be like the Most High.’”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 16,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“The Lord God was angry with me, and sent me out with my angels from our glory. Because of you we were driven out of our homes into this world and thrown down on the earth."
+    },
+    {
+     "v": 2,
+     "text": "At once we were in pain, because we had been stripped of such great glory. And it hurt us to see you in such great delight."
+    },
+    {
+     "v": 3,
+     "text": "So I tricked your wife by deceit, and through her I had you driven out of your joyful delights, just as I was driven out of my glory.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 17,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Adam heard this from the devil, he cried out in great tears and said, “Lord my God, my life is in your hands. Keep this enemy of mine far from me, he who is trying to destroy my soul, and give me the glory that he himself has lost.”"
+    },
+    {
+     "v": 2,
+     "text": "At once the devil disappeared from his sight. And Adam stayed on, standing in penance in the water of the Jordan for forty days."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 18,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Eve said to Adam, “Live, my lord. Life has been granted to you, because you were not guilty of the first or the second transgression. It was I who broke the commandment and was led astray, because I did not keep the command of God."
+    },
+    {
+     "v": 2,
+     "text": "Now send me away from the light of this life. I will go to the west, where the sun sets, and stay there until I die.”"
+    },
+    {
+     "v": 3,
+     "text": "She began to walk toward the western regions, and she began to mourn and weep bitterly with loud groaning. There she made herself a shelter, carrying a child of three months in her womb."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 19,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When the time of her delivery came near, she began to be tormented by pains. She cried out to the Lord, “Have mercy on me, Lord; help me.” But she was not heard, and God’s mercy did not come to her."
+    },
+    {
+     "v": 2,
+     "text": "Then she said to herself, “Who will tell my lord Adam? I beg you, lights of heaven, when you return to the east, tell my lord Adam.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 20,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "At that very hour Adam said, “I hear Eve crying out. Perhaps the serpent is fighting with her again.”"
+    },
+    {
+     "v": 2,
+     "text": "He walked on and came upon her in terrible distress. Eve said, “From the moment I saw you, my lord, my soul, caught in its pains, was refreshed."
+    },
+    {
+     "v": 3,
+     "text": "Now pray to the Lord God for me, so that he will hear you and look on me and free me from these terrible pains.” And Adam prayed to the Lord for Eve."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 21,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then twelve angels came, with two powers, who stood on the right and left of Eve. Michael stood on her right, touched her face down to her breast, and said to her, “You are blessed, Eve, because of Adam. His prayers and entreaties are great, and I have been sent to you so that you can receive our help."
+    },
+    {
+     "v": 2,
+     "text": "Get up now and prepare for the birth.” She gave birth to a son, and he shone with light."
+    },
+    {
+     "v": 3,
+     "text": "The baby at once rose and ran; he plucked some grass with his own hands and handed it to his mother. His name was called Cain."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 22,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Adam took Eve and the boy and led them to the east."
+    },
+    {
+     "v": 2,
+     "text": "The Lord God sent the angel Michael with seeds of various kinds. He handed them to Adam and taught him to till the soil and tend it, so that they would have fruit to live on, they and all their descendants."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 23,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After that Eve conceived again and bore a son named Abel. Cain stayed together with Abel."
+    },
+    {
+     "v": 2,
+     "text": "Eve said to Adam, “My lord, I had a vision in my sleep: I saw the blood of our son Abel in Cain’s hand, and Cain was swallowing it down with his mouth. That is why I am troubled.”"
+    },
+    {
+     "v": 3,
+     "text": "Adam said, “Oh no! May Cain not kill Abel! Let us separate them from each other and give each of them a separate home.”"
+    },
+    {
+     "v": 4,
+     "text": "They made Cain a farmer and Abel a shepherd, to keep them apart. But after this Cain killed Abel. Adam was then 130 years old, and Abel was 122 when he was killed."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 24,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this Adam knew his wife and she bore a son, and he named him Seth. Adam said to Eve, “See, I have had a son to replace Abel, the one Cain killed.”"
+    },
+    {
+     "v": 2,
+     "text": "After Seth was born, Adam lived another eight hundred years and had thirty sons and thirty daughters, sixty-three in all.{a} They multiplied over the earth, in their nations."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "24:2",
+     "text": "The Latin says “sixty-three” (*LXIII*), but thirty sons and thirty daughters make sixty; the figure is kept as the manuscripts give it."
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Adam said to Seth, “Listen, my son Seth, and I will tell you what I heard and saw. After my wife, your mother, and I were driven out of paradise, while we were praying, the archangel Michael, a messenger of God, came to me."
+    },
+    {
+     "v": 2,
+     "text": "I saw a chariot that moved like the wind, with wheels of fire, and I was carried off to the paradise of righteousness."
+    },
+    {
+     "v": 3,
+     "text": "I saw the Lord seated, and his appearance was a blazing fire, unbearable. And many thousands of angels stood to the right and left of his chariot.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 26,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“When I saw this, I was terrified. Fear seized me, and I bowed down before God, face to the ground."
+    },
+    {
+     "v": 2,
+     "text": "God said to me, ‘See, you will die, because you went against God’s command: you listened to your wife’s voice more than to mine, though I gave her into your power to have her at your will. You listened to her, and my words you disregarded.’”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 27,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“At these words of God I fell to the ground, bowed to the Lord, and said, ‘My Lord, almighty God, merciful, holy, and loving, do not let the name of your majesty’s memory be wiped out."
+    },
+    {
+     "v": 2,
+     "text": "Turn my soul back, for I am dying and my breath will leave my mouth. Do not cast me from your presence, I whom you formed from the clay of the earth, and do not put aside your grace for the one you nourished."
+    },
+    {
+     "v": 3,
+     "text": "See, your word comes to me.’ And the Lord said to me, ‘Because your days are numbered, you have become a lover of knowledge; for this reason it will not be taken away from your seed for ever, to serve me.’”{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "27:3",
+     "text": "The Latin of the last clause is obscure (*quoniam figurantur dies tui factus es diligens scientiam*), and the translation is a best guess at its sense."
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“After hearing this I lay face down on the ground and bowed before the Lord God, saying, ‘You are the eternal and most high God, and all creatures give you honor and praise."
+    },
+    {
+     "v": 2,
+     "text": "You are the true light, shining above every light, the living life, a power of incomprehensible greatness. The spiritual powers give you honor and praise."
+    },
+    {
+     "v": 3,
+     "text": "You work the great wonders of your mercy with the human race.’”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 29,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“After I worshiped the Lord, the archangel Michael at once took my hand and led me out of the paradise of God’s visitation and command."
+    },
+    {
+     "v": 2,
+     "text": "Michael had a rod in his hand. He touched the waters around paradise, and they turned to ice. I crossed over, and Michael crossed with me, and brought me back to the place from which he had taken me."
+    },
+    {
+     "v": 3,
+     "text": "Listen, my son Seth, to the other mysteries and secrets of what is to come, which were revealed to me, who ate from the tree of knowledge and came to know and understand what will happen in this world.”"
+    },
+    {
+     "v": 4,
+     "text": "… what will happen in this age, what God will do for his creature, the human race. The Lord will appear in a blaze of fire. Out of his majestic mouth he will give everyone commands and rules (from his mouth a sword will come, sharp on both sides), and in the house where his majesty dwells they will hallow him. And he will show them the wonderful place of his majesty.{a}"
+    },
+    {
+     "v": 5,
+     "text": "Then they will build a house for the Lord their God on the earth, in the land where he fed them (the land he will prepare for them). There they will disobey his commands, their sanctuary will be set on fire, and their land will be left desolate, and they themselves will be scattered, because they have angered God. Yet again (on the third day, or the seventh) he will save them from their scattering, and they will build the house of God once more, and at the last that house will be lifted higher than it was before. And again wickedness will overcome justice."
+    },
+    {
+     "v": 6,
+     "text": "After that God will live among people on earth, to be seen. Then justice will begin to shine. The house of God will be honored for ever, and hostile powers will no longer be able to harm those who believe in God. For himself God will bring forth a loyal people, and he will keep them safe for all ages. The wicked who refused to love his law will be punished by God their king. Heaven and earth, night and day, and all creatures will obey him; they will not go beyond his command or change their works. But people will change, abandoning the law of the Lord."
+    },
+    {
+     "v": 7,
+     "text": "For this the Lord will drive the wicked away from himself, and the righteous will gleam like the sun before God’s eyes. At that time people will be cleansed of their sins by water; but those who refuse to be cleansed by water will be condemned. Happy will be the person who has set his soul right, when the judgments and great deeds of God take place among people, and their actions are examined by God, the righteous judge."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "29:4",
+     "text": "Verses 4–7 (marked “a–d” in Meyer’s edition) are an addition found in only some of the Latin manuscripts. The Latin of this passage is uneven, and words in round brackets are variants or additions printed in the Latin text itself."
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the 930th year of his life, Adam knew that his days were running out, and he said, “Gather all my sons around me, so that I may speak with them and give them my blessing before I die.”"
+    },
+    {
+     "v": 2,
+     "text": "They gathered in three groups before him, in front of the prayer house where they used to worship the Lord God. They asked him, “Father, what is wrong? Why did you call us together, and why are you lying in your bed?”"
+    },
+    {
+     "v": 3,
+     "text": "Adam answered, “My children, I am in pain and I am ill.” All his sons said to him, “Father, what does it mean to be ill with pain?”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 31,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then his son Seth said, “Lord, perhaps you are longing for the fruit of paradise that you used to eat, and that is why you are lying here grieved? Say the word, and I will go to the gates of paradise nearest us, sprinkle dust on my head, lie on the ground in front of the gates, and cry out in great lament, pleading with the Lord. Perhaps he will listen and send his angel to fetch me some of the fruit you crave.”"
+    },
+    {
+     "v": 2,
+     "text": "Adam answered, “No, my son, that is not what I want. What I have is an illness, and a great pain in my body.”"
+    },
+    {
+     "v": 3,
+     "text": "Seth said, “Father and lord, I do not know what pain is. Do not hide it from us, but tell us.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 32,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Adam answered, “Listen to me, my children. At our creation, mine and your mother’s, God placed us in paradise. Every fruit tree there was given to us for food, but he forbade us: ‘Do not eat from the tree of the knowledge of good and evil, which stands in the middle of paradise.’"
+    },
+    {
+     "v": 2,
+     "text": "He shared out paradise between your mother and me. I received the eastern trees and those of the northern side, which faces the north wind; to your mother he gave the southern part and the western.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 33,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“The Lord God gave us two angels to guard us. When the hour came for the angels to go up to worship in the sight of God, the enemy, the devil, found his chance, while the angels were absent."
+    },
+    {
+     "v": 2,
+     "text": "The devil deceived your mother into eating from the forbidden tree we were told not to touch. She ate, and gave to me.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 34,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“The Lord God grew angry with us at once. He told me, ‘You abandoned my commandment and did not obey the word I laid on you, I will bring seventy blows on your body. You will be tormented in every limb with different pains, from the top of the head, and the eyes and ears, to the nails of the feet.’"
+    },
+    {
+     "v": 2,
+     "text": "He appointed these as a scourge … together with the trees.{a}"
+    },
+    {
+     "v": 3,
+     "text": "The Lord sent all these things on me and on all our generations.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "34:2",
+     "text": "The Latin of this sentence is corrupt: Meyer marks *dolori* with crosses (*Haec deputavit in flagellationem + dolori + uno cum arboribus*), and no sure sense can be recovered. The Greek *Apocalypse of Moses* (ch. 8) also speaks of seventy blows, each affecting a different part of the body."
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After saying this to all his children, Adam was seized by great pains. He cried out loudly: “What shall I do, wretched as I am, caught in such pain?”"
+    },
+    {
+     "v": 2,
+     "text": "When Eve saw him weeping, she too began to weep, saying, “Lord my God, put his pain on me, because I am the one who sinned.”"
+    },
+    {
+     "v": 3,
+     "text": "Eve said to Adam, “My master, let me carry part of your pains, because this guilt came to you through me.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 36,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Adam said to Eve, “Get up and go with my son Seth to the edge of paradise. Put dust on your heads, throw yourselves on the ground, and mourn in the sight of God."
+    },
+    {
+     "v": 2,
+     "text": "Perhaps he will take pity and send his angel to the tree of his mercy, from which the oil of life flows, and give you a little of it, so that you can anoint me with it and I can rest from these pains that are wearing me away.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 37,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Seth and his mother set out toward the gates of paradise. As they were walking, suddenly a beast, a serpent, came, rushed at Seth, and bit him."
+    },
+    {
+     "v": 2,
+     "text": "When Eve saw it, she wept and said, “Woe to me, wretched woman, for I am cursed, because I did not keep the Lord’s commandments.”"
+    },
+    {
+     "v": 3,
+     "text": "Eve shouted at the serpent, “Cursed beast, how were you not afraid to throw yourself at the image of God, but dared to fight with it? How did your teeth prevail?”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 38,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The beast answered in a human voice, “Eve, is our wickedness not aimed at you? Is our rage not against you? Tell me, Eve, how was your mouth opened to eat the fruit that the Lord God commanded you not to eat? If I begin to reproach you now, can you bear it?”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 39,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Seth said to the beast, “The Lord God rebuke you. Be silent, be dumb, shut your mouth, you cursed enemy of the truth, confusion of destruction. Stay clear of God’s image until the day the Lord God commands that you be brought to trial.”"
+    },
+    {
+     "v": 2,
+     "text": "The beast said to Seth, “See, as you say, I am leaving the presence of the image of God.” At once the wound left Seth’s flesh from the bite."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 40,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Seth and his mother kept going toward the edges of paradise, to fetch the oil of mercy and rub it on the ailing Adam."
+    },
+    {
+     "v": 2,
+     "text": "When they reached the gates of paradise, they picked up dust from the ground and put it on their heads. They threw themselves on the ground, face down, and began to wail with loud groaning, asking the Lord God to have mercy on Adam in his agony and to send his angel with oil from the tree of his mercy."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 41,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After they had been praying and begging for many hours, the angel Michael appeared before them. “The Lord has sent me to you,” he said. “I am the one appointed by the Lord over the human body."
+    },
+    {
+     "v": 2,
+     "text": "I tell you, Seth, man of God, stop weeping and pleading for the oil of the tree of mercy, which you want in order to soothe your father Adam’s bodily pains.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 42,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“I tell you that you will not be able to get any of it, except in the last days, when five thousand five hundred years have passed."
+    },
+    {
+     "v": 2,
+     "text": "Then the most loving king, Christ, the Son of God, will come on the earth to raise up Adam’s body and with it to raise the bodies of the dead. On his coming, the Son of God himself will be baptized in the river Jordan, and as he rises out of the Jordan’s water he will anoint with the oil of his mercy all who believe in him."
+    },
+    {
+     "v": 3,
+     "text": "The oil of mercy will be for generation after generation for those who are to be born again of water and the Holy Spirit into eternal life. Then the most loving Son of God, Christ, coming down to earth, will lead your father Adam into paradise, to the tree of mercy.”{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "42:3",
+     "text": "This prophecy is a Christian addition: it speaks of Christ’s baptism and of the world lasting five thousand five hundred years before his coming, a count common in early Christian chronology. The Greek *Apocalypse of Moses* (ch. 13) also says that Seth cannot have the oil now, only at the end."
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“But you, Seth, go to your father Adam, because the time of his life is complete. Six more days, and then his soul will leave his body. When it leaves, you will see great wonders in heaven and on earth and in the lights of heaven.”"
+    },
+    {
+     "v": 2,
+     "text": "After saying this, Michael left Seth at once. Eve and Seth turned back. They took spices with them: nard, saffron, calamint, and cinnamon."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 44,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Seth and his mother came to Adam, they told him that the serpent beast had bitten Seth. Adam said to Eve, “What have you done? You have brought a great plague on us, guilt and sin on all our generations."
+    },
+    {
+     "v": 2,
+     "text": "And what you have done will fall on your children after my death … because those who rise from us will labor and not be strong enough, but will fail, and will curse us, saying, ‘Our parents, who lived at the beginning, brought all these evils on us.’”{a}"
+    },
+    {
+     "v": 3,
+     "text": "When Eve heard this, she began to weep and groan."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "44:2",
+     "text": "The Latin has *+ refert +* between crosses here, meaning that the word is corrupt; the translation leaves the gap marked."
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Just as the archangel Michael had foretold, Adam’s death came after six days. When Adam realized that the hour of his death had come, he said to all his sons, “See, I am 930 years old. If I die, bury me toward the east, in … the great dwelling-place of God.”{a}"
+    },
+    {
+     "v": 2,
+     "text": "When he had finished all his words, he gave up his spirit."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "45:1",
+     "text": "The Latin reads *contra + ortum + dei magnum habitationibus*; the word *ortum* is marked as corrupt (it could mean “sunrise” or “garden”)."
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The sun, the moon, and the stars were darkened for seven days. Seth lay over his father’s body, embracing it and mourning. Eve stood looking at the ground, with her hands clasped over her head and her head bent down on her knees, and all his children wept with bitter tears."
+    },
+    {
+     "v": 2,
+     "text": "Then the angel Michael appeared, standing at Adam’s head, and said to Seth, “Get up from your father’s body and come to me, and see what the Lord God has decided about him. He is his creature, and God has pitied him.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 47,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "All the angels sounded their trumpets and said, “Blessed are you, Lord, because you have taken pity on what you formed.”"
+    },
+    {
+     "v": 2,
+     "text": "Then Seth saw the hand of the Lord stretched out, holding Adam, and the Lord handed him to Michael, saying, “Let him be in your keeping until the day of the dispensation, in the punishments, for the last years, when I will turn his mourning to joy. Then he will sit on the throne of the one who tripped him up.”{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "47:2",
+     "text": "“The one who tripped him up” (Latin *qui eum supplantavit*) is the devil. The sense is that Adam will take the place that the devil lost."
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then the Lord said again to the angels Michael and Uriel, “Bring me three linen cloths and spread them over Adam. And bring others for his son Abel, and bury Adam and his son.”"
+    },
+    {
+     "v": 2,
+     "text": "All the powers of the angels went before Adam, and the resting of the dead was made holy. Michael and Uriel buried Adam and Abel in the regions of paradise, while Seth and his mother watched, and no one else."
+    },
+    {
+     "v": 3,
+     "text": "And Michael and Uriel said, “As you have seen, bury your dead the same way.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 49,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Six days after Adam died, Eve knew that her own death was near. She called all her sons and daughters together, who were Seth with his thirty brothers and thirty sisters, and she said to them all, “Listen to me, my children, and I will tell you what happened: your father and I broke God’s command."
+    },
+    {
+     "v": 2,
+     "text": "The archangel Michael told us, ‘Because of your transgressions our Lord will bring the anger of his judgment on your race, first by water and then by fire. By these two the Lord will judge the whole human race.’”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 50,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“But listen to me, my children. Make tablets of stone and others of clay, and write on them all my life and your father’s life, everything you heard and saw from us."
+    },
+    {
+     "v": 2,
+     "text": "If he judges our race by water, the clay tablets will dissolve and the stone ones will stay. If he judges our race by fire, the stone tablets will break up and the clay ones will be baked hard.”{a}"
+    },
+    {
+     "v": 3,
+     "text": "When Eve had said all this to her children, she stretched her hands toward heaven in prayer, bent her knees to the ground, worshiped the Lord, and gave thanks, and she gave up her spirit."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "50:2",
+     "text": "The Latin has the nonsense word *nosbllum* in both places, which I read as *nostrum*, “our.”"
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After that all her sons buried her with great weeping. When they had mourned for four days, the archangel Michael appeared to them and said to Seth, “Man of God, do not mourn for your dead more than six days. The seventh day is the sign of the resurrection and of the rest of the age to come; for on the seventh day the Lord rested from all his works.”"
+    },
+    {
+     "v": 2,
+     "text": "Then Seth made the tablets."
+    },
+    {
+     "v": 3,
+     "text": "Then Seth made (two) tablets of stone and (two) of clay, (and he set out the letters), and he wrote on them the life of his father Adam and his mother Eve, which he had heard from them and seen with his own eyes. He put the tablets in the middle of his father’s house, in the prayer house where he prayed to the Lord. After the flood many people saw those written tablets, but no one could read them.{a}"
+    },
+    {
+     "v": 4,
+     "text": "Solomon the wise saw the writing, and he prayed to the Lord, and an angel of the Lord appeared to him and said, “I am the one who held Seth’s hand while he wrote these stones with his finger. You will understand the writing, so that you know and understand what all these stones contain, and where the prayer house was, where Adam and Eve worshiped the Lord God. You must build a temple of the Lord there, that is, a house of prayer.”"
+    },
+    {
+     "v": 5,
+     "text": "Then Solomon completed the temple of the Lord God, and he called those letters *achiliacas*, “written without words to teach them,” (written) with Seth’s finger, with the angel of the Lord holding his hand.{b}"
+    },
+    {
+     "v": 6,
+     "text": "And on those same stones was found what Enoch, the seventh from Adam, prophesied before the flood about the coming of Christ: “See, the Lord will come with his holy ones to carry out judgment on all, and to convict the wicked of all the works they have done against him, the sinners and the wicked, the grumblers and the ungodly, who walk after their own desires, and whose mouths speak arrogance.”{c}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "51:3",
+     "text": "Verses 3–6 (marked “a–d” in Meyer’s edition) are an ending found in only some of the Latin manuscripts; it is included here as part of the text that Meyer prints."
+    },
+    {
+     "m": "b",
+     "ref": "51:5",
+     "text": "The Latin *achiliacas* may be a corruption of a Greek word; the Latin itself explains it as “written without the teaching of words.”"
+    },
+    {
+     "m": "c",
+     "ref": "51:6",
+     "text": "This is the prophecy of Enoch quoted in the New Testament letter of Jude, verses 14–16; compare 1 Enoch 1:9."
+    }
+   ]
+  }
+ ]
+}
