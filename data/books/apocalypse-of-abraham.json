@@ -1,0 +1,1300 @@
+{
+ "id": "apocalypse-of-abraham",
+ "name": "Apocalypse of Abraham",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the English of G. H. Box, *The Apocalypse of Abraham* (SPCK, London, 1918), which is public domain. Box translated the Slavonic text, which is the only complete form of the book; the original Hebrew or Aramaic is lost, and the Slavonic itself was made from a lost Greek version. The Slavonic manuscripts are late, the oldest being of the 14th century, and Box compared several of them. The Slavonic itself was not available for this edition, so this translation is a fresh English rendering from Box's English, made in new wording, and it should be checked against the Slavonic when that is possible. It was not taken from the translation in *The Old Testament Pseudepigrapha* or from any other copyrighted translation. The editor's brackets, which mark words found in only some manuscripts, are not shown; the main differences between the manuscripts are mentioned in footnotes where they change the sense. **Chapters and verses.** The book is divided into 32 chapters. Box's edition prints the chapters without verse numbers, so the verses are numbered here for this edition, one for each sentence or clause group. **The name of God.** The Slavonic text uses *Lord*, *God*, *the Eternal Mighty One*, and the names *Eli*, *Sabaoth*, and *Jaoel*, but not the four-letter name Yahweh; each is translated as the text has it, and the names are explained in footnotes. **Measures and dates.** Measures are given in modern US units, with the original wording in a footnote. Years are counted as the book counts them, and “hours of the age” are explained in the notes to chapters 28 and 29. **About the book.** The *Apocalypse of Abraham* has two parts. Chapters 1 to 8 are a story of how Abraham, the son of an idol-maker, came to see that the idols were not gods, and how his father's house was burned. Chapters 9 to 32 are a vision. God calls Abraham to a sacrifice on Mount Horeb; the angel Jaoel leads him up through the heavens to the throne of God, where he sees the whole world below him, the Garden of Eden, the fall of Adam and Eve, the burning of the temple, and the age to come with its ten plagues, a chosen one sent by God, and the gathering of Israel. The book was probably written in Hebrew or Aramaic soon after the destruction of the temple in AD 70, in about the late 1st or early 2nd century AD. Chapter 29 contains a passage that Box regarded as a Jewish-Christian addition. It is not in the Jewish, Catholic, Orthodox, or Protestant canons, but was kept in Slavonic Christian manuscripts. Dates are given as BC/AD. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the day that I planed smooth the gods of my father Terah, and those of his brother Nahor, I was searching to learn who the Mighty God truly is."
+    },
+    {
+     "v": 2,
+     "text": "I, Abraham,{l} had been given my turn at the work, and I had finished the sacrifices my father Terah offered to his gods of wood and stone, of gold and silver, of bronze and iron."
+    },
+    {
+     "v": 3,
+     "text": "I went into their temple to serve, and I found the god named Merumath,{m} a carved stone figure, which had toppled onto its face before the iron god Nahon.{n}"
+    },
+    {
+     "v": 4,
+     "text": "When I saw it, my heart was troubled. I thought that I, Abraham, could not put it back in its place alone, because it was heavy, being a big stone."
+    },
+    {
+     "v": 5,
+     "text": "I went out and told my father, and he came in with me. The two of us pushed the god upright to set it back, and its head fell off while I was still holding it by the head."
+    },
+    {
+     "v": 6,
+     "text": "When my father saw Merumath’s head in my hands, detached from the body, he called, “Abraham!” “I am here,” I answered."
+    },
+    {
+     "v": 7,
+     "text": "He said, “Bring me one of the small axes from the house.” I brought it to him."
+    },
+    {
+     "v": 8,
+     "text": "Then he hewed another Merumath out of another stone, with no head. He took the head that had fallen from the first Merumath and set it on the new body, and he smashed the rest of the first one to pieces."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:title",
+     "text": "Hebrew *Terach*; the meaning is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "1:title",
+     "text": "Hebrew *Nachor*, “snorting” or “snoring.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:title",
+     "text": "Hebrew *Serug*, “branch” or “tendril” (uncertain)."
+    },
+    {
+     "m": "d",
+     "ref": "1:title",
+     "text": "Hebrew *Re‘u*, “friend.” The Slavonic text has “Roog,” an old form of the name."
+    },
+    {
+     "m": "e",
+     "ref": "1:title",
+     "text": "Hebrew *Arpakshad*; the meaning is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "1:title",
+     "text": "Hebrew *Shem*, “name.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:title",
+     "text": "Hebrew *Noach*, “rest.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:title",
+     "text": "Hebrew *Lemech*; the meaning is uncertain."
+    },
+    {
+     "m": "i",
+     "ref": "1:title",
+     "text": "Hebrew *Metushelach*; the meaning is uncertain, perhaps “man of the javelin.”"
+    },
+    {
+     "m": "j",
+     "ref": "1:title",
+     "text": "Hebrew *Chanoch*, “dedicated” or “initiated.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:title",
+     "text": "Hebrew *Yered*, “descent.” The Slavonic text has “Tared” (or “Arad”). The list leaves out several names found in Genesis 11:10–16 (Peleg, Eber, Shelah), so it is shorter than the Bible’s."
+    },
+    {
+     "m": "l",
+     "ref": "1:2",
+     "text": "Hebrew *Avraham*, “father of a multitude” (Genesis 17:5). He was first called Abram, “exalted father.”"
+    },
+    {
+     "m": "m",
+     "ref": "1:3",
+     "text": "In the Slavonic text the name is *Merumath*. Editors suggest it comes from a Hebrew phrase meaning “stone of deceit.” The statue is stone, and the story mocks it."
+    },
+    {
+     "m": "n",
+     "ref": "1:3",
+     "text": "The name is *Nahon* or *Naritson* in different manuscripts. Its meaning is unknown."
+    }
+   ],
+   "title": "The Book of the Revelation of Abraham, son of Terah,{a} son of Nahor,{b} son of Serug,{c} son of Reu,{d} son of Arphaxad,{e} son of Shem,{f} son of Noah,{g} son of Lamech,{h} son of Methuselah,{i} son of Enoch,{j} son of Jared.{k}"
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Next he fashioned five more gods and handed them to me, telling me to sell them out in the town’s main street."
+    },
+    {
+     "v": 2,
+     "text": "I loaded my father’s donkey, put the gods on it, and went toward the inn to sell them."
+    },
+    {
+     "v": 3,
+     "text": "Merchants from Fandana{a} in Syria{b} were passing with camels on their way to Egypt{c} to trade. I talked with them."
+    },
+    {
+     "v": 4,
+     "text": "One of their camels let out a groan, and the donkey was frightened and bolted and knocked the gods off. Three of them were smashed, and two came through whole."
+    },
+    {
+     "v": 5,
+     "text": "The Syrians noticed that I had gods and asked, “Why did you keep quiet about them? We would have bought them before your donkey heard the camel and they were lost. At least sell us the ones that are left, and we will pay a fair price for the smashed ones as well as for those that survived.”"
+    },
+    {
+     "v": 6,
+     "text": "I was worried in my heart about how I could take the price home to my father. The three broken ones I threw into the water of the river Gur,{d} which was at that place. They sank into the depths, and nothing more was seen of them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:3",
+     "text": "The place may be Paddan-Aram, “road of Aram” (Genesis 25:20), in northern Mesopotamia. The Slavonic reads *Fandana*."
+    },
+    {
+     "m": "b",
+     "ref": "2:3",
+     "text": "Greek *Syria*, from an old name whose meaning is uncertain; the Hebrew is *Aram*."
+    },
+    {
+     "m": "c",
+     "ref": "2:3",
+     "text": "Hebrew *Mitsrayim*; the meaning of the name is unknown."
+    },
+    {
+     "m": "d",
+     "ref": "2:6",
+     "text": "The river is called *Gur* in the text. Its meaning is uncertain; the Hebrew word *gur* means “cub” or “sojourning.” A later version has the Dead Sea here."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "While I was still on the road, my heart was troubled within me and my mind was distracted."
+    },
+    {
+     "v": 2,
+     "text": "I said in my heart, “What wrong is my father committing? Is he not the god of his own gods, since they come into being by his chisels, his lathe, and his skill? Would it not be more fitting for them to worship him, because they are his handiwork? What is this folly of my father in the things he makes?"
+    },
+    {
+     "v": 3,
+     "text": "“Look, Merumath fell down in his own temple and could not rise. I was unable to lift him alone; only when my father came could the two of us stand him up. Even then, weak as we both are, his head came off, and my father fixed it onto a different stone, the body of another god he had made headless."
+    },
+    {
+     "v": 4,
+     "text": "“And the other five gods were smashed to pieces by the donkey. They could not help themselves, and they could not harm the donkey that broke them. Their fragments did not come up out of the river either.”"
+    },
+    {
+     "v": 5,
+     "text": "I said in my heart, “If that is so, how can my father’s god Merumath, wearing the head of another stone and himself made from a third, save anyone, or listen to a person’s prayer and reward him?”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "While I was thinking this over, I reached my father’s house. I gave the donkey water and hay, then brought the silver and placed it in my father Terah’s hand."
+    },
+    {
+     "v": 2,
+     "text": "When he saw it he was glad. He said, “Abraham, my gods have blessed you, because you brought back the price of the gods, and so my labor was not wasted.”"
+    },
+    {
+     "v": 3,
+     "text": "I answered him, “Listen, my father Terah! Blessed are your gods, because you are their god, since you made them. Their blessing is ruin and their power is empty. They could not help themselves, so how can they help you or bless me?"
+    },
+    {
+     "v": 4,
+     "text": "“I have been good to you in this affair, because I used my wits and brought you the money for the broken gods.”"
+    },
+    {
+     "v": 5,
+     "text": "When he heard this he flew into a rage at me, because I had spoken harshly against his gods."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I thought over my father’s anger and went out. After I had gone out, my father called, “Abraham!” I said, “Here I am.”"
+    },
+    {
+     "v": 2,
+     "text": "He said, “Take the wood chips from the gods I made out of pine before you came, gather them up, and get my midday meal ready.”"
+    },
+    {
+     "v": 3,
+     "text": "As I gathered the chips I found under them a little god lying among the brushwood to my left. On its forehead was written, “God Barisat.”{a}"
+    },
+    {
+     "v": 4,
+     "text": "I said nothing to my father about the wooden god Barisat I had found beneath the chips."
+    },
+    {
+     "v": 5,
+     "text": "I laid the chips on the fire to prepare my father’s food. I went out to ask something about the meal, and I set Barisat in front of the kindled fire. I warned him, “Barisat, take good care that the fire does not die down before I come back. If it does, blow on it so that it burns up again.”"
+    },
+    {
+     "v": 6,
+     "text": "I went out and did what I had to do. When I came back, I found Barisat fallen on his back, with his feet surrounded by fire and badly scorched."
+    },
+    {
+     "v": 7,
+     "text": "I burst out laughing and said to myself, “Truly, Barisat, you can kindle fire and cook food!”"
+    },
+    {
+     "v": 8,
+     "text": "While I was speaking, laughing, he was slowly burned up by the fire and turned to ashes."
+    },
+    {
+     "v": 9,
+     "text": "I carried the meal to my father, and he ate. When I gave him wine and milk, he grew cheerful and blessed his god Merumath."
+    },
+    {
+     "v": 10,
+     "text": "I said to him, “Father Terah, do not bless your god Merumath, and do not praise him. Praise your god Barisat instead, because he loved you more, and threw himself into the fire to cook your food.”"
+    },
+    {
+     "v": 11,
+     "text": "He said to me, “Where is he now?” I said, “He is burnt to ashes in the force of the fire and turned to dust.”"
+    },
+    {
+     "v": 12,
+     "text": "He said, “Barisat’s power is great! I will make another one today, and tomorrow he will prepare my meal.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:3",
+     "text": "The name is *Barisat*. Editors think it may come from the Aramaic *bar ishta*, “son of the fire,” which fits the story."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When I, Abraham, heard my father speak like this, I laughed inwardly, and I sighed with sorrow and anger in my soul."
+    },
+    {
+     "v": 2,
+     "text": "I said to myself, “How can these manufactured statues, his own handiwork, help my father? Is it right that the body should serve its soul, and the soul the spirit, and the spirit folly and ignorance?"
+    },
+    {
+     "v": 3,
+     "text": "“Just this once it is right to endure some trouble. I will set my mind on what is pure and lay my thoughts out plainly before him.”"
+    },
+    {
+     "v": 4,
+     "text": "I answered, “Father Terah, whichever of these you praise as a god, you are foolish in your mind."
+    },
+    {
+     "v": 5,
+     "text": "“Look at the gods of your brother Haran,{a} who stand in the holy temple. They are worth more honor than yours."
+    },
+    {
+     "v": 6,
+     "text": "“Look at Zucheus,{b} the god of your brother, which is worth more honor than your god Merumath, because he is cast of gold, a metal that people prize. When he wears out he can be melted down and recast. But if your god Merumath is altered or smashed, he cannot be made new, because he is stone. It is the same with the god Joavon,{c} who stands beside Zucheus over the other gods."
+    },
+    {
+     "v": 7,
+     "text": "“How much more honor he deserves than Barisat, a god made of wood, when Joavon is wrought of silver! Look how he has been made valuable to look at by human skill. But your god Barisat, before he was prepared, stood rooted on the earth, great and wonderful with the glory of his branches and blossoms. You chopped him with an axe, and by your craft he was turned into a god. And look, his sap is already dried up and gone, he has dropped from his height to the ground, he has gone from a great state to a small one, and the look of his face has vanished."
+    },
+    {
+     "v": 8,
+     "text": "“Barisat himself has been burned by fire and turned to ashes, and is no more. And you say, ‘Today I will make another, and tomorrow he will make my food!’ He has perished completely!”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:5",
+     "text": "The Slavonic text calls him *Oron* or *Zaron*; this is Haran, Abraham’s brother (Genesis 11:27). The Hebrew name *Haran* may mean “mountaineer.” His name is spelled in different ways in the manuscripts."
+    },
+    {
+     "m": "b",
+     "ref": "6:6",
+     "text": "The name is *Zucheus* in the text; its meaning is not known."
+    },
+    {
+     "m": "c",
+     "ref": "6:6",
+     "text": "The name is *Joavon* or *Joauv* in different manuscripts. Its meaning is unknown."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Look, the fire is worth more honor than all the things that are made, because even things that serve nothing else are forced to serve it, and things that are easily destroyed are mocked by its flames."
+    },
+    {
+     "v": 2,
+     "text": "“But the water is worth even more honor, because it overcomes the fire and gives the earth its fill. Even so, I do not call it a god, because it is subject to the earth, down toward which water leans."
+    },
+    {
+     "v": 3,
+     "text": "“I call the earth worth much more honor, because it overpowers the water and its fullness. Even the earth I do not call a god, because it too is dried out by the sun and is given to people to be plowed."
+    },
+    {
+     "v": 4,
+     "text": "“I call the sun worth more honor than the earth, because its rays light up the whole world and the different regions of the air. Even the sun I do not call a god, because night hides it, and so do clouds that cover its path."
+    },
+    {
+     "v": 5,
+     "text": "“I do not call the moon or the stars gods either, because they too hide their light at night when their time comes."
+    },
+    {
+     "v": 6,
+     "text": "“Listen, Terah, my father! I will tell you who is the God who made everything, and not these things that we regard as gods. Who is he, then, and what is he? He is the one who has made the heavens red and the sun golden,"
+    },
+    {
+     "v": 7,
+     "text": "“who has made the moon bright and the stars with it, who has made the dry land in the midst of many waters, and who has set you among the …”{a}"
+    },
+    {
+     "v": 8,
+     "text": "“Yet may God make himself known to us by his own act!”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:7",
+     "text": "A line is missing or damaged here in the Slavonic text. Some manuscripts add words about Abraham’s own thoughts being tested."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "While I was talking this way with my father Terah in the courtyard of my house, the voice of a Mighty One came down from heaven out of a cloud bursting with fire, and it cried out, “Abraham, Abraham!”"
+    },
+    {
+     "v": 2,
+     "text": "I said, “Here I am.” He said, “You are seeking, with the understanding of your heart, the God of gods, the Creator. I am he."
+    },
+    {
+     "v": 3,
+     "text": "“Go out from your father Terah, and get out of the house, so that you too are not killed in the sins of your father’s house.”"
+    },
+    {
+     "v": 4,
+     "text": "I left. I had not yet passed the courtyard door when a peal of great thunder burned him up, along with his house and everything in it, right down to the ground, for a distance of sixty feet.{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:4",
+     "text": "The Slavonic text says “forty cubits” (a cubit is about 18 inches, so about 60 feet or 18 meters). Late tradition reads the “Ur” of “Ur of the Chaldeans” as “fire,” so Abraham was brought out of the fire."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then a voice called to me a second time: “Abraham, Abraham!” I answered, “I am here.”"
+    },
+    {
+     "v": 2,
+     "text": "He said, “Look, it is I. Do not be afraid, for I was there before the ages. I am a mighty God, who made the light of the world."
+    },
+    {
+     "v": 3,
+     "text": "“I am a shield over you, and I am your helper. Go, and get for me a three-year-old heifer, a three-year-old she-goat, a three-year-old ram, a turtledove, and a pigeon, and offer me a clean sacrifice."
+    },
+    {
+     "v": 4,
+     "text": "“In this sacrifice I will lay out the ages before you and make known to you what is held in reserve, and you will see great things that you have not seen before, because you have loved seeking me out, and I have named you my Friend."
+    },
+    {
+     "v": 5,
+     "text": "“But for forty days keep away from every kind of food that comes from the fire, and from drinking wine, and from anointing yourself with oil. Then set out for me the sacrifice I have commanded, in the place that I will show you, on a high mountain."
+    },
+    {
+     "v": 6,
+     "text": "“There I will show you the ages that were created and set in place, made and renewed through my Word, and I will tell you what will happen in them to those who have done evil and to those who have lived righteously among the human race.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 10,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When I heard the voice of the one who spoke these words to me, I looked around, and look, there was not a living soul in sight. My spirit was terrified; my soul seemed to flee from me. I turned as stiff as stone and dropped to the ground, for I had no strength left to stand on the earth."
+    },
+    {
+     "v": 2,
+     "text": "As I lay there still facedown, I heard the Holy One’s voice saying, “Go, Jaoel,{a} and by my unspeakable Name raise up that man for me and strengthen him so that he recovers from his trembling.”"
+    },
+    {
+     "v": 3,
+     "text": "The angel whom he had sent to me came in the likeness of a man. He took me by my right hand and stood me on my feet, and said to me, “Stand up, Abraham, Friend of God who loves you. Do not let human trembling seize you. Look, I have been sent to you to strengthen you and bless you in the name of God, who loves you, the Creator of the heavenly and earthly things. Do not be afraid, and hurry to him."
+    },
+    {
+     "v": 4,
+     "text": "“I am called Jaoel by the one who moves what exists together with me on the seventh expanse above the firmament. I have the power of the unspeakable Name that dwells in me."
+    },
+    {
+     "v": 5,
+     "text": "“By his command I have been given charge to restrain the threatening attacks that the living creatures of the Cherubim{b} make on one another, and to teach those who bear him the song of the seventh night-hour of humankind."
+    },
+    {
+     "v": 6,
+     "text": "“I am ordained to hold back Leviathan,{c} because the attack and threat of every kind of snake and crawling thing are subject to me."
+    },
+    {
+     "v": 7,
+     "text": "“I was the one commissioned to set your father’s house ablaze with him inside it, because he revered dead idols."
+    },
+    {
+     "v": 8,
+     "text": "“I have been sent to bless you now, and the land that the Eternal One, whom you have called on, has prepared for you, and I have made my way across the earth for your sake."
+    },
+    {
+     "v": 9,
+     "text": "“Stand up, Abraham! Go without fear. Be very glad and rejoice, for I am with you. Eternal honor has been prepared for you by the Eternal One. Go, and carry out the sacrifices that were commanded."
+    },
+    {
+     "v": 10,
+     "text": "“Look, I have been appointed to be with you, and with the generation that is destined to spring from you; and Michael, together with me,{d} blesses you forever. Take heart and go!”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:2",
+     "text": "The Slavonic text spells the angel’s name in several ways. It is the Hebrew *Yahoel*, “Yah is God,” and it contains a shortened form of the name Yahweh. In the book the angel carries the power of God’s unspeakable Name. In chapter 17 God himself is addressed by this name."
+    },
+    {
+     "m": "b",
+     "ref": "10:5",
+     "text": "Hebrew *kerubim*, winged guardian beings that carry or guard the throne of God (Ezekiel 10; Genesis 3:24). The meaning of the word is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "10:6",
+     "text": "Hebrew *Livyatan*, “coiled one,” the great sea monster (Job 41; Isaiah 27:1)."
+    },
+    {
+     "m": "d",
+     "ref": "10:10",
+     "text": "Hebrew *Mikha’el*, “Who is like God?”"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I got up and saw the one who had taken my right hand and set me on my feet. His body looked like sapphire and his face like chrysolite, while the hair on his head was like snow. The turban on his head looked like a rainbow, and his clothing was like purple. A golden scepter was in his right hand."
+    },
+    {
+     "v": 2,
+     "text": "He called, “Abraham!” I answered, “Here I am, your servant.” He said, “Do not let my appearance alarm you, or my words, lest your soul be shaken. Come along with me, and I will walk with you until the sacrifice is finished, in a form you can see; after the sacrifice I will be invisible forever. Take heart, and come!”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 12,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The two of us walked on together for forty days and nights. I took no bread and no water, for the sight of the angel beside me was my food, and his speech was my drink."
+    },
+    {
+     "v": 2,
+     "text": "We came to the mountain of God, glorious Horeb.{a} I said to the angel, “O singer of the Eternal One, look, I have no sacrifice with me, and I know of no place for an altar on this mountain. How can I make an offering?”"
+    },
+    {
+     "v": 3,
+     "text": "He said to me, “Look around.” I looked around, and look, all the animals prescribed for the sacrifice were following us: the heifer, the female goat, the ram, the turtledove, and the pigeon."
+    },
+    {
+     "v": 4,
+     "text": "The angel called, “Abraham!” “Here I am,” I replied. He said, “Slaughter all of these. Cut the animals in two, setting each half opposite the other, but do not cut the birds in pieces."
+    },
+    {
+     "v": 5,
+     "text": "“Hand the pieces to the men I will show you standing beside you, for they are the altar on this mountain, to present a sacrifice to the Eternal One. But give the turtledove and the pigeon to me, for I will ascend on the wings of the birds, to show you heaven, and the earth, and the sea, and the abyss, and the underworld, and the Garden of Eden,{b} and its rivers, and the fullness of the whole world and its circle. You will look into all of it.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "12:2",
+     "text": "Hebrew *Chorev*, “dry” or “desolate”; it is the mountain also called Sinai (Exodus 3:1)."
+    },
+    {
+     "m": "b",
+     "ref": "12:5",
+     "text": "Hebrew *‘Eden*, “delight” (Genesis 2:8)."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I did everything as the angel commanded. I gave the divided animals to the angels who had come to us, but the angel took the birds. I waited for the evening sacrifice."
+    },
+    {
+     "v": 2,
+     "text": "An unclean bird flew down onto the carcasses, and I drove it away. The unclean bird spoke to me and said, “What are you doing, Abraham, on the holy heights, where no one eats or drinks and there is no human food? These beings consume everything with fire, and they will burn you up. Leave the man who is with you and run away, for if you go up to the heights they will destroy you.”"
+    },
+    {
+     "v": 3,
+     "text": "When I saw the bird speak, I asked the angel, “What is this, my lord?” He answered, “This is ungodliness; this is Azazel.”{a}"
+    },
+    {
+     "v": 4,
+     "text": "He said to the bird, “Disgrace on you, Azazel! Abraham’s lot is in heaven, but yours is on the earth. You chose and loved this place as the dwelling for your uncleanness, so the eternal Mighty Lord made you a dweller on the earth."
+    },
+    {
+     "v": 5,
+     "text": "“Through you every evil spirit of lies has its being, and through you come wrath and trials on the generations of the ungodly. For God, the Eternal Mighty One, has not allowed the bodies of the righteous to fall into your hand, so that by this means the life of the righteous and the ruin of the unclean may be made certain."
+    },
+    {
+     "v": 6,
+     "text": "“Listen, friend, and go away from me in shame! It has not been given to you to tempt all the righteous. Leave this man! You cannot lead him astray, for he is your enemy, and the enemy of all who follow you and love what you desire."
+    },
+    {
+     "v": 7,
+     "text": "“Look, the robe that once was yours in heaven is set aside for him, and the mortality that was his has passed to you.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "13:3",
+     "text": "Hebrew *‘Aza’zel*; the meaning is uncertain, perhaps “God strengthens” or “the rugged mountain.” It is the name of the desert demon to whom the scapegoat was sent in Leviticus 16. In the Enoch tradition, Azazel is the chief of the fallen angels."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The angel called, “Abraham!” I answered, “Here I am, your servant.” He said, “From this moment know that the Eternal One, whom you love, has chosen you. Take courage, and use this authority, as far as I direct you, against the one who slanders the truth."
+    },
+    {
+     "v": 2,
+     "text": "“Should I not be able to put to shame the one who has scattered the secrets of heaven over the earth and rebelled against the Mighty One?"
+    },
+    {
+     "v": 3,
+     "text": "“Say to him, ‘You are the burning coal in the earth’s furnace! Go, Azazel, into the trackless parts of the earth."
+    },
+    {
+     "v": 4,
+     "text": "“‘Your inheritance lies with those who exist beside you, born with the stars and the clouds, the people whose portion you are, who live through your being. Your enmity is their justification. So, because of your ruin, keep away from me.’”"
+    },
+    {
+     "v": 5,
+     "text": "I spoke the words that the angel had taught me. He said, “Abraham!” I said, “Here I am, your servant.”"
+    },
+    {
+     "v": 6,
+     "text": "The angel said to me, “Do not answer him, for God has given him power over those who do answer him.”"
+    },
+    {
+     "v": 7,
+     "text": "The angel spoke to me a second time and said, “Whatever he says to you, do not answer him, so that his will has no way in you, because the Eternal Mighty One has given him weight and will. Do not answer him.” I did what the angel commanded me, and however much he spoke to me, I answered him nothing at all."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 15,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When the sun went down, look, there was smoke like the smoke of a furnace. The angels who held the portions of the sacrifice went up from the top of the smoking furnace."
+    },
+    {
+     "v": 2,
+     "text": "The angel took me by the right hand and seated me on the pigeon’s right wing, and he took his own place on the turtledove’s left wing, birds that had been neither slaughtered nor divided. He carried me to the edges of the flaming fire, and we rose as with many winds to the heaven fixed above the surface. I saw in the air on the height where we had risen a strong light that I cannot describe."
+    },
+    {
+     "v": 3,
+     "text": "And look, in this light there was a fiercely burning fire, and in it many people of male appearance, all changing in look and shape, running and being transformed, and worshiping and crying out in a sound of words that I did not know."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 16,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I said to the angel, “Why have you brought me up here now? I cannot see any longer, because I have already grown weak and my spirit is leaving me.”"
+    },
+    {
+     "v": 2,
+     "text": "He said to me, “Stay near me; do not be afraid. The one whom you see coming straight toward us with a great voice of holiness is the Eternal One who loves you. But you cannot see him yourself."
+    },
+    {
+     "v": 3,
+     "text": "“Do not let your spirit grow faint because of the loud crying, for I am with you, strengthening you.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 17,
+   "paras": [
+    1,
+    5
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "He was still speaking when fire rushed toward us from every side, and inside the fire was a sound like the rushing of great waters, like the surge of the sea in a storm."
+    },
+    {
+     "v": 2,
+     "text": "The angel bent his head and worshiped with me. I wanted to throw myself to the earth, but the high place where we stood now rose straight up and now rolled downward."
+    },
+    {
+     "v": 3,
+     "text": "He said, “Only worship, Abraham, and sing the song I taught you.” There was no ground to fall upon, so I simply worshiped and sang the song he had taught me."
+    },
+    {
+     "v": 4,
+     "text": "“Say it without pausing,” he told me. I sang, and he sang the song along with me:"
+    },
+    {
+     "v": 5,
+     "text": "Eternal, powerful, Holy God,{a}\nthe only God, Most High!\nYou who are self-existent, who do not decay, who bear no stain,\nunmade, spotless, deathless,\nlacking nothing, shining by your own light,\nwith no father and no mother, never born,\nlofty One of fire,\nfriend of humankind, gracious, bountiful,\njealous for me and full of compassion."
+    },
+    {
+     "v": 6,
+     "text": "Eli,{b} that is, My God,\neternal, strong, holy Sabaoth,{c}\nmost glorious. God, God, God, God, Jaoel!{d}"
+    },
+    {
+     "v": 7,
+     "text": "You are the one my soul has loved!\nEverlasting guardian, blazing like flame,\nwhose voice rolls like thunder,\nwhose gaze flashes like lightning, who sees everything,\nwho hears the prayers of those who honor you."
+    },
+    {
+     "v": 8,
+     "text": "You turn from the pleas of those who burden you with the weight of their offenses.\nYou untangle the tumults of the world that rise from the wicked and the just in this perishing age,\nand you make the age of the righteous new."
+    },
+    {
+     "v": 9,
+     "text": "You, O Light, shone before the morning light upon your creatures,\nand so day came upon the earth.\nIn your heavenly dwellings no other light is needed,\nonly the unspeakable radiance from the lamps of your face."
+    },
+    {
+     "v": 10,
+     "text": "Receive my prayer and take pleasure in it,\nand the sacrifice too, which you prepared for yourself through me, your seeker.\nReceive me with favor, and show me, and teach me,\nand tell your servant what you have promised me."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "17:5",
+     "text": "The Slavonic text has *El*, the Hebrew word for “God.” It is the short form of *Elohim*, and means “power.”"
+    },
+    {
+     "m": "b",
+     "ref": "17:6",
+     "text": "Hebrew *Eli*, “my God.” The Slavonic text explains it itself: “that is, My God.”"
+    },
+    {
+     "m": "c",
+     "ref": "17:6",
+     "text": "Hebrew *Tseva’ot*, “hosts” or “armies.” The title “Yahweh of hosts” is common in the Bible; here it stands alone as a name of God."
+    },
+    {
+     "m": "d",
+     "ref": "17:6",
+     "text": "The four-fold *El* looks like a stand-in for the four letters of the name Yahweh. *Jaoel* is the name given in chapter 10 to the angel; here God himself is called by it."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I was still singing when the mouth of the fire on the surface leaped upward. I heard a voice like the roar of the sea, and the great quantity of fire could not quiet it."
+    },
+    {
+     "v": 2,
+     "text": "As the fire lifted into the height, I saw beneath it a throne of fire, and around the throne the all-seeing ones, singing the song. Under the throne I saw four living creatures of fire, singing. They shared one appearance, though each had four faces."
+    },
+    {
+     "v": 3,
+     "text": "Their faces looked like this: a lion, a man, an ox, and an eagle. Each body carried four heads, making sixteen faces for the four creatures between them. Every one had six wings, growing from the shoulders, the sides, and the hips."
+    },
+    {
+     "v": 4,
+     "text": "With the pair of wings at their shoulders they covered their faces, with the pair at their hips they covered their feet, and the middle pair they spread out to fly straight ahead. When their singing was done, they looked at one another and glared."
+    },
+    {
+     "v": 5,
+     "text": "The angel who was with me saw them glaring at each other. He left my side and ran to them. He turned each creature’s face away from the one that stood opposite, so that they would not see one another’s menacing looks. Then he taught them the song of peace, whose source is the Eternal One."
+    },
+    {
+     "v": 6,
+     "text": "I stood alone and watched. Behind the living creatures I saw a chariot with wheels of fire, every wheel full of eyes all around its rim. Above the wheels stood a throne wrapped in fire, and fire circled it."
+    },
+    {
+     "v": 7,
+     "text": "Look, a fire beyond description surrounded a host of flame. I heard its holy voice, which sounded like the voice of a man."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 19,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A voice spoke to me from the midst of the fire: “Abraham, Abraham!” “Here I am,” I answered."
+    },
+    {
+     "v": 2,
+     "text": "He said, “Consider the expanses below the firmament where you now stand, and see that on none of them is there anyone but the one you have sought and who has loved you.”"
+    },
+    {
+     "v": 3,
+     "text": "As he spoke, look, the expanses opened, and the heavens lay under me. On the seventh firmament, where I stood, I saw a widely spreading fire, and light, and dew, and a crowd of angels, and a power of unseen glory above the living creatures I had seen. No other being was there."
+    },
+    {
+     "v": 4,
+     "text": "I looked down from the mountain to the sixth firmament and saw a throng of angels made of spirit alone, bodiless, who carried out the orders of the fiery angels on the seventh firmament,{a} while I stood hanging above them."
+    },
+    {
+     "v": 5,
+     "text": "Look, this firmament held no other powers of any different form, only spirit-angels, like the power I had seen on the seventh. He ordered the sixth firmament to be taken away."
+    },
+    {
+     "v": 6,
+     "text": "Then, on the fifth firmament, I saw the powers of the stars, who do the tasks assigned to them, and the earth’s elements obeyed them."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "19:4",
+     "text": "The printed Slavonic text has “eighth,” which the editor thinks cannot be right and should be “seventh.”"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The Eternal Mighty One spoke to me again: “Abraham, Abraham!” “Here I am,” I answered."
+    },
+    {
+     "v": 2,
+     "text": "He said, “Look down from above at the stars beneath you. Count them for me, and tell me how many they are.” I said, “How could I? I am only a man of dust and ashes.”"
+    },
+    {
+     "v": 3,
+     "text": "He said to me, “Like the number of the stars, and like their power, I will make your seed a nation and a people, kept apart for me in my inheritance, which I share with Azazel.”"
+    },
+    {
+     "v": 4,
+     "text": "I said, “O Eternal Mighty One, let your servant speak in your presence, and do not let your anger burn against the one you have chosen. Look, before you brought me up here Azazel railed at me. How is it that, though he is not now before you, you have joined yourself to him?”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 21,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "He said to me, “Look now at the firmaments beneath your feet, and understand the creation foreshadowed in this expanse, the creatures that live on it, and the age that is made ready to match it.”"
+    },
+    {
+     "v": 2,
+     "text": "I looked beneath my feet and saw below me the sixth heaven and everything in it, and then the earth with its fruits, and what moved on it, and its living beings. I saw the strength of its people, the ungodliness of their souls, their righteous acts, and the first beginnings of their works."
+    },
+    {
+     "v": 3,
+     "text": "I saw the regions below, and the ruin found there, and the Abyss with its torments. I saw the sea there with its islands, its monsters and its fish, and Leviathan with his realm, his lair, his caverns, the world resting on him, his motions, and the devastations of the world that he causes."
+    },
+    {
+     "v": 4,
+     "text": "I saw streams there, and the swelling of their waters, and their bends."
+    },
+    {
+     "v": 5,
+     "text": "I saw the Garden of Eden there, and its fruits, the spring of the river that flows from it, its trees in flower, and those who had lived righteously. I saw their food and their happiness."
+    },
+    {
+     "v": 6,
+     "text": "I saw a great crowd there, men, women, and children, one half to the right of the picture and one half to the left."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 22,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I said, “Eternal One, Mighty One, what does this picture of the creatures mean?” He said to me, “This shows my intention for those who exist in the divine counsel of the world. It pleased me, and later I gave them orders through my Word."
+    },
+    {
+     "v": 2,
+     "text": "“Everything I had decided would come to be was laid out ahead of time in this picture, and stood before me before anything was created, just as you have seen.”"
+    },
+    {
+     "v": 3,
+     "text": "I said, “O mighty and eternal Lord, who are the people in this picture, here and there?” He said to me, “The ones on the left are the multitude of nations that have lived in the past and will live after you, some marked for judgment and restoration, others for vengeance and destruction at the world’s end."
+    },
+    {
+     "v": 4,
+     "text": "“But the ones on the right of the picture are the people set apart for me out of the nations that belong to Azazel. These are the ones I have ordained to be born from you and to be named my people."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 23,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Now look again in the picture to see who led Eve astray and what the fruit of the tree is. Then you will know what is coming, and how it will go for your seed among the nations at the close of the days of the age."
+    },
+    {
+     "v": 2,
+     "text": "“Whatever you cannot grasp, I will explain to you, for you please me, and I will tell you what I keep in my heart.”"
+    },
+    {
+     "v": 3,
+     "text": "I looked into the picture, and my gaze ran to the part beside the Garden of Eden. There I saw a man of great height and awesome breadth, matchless in appearance, with his arms around a woman, who had the same look and form as the man."
+    },
+    {
+     "v": 4,
+     "text": "They stood beneath a tree of Eden. Its fruit resembled a bunch of vine grapes. Behind the tree stood a figure shaped like a serpent, with hands and feet like a man’s and wings upon its shoulders, six on one side and six on the other. They were holding grapes from the tree in their hands, and the pair I had seen embracing were both eating it."
+    },
+    {
+     "v": 5,
+     "text": "I said, “Who are these who hold one another, and who is the one between them, and what is the fruit they are eating, O Mighty Eternal One?”"
+    },
+    {
+     "v": 6,
+     "text": "He said, “Here you see the human world: Adam,{a} and with him their longing on the earth, who is Eve.{b} The one between them stands for ungodliness, the start of their journey to ruin, that is, Azazel.”"
+    },
+    {
+     "v": 7,
+     "text": "I said, “O Eternal Mighty One, why did you give him the power to destroy the generation of human beings through what they do on the earth?”"
+    },
+    {
+     "v": 8,
+     "text": "He said to me, “To those who choose evil (and how I hated it in those who practice it), I gave him power over them, and that they should love him.”"
+    },
+    {
+     "v": 9,
+     "text": "I answered, “O Eternal Mighty One, why did you will that evil be desired in human hearts, when you are angry about what you yourself willed, and at the one who does what is worthless in your plan?”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "23:6",
+     "text": "Hebrew *Adam*, “human being,” from *adamah*, “ground” (Genesis 2:7)."
+    },
+    {
+     "m": "b",
+     "ref": "23:6",
+     "text": "Hebrew *Chavvah*, “living” (Genesis 3:20)."
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "He said to me, “I am angry at the nations because of you, and because of the people of your family who will be set apart after you. You can see in the picture the burden of fate that lies on them. I will tell you what will happen, and how much, in the last days. Now take in everything that is in the picture.”"
+    },
+    {
+     "v": 2,
+     "text": "I looked and saw what had been set before me in creation: Adam, with Eve beside him, and with them the crafty Adversary; and Cain,{a} who did lawless things through the Adversary; and Abel,{b} who was murdered, and the destruction that the lawless one brought on him."
+    },
+    {
+     "v": 3,
+     "text": "There I also saw Impurity, and those who crave her, and her filth, and their envy, and the fire of their decay in the deepest places of the earth."
+    },
+    {
+     "v": 4,
+     "text": "There I saw Theft, and those who rush to her, and the ordering of their punishment, the judgment of the Great Assize."
+    },
+    {
+     "v": 5,
+     "text": "There I saw naked men standing forehead to forehead, and their disgrace, and the lust they felt for one another, and their penalty."
+    },
+    {
+     "v": 6,
+     "text": "There I saw Desire, holding in her hand the head of lawlessness in all its kinds, with her contempt and her waste, appointed for destruction."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "24:2",
+     "text": "Hebrew *Qayin*, “acquired” or “smith” (Genesis 4:1)."
+    },
+    {
+     "m": "b",
+     "ref": "24:2",
+     "text": "Hebrew *Hevel*, “breath” or “vapor” (Genesis 4:2)."
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "There I saw the image of jealousy, the idol. It looked like carpentry of the kind my father used to make, but its figure was of gleaming bronze. A man stood before it and bowed down to it. In front of him was an altar, and on the altar lay a boy, killed in the idol’s presence."
+    },
+    {
+     "v": 2,
+     "text": "I asked him, “What is this idol? And the altar? Who are the ones being sacrificed, and who is doing the sacrificing? And what is that temple I see, so skillfully built, with a beauty like the glory beneath your throne?”"
+    },
+    {
+     "v": 3,
+     "text": "He said, “Listen, Abraham. What you see, the temple and the altar and the beauty, is my plan for the priesthood of my glorious Name. In it every prayer of every person finds its home, along with the rise of kings and prophets and every sacrifice I will command to be offered to me by my people who will come from your line."
+    },
+    {
+     "v": 4,
+     "text": "“But the statue you saw is my anger, the anger the people who will come from you stir up in me. And the man you saw killing is the one who inspires murderous sacrifices, which testify to me, from the creation’s beginning, of the final judgment.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 26,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I said, “O Eternal Mighty One, why did you arrange for it to be this way, and then announce what you know?”"
+    },
+    {
+     "v": 2,
+     "text": "He said to me, “Listen, Abraham. Understand what I say, and give me your answer to my question. Why did your father Terah refuse to hear your voice, and why did he not give up his devilish idolatry until he died, and all his household with him?”"
+    },
+    {
+     "v": 3,
+     "text": "I said, “O Eternal Mighty One, it was only because he did not wish to listen to me. I, for my part, did not follow what he did.”"
+    },
+    {
+     "v": 4,
+     "text": "He said to me, “Listen, Abraham. Just as your father’s will is within him, and your will is within you, so too the will of my purpose is within me, prepared for the days to come, before you know about them or see with your own eyes what lies ahead in them. Look in the picture to see what your descendants will be.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 27,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I looked and saw: look, the picture shook, and from its left side a pagan people came out. They plundered those on the right, men, women, and children. Some they butchered; others they carried off for themselves."
+    },
+    {
+     "v": 2,
+     "text": "Look, I saw them rush at them through four gateways, and they set fire to the temple and robbed it of the holy things inside."
+    },
+    {
+     "v": 3,
+     "text": "I said, “O Eternal One, look, hordes of pagans are plundering the people who come from me, whom you have accepted. They kill some and keep others as strangers. They have burned the temple with fire, and they steal and wreck its beautiful things. O Eternal Mighty One, if this is how it is, why have you now wounded my heart, and why must it be so?”"
+    },
+    {
+     "v": 4,
+     "text": "He said to me, “Listen, Abraham. What you have seen will come to pass because of your seed, who make me angry through the statue you saw and through the killing of humans in the picture, in their zeal for the temple. It will be just as you saw.”"
+    },
+    {
+     "v": 5,
+     "text": "I said, “O Eternal Mighty One, let the evil deeds done in ungodliness pass away for now, and show me instead those who obeyed the commandments, the works of righteousness. For you are able to do this.”"
+    },
+    {
+     "v": 6,
+     "text": "He told me, “The time of the righteous comes to them first through the holiness that comes from kings and just rulers, whom I created in the beginning so that rulers might arise from them among the people. But from these descend people who look after only their own concerns, as I have shown you and you have seen.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 28,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I answered, “O Mighty One, made holy by your power, be gracious to my request. It was for this that you brought me up here, so show me. As you have raised me to your height, so tell me, your beloved, as much as I ask: will what I saw come upon them for a long time?”"
+    },
+    {
+     "v": 2,
+     "text": "He showed me a great multitude of his people, and said, “Because of them I will be provoked four times over, as you saw, and in those times I will carry out my punishment for their deeds."
+    },
+    {
+     "v": 3,
+     "text": "“But in the fourth exit, lasting a hundred years plus one hour of the age (that hour is itself a hundred years), they will suffer misfortune among the pagans, though for a single hour there will be mercy and honor, as among the pagans.”{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "28:3",
+     "text": "The Slavonic text has “contumely” (“shame”). The editor suggests an ancient scribe misread a Greek word, and that “in mercy and honor” was meant. “One hour of the age” is a hundred years; compare chapters 29 and 30, where the present age is divided into twelve such hours, that is, about twelve hundred years."
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I said, “Eternal One, Mighty One, how long is an hour of the age?”"
+    },
+    {
+     "v": 2,
+     "text": "He said, “Twelve years{a} I have set for this godless age, to rule among the pagans and within your seed. Until the end of the times it will go as you saw. Calculate, and understand, and study the picture.”"
+    },
+    {
+     "v": 3,
+     "text": "I looked, and I saw a man coming out from the left side, from among the pagans.{b} Crowds of men, women, and children came out from among the pagans and bowed to him."
+    },
+    {
+     "v": 4,
+     "text": "While I kept watching, many came out from the right side. Some mocked the man, some hit him, and others bowed to him."
+    },
+    {
+     "v": 5,
+     "text": "I saw these others bowing, and Azazel ran up and bowed to him too, and after he had kissed the man’s face he turned and stood behind him."
+    },
+    {
+     "v": 6,
+     "text": "I said, “O Eternal Mighty One, who is the man who is mocked and beaten and honored by the pagans, together with Azazel?”"
+    },
+    {
+     "v": 7,
+     "text": "He answered, “Listen, Abraham. The man you saw mocked, beaten, and then honored is the relief that the pagans will give to the people who come from you, in the last days, during this twelfth hour of the godless age."
+    },
+    {
+     "v": 8,
+     "text": "“When my final age reaches its twelfth year I will raise up this man out of your line, whom you saw come out from my people. Everyone will follow him, and those I have called will join him, those who change their minds."
+    },
+    {
+     "v": 9,
+     "text": "“What it means that you saw some come out from the left side of the picture is this: many from the pagans will place their hope in him. And of your seed on the right side, some mocking and striking and others bowing down, many will stumble over him."
+    },
+    {
+     "v": 10,
+     "text": "“But he is putting to the test those of your seed who have bowed to him, in that twelfth hour of the end, to shorten the age of ungodliness."
+    },
+    {
+     "v": 11,
+     "text": "“Before the age of the righteous starts to grow, my judgment will fall on the lawless pagans by the hand of the people from your seed who were set apart for me. In those days I will bring ten plagues upon every creature of the earth, in the form of misfortune and sickness and the groaning of their souls in grief. I will bring this much upon the generations of people who live on it, for the provocation and corruption of its creatures, by which they provoke me."
+    },
+    {
+     "v": 12,
+     "text": "“Then righteous people from your seed will remain, in the number that I alone keep secret, hurrying, in the glory of my Name, toward the place made ready for them, which you saw laid waste in the picture. They will live and be made secure by sacrifices and by gifts of righteousness and of truth, in the age that belongs to the righteous, and they will rejoice in me forever."
+    },
+    {
+     "v": 13,
+     "text": "“They will destroy those who destroyed them and mock those who mocked them. They will spit in the faces of those who slandered them, while I scorn those people, and the righteous will see me full of joy, celebrating with my people and welcoming those who come back to me in repentance."
+    },
+    {
+     "v": 14,
+     "text": "“See, Abraham, what you have seen. Listen to what you have heard. Take in fully what you have learned. Go to your inheritance, and look, I am with you always.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "29:2",
+     "text": "The editor suggests that “hours” should be read here for “years,” as the age is divided into twelve hours (see 28:3). If “years” is kept, each “year” may stand for a hundred years."
+    },
+    {
+     "m": "b",
+     "ref": "29:3",
+     "text": "The passage about the man who is insulted, beaten, and worshiped, which runs on from here, is printed in italics in the English edition on which this translation is based. Its editor, G. H. Box, considers it a Jewish-Christian addition to the older text and reads the man as Jesus."
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "He was still speaking when I found myself on the ground. I said, “Eternal One, Mighty One, I no longer have the glory I had on high, and what my soul yearned to grasp in my heart, I still cannot grasp.”"
+    },
+    {
+     "v": 2,
+     "text": "He said to me, “I will tell you what your heart desires, since you wanted to see the ten plagues that I have prepared for the pagans, kept ready for the passing of the twelfth hour of the earth. Listen to what I reveal to you, and so it will come to pass."
+    },
+    {
+     "v": 3,
+     "text": "“The first is the agony of great distress. The second is the burning of many cities. The third is the death and plague of livestock. The fourth is famine across the entire world and among its peoples. The fifth is the killing of its rulers, by earthquake and by the sword. The sixth is the multiplying of hail and snow. The seventh: wild animals will be their tomb. The eighth: famine and plague will take turns destroying them. The ninth: the sword, and flight in terror. The tenth: thunder, voices, and an earthquake that destroys.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 31,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Then I will blow the trumpet from the sky and send my Chosen One, who carries my whole power in himself in a single measure. He will call together my despised people from among the nations, and I will burn in fire those who mocked them and who held rule over them in this age."
+    },
+    {
+     "v": 2,
+     "text": "“Those who have wrapped me in mockery I will hand over to the scorn of the age to come. I have made them ready as fuel for the fire of Hades, and for endless wandering to and fro in the air of the underworld below the earth, their bodies full of worms.{a}"
+    },
+    {
+     "v": 3,
+     "text": "“For through them the righteous will see the justice of the Creator, the ones who chose to do my will and openly kept my commandments. They will rejoice with gladness at the fall of those who remain, who went after idols and their murders."
+    },
+    {
+     "v": 4,
+     "text": "“For they will rot inside the body of the wicked worm Azazel and be burned by the flame of Azazel’s tongue. I had hoped they would turn to me in repentance, and not love and praise the foreign god, nor cling to one who was never their allotted lord, but they have abandoned the mighty Lord.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "31:2",
+     "text": "From the words “the body filled with worms” to the end of the book, the text is found in two of the Slavonic manuscripts (A and K) but not in manuscript S, the one this edition follows most closely."
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“So listen, Abraham, and see: look, your seventh generation will go out with you into a foreign land, and they will make slaves of them and treat them badly, for what is, so to speak, a single hour of the age of wickedness. But the nation they serve I will judge.”{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "32:1",
+     "text": "Abraham’s “seventh generation” counted with Abraham: Abraham, Isaac, Jacob, Levi, Kohath, Amram, and Moses.  One manuscript (K) ends with a further line: Abraham heard the words of the Lord and took them into his heart."
+    }
+   ]
+  }
+ ]
+}
