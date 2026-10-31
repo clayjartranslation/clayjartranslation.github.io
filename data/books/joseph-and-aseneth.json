@@ -1,0 +1,1857 @@
+{
+ "id": "joseph-and-aseneth",
+ "name": "Joseph and Aseneth",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the Greek of *Joseph and Aseneth* as printed in the Online Critical Pseudepigrapha text (the Greek edition of the shorter form of the book, which follows the Greek manuscript tradition; the Greek text is public domain). Where the Greek is damaged or missing, as in chapter 11, the sense was taken from the public-domain English translation by E. W. Brooks (*Joseph and Asenath*, SPCK, London, 1918). Phrases that stand in square brackets in the printed Greek, because some manuscripts lack them, are translated here without brackets. The English here is new, made directly from the Greek, and it was not taken from the translations in *The Old Testament Pseudepigrapha* or from any other copyrighted translation. The Greek *kyrios* is rendered “Lord” and *theos* “God,” since no Hebrew name of God stands in the Greek text. **Chapters and verses.** The Greek is divided into 29 chapters, and the verse numbers here follow those of the Greek text as printed, with two exceptions: the long Greek chapter 23 is divided into chapters 23 and 24 here, as in the usual chapter numbering of this book, and the verses of chapter 11 are numbered for this edition. Months are given as the Greek numbers them, with the nearest modern months; times and numbers are given in modern form where the original gives them differently. **About the book.** *Joseph and Aseneth* is a Jewish romance that fills in a gap in Genesis 41:45, which says that Pharaoh gave Joseph “Asenath, the daughter of Potiphera, priest of On” as his wife. It tells how the proud Egyptian virgin Aseneth, who despised men, saw Joseph, repented of her idols, was visited by a heavenly man who gave her honey of immortality, and married Joseph, and how Pharaoh’s son plotted to take her by force and was defeated. The book is usually dated between the 1st century BC and the 2nd century AD and was probably written in Greek, in Egypt. Some scholars see Christian reworking in it, and the oldest manuscripts are Byzantine and later; more than ninety are known, with versions in Syriac, Armenian, Latin, Slavonic, and other languages. It is not in the Jewish, Catholic, Orthodox, or Protestant canons. Dates are given as BC/AD. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "During the first of the seven plentiful years, in the second month (April–May),{a} on the fifth day of the month, Pharaoh{b} sent Joseph{c} out to make a circuit of the whole land of Egypt.{d}"
+    },
+    {
+     "v": 2,
+     "text": "In the fourth month (June–July), on the eighteenth day of the month, in that first year, Joseph came to the territory of Heliopolis.{e}"
+    },
+    {
+     "v": 3,
+     "text": "He was gathering in the grain of that region, and it was piled up like the sand of the sea."
+    },
+    {
+     "v": 4,
+     "text": "Now in that city there was a man who was a satrap of Pharaoh, the chief of all Pharaoh’s satraps and nobles."
+    },
+    {
+     "v": 5,
+     "text": "This man was very rich, wise, and gentle; he was a counselor to Pharaoh. His name was Pentephres,{f} and he was a priest of Heliopolis."
+    },
+    {
+     "v": 6,
+     "text": "Pentephres had a daughter, a virgin about eighteen years old, tall and lovely, and more strikingly beautiful than any other virgin on earth."
+    },
+    {
+     "v": 7,
+     "text": "She was not at all like the daughters of the Egyptians; in every way she was like the daughters of the Hebrews."
+    },
+    {
+     "v": 8,
+     "text": "She was tall like Sarah,{g} lovely like Rebecca,{h} and beautiful like Rachel.{i} The name of this virgin was Aseneth.{j}"
+    },
+    {
+     "v": 9,
+     "text": "The report of her beauty spread through that whole country and to its farthest edges, and all the sons of the nobles, the satraps, and the kings wanted to marry her; they were all young men."
+    },
+    {
+     "v": 10,
+     "text": "There was bitter rivalry among them over her, and they tried to make war on one another because of Aseneth."
+    },
+    {
+     "v": 11,
+     "text": "The firstborn son of Pharaoh heard about her, and he kept begging his father to give her to him as his wife."
+    },
+    {
+     "v": 12,
+     "text": "He would say to him, “Give me Aseneth, the daughter of Pentephres, the priest of Heliopolis, to be my wife.”"
+    },
+    {
+     "v": 13,
+     "text": "His father Pharaoh answered him, “Why are you looking for a wife beneath you? Are you not king of the whole world?"
+    },
+    {
+     "v": 14,
+     "text": "Look, the daughter of King Joakim{k} is already promised to you, and she is a queen of great beauty. Take her for your wife.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "The Greek counts months by number, as the Hebrew calendar does, and gives no month name. The Hebrew year is lunar, so each month falls across two months of our calendar. The book does not say whether it counts from the spring or from another starting point; the spring-start count is used here. “Second month” corresponds to Iyyar (April–May) and “fourth month” (verse 2) to Tammuz (June–July)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "“Pharaoh” is the Egyptian royal title *per-aa*, “great house.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Hebrew *Yosef*, “may he add” (Genesis 30:24)."
+    },
+    {
+     "m": "d",
+     "ref": "1:1",
+     "text": "Hebrew *Mitsrayim*; the meaning of the name is unknown."
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Greek *Heliopolis* means “city of the sun.” The Egyptian name was *Iunu*, and the Bible calls it On (Genesis 41:45)."
+    },
+    {
+     "m": "f",
+     "ref": "1:5",
+     "text": "Greek form of the Egyptian name that appears in Genesis as Potiphera; it is usually explained as “the one whom (the sun god) Re has given.”"
+    },
+    {
+     "m": "g",
+     "ref": "1:8",
+     "text": "Hebrew *Sarah*, “princess.”"
+    },
+    {
+     "m": "h",
+     "ref": "1:8",
+     "text": "Hebrew *Rivqah*; the meaning is uncertain, perhaps “tied” or “a rope.”"
+    },
+    {
+     "m": "i",
+     "ref": "1:8",
+     "text": "Hebrew *Rachel*, “ewe.”"
+    },
+    {
+     "m": "j",
+     "ref": "1:8",
+     "text": "Greek *Asenet*, from the Egyptian name given in Genesis 41:45 as Asenath. It is usually explained as “she belongs to (the goddess) Neith.”"
+    },
+    {
+     "m": "k",
+     "ref": "1:14",
+     "text": "Greek form of Jehoiakim, Hebrew *Yehoyaqim*, “Yahweh raises up.” The book places him anachronistically at Pharaoh’s court; the passage may be a later insertion."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Aseneth despised every man and spat on them, and no man had ever seen her. For next to Pentephres’ house there stood a tower, very large and very high."
+    },
+    {
+     "v": 2,
+     "text": "On top of the tower was an upper floor containing ten rooms."
+    },
+    {
+     "v": 3,
+     "text": "The first room was large and handsome. Its floor was paved with purple stone, and its walls were faced with costly stones of many colors."
+    },
+    {
+     "v": 4,
+     "text": "The ceiling of that room was gold. Inside it stood countless gods of the Egyptians, made of gold and silver."
+    },
+    {
+     "v": 5,
+     "text": "Aseneth revered all of them, and feared them, and offered sacrifices to them."
+    },
+    {
+     "v": 6,
+     "text": "The second room held all of Aseneth’s ornaments and her chests."
+    },
+    {
+     "v": 7,
+     "text": "In it there was a great deal of gold and silver, clothing woven with gold thread, precious chosen stones, and fine linen."
+    },
+    {
+     "v": 8,
+     "text": "There lay all the finery of her maidenhood."
+    },
+    {
+     "v": 9,
+     "text": "The third room was full of all the good things of the earth; it was Aseneth’s storeroom."
+    },
+    {
+     "v": 10,
+     "text": "The other seven rooms were occupied by seven virgins, one to each room."
+    },
+    {
+     "v": 11,
+     "text": "These waited on Aseneth. They were all of her age, because they had been born on the same night as Aseneth, and they were as beautiful as the stars of heaven. No man had ever spoken with them, nor even a male child."
+    },
+    {
+     "v": 12,
+     "text": "There were three windows in the large room of Aseneth where her maidenhood was kept."
+    },
+    {
+     "v": 13,
+     "text": "One window looked out on the courtyard to the east, the second looked north to the street, and the third faced south."
+    },
+    {
+     "v": 14,
+     "text": "A golden couch stood in the room, facing east."
+    },
+    {
+     "v": 15,
+     "text": "The couch was spread with a purple covering woven with gold thread, in blue and fine linen."
+    },
+    {
+     "v": 16,
+     "text": "On this couch Aseneth slept alone, and no man or woman ever sat on it except Aseneth herself."
+    },
+    {
+     "v": 17,
+     "text": "A great courtyard lay all around the house, with a very high wall around the courtyard, built of great squared stones."
+    },
+    {
+     "v": 18,
+     "text": "The courtyard had four iron-plated gates, and each was guarded by eighteen strong young armed men."
+    },
+    {
+     "v": 19,
+     "text": "Along the wall inside the courtyard were planted fine fruit trees of every kind, and all their fruit was ripe, for it was harvest time."
+    },
+    {
+     "v": 20,
+     "text": "On the right side of the courtyard was a rich spring of water. Below the spring was a great basin that received its water, and from there a stream ran through the middle of the courtyard and watered all the trees in it."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In the fourth month (June–July), on the eighteenth day of the month, Joseph came to the territory of Heliopolis."
+    },
+    {
+     "v": 2,
+     "text": "When he drew near the city, Joseph sent twelve men ahead of him to Pentephres, the priest of Heliopolis, with this message:"
+    },
+    {
+     "v": 3,
+     "text": "“I will stay with you today, since it is midday, the time for the noon meal, and the heat of the sun is great, and I would like to rest under your roof.”"
+    },
+    {
+     "v": 4,
+     "text": "Pentephres heard this and was overjoyed, and said, “Blessed be the Lord,{a} the God of Joseph.”"
+    },
+    {
+     "v": 5,
+     "text": "He called the steward of his house and said to him,"
+    },
+    {
+     "v": 6,
+     "text": "“Hurry and get my house ready, and prepare a great banquet, because Joseph, the mighty one of God, is coming to us today.”"
+    },
+    {
+     "v": 7,
+     "text": "Aseneth heard that her parents had come back from the fields of their estate, and she was glad, and said,"
+    },
+    {
+     "v": 8,
+     "text": "“I must go and see my father and mother, since they have come back from the fields of our estate.”"
+    },
+    {
+     "v": 9,
+     "text": "Aseneth hurried and put on a robe of fine linen, blue and woven with gold. She tied on a golden belt, put bracelets on her arms and ankles, wore golden trousers, and hung a necklace around her neck."
+    },
+    {
+     "v": 10,
+     "text": "Costly stones were set all over these things, with the names of the Egyptian gods carved everywhere on the bracelets and the stones; and the faces of the idols were engraved in the stones."
+    },
+    {
+     "v": 11,
+     "text": "On her head she put a tiara and a diadem, and bound it tight around her temples, and wrapped her head in a veil."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:4",
+     "text": "The Greek text always says *kyrios*, “Lord,” and *theos*, “God.” No Hebrew name of God appears in it, so the CJT keeps “Lord” and “God” here and does not write “Yahweh.” In the Jewish Bible the God of Joseph is Yahweh."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "She hurried down the stairs from her upper floor, went to her father and mother, and greeted them."
+    },
+    {
+     "v": 2,
+     "text": "Pentephres and his wife were filled with joy over their daughter Aseneth, because her parents saw her dressed like a bride of God."
+    },
+    {
+     "v": 3,
+     "text": "They brought out all the good things they had carried back from their estate in the fields, and gave them to their daughter."
+    },
+    {
+     "v": 4,
+     "text": "Aseneth was delighted with the produce, the grapes, the dates, the pigeons, the pomegranates, and the figs, because they were all beautiful."
+    },
+    {
+     "v": 5,
+     "text": "Pentephres said to his daughter Aseneth, “Child.” She said, “Here I am, my lord.” He said to her, “Sit between us, and I will tell you what I have to say.”"
+    },
+    {
+     "v": 6,
+     "text": "Aseneth sat down between her father and mother."
+    },
+    {
+     "v": 7,
+     "text": "Her father Pentephres took her right hand in his right hand and said, “Child.” Aseneth said, “Let my lord and father speak.”"
+    },
+    {
+     "v": 8,
+     "text": "Pentephres said to her, “Look, Joseph, the mighty one of God, is coming to us today. He is the ruler of the whole land of Egypt; Pharaoh appointed him ruler over our whole land, and he distributes grain to the whole country and saves it from the famine that is coming."
+    },
+    {
+     "v": 9,
+     "text": "Joseph is a man who reveres God, self-controlled, and a virgin as you are today. He is a man powerful in wisdom and knowledge, the spirit of God is on him, and the favor of the Lord is with him."
+    },
+    {
+     "v": 10,
+     "text": "Come now, my child, and I will give you to him as his wife; you will be his bride, and he will be your bridegroom forever.”"
+    },
+    {
+     "v": 11,
+     "text": "When Aseneth heard her father’s words, a great red sweat poured over her; she flared up in a great rage, looked at her father with a sideways glare, and said,"
+    },
+    {
+     "v": 12,
+     "text": "“Why does my lord and father speak like this? Does he want to hand me over, like a captive, to a foreigner, a fugitive, and a man who was sold?"
+    },
+    {
+     "v": 13,
+     "text": "Is he not the shepherd’s son out of the land of Canaan,{a} who was himself abandoned by his father?"
+    },
+    {
+     "v": 14,
+     "text": "Is he not the one who slept with his mistress, and his master threw him into the dark prison, and Pharaoh brought him out of prison because he interpreted his dream?"
+    },
+    {
+     "v": 15,
+     "text": "No! I will marry the king’s firstborn son, because he is king of the whole earth.”"
+    },
+    {
+     "v": 16,
+     "text": "When Pentephres heard this, he was ashamed to say anything more to his daughter about Joseph, since she had answered him with such arrogance and anger."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:13",
+     "text": "Hebrew *Kena‘an*; the meaning is uncertain, possibly “lowland” or “merchant.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Just then a young man ran out from Pentephres’ servants and said, “Look, Joseph is at the doors of our courtyard.”"
+    },
+    {
+     "v": 2,
+     "text": "Aseneth fled from the sight of her parents, and went up to the upper floor and into her room, and stood at the great window that looked east, to see the one who was coming into her father’s house."
+    },
+    {
+     "v": 3,
+     "text": "Pentephres and his wife and all his relatives went out to meet Joseph."
+    },
+    {
+     "v": 4,
+     "text": "The gates of the courtyard that face east were opened, and Joseph came in, riding in Pharaoh’s second chariot."
+    },
+    {
+     "v": 5,
+     "text": "Four horses were yoked to it, white as snow, with golden bridles, and the chariot was canopied in gold."
+    },
+    {
+     "v": 6,
+     "text": "Joseph was dressed in a splendid white tunic, and the robe he wore over it was purple linen woven with gold. A golden crown was on his head, and around the crown were twelve chosen stones, and over the stones rose twelve golden rays; and a royal scepter was in his right hand."
+    },
+    {
+     "v": 7,
+     "text": "He also held out an olive branch, heavy with fruit."
+    },
+    {
+     "v": 8,
+     "text": "Joseph entered the courtyard, and the gates were shut."
+    },
+    {
+     "v": 9,
+     "text": "Any man or woman who was a stranger stayed outside, because the gatekeepers had closed the doors."
+    },
+    {
+     "v": 10,
+     "text": "Pentephres, his wife, and all his relatives came, all but their daughter Aseneth, and bowed to Joseph with their faces to the ground."
+    },
+    {
+     "v": 11,
+     "text": "Joseph stepped down from his chariot and gave them his right hand in greeting."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Aseneth saw Joseph, she was pierced to the soul; her insides twisted, her knees went slack, and her whole body shook. She was seized with great fear, and she groaned and said,"
+    },
+    {
+     "v": 2,
+     "text": "“Where can I go, and where can I hide from his face? How will Joseph, the son of God,{a} ever look at me, since I have spoken evil of him?"
+    },
+    {
+     "v": 3,
+     "text": "Where can I flee and hide? He sees every hiding place, and nothing hidden escapes him, because of the great light within him."
+    },
+    {
+     "v": 4,
+     "text": "Now may the God of Joseph be merciful to me, because I spoke wicked words in ignorance."
+    },
+    {
+     "v": 5,
+     "text": "What am I to do, wretched as I am? Did I not say, ‘Here comes Joseph, the shepherd’s son from the land of Canaan’? And now, look, the sun has come down from heaven to us in his chariot and entered our house today."
+    },
+    {
+     "v": 6,
+     "text": "What a fool I was, and how reckless, to despise him and to say wicked things about him, not knowing that Joseph is a son of God."
+    },
+    {
+     "v": 7,
+     "text": "For what man will ever father such beauty, and what womb will bear such light? Wretched fool that I am, who said wicked words to my father."
+    },
+    {
+     "v": 8,
+     "text": "Now let my father give me to Joseph as a maidservant and a slave, and I will serve him forever.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:2",
+     "text": "Joseph is called a “son of God” as a man close to God. Compare 21:3."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Joseph entered the house of Pentephres and sat on a chair and washed his feet. A table was set for him separately, because he did not eat with the Egyptians; it was an abomination to him."
+    },
+    {
+     "v": 2,
+     "text": "Joseph said to Pentephres and to all his relatives, “Who is that woman standing in the upper room by the window? Let her leave this house.”"
+    },
+    {
+     "v": 3,
+     "text": "He was afraid she might also pester him, because all the women and daughters of the nobles and satraps of the whole land of Egypt pestered him, wanting to sleep with him."
+    },
+    {
+     "v": 4,
+     "text": "Many Egyptian women and daughters who saw Joseph suffered terribly over his beauty, and they sent their envoys to him with gold and silver and costly gifts."
+    },
+    {
+     "v": 5,
+     "text": "Joseph sent all of it back with threats and insults, saying, “I will not sin before the God of Israel.”{a}"
+    },
+    {
+     "v": 6,
+     "text": "He kept the face of Jacob,{b} his father, always before his eyes, and he remembered his father’s commands. For Jacob used to say to Joseph and his brothers, “Children, guard yourselves carefully against any foreign woman; do not unite with her, for that is ruin and corruption.”"
+    },
+    {
+     "v": 7,
+     "text": "This is why Joseph said, “Let that woman leave this house.”"
+    },
+    {
+     "v": 8,
+     "text": "Pentephres said to him, “My lord, the woman you saw in the upper room is not a stranger, but our daughter, a virgin who hates every man. No other man has ever seen her except you, alone, today."
+    },
+    {
+     "v": 9,
+     "text": "If you like, she will come and greet you, for our daughter is your sister.”"
+    },
+    {
+     "v": 10,
+     "text": "Joseph was overjoyed, because Pentephres had said, “She is a virgin who hates every man.”"
+    },
+    {
+     "v": 11,
+     "text": "Joseph answered Pentephres and his wife, “If she is really your daughter, let her come, for she is my sister, and from today I will love her as my sister.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:5",
+     "text": "Hebrew *Yisra’el*, “he strives with God” or “God strives” (Genesis 32:28), the name God gave to Jacob."
+    },
+    {
+     "m": "b",
+     "ref": "7:6",
+     "text": "Hebrew *Ya‘aqov*, “he grasps the heel,” and so “he supplants” (Genesis 25:26; 27:36)."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Aseneth’s mother went up to the upper floor and brought Aseneth to Joseph. Pentephres said to his daughter Aseneth, “Greet your brother, for he is a virgin as you are today, and he hates every foreign woman as you hate every foreign man.”"
+    },
+    {
+     "v": 2,
+     "text": "Aseneth said to Joseph, “Greetings, my lord, blessed by God Most High.”{a} Joseph said to her, “May God, who gives life to everything, bless you.”"
+    },
+    {
+     "v": 3,
+     "text": "Pentephres said to Aseneth, “Go to him and kiss your brother.”"
+    },
+    {
+     "v": 4,
+     "text": "But when she came forward to kiss Joseph, he stretched out his right hand, laid it against her chest, and said,"
+    },
+    {
+     "v": 5,
+     "text": "“It is not fitting for a man who fears God, who blesses the living God with his mouth, eats the blessed bread of life, drinks the blessed cup of immortality, and is anointed with the blessed oil of incorruption, to kiss a foreign woman, one who blesses dead and deaf idols with her mouth, eats the bread of strangling from their table, drinks the cup of ambush from their libation, and is anointed with the oil of destruction."
+    },
+    {
+     "v": 6,
+     "text": "A man who fears God may kiss his mother, and the sister from his own tribe and family, and the wife who shares his bed, all of whom bless the living God with their mouths."
+    },
+    {
+     "v": 7,
+     "text": "In the same way, it is not fitting for a woman who fears God to kiss a foreign man, because that is an abomination before God.”"
+    },
+    {
+     "v": 8,
+     "text": "When Aseneth heard Joseph’s words, she was deeply grieved. She sighed, staring at Joseph, and her eyes filled with tears."
+    },
+    {
+     "v": 9,
+     "text": "Joseph saw her and felt great pity for her, because Joseph was gentle and merciful and feared the Lord. He raised his right hand over her head and said,"
+    },
+    {
+     "v": 10,
+     "text": "“Lord God of my father Israel, Most High, Mighty One, who gives life to all things and called them out of darkness into light, out of error into truth, and out of death into life: you yourself, Lord, give life to this virgin and bless her."
+    },
+    {
+     "v": 11,
+     "text": "Renew her by your Spirit, remold her with your hidden hand, and bring her to life again with your life. Let her eat your bread of life and drink your cup of blessing, she whom you chose before she was born, and let her enter your resting place, which you have prepared for your chosen ones.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:2",
+     "text": "Greek *Hypsistos*, “Most High,” which translates the Hebrew *El Elyon*, “God Most High” (Genesis 14:18–20)."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Aseneth was very happy at Joseph’s blessing. She hurried up to her room and collapsed on her couch, sick, for joy, grief, and great fear were all mixed in her, and a steady sweat poured over her at hearing the words Joseph had spoken to her, in the name of the Most High God."
+    },
+    {
+     "v": 2,
+     "text": "She wept bitterly and at length, and she repented of her gods, whom she had worshiped, and waited for evening to come."
+    },
+    {
+     "v": 3,
+     "text": "Meanwhile Joseph ate and drank, and said to his servants, “Harness the horses to the chariot,” for he said, “I will go and make the circuit of the whole city and the land.”"
+    },
+    {
+     "v": 4,
+     "text": "Pentephres said to Joseph, “My lord, please stay the night here today, and go on your way in the morning.”"
+    },
+    {
+     "v": 5,
+     "text": "Joseph answered, “No, I will leave today, because this is the very day when God began his works, and on the eighth day I will come back to you again and stay here.”{a}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:5",
+     "text": "“The eighth day” is counted from the day of the visit, so that Joseph returns after one full week."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Then Pentephres and his family left for their own estate."
+    },
+    {
+     "v": 2,
+     "text": "Aseneth was left alone with her virgins. She was despondent and wept until the sun set. She ate no bread and drank no water, but while everyone else slept, she alone stayed awake."
+    },
+    {
+     "v": 3,
+     "text": "She opened her door, went down to the gate, and found the gatekeeper asleep with her children."
+    },
+    {
+     "v": 4,
+     "text": "Aseneth hurried, took down the skin curtain from the door, filled it with ashes, carried it up to her room, and set it on the floor."
+    },
+    {
+     "v": 5,
+     "text": "She shut the door securely, laid the iron bar across it, and groaned with loud lament and weeping."
+    },
+    {
+     "v": 6,
+     "text": "The virgin whom Aseneth loved best of all the virgins heard her mistress groaning, woke the other virgins, came, and found the door shut."
+    },
+    {
+     "v": 7,
+     "text": "She listened to the groaning and weeping of Aseneth and said, “Why are you so downcast, my lady? What is troubling you? Open to us, and let us see you.”"
+    },
+    {
+     "v": 8,
+     "text": "Aseneth, shut inside, said to them, “I have a terrible pain in my head, and I am resting on my bed. I cannot get up to open to you now, because I am weak in all my limbs. Go, each of you, to your own room.”"
+    },
+    {
+     "v": 9,
+     "text": "Then Aseneth got up, quietly opened the door, and went to her second room, where her chests of ornaments were. She opened her chest and took out a black, dark tunic."
+    },
+    {
+     "v": 10,
+     "text": "This was the tunic of her mourning, which she had worn when her eldest brother died."
+    },
+    {
+     "v": 11,
+     "text": "Aseneth stripped off her royal robe and dressed in the black one. She undid her golden belt and tied a rope around herself. She took the tiara off her head, and the diadem, and the bracelets from her arms."
+    },
+    {
+     "v": 12,
+     "text": "She took all her choice clothing and threw it out of the window to the poor."
+    },
+    {
+     "v": 13,
+     "text": "She took all her gods, the gold ones and the silver ones, without number, smashed them to pieces, and threw them to the poor and needy."
+    },
+    {
+     "v": 14,
+     "text": "Aseneth took her royal dinner, the fattened animals, the fish, the meats, every sacrifice to her gods, and the jars of their libation wine, and threw everything out of the window to the dogs for food."
+    },
+    {
+     "v": 15,
+     "text": "After that she took the ashes and poured them out on the floor."
+    },
+    {
+     "v": 16,
+     "text": "She took sackcloth, tied it around her waist, took the net off her hair, scattered ashes over her head, and fell down on the ashes."
+    },
+    {
+     "v": 17,
+     "text": "She beat her breast over and over with both hands, and wept bitterly all night with groaning until morning."
+    },
+    {
+     "v": 18,
+     "text": "When she looked in the morning, the ashes under her had turned to mud from her tears."
+    },
+    {
+     "v": 19,
+     "text": "Aseneth fell on her face on the ashes again until the sun set."
+    },
+    {
+     "v": 20,
+     "text": "She did this for seven days, tasting nothing at all."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 11,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "On the eighth day, at dawn, when the birds had begun to chirp and the dogs to bark at passersby, Aseneth lifted her head a little from the floor where she lay, for she was paralyzed in her limbs from so much self-humbling.{a}"
+    },
+    {
+     "v": 2,
+     "text": "She turned toward the wall, and sat under the window that looked east. She rested her head on her chest, wove her fingers together over her right knee, and kept her mouth shut. She had not opened it during the seven days and seven nights of her self-humbling."
+    },
+    {
+     "v": 3,
+     "text": "She spoke in her heart, without opening her mouth: “What shall I do, wretched as I am? Where shall I go, and with whom shall I find shelter? Whom shall I speak to, an orphan virgin, desolate, abandoned by everyone, and hated?"
+    },
+    {
+     "v": 4,
+     "text": "Now they all hate me, and even my father and mother, because I loathed the gods, destroyed them, and gave them to the poor to be broken up. My father and mother said, ‘Aseneth is not our daughter.’ And all my relatives hate me too, and all people, because I destroyed their gods."
+    },
+    {
+     "v": 5,
+     "text": "I hated every man who sought me in marriage, and now, in this humiliation, everyone hates me, and they enjoy my suffering."
+    },
+    {
+     "v": 6,
+     "text": "But the Lord, the God of mighty Joseph, hates all who worship idols, for he is a jealous and terrifying God, as I have heard, toward all who worship foreign gods. That is why he hates me too, because I worshiped dead and deaf idols and blessed them."
+    },
+    {
+     "v": 7,
+     "text": "Now I have turned away from their sacrifices, and my mouth has become a stranger to their table. I have no courage to call on the Lord, the God of heaven, the Most High, the powerful God of mighty Joseph, because my mouth is polluted with the sacrifices of the idols."
+    },
+    {
+     "v": 8,
+     "text": "But I have heard many people say that the Hebrews’ God is a true and living God, merciful, compassionate, patient, full of mercy, and kind. He does not count the sin of a humble person, and especially of someone who sins in ignorance, and he does not prosecute lawlessness when a person is in the time of distress."
+    },
+    {
+     "v": 9,
+     "text": "So I too, humble as I am, will be bold. I will turn to him and take refuge in him; I will admit all my sins to him and empty out my plea before him, and he may take pity on my misery."
+    },
+    {
+     "v": 10,
+     "text": "Who knows whether he will see this humiliation of mine and the emptiness of my soul, and feel sorrow for me, and see how wretched and orphaned I am, and my virginity, and shield me? I hear that he is himself a father of orphans, a consolation for the afflicted, and an aid to the persecuted."
+    },
+    {
+     "v": 11,
+     "text": "In any case, humble as I am, I will be bold and cry out to him.”"
+    },
+    {
+     "v": 12,
+     "text": "Then Aseneth rose from the wall where she sat, knelt, directed her eyes toward heaven, opened her mouth, and said to God:"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:1",
+     "text": "The Greek text here is damaged. Chapter 11 of the CJT follows the sense of the Greek, which has only a few broken lines left (“counting the sin of a humble person,” “I will confess all my sins to him”), together with the fuller reading of the Greek tradition as translated by E. W. Brooks in 1918. Verse numbers here are those of this edition."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "She spread out her hands toward the east and lifted her eyes toward heaven, and said:"
+    },
+    {
+     "v": 2,
+     "text": "“Lord God of the ages, who gave the breath of life to all, who brought the unseen into the light, who made everything and made the hidden things appear,"
+    },
+    {
+     "v": 3,
+     "text": "who raised up the heavens and founded the earth on the waters, who fixed the great stones upon the deep of the water, stones that will never sink but remain until the end, doing your will:"
+    },
+    {
+     "v": 4,
+     "text": "Lord my God, I cry out to you. Listen to my plea; I confess my sins to you and uncover my lawless deeds before you."
+    },
+    {
+     "v": 5,
+     "text": "I have sinned, Lord; I have sinned. I have broken your law, been godless, and spoken evil in your presence. My mouth, Lord, has been polluted by the sacrifices to idols and from the table of the gods of the Egyptians."
+    },
+    {
+     "v": 6,
+     "text": "I have sinned, Lord, before you. I have been godless, because I worshiped idols that are dead and deaf, and wretch that I am, I am not fit to open my mouth to you."
+    },
+    {
+     "v": 7,
+     "text": "I have sinned, Lord, before you, I, the daughter of Pentephres the priest, who was proud and arrogant. I bring my plea to you, Lord, and cry out to you. Rescue me from those who pursue me, because I have fled to you like a child to its father and mother."
+    },
+    {
+     "v": 8,
+     "text": "You, Lord, stretch out your hands over me like a father who loves his children, and tenderly, and snatch me from the hand of the enemy."
+    },
+    {
+     "v": 9,
+     "text": "For look, the fierce old lion is chasing me, and his cubs are the gods of the Egyptians, whom I threw away and destroyed; and their father, the devil, is trying to swallow me."
+    },
+    {
+     "v": 10,
+     "text": "But you, Lord, save me from his hands, and pull me out of his mouth, so that he does not seize me like a wolf and tear me apart and throw me into the abyss of fire, into the storm of the sea, and so that the great sea monster does not swallow me."
+    },
+    {
+     "v": 11,
+     "text": "Save me, Lord, in my desolation, for my father and mother have disowned me because I destroyed and smashed their gods. Now I am an orphan, alone, and I have no hope but you, Lord. For you are the father of orphans, the defender of the persecuted, and the helper of the oppressed."
+    },
+    {
+     "v": 12,
+     "text": "Look, all the wealth of my father Pentephres is temporary and fading, but the dwellings of your inheritance, Lord, are incorruptible and eternal."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 13,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Visit my orphaned state, Lord, because I have fled to you."
+    },
+    {
+     "v": 2,
+     "text": "Look, I have laid aside my royal robe woven with gold, and put on a black tunic."
+    },
+    {
+     "v": 3,
+     "text": "Look, I have loosened my golden belt and tied on a rope and sackcloth."
+    },
+    {
+     "v": 4,
+     "text": "Look, I have thrown the diadem off my head and covered myself with ashes."
+    },
+    {
+     "v": 5,
+     "text": "Look, the floor of my room, which was paved with colored and purple stone and sprinkled with perfumes, is now sprinkled with my tears and covered with dust."
+    },
+    {
+     "v": 6,
+     "text": "Look, my Lord, from the ashes and my tears there is a great deal of mud in my room, as on a wide road."
+    },
+    {
+     "v": 7,
+     "text": "Look, Lord, I have given my royal dinner and the fattened food to the dogs."
+    },
+    {
+     "v": 8,
+     "text": "Look, for seven days and seven nights I have eaten no bread and drunk no water, and my mouth is as dry as a drum, my tongue is like a horn, and my lips like a piece of broken pottery. My face has sunk in, and my eyes have failed from the burning of my tears."
+    },
+    {
+     "v": 9,
+     "text": "But, Lord, forgive me, because I sinned against you in ignorance and spoke blasphemies against my lord Joseph."
+    },
+    {
+     "v": 10,
+     "text": "I did not know, wretch that I am, that he is your son, Lord, because people told me that Joseph was the shepherd’s son from the country of Canaan, and I believed them, and I was deceived. I despised your chosen one, Joseph, and spoke evil of him, not knowing that he is your son."
+    },
+    {
+     "v": 11,
+     "text": "What man has ever fathered such beauty, and who else is as wise and strong as Joseph? But, my Lord, I place him in your care, because I love him more than my own soul."
+    },
+    {
+     "v": 12,
+     "text": "Keep him in the wisdom of your grace, and place me with him as a maidservant, so that I may wash his feet, wait on him, and serve him all the days of my life.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 14,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Aseneth had finished her confession to the Lord, the Morning Star{a} rose in the sky in the east. Aseneth saw it and was glad, and said,"
+    },
+    {
+     "v": 2,
+     "text": "“Then the Lord God has heard me, because this star is the messenger and herald of the light of the great day.”"
+    },
+    {
+     "v": 3,
+     "text": "And look, near the Morning Star the heaven was torn open, and a light appeared that no one can describe."
+    },
+    {
+     "v": 4,
+     "text": "Aseneth fell on her face in the ashes, and a man came to her from heaven. He stood over her head and called her: “Aseneth.”"
+    },
+    {
+     "v": 5,
+     "text": "She said, “Who is calling me? The door of my room is shut, and the tower is high. How did he get into my room?”"
+    },
+    {
+     "v": 6,
+     "text": "The man called her a second time and said, “Aseneth, Aseneth.” She said, “Here I am, my lord. Tell me who you are.”"
+    },
+    {
+     "v": 7,
+     "text": "The man said, “I am the commander of the house of the Lord and chief captain of all the army of the Most High.{b} Stand up on your feet, and I will speak to you.”"
+    },
+    {
+     "v": 8,
+     "text": "She lifted her eyes and saw a man who was like Joseph in every way, in his robe, his crown, and his royal rod,"
+    },
+    {
+     "v": 9,
+     "text": "except that his face was like lightning, his eyes like the shining of the sun, the hair on his head like a flame of fire, and his hands and feet like iron glowing from the fire."
+    },
+    {
+     "v": 10,
+     "text": "Aseneth saw him and fell on her face at his feet in great fear and trembling."
+    },
+    {
+     "v": 11,
+     "text": "The man said to her, “Take heart, Aseneth, and do not be afraid. Stand up on your feet, and I will speak to you.”"
+    },
+    {
+     "v": 12,
+     "text": "Aseneth stood up, and the man said to her, “Take off the black tunic you are wearing, and the sackcloth from your waist. Shake the ashes off your head and wash your face with living water,"
+    },
+    {
+     "v": 13,
+     "text": "and put on a new, untouched robe, and tie around your waist your bright double belt of virginity,"
+    },
+    {
+     "v": 14,
+     "text": "and come to me again, and I will tell you the words that have been sent to you.”"
+    },
+    {
+     "v": 15,
+     "text": "Aseneth went into her room where the chests of her ornaments were, opened her chest, and took out a new, splendid robe. She took off the black one and put on the new, bright one."
+    },
+    {
+     "v": 16,
+     "text": "She untied the rope and the sackcloth from her waist and put on a bright double belt of virginity, one belt around her waist and one over her chest."
+    },
+    {
+     "v": 17,
+     "text": "She shook the ashes off her head, washed her face with clean water, and covered her head with a fine, splendid veil."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "14:1",
+     "text": "Greek *heosphoros*, “dawn-bringer,” the planet Venus when it rises before the sun (Hebrew *Helel*, “shining one,” in Isaiah 14:12)."
+    },
+    {
+     "m": "b",
+     "ref": "14:7",
+     "text": "Compare Joshua 5:14–15, where the figure who meets Joshua calls himself the “commander of the army of Yahweh.” Jewish tradition identified this figure with the archangel Michael (Hebrew *Mikha’el*, “Who is like God?”), but the Greek text here does not give his name."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "She came to the man, and when he saw her he said, “Take the veil off your head, because you are a pure virgin today, and your head is like a young man’s.”"
+    },
+    {
+     "v": 2,
+     "text": "She took it off her head. The man said to her, “Take heart, Aseneth, because the Lord has heard the words of your confession."
+    },
+    {
+     "v": 3,
+     "text": "Take heart, Aseneth. Your name has been recorded in the book of life, and it will not be erased."
+    },
+    {
+     "v": 4,
+     "text": "From today you will be renewed, and formed anew, and brought to life again; you will eat the bread of life, drink the cup of immortality, and be anointed with the oil of incorruption."
+    },
+    {
+     "v": 5,
+     "text": "Take heart, Aseneth. The Lord has given you to Joseph as a bride, and he will be your bridegroom."
+    },
+    {
+     "v": 6,
+     "text": "You will no longer be called Aseneth, but your name will be City of Refuge,{a} because many nations will take refuge in you, many peoples will shelter under your wings, and those who attach themselves to God through repentance will be guarded within your wall."
+    },
+    {
+     "v": 7,
+     "text": "For Repentance is the daughter of the Most High, and she begs the Most High on your behalf at every hour, and on behalf of all who repent, since he is the father of Repentance, and she is the mother of virgins and pleads with him at every hour for those who repent. For he has prepared a heavenly bridal chamber for those who love her, and she will serve them forever."
+    },
+    {
+     "v": 8,
+     "text": "Repentance is a very beautiful virgin, pure, chaste, and gentle. God Most High loves her, and all the angels respect her."
+    },
+    {
+     "v": 9,
+     "text": "Look, I am going to Joseph, and I will speak to him about you, and he will come to you today, and see you, and be glad about you, and be your bridegroom."
+    },
+    {
+     "v": 10,
+     "text": "Now listen to me, Aseneth, and put on your wedding robe, the old, first robe that is stored in your room, and put on all your choice jewelry, and adorn yourself like a bride, and be ready to meet him."
+    },
+    {
+     "v": 11,
+     "text": "For look, he is coming to you today, and he will see you and be glad.”"
+    },
+    {
+     "v": 12,
+     "text": "When the man had finished speaking to Aseneth, she was filled with great joy, fell at his feet, and said to him,"
+    },
+    {
+     "v": 13,
+     "text": "“Blessed be the Lord God, who sent you to rescue me from the darkness and lead me up to the light, and blessed be his name forever."
+    },
+    {
+     "v": 14,
+     "text": "If I have found favor in your sight, my lord, please sit on the couch a little while, and I will set a table and bread, and you will eat. I will bring you good wine, whose fragrance reaches heaven, and you will drink and go on your way.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "15:6",
+     "text": "Greek *polis katafyges*. The Hebrew Bible has “cities of refuge” (Numbers 35:6–15) where those who had killed accidentally could flee. Here the name describes what Aseneth will be for repentant nations."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The man said to her, “Bring me a honeycomb too.”"
+    },
+    {
+     "v": 2,
+     "text": "Aseneth said, “Lord, I will send to the field of my estate and bring you a honeycomb.”"
+    },
+    {
+     "v": 3,
+     "text": "The man said to her, “Go into your room, and you will find a honeycomb.”"
+    },
+    {
+     "v": 4,
+     "text": "Aseneth went into her room and found a honeycomb lying on the table. The comb was white as snow and full of honey, and its aroma was the fragrance of life."
+    },
+    {
+     "v": 5,
+     "text": "Aseneth took the comb and brought it to him. The man said to her, “Why did you say there was no honeycomb in my house? Look, you have brought me one.”"
+    },
+    {
+     "v": 6,
+     "text": "Aseneth said, “Lord, I had no honeycomb in my house, but it has come to be as you said. Perhaps it came out of your mouth, because its scent is like the scent of perfume.”"
+    },
+    {
+     "v": 7,
+     "text": "The man stretched out his hand and gripped her head and said, “You are blessed, Aseneth, because the secrets of God have been revealed to you, and blessed are those who attach themselves to the Lord God in repentance, for they will eat from this comb."
+    },
+    {
+     "v": 8,
+     "text": "The bees of the paradise of delight{a} made this honey, and the angels of God eat from it, and whoever eats of it will never die.”"
+    },
+    {
+     "v": 9,
+     "text": "The man stretched out his right hand, broke off a piece of the comb, ate it, and with his hand put some of the comb into Aseneth’s mouth."
+    },
+    {
+     "v": 10,
+     "text": "He stretched out his hand and laid his finger on the east-facing edge of the comb, and the path of his finger turned to blood."
+    },
+    {
+     "v": 11,
+     "text": "He stretched out his hand a second time, laying his finger on the north-facing edge of the comb, and the path of his finger became like blood."
+    },
+    {
+     "v": 12,
+     "text": "Aseneth stood on his left and watched everything the man did."
+    },
+    {
+     "v": 13,
+     "text": "Bees came up out of the cells of the comb. They were white as snow, with wings like purple, like blue, and like threads of gold, and they had golden crowns on their heads and sharp stings."
+    },
+    {
+     "v": 14,
+     "text": "All the bees swarmed around Aseneth from her feet to her head, and other bees, as large as queens, took hold of her lips."
+    },
+    {
+     "v": 15,
+     "text": "The man said to the bees, “Return now to your places.”"
+    },
+    {
+     "v": 16,
+     "text": "They all left Aseneth and fell to the ground, all of them, and died."
+    },
+    {
+     "v": 17,
+     "text": "The man said, “Get up now and go to your place.” They got up and went away, all of them, to the courtyard next to Aseneth’s house."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "16:8",
+     "text": "Greek *paradeisos tryphes*, from the Hebrew *Gan Eden*, the “garden of Eden,” where *Eden* means “delight.”"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The man said to Aseneth, “Have you seen this thing?” She said, “Look, Lord, I have seen all of it.”"
+    },
+    {
+     "v": 2,
+     "text": "The man said, “So shall the words be that I have spoken to you.”"
+    },
+    {
+     "v": 3,
+     "text": "The man touched the honeycomb, and fire rose from the table and consumed it. A sweet smell came from the burning comb and filled the room."
+    },
+    {
+     "v": 4,
+     "text": "Aseneth said to the man, “Lord, I have seven virgins with me who wait on me, who grew up with me from my earliest years, born on the same night as I was, and I love them. Let me call them, and bless them as you have blessed me.”"
+    },
+    {
+     "v": 5,
+     "text": "He said, “Call them.” Aseneth called them, and the man blessed them and said, “May God Most High bless you forever.”"
+    },
+    {
+     "v": 6,
+     "text": "The man said to Aseneth, “Take away this table.” Aseneth turned to move the table, and the man vanished from her sight, and Aseneth saw something like a chariot of fire being taken up into heaven toward the east."
+    },
+    {
+     "v": 7,
+     "text": "Aseneth said, “Lord, be gracious to your servant, because I spoke evil in your presence in ignorance.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 18,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "While these things were happening, a young man from Joseph’s household came and said, “Look, Joseph, the mighty one of God, is coming to you today.”"
+    },
+    {
+     "v": 2,
+     "text": "Aseneth called the steward of her house and said, “Prepare a fine dinner for me, because Joseph, the mighty one of God, is coming to us.”"
+    },
+    {
+     "v": 3,
+     "text": "Aseneth went into her room, opened her chest, took out her first robe, which looked like lightning, and put it on."
+    },
+    {
+     "v": 4,
+     "text": "She tied on a bright, royal belt, a belt set with costly stones."
+    },
+    {
+     "v": 5,
+     "text": "She put golden bracelets on her arms, golden trousers on her legs, a precious necklace around her neck, and a golden crown on her head, and the crown had costly stones on the front."
+    },
+    {
+     "v": 6,
+     "text": "She covered her head with a veil."
+    },
+    {
+     "v": 7,
+     "text": "She said to her maidservant, “Bring me clean water from the spring.” Aseneth bent over the water in the basin, and her face was like the sun, and her eyes like a rising morning star."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 19,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "A small boy came and said to Aseneth, “Look, Joseph is at the doors of our courtyard.” Aseneth went down with the seven virgins to meet him."
+    },
+    {
+     "v": 2,
+     "text": "When Joseph saw her, he said to her, “Come to me, pure virgin, because I received good news about you from heaven, from one who told me everything about you.”"
+    },
+    {
+     "v": 3,
+     "text": "Joseph stretched out his arms and embraced Aseneth, and Aseneth embraced Joseph, and they kissed each other for a long time, and their spirits were revived."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 20,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Aseneth said to him, “Come, my lord, and enter my house.” She took his right hand in hers and brought him into her house."
+    },
+    {
+     "v": 2,
+     "text": "Joseph sat on the chair of Pentephres her father, and water was brought to wash his feet. Joseph said to her, “Let one of the virgins come to wash my feet.”"
+    },
+    {
+     "v": 3,
+     "text": "Aseneth said to him, “No, my lord, because my hands are your hands and your feet are my feet, and no one else will wash your feet.” She insisted, and washed his feet."
+    },
+    {
+     "v": 4,
+     "text": "Joseph took her right hand and kissed it, and Aseneth kissed his head."
+    },
+    {
+     "v": 5,
+     "text": "Aseneth’s parents came from the field of their estate and saw Aseneth sitting with Joseph, dressed in a wedding robe. They were glad and gave glory to God, and they ate and drank."
+    },
+    {
+     "v": 6,
+     "text": "Pentephres said to Joseph, “Tomorrow I will invite the nobles and satraps of Egypt, and I will give you a wedding, and you will take Aseneth as your wife.”"
+    },
+    {
+     "v": 7,
+     "text": "Joseph said, “First I will tell Pharaoh about Aseneth, because he is a father to me, and he will give me Aseneth as my wife.”"
+    },
+    {
+     "v": 8,
+     "text": "Joseph stayed that day with Pentephres and did not go in to Aseneth, because he said, “It is not right for a man who fears God to sleep with his wife before the wedding.”"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 21,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Joseph got up in the morning and went to Pharaoh and talked to him about Aseneth."
+    },
+    {
+     "v": 2,
+     "text": "Pharaoh sent and called Pentephres and Aseneth."
+    },
+    {
+     "v": 3,
+     "text": "Pharaoh was amazed at her beauty and said, “The Lord, the God of Joseph, will bless you, because he has chosen you to be his bride; for he is the firstborn son of God, and you will be called a daughter of the Most High,{a} and Joseph will be your bridegroom forever.”"
+    },
+    {
+     "v": 4,
+     "text": "Pharaoh took golden crowns and put them on their heads and said, “May God Most High bless you and multiply you forever.”"
+    },
+    {
+     "v": 5,
+     "text": "Pharaoh turned them to face each other, and they kissed each other."
+    },
+    {
+     "v": 6,
+     "text": "Pharaoh gave them a wedding, with a banquet and much drinking, for seven days."
+    },
+    {
+     "v": 7,
+     "text": "He called all the rulers of the land of Egypt and had it proclaimed: “Anyone who does any work during the seven days of Joseph and Aseneth’s wedding will die a bitter death.”"
+    },
+    {
+     "v": 8,
+     "text": "When the wedding was over and the banquet finished, Joseph went in to Aseneth, and Aseneth conceived by Joseph. She gave birth to Manasseh{b} and his brother Ephraim{c} in Joseph’s house."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "21:3",
+     "text": "In some witnesses the words “for he is the firstborn son of God, and” are missing. The Greek text has Pharaoh call Joseph “the firstborn son of God,” a title that rests on the idea of Israel as God’s firstborn son (Exodus 4:22)."
+    },
+    {
+     "m": "b",
+     "ref": "21:8",
+     "text": "Hebrew *Menashsheh*, “making to forget” (Genesis 41:51)."
+    },
+    {
+     "m": "c",
+     "ref": "21:8",
+     "text": "Hebrew *Efrayim*, “doubly fruitful” (Genesis 41:52)."
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After this, the seven years of plenty passed, and the seven years of famine began."
+    },
+    {
+     "v": 2,
+     "text": "When Jacob heard of his son Joseph, he entered Egypt, together with his whole household, in the second month (April–May), on the twenty-first day of the month,{a} and settled in the land of Goshen.{b}"
+    },
+    {
+     "v": 3,
+     "text": "Aseneth said to Joseph, “I will go and see your father, because your father Israel is a father to me.” Joseph said to her, “Let us go together.”"
+    },
+    {
+     "v": 4,
+     "text": "Joseph and Aseneth came to the land of Goshen, and Joseph’s brothers met them and bowed to the ground."
+    },
+    {
+     "v": 5,
+     "text": "They came to Jacob, and he blessed them and kissed them. Aseneth hung on the neck of Jacob, her father-in-law, and kissed him."
+    },
+    {
+     "v": 6,
+     "text": "After this they ate and drank."
+    },
+    {
+     "v": 7,
+     "text": "Joseph and Aseneth went home, and Simeon{c} and Levi{d} escorted them, because their enemies were jealous. Levi walked on the right of Aseneth, and Simeon on her left."
+    },
+    {
+     "v": 8,
+     "text": "Aseneth took Levi’s hand, because she loved him as a prophet, a man who reveres God and fears the Lord."
+    },
+    {
+     "v": 9,
+     "text": "He used to see writing in the heavens, and read it and secretly explain it to Aseneth, and Levi saw her place of rest in the heights."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "22:2",
+     "text": "The Greek says “the second month, the twenty-first day.” The Hebrew months are lunar; see the note on 1:1."
+    },
+    {
+     "m": "b",
+     "ref": "22:2",
+     "text": "Hebrew *Goshen*; the name is Egyptian or Semitic, and its meaning is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "22:7",
+     "text": "Hebrew *Shim‘on*, “he hears” (Genesis 29:33)."
+    },
+    {
+     "m": "d",
+     "ref": "22:7",
+     "text": "Hebrew *Levi*, “joined” (Genesis 29:34)."
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "While Joseph and Aseneth were passing by, Pharaoh’s eldest son saw them from the wall."
+    },
+    {
+     "v": 2,
+     "text": "When he saw Aseneth, he was driven wild with desire for her because of her extraordinary beauty. Pharaoh’s son sent messengers and summoned Simeon and Levi."
+    },
+    {
+     "v": 3,
+     "text": "They came to him and stood before him, and Pharaoh’s son said to them, “I know that you are men stronger than any people on earth. By your hands the city of the Shechemites{a} was destroyed, and with your two swords thirty thousand men of war were cut down."
+    },
+    {
+     "v": 4,
+     "text": "I ask you to hurry to my help. Look, I will take you as my companions and give you a great deal of gold and silver, and male and female slaves, and houses and great estates. Help me, and show me kindness, because I have been insulted by your brother Joseph, who has taken Aseneth as his wife, though she was promised to me from the beginning."
+    },
+    {
+     "v": 5,
+     "text": "If you do not listen to what I say, I will kill you with my sword.” As he said this, he drew his sword and showed it to them."
+    },
+    {
+     "v": 6,
+     "text": "Simeon was a bold and daring man. He drew his sword out of its sheath and was ready to strike Pharaoh’s son."
+    },
+    {
+     "v": 7,
+     "text": "Levi knew Simeon’s thought, because Levi was a prophet and foresaw everything that was to come. He struck Simeon’s right foot, pressed it, and signaled him to calm his anger."
+    },
+    {
+     "v": 8,
+     "text": "Levi said to him, “Why are you angry with him? We are the sons of a man who fears God, and it is not right for a man who fears God to repay evil for evil to his neighbor.”"
+    },
+    {
+     "v": 9,
+     "text": "Levi said to the son of Pharaoh, his neighbor, with a gentle heart and a cheerful face, “Why, my lord, do you say these words in front of us? We are men who fear God, our father is a servant of the God Most High, and our brother Joseph is dear to God."
+    },
+    {
+     "v": 10,
+     "text": "How could we do this evil thing before God? Now listen to us, and take care not to say these words about our brother Joseph again."
+    },
+    {
+     "v": 11,
+     "text": "If you insist on this evil plan, look, our swords are drawn in front of you.”"
+    },
+    {
+     "v": 12,
+     "text": "They pulled their swords out of their sheaths and said, “Have you seen these swords? With them the Lord God avenged the outrage against the sons of Israel that the Shechemites committed against our sister Dinah,{b} whom Shechem,{c} the son of Hamor,{d} defiled.”"
+    },
+    {
+     "v": 13,
+     "text": "Pharaoh’s son saw their swords drawn and was frightened and shook, and fell on his face on the ground beneath their feet."
+    },
+    {
+     "v": 14,
+     "text": "Levi stretched out his hand and lifted him up, saying, “Do not be afraid, but take care not to say an evil word again against our brother.”"
+    },
+    {
+     "v": 15,
+     "text": "They left him there, trembling and afraid."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "23:3",
+     "text": "*Shechem* is Hebrew for “shoulder,” and the town was named for its position on a ridge; the Shechemites are its inhabitants. The story is in Genesis 34."
+    },
+    {
+     "m": "b",
+     "ref": "23:12",
+     "text": "Hebrew *Dinah*, “judgment” or “vindicated.”"
+    },
+    {
+     "m": "c",
+     "ref": "23:12",
+     "text": "Hebrew *Shekhem*, “shoulder.”"
+    },
+    {
+     "m": "d",
+     "ref": "23:12",
+     "text": "Hebrew *Hamor*, “donkey.”"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Pharaoh’s son was weighed down and deeply troubled because of Aseneth, and he was sick with it."
+    },
+    {
+     "v": 2,
+     "text": "His servants said in his ear, “Look, the sons of Bilhah{a} and Zilpah,{b} the servant girls of Leah{c} and Rachel, the wives of Jacob, are enemies of Joseph and Aseneth and are jealous of them, and they will do what you want.”"
+    },
+    {
+     "v": 3,
+     "text": "Pharaoh’s son sent messengers to summon them, and they came to him by night. Pharaoh’s son said to them, “I know that you are mighty men.”"
+    },
+    {
+     "v": 4,
+     "text": "Gad and Dan,{d} the older brothers, said to Pharaoh’s son, “Let our lord say to his servants what he wants, and we will do his will.”"
+    },
+    {
+     "v": 5,
+     "text": "Pharaoh’s son was overjoyed, and said to his servants, “Go away from here, so that I can speak my word to these men in secret.”"
+    },
+    {
+     "v": 6,
+     "text": "All the servants left, and Pharaoh’s son lied to them: “Blessing and death are set before you; take the blessing, and not death."
+    },
+    {
+     "v": 7,
+     "text": "Look, I know you are mighty men. Do not die like women, but act like men and take revenge on your enemies."
+    },
+    {
+     "v": 8,
+     "text": "I will wait for my father’s death, and then I will crush them and all their family, so that they will not inherit with us, because they are the children of servant girls, and they are the ones who sold me to the Ishmaelites.{e}"
+    },
+    {
+     "v": 9,
+     "text": "I will repay them for the evil they did to me, as soon as my father dies.”"
+    },
+    {
+     "v": 10,
+     "text": "My father Pharaoh praised Joseph and said to him, “You have spoken well, child. Now take mighty men from me and go out against them, as they have dealt with you, and I will be your helper.”{f}"
+    },
+    {
+     "v": 11,
+     "text": "When the men heard the words of Pharaoh’s son, they were alarmed and distressed, and said to him, “We beg you, lord, help us, and whatever you command your servants, we will do.”"
+    },
+    {
+     "v": 12,
+     "text": "Pharaoh’s son said to them, “I will kill my father tonight, because Pharaoh my father is like a father to Joseph. Then you must kill Joseph too, and I will take Aseneth as my wife.”"
+    },
+    {
+     "v": 13,
+     "text": "Dan and Gad said to him, “We will do whatever you command us. We have heard Joseph telling Aseneth, ‘Go tomorrow to the field of our estate, because it is the time of the grape harvest.’ He is giving her six hundred men who are mighty in war, and fifty runners ahead.”"
+    },
+    {
+     "v": 14,
+     "text": "When Pharaoh’s son heard these words, he gave the four men five hundred men each, and made them their commanders and leaders."
+    },
+    {
+     "v": 15,
+     "text": "Dan and Gad said to him, “We will go by night and lie in ambush at the wadi, and hide in the reeds."
+    },
+    {
+     "v": 16,
+     "text": "You take fifty mounted archers with you and go ahead, keeping at a distance. Aseneth will arrive and drop into our hands, and we will hack down the men with her."
+    },
+    {
+     "v": 17,
+     "text": "Aseneth will flee with her carriage and fall into your hands, and you can do with her whatever your soul desires."
+    },
+    {
+     "v": 18,
+     "text": "After that we will kill Joseph, grieving for Aseneth, and we will kill his children before his eyes.”"
+    },
+    {
+     "v": 19,
+     "text": "Pharaoh’s son was glad when he heard these words, and sent two thousand fighting men after them."
+    },
+    {
+     "v": 20,
+     "text": "They came to the wadi, hid in the reeds, and five hundred men sat in front, and between them was a broad road."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "24:2",
+     "text": "Hebrew *Bilhah*, perhaps “timid” or “bashful.”"
+    },
+    {
+     "m": "b",
+     "ref": "24:2",
+     "text": "Hebrew *Zilpah*; the meaning is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "24:2",
+     "text": "Hebrew *Le’ah*, possibly “wild cow” or “weary.”"
+    },
+    {
+     "m": "d",
+     "ref": "24:4",
+     "text": "Hebrew *Gad*, “fortune”; Hebrew *Dan*, “he judged.”"
+    },
+    {
+     "m": "e",
+     "ref": "24:8",
+     "text": "Hebrew *Yishma‘e’l*, “God hears.” In Genesis 37, Joseph’s brothers sold him to Ishmaelite traders. The prince’s words, “sold me,” fit awkwardly here, since it was Joseph who was sold."
+    },
+    {
+     "m": "f",
+     "ref": "24:10",
+     "text": "This verse is in the Greek text as it stands, but it seems out of place: it has Pharaoh’s son speak of his father Pharaoh praising Joseph. The Greek tradition is confused here."
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Pharaoh’s son went to his father’s chamber to kill him, and his father’s guards prevented him from going in."
+    },
+    {
+     "v": 2,
+     "text": "Pharaoh’s son said to them, “I will see my father, because I am going to pick the grapes of my new vineyard.”"
+    },
+    {
+     "v": 3,
+     "text": "The guards said to him, “Your father is in pain, has stayed awake all night, and is resting. He told us, ‘Let no one come in to me, not even my firstborn son.’”"
+    },
+    {
+     "v": 4,
+     "text": "He left in a rage and took fifty mounted archers and went ahead of them, as Dan and Gad had told him."
+    },
+    {
+     "v": 5,
+     "text": "Naphtali and Asher{a} said to Dan and Gad, “Why are you plotting evil again against our father Israel and our brother Joseph? God protects him as the apple of his eye."
+    },
+    {
+     "v": 6,
+     "text": "Did you not sell him once already, and today he is king of the whole land, a savior, and the one who gives out grain?"
+    },
+    {
+     "v": 7,
+     "text": "If you now plot evil against him again, he will call on the God of Israel, who will send fire from heaven to devour you, and God’s angels will make war on you.”"
+    },
+    {
+     "v": 8,
+     "text": "Their older brothers, Dan and Gad, were angry with them and said, “So should we die like women? Never!” And they set out to meet Joseph and Aseneth."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "25:5",
+     "text": "Hebrew *Naftali*, “my wrestling” (Genesis 30:8); Hebrew *Asher*, “happy” (Genesis 30:13)."
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Aseneth got up early and said to Joseph, “I will go to the field of our estate, but my soul is afraid, because I am being separated from you.”"
+    },
+    {
+     "v": 2,
+     "text": "Joseph said to her, “Take heart and do not be afraid, but go. The Lord is with you, and he will protect you as the apple of his eye from every evil."
+    },
+    {
+     "v": 3,
+     "text": "I will go to my grain distribution and give grain to all the people in the city, so that no one in the land of Egypt dies of hunger.”"
+    },
+    {
+     "v": 4,
+     "text": "Aseneth went on her way, and Joseph went to his grain distribution."
+    },
+    {
+     "v": 5,
+     "text": "Aseneth came to the place of the wadi with her six hundred men, and suddenly Pharaoh’s son and his men sprang out of their ambush and joined battle with Aseneth’s fighters. They cut them all down with their swords and killed all of Aseneth’s runners."
+    },
+    {
+     "v": 6,
+     "text": "Aseneth fled in her carriage."
+    },
+    {
+     "v": 7,
+     "text": "Levi, the son of Leah, knew all this as a prophet, and told his brothers about the danger Aseneth was in. Each of them took his sword on his thigh, his shield on his arm, and his spear in his right hand, and they chased after Aseneth at a fast run."
+    },
+    {
+     "v": 8,
+     "text": "Aseneth fled, and look, Pharaoh’s son met her, with fifty men. Aseneth saw him, and she was afraid and trembled."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 27,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Benjamin{a} was sitting with her in the carriage."
+    },
+    {
+     "v": 2,
+     "text": "Benjamin was a strong youth, about eighteen years old, with unspeakable beauty and the strength of a lion’s cub, and he feared God."
+    },
+    {
+     "v": 3,
+     "text": "Benjamin jumped down from the carriage, picked up a round stone from the wadi so that it filled his hand, threw it at Pharaoh’s son, and hit him on his left temple. He gave him a great and heavy wound, and he fell from his horse half dead."
+    },
+    {
+     "v": 4,
+     "text": "Benjamin ran up onto a rock and said to Aseneth’s charioteer, “Give me fifty stones from the wadi.”"
+    },
+    {
+     "v": 5,
+     "text": "He gave him fifty stones. Benjamin threw the stones and killed the fifty men accompanying Pharaoh’s son, and the stones sank into the temple of every one of them."
+    },
+    {
+     "v": 6,
+     "text": "Then Leah’s sons Reuben, Simeon, Levi, Judah, Issachar, and Zebulun,{b} chased after the men lying in ambush and fell on them suddenly and cut down the two thousand men; the six of them killed them."
+    },
+    {
+     "v": 7,
+     "text": "The sons of Bilhah and Zilpah, their brothers, fled and said, “We are lost because of our brothers, and Pharaoh’s son has died at Benjamin’s hand, and everyone with him has been killed by his hand. Now come, let us kill Aseneth and Benjamin and flee into the reeds.”"
+    },
+    {
+     "v": 8,
+     "text": "They came with their swords drawn, full of blood. Aseneth saw them and said, “Lord my God, who gave me life from death, who said to me, ‘Your soul will live forever,’ save me from these men.” The Lord God heard her voice, and at once the swords slipped from their hands and fell on the ground and dissolved like ashes."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "27:1",
+     "text": "Hebrew *Binyamin*, “son of the right hand” or “son of the south” (Genesis 35:18)."
+    },
+    {
+     "m": "b",
+     "ref": "27:6",
+     "text": "Hebrew *Re’uven*, “see, a son”; *Yehudah*, “praise”; *Yissakhar*, “there is reward”; *Zevulun*, “dwelling” (Genesis 29–30)."
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "The sons of Bilhah and Zilpah saw the wonder that had happened, and were afraid, and said, “The Lord is fighting against us on behalf of Aseneth.”"
+    },
+    {
+     "v": 2,
+     "text": "They fell on their faces on the ground and bowed to Aseneth, saying, “Have mercy on us, your servants, for you are our mistress and queen, and we have done wicked things against you and against our brother Joseph."
+    },
+    {
+     "v": 3,
+     "text": "Now God has repaid us. That is why we, your servants, beg you: have mercy on us and rescue us from the hands of our brothers, because they are the avengers of the insult to you, and their swords are in front of us.”"
+    },
+    {
+     "v": 4,
+     "text": "Aseneth said to them, “Take heart and do not be afraid, because your brothers are men who fear God and do not repay evil for evil to anyone."
+    },
+    {
+     "v": 5,
+     "text": "Go into the reeds, until I make peace with them on your behalf and calm their anger, because what you dared to do against them was great."
+    },
+    {
+     "v": 6,
+     "text": "Take heart and do not be afraid, because the Lord will judge between me and you.”"
+    },
+    {
+     "v": 7,
+     "text": "Dan and Gad fled into the reeds."
+    },
+    {
+     "v": 8,
+     "text": "And look, Leah’s sons came running after them like deer. Aseneth got down from her carriage and greeted them with tears."
+    },
+    {
+     "v": 9,
+     "text": "They bowed to the ground before her and wept loudly, and they were looking for their brothers, the sons of the servant girls, to kill them."
+    },
+    {
+     "v": 10,
+     "text": "Aseneth said to them, “Spare your brothers and do not do them harm, because the Lord shielded me and turned their swords to ashes in their hands, and they became like wax before fire."
+    },
+    {
+     "v": 11,
+     "text": "This is enough for us, that the Lord fights for us. Now spare your brothers.”"
+    },
+    {
+     "v": 12,
+     "text": "Simeon said to Aseneth, “Why does our mistress speak this way about her enemies?"
+    },
+    {
+     "v": 13,
+     "text": "No, we will cut them down with our swords, because they plotted evil against our father Israel and against our brother Joseph, already twice now, and against you today.”"
+    },
+    {
+     "v": 14,
+     "text": "Aseneth said to him, “Never, brother. You must not repay evil for evil to your neighbor, because the Lord will punish this outrage.”"
+    },
+    {
+     "v": 15,
+     "text": "After this Simeon embraced Aseneth. Levi came to her and kissed her right hand and blessed her."
+    },
+    {
+     "v": 16,
+     "text": "So Aseneth saved the men from their brothers’ anger, so that they did not kill them."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 29,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Pharaoh’s son rose from the ground, sat up, and spat blood out of his mouth, because blood from his temple had run into his mouth."
+    },
+    {
+     "v": 2,
+     "text": "Benjamin ran over, seized the prince’s sword, and pulled it from its sheath, because Benjamin was not wearing a sword on his thigh."
+    },
+    {
+     "v": 3,
+     "text": "As he was about to strike Pharaoh’s son, Levi ran and held his hand, and said, “Never, brother, do this deed, because we are men who fear God, and it is not right for a man who fears God to repay evil for evil, or to trample a man who has fallen, or to crush an enemy to death."
+    },
+    {
+     "v": 4,
+     "text": "Come, let us treat him for his wound, and if he lives, he will be a friend to us, and Pharaoh his father will be a father to us.”"
+    },
+    {
+     "v": 5,
+     "text": "Levi lifted Pharaoh’s son up, washed the blood from his face, bound a bandage on his wound, set him on his horse, and brought him to his father."
+    },
+    {
+     "v": 6,
+     "text": "Levi told him everything that had happened."
+    },
+    {
+     "v": 7,
+     "text": "Pharaoh got up from his throne and bowed to the ground before Levi."
+    },
+    {
+     "v": 8,
+     "text": "On the third day Pharaoh’s son died of the wound from Benjamin’s stone."
+    },
+    {
+     "v": 9,
+     "text": "Pharaoh mourned for his firstborn son, and from grief he fell ill."
+    },
+    {
+     "v": 10,
+     "text": "Pharaoh died at the age of one hundred and nine, and he left his diadem to Joseph."
+    },
+    {
+     "v": 11,
+     "text": "Joseph reigned in Egypt for forty-eight years, and after that Joseph gave the diadem to Pharaoh’s grandson. And Joseph was like a father to him in Egypt."
+    }
+   ],
+   "notes": []
+  }
+ ]
+}
