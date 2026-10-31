@@ -2,7 +2,7 @@
  "id": "baruch",
  "name": "Baruch",
  "division": "Apocrypha",
- "sourceNote": "Translated from the Greek text of Baruch as printed in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 3 (1899; public domain), which follows Codex Vaticanus (B) with the readings of Alexandrinus (A) and others. The book is ascribed to Baruch son of Neriah, Jeremiah's scribe (Jer 32:12; 36; 43:3; 45). It is generally held to be composite and later than its setting: a prose introduction (1:1–14), a confession of sin and prayer (1:15–3:8) closely parallel to Dan 9:4–19, a wisdom poem identifying Wisdom with the Law (3:9–4:4), and poems of consolation for Jerusalem (4:5–5:9), the last close to the Psalms of Solomon 11. The first half at least was probably composed in Hebrew; no Hebrew text survives, and dates proposed range from the 3rd to the 1st century BC. No manuscript of Baruch has been found at Qumran. Baruch is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha. In the Latin Vulgate and the King James Version the Letter of Jeremiah is attached as Baruch chapter 6; here it is given as a separate book, as in the Greek manuscripts and NRSV. Greek *kyrios* is rendered “Lord” and *theos* “God.” Dates are given as BC/AD. Readings not checked directly against the manuscripts are cited “as reported.” Brenton's English (1844) was consulted only as a check and not copied. CJT draft.",
+ "sourceNote": "Translated from the Greek text of Baruch as printed in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 3 (1899; public domain), which follows Codex Vaticanus (B) with the readings of Alexandrinus (A) and others. The book is ascribed to Baruch son of Neriah, Jeremiah’s scribe (Jer 32:12; 36; 43:3; 45). It is generally held to be composite and later than its setting: a prose introduction (1:1–14), a confession of sin and prayer (1:15–3:8) closely parallel to Dan 9:4–19, a wisdom poem identifying Wisdom with the Law (3:9–4:4), and poems of consolation for Jerusalem (4:5–5:9), the last close to the Psalms of Solomon 11. The first half at least was probably composed in Hebrew; no Hebrew text survives, and dates proposed range from the 3rd to the 1st century BC. No manuscript of Baruch has been found at Qumran. Baruch is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha. In the Latin Vulgate and the King James Version the Letter of Jeremiah is attached as Baruch chapter 6; here it is given as a separate book, as in the Greek manuscripts and NRSV. Greek *kyrios* is rendered “Lord” and *theos* “God.” Dates are given as BC/AD. Readings not checked directly against the manuscripts are cited “as reported.” Brenton’s English (1844) was consulted only as a check and not copied. CJT draft.",
  "chapters": [
   {
    "n": 1,
@@ -29,7 +29,7 @@
     },
     {
      "v": 4,
-     "text": "and in the ears of the men of power and of the king's sons, and in the ears of the elders, and in the ears of all the people from the least to the greatest, of all who lived in Babylon by the river Sud.{d}"
+     "text": "and in the ears of the men of power and of the king’s sons, and in the ears of the elders, and in the ears of all the people from the least to the greatest, of all who lived in Babylon by the river Sud.{d}"
     },
     {
      "v": 5,
@@ -45,7 +45,7 @@
     },
     {
      "v": 8,
-     "text": "at the time when he received the vessels of the Lord's house, carried off out of the temple, to bring them back to Judah's land, on the tenth of Sivan{f} — vessels of silver made by Zedekiah son of Josiah, Judah's king,"
+     "text": "at the time when he received the vessels of the Lord’s house, carried off out of the temple, to bring them back to Judah’s land, on the tenth of Sivan{f} — vessels of silver made by Zedekiah son of Josiah, Judah’s king,"
     },
     {
      "v": 9,
@@ -65,7 +65,7 @@
     },
     {
      "v": 13,
-     "text": "And make prayer for us to the Lord our God, because against the Lord our God we have sinned, and to this day the Lord's fury and his anger have not turned from us."
+     "text": "And make prayer for us to the Lord our God, because against the Lord our God we have sinned, and to this day the Lord’s fury and his anger have not turned from us."
     },
     {
      "v": 14,
@@ -93,7 +93,7 @@
     },
     {
      "v": 20,
-     "text": "And the evils have fastened on us, and the curse that the Lord ordained by Moses his servant on the day he led our fathers out of Egypt's land, to give us a land flowing with milk and honey, as it is this day.{i}"
+     "text": "And the evils have fastened on us, and the curse that the Lord ordained by Moses his servant on the day he led our fathers out of Egypt’s land, to give us a land flowing with milk and honey, as it is this day.{i}"
     },
     {
      "v": 21,
@@ -108,7 +108,7 @@
     {
      "m": "a",
      "ref": "1:1",
-     "text": "Jeremiah's secretary (Jer 32:12; 36:4–32; 45:1). The Greek spells the names Nērias, Maasaias, Sedekias, Asadias and Chelkias."
+     "text": "Jeremiah’s secretary (Jer 32:12; 36:4–32; 45:1). The Greek spells the names Nērias, Maasaias, Sedekias, Asadias and Chelkias."
     },
     {
      "m": "b",
@@ -172,7 +172,7 @@
     },
     {
      "v": 3,
-     "text": "that a man among us would eat his son's flesh, and another his daughter's flesh.{a}"
+     "text": "that a man among us would eat his son’s flesh, and another his daughter’s flesh.{a}"
     },
     {
      "v": 4,
@@ -252,7 +252,7 @@
     },
     {
      "v": 23,
-     "text": "I will silence in the cities of Judah and in the outskirts of Jerusalem the sound of mirth and the sound of gladness, the bridegroom's sound and the bride's sound, and all the land will be a waste with no one dwelling in it.{e}"
+     "text": "I will silence in the cities of Judah and in the outskirts of Jerusalem the sound of mirth and the sound of gladness, the bridegroom’s sound and the bride’s sound, and all the land will be a waste with no one dwelling in it.{e}"
     },
     {
      "v": 24,
@@ -260,7 +260,7 @@
     },
     {
      "v": 25,
-     "text": "And see, they lie cast out to the day's heat and the night's frost; and in cruel pains they died, by famine and by sword and by pestilence.{g}"
+     "text": "And see, they lie cast out to the day’s heat and the night’s frost; and in cruel pains they died, by famine and by sword and by pestilence.{g}"
     },
     {
      "v": 26,
@@ -380,7 +380,7 @@
     },
     {
      "v": 4,
-     "text": "Lord Almighty, God of Israel, hear now the prayer of Israel's dead{a} and of the sons of those who sinned before you, who would not listen to the Lord their God's voice; and so the evils have fastened on us."
+     "text": "Lord Almighty, God of Israel, hear now the prayer of Israel’s dead{a} and of the sons of those who sinned before you, who would not listen to the Lord their God’s voice; and so the evils have fastened on us."
     },
     {
      "v": 5,
@@ -404,7 +404,7 @@
     },
     {
      "v": 10,
-     "text": "Why, Israel, why is it that you are in your enemies' land,\ngrown old in a country not your own,"
+     "text": "Why, Israel, why is it that you are in your enemies’ land,\ngrown old in a country not your own,"
     },
     {
      "v": 11,
@@ -428,7 +428,7 @@
     },
     {
      "v": 16,
-     "text": "Where now are the nations' rulers,\nand those who were lords over the earth's beasts,"
+     "text": "Where now are the nations’ rulers,\nand those who were lords over the earth’s beasts,"
     },
     {
      "v": 17,
@@ -593,7 +593,7 @@
     },
     {
      "v": 5,
-     "text": "Take courage, my people,\nyou who keep Israel's name in memory."
+     "text": "Take courage, my people,\nyou who keep Israel’s name in memory."
     },
     {
      "v": 6,
@@ -637,7 +637,7 @@
     },
     {
      "v": 16,
-     "text": "And they led away the widow's dear sons\nand left her who was alone bereft of her daughters."
+     "text": "And they led away the widow’s dear sons\nand left her who was alone bereft of her daughters."
     },
     {
      "v": 17,
@@ -784,11 +784,11 @@
     },
     {
      "v": 7,
-     "text": "For God has commanded that every lofty mountain\nand the hills of the age be brought low,\nand the ravines filled up to make the ground level,\nso that in God's glory Israel may go securely.{b}"
+     "text": "For God has commanded that every lofty mountain\nand the hills of the age be brought low,\nand the ravines filled up to make the ground level,\nso that in God’s glory Israel may go securely.{b}"
     },
     {
      "v": 8,
-     "text": "The forests too, and every sweet-smelling tree,\nhave given Israel shade by God's command."
+     "text": "The forests too, and every sweet-smelling tree,\nhave given Israel shade by God’s command."
     },
     {
      "v": 9,

@@ -2,7 +2,7 @@
  "id": "2-enoch",
  "name": "2 Enoch",
  "division": "Pseudepigrapha",
- "sourceNote": "Rendered into modern English from the longer (\"A\") form of 2 Enoch as translated by W. R. Morfill and R. H. Charles, *The Book of the Secrets of Enoch* (Oxford, 1896), which is in the public domain. The book survives only in Old Church Slavonic, and I did not work from the Slavonic copies themselves: the English here is a modern rewording of the 1896 rendering (archaisms removed, units and dates converted, notes added), and in many verses it stays close to the 1896 wording, which is allowed because that text is in the public domain. Subtleties of the Slavonic wording may therefore be lost. No modern translation under copyright was used or copied. Where the 1896 apparatus shows that the shorter recension (\"B\") lacks a verse or chapter, the footnotes say so in general terms; only the clearest cases are marked. **Date and manuscripts.** Most scholars think the book was first written in Greek, probably by a Jewish author, in the first century AD before the Temple fell in AD 70, perhaps in Egypt (Alexandria is often suggested), though some argue for a later date or a Christian author. The Greek and any Hebrew or Aramaic behind it are lost. The Slavonic version, made in the Middle Ages, is preserved in about twenty copies from the fourteenth to the eighteenth century. They fall into a longer and a shorter recension, and scholars still debate which is closer to the original. The manuscripts were brought to Western attention in the 1890s. **Numbering.** The chapters here (1–68) and the verse numbers follow the numbering of Morfill and Charles (1896). Later editions and translations divide the book into more chapters and verses (up to 73 chapters, with the last five, on Melchizedek, not included here), so a citation from another edition will not always match the numbers given here. **Canon status.** 2 Enoch is not part of any Jewish or Christian canon. It is a pseudepigraphon, written in the name of the patriarch Enoch, and was copied in Slavic churches as an apocryphal book. It is also called \"Slavonic Enoch\" and \"The Secrets of Enoch\" to tell it apart from 1 Enoch (Ethiopic) and 3 Enoch (Hebrew). **Names and units.** The Lord is *Gospod'* in the Slavonic; the Hebrew name Yahweh is never written. Personal names are given in the forms used in the Slavonic, with the English or Hebrew forms in the notes. Distances and times are converted to modern units where the text gives them, with the original figure in the notes. **About the book.** The book tells how Enoch, at the age of 365, is taken up through ten heavens by two angels, sees Paradise, the place of punishment, the paths of the sun and moon, and the fallen watchers, and is brought before God. He is robed in glory and sits to write 366 books at the dictation of the angel Pravuil. God then tells him in secret how the world was made from light and darkness out of nothing, and how man was made as a second angel. Enoch is sent back to earth for thirty days to teach his sons, urging them to care for the poor and the animals, to avoid idols and false oaths, and to trust in a coming judgment. He is then taken up for good. The book is an important source for Jewish ideas of the heavens, the calendar, and creation in the first century.",
+ "sourceNote": "Rendered into modern English from the longer (“A”) form of 2 Enoch as translated by W. R. Morfill and R. H. Charles, *The Book of the Secrets of Enoch* (Oxford, 1896), which is in the public domain. The book survives only in Old Church Slavonic, and I did not work from the Slavonic copies themselves: the English here is a modern rewording of the 1896 rendering (archaisms removed, units and dates converted, notes added), and in many verses it stays close to the 1896 wording, which is allowed because that text is in the public domain. Subtleties of the Slavonic wording may therefore be lost. No modern translation under copyright was used or copied. Where the 1896 apparatus shows that the shorter recension (“B”) lacks a verse or chapter, the footnotes say so in general terms; only the clearest cases are marked. **Date and manuscripts.** Most scholars think the book was first written in Greek, probably by a Jewish author, in the first century AD before the Temple fell in AD 70, perhaps in Egypt (Alexandria is often suggested), though some argue for a later date or a Christian author. The Greek and any Hebrew or Aramaic behind it are lost. The Slavonic version, made in the Middle Ages, is preserved in about twenty copies from the fourteenth to the eighteenth century. They fall into a longer and a shorter recension, and scholars still debate which is closer to the original. The manuscripts were brought to Western attention in the 1890s. **Numbering.** The chapters here (1–68) and the verse numbers follow the numbering of Morfill and Charles (1896). Later editions and translations divide the book into more chapters and verses (up to 73 chapters, with the last five, on Melchizedek, not included here), so a citation from another edition will not always match the numbers given here. **Canon status.** 2 Enoch is not part of any Jewish or Christian canon. It is a pseudepigraphon, written in the name of the patriarch Enoch, and was copied in Slavic churches as an apocryphal book. It is also called “Slavonic Enoch” and “The Secrets of Enoch” to tell it apart from 1 Enoch (Ethiopic) and 3 Enoch (Hebrew). **Names and units.** The Lord is *Gospod’* in the Slavonic; the Hebrew name Yahweh is never written. Personal names are given in the forms used in the Slavonic, with the English or Hebrew forms in the notes. Distances and times are converted to modern units where the text gives them, with the original figure in the notes. **About the book.** The book tells how Enoch, at the age of 365, is taken up through ten heavens by two angels, sees Paradise, the place of punishment, the paths of the sun and moon, and the fallen watchers, and is brought before God. He is robed in glory and sits to write 366 books at the dictation of the angel Pravuil. God then tells him in secret how the world was made from light and darkness out of nothing, and how man was made as a second angel. Enoch is sent back to earth for thirty days to teach his sons, urging them to care for the poor and the animals, to avoid idols and false oaths, and to trust in a coming judgment. He is then taken up for good. The book is an important source for Jewish ideas of the heavens, the calendar, and creation in the first century.",
  "chapters": [
   {
    "n": 1,
@@ -12,7 +12,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "There was once a wise man and master craftsman whom the Lord{a} loved and welcomed, so that he might see the highest dwellings and witness for himself the wise, great, unimaginable, and unchanging kingdom of God Almighty; the astonishing, glorious, shining, and many-eyed station of the Lord's servants; the unapproachable throne of the Lord; the ranks and appearances of the bodiless hosts; the unspeakable service of the multitude of the elements; the many appearances and the inexpressible singing of the host of Cherubim; and the boundless light."
+     "text": "There was once a wise man and master craftsman whom the Lord{a} loved and welcomed, so that he might see the highest dwellings and witness for himself the wise, great, unimaginable, and unchanging kingdom of God Almighty; the astonishing, glorious, shining, and many-eyed station of the Lord’s servants; the unapproachable throne of the Lord; the ranks and appearances of the bodiless hosts; the unspeakable service of the multitude of the elements; the many appearances and the inexpressible singing of the host of Cherubim; and the boundless light."
     },
     {
      "v": 2,
@@ -48,7 +48,7 @@
     },
     {
      "v": 10,
-     "text": "\"Take courage, Enoch, and do not be afraid. The eternal God has sent us to you, and look: today you will go up with us into heaven. You must tell your sons and all your household everything they are to do at home without you, and let no one come looking for you until the Lord brings you back to them.\""
+     "text": "“Take courage, Enoch, and do not be afraid. The eternal God has sent us to you, and look: today you will go up with us into heaven. You must tell your sons and all your household everything they are to do at home without you, and let no one come looking for you until the Lord brings you back to them.”"
     },
     {
      "v": 11,
@@ -59,17 +59,17 @@
     {
      "m": "a",
      "ref": "1:1",
-     "text": "The Slavonic text uses *Gospod'*, \"Lord,\" where a Hebrew original would probably have had Yahweh, and *Bog*, \"God.\" The Slavonic translation never writes the Hebrew name, so \"Yahweh\" is not supplied."
+     "text": "The Slavonic text uses *Gospod’*, “Lord,” where a Hebrew original would probably have had Yahweh, and *Bog*, “God.” The Slavonic translation never writes the Hebrew name, so “Yahweh” is not supplied."
     },
     {
      "m": "b",
      "ref": "1:2",
-     "text": "\"Methuselah\" (Hebrew *Metushelach*) is a name of uncertain meaning, sometimes explained as \"man of the spear.\" In Genesis 5:21 Enoch fathers him at the age of sixty-five; the 165 here is the figure given in the Septuagint's chronology."
+     "text": "“Methuselah” (Hebrew *Metushelach*) is a name of uncertain meaning, sometimes explained as “man of the spear.” In Genesis 5:21 Enoch fathers him at the age of sixty-five; the 165 here is the figure given in the Septuagint’s chronology."
     },
     {
      "m": "c",
      "ref": "1:11",
-     "text": "\"Regim\" and \"Gaidad\" appear as the names of Enoch's other sons in the Slavonic. Their meanings are not known; they have no counterpart in Genesis 5, which names only Methuselah as Enoch's son."
+     "text": "“Regim” and “Gaidad” appear as the names of Enoch’s other sons in the Slavonic. Their meanings are not known; they have no counterpart in Genesis 5, which names only Methuselah as Enoch’s son."
     }
    ]
   },
@@ -81,7 +81,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Listen to me, my children. I do not know where I am going or what will happen to me. So now, my children, I tell you: do not turn away from God to follow the empty idols, who did not make heaven and earth. They will perish, and so will those who worship them. May the Lord make your hearts steady in the fear of him. And now, my children, let no one try to look for me until the Lord brings me back to you.\""
+     "text": "“Listen to me, my children. I do not know where I am going or what will happen to me. So now, my children, I tell you: do not turn away from God to follow the empty idols, who did not make heaven and earth. They will perish, and so will those who worship them. May the Lord make your hearts steady in the fear of him. And now, my children, let no one try to look for me until the Lord brings me back to you.”"
     }
    ],
    "notes": []
@@ -150,11 +150,11 @@
     },
     {
      "v": 2,
-     "text": "I said to the men who were with me, \"Why are these being tormented without end?\" They answered me, \"These are the rebels against God, who did not obey God's commands but followed their own will, and turned aside with their prince, who is also chained up in the fifth heaven.\""
+     "text": "I said to the men who were with me, “Why are these being tormented without end?” They answered me, “These are the rebels against God, who did not obey God’s commands but followed their own will, and turned aside with their prince, who is also chained up in the fifth heaven.”"
     },
     {
      "v": 3,
-     "text": "I felt a great pity for them. They bowed to me and said, \"Man of God, pray for us to the Lord.\" I answered them, \"Who am I, a mortal man, that I should pray for angels? Who knows where I am going, or what will happen to me? And who will pray for me?\""
+     "text": "I felt a great pity for them. They bowed to me and said, “Man of God, pray for us to the Lord.” I answered them, “Who am I, a mortal man, that I should pray for angels? Who knows where I am going, or what will happen to me? And who will pray for me?”"
     }
    ],
    "notes": []
@@ -203,14 +203,14 @@
     },
     {
      "v": 10,
-     "text": "I said, \"How very sweet this place is!\" And the men said to me,"
+     "text": "I said, “How very sweet this place is!” And the men said to me,"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "8:3",
-     "text": "\"Paradise\" comes from an old Persian word for an enclosed garden; the Greek *paradeisos* is used for the garden of Eden in the Septuagint (Genesis 2:8). In Jewish writings of this period Paradise is often placed in the third heaven; compare 2 Corinthians 12:2–4."
+     "text": "“Paradise” comes from an old Persian word for an enclosed garden; the Greek *paradeisos* is used for the garden of Eden in the Septuagint (Genesis 2:8). In Jewish writings of this period Paradise is often placed in the third heaven; compare 2 Corinthians 12:2–4."
     }
    ]
   },
@@ -222,7 +222,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Enoch, this place has been prepared for the righteous: those who put up with every kind of insult from people who provoke them to anger; who turn their eyes away from wrongdoing; who judge fairly, give bread to the hungry, clothe the naked, lift up the fallen, and help orphans who have been wronged; who walk blamelessly before the Lord and serve him alone. This place is prepared for them as an everlasting inheritance.\""
+     "text": "“Enoch, this place has been prepared for the righteous: those who put up with every kind of insult from people who provoke them to anger; who turn their eyes away from wrongdoing; who judge fairly, give bread to the hungry, clothe the naked, lift up the fallen, and help orphans who have been wronged; who walk blamelessly before the Lord and serve him alone. This place is prepared for them as an everlasting inheritance.”"
     }
    ],
    "notes": []
@@ -239,11 +239,11 @@
     },
     {
      "v": 2,
-     "text": "\"Woe, woe! How terrible this place is!\""
+     "text": "“Woe, woe! How terrible this place is!”"
     },
     {
      "v": 3,
-     "text": "The men said to me, \"Enoch, this place has been prepared for those who dishonor God: those who commit unnatural sin on earth, corrupting boys in the manner of Sodom, and those who practice magic, charms, and diabolical sorcery, and boast of their evil deeds; thieves, liars, slanderers, the envious, the resentful, the sexually immoral, and murderers; those who, under a curse, steal people's souls; those who, seeing the poor, seize their possessions and grow rich while harming them for other people's goods; those who could have fed the empty but let the hungry die, who could have clothed them but stripped the naked; and those who did not know their Creator and bowed to gods without soul or life, who can neither see nor hear, empty gods, who also carved idols and bowed down to unclean handiwork. For all of these this place is prepared among the others, as an everlasting inheritance.\""
+     "text": "The men said to me, “Enoch, this place has been prepared for those who dishonor God: those who commit unnatural sin on earth, corrupting boys in the manner of Sodom, and those who practice magic, charms, and diabolical sorcery, and boast of their evil deeds; thieves, liars, slanderers, the envious, the resentful, the sexually immoral, and murderers; those who, under a curse, steal people’s souls; those who, seeing the poor, seize their possessions and grow rich while harming them for other people’s goods; those who could have fed the empty but let the hungry die, who could have clothed them but stripped the naked; and those who did not know their Creator and bowed to gods without soul or life, who can neither see nor hear, empty gods, who also carved idols and bowed down to unclean handiwork. For all of these this place is prepared among the others, as an everlasting inheritance.”"
     }
    ],
    "notes": []
@@ -260,7 +260,7 @@
     },
     {
      "v": 2,
-     "text": "I measured their movements and compared their light, and I saw that the sun's light is greater than the moon's."
+     "text": "I measured their movements and compared their light, and I saw that the sun’s light is greater than the moon’s."
     },
     {
      "v": 3,
@@ -268,7 +268,7 @@
     },
     {
      "v": 4,
-     "text": "Four great stars accompany its going out and its return, and under each star are a thousand stars, to the right of the sun's wheel; and four more to the left, each with a thousand stars under it, eight thousand in all, going out continually with the sun."
+     "text": "Four great stars accompany its going out and its return, and under each star are a thousand stars, to the right of the sun’s wheel; and four more to the left, each with a thousand stars under it, eight thousand in all, going out continually with the sun."
     },
     {
      "v": 5,
@@ -276,14 +276,14 @@
     },
     {
      "v": 6,
-     "text": "Six-winged ones go out ahead of the sun's wheel together with the angels, into the flames of fire, and a hundred angels light the sun and set it ablaze."
+     "text": "Six-winged ones go out ahead of the sun’s wheel together with the angels, into the flames of fire, and a hundred angels light the sun and set it ablaze."
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "11:5",
-     "text": "A \"myriad\" is ten thousand, so fifteen myriads is 150,000. The Slavonic reads the same way in the printed text, though the numbers in this passage vary from copy to copy."
+     "text": "A “myriad” is ten thousand, so fifteen myriads is 150,000. The Slavonic reads the same way in the printed text, though the numbers in this passage vary from copy to copy."
     }
    ]
   },
@@ -311,7 +311,7 @@
     {
      "m": "b",
      "ref": "12:1",
-     "text": "\"Chalkydri\" is a Greek-looking word, perhaps from *chalkos*, \"bronze,\" or from a form of *chalkis*, a kind of snake or lizard. The creatures are known only from this book."
+     "text": "“Chalkydri” is a Greek-looking word, perhaps from *chalkos*, “bronze,” or from a form of *chalkis*, a kind of snake or lizard. The creatures are known only from this book."
     }
    ]
   },
@@ -334,7 +334,7 @@
     {
      "m": "a",
      "ref": "13:2",
-     "text": "The Slavonic gives \"sixty-one stadia and a quarter\" (*stadii*, from the Greek *stadion*, about 185 meters or 607 feet), which comes to about 11.3 kilometers or 7 miles."
+     "text": "The Slavonic gives “sixty-one stadia and a quarter” (*stadii*, from the Greek *stadion*, about 185 meters or 607 feet), which comes to about 11.3 kilometers or 7 miles."
     }
    ]
   },
@@ -357,7 +357,7 @@
     {
      "m": "a",
      "ref": "14:2",
-     "text": "In ancient reckoning the night hours were counted from sunset, so the eighth hour of the night falls between about one and two in the morning; the text's figures for the sun's night course are not exact."
+     "text": "In ancient reckoning the night hours were counted from sunset, so the eighth hour of the night falls between about one and two in the morning; the text’s figures for the sun’s night course are not exact."
     }
    ]
   },
@@ -369,11 +369,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "Then the creatures of the sun, the Phoenixes and Chalkydri, burst into song. Because of this every bird flaps its wings, rejoicing over the giver of light, and at the Lord's command they sang."
+     "text": "Then the creatures of the sun, the Phoenixes and Chalkydri, burst into song. Because of this every bird flaps its wings, rejoicing over the giver of light, and at the Lord’s command they sang."
     },
     {
      "v": 2,
-     "text": "The giver of light comes to bring brightness to the whole world. The morning watch takes shape, which is the rays of the sun, and the sun of the earth goes out and takes up its brightness to light the whole face of the earth. They showed me this reckoning of the sun's course."
+     "text": "The giver of light comes to bring brightness to the whole world. The morning watch takes shape, which is the rays of the sun, and the sun of the earth goes out and takes up its brightness to light the whole face of the earth. They showed me this reckoning of the sun’s course."
     },
     {
      "v": 3,
@@ -384,7 +384,7 @@
     {
      "m": "a",
      "ref": "15:3",
-     "text": "The twenty-eight-year \"great circle\" of the sun is the period after which the days of the week return to the same dates in the Julian calendar (7 × 4 = 28). The next chapter gives a second cycle of 532 years, found by multiplying 28 by 19."
+     "text": "The twenty-eight-year “great circle” of the sun is the period after which the days of the week return to the same dates in the Julian calendar (7 × 4 = 28). The next chapter gives a second cycle of 532 years, found by multiplying 28 by 19."
     }
    ]
   },
@@ -404,7 +404,7 @@
     },
     {
      "v": 3,
-     "text": "It passes through the western gates in the same order and number as the eastern ones, and completes the 365 and a quarter days of the solar year, whereas the lunar year has 354. Twelve days are therefore missing from the solar circle, and these are the moon's extra days for the whole year."
+     "text": "It passes through the western gates in the same order and number as the eastern ones, and completes the 365 and a quarter days of the solar year, whereas the lunar year has 354. Twelve days are therefore missing from the solar circle, and these are the moon’s extra days for the whole year."
     },
     {
      "v": 4,
@@ -460,23 +460,23 @@
     },
     {
      "v": 2,
-     "text": "\"Why are these so withered, with sad faces and silent mouths, and why is there no worship in this heaven?\""
+     "text": "“Why are these so withered, with sad faces and silent mouths, and why is there no worship in this heaven?”"
     },
     {
      "v": 3,
-     "text": "They said to me, \"These are the Grigori, who with their prince Satanail{b} rejected the Lord of light. After them come those who are held in great darkness in the second heaven. Three of them went down to earth from the Lord's throne, to the place Ermon,{c} and broke their vows on the shoulder of Mount Ermon. They saw how beautiful the daughters of men were and took wives for themselves, and defiled the earth with their deeds. In every age of their lives they brought lawlessness and unnatural mixing, and giants were born, marvelously huge men, and great hatred.\""
+     "text": "They said to me, “These are the Grigori, who with their prince Satanail{b} rejected the Lord of light. After them come those who are held in great darkness in the second heaven. Three of them went down to earth from the Lord’s throne, to the place Ermon,{c} and broke their vows on the shoulder of Mount Ermon. They saw how beautiful the daughters of men were and took wives for themselves, and defiled the earth with their deeds. In every age of their lives they brought lawlessness and unnatural mixing, and giants were born, marvelously huge men, and great hatred.”"
     },
     {
      "v": 4,
-     "text": "\"For this God judged them with a great judgment, and they weep for their brothers. They will be punished on the Lord's great day.\""
+     "text": "“For this God judged them with a great judgment, and they weep for their brothers. They will be punished on the Lord’s great day.”"
     },
     {
      "v": 5,
-     "text": "I said to the Grigori, \"I have seen your brothers and their deeds and their great torments, and I prayed for them, but the Lord has condemned them to be under the earth until the present heaven and earth come to an end forever.\""
+     "text": "I said to the Grigori, “I have seen your brothers and their deeds and their great torments, and I prayed for them, but the Lord has condemned them to be under the earth until the present heaven and earth come to an end forever.”"
     },
     {
      "v": 6,
-     "text": "I said, \"Brothers, why do you wait? Why do you not serve in the presence of the Lord, and why have you not offered your service before the Lord's face, in case you anger your Lord completely?\""
+     "text": "I said, “Brothers, why do you wait? Why do you not serve in the presence of the Lord, and why have you not offered your service before the Lord’s face, in case you anger your Lord completely?”"
     },
     {
      "v": 7,
@@ -487,17 +487,17 @@
     {
      "m": "a",
      "ref": "18:1",
-     "text": "\"Grigori\" comes from the Greek *egregoroi*, \"watchers\" or \"wakeful ones,\" the name given in 1 Enoch to the angels who came down to earth (compare Daniel 4:13, \"a watcher, a holy one\")."
+     "text": "“Grigori” comes from the Greek *egregoroi*, “watchers” or “wakeful ones,” the name given in 1 Enoch to the angels who came down to earth (compare Daniel 4:13, “a watcher, a holy one”)."
     },
     {
      "m": "b",
      "ref": "18:3",
-     "text": "\"Satanail\" is Satan with the divine ending *-el* (\"God\"), the name of the fallen leader in several Slavonic and Jewish writings; \"Satan\" itself is Hebrew for \"adversary.\""
+     "text": "“Satanail” is Satan with the divine ending *-el* (“God”), the name of the fallen leader in several Slavonic and Jewish writings; “Satan” itself is Hebrew for “adversary.”"
     },
     {
      "m": "c",
      "ref": "18:3",
-     "text": "\"Ermon\" is the Slavonic form of Hermon (Hebrew *Chermon*, \"sacred\" or \"forbidden place\"), the mountain in 1 Enoch 6 where the watchers swore their oath."
+     "text": "“Ermon” is the Slavonic form of Hermon (Hebrew *Chermon*, “sacred” or “forbidden place”), the mountain in 1 Enoch 6 where the watchers swore their oath."
     }
    ]
   },
@@ -534,7 +534,7 @@
     },
     {
      "v": 2,
-     "text": "\"Take courage, Enoch; do not be afraid.\" They showed me the Lord from far away, sitting on his very high throne. For what is there in the tenth heaven, since the Lord lives there?"
+     "text": "“Take courage, Enoch; do not be afraid.” They showed me the Lord from far away, sitting on his very high throne. For what is there in the tenth heaven, since the Lord lives there?"
     },
     {
      "v": 3,
@@ -549,12 +549,12 @@
     {
      "m": "a",
      "ref": "20:1",
-     "text": "\"Ioanit\" is an obscure word in the Slavonic copies. Its meaning is unknown, and it may be a miscopied form of an earlier name."
+     "text": "“Ioanit” is an obscure word in the Slavonic copies. Its meaning is unknown, and it may be a miscopied form of an earlier name."
     },
     {
      "m": "b",
      "ref": "20:3",
-     "text": "\"Aravat\" or \"Aravoth\" (Hebrew *aravot*) is a word used in Psalm 68:4 and in later Jewish writings for the highest of the heavens, where God lives. Its original meaning may be \"steppes\" or \"clouds.\""
+     "text": "“Aravat” or “Aravoth” (Hebrew *aravot*) is a word used in Psalm 68:4 and in later Jewish writings for the highest of the heavens, where God lives. Its original meaning may be “steppes” or “clouds.”"
     }
    ]
   },
@@ -566,27 +566,27 @@
    "verses": [
     {
      "v": 1,
-     "text": "The Cherubim and Seraphim stand around the throne, the six-winged and many-eyed ones. They never leave but stand before the Lord's face doing his will; they cover his whole throne and sing with a gentle voice before the Lord: \"Holy, holy, holy, Lord, Ruler of hosts; the heavens and the earth are full of your glory.\""
+     "text": "The Cherubim and Seraphim stand around the throne, the six-winged and many-eyed ones. They never leave but stand before the Lord’s face doing his will; they cover his whole throne and sing with a gentle voice before the Lord: “Holy, holy, holy, Lord, Ruler of hosts; the heavens and the earth are full of your glory.”"
     },
     {
      "v": 2,
-     "text": "When I had seen all these things, the men said to me, \"Enoch, we have been commanded to travel with you only this far.\" Then the men went away from me, and I did not see them again."
+     "text": "When I had seen all these things, the men said to me, “Enoch, we have been commanded to travel with you only this far.” Then the men went away from me, and I did not see them again."
     },
     {
      "v": 3,
-     "text": "I was left alone at the edge of the seventh heaven. I became afraid and fell on my face and said to myself, \"Woe is me! What has happened to me?\""
+     "text": "I was left alone at the edge of the seventh heaven. I became afraid and fell on my face and said to myself, “Woe is me! What has happened to me?”"
     },
     {
      "v": 4,
-     "text": "Then the Lord sent one of his glorious ones, the archangel Gabriel,{a} who said to me, \"Take courage, Enoch; do not be afraid. Get up, and come with me, and stand before the Lord's face forever.\""
+     "text": "Then the Lord sent one of his glorious ones, the archangel Gabriel,{a} who said to me, “Take courage, Enoch; do not be afraid. Get up, and come with me, and stand before the Lord’s face forever.”"
     },
     {
      "v": 5,
-     "text": "I answered him and said to myself, \"My lord, my soul has left me from terror and trembling.\" I called out to the men who had led me up to this place; I had relied on them, and it was with them that I was going before the Lord's face."
+     "text": "I answered him and said to myself, “My lord, my soul has left me from terror and trembling.” I called out to the men who had led me up to this place; I had relied on them, and it was with them that I was going before the Lord’s face."
     },
     {
      "v": 6,
-     "text": "Gabriel caught me up like a leaf caught by the wind, and set me before the Lord's face."
+     "text": "Gabriel caught me up like a leaf caught by the wind, and set me before the Lord’s face."
     },
     {
      "v": 7,
@@ -601,17 +601,17 @@
     {
      "m": "a",
      "ref": "21:4",
-     "text": "\"Gabriel\" (Hebrew *Gavri'el*) means \"God is my strong man\" or \"strength of God.\""
+     "text": "“Gabriel” (Hebrew *Gavri’el*) means “God is my strong man” or “strength of God.”"
     },
     {
      "m": "b",
      "ref": "21:7",
-     "text": "\"Muzaloth\" is the Hebrew *mazzalot*, the \"constellations\" or \"signs\" of 2 Kings 23:5."
+     "text": "“Muzaloth” is the Hebrew *mazzalot*, the “constellations” or “signs” of 2 Kings 23:5."
     },
     {
      "m": "c",
      "ref": "21:8",
-     "text": "\"Kuchavim\" is Hebrew *kokhavim*, \"stars.\""
+     "text": "“Kuchavim” is Hebrew *kokhavim*, “stars.”"
     }
    ]
   },
@@ -623,15 +623,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "In the tenth heaven, which is called Aravoth, I saw the appearance of the Lord's face. It was like iron heated in a fire and taken out, throwing off sparks, and burning."
+     "text": "In the tenth heaven, which is called Aravoth, I saw the appearance of the Lord’s face. It was like iron heated in a fire and taken out, throwing off sparks, and burning."
     },
     {
      "v": 2,
-     "text": "So, in a moment of eternity, I saw the Lord's face; but the Lord's face cannot be described. It is marvelous, awesome, and very, very terrible."
+     "text": "So, in a moment of eternity, I saw the Lord’s face; but the Lord’s face cannot be described. It is marvelous, awesome, and very, very terrible."
     },
     {
      "v": 3,
-     "text": "Who am I to tell of the Lord's unspeakable being and his wonderful face? I cannot tell of the number of his many instructions or his various voices, or of his very great throne, not made by hands, or of the number of those standing around him, the troops of Cherubim and Seraphim, or of their unceasing singing, or of his unchanging beauty. Who could tell of the unspeakable greatness of his glory?"
+     "text": "Who am I to tell of the Lord’s unspeakable being and his wonderful face? I cannot tell of the number of his many instructions or his various voices, or of his very great throne, not made by hands, or of the number of those standing around him, the troops of Cherubim and Seraphim, or of their unceasing singing, or of his unchanging beauty. Who could tell of the unspeakable greatness of his glory?"
     },
     {
      "v": 4,
@@ -639,19 +639,19 @@
     },
     {
      "v": 5,
-     "text": "\"Take courage, Enoch; do not be afraid. Get up, and stand before my face forever.\""
+     "text": "“Take courage, Enoch; do not be afraid. Get up, and stand before my face forever.”"
     },
     {
      "v": 6,
-     "text": "Then the chief commander Michael{a} lifted me up and led me before the Lord's face."
+     "text": "Then the chief commander Michael{a} lifted me up and led me before the Lord’s face."
     },
     {
      "v": 7,
-     "text": "The Lord said to his servants, testing them, \"Let Enoch stand before my face forever.\" The glorious ones bowed to the Lord and said, \"Let Enoch go according to your word.\""
+     "text": "The Lord said to his servants, testing them, “Let Enoch stand before my face forever.” The glorious ones bowed to the Lord and said, “Let Enoch go according to your word.”"
     },
     {
      "v": 8,
-     "text": "The Lord said to Michael, \"Go, take Enoch out of his earthly clothes, anoint him with my sweet ointment, and put him into the clothes of my glory.\""
+     "text": "The Lord said to Michael, “Go, take Enoch out of his earthly clothes, anoint him with my sweet ointment, and put him into the clothes of my glory.”"
     },
     {
      "v": 9,
@@ -659,19 +659,19 @@
     },
     {
      "v": 10,
-     "text": "The Lord called one of his archangels by name, Pravuil,{b} whose wisdom was quicker than that of the other archangels, and who wrote down all the Lord's deeds. The Lord said to Pravuil, \"Bring out the books from my storehouses, and a pen for quick writing, and give it to Enoch; deliver to him the choice and comforting books from your hand.\""
+     "text": "The Lord called one of his archangels by name, Pravuil,{b} whose wisdom was quicker than that of the other archangels, and who wrote down all the Lord’s deeds. The Lord said to Pravuil, “Bring out the books from my storehouses, and a pen for quick writing, and give it to Enoch; deliver to him the choice and comforting books from your hand.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "22:6",
-     "text": "\"Michael\" (Hebrew *Mikha'el*) means \"Who is like God?\" The Slavonic title *arkhistratig* is the Greek *archistrategos*, \"chief commander.\""
+     "text": "“Michael” (Hebrew *Mikha’el*) means “Who is like God?” The Slavonic title *arkhistratig* is the Greek *archistrategos*, “chief commander.”"
     },
     {
      "m": "b",
      "ref": "22:10",
-     "text": "\"Pravuil\" is a name found only in this book; it may be related to the Jewish angel name \"Vretil,\" and its meaning is uncertain."
+     "text": "“Pravuil” is a name found only in this book; it may be related to the Jewish angel name “Vretil,” and its meaning is uncertain."
     }
    ]
   },
@@ -687,7 +687,7 @@
     },
     {
      "v": 2,
-     "text": "Pravuil said to me, \"All the things I have told you, we have written down. Sit down and write out all the souls of mankind, however many are born, and the places prepared for them forever; for all souls are prepared for eternity, before the world was formed.\""
+     "text": "Pravuil said to me, “All the things I have told you, we have written down. Sit down and write out all the souls of mankind, however many are born, and the places prepared for them forever; for all souls are prepared for eternity, before the world was formed.”"
     },
     {
      "v": 3,
@@ -698,7 +698,7 @@
     {
      "m": "a",
      "ref": "23:3",
-     "text": "The Slavonic reads \"double thirty days and thirty nights\"; some copies read simply \"thirty days and thirty nights.\" The number of books also varies from copy to copy."
+     "text": "The Slavonic reads “double thirty days and thirty nights”; some copies read simply “thirty days and thirty nights.” The number of books also varies from copy to copy."
     }
    ]
   },
@@ -710,23 +710,23 @@
    "verses": [
     {
      "v": 1,
-     "text": "The Lord called me and said to me, \"Enoch, sit down on my left, with Gabriel.\""
+     "text": "The Lord called me and said to me, “Enoch, sit down on my left, with Gabriel.”"
     },
     {
      "v": 2,
-     "text": "I bowed to the Lord, and the Lord said to me, \"Enoch, my beloved, all that you see, all that stands finished, I tell to you even before the very beginning: everything I created from non-being, and the visible things from the invisible.\""
+     "text": "I bowed to the Lord, and the Lord said to me, “Enoch, my beloved, all that you see, all that stands finished, I tell to you even before the very beginning: everything I created from non-being, and the visible things from the invisible.”"
     },
     {
      "v": 3,
-     "text": "\"Hear, Enoch, and take in these words of mine. I have not told my secret even to my angels, and I have not told them how they arose, or about my endless kingdom, and they have not understood my creating, which I am telling you today.\""
+     "text": "“Hear, Enoch, and take in these words of mine. I have not told my secret even to my angels, and I have not told them how they arose, or about my endless kingdom, and they have not understood my creating, which I am telling you today.”"
     },
     {
      "v": 4,
-     "text": "\"For before anything was visible, I alone used to move among the invisible things, like the sun from east to west and from west to east.\""
+     "text": "“For before anything was visible, I alone used to move among the invisible things, like the sun from east to west and from west to east.”"
     },
     {
      "v": 5,
-     "text": "\"But even the sun has peace in itself, while I found no peace, because I was creating everything. I had the idea of laying foundations and of making the visible creation.\""
+     "text": "“But even the sun has peace in itself, while I found no peace, because I was creating everything. I had the idea of laying foundations and of making the visible creation.”"
     }
    ],
    "notes": []
@@ -739,34 +739,34 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"In the very lowest parts I commanded that the visible things should come down from the invisible, and Adoil{a} came down, very great, and I saw him, and look, he had a belly of great light.\""
+     "text": "“In the very lowest parts I commanded that the visible things should come down from the invisible, and Adoil{a} came down, very great, and I saw him, and look, he had a belly of great light.”"
     },
     {
      "v": 2,
-     "text": "\"I said to him, 'Come undone, Adoil, and let the visible come out of you.'\""
+     "text": "“I said to him, ‘Come undone, Adoil, and let the visible come out of you.’”"
     },
     {
      "v": 3,
-     "text": "\"He came undone, and a great light came out. I was in the middle of the great light. And as light is born from light, a great age came forth and showed all the creation I had thought of making.\""
+     "text": "“He came undone, and a great light came out. I was in the middle of the great light. And as light is born from light, a great age came forth and showed all the creation I had thought of making.”"
     },
     {
      "v": 4,
-     "text": "\"I saw that it was good.\""
+     "text": "“I saw that it was good.”"
     },
     {
      "v": 5,
-     "text": "\"I placed a throne for myself and took my seat on it. I said to the light, 'Go up from there, higher, and fix yourself high above the throne, and be a foundation for the highest things.'\""
+     "text": "“I placed a throne for myself and took my seat on it. I said to the light, ‘Go up from there, higher, and fix yourself high above the throne, and be a foundation for the highest things.’”"
     },
     {
      "v": 6,
-     "text": "\"Above the light there is nothing else. Then I bent over and looked up from my throne.\""
+     "text": "“Above the light there is nothing else. Then I bent over and looked up from my throne.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "25:1",
-     "text": "\"Adoil\" is a name found only in this book. Its meaning is unknown; some have suggested a connection with the Hebrew *Adonai* (\"my Lord\") or with a word meaning \"the Lord's hand.\" The idea of God's own substance giving rise to the world is unique to this book."
+     "text": "“Adoil” is a name found only in this book. Its meaning is unknown; some have suggested a connection with the Hebrew *Adonai* (“my Lord”) or with a word meaning “the Lord’s hand.” The idea of God’s own substance giving rise to the world is unique to this book."
     }
    ]
   },
@@ -778,26 +778,26 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I called the very lowest a second time and said, 'Let Archas{a} come out, firm,' and he came out firm from the invisible.\""
+     "text": "“I called the very lowest a second time and said, ‘Let Archas{a} come out, firm,’ and he came out firm from the invisible.”"
     },
     {
      "v": 2,
-     "text": "\"Archas came out, hard, heavy, and very red.\""
+     "text": "“Archas came out, hard, heavy, and very red.”"
     },
     {
      "v": 3,
-     "text": "\"I said, 'Be opened, Archas, and let there be born from you.' He came undone, and an age came forth, very great and very dark, bearing the creation of all the lower things. I saw that it was good, and I said to him,\""
+     "text": "“I said, ‘Be opened, Archas, and let there be born from you.’ He came undone, and an age came forth, very great and very dark, bearing the creation of all the lower things. I saw that it was good, and I said to him,”"
     },
     {
      "v": 4,
-     "text": "\"'Go down from there, make yourself firm, and be the foundation for the lower things.' It happened, and he went down and fixed himself and became the foundation for the lower things; and below the darkness there is nothing else.\""
+     "text": "“‘Go down from there, make yourself firm, and be the foundation for the lower things.’ It happened, and he went down and fixed himself and became the foundation for the lower things; and below the darkness there is nothing else.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "26:1",
-     "text": "\"Archas\" is of uncertain meaning; some have taken it from Greek *archē* (\"beginning\"), others from Aramaic *arqa* (\"earth\"). Here it is the dark, heavy counterpart to Adoil."
+     "text": "“Archas” is of uncertain meaning; some have taken it from Greek *archē* (“beginning”), others from Aramaic *arqa* (“earth”). Here it is the dark, heavy counterpart to Adoil."
     }
    ]
   },
@@ -809,11 +809,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I commanded that something be taken from the light and the darkness, and I said, 'Become thick,' and so it was. I spread it out with the light, and it became water. I spread it out over the darkness, below the light, and then I made the waters firm, that is, the bottomless deep. I made a foundation of light around the water and created seven circles inside it, and I made the water look like crystal, wet and dry, that is, like glass. I made the circling of the waters and the other elements, and I showed each of them its road, and each of the seven stars its own heaven, so that they would travel in this way. And I saw that it was good.\""
+     "text": "“I commanded that something be taken from the light and the darkness, and I said, ‘Become thick,’ and so it was. I spread it out with the light, and it became water. I spread it out over the darkness, below the light, and then I made the waters firm, that is, the bottomless deep. I made a foundation of light around the water and created seven circles inside it, and I made the water look like crystal, wet and dry, that is, like glass. I made the circling of the waters and the other elements, and I showed each of them its road, and each of the seven stars its own heaven, so that they would travel in this way. And I saw that it was good.”"
     },
     {
      "v": 2,
-     "text": "\"I separated the light from the darkness, in the middle of the water, this way and that. I told the light to be the day and the darkness to be the night. There was evening and there was morning, the first day.\""
+     "text": "“I separated the light from the darkness, in the middle of the water, this way and that. I told the light to be the day and the darkness to be the night. There was evening and there was morning, the first day.”"
     }
    ],
    "notes": []
@@ -826,19 +826,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Then I made the circle of the heavens firm, and I made the lower water, the water under heaven, gather itself into one mass, and the chaos become dry, and it was so.\""
+     "text": "“Then I made the circle of the heavens firm, and I made the lower water, the water under heaven, gather itself into one mass, and the chaos become dry, and it was so.”"
     },
     {
      "v": 2,
-     "text": "\"Out of the waves I made hard, huge rock, and from the rock I piled up the dry land. The dry land I called earth, and the middle of the earth I called the abyss, that is, the bottomless. I gathered the sea in one place and bound it together with a yoke.\""
+     "text": "“Out of the waves I made hard, huge rock, and from the rock I piled up the dry land. The dry land I called earth, and the middle of the earth I called the abyss, that is, the bottomless. I gathered the sea in one place and bound it together with a yoke.”"
     },
     {
      "v": 3,
-     "text": "\"I said to the sea, 'Look, I am giving you your eternal limits, and you will not break loose from your component parts.'\""
+     "text": "“I said to the sea, ‘Look, I am giving you your eternal limits, and you will not break loose from your component parts.’”"
     },
     {
      "v": 4,
-     "text": "\"So I made the firmament firm. This day I called the first created day (Sunday).{a}\""
+     "text": "“So I made the firmament firm. This day I called the first created day (Sunday).{a}”"
     }
    ],
    "notes": [
@@ -857,19 +857,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"For all the heavenly troops I shaped the image and substance of fire. My eye looked at the very hard, firm rock, and from the flash of my eye the lightning received its wonderful nature: it is both fire in water and water in fire, and neither puts out the other or dries it up. This is why lightning is brighter than the sun, softer than water, and firmer than hard rock.\""
+     "text": "“For all the heavenly troops I shaped the image and substance of fire. My eye looked at the very hard, firm rock, and from the flash of my eye the lightning received its wonderful nature: it is both fire in water and water in fire, and neither puts out the other or dries it up. This is why lightning is brighter than the sun, softer than water, and firmer than hard rock.”"
     },
     {
      "v": 2,
-     "text": "\"From the rock I cut off a great fire, and from the fire I made the ranks of the bodiless angels in ten troops. Their weapons are fire, and their clothing is burning flame. I commanded each one to stand in his own rank.\""
+     "text": "“From the rock I cut off a great fire, and from the fire I made the ranks of the bodiless angels in ten troops. Their weapons are fire, and their clothing is burning flame. I commanded each one to stand in his own rank.”"
     },
     {
      "v": 3,
-     "text": "\"One of the angels, from the rank of the angels, turned away with the rank that was under him and conceived an impossible thought: to set his throne higher than the clouds above the earth, so that he might become equal in rank to my power.\""
+     "text": "“One of the angels, from the rank of the angels, turned away with the rank that was under him and conceived an impossible thought: to set his throne higher than the clouds above the earth, so that he might become equal in rank to my power.”"
     },
     {
      "v": 4,
-     "text": "\"I threw him down from the height with his angels, and he has been flying in the air ever since, above the bottomless deep.\""
+     "text": "“I threw him down from the height with his angels, and he has been flying in the air ever since, above the bottomless deep.”"
     }
    ],
    "notes": []
@@ -882,19 +882,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"On the third day I commanded the earth to grow great, fruitful trees, and hills, and seed for sowing. I planted Paradise and fenced it in, and I placed flaming angels as armed guards. In this way I made new growth.\""
+     "text": "“On the third day I commanded the earth to grow great, fruitful trees, and hills, and seed for sowing. I planted Paradise and fenced it in, and I placed flaming angels as armed guards. In this way I made new growth.”"
     },
     {
      "v": 2,
-     "text": "\"Then evening came, and morning came, the fourth day.\""
+     "text": "“Then evening came, and morning came, the fourth day.”"
     },
     {
      "v": 3,
-     "text": "\"(Wednesday.) On the fourth day I commanded that there should be great lights on the heavenly circles.\""
+     "text": "“(Wednesday.) On the fourth day I commanded that there should be great lights on the heavenly circles.”"
     },
     {
      "v": 4,
-     "text": "\"On the first, uppermost circle I put the star of Kruno,{a} on the second Aphrodit, on the third Aris, on the fifth Zoues, on the sixth Ermis, and on the seventh, the lowest, the moon, and I adorned it with the lesser stars.\""
+     "text": "“On the first, uppermost circle I put the star of Kruno,{a} on the second Aphrodit, on the third Aris, on the fifth Zoues, on the sixth Ermis, and on the seventh, the lowest, the moon, and I adorned it with the lesser stars.”"
     },
     {
      "v": 5,
@@ -902,64 +902,64 @@
     },
     {
      "v": 6,
-     "text": "\"I made the sun go through each of the twelve constellations, and I appointed the succession of the months with their names and lives, their thunderings, and the marking of their hours, and how they should follow one another.\""
+     "text": "“I made the sun go through each of the twelve constellations, and I appointed the succession of the months with their names and lives, their thunderings, and the marking of their hours, and how they should follow one another.”"
     },
     {
      "v": 7,
-     "text": "\"Then evening came, and morning came, the fifth day.\""
+     "text": "“Then evening came, and morning came, the fifth day.”"
     },
     {
      "v": 8,
-     "text": "\"(Thursday.) On the fifth day I commanded the sea to bring forth fish, and birds of many kinds with feathers, and all the animals that creep over the earth, going about on four legs, and soaring in the air, male and female, and every soul that breathes the spirit of life.\""
+     "text": "“(Thursday.) On the fifth day I commanded the sea to bring forth fish, and birds of many kinds with feathers, and all the animals that creep over the earth, going about on four legs, and soaring in the air, male and female, and every soul that breathes the spirit of life.”"
     },
     {
      "v": 9,
-     "text": "\"Then evening came, and morning came, the sixth day.\""
+     "text": "“Then evening came, and morning came, the sixth day.”"
     },
     {
      "v": 10,
-     "text": "\"(Friday.) On the sixth day I commanded my wisdom to make man from seven substances: first, his flesh from the earth; second, his blood from the dew; third, his eyes from the sun; fourth, his bones from stone; fifth, his intelligence from the swiftness of the angels and from cloud; sixth, his veins and his hair from the grass of the earth; seventh, his soul from my breath and from the wind.\""
+     "text": "“(Friday.) On the sixth day I commanded my wisdom to make man from seven substances: first, his flesh from the earth; second, his blood from the dew; third, his eyes from the sun; fourth, his bones from stone; fifth, his intelligence from the swiftness of the angels and from cloud; sixth, his veins and his hair from the grass of the earth; seventh, his soul from my breath and from the wind.”"
     },
     {
      "v": 11,
-     "text": "\"I gave him seven natures: hearing to the flesh, sight to the eyes, smell to the soul, touch to the veins, taste to the blood, endurance to the bones, and enjoyment to the intelligence.\""
+     "text": "“I gave him seven natures: hearing to the flesh, sight to the eyes, smell to the soul, touch to the veins, taste to the blood, endurance to the bones, and enjoyment to the intelligence.”"
     },
     {
      "v": 12,
-     "text": "\"I thought of a clever saying to say: I made man from both invisible and visible nature; his death and life and image come from both. He knows speech like a created thing; small in greatness and again great in smallness. I placed him on the earth as a second angel, honored, great, and glorious, and I appointed him ruler to rule on earth and to have my wisdom. There was none like him on earth among all my creatures.\""
+     "text": "“I thought of a clever saying to say: I made man from both invisible and visible nature; his death and life and image come from both. He knows speech like a created thing; small in greatness and again great in smallness. I placed him on the earth as a second angel, honored, great, and glorious, and I appointed him ruler to rule on earth and to have my wisdom. There was none like him on earth among all my creatures.”"
     },
     {
      "v": 13,
-     "text": "\"I gave him a name made from the four parts, from east, west, south, and north, and I appointed four special stars for him. I called his name Adam,{b} and showed him the two ways, the light and the darkness, and I told him,\""
+     "text": "“I gave him a name made from the four parts, from east, west, south, and north, and I appointed four special stars for him. I called his name Adam,{b} and showed him the two ways, the light and the darkness, and I told him,”"
     },
     {
      "v": 14,
-     "text": "\"'This is good, and that is bad,' so that I might learn whether he has love for me or hatred, and it might become clear which of his race love me.\""
+     "text": "“‘This is good, and that is bad,’ so that I might learn whether he has love for me or hatred, and it might become clear which of his race love me.”"
     },
     {
      "v": 15,
-     "text": "\"For I have seen his nature, but he has not seen his own nature. Because he does not see it, he will sin worse. And I said, 'After sin, what is there but death?'\""
+     "text": "“For I have seen his nature, but he has not seen his own nature. Because he does not see it, he will sin worse. And I said, ‘After sin, what is there but death?’”"
     },
     {
      "v": 16,
-     "text": "\"I put sleep on him, and he fell asleep. I took a rib from him and made him a wife, so that death would come to him through his wife. I took his last word and called her name 'mother,' that is, Eve.{c}\""
+     "text": "“I put sleep on him, and he fell asleep. I took a rib from him and made him a wife, so that death would come to him through his wife. I took his last word and called her name ‘mother,’ that is, Eve.{c}”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "30:4",
-     "text": "These are the Greek planet names in Slavonic spelling, namely Kronos (Saturn), Aphrodite (Venus), Ares (Mars), Zeus (Jupiter), and Hermes (Mercury). The list skips the fourth circle, which is presumably the sun's, mentioned in the next verse."
+     "text": "These are the Greek planet names in Slavonic spelling, namely Kronos (Saturn), Aphrodite (Venus), Ares (Mars), Zeus (Jupiter), and Hermes (Mercury). The list skips the fourth circle, which is presumably the sun’s, mentioned in the next verse."
     },
     {
      "m": "b",
      "ref": "30:13",
-     "text": "\"Adam\" is Hebrew for \"man,\" related to *adamah*, \"ground.\" Here the four letters of the Greek name (A-D-A-M) are taken to stand for the four directions: *anatole* (east), *dysis* (west), *arktos* (north), and *mesembria* (south). The same idea appears in later Jewish and Christian writings."
+     "text": "“Adam” is Hebrew for “man,” related to *adamah*, “ground.” Here the four letters of the Greek name (A-D-A-M) are taken to stand for the four directions: *anatole* (east), *dysis* (west), *arktos* (north), and *mesembria* (south). The same idea appears in later Jewish and Christian writings."
     },
     {
      "m": "c",
      "ref": "30:16",
-     "text": "\"Eve\" (Hebrew *Chavvah*, \"life\" or \"living\") is called \"mother of all living\" in Genesis 3:20. The Slavonic gives \"Eva.\""
+     "text": "“Eve” (Hebrew *Chavvah*, “life” or “living”) is called “mother of all living” in Genesis 3:20. The Slavonic gives “Eva.”"
     }
    ]
   },
@@ -971,27 +971,27 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Adam has life on earth, and I made a garden in Eden, in the east, so that he might keep the covenant and observe the command.\""
+     "text": "“Adam has life on earth, and I made a garden in Eden, in the east, so that he might keep the covenant and observe the command.”"
     },
     {
      "v": 2,
-     "text": "\"I opened the heavens to him, so that he could see the angels singing the song of victory, and the light without shadow.\""
+     "text": "“I opened the heavens to him, so that he could see the angels singing the song of victory, and the light without shadow.”"
     },
     {
      "v": 3,
-     "text": "\"He was continually in Paradise, and the devil understood that I wanted to make another world, because Adam was lord on earth, to rule over it and govern it.\""
+     "text": "“He was continually in Paradise, and the devil understood that I wanted to make another world, because Adam was lord on earth, to rule over it and govern it.”"
     },
     {
      "v": 4,
-     "text": "\"The devil is the evil spirit of the lower places. He made himself a fugitive from the heavens, since his name was Satanail, and so he became different from the angels; but although he was changed from the angels, his nature did not change his understanding of what is righteous and what is sinful.\""
+     "text": "“The devil is the evil spirit of the lower places. He made himself a fugitive from the heavens, since his name was Satanail, and so he became different from the angels; but although he was changed from the angels, his nature did not change his understanding of what is righteous and what is sinful.”"
     },
     {
      "v": 5,
-     "text": "\"He understood his condemnation and the sin he had committed before, and so he conceived a plan against Adam. In this form he came in and deceived Eve, but did not touch Adam.\""
+     "text": "“He understood his condemnation and the sin he had committed before, and so he conceived a plan against Adam. In this form he came in and deceived Eve, but did not touch Adam.”"
     },
     {
      "v": 6,
-     "text": "\"But I cursed ignorance. What I had blessed before I did not curse. I did not curse man, or the earth, or the other creatures, but man's evil fruit and his works.\""
+     "text": "“But I cursed ignorance. What I had blessed before I did not curse. I did not curse man, or the earth, or the other creatures, but man’s evil fruit and his works.”"
     }
    ],
    "notes": []
@@ -1004,26 +1004,26 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I said to him, 'You are earth, and you will go into the earth from which I took you. I will not destroy you, but will send you back to where I took you from.'\""
+     "text": "“I said to him, ‘You are earth, and you will go into the earth from which I took you. I will not destroy you, but will send you back to where I took you from.’”"
     },
     {
      "v": 2,
-     "text": "\"Then I can receive you again at my second coming.\""
+     "text": "“Then I can receive you again at my second coming.”"
     },
     {
      "v": 3,
-     "text": "\"I blessed all my creatures, visible and invisible. And Adam was five and a half hours in Paradise.{a}\""
+     "text": "“I blessed all my creatures, visible and invisible. And Adam was five and a half hours in Paradise.{a}”"
     },
     {
      "v": 4,
-     "text": "\"I blessed the seventh day, which is the Sabbath, on which he rested from all his works.\""
+     "text": "“I blessed the seventh day, which is the Sabbath, on which he rested from all his works.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "32:3",
-     "text": "The sentence about Adam's five and a half hours is found in the longer recension; the shorter recension does not have it."
+     "text": "The sentence about Adam’s five and a half hours is found in the longer recension; the shorter recension does not have it."
     }
    ]
   },
@@ -1035,47 +1035,47 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I also appointed the eighth day, that the eighth day should be the first created day after my work, and that the first seven should revolve in the form of the seventh thousand, and that at the beginning of the eighth thousand there should be a time of no counting, without end, with neither years nor months nor weeks nor days nor hours.\"{a}"
+     "text": "“I also appointed the eighth day, that the eighth day should be the first created day after my work, and that the first seven should revolve in the form of the seventh thousand, and that at the beginning of the eighth thousand there should be a time of no counting, without end, with neither years nor months nor weeks nor days nor hours.”{a}"
     },
     {
      "v": 2,
-     "text": "\"Now, Enoch, everything I have told you, everything you have understood, everything you have seen of heavenly things, everything you have seen on earth, and everything I have written in books by my great wisdom: all this I have devised and made, from the uppermost foundation to the lowest and to the end. I have no counselor and no heir for my creations.\""
+     "text": "“Now, Enoch, everything I have told you, everything you have understood, everything you have seen of heavenly things, everything you have seen on earth, and everything I have written in books by my great wisdom: all this I have devised and made, from the uppermost foundation to the lowest and to the end. I have no counselor and no heir for my creations.”"
     },
     {
      "v": 3,
-     "text": "\"I am self-existing, not made by hands, and unchanging.\""
+     "text": "“I am self-existing, not made by hands, and unchanging.”"
     },
     {
      "v": 4,
-     "text": "\"My thought is my counselor; my wisdom and my word are made; my eyes watch all things, how they stand here and tremble in terror.\""
+     "text": "“My thought is my counselor; my wisdom and my word are made; my eyes watch all things, how they stand here and tremble in terror.”"
     },
     {
      "v": 5,
-     "text": "\"If I turn my face away, then everything will be destroyed.\""
+     "text": "“If I turn my face away, then everything will be destroyed.”"
     },
     {
      "v": 6,
-     "text": "\"Set your mind on this, Enoch, and know the one who is speaking to you, and take from there the books you yourself have written.\""
+     "text": "“Set your mind on this, Enoch, and know the one who is speaking to you, and take from there the books you yourself have written.”"
     },
     {
      "v": 7,
-     "text": "\"I am giving you Samuil{b} and Raguil,{c} who led you up, and the books. Go down to earth and tell your sons all that I have told you and all that you have seen, from the lowest heaven up to my throne, and all the troops.\""
+     "text": "“I am giving you Samuil{b} and Raguil,{c} who led you up, and the books. Go down to earth and tell your sons all that I have told you and all that you have seen, from the lowest heaven up to my throne, and all the troops.”"
     },
     {
      "v": 8,
-     "text": "\"For I made all the powers, and there is none that resists me or does not subject himself to me. All subject themselves to my rule and work for my sole government.\""
+     "text": "“For I made all the powers, and there is none that resists me or does not subject himself to me. All subject themselves to my rule and work for my sole government.”"
     },
     {
      "v": 9,
-     "text": "\"Give them the books written in your hand, and they will read them and know me as the creator of everything, and will understand that there is no other God but me.\""
+     "text": "“Give them the books written in your hand, and they will read them and know me as the creator of everything, and will understand that there is no other God but me.”"
     },
     {
      "v": 10,
-     "text": "\"Let them pass the books of your handwriting on, children to children, generation to generation, nation to nation.\""
+     "text": "“Let them pass the books of your handwriting on, children to children, generation to generation, nation to nation.”"
     },
     {
      "v": 11,
-     "text": "\"And I will give you, Enoch, as your intercessor, the chief commander Michael, for the writings of your fathers, Adam, Seth, Enos, Cainan, Mahaleleel,{d} and your father Jared.\""
+     "text": "“And I will give you, Enoch, as your intercessor, the chief commander Michael, for the writings of your fathers, Adam, Seth, Enos, Cainan, Mahaleleel,{d} and your father Jared.”"
     }
    ],
    "notes": [
@@ -1087,17 +1087,17 @@
     {
      "m": "b",
      "ref": "33:7",
-     "text": "\"Samuil\" is the name of an angel who is not otherwise known; it may be a form of Samuel or Semiel, but the meaning is uncertain."
+     "text": "“Samuil” is the name of an angel who is not otherwise known; it may be a form of Samuel or Semiel, but the meaning is uncertain."
     },
     {
      "m": "c",
      "ref": "33:7",
-     "text": "\"Raguil\" is Raguel (Hebrew *Re'u'el*), \"friend of God\"; in 1 Enoch 20:4 Raguel is the angel who takes vengeance on the world of the luminaries."
+     "text": "“Raguil” is Raguel (Hebrew *Re’u’el*), “friend of God”; in 1 Enoch 20:4 Raguel is the angel who takes vengeance on the world of the luminaries."
     },
     {
      "m": "d",
      "ref": "33:11",
-     "text": "These are the Septuagint-style forms of the names in Genesis 5: Adam (\"man\"); Seth (*Shet*, \"appointed\"); Enos (*Enosh*, \"man\"); Cainan (*Qenan*, perhaps \"possession\" or \"smith\"); Mahaleleel (*Mahalalel*, \"praise of God\"); and Jared (*Yered*, \"descent\")."
+     "text": "These are the Septuagint-style forms of the names in Genesis 5: Adam (“man”); Seth (*Shet*, “appointed”); Enos (*Enosh*, “man”); Cainan (*Qenan*, perhaps “possession” or “smith”); Mahaleleel (*Mahalalel*, “praise of God”); and Jared (*Yered*, “descent”)."
     }
    ]
   },
@@ -1109,11 +1109,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"They have rejected my commandments and my yoke. Worthless seed has come up, not fearing God. They would not bow down to me but began to bow to empty gods, and denied my oneness. They have loaded the whole earth with lies, offenses, and abominable lust, with one another and with every other kind of unclean wickedness, too disgusting to relate.\""
+     "text": "“They have rejected my commandments and my yoke. Worthless seed has come up, not fearing God. They would not bow down to me but began to bow to empty gods, and denied my oneness. They have loaded the whole earth with lies, offenses, and abominable lust, with one another and with every other kind of unclean wickedness, too disgusting to relate.”"
     },
     {
      "v": 2,
-     "text": "\"Therefore I will bring a flood on the earth and destroy all people, and the whole earth will crumble together into great darkness.\""
+     "text": "“Therefore I will bring a flood on the earth and destroy all people, and the whole earth will crumble together into great darkness.”"
     }
    ],
    "notes": []
@@ -1126,15 +1126,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Look, from their seed another generation will rise, much later, but many of them will be very greedy.\""
+     "text": "“Look, from their seed another generation will rise, much later, but many of them will be very greedy.”"
     },
     {
      "v": 2,
-     "text": "\"The one who raises up that generation will show them the books of your writing and of your fathers. He must point out to them the guardianship of the world, to the faithful men and workers of my pleasure, who do not take my name in vain.\""
+     "text": "“The one who raises up that generation will show them the books of your writing and of your fathers. He must point out to them the guardianship of the world, to the faithful men and workers of my pleasure, who do not take my name in vain.”"
     },
     {
      "v": 3,
-     "text": "\"They will tell another generation, and those others, after reading, will be glorified afterward, more than the first.\""
+     "text": "“They will tell another generation, and those others, after reading, will be glorified afterward, more than the first.”"
     }
    ],
    "notes": []
@@ -1147,15 +1147,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Now, Enoch, I give you thirty days to spend in your house. Tell your sons and all your household, so that all may hear from my face what you tell them, and that they may read and understand that there is no other God but me.\""
+     "text": "“Now, Enoch, I give you thirty days to spend in your house. Tell your sons and all your household, so that all may hear from my face what you tell them, and that they may read and understand that there is no other God but me.”"
     },
     {
      "v": 2,
-     "text": "\"Let them always keep my commandments, and begin to read and take in the books of your writing.\""
+     "text": "“Let them always keep my commandments, and begin to read and take in the books of your writing.”"
     },
     {
      "v": 3,
-     "text": "\"After thirty days I will send my angel for you, and he will take you from the earth and from your sons to me.\""
+     "text": "“After thirty days I will send my angel for you, and he will take you from the earth and from your sons to me.”"
     }
    ],
    "notes": []
@@ -1172,7 +1172,7 @@
     },
     {
      "v": 2,
-     "text": "The Lord said to me, \"Enoch, if your face were not frozen here, no one would be able to look at your face.\""
+     "text": "The Lord said to me, “Enoch, if your face were not frozen here, no one would be able to look at your face.”"
     }
    ],
    "notes": []
@@ -1185,7 +1185,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "The Lord said to the men who had first led me up, \"Let Enoch go down to earth with you, and wait for him until the appointed day.\"{a}"
+     "text": "The Lord said to the men who had first led me up, “Let Enoch go down to earth with you, and wait for him until the appointed day.”{a}"
     },
     {
      "v": 2,
@@ -1193,7 +1193,7 @@
     },
     {
      "v": 3,
-     "text": "Methuselah was waiting for me to come back, watching by my bed day and night. When he heard that I had come, he was filled with awe, and I told him, \"Let all my household come together, so that I can tell them everything.\""
+     "text": "Methuselah was waiting for me to come back, watching by my bed day and night. When he heard that I had come, he was filled with awe, and I told him, “Let all my household come together, so that I can tell them everything.”"
     }
    ],
    "notes": [
@@ -1212,35 +1212,35 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"O my children, my beloved ones, listen to the warning of your father, as far as it agrees with the Lord's will.\""
+     "text": "“O my children, my beloved ones, listen to the warning of your father, as far as it agrees with the Lord’s will.”"
     },
     {
      "v": 2,
-     "text": "\"I have been allowed to come to you today and tell you, not from my own lips but from the lips of the Lord, everything that is and was, everything that is happening now, and everything that will happen until the day of judgment.\""
+     "text": "“I have been allowed to come to you today and tell you, not from my own lips but from the lips of the Lord, everything that is and was, everything that is happening now, and everything that will happen until the day of judgment.”"
     },
     {
      "v": 3,
-     "text": "\"The Lord has let me come to you. So hear the words of my lips, the lips of a man made great for you; but I am one who has seen the Lord's face, which is like iron heated in a fire, throwing off sparks and burning.\""
+     "text": "“The Lord has let me come to you. So hear the words of my lips, the lips of a man made great for you; but I am one who has seen the Lord’s face, which is like iron heated in a fire, throwing off sparks and burning.”"
     },
     {
      "v": 4,
-     "text": "\"You look now at my eyes, the eyes of a man who is great in meaning for you, but I have seen the Lord's eyes, shining like the rays of the sun and filling the eyes of people with awe.\""
+     "text": "“You look now at my eyes, the eyes of a man who is great in meaning for you, but I have seen the Lord’s eyes, shining like the rays of the sun and filling the eyes of people with awe.”"
     },
     {
      "v": 5,
-     "text": "\"You see now, my children, the right hand of a man who helps you, but I have seen the Lord's right hand, filling heaven as he helped me.\""
+     "text": "“You see now, my children, the right hand of a man who helps you, but I have seen the Lord’s right hand, filling heaven as he helped me.”"
     },
     {
      "v": 6,
-     "text": "\"You see the span of my work, like your own, but I have seen the Lord's limitless and perfect span, which has no end.\""
+     "text": "“You see the span of my work, like your own, but I have seen the Lord’s limitless and perfect span, which has no end.”"
     },
     {
      "v": 7,
-     "text": "\"You hear the words of my lips, as I heard the words of the Lord, like great thunder that never stops, with clouds hurled about.\""
+     "text": "“You hear the words of my lips, as I heard the words of the Lord, like great thunder that never stops, with clouds hurled about.”"
     },
     {
      "v": 8,
-     "text": "\"And now, my children, listen to the words of the father of the earth. How fearful and awful it is to come before the face of the ruler of the earth; how much more terrible and awful to come before the face of the ruler of heaven, the judge of the living and the dead, and of the heavenly troops. Who can endure that endless pain?\""
+     "text": "“And now, my children, listen to the words of the father of the earth. How fearful and awful it is to come before the face of the ruler of the earth; how much more terrible and awful to come before the face of the ruler of heaven, the judge of the living and the dead, and of the heavenly troops. Who can endure that endless pain?”"
     }
    ],
    "notes": []
@@ -1253,47 +1253,47 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"And now, my children, I know everything, because this is from the Lord's lips, and my own eyes have seen it, from beginning to end.\""
+     "text": "“And now, my children, I know everything, because this is from the Lord’s lips, and my own eyes have seen it, from beginning to end.”"
     },
     {
      "v": 2,
-     "text": "\"I know everything, and I have written everything down in books: the heavens and their end and their fullness, and all the armies and their marches.\"{a}"
+     "text": "“I know everything, and I have written everything down in books: the heavens and their end and their fullness, and all the armies and their marches.”{a}"
     },
     {
      "v": 3,
-     "text": "\"I have measured and described the stars, the great and countless multitude of them.\""
+     "text": "“I have measured and described the stars, the great and countless multitude of them.”"
     },
     {
      "v": 4,
-     "text": "\"What man has seen their turnings and their entrances? Not even the angels see their number, but I have written all their names.\""
+     "text": "“What man has seen their turnings and their entrances? Not even the angels see their number, but I have written all their names.”"
     },
     {
      "v": 5,
-     "text": "\"I measured the circle of the sun and measured its rays, and counted the hours. I also wrote down everything that moves over the earth. I wrote about the things that are fed, and about all seed, sown and unsown, that the earth produces, and all plants, every grass and every flower, and their sweet scents, and their names; and the dwelling places of the clouds and how they are made, and their wings, and how they carry rain and raindrops.\""
+     "text": "“I measured the circle of the sun and measured its rays, and counted the hours. I also wrote down everything that moves over the earth. I wrote about the things that are fed, and about all seed, sown and unsown, that the earth produces, and all plants, every grass and every flower, and their sweet scents, and their names; and the dwelling places of the clouds and how they are made, and their wings, and how they carry rain and raindrops.”"
     },
     {
      "v": 6,
-     "text": "\"I investigated everything, and I wrote down the road of the thunder and the lightning. They showed me the keys and their guardians, their rising, and the way they go. Lightning is let out gently, by measure, on a chain, so that a heavy chain and violence do not hurl the angry clouds down and destroy everything on earth.\""
+     "text": "“I investigated everything, and I wrote down the road of the thunder and the lightning. They showed me the keys and their guardians, their rising, and the way they go. Lightning is let out gently, by measure, on a chain, so that a heavy chain and violence do not hurl the angry clouds down and destroy everything on earth.”"
     },
     {
      "v": 7,
-     "text": "\"I wrote down the storehouses of the snow and the vaults of the cold and frosty airs, and I watched their keeper of keys for the season. He fills the clouds with them, and does not run out of stores.\""
+     "text": "“I wrote down the storehouses of the snow and the vaults of the cold and frosty airs, and I watched their keeper of keys for the season. He fills the clouds with them, and does not run out of stores.”"
     },
     {
      "v": 8,
-     "text": "\"I wrote down the resting places of the winds, and I watched and saw how their key-holders carry scales and measures. First they put the winds in one pan of the scales, and in the other the weights, and let them out by measure, skillfully, over the whole earth, so that by heavy breathing they do not make the earth shake.\""
+     "text": "“I wrote down the resting places of the winds, and I watched and saw how their key-holders carry scales and measures. First they put the winds in one pan of the scales, and in the other the weights, and let them out by measure, skillfully, over the whole earth, so that by heavy breathing they do not make the earth shake.”"
     },
     {
      "v": 9,
-     "text": "\"I measured the whole earth: its mountains and all its hills, fields, trees, stones, and rivers, everything that exists, I wrote down; the height from the earth to the seventh heaven, and downward to the very lowest hell, and the place of judgment, and the very great, open, weeping hell.\""
+     "text": "“I measured the whole earth: its mountains and all its hills, fields, trees, stones, and rivers, everything that exists, I wrote down; the height from the earth to the seventh heaven, and downward to the very lowest hell, and the place of judgment, and the very great, open, weeping hell.”"
     },
     {
      "v": 10,
-     "text": "\"I saw how the prisoners are in pain, waiting for the limitless judgment.\""
+     "text": "“I saw how the prisoners are in pain, waiting for the limitless judgment.”"
     },
     {
      "v": 11,
-     "text": "\"I wrote down all who are being judged by the judge, and all their judgment and sentences, and all their works.\""
+     "text": "“I wrote down all who are being judged by the judge, and all their judgment and sentences, and all their works.”"
     }
    ],
    "notes": [
@@ -1312,15 +1312,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I saw all the forefathers from all time, with Adam and Eve. I sighed and burst into tears and spoke of the ruin of their dishonor.\""
+     "text": "“I saw all the forefathers from all time, with Adam and Eve. I sighed and burst into tears and spoke of the ruin of their dishonor.”"
     },
     {
      "v": 2,
-     "text": "\"'Woe is me for my weakness and that of my forefathers,' I said, and I thought in my heart and said,\""
+     "text": "“‘Woe is me for my weakness and that of my forefathers,’ I said, and I thought in my heart and said,”"
     },
     {
      "v": 3,
-     "text": "\"'Blessed is the man who was never born, or who was born and will not sin before the Lord's face, so that he does not come into this place or bring on himself the yoke of this place.'\""
+     "text": "“‘Blessed is the man who was never born, or who was born and will not sin before the Lord’s face, so that he does not come into this place or bring on himself the yoke of this place.’”"
     }
    ],
    "notes": []
@@ -1333,7 +1333,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I saw the key-holders and the guards of the gates of hell standing like great serpents, with faces like lamps going out, with fiery eyes and sharp teeth. And I saw all the Lord's works, how right they are, while the works of man are some good and some bad, and by their works those who lie wickedly are known.\""
+     "text": "“I saw the key-holders and the guards of the gates of hell standing like great serpents, with faces like lamps going out, with fiery eyes and sharp teeth. And I saw all the Lord’s works, how right they are, while the works of man are some good and some bad, and by their works those who lie wickedly are known.”"
     }
    ],
    "notes": []
@@ -1346,11 +1346,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"My children, I measured and wrote down every work, every measure, and every righteous judgment.\""
+     "text": "“My children, I measured and wrote down every work, every measure, and every righteous judgment.”"
     },
     {
      "v": 2,
-     "text": "\"As one year is more honored than another, so one man is more honored than another: some for great possessions, some for wisdom of heart, some for particular intelligence, some for cleverness, one for silence of lip, another for cleanness, one for strength, another for good looks, one for youth, another for quick wit, one for shape of body, another for good sense. Let it be heard everywhere: no one is better than the one who fears God. He will be more glorious in the time to come.\""
+     "text": "“As one year is more honored than another, so one man is more honored than another: some for great possessions, some for wisdom of heart, some for particular intelligence, some for cleverness, one for silence of lip, another for cleanness, one for strength, another for good looks, one for youth, another for quick wit, one for shape of body, another for good sense. Let it be heard everywhere: no one is better than the one who fears God. He will be more glorious in the time to come.”"
     }
    ],
    "notes": []
@@ -1363,15 +1363,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The Lord made man with his own hands, in the likeness of his own face, and the Lord made him small and great.\""
+     "text": "“The Lord made man with his own hands, in the likeness of his own face, and the Lord made him small and great.”"
     },
     {
      "v": 2,
-     "text": "\"Whoever insults a ruler's face, and hates the Lord's face, has despised the Lord's face; and whoever vents anger on any man who has done no harm, the Lord's great anger will cut him down; whoever spits in a man's face to shame him will be cut down at the Lord's great judgment.\""
+     "text": "“Whoever insults a ruler’s face, and hates the Lord’s face, has despised the Lord’s face; and whoever vents anger on any man who has done no harm, the Lord’s great anger will cut him down; whoever spits in a man’s face to shame him will be cut down at the Lord’s great judgment.”"
     },
     {
      "v": 3,
-     "text": "\"Blessed is the man who does not turn his heart with malice against anyone, who helps the injured and the condemned, raises up the broken, and does charity for the needy. For on the day of the great judgment every weight, every measure, and every counterweight will be as in the market; that is, they are hung on scales and set out in the market, and each person will learn his own measure, and according to his measure will receive his reward.\""
+     "text": "“Blessed is the man who does not turn his heart with malice against anyone, who helps the injured and the condemned, raises up the broken, and does charity for the needy. For on the day of the great judgment every weight, every measure, and every counterweight will be as in the market; that is, they are hung on scales and set out in the market, and each person will learn his own measure, and according to his measure will receive his reward.”"
     }
    ],
    "notes": []
@@ -1384,15 +1384,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Whoever hurries to make offerings before the Lord's face, the Lord for his part will hurry that offering along by rewarding his work.\""
+     "text": "“Whoever hurries to make offerings before the Lord’s face, the Lord for his part will hurry that offering along by rewarding his work.”"
     },
     {
      "v": 2,
-     "text": "\"But whoever multiplies the lamps before the Lord's face and does not judge truly, the Lord will not increase his treasure in the kingdom of the highest.\""
+     "text": "“But whoever multiplies the lamps before the Lord’s face and does not judge truly, the Lord will not increase his treasure in the kingdom of the highest.”"
     },
     {
      "v": 3,
-     "text": "\"When the Lord asks for bread, or candles, or the flesh of animals, or any other sacrifice, that is nothing. What God asks for is pure hearts, and with all this he is only testing the heart of man.\""
+     "text": "“When the Lord asks for bread, or candles, or the flesh of animals, or any other sacrifice, that is nothing. What God asks for is pure hearts, and with all this he is only testing the heart of man.”"
     }
    ],
    "notes": []
@@ -1405,19 +1405,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Listen, my people, and take in the words of my lips.\""
+     "text": "“Listen, my people, and take in the words of my lips.”"
     },
     {
      "v": 2,
-     "text": "\"If anyone brings gifts to an earthly ruler but has disloyal thoughts in his heart, and the ruler knows it, will he not be angry with him, refuse his gifts, and hand him over to judgment?\""
+     "text": "“If anyone brings gifts to an earthly ruler but has disloyal thoughts in his heart, and the ruler knows it, will he not be angry with him, refuse his gifts, and hand him over to judgment?”"
     },
     {
      "v": 3,
-     "text": "\"Or if one man makes himself look good to another by a deceitful tongue but has evil in his heart, will the other not see through the treachery of his heart, and the first be condemned, since his untruth was plain to everyone?\""
+     "text": "“Or if one man makes himself look good to another by a deceitful tongue but has evil in his heart, will the other not see through the treachery of his heart, and the first be condemned, since his untruth was plain to everyone?”"
     },
     {
      "v": 4,
-     "text": "\"And when the Lord sends a great light, then there will be judgment for the just and the unjust, and no one will escape notice there.\""
+     "text": "“And when the Lord sends a great light, then there will be judgment for the just and the unjust, and no one will escape notice there.”"
     }
    ],
    "notes": []
@@ -1430,27 +1430,27 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"And now, my children, set your minds on this. Take careful note of the words of your father, all of which have come to you from the Lord's lips.\"{a}"
+     "text": "“And now, my children, set your minds on this. Take careful note of the words of your father, all of which have come to you from the Lord’s lips.”{a}"
     },
     {
      "v": 2,
-     "text": "\"Take these books written in your father's hand and read them.\""
+     "text": "“Take these books written in your father’s hand and read them.”"
     },
     {
      "v": 3,
-     "text": "\"For the books are many, and in them you will learn all the Lord's works, everything that has been from the beginning of creation, and will be until the end of time.\""
+     "text": "“For the books are many, and in them you will learn all the Lord’s works, everything that has been from the beginning of creation, and will be until the end of time.”"
     },
     {
      "v": 4,
-     "text": "\"If you keep my writings, you will not sin against the Lord; for there is no other besides the Lord, neither in heaven, nor on earth, nor in the very lowest places, nor in the one foundation.\""
+     "text": "“If you keep my writings, you will not sin against the Lord; for there is no other besides the Lord, neither in heaven, nor on earth, nor in the very lowest places, nor in the one foundation.”"
     },
     {
      "v": 5,
-     "text": "\"The Lord has placed the foundations in the unknown, and has spread out heavens, visible and invisible. He fixed the earth on the waters and made countless creatures. Who has counted the water and the foundation of what is unfixed, or the dust of the earth, or the sand of the sea, or the drops of rain, or the morning dew, or the breathings of the wind? Who has filled earth and sea, and the unbreakable winter?\""
+     "text": "“The Lord has placed the foundations in the unknown, and has spread out heavens, visible and invisible. He fixed the earth on the waters and made countless creatures. Who has counted the water and the foundation of what is unfixed, or the dust of the earth, or the sand of the sea, or the drops of rain, or the morning dew, or the breathings of the wind? Who has filled earth and sea, and the unbreakable winter?”"
     },
     {
      "v": 6,
-     "text": "\"I cut the stars out of fire and decorated the heaven and put it in their midst.\""
+     "text": "“I cut the stars out of fire and decorated the heaven and put it in their midst.”"
     }
    ],
    "notes": [
@@ -1469,43 +1469,43 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The sun goes along the seven heavenly circles, which are the appointment of 182 thrones: it goes down on a short day, and again 182 on which it goes down on a long day. It has two thrones on which it rests, turning this way and that above the thrones of the months. From the seventeenth day of the month Tsivan (May–June){a} it goes down to the month Thevan (December–January),{b} and from the seventeenth of Thevan it goes up.\""
+     "text": "“The sun goes along the seven heavenly circles, which are the appointment of 182 thrones: it goes down on a short day, and again 182 on which it goes down on a long day. It has two thrones on which it rests, turning this way and that above the thrones of the months. From the seventeenth day of the month Tsivan (May–June){a} it goes down to the month Thevan (December–January),{b} and from the seventeenth of Thevan it goes up.”"
     },
     {
      "v": 2,
-     "text": "\"So it goes close to the earth, and then the earth is glad and makes its fruits grow. When it goes away, the earth is sad, and the trees and all fruits have no blossom.\""
+     "text": "“So it goes close to the earth, and then the earth is glad and makes its fruits grow. When it goes away, the earth is sad, and the trees and all fruits have no blossom.”"
     },
     {
      "v": 3,
-     "text": "\"He measured all this with a good measurement of hours and fixed a measure by his wisdom, of the visible and the invisible.\""
+     "text": "“He measured all this with a good measurement of hours and fixed a measure by his wisdom, of the visible and the invisible.”"
     },
     {
      "v": 4,
-     "text": "\"From the invisible he made all things visible, himself being invisible.\""
+     "text": "“From the invisible he made all things visible, himself being invisible.”"
     },
     {
      "v": 5,
-     "text": "\"So I make this known to you, my children. Distribute the books to your children, through all your generations, and among the nations that have the sense to fear God. Let them receive the books and come to love them more than any food or earthly sweets, and read them and devote themselves to them.\""
+     "text": "“So I make this known to you, my children. Distribute the books to your children, through all your generations, and among the nations that have the sense to fear God. Let them receive the books and come to love them more than any food or earthly sweets, and read them and devote themselves to them.”"
     },
     {
      "v": 6,
-     "text": "\"Those who do not understand the Lord, who do not fear God, who do not accept but reject, who do not receive the books, a terrible judgment awaits them.\""
+     "text": "“Those who do not understand the Lord, who do not fear God, who do not accept but reject, who do not receive the books, a terrible judgment awaits them.”"
     },
     {
      "v": 7,
-     "text": "\"Blessed is the man who will bear their yoke and drag it along, for he will be set free on the day of the great judgment.\""
+     "text": "“Blessed is the man who will bear their yoke and drag it along, for he will be set free on the day of the great judgment.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "48:1",
-     "text": "The shorter recension does not have this chapter. \"Tsivan\" is the Hebrew month Sivan, and \"Thevan\" is Tebet (Tevet), which here stand for the points where the sun's path turns at the summer and winter solstices; the Slavonic month names are not an exact calendar."
+     "text": "The shorter recension does not have this chapter. “Tsivan” is the Hebrew month Sivan, and “Thevan” is Tebet (Tevet), which here stand for the points where the sun’s path turns at the summer and winter solstices; the Slavonic month names are not an exact calendar."
     },
     {
      "m": "b",
      "ref": "48:1",
-     "text": "In the Hebrew calendar Sivan falls in May–June and Tebet in December–January; the \"seventeenth day\" is given as in the Slavonic."
+     "text": "In the Hebrew calendar Sivan falls in May–June and Tebet in December–January; the “seventeenth day” is given as in the Slavonic."
     }
    ]
   },
@@ -1517,23 +1517,23 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I swear to you, my children, but I do not swear by any oath, neither by heaven nor by earth, nor by any other creature that God made.\""
+     "text": "“I swear to you, my children, but I do not swear by any oath, neither by heaven nor by earth, nor by any other creature that God made.”"
     },
     {
      "v": 2,
-     "text": "\"The Lord said, 'There is no oath in me, and no injustice, but truth.'\""
+     "text": "“The Lord said, ‘There is no oath in me, and no injustice, but truth.’”"
     },
     {
      "v": 3,
-     "text": "\"If there is no truth in men, let them swear by the words 'Yes, yes,' or else 'No, no.'\""
+     "text": "“If there is no truth in men, let them swear by the words ‘Yes, yes,’ or else ‘No, no.’”"
     },
     {
      "v": 4,
-     "text": "\"And I swear to you, yes, yes, that no man has ever been in his mother's womb without a place already prepared beforehand for the rest of that person's soul, and a measure fixed for how long it is intended that a man be tested in this world.\""
+     "text": "“And I swear to you, yes, yes, that no man has ever been in his mother’s womb without a place already prepared beforehand for the rest of that person’s soul, and a measure fixed for how long it is intended that a man be tested in this world.”"
     },
     {
      "v": 5,
-     "text": "\"Yes, children, do not deceive yourselves, for a place has been prepared beforehand for every human soul.\""
+     "text": "“Yes, children, do not deceive yourselves, for a place has been prepared beforehand for every human soul.”"
     }
    ],
    "notes": []
@@ -1546,31 +1546,31 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I have put every man's work in writing, and no one born on earth can stay hidden, and his works cannot stay concealed.\""
+     "text": "“I have put every man’s work in writing, and no one born on earth can stay hidden, and his works cannot stay concealed.”"
     },
     {
      "v": 2,
-     "text": "\"I see everything.\""
+     "text": "“I see everything.”"
     },
     {
      "v": 3,
-     "text": "\"So now, my children, spend the number of your days in patience and gentleness, so that you may inherit endless life.\""
+     "text": "“So now, my children, spend the number of your days in patience and gentleness, so that you may inherit endless life.”"
     },
     {
      "v": 4,
-     "text": "\"For the Lord's sake, endure every wound, every injury, every evil word and attack.\""
+     "text": "“For the Lord’s sake, endure every wound, every injury, every evil word and attack.”"
     },
     {
      "v": 5,
-     "text": "\"If wrongs are done to you, do not pay them back to neighbor or enemy, because the Lord will pay them back for you and be your avenger on the day of the great judgment, so that there will be no taking of revenge here among men.\""
+     "text": "“If wrongs are done to you, do not pay them back to neighbor or enemy, because the Lord will pay them back for you and be your avenger on the day of the great judgment, so that there will be no taking of revenge here among men.”"
     },
     {
      "v": 6,
-     "text": "\"Whoever among you spends gold or silver for his brother's sake will receive ample treasure in the world to come.\""
+     "text": "“Whoever among you spends gold or silver for his brother’s sake will receive ample treasure in the world to come.”"
     },
     {
      "v": 7,
-     "text": "\"Do not harm widows, orphans, or strangers, or God's wrath will come on you.\""
+     "text": "“Do not harm widows, orphans, or strangers, or God’s wrath will come on you.”"
     }
    ],
    "notes": []
@@ -1583,27 +1583,27 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Stretch out your hands to the poor as far as your strength allows.\""
+     "text": "“Stretch out your hands to the poor as far as your strength allows.”"
     },
     {
      "v": 2,
-     "text": "\"Do not hide your silver in the ground.\""
+     "text": "“Do not hide your silver in the ground.”"
     },
     {
      "v": 3,
-     "text": "\"Help the faithful man in his affliction, and affliction will not find you in your time of trouble.\""
+     "text": "“Help the faithful man in his affliction, and affliction will not find you in your time of trouble.”"
     },
     {
      "v": 4,
-     "text": "\"Every grievous and cruel yoke that comes on you, bear it all for the Lord's sake, and so you will find your reward in the day of judgment.\""
+     "text": "“Every grievous and cruel yoke that comes on you, bear it all for the Lord’s sake, and so you will find your reward in the day of judgment.”"
     },
     {
      "v": 5,
-     "text": "\"It is good to go to the Lord's dwelling morning, noon, and evening, for the glory of your Creator.\""
+     "text": "“It is good to go to the Lord’s dwelling morning, noon, and evening, for the glory of your Creator.”"
     },
     {
      "v": 6,
-     "text": "\"For every breathing thing glorifies him, and every creature, visible and invisible, gives him praise.\""
+     "text": "“For every breathing thing glorifies him, and every creature, visible and invisible, gives him praise.”"
     }
    ],
    "notes": []
@@ -1616,63 +1616,63 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Blessed is the man who opens his lips in praise of the God of hosts and praises the Lord with his heart.\""
+     "text": "“Blessed is the man who opens his lips in praise of the God of hosts and praises the Lord with his heart.”"
     },
     {
      "v": 2,
-     "text": "\"Cursed is every man who opens his lips to bring his neighbor into contempt and slander, because he brings God into contempt.\""
+     "text": "“Cursed is every man who opens his lips to bring his neighbor into contempt and slander, because he brings God into contempt.”"
     },
     {
      "v": 3,
-     "text": "\"Blessed is he who opens his lips to bless and praise God.{a}\""
+     "text": "“Blessed is he who opens his lips to bless and praise God.{a}”"
     },
     {
      "v": 4,
-     "text": "\"Cursed before the Lord all the days of his life is he who opens his lips to curse and abuse.\""
+     "text": "“Cursed before the Lord all the days of his life is he who opens his lips to curse and abuse.”"
     },
     {
      "v": 5,
-     "text": "\"Blessed is he who blesses all the Lord's works.\""
+     "text": "“Blessed is he who blesses all the Lord’s works.”"
     },
     {
      "v": 6,
-     "text": "\"Cursed is he who brings the Lord's creation into contempt.\""
+     "text": "“Cursed is he who brings the Lord’s creation into contempt.”"
     },
     {
      "v": 7,
-     "text": "\"Blessed is he who looks down and lifts up the fallen.\""
+     "text": "“Blessed is he who looks down and lifts up the fallen.”"
     },
     {
      "v": 8,
-     "text": "\"Cursed is he who looks for the destruction of what is not his and is eager for it.\""
+     "text": "“Cursed is he who looks for the destruction of what is not his and is eager for it.”"
     },
     {
      "v": 9,
-     "text": "\"Blessed is he who keeps the foundations of his fathers firm from the beginning.\""
+     "text": "“Blessed is he who keeps the foundations of his fathers firm from the beginning.”"
     },
     {
      "v": 10,
-     "text": "\"Cursed is he who twists the decrees of his forefathers.\""
+     "text": "“Cursed is he who twists the decrees of his forefathers.”"
     },
     {
      "v": 11,
-     "text": "\"Blessed is he who gives peace and love.\""
+     "text": "“Blessed is he who gives peace and love.”"
     },
     {
      "v": 12,
-     "text": "\"Cursed is he who disturbs those who love their neighbors.\""
+     "text": "“Cursed is he who disturbs those who love their neighbors.”"
     },
     {
      "v": 13,
-     "text": "\"Blessed is he who speaks with a humble tongue and heart to all.\""
+     "text": "“Blessed is he who speaks with a humble tongue and heart to all.”"
     },
     {
      "v": 14,
-     "text": "\"Cursed is he who speaks peace with his tongue while in his heart there is no peace but a sword.\""
+     "text": "“Cursed is he who speaks peace with his tongue while in his heart there is no peace but a sword.”"
     },
     {
      "v": 15,
-     "text": "\"For all these things will be laid bare in the scales and in the books on the day of the great judgment.\""
+     "text": "“For all these things will be laid bare in the scales and in the books on the day of the great judgment.”"
     }
    ],
    "notes": [
@@ -1691,15 +1691,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"And now, my children, do not say, 'Our father is standing before God and is praying for our sins,' for there is no helper there for anyone who has sinned.\""
+     "text": "“And now, my children, do not say, ‘Our father is standing before God and is praying for our sins,’ for there is no helper there for anyone who has sinned.”"
     },
     {
      "v": 2,
-     "text": "\"You see how I wrote down all the works of every man before his creation, everything done among all men for all time. No one can tell or relate what I have written, because the Lord sees all the imaginings of man, how empty they are, where they lie in the storehouses of the heart.\""
+     "text": "“You see how I wrote down all the works of every man before his creation, everything done among all men for all time. No one can tell or relate what I have written, because the Lord sees all the imaginings of man, how empty they are, where they lie in the storehouses of the heart.”"
     },
     {
      "v": 3,
-     "text": "\"And now, my children, take careful note of all the words of your father that I am telling you, so that you do not regret it and say, 'Why did our father not tell us?'\""
+     "text": "“And now, my children, take careful note of all the words of your father that I am telling you, so that you do not regret it and say, ‘Why did our father not tell us?’”"
     }
    ],
    "notes": []
@@ -1712,11 +1712,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"At that time, because of not understanding this, let these books I have given you be an inheritance of your peace.\""
+     "text": "“At that time, because of not understanding this, let these books I have given you be an inheritance of your peace.”"
     },
     {
      "v": 2,
-     "text": "\"Hand them to all who want them, and instruct them, so that they may see the Lord's very great and marvelous works.\""
+     "text": "“Hand them to all who want them, and instruct them, so that they may see the Lord’s very great and marvelous works.”"
     }
    ],
    "notes": []
@@ -1729,19 +1729,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"My children, look: the day of my appointed time has come near.\""
+     "text": "“My children, look: the day of my appointed time has come near.”"
     },
     {
      "v": 2,
-     "text": "\"The angels who will go with me are standing in front of me and urging me to leave you. They are standing here on earth, waiting for what they have been told.\""
+     "text": "“The angels who will go with me are standing in front of me and urging me to leave you. They are standing here on earth, waiting for what they have been told.”"
     },
     {
      "v": 3,
-     "text": "\"For tomorrow I will go up to heaven, to the highest Jerusalem, to my eternal inheritance.\""
+     "text": "“For tomorrow I will go up to heaven, to the highest Jerusalem, to my eternal inheritance.”"
     },
     {
      "v": 4,
-     "text": "\"So I tell you to do before the Lord's face everything that pleases him.\""
+     "text": "“So I tell you to do before the Lord’s face everything that pleases him.”"
     }
    ],
    "notes": []
@@ -1754,11 +1754,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "Methuselah{a} answered his father Enoch and said, \"What would be pleasing to you, father, that I may do before you, so that you may bless our dwellings and your sons, and your people may be made glorious through you, and then you may depart as the Lord said?\""
+     "text": "Methuselah{a} answered his father Enoch and said, “What would be pleasing to you, father, that I may do before you, so that you may bless our dwellings and your sons, and your people may be made glorious through you, and then you may depart as the Lord said?”"
     },
     {
      "v": 2,
-     "text": "Enoch answered his son Methuselah and said, \"Listen, child. From the time the Lord anointed me with the ointment of his glory, there has been no food in me, and my soul does not remember earthly enjoyment, nor do I want anything earthly.\""
+     "text": "Enoch answered his son Methuselah and said, “Listen, child. From the time the Lord anointed me with the ointment of his glory, there has been no food in me, and my soul does not remember earthly enjoyment, nor do I want anything earthly.”"
     }
    ],
    "notes": [
@@ -1777,7 +1777,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"My child Methuselah, call all your brothers and all your household and the elders of the people, so that I may speak to them and depart, as is planned for me.\""
+     "text": "“My child Methuselah, call all your brothers and all your household and the elders of the people, so that I may speak to them and depart, as is planned for me.”"
     },
     {
      "v": 2,
@@ -1800,31 +1800,31 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Listen to me today, my children.\""
+     "text": "“Listen to me today, my children.”"
     },
     {
      "v": 2,
-     "text": "\"In those days, when the Lord came down to the earth for Adam's sake and visited all his creatures, which he himself had made, after all these he made Adam. The Lord called all the beasts of the earth, all the reptiles, and all the birds that fly in the air, and brought them all before our father Adam.\""
+     "text": "“In those days, when the Lord came down to the earth for Adam’s sake and visited all his creatures, which he himself had made, after all these he made Adam. The Lord called all the beasts of the earth, all the reptiles, and all the birds that fly in the air, and brought them all before our father Adam.”"
     },
     {
      "v": 3,
-     "text": "\"Adam gave names to all the living things on earth.\""
+     "text": "“Adam gave names to all the living things on earth.”"
     },
     {
      "v": 4,
-     "text": "\"The Lord appointed him ruler over all and put everything under his hands. He made them mute and dull, so that man could command them and they would be subject and obedient to him.\""
+     "text": "“The Lord appointed him ruler over all and put everything under his hands. He made them mute and dull, so that man could command them and they would be subject and obedient to him.”"
     },
     {
      "v": 5,
-     "text": "\"In the same way the Lord made every man lord over all his possessions.\""
+     "text": "“In the same way the Lord made every man lord over all his possessions.”"
     },
     {
      "v": 6,
-     "text": "\"The Lord will not judge a single beast's soul for man's sake, but he will judge the souls of men in the matter of their beasts in this world; for men have a special place.\""
+     "text": "“The Lord will not judge a single beast’s soul for man’s sake, but he will judge the souls of men in the matter of their beasts in this world; for men have a special place.”"
     },
     {
      "v": 7,
-     "text": "\"And just as every human soul is counted by number, so the beasts will not perish, nor any of the souls of the beasts that the Lord made, until the great judgment, and they will accuse man if he has fed them badly.\""
+     "text": "“And just as every human soul is counted by number, so the beasts will not perish, nor any of the souls of the beasts that the Lord made, until the great judgment, and they will accuse man if he has fed them badly.”"
     }
    ],
    "notes": []
@@ -1837,27 +1837,27 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Whoever defiles the soul of beasts defiles his own soul.\""
+     "text": "“Whoever defiles the soul of beasts defiles his own soul.”"
     },
     {
      "v": 2,
-     "text": "\"For man brings clean animals to make a sacrifice for sin, so that he may have healing for his soul.\""
+     "text": "“For man brings clean animals to make a sacrifice for sin, so that he may have healing for his soul.”"
     },
     {
      "v": 3,
-     "text": "\"If they bring clean animals and birds for sacrifice, man has healing; he heals his soul.{a}\""
+     "text": "“If they bring clean animals and birds for sacrifice, man has healing; he heals his soul.{a}”"
     },
     {
      "v": 4,
-     "text": "\"Everything is given to you for food. Bind the animal by its four feet; that is, make the healing complete, and heal your soul.\""
+     "text": "“Everything is given to you for food. Bind the animal by its four feet; that is, make the healing complete, and heal your soul.”"
     },
     {
      "v": 5,
-     "text": "\"But whoever kills a beast without wounds kills his own soul and defiles his own flesh.\""
+     "text": "“But whoever kills a beast without wounds kills his own soul and defiles his own flesh.”"
     },
     {
      "v": 6,
-     "text": "\"And he who does any harm at all to any beast, in secret, is practicing evil and defiles his own soul.\""
+     "text": "“And he who does any harm at all to any beast, in secret, is practicing evil and defiles his own soul.”"
     }
    ],
    "notes": [
@@ -1876,19 +1876,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"He who brings about the killing of a human soul kills his own soul and kills his own body, and there is no healing for him for all time.\""
+     "text": "“He who brings about the killing of a human soul kills his own soul and kills his own body, and there is no healing for him for all time.”"
     },
     {
      "v": 2,
-     "text": "\"He who sets a snare for a man will be caught in it himself, and there is no healing for him for all time.{a}\""
+     "text": "“He who sets a snare for a man will be caught in it himself, and there is no healing for him for all time.{a}”"
     },
     {
      "v": 3,
-     "text": "\"He who puts a man into any container, his punishment will not be missing at the great judgment for all time.\""
+     "text": "“He who puts a man into any container, his punishment will not be missing at the great judgment for all time.”"
     },
     {
      "v": 4,
-     "text": "\"He who works crookedly or speaks evil against any soul will not obtain justice for himself for all time.\""
+     "text": "“He who works crookedly or speaks evil against any soul will not obtain justice for himself for all time.”"
     }
    ],
    "notes": [
@@ -1907,19 +1907,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"And now, my children, keep your hearts from every injustice that the Lord hates. Just as a man asks God for something for his own soul, so let him do for every living soul. I know everything: in the great time to come, a great inheritance is prepared for men, good for the good and bad for the bad, without number.\""
+     "text": "“And now, my children, keep your hearts from every injustice that the Lord hates. Just as a man asks God for something for his own soul, so let him do for every living soul. I know everything: in the great time to come, a great inheritance is prepared for men, good for the good and bad for the bad, without number.”"
     },
     {
      "v": 2,
-     "text": "\"Blessed are those who enter the good houses, for in the bad houses there is no peace and no return from them.\""
+     "text": "“Blessed are those who enter the good houses, for in the bad houses there is no peace and no return from them.”"
     },
     {
      "v": 3,
-     "text": "\"Listen, my children, small and great! When a man puts a good thought in his heart and brings gifts from his labors before the Lord's face, but his hands did not make them, then the Lord will turn his face away from the labor of that man's hand, and the man will not find the labor of his hands.\""
+     "text": "“Listen, my children, small and great! When a man puts a good thought in his heart and brings gifts from his labors before the Lord’s face, but his hands did not make them, then the Lord will turn his face away from the labor of that man’s hand, and the man will not find the labor of his hands.”"
     },
     {
      "v": 4,
-     "text": "\"And if his hands made it, but his heart grumbles, and his heart does not stop grumbling constantly, he has no advantage.\""
+     "text": "“And if his hands made it, but his heart grumbles, and his heart does not stop grumbling constantly, he has no advantage.”"
     }
    ],
    "notes": []
@@ -1932,15 +1932,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Blessed is the man who, in his patience, brings his gifts with faith before the Lord's face, because he will find forgiveness of sins.\""
+     "text": "“Blessed is the man who, in his patience, brings his gifts with faith before the Lord’s face, because he will find forgiveness of sins.”"
     },
     {
      "v": 2,
-     "text": "\"But if he takes back his words before the time, there is no repentance for him; and if the time passes and he does not do of his own will what he promised, there is no repentance after death.\""
+     "text": "“But if he takes back his words before the time, there is no repentance for him; and if the time passes and he does not do of his own will what he promised, there is no repentance after death.”"
     },
     {
      "v": 3,
-     "text": "\"For every work a man does before the time is all deceit before men and sin before God.\""
+     "text": "“For every work a man does before the time is all deceit before men and sin before God.”"
     }
    ],
    "notes": []
@@ -1953,19 +1953,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"When a man clothes the naked and feeds the hungry, he will find a reward from God.\""
+     "text": "“When a man clothes the naked and feeds the hungry, he will find a reward from God.”"
     },
     {
      "v": 2,
-     "text": "\"But if his heart grumbles, he commits a double evil: ruin of himself and of what he gives; and for him there will be no finding of reward because of it.\""
+     "text": "“But if his heart grumbles, he commits a double evil: ruin of himself and of what he gives; and for him there will be no finding of reward because of it.”"
     },
     {
      "v": 3,
-     "text": "\"If his own heart is full of his own food and his own flesh, clothed in his own clothing, he commits contempt, and will lose all the reward for his endurance of poverty, and will not find a reward for his good deeds.\""
+     "text": "“If his own heart is full of his own food and his own flesh, clothed in his own clothing, he commits contempt, and will lose all the reward for his endurance of poverty, and will not find a reward for his good deeds.”"
     },
     {
      "v": 4,
-     "text": "\"Every proud and boastful man is hateful to the Lord, and so is every false speech clothed in untruth. It will be cut with the blade of the sword of death, thrown into the fire, and burn for all time.\""
+     "text": "“Every proud and boastful man is hateful to the Lord, and so is every false speech clothed in untruth. It will be cut with the blade of the sword of death, thrown into the fire, and burn for all time.”"
     }
    ],
    "notes": []
@@ -1982,7 +1982,7 @@
     },
     {
      "v": 2,
-     "text": "\"Let us go and kiss Enoch.\" Two thousand men came together and came to the place Achuzan,{a} where Enoch was with his sons."
+     "text": "“Let us go and kiss Enoch.” Two thousand men came together and came to the place Achuzan,{a} where Enoch was with his sons."
     },
     {
      "v": 3,
@@ -1990,18 +1990,18 @@
     },
     {
      "v": 4,
-     "text": "\"Our father Enoch, may you be blessed by the Lord, the eternal ruler. And now bless your sons and all the people, so that we may be glorified today before your face.\""
+     "text": "“Our father Enoch, may you be blessed by the Lord, the eternal ruler. And now bless your sons and all the people, so that we may be glorified today before your face.”"
     },
     {
      "v": 5,
-     "text": "\"For you will be glorified before the Lord's face for all time, since the Lord chose you rather than all men on earth, and appointed you writer of all his creation, visible and invisible, and redeemer of the sins of man, and helper of your household.\""
+     "text": "“For you will be glorified before the Lord’s face for all time, since the Lord chose you rather than all men on earth, and appointed you writer of all his creation, visible and invisible, and redeemer of the sins of man, and helper of your household.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "64:2",
-     "text": "\"Achuzan\" is the Slavonic name of the place, and its location and meaning are unknown. It may come from the Hebrew word *achuzzah* (\"possession\"), but that is only a guess."
+     "text": "“Achuzan” is the Slavonic name of the place, and its location and meaning are unknown. It may come from the Hebrew word *achuzzah* (“possession”), but that is only a guess."
     }
    ]
   },
@@ -2013,31 +2013,31 @@
    "verses": [
     {
      "v": 1,
-     "text": "Enoch answered all his people, saying, \"Listen, my children. Before all creatures were made, the Lord made the visible and the invisible things.\""
+     "text": "Enoch answered all his people, saying, “Listen, my children. Before all creatures were made, the Lord made the visible and the invisible things.”"
     },
     {
      "v": 2,
-     "text": "\"And however much time there was and passed by, understand that after all that he made man in the likeness of his own form, and put into him eyes to see, ears to hear, a heart to reflect, and a mind to deliberate with.\""
+     "text": "“And however much time there was and passed by, understand that after all that he made man in the likeness of his own form, and put into him eyes to see, ears to hear, a heart to reflect, and a mind to deliberate with.”"
     },
     {
      "v": 3,
-     "text": "\"The Lord saw all the works of man, and made all his creatures, and divided time. From time he fixed the years, from the years he appointed the months, from the months he appointed the days, and of the days he appointed seven.\""
+     "text": "“The Lord saw all the works of man, and made all his creatures, and divided time. From time he fixed the years, from the years he appointed the months, from the months he appointed the days, and of the days he appointed seven.”"
     },
     {
      "v": 4,
-     "text": "\"In these he appointed the hours and measured them out exactly, so that man might reflect on time and count years, months, and hours, their alternation, beginning, and end, and that he might count his own life from the beginning until death, and reflect on his sin and write down his work, bad and good. For no work is hidden before the Lord, so that every man may know his works and never break any of his commandments, and keep my writing from generation to generation.\""
+     "text": "“In these he appointed the hours and measured them out exactly, so that man might reflect on time and count years, months, and hours, their alternation, beginning, and end, and that he might count his own life from the beginning until death, and reflect on his sin and write down his work, bad and good. For no work is hidden before the Lord, so that every man may know his works and never break any of his commandments, and keep my writing from generation to generation.”"
     },
     {
      "v": 5,
-     "text": "\"When all creation, visible and invisible, as the Lord made it, comes to its end, then every man goes to the great judgment, and then all time will perish, and the years, and from then on there will be no months, days, or hours. They will be joined together and will not be counted.\""
+     "text": "“When all creation, visible and invisible, as the Lord made it, comes to its end, then every man goes to the great judgment, and then all time will perish, and the years, and from then on there will be no months, days, or hours. They will be joined together and will not be counted.”"
     },
     {
      "v": 6,
-     "text": "\"There will be one age, and all the righteous who escape the Lord's great judgment will be gathered into the great age. For the righteous the great age will begin, and they will live forever, and then there will be among them no toil, sickness, humiliation, anxiety, need, brutality, night, or darkness, but great light.\""
+     "text": "“There will be one age, and all the righteous who escape the Lord’s great judgment will be gathered into the great age. For the righteous the great age will begin, and they will live forever, and then there will be among them no toil, sickness, humiliation, anxiety, need, brutality, night, or darkness, but great light.”"
     },
     {
      "v": 7,
-     "text": "\"They will have a great indestructible wall, and a Paradise bright and incorruptible, eternal; for all corruptible, mortal things will pass away, and there will be eternal life.\""
+     "text": "“They will have a great indestructible wall, and a Paradise bright and incorruptible, eternal; for all corruptible, mortal things will pass away, and there will be eternal life.”"
     }
    ],
    "notes": []
@@ -2050,35 +2050,35 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"And now, my children, keep your souls from all injustice, such as the Lord hates.\""
+     "text": "“And now, my children, keep your souls from all injustice, such as the Lord hates.”"
     },
     {
      "v": 2,
-     "text": "\"Walk before his face with fear and trembling, and serve him alone.\""
+     "text": "“Walk before his face with fear and trembling, and serve him alone.”"
     },
     {
      "v": 3,
-     "text": "\"Bow down to the true God, not to mute idols, but bow down to his likeness, and bring all just offerings before the Lord's face. The Lord hates what is unjust.\""
+     "text": "“Bow down to the true God, not to mute idols, but bow down to his likeness, and bring all just offerings before the Lord’s face. The Lord hates what is unjust.”"
     },
     {
      "v": 4,
-     "text": "\"For the Lord sees everything. When a man takes thought in his heart, then he advises the minds, and every thought is always before the Lord, who made the earth firm and put all creatures on it.\""
+     "text": "“For the Lord sees everything. When a man takes thought in his heart, then he advises the minds, and every thought is always before the Lord, who made the earth firm and put all creatures on it.”"
     },
     {
      "v": 5,
-     "text": "\"If you look to heaven, the Lord is there. If you think of the deep of the sea and everything under the earth, the Lord is there.\""
+     "text": "“If you look to heaven, the Lord is there. If you think of the deep of the sea and everything under the earth, the Lord is there.”"
     },
     {
      "v": 6,
-     "text": "\"For the Lord made all things. Do not bow down to things made by man, leaving the Lord of all creation, because no work can stay hidden before the Lord's face.\""
+     "text": "“For the Lord made all things. Do not bow down to things made by man, leaving the Lord of all creation, because no work can stay hidden before the Lord’s face.”"
     },
     {
      "v": 7,
-     "text": "\"Walk, my children, in long-suffering, in gentleness, in honesty, in provocation, in grief, in faith and in truth, in reliance on promises, in illness, in abuse, in wounds, in temptation, in nakedness, in need, loving one another, until you go out from this age of ills, so that you become heirs of endless time.\""
+     "text": "“Walk, my children, in long-suffering, in gentleness, in honesty, in provocation, in grief, in faith and in truth, in reliance on promises, in illness, in abuse, in wounds, in temptation, in nakedness, in need, loving one another, until you go out from this age of ills, so that you become heirs of endless time.”"
     },
     {
      "v": 8,
-     "text": "\"Blessed are the righteous who will escape the great judgment, for they will shine more than the sun, sevenfold. For in this world a seventh part is taken off from everything: light, darkness, food, enjoyment, sorrow, Paradise, torture, fire, frost, and other things. He put everything down in writing, so that you might read and understand.\""
+     "text": "“Blessed are the righteous who will escape the great judgment, for they will shine more than the sun, sevenfold. For in this world a seventh part is taken off from everything: light, darkness, food, enjoyment, sorrow, Paradise, torture, fire, frost, and other things. He put everything down in writing, so that you might read and understand.”"
     }
    ],
    "notes": []
@@ -2095,7 +2095,7 @@
     },
     {
      "v": 2,
-     "text": "The people saw this but did not understand how Enoch had been taken. They glorified God and found a scroll in which was traced \"The Invisible God.\" And all went to their homes."
+     "text": "The people saw this but did not understand how Enoch had been taken. They glorified God and found a scroll in which was traced “The Invisible God.” And all went to their homes."
     }
    ],
    "notes": []
@@ -2120,7 +2120,7 @@
     },
     {
      "v": 4,
-     "text": "As every man's nature in this life is dark, so are his conception, birth, and departure from this life."
+     "text": "As every man’s nature in this life is dark, so are his conception, birth, and departure from this life."
     },
     {
      "v": 5,
@@ -2132,7 +2132,7 @@
     },
     {
      "v": 7,
-     "text": "They took sacrificial oxen and called all the people together and offered the sacrifice before the Lord's face."
+     "text": "They took sacrificial oxen and called all the people together and offered the sacrifice before the Lord’s face."
     },
     {
      "v": 8,
@@ -2151,7 +2151,7 @@
     {
      "m": "a",
      "ref": "68:1",
-     "text": "\"Tsivan\" is the Hebrew month Sivan, which falls in May–June; the Slavonic gives the days of the month only."
+     "text": "“Tsivan” is the Hebrew month Sivan, which falls in May–June; the Slavonic gives the days of the month only."
     }
    ]
   }

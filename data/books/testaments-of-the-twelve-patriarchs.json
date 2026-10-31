@@ -2,7 +2,7 @@
  "id": "testaments-of-the-twelve-patriarchs",
  "name": "Testaments of the Twelve Patriarchs",
  "division": "Pseudepigrapha",
- "sourceNote": "This English text was translated fresh from the Greek text of R. H. Charles, *The Greek Versions of the Testaments of the Twelve Patriarchs* (Oxford, 1908), which is in the public domain. His English translation (1908, also public domain) was consulted for sense at hard places, and the wording here was written anew from the Greek; because both follow the same Greek, some stock phrases and formulas (such as burial notices) coincide. No modern copyrighted English translation was used. Verse numbers follow the traditional chapters and verses, and each testament is one chapter of this app; the traditional chapter numbers appear as headings inside each testament. Where the Greek has no line for a traditional verse number (for example Judah 15.2 and Joseph 19.3–7), the number is skipped. The divine name is not written out in these texts; \"the Lord\" (Greek *Kyrios*) is used as in the source, with God, the Most High, and similar titles. **Date and text.** The book is a set of twelve farewell speeches, in which each son of Jacob looks back on his life, warns his children against a particular vice, and tells what will happen to his tribe. The Greek form was fixed by about AD 200, because Origen seems to know it. The oldest Greek manuscripts are medieval, from about the tenth century on. There is also an Armenian version, a Slavonic version made from the Greek, and a Latin translation made by Robert Grosseteste about 1242. Older Jewish material has turned up in Aramaic and Hebrew fragments from Qumran (an Aramaic *Levi* and a Hebrew *Naphtali*) and in the Aramaic *Levi* from the Cairo Geniza; these show that some of the stories and teachings are much older than the Greek book, but they are not copies of it. **The interpolation debate.** The Greek text contains passages that sound Christian, such as the \"Lamb of God\" in Joseph 19, a crucifixion in Benjamin 9, and a savior \"from Judah and Levi\" in several testaments. R. H. Charles held that the book was a Jewish work of about 109–107 BC with a small number of Christian additions, which he marked off as later. Since the work of M. de Jonge (1953), and the commentary by H. W. Hollander and de Jonge (1985), many scholars hold instead that the Greek book is a Christian composition of the second century AD built from older Jewish traditions; others, such as H. C. Kee and J. Becker, have argued for different mixes of Jewish and Christian layers. No one can yet fully separate the layers, and this translation does not try. It translates the whole Greek text as it stands and, where a line sounds Christian, says so in a footnote. **Canon status.** The Testaments are not part of the Jewish, Catholic, Protestant, or Orthodox canons. They were copied in some Armenian Bible manuscripts and were read as edifying Christian and Jewish literature. **About the book.** Reuben warns against women and the spirit of fornication, Simeon against envy, and Levi describes his journey through the heavens, his ordination to the priesthood, and the sins of the priests. Judah tells of his wars and his fall with Tamar, and warns against drink and greed. Issachar teaches simplicity; Zebulun, compassion; Dan, the harm of anger and lying; Naphtali, living by the order of creation; Gad, the damage of hatred; Asher, the \"two faces\" of good and evil; Joseph, self-control against the wife of Potiphar; and Benjamin, the good mind. In most testaments the son confesses a fault, gives his advice, foretells that his descendants will sin, be scattered, and then be saved through Levi and Judah, and asks to be buried at Hebron.",
+ "sourceNote": "This English text was translated fresh from the Greek text of R. H. Charles, *The Greek Versions of the Testaments of the Twelve Patriarchs* (Oxford, 1908), which is in the public domain. His English translation (1908, also public domain) was consulted for sense at hard places, and the wording here was written anew from the Greek; because both follow the same Greek, some stock phrases and formulas (such as burial notices) coincide. No modern copyrighted English translation was used. Verse numbers follow the traditional chapters and verses, and each testament is one chapter of this app; the traditional chapter numbers appear as headings inside each testament. Where the Greek has no line for a traditional verse number (for example Judah 15.2 and Joseph 19.3–7), the number is skipped. The divine name is not written out in these texts; “the Lord” (Greek *Kyrios*) is used as in the source, with God, the Most High, and similar titles. **Date and text.** The book is a set of twelve farewell speeches, in which each son of Jacob looks back on his life, warns his children against a particular vice, and tells what will happen to his tribe. The Greek form was fixed by about AD 200, because Origen seems to know it. The oldest Greek manuscripts are medieval, from about the tenth century on. There is also an Armenian version, a Slavonic version made from the Greek, and a Latin translation made by Robert Grosseteste about 1242. Older Jewish material has turned up in Aramaic and Hebrew fragments from Qumran (an Aramaic *Levi* and a Hebrew *Naphtali*) and in the Aramaic *Levi* from the Cairo Geniza; these show that some of the stories and teachings are much older than the Greek book, but they are not copies of it. **The interpolation debate.** The Greek text contains passages that sound Christian, such as the “Lamb of God” in Joseph 19, a crucifixion in Benjamin 9, and a savior “from Judah and Levi” in several testaments. R. H. Charles held that the book was a Jewish work of about 109–107 BC with a small number of Christian additions, which he marked off as later. Since the work of M. de Jonge (1953), and the commentary by H. W. Hollander and de Jonge (1985), many scholars hold instead that the Greek book is a Christian composition of the second century AD built from older Jewish traditions; others, such as H. C. Kee and J. Becker, have argued for different mixes of Jewish and Christian layers. No one can yet fully separate the layers, and this translation does not try. It translates the whole Greek text as it stands and, where a line sounds Christian, says so in a footnote. **Canon status.** The Testaments are not part of the Jewish, Catholic, Protestant, or Orthodox canons. They were copied in some Armenian Bible manuscripts and were read as edifying Christian and Jewish literature. **About the book.** Reuben warns against women and the spirit of fornication, Simeon against envy, and Levi describes his journey through the heavens, his ordination to the priesthood, and the sins of the priests. Judah tells of his wars and his fall with Tamar, and warns against drink and greed. Issachar teaches simplicity; Zebulun, compassion; Dan, the harm of anger and lying; Naphtali, living by the order of creation; Gad, the damage of hatred; Asher, the “two faces” of good and evil; Joseph, self-control against the wife of Potiphar; and Benjamin, the good mind. In most testaments the son confesses a fault, gives his advice, foretells that his descendants will sin, be scattered, and then be saved through Levi and Judah, and asks to be buried at Hebron.",
  "chapters": [
   {
    "n": 1,
@@ -22,23 +22,23 @@
     },
     {
      "v": 2,
-     "text": "Two years after Joseph's death he fell ill, and his sons and his sons' sons gathered to visit him."
+     "text": "Two years after Joseph’s death he fell ill, and his sons and his sons’ sons gathered to visit him."
     },
     {
      "v": 3,
-     "text": "He said to them, \"My little children, I am dying, and I am setting out on the road my fathers took.\""
+     "text": "He said to them, “My little children, I am dying, and I am setting out on the road my fathers took.”"
     },
     {
      "v": 4,
-     "text": "Seeing Judah, Gad and Asher, his brothers, there, he said to them, \"Prop me up, brothers, so I can tell my brothers and my children the things I keep hidden in my heart, since from now on I am fading.\""
+     "text": "Seeing Judah, Gad and Asher, his brothers, there, he said to them, “Prop me up, brothers, so I can tell my brothers and my children the things I keep hidden in my heart, since from now on I am fading.”"
     },
     {
      "v": 5,
-     "text": "He got up, kissed them, wept, and said, \"Listen, my brothers; turn your ears, all of you, to Reuben your father and to what I command you."
+     "text": "He got up, kissed them, wept, and said, “Listen, my brothers; turn your ears, all of you, to Reuben your father and to what I command you."
     },
     {
      "v": 6,
-     "text": "Look: today I call the God of heaven as witness against you, so that you do not go the way of youthful ignorance and sexual immorality, the thing I poured myself out in when I defiled my father Jacob's bed.{b}"
+     "text": "Look: today I call the God of heaven as witness against you, so that you do not go the way of youthful ignorance and sexual immorality, the thing I poured myself out in when I defiled my father Jacob’s bed.{b}"
     },
     {
      "v": 7,
@@ -46,7 +46,7 @@
     },
     {
      "v": 8,
-     "text": "I was thirty years old when I did that evil thing in the Lord's sight, and for seven months I lay sick almost to death."
+     "text": "I was thirty years old when I did that evil thing in the Lord’s sight, and for seven months I lay sick almost to death."
     },
     {
      "v": 9,
@@ -54,11 +54,11 @@
     },
     {
      "v": 10,
-     "text": "Wine and strong drink I did not drink; meat did not enter my mouth; no bread I craved did I taste. I mourned over my sin, for it was great. Nothing like it will ever be done in Israel.\""
+     "text": "Wine and strong drink I did not drink; meat did not enter my mouth; no bread I craved did I taste. I mourned over my sin, for it was great. Nothing like it will ever be done in Israel.”"
     },
     {
      "v": 11,
-     "text": "\"Now hear me, children, about what I saw during my repentance concerning the seven spirits of deceit."
+     "text": "“Now hear me, children, about what I saw during my repentance concerning the seven spirits of deceit."
     },
     {
      "v": 12,
@@ -90,11 +90,11 @@
     },
     {
      "v": 19,
-     "text": "That is why it is the last in creation and the first in youth: it is full of ignorance, and it leads the young man like a blind man into a pit and like a beast over a cliff.\""
+     "text": "That is why it is the last in creation and the first in youth: it is full of ignorance, and it leads the young man like a blind man into a pit and like a beast over a cliff.”"
     },
     {
      "v": 20,
-     "text": "\"On top of all these there is an eighth, the spirit of sleep, with which was created the trance of nature, the image of death."
+     "text": "“On top of all these there is an eighth, the spirit of sleep, with which was created the trance of nature, the image of death."
     },
     {
      "v": 21,
@@ -114,7 +114,7 @@
     },
     {
      "v": 25,
-     "text": "Seventh, the spirit of injustice, with which come theft and grasping, so that he may serve his heart's love of pleasure; for injustice works hand in hand with the other spirits through taking bribes.{d}"
+     "text": "Seventh, the spirit of injustice, with which come theft and grasping, so that he may serve his heart’s love of pleasure; for injustice works hand in hand with the other spirits through taking bribes.{d}"
     },
     {
      "v": 26,
@@ -130,7 +130,7 @@
     },
     {
      "v": 29,
-     "text": "Do not fix your attention on a woman's looks, do not be alone with a married woman, and do not busy yourselves with women's affairs."
+     "text": "Do not fix your attention on a woman’s looks, do not be alone with a married woman, and do not busy yourselves with women’s affairs."
     },
     {
      "v": 30,
@@ -138,7 +138,7 @@
     },
     {
      "v": 31,
-     "text": "My mind took in the woman's nakedness and would not let me sleep until I had done the abomination."
+     "text": "My mind took in the woman’s nakedness and would not let me sleep until I had done the abomination."
     },
     {
      "v": 32,
@@ -150,15 +150,15 @@
     },
     {
      "v": 34,
-     "text": "At once an angel of God revealed my impiety to my father Jacob. He came and mourned over me, and he never touched her again.\""
+     "text": "At once an angel of God revealed my impiety to my father Jacob. He came and mourned over me, and he never touched her again.”"
     },
     {
      "v": 35,
-     "text": "\"So do not fix your attention on women's beauty, and do not brood on what they do. Walk in singleness of heart, in the fear of the Lord, laboring at your work, letting your mind roam among books and among your flocks, until the Lord gives you the wife he wills, so that you do not suffer as I did."
+     "text": "“So do not fix your attention on women’s beauty, and do not brood on what they do. Walk in singleness of heart, in the fear of the Lord, laboring at your work, letting your mind roam among books and among your flocks, until the Lord gives you the wife he wills, so that you do not suffer as I did."
     },
     {
      "v": 36,
-     "text": "Until our father's death I did not have the nerve to look Jacob in the face or to speak to any of my brothers, because of the reproaches."
+     "text": "Until our father’s death I did not have the nerve to look Jacob in the face or to speak to any of my brothers, because of the reproaches."
     },
     {
      "v": 37,
@@ -166,7 +166,7 @@
     },
     {
      "v": 38,
-     "text": "Yet my father comforted me, for he had prayed to the Lord for me that the Lord's anger might pass from me, as the Lord showed me. From then on I kept careful watch, and I did not sin."
+     "text": "Yet my father comforted me, for he had prayed to the Lord for me that the Lord’s anger might pass from me, as the Lord showed me. From then on I kept careful watch, and I did not sin."
     },
     {
      "v": 39,
@@ -194,11 +194,11 @@
     },
     {
      "v": 45,
-     "text": "If immorality does not overpower your thinking, neither will Beliar overpower you.\""
+     "text": "If immorality does not overpower your thinking, neither will Beliar overpower you.”"
     },
     {
      "v": 46,
-     "text": "\"Women are evil, my children:{h} because they have no authority or strength over a man, they scheme with outward show, how they may draw him to themselves."
+     "text": "“Women are evil, my children:{h} because they have no authority or strength over a man, they scheme with outward show, how they may draw him to themselves."
     },
     {
      "v": 47,
@@ -222,11 +222,11 @@
     },
     {
      "v": 52,
-     "text": "The women, longing in their minds for these apparitions, bore giants; for the Watchers appeared to them reaching up to heaven.\""
+     "text": "The women, longing in their minds for these apparitions, bore giants; for the Watchers appeared to them reaching up to heaven.”"
     },
     {
      "v": 53,
-     "text": "\"So guard yourselves against immorality. If you want to stay pure in mind, guard your senses from every woman."
+     "text": "“So guard yourselves against immorality. If you want to stay pure in mind, guard your senses from every woman."
     },
     {
      "v": 54,
@@ -254,7 +254,7 @@
     },
     {
      "v": 60,
-     "text": "That is why I command you to listen to Levi: he will know the Lord's law and will make rulings for justice and for sacrifices on behalf of all Israel until the completion of the times of the anointed high priest,{k} of whom the Lord has spoken."
+     "text": "That is why I command you to listen to Levi: he will know the Lord’s law and will make rulings for justice and for sacrifices on behalf of all Israel until the completion of the times of the anointed high priest,{k} of whom the Lord has spoken."
     },
     {
      "v": 61,
@@ -270,7 +270,7 @@
     },
     {
      "v": 64,
-     "text": "Bow down to his offspring, for he will die for us in wars seen and unseen, and he will be among you an eternal king.\"{l}"
+     "text": "Bow down to his offspring, for he will die for us in wars seen and unseen, and he will be among you an eternal king.”{l}"
     },
     {
      "v": 65,
@@ -285,37 +285,37 @@
     {
      "m": "a",
      "ref": "1:1",
-     "text": "\"Reuben\" is explained in Gen 29:32 by a wordplay on \"Yahweh has seen my affliction\"; the name itself looks like \"See, a son!\" (Hebrew re'u ben). The meaning is uncertain. In the Greek the name is spelled Roubēm, as often in the Septuagint. Verses in this book are numbered straight through each testament; the subheads give the traditional chapter divisions of Charles's 1908 Greek edition, so \"verse 12 here\" can be matched with the usual chapter-and-verse reference."
+     "text": "“Reuben” is explained in Gen 29:32 by a wordplay on “Yahweh has seen my affliction”; the name itself looks like “See, a son!” (Hebrew re’u ben). The meaning is uncertain. In the Greek the name is spelled Roubēm, as often in the Septuagint. Verses in this book are numbered straight through each testament; the subheads give the traditional chapter divisions of Charles’s 1908 Greek edition, so “verse 12 here” can be matched with the usual chapter-and-verse reference."
     },
     {
      "m": "b",
      "ref": "1:6",
-     "text": "See Gen 35:22; 49:4. \"Poured myself out\" echoes Gen 49:4, \"unstable as water.\""
+     "text": "See Gen 35:22; 49:4. “Poured myself out” echoes Gen 49:4, “unstable as water.”"
     },
     {
      "m": "c",
      "ref": "1:12",
-     "text": "Beliar (Hebrew Belial, \"worthlessness\"; the derivation is debated) is the usual name for the chief evil power in the Testaments."
+     "text": "Beliar (Hebrew Belial, “worthlessness”; the derivation is debated) is the usual name for the chief evil power in the Testaments."
     },
     {
      "m": "d",
      "ref": "1:25",
-     "text": "The Greek word (dolēpsia, here spelled dololēpsia) is rare; \"taking bribes\" or \"crafty grabbing\" are both possible."
+     "text": "The Greek word (dolēpsia, here spelled dololēpsia) is rare; “taking bribes” or “crafty grabbing” are both possible."
     },
     {
      "m": "e",
      "ref": "1:30",
-     "text": "Greek Balla, for Hebrew Bilhah, Rachel's maid and Jacob's concubine (Gen 30:3–4). The meaning of the name is uncertain; \"timid\" and \"carefree\" have both been suggested."
+     "text": "Greek Balla, for Hebrew Bilhah, Rachel’s maid and Jacob’s concubine (Gen 30:3–4). The meaning of the name is uncertain; “timid” and “carefree” have both been suggested."
     },
     {
      "m": "f",
      "ref": "1:32",
-     "text": "Gader corresponds to \"Eder\" (Migdal Eder, \"tower of the flock\") in Gen 35:21."
+     "text": "Gader corresponds to “Eder” (Migdal Eder, “tower of the flock”) in Gen 35:21."
     },
     {
      "m": "g",
      "ref": "1:32",
-     "text": "Ephrath (\"fruitful,\" if from the root p-r-h; uncertain) is identified with Bethlehem (\"house of bread\") in Gen 35:19."
+     "text": "Ephrath (“fruitful,” if from the root p-r-h; uncertain) is identified with Bethlehem (“house of bread”) in Gen 35:19."
     },
     {
      "m": "h",
@@ -335,22 +335,22 @@
     {
      "m": "k",
      "ref": "1:60",
-     "text": "Greek archiereōs christou, \"of an anointed high priest\" or \"of Christ the high priest.\" Charles took the line as Jewish, referring to a Hasmonean priest-king; others (e.g., de Jonge) read the whole work as Christian in its present form. See the introduction."
+     "text": "Greek archiereōs christou, “of an anointed high priest” or “of Christ the high priest.” Charles took the line as Jewish, referring to a Hasmonean priest-king; others (e.g., de Jonge) read the whole work as Christian in its present form. See the introduction."
     },
     {
      "m": "l",
      "ref": "1:64",
-     "text": "\"He will die for us\" may be a Christian touch; the referent (\"his offspring\") is ambiguous between Levi's line and Judah's."
+     "text": "“He will die for us” may be a Christian touch; the referent (“his offspring”) is ambiguous between Levi’s line and Judah’s."
     },
     {
      "m": "m",
      "ref": "1:66",
-     "text": "Hebron perhaps means \"association\" or \"league\" (from the root h-b-r); uncertain."
+     "text": "Hebron perhaps means “association” or “league” (from the root h-b-r); uncertain."
     },
     {
      "m": "n",
      "ref": "1:66",
-     "text": "The cave of Machpelah (Gen 23:9, 19); the Septuagint renders Machpelah as \"the double cave.\""
+     "text": "The cave of Machpelah (Gen 23:9, 19); the Septuagint renders Machpelah as “the double cave.”"
     }
    ],
    "heading": "The Testament of Reuben, on the Thoughts of the Mind",
@@ -388,7 +388,7 @@
     },
     {
      "v": 3,
-     "text": "\"Listen, children, listen to Simeon your father, about everything I carry in my heart."
+     "text": "“Listen, children, listen to Simeon your father, about everything I carry in my heart."
     },
     {
      "v": 4,
@@ -440,11 +440,11 @@
     },
     {
      "v": 16,
-     "text": "For I knew that I had planned an evil thing before the Lord and Jacob my father, through envying my brother Joseph.\""
+     "text": "For I knew that I had planned an evil thing before the Lord and Jacob my father, through envying my brother Joseph.”"
     },
     {
      "v": 17,
-     "text": "\"Now, children, beware of the spirits of deceit and envy."
+     "text": "“Now, children, beware of the spirits of deceit and envy."
     },
     {
      "v": 18,
@@ -464,11 +464,11 @@
     },
     {
      "v": 22,
-     "text": "From then on he feels with the one he envied, and does not condemn those who love him, and so his envy stops.\""
+     "text": "From then on he feels with the one he envied, and does not condemn those who love him, and so his envy stops.”"
     },
     {
      "v": 23,
-     "text": "\"My father kept asking about me, because he saw me gloomy, and I said, 'My liver aches.'"
+     "text": "“My father kept asking about me, because he saw me gloomy, and I said, ‘My liver aches.’"
     },
     {
      "v": 24,
@@ -484,7 +484,7 @@
     },
     {
      "v": 27,
-     "text": "So beware, my children, of all jealousy and envy, and walk in simplicity of soul and in a good heart, keeping in mind your father's brother, so that God may give you also grace, glory, and blessing on your heads, as you saw in him."
+     "text": "So beware, my children, of all jealousy and envy, and walk in simplicity of soul and in a good heart, keeping in mind your father’s brother, so that God may give you also grace, glory, and blessing on your heads, as you saw in him."
     },
     {
      "v": 28,
@@ -500,11 +500,11 @@
     },
     {
      "v": 31,
-     "text": "Even in sleep, a jealous malice shows itself in dreams and eats the person up; with evil spirits it disturbs his soul, makes his body shake with fear, and wakes his mind in confusion. He looks to others like someone who has an evil, venomous spirit.\""
+     "text": "Even in sleep, a jealous malice shows itself in dreams and eats the person up; with evil spirits it disturbs his soul, makes his body shake with fear, and wakes his mind in confusion. He looks to others like someone who has an evil, venomous spirit.”"
     },
     {
      "v": 32,
-     "text": "\"That is why Joseph was handsome in form and fair to look at: no evil lived in him. For the face shows what the spirit is stirred by."
+     "text": "“That is why Joseph was handsome in form and fair to look at: no evil lived in him. For the face shows what the spirit is stirred by."
     },
     {
      "v": 33,
@@ -520,15 +520,15 @@
     },
     {
      "v": 36,
-     "text": "But they will not be able to stand against Levi, because he will fight the Lord's war and will defeat all your camps."
+     "text": "But they will not be able to stand against Levi, because he will fight the Lord’s war and will defeat all your camps."
     },
     {
      "v": 37,
-     "text": "You will be few in number, divided up among Levi and Judah, and no one of yours will hold rule, just as my father Jacob prophesied in his blessings.\""
+     "text": "You will be few in number, divided up among Levi and Judah, and no one of yours will hold rule, just as my father Jacob prophesied in his blessings.”"
     },
     {
      "v": 38,
-     "text": "\"See, I have told you everything beforehand, so that I am cleared of the sin of your souls."
+     "text": "“See, I have told you everything beforehand, so that I am cleared of the sin of your souls."
     },
     {
      "v": 39,
@@ -552,11 +552,11 @@
     },
     {
      "v": 44,
-     "text": "Then I will rise in joy and bless the Most High for His wonders, because God took a body, ate with humans, and saved them.\""
+     "text": "Then I will rise in joy and bless the Most High for His wonders, because God took a body, ate with humans, and saved them.”"
     },
     {
      "v": 45,
-     "text": "\"Now, my little children, obey Levi, and in Judah you will be set free. Do not exalt yourselves over these two tribes, for from them the salvation of God will rise for you."
+     "text": "“Now, my little children, obey Levi, and in Judah you will be set free. Do not exalt yourselves over these two tribes, for from them the salvation of God will rise for you."
     },
     {
      "v": 46,
@@ -564,7 +564,7 @@
     },
     {
      "v": 47,
-     "text": "For this reason I command you everything, so that you also may command your children, and they may keep these things through their generations.\""
+     "text": "For this reason I command you everything, so that you also may command your children, and they may keep these things through their generations.”"
     },
     {
      "v": 48,
@@ -580,73 +580,73 @@
     },
     {
      "v": 51,
-     "text": "Their sorcerers had told them that when Joseph's bones left, there would be darkness and gloom over all Egypt and a very great plague on the Egyptians, so that people would not recognize their own brothers even with a lamp."
+     "text": "Their sorcerers had told them that when Joseph’s bones left, there would be darkness and gloom over all Egypt and a very great plague on the Egyptians, so that people would not recognize their own brothers even with a lamp."
     },
     {
      "v": 52,
-     "text": "Simeon's sons mourned their father according to the custom of mourning, and they stayed in Egypt until the day they left Egypt, under Moses.{l}"
+     "text": "Simeon’s sons mourned their father according to the custom of mourning, and they stayed in Egypt until the day they left Egypt, under Moses.{l}"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "2:1",
-     "text": "\"Simeon\" (Hebrew *Shimon*) is explained in Gen 29:33 by a wordplay on \"heard,\" as in \"Yahweh has heard.\" In the Greek the name is spelled Symeon."
+     "text": "“Simeon” (Hebrew *Shimon*) is explained in Gen 29:33 by a wordplay on “heard,” as in “Yahweh has heard.” In the Greek the name is spelled Symeon."
     },
     {
      "m": "b",
      "ref": "2:4",
-     "text": "\"Leah\" (Hebrew *Le'ah*) is of uncertain meaning; it may mean \"wild cow\" or \"weary.\""
+     "text": "“Leah” (Hebrew *Le’ah*) is of uncertain meaning; it may mean “wild cow” or “weary.”"
     },
     {
      "m": "c",
      "ref": "2:11",
-     "text": "\"Shechem\" (Hebrew *Shekhem*) means \"shoulder\" or \"ridge.\" The city stood in the hill country of Ephraim."
+     "text": "“Shechem” (Hebrew *Shekhem*) means “shoulder” or “ridge.” The city stood in the hill country of Ephraim."
     },
     {
      "m": "d",
      "ref": "2:11",
-     "text": "\"Dothan\" (Hebrew *Dothan*) is a town north of Shechem."
+     "text": "“Dothan” (Hebrew *Dothan*) is a town north of Shechem."
     },
     {
      "m": "e",
      "ref": "2:11",
-     "text": "\"Ishmaelites\" are descendants of Ishmael, Abraham's son, \"God hears\"; in Gen 37:25-28 they are the traders to whom Joseph is sold."
+     "text": "“Ishmaelites” are descendants of Ishmael, Abraham’s son, “God hears”; in Gen 37:25-28 they are the traders to whom Joseph is sold."
     },
     {
      "m": "f",
      "ref": "2:35",
-     "text": "\"Enoch\" (Hebrew *Chanokh*) is explained as \"dedicated\" or \"trained.\" The writings ascribed to him are the books of 1 Enoch; the passage meant here is not found in the surviving texts."
+     "text": "“Enoch” (Hebrew *Chanokh*) is explained as “dedicated” or “trained.” The writings ascribed to him are the books of 1 Enoch; the passage meant here is not found in the surviving texts."
     },
     {
      "m": "g",
      "ref": "2:40",
-     "text": "\"Canaan\" (Hebrew *Kena'an*) is the land west of the Jordan and the name of its people; in Gen 9:25 Canaan is the son of Ham who is cursed."
+     "text": "“Canaan” (Hebrew *Kena’an*) is the land west of the Jordan and the name of its people; in Gen 9:25 Canaan is the son of Ham who is cursed."
     },
     {
      "m": "h",
      "ref": "2:40",
-     "text": "\"Amalek\" (Hebrew *Amaleq*) is the desert people who attacked Israel at Rephidim (Exod 17:8-16) and were long treated as the model enemy."
+     "text": "“Amalek” (Hebrew *Amaleq*) is the desert people who attacked Israel at Rephidim (Exod 17:8-16) and were long treated as the model enemy."
     },
     {
      "m": "i",
      "ref": "2:41",
-     "text": "\"Ham\" (Hebrew *Cham*) is one of Noah's sons, whose line included Egypt and Canaan; the name may mean \"hot\" or \"dark.\""
+     "text": "“Ham” (Hebrew *Cham*) is one of Noah’s sons, whose line included Egypt and Canaan; the name may mean “hot” or “dark.”"
     },
     {
      "m": "j",
      "ref": "2:42",
-     "text": "\"Shem\" (Hebrew *Shem*) means \"name.\" He is the ancestor of the Semitic peoples, including Israel."
+     "text": "“Shem” (Hebrew *Shem*) means “name.” He is the ancestor of the Semitic peoples, including Israel."
     },
     {
      "m": "k",
      "ref": "2:42",
-     "text": "\"Adam\" (Hebrew *adam*) means \"human being,\" from the word for the ground, *adamah*. The line \"save Adam in him\" may be a Christian touch."
+     "text": "“Adam” (Hebrew *adam*) means “human being,” from the word for the ground, *adamah*. The line “save Adam in him” may be a Christian touch."
     },
     {
      "m": "l",
      "ref": "2:52",
-     "text": "\"Moses\" (Hebrew *Mosheh*) is linked in Exod 2:10 with \"drawing out.\" He led Israel out of Egypt."
+     "text": "“Moses” (Hebrew *Mosheh*) is linked in Exod 2:10 with “drawing out.” He led Israel out of Egypt."
     }
    ],
    "heading": "The Testament of Simeon, on Envy",
@@ -696,7 +696,7 @@
     },
     {
      "v": 3,
-     "text": "\"I, Levi, was conceived in Haran{b} and born there, and afterward I came with my father to Shechem."
+     "text": "“I, Levi, was conceived in Haran{b} and born there, and afterward I came with my father to Shechem."
     },
     {
      "v": 4,
@@ -704,7 +704,7 @@
     },
     {
      "v": 5,
-     "text": "While we were shepherding in Abelmaul,{e} a spirit of the Lord's understanding came on me, and I saw all people ruining their way, and I saw that injustice had built walls for itself, and lawlessness sat on towers."
+     "text": "While we were shepherding in Abelmaul,{e} a spirit of the Lord’s understanding came on me, and I saw all people ruining their way, and I saw that injustice had built walls for itself, and lawlessness sat on towers."
     },
     {
      "v": 6,
@@ -716,7 +716,7 @@
     },
     {
      "v": 8,
-     "text": "The heavens were opened, and an angel of God said to me, 'Levi, come in.'"
+     "text": "The heavens were opened, and an angel of God said to me, ‘Levi, come in.’"
     },
     {
      "v": 9,
@@ -728,7 +728,7 @@
     },
     {
      "v": 11,
-     "text": "I said to the angel, 'Why is this?' and the angel said to me, 'Do not be amazed at these things, for you will see four other heavens, brighter and beyond comparison, when you go up there."
+     "text": "I said to the angel, ‘Why is this?’ and the angel said to me, ‘Do not be amazed at these things, for you will see four other heavens, brighter and beyond comparison, when you go up there."
     },
     {
      "v": 12,
@@ -740,15 +740,15 @@
     },
     {
      "v": 14,
-     "text": "Your life comes from the Lord's portion, and He will be your field, vineyard, crops, gold, and silver.'\""
+     "text": "Your life comes from the Lord’s portion, and He will be your field, vineyard, crops, gold, and silver.’”"
     },
     {
      "v": 15,
-     "text": "\"'Listen, then, about the seven heavens. The lowest is gloomier than the rest because it is closest to all the injustice of people."
+     "text": "“‘Listen, then, about the seven heavens. The lowest is gloomier than the rest because it is closest to all the injustice of people."
     },
     {
      "v": 16,
-     "text": "The second has fire, snow, and ice, ready for the day of the Lord's command, in the righteous judgment of God. In it are all the spirits of the punishments, sent to take vengeance on the lawless."
+     "text": "The second has fire, snow, and ice, ready for the day of the Lord’s command, in the righteous judgment of God. In it are all the spirits of the punishments, sent to take vengeance on the lawless."
     },
     {
      "v": 17,
@@ -760,7 +760,7 @@
     },
     {
      "v": 19,
-     "text": "In the one below it are the angels of the Lord's presence, who serve and make atonement before the Lord for all the sins of ignorance of the righteous."
+     "text": "In the one below it are the angels of the Lord’s presence, who serve and make atonement before the Lord for all the sins of ignorance of the righteous."
     },
     {
      "v": 20,
@@ -768,7 +768,7 @@
     },
     {
      "v": 21,
-     "text": "In the one under that are the angels who carry the answers to the angels of the Lord's presence."
+     "text": "In the one under that are the angels who carry the answers to the angels of the Lord’s presence."
     },
     {
      "v": 22,
@@ -780,11 +780,11 @@
     },
     {
      "v": 24,
-     "text": "but the sons of men, unaware of these things, sin and provoke the Most High.'\""
+     "text": "but the sons of men, unaware of these things, sin and provoke the Most High.’”"
     },
     {
      "v": 25,
-     "text": "\"'Know now that the Lord will bring judgment on the sons of men. When the rocks are split, the sun is put out, the waters dry up, the fire shrinks back, all creation is shaken, the unseen spirits melt, and Hades is plundered at the suffering of the Most High, people will not believe and will stay in their injustices; for this reason they will be judged with punishment."
+     "text": "“‘Know now that the Lord will bring judgment on the sons of men. When the rocks are split, the sun is put out, the waters dry up, the fire shrinks back, all creation is shaken, the unseen spirits melt, and Hades is plundered at the suffering of the Most High, people will not believe and will stay in their injustices; for this reason they will be judged with punishment."
     },
     {
      "v": 26,
@@ -804,19 +804,19 @@
     },
     {
      "v": 30,
-     "text": "because whoever blesses Him will be blessed, and those who curse Him will perish.'\""
+     "text": "because whoever blesses Him will be blessed, and those who curse Him will perish.’”"
     },
     {
      "v": 31,
-     "text": "\"The angel opened the gates of heaven for me, and I saw the holy temple, and the Most High on a throne of glory."
+     "text": "“The angel opened the gates of heaven for me, and I saw the holy temple, and the Most High on a throne of glory."
     },
     {
      "v": 32,
-     "text": "He said to me, 'Levi, I have given you the blessings of the priesthood, until I come and live among Israel.'"
+     "text": "He said to me, ‘Levi, I have given you the blessings of the priesthood, until I come and live among Israel.’"
     },
     {
      "v": 33,
-     "text": "Then the angel brought me to the earth and gave me a shield and a sword and said, 'Take vengeance at Shechem for Dinah, and I will be with you, for the Lord has sent me.'"
+     "text": "Then the angel brought me to the earth and gave me a shield and a sword and said, ‘Take vengeance at Shechem for Dinah, and I will be with you, for the Lord has sent me.’"
     },
     {
      "v": 34,
@@ -824,19 +824,19 @@
     },
     {
      "v": 35,
-     "text": "I said to him, 'I beg you, Lord, tell me Your name, so that I may call on You in the day of trouble.'"
+     "text": "I said to him, ‘I beg you, Lord, tell me Your name, so that I may call on You in the day of trouble.’"
     },
     {
      "v": 36,
-     "text": "He said, 'I am the angel who pleads for the nation of Israel, so that they will not be struck down completely, because every evil spirit attacks them.'"
+     "text": "He said, ‘I am the angel who pleads for the nation of Israel, so that they will not be struck down completely, because every evil spirit attacks them.’"
     },
     {
      "v": 37,
-     "text": "After this I woke, as if I had been asleep, and blessed the Most High and the angel who pleads for the nation of Israel and for all the righteous.\""
+     "text": "After this I woke, as if I had been asleep, and blessed the Most High and the angel who pleads for the nation of Israel and for all the righteous.”"
     },
     {
      "v": 38,
-     "text": "\"As I was on my way to my father, I found a bronze shield; that is why the mountain's name is Aspis, because it is near Gebal, to the right of Abila."
+     "text": "“As I was on my way to my father, I found a bronze shield; that is why the mountain’s name is Aspis, because it is near Gebal, to the right of Abila."
     },
     {
      "v": 39,
@@ -876,11 +876,11 @@
     },
     {
      "v": 48,
-     "text": "But the Lord's wrath overtook them to the end.\""
+     "text": "But the Lord’s wrath overtook them to the end.”"
     },
     {
      "v": 49,
-     "text": "\"I said to my father, 'Do not be angry, sir, for through you the Lord will humble the Canaanites and give their land to you and your seed after you."
+     "text": "“I said to my father, ‘Do not be angry, sir, for through you the Lord will humble the Canaanites and give their land to you and your seed after you."
     },
     {
      "v": 50,
@@ -888,23 +888,23 @@
     },
     {
      "v": 51,
-     "text": "because they also did a foolish thing in Israel, defiling our sister.'"
+     "text": "because they also did a foolish thing in Israel, defiling our sister.’"
     },
     {
      "v": 52,
-     "text": "We took our sister from there, set out, and came to Bethel.{g}\""
+     "text": "We took our sister from there, set out, and came to Bethel.{g}”"
     },
     {
      "v": 53,
-     "text": "\"There again I saw a vision like the earlier one, after we had spent seventy days."
+     "text": "“There again I saw a vision like the earlier one, after we had spent seventy days."
     },
     {
      "v": 54,
-     "text": "I saw seven men in white clothing who said to me, 'Get up, put on the robe of the priesthood, the crown of righteousness, the breastpiece of understanding, the long robe of truth, the plate of faith, the turban of the sign, and the ephod of prophecy.'"
+     "text": "I saw seven men in white clothing who said to me, ‘Get up, put on the robe of the priesthood, the crown of righteousness, the breastpiece of understanding, the long robe of truth, the plate of faith, the turban of the sign, and the ephod of prophecy.’"
     },
     {
      "v": 55,
-     "text": "Each of them carried one of these things and put it on me, and they said, 'From now on be a priest of the Lord, you and your seed, forever.'"
+     "text": "Each of them carried one of these things and put it on me, and they said, ‘From now on be a priest of the Lord, you and your seed, forever.’"
     },
     {
      "v": 56,
@@ -936,7 +936,7 @@
     },
     {
      "v": 63,
-     "text": "They said to me, 'Levi, your seed will be divided into three offices, as a sign of the glory of the Lord who is to come."
+     "text": "They said to me, ‘Levi, your seed will be divided into three offices, as a sign of the glory of the Lord who is to come."
     },
     {
      "v": 64,
@@ -956,11 +956,11 @@
     },
     {
      "v": 68,
-     "text": "Everything desirable in Israel will belong to you and to your seed. You will eat everything beautiful to see, and your seed will share out the Lord's table."
+     "text": "Everything desirable in Israel will belong to you and to your seed. You will eat everything beautiful to see, and your seed will share out the Lord’s table."
     },
     {
      "v": 69,
-     "text": "From them will come high priests, judges, and scribes, for the holy place will be guarded by their word.'"
+     "text": "From them will come high priests, judges, and scribes, for the holy place will be guarded by their word.’"
     },
     {
      "v": 70,
@@ -968,15 +968,15 @@
     },
     {
      "v": 71,
-     "text": "I hid this also in my heart and told it to no one on earth.\""
+     "text": "I hid this also in my heart and told it to no one on earth.”"
     },
     {
      "v": 72,
-     "text": "\"Two days later Judah and I went up to Isaac, following our father."
+     "text": "“Two days later Judah and I went up to Isaac, following our father."
     },
     {
      "v": 73,
-     "text": "My father's father blessed me according to all the words of the visions I had seen, but he did not want to go with us to Bethel."
+     "text": "My father’s father blessed me according to all the words of the visions I had seen, but he did not want to go with us to Bethel."
     },
     {
      "v": 74,
@@ -992,7 +992,7 @@
     },
     {
      "v": 77,
-     "text": "Isaac called me constantly to remind me of the Lord's law, as the angel of God had shown me."
+     "text": "Isaac called me constantly to remind me of the Lord’s law, as the angel of God had shown me."
     },
     {
      "v": 78,
@@ -1004,7 +1004,7 @@
     },
     {
      "v": 80,
-     "text": "He said, 'Child, beware of the spirit of sexual immorality. It will persist, and through your seed it is going to defile the holy things."
+     "text": "He said, ‘Child, beware of the spirit of sexual immorality. It will persist, and through your seed it is going to defile the holy things."
     },
     {
      "v": 81,
@@ -1024,11 +1024,11 @@
     },
     {
      "v": 85,
-     "text": "From every firstfruit and from wine offer firstfruits, and salt every sacrifice.'\""
+     "text": "From every firstfruit and from wine offer firstfruits, and salt every sacrifice.’”"
     },
     {
      "v": 86,
-     "text": "\"Now keep what I command you, children, because what I heard from my fathers I have told you."
+     "text": "“Now keep what I command you, children, because what I heard from my fathers I have told you."
     },
     {
      "v": 87,
@@ -1044,15 +1044,15 @@
     },
     {
      "v": 90,
-     "text": "For the house the Lord chooses will be called Jerusalem, as the book of Enoch the righteous contains.\""
+     "text": "For the house the Lord chooses will be called Jerusalem, as the book of Enoch the righteous contains.”"
     },
     {
      "v": 91,
-     "text": "\"When I took a wife, I was twenty-eight years old. Her name was Milcah.{h}"
+     "text": "“When I took a wife, I was twenty-eight years old. Her name was Milcah.{h}"
     },
     {
      "v": 92,
-     "text": "She conceived and bore a son and called his name Gershom,{i} because we were sojourners in our land. For \"Gershom\" is written to mean \"sojourning.\""
+     "text": "She conceived and bore a son and called his name Gershom,{i} because we were sojourners in our land. For “Gershom” is written to mean “sojourning.”"
     },
     {
      "v": 93,
@@ -1072,15 +1072,15 @@
     },
     {
      "v": 97,
-     "text": "She bore me Merari{k} in the fortieth year of my life. Because his mother had a hard labor, she called him Merari, which means \"my bitterness,\" because he too died."
+     "text": "She bore me Merari{k} in the fortieth year of my life. Because his mother had a hard labor, she called him Merari, which means “my bitterness,” because he too died."
     },
     {
      "v": 98,
-     "text": "Jochebed{l} was born in the sixty-fourth year, in Egypt, for I was honored then among my brothers.\""
+     "text": "Jochebed{l} was born in the sixty-fourth year, in Egypt, for I was honored then among my brothers.”"
     },
     {
      "v": 99,
-     "text": "\"Gershom took a wife and she bore him Libni and Shimei."
+     "text": "“Gershom took a wife and she bore him Libni and Shimei."
     },
     {
      "v": 100,
@@ -1104,11 +1104,11 @@
     },
     {
      "v": 105,
-     "text": "Joseph died in his hundred and eighteenth year.\""
+     "text": "Joseph died in his hundred and eighteenth year.”"
     },
     {
      "v": 106,
-     "text": "\"Now, my children, I command you to fear our Lord with your whole heart and to walk in simplicity according to all His law."
+     "text": "“Now, my children, I command you to fear our Lord with your whole heart and to walk in simplicity according to all His law."
     },
     {
      "v": 107,
@@ -1132,7 +1132,7 @@
     },
     {
      "v": 112,
-     "text": "Gain wisdom in the fear of God, with diligence. For if there is captivity, and cities and lands are destroyed, and gold and silver and every possession are lost, no one can take away a wise person's wisdom, except the blindness of ungodliness and the crippling of sin."
+     "text": "Gain wisdom in the fear of God, with diligence. For if there is captivity, and cities and lands are destroyed, and gold and silver and every possession are lost, no one can take away a wise person’s wisdom, except the blindness of ungodliness and the crippling of sin."
     },
     {
      "v": 113,
@@ -1140,11 +1140,11 @@
     },
     {
      "v": 114,
-     "text": "If he teaches these things and does them, he will sit on the throne with a king, as our brother Joseph did.\""
+     "text": "If he teaches these things and does them, he will sit on the throne with a king, as our brother Joseph did.”"
     },
     {
      "v": 115,
-     "text": "\"Now, children, I have learned from the writing of Enoch that at the end you will act ungodly against the Lord, laying hands on Him in every kind of wickedness, and your brothers will be ashamed because of you, and you will become a mockery to all the nations."
+     "text": "“Now, children, I have learned from the writing of Enoch that at the end you will act ungodly against the Lord, laying hands on Him in every kind of wickedness, and your brothers will be ashamed because of you, and you will become a mockery to all the nations."
     },
     {
      "v": 116,
@@ -1160,11 +1160,11 @@
     },
     {
      "v": 119,
-     "text": "You will rob the Lord's offerings, steal from His portions, and take the choice parts before sacrificing to the Lord, eating them with prostitutes in contempt."
+     "text": "You will rob the Lord’s offerings, steal from His portions, and take the choice parts before sacrificing to the Lord, eating them with prostitutes in contempt."
     },
     {
      "v": 120,
-     "text": "In greed you will teach the Lord's commands, defile married women, pollute the virgins of Jerusalem, and join with prostitutes and adulteresses. You will take the daughters of the nations as wives, purifying them with an unlawful purification, and your union will become Sodom and Gomorrah in ungodliness."
+     "text": "In greed you will teach the Lord’s commands, defile married women, pollute the virgins of Jerusalem, and join with prostitutes and adulteresses. You will take the daughters of the nations as wives, purifying them with an unlawful purification, and your union will become Sodom and Gomorrah in ungodliness."
     },
     {
      "v": 121,
@@ -1172,15 +1172,15 @@
     },
     {
      "v": 122,
-     "text": "you will mock the holy things and laugh at them in contempt.\""
+     "text": "you will mock the holy things and laugh at them in contempt.”"
     },
     {
      "v": 123,
-     "text": "\"For these reasons the temple the Lord chooses will be left empty in uncleanness, and you will be captives among all the nations,"
+     "text": "“For these reasons the temple the Lord chooses will be left empty in uncleanness, and you will be captives among all the nations,"
     },
     {
      "v": 124,
-     "text": "and you will be an abomination among them, and receive reproach and everlasting shame from God's righteous judgment."
+     "text": "and you will be an abomination among them, and receive reproach and everlasting shame from God’s righteous judgment."
     },
     {
      "v": 125,
@@ -1188,11 +1188,11 @@
     },
     {
      "v": 126,
-     "text": "If it were not for Abraham, Isaac, and Jacob our fathers, not one of my seed would be left on the earth.\""
+     "text": "If it were not for Abraham, Isaac, and Jacob our fathers, not one of my seed would be left on the earth.”"
     },
     {
      "v": 127,
-     "text": "\"Now I have learned in the book of Enoch that for seventy weeks you will go astray, defile the priesthood, and pollute the sacrifices,"
+     "text": "“Now I have learned in the book of Enoch that for seventy weeks you will go astray, defile the priesthood, and pollute the sacrifices,"
     },
     {
      "v": 128,
@@ -1208,11 +1208,11 @@
     },
     {
      "v": 131,
-     "text": "and you will have no clean place, but among the nations you will be a curse and a scattering, until He visits again and, having mercy, receives you in faith and water.\""
+     "text": "and you will have no clean place, but among the nations you will be a curse and a scattering, until He visits again and, having mercy, receives you in faith and water.”"
     },
     {
      "v": 132,
-     "text": "\"Since you have heard about the seventy weeks, now hear also about the priesthood."
+     "text": "“Since you have heard about the seventy weeks, now hear also about the priesthood."
     },
     {
      "v": 133,
@@ -1252,11 +1252,11 @@
     },
     {
      "v": 142,
-     "text": "In the seventh week the priests will come, idolaters, quarrelsome, lovers of money, proud, lawless, shameless, corrupters of boys and abusers of animals.\""
+     "text": "In the seventh week the priests will come, idolaters, quarrelsome, lovers of money, proud, lawless, shameless, corrupters of boys and abusers of animals.”"
     },
     {
      "v": 143,
-     "text": "\"After the Lord's punishment of them has come on the priesthood,"
+     "text": "“After the Lord’s punishment of them has come on the priesthood,"
     },
     {
      "v": 144,
@@ -1264,7 +1264,7 @@
     },
     {
      "v": 145,
-     "text": "His star will rise in heaven like a king's, lighting the light of knowledge as the sun lights the day, and he will be magnified in the whole world until his taking up."
+     "text": "His star will rise in heaven like a king’s, lighting the light of knowledge as the sun lights the day, and he will be magnified in the whole world until his taking up."
     },
     {
      "v": 146,
@@ -1272,7 +1272,7 @@
     },
     {
      "v": 147,
-     "text": "The heavens will rejoice in his days, the earth will be glad, the clouds will be joyful, and the knowledge of the Lord will be poured out on the earth like the water of the seas. The angels of the glory of the Lord's presence will rejoice in him."
+     "text": "The heavens will rejoice in his days, the earth will be glad, the clouds will be joyful, and the knowledge of the Lord will be poured out on the earth like the water of the seas. The angels of the glory of the Lord’s presence will rejoice in him."
     },
     {
      "v": 148,
@@ -1308,19 +1308,19 @@
     },
     {
      "v": 156,
-     "text": "Then Abraham, Isaac, and Jacob will be glad, and I will rejoice, and all the holy ones will put on gladness.\""
+     "text": "Then Abraham, Isaac, and Jacob will be glad, and I will rejoice, and all the holy ones will put on gladness.”"
     },
     {
      "v": 157,
-     "text": "\"Now, my children, you have heard everything. Choose for yourselves either darkness or light, either the law of the Lord or the works of Beliar.\""
+     "text": "“Now, my children, you have heard everything. Choose for yourselves either darkness or light, either the law of the Lord or the works of Beliar.”"
     },
     {
      "v": 158,
-     "text": "We answered our father, \"We will walk before the Lord, according to His law.\""
+     "text": "We answered our father, “We will walk before the Lord, according to His law.”"
     },
     {
      "v": 159,
-     "text": "Our father said, \"The Lord is witness, His angels are witnesses, I am a witness, and you are witnesses to the word of your mouth.\" And we said, \"Witnesses.\""
+     "text": "Our father said, “The Lord is witness, His angels are witnesses, I am a witness, and you are witnesses to the word of your mouth.” And we said, “Witnesses.”"
     },
     {
      "v": 160,
@@ -1335,62 +1335,62 @@
     {
      "m": "a",
      "ref": "3:1",
-     "text": "\"Levi\" (Hebrew *Levi*) is explained in Gen 29:34 by a wordplay on \"joined,\" as the wife hopes her husband will be \"joined\" to her. The name is also the root of \"Levite.\""
+     "text": "“Levi” (Hebrew *Levi*) is explained in Gen 29:34 by a wordplay on “joined,” as the wife hopes her husband will be “joined” to her. The name is also the root of “Levite.”"
     },
     {
      "m": "b",
      "ref": "3:3",
-     "text": "\"Haran\" (Hebrew *Charan*) is the northern Mesopotamian city where Jacob lived with Laban; the name probably means \"road\" or \"caravan stop.\""
+     "text": "“Haran” (Hebrew *Charan*) is the northern Mesopotamian city where Jacob lived with Laban; the name probably means “road” or “caravan stop.”"
     },
     {
      "m": "c",
      "ref": "3:4",
-     "text": "\"Hamor\" (Hebrew *Chamor*) means \"donkey.\" He was the ruler of Shechem in Gen 34."
+     "text": "“Hamor” (Hebrew *Chamor*) means “donkey.” He was the ruler of Shechem in Gen 34."
     },
     {
      "m": "d",
      "ref": "3:4",
-     "text": "\"Dinah\" (Hebrew *Dinah*) means \"judgment\" or \"justice.\" She is Jacob's daughter by Leah."
+     "text": "“Dinah” (Hebrew *Dinah*) means “judgment” or “justice.” She is Jacob’s daughter by Leah."
     },
     {
      "m": "e",
      "ref": "3:5",
-     "text": "\"Abelmaul\" is the Greek form of a place name; it is probably Abel-meholah or Abel-maim (\"meadow of the waters\"), in the north of the land."
+     "text": "“Abelmaul” is the Greek form of a place name; it is probably Abel-meholah or Abel-maim (“meadow of the waters”), in the north of the land."
     },
     {
      "m": "f",
      "ref": "3:46",
-     "text": "\"Jebla\" is the form of the name in the Greek copies; the person is otherwise unknown. Some copies read differently."
+     "text": "“Jebla” is the form of the name in the Greek copies; the person is otherwise unknown. Some copies read differently."
     },
     {
      "m": "g",
      "ref": "3:52",
-     "text": "\"Bethel\" (Hebrew *Beit-El*) means \"house of God.\" It lies in the hill country north of Jerusalem."
+     "text": "“Bethel” (Hebrew *Beit-El*) means “house of God.” It lies in the hill country north of Jerusalem."
     },
     {
      "m": "h",
      "ref": "3:91",
-     "text": "\"Milcah\" (Hebrew *Milkah*) means \"queen.\" The Greek here has a different form of the name."
+     "text": "“Milcah” (Hebrew *Milkah*) means “queen.” The Greek here has a different form of the name."
     },
     {
      "m": "i",
      "ref": "3:92",
-     "text": "\"Gershom\" (Hebrew *Gershom*) is explained in Exod 2:22 as \"a sojourner there.\""
+     "text": "“Gershom” (Hebrew *Gershom*) is explained in Exod 2:22 as “a sojourner there.”"
     },
     {
      "m": "j",
      "ref": "3:94",
-     "text": "\"Kohath\" (Hebrew *Qehat*) is of uncertain meaning; the text here explains it as \"beginning of majesty and assembling.\""
+     "text": "“Kohath” (Hebrew *Qehat*) is of uncertain meaning; the text here explains it as “beginning of majesty and assembling.”"
     },
     {
      "m": "k",
      "ref": "3:97",
-     "text": "\"Merari\" (Hebrew *Merari*) is linked to the word for \"bitter.\""
+     "text": "“Merari” (Hebrew *Merari*) is linked to the word for “bitter.”"
     },
     {
      "m": "l",
      "ref": "3:98",
-     "text": "\"Jochebed\" (Hebrew *Yokheved*) is probably \"Yahweh is glory.\" She is the mother of Moses in Exod 6:20."
+     "text": "“Jochebed” (Hebrew *Yokheved*) is probably “Yahweh is glory.” She is the mother of Moses in Exod 6:20."
     }
    ],
    "heading": "The Testament of Levi, on the Priesthood and Pride",
@@ -1457,7 +1457,7 @@
     },
     {
      "v": 3,
-     "text": "\"I was the fourth son born to my father, and my mother named me Judah, saying, 'I give thanks to the Lord, who has given me a fourth son also.'"
+     "text": "“I was the fourth son born to my father, and my mother named me Judah, saying, ‘I give thanks to the Lord, who has given me a fourth son also.’"
     },
     {
      "v": 4,
@@ -1465,15 +1465,15 @@
     },
     {
      "v": 5,
-     "text": "I blessed my mother and my mother's sister."
+     "text": "I blessed my mother and my mother’s sister."
     },
     {
      "v": 6,
-     "text": "When I grew to manhood, my father Jacob prayed over me, saying, 'You will be king and will prosper in everything.'\""
+     "text": "When I grew to manhood, my father Jacob prayed over me, saying, ‘You will be king and will prosper in everything.’”"
     },
     {
      "v": 7,
-     "text": "\"The Lord gave me favor in all my work, in the field and at home."
+     "text": "“The Lord gave me favor in all my work, in the field and at home."
     },
     {
      "v": 8,
@@ -1497,11 +1497,11 @@
     },
     {
      "v": 13,
-     "text": "I grabbed a wild ox grazing in the country by its horns, spun it around until it was dizzy, threw it down, and killed it.\""
+     "text": "I grabbed a wild ox grazing in the country by its horns, spun it around until it was dizzy, threw it down, and killed it.”"
     },
     {
      "v": 14,
-     "text": "\"When the two kings of the Canaanites came in full armor against the flocks, with a large army, I ran out alone at King Shur,{b} gripped him, struck him on the shins, pulled him down, and killed him."
+     "text": "“When the two kings of the Canaanites came in full armor against the flocks, with a large army, I ran out alone at King Shur,{b} gripped him, struck him on the shins, pulled him down, and killed him."
     },
     {
      "v": 15,
@@ -1537,11 +1537,11 @@
     },
     {
      "v": 23,
-     "text": "He had seen in a vision about me that an angel of power followed me in everything, so that I would not be defeated.\""
+     "text": "He had seen in a vision about me that an angel of power followed me in everything, so that I would not be defeated.”"
     },
     {
      "v": 24,
-     "text": "\"To the south we had a war greater than the one at Shechem. I drew up in battle line with my brothers and chased a thousand men, and killed two hundred of them and four kings."
+     "text": "“To the south we had a war greater than the one at Shechem. I drew up in battle line with my brothers and chased a thousand men, and killed two hundred of them and four kings."
     },
     {
      "v": 25,
@@ -1549,11 +1549,11 @@
     },
     {
      "v": 26,
-     "text": "In this way we freed Hebron and took all the plunder of the kings.\""
+     "text": "In this way we freed Hebron and took all the plunder of the kings.”"
     },
     {
      "v": 27,
-     "text": "\"The next day we went to Areta, a strong city, walled and unapproachable, that threatened us with death."
+     "text": "“The next day we went to Areta, a strong city, walled and unapproachable, that threatened us with death."
     },
     {
      "v": 28,
@@ -1577,11 +1577,11 @@
     },
     {
      "v": 33,
-     "text": "We killed them, burned the city, and plundered everything in it.\""
+     "text": "We killed them, burned the city, and plundered everything in it.”"
     },
     {
      "v": 34,
-     "text": "\"While I was at the waters of Chuzeba, the men from Jobel came against us for war."
+     "text": "“While I was at the waters of Chuzeba, the men from Jobel came against us for war."
     },
     {
      "v": 35,
@@ -1597,11 +1597,11 @@
     },
     {
      "v": 38,
-     "text": "Simeon and I hid and came up behind them, took the high ground, and destroyed the whole city.\""
+     "text": "Simeon and I hid and came up behind them, took the high ground, and destroyed the whole city.”"
     },
     {
      "v": 39,
-     "text": "\"The next day we were told that the cities of the two kings were coming against us with a great crowd."
+     "text": "“The next day we were told that the cities of the two kings were coming against us with a great crowd."
     },
     {
      "v": 40,
@@ -1641,11 +1641,11 @@
     },
     {
      "v": 49,
-     "text": "and the Canaanites were afraid of me and my brothers.\""
+     "text": "and the Canaanites were afraid of me and my brothers.”"
     },
     {
      "v": 50,
-     "text": "\"I also had many cattle, and had Hira the Adullamite{f} as my chief shepherd."
+     "text": "“I also had many cattle, and had Hira the Adullamite{f} as my chief shepherd."
     },
     {
      "v": 51,
@@ -1653,19 +1653,19 @@
     },
     {
      "v": 52,
-     "text": "She bore me Er, Onan, and Shelah.{h} The Lord killed the first two childless; Shelah lived, and you are his children.\""
+     "text": "She bore me Er, Onan, and Shelah.{h} The Lord killed the first two childless; Shelah lived, and you are his children.”"
     },
     {
      "v": 53,
-     "text": "\"For eighteen years we were at peace, our father and we, with his brother Esau,{i} and his sons with us, after we had come from Mesopotamia, from Laban."
+     "text": "“For eighteen years we were at peace, our father and we, with his brother Esau,{i} and his sons with us, after we had come from Mesopotamia, from Laban."
     },
     {
      "v": 54,
-     "text": "When eighteen years were complete, in the fortieth year of my life, Esau, my father's brother, came against us with a large and strong army."
+     "text": "When eighteen years were complete, in the fortieth year of my life, Esau, my father’s brother, came against us with a large and strong army."
     },
     {
      "v": 55,
-     "text": "Jacob's bow struck him down, and he was carried dead to Mount Seir; and as he was being carried up to Iramna, he died."
+     "text": "Jacob’s bow struck him down, and he was carried dead to Mount Seir; and as he was being carried up to Iramna, he died."
     },
     {
      "v": 56,
@@ -1689,7 +1689,7 @@
     },
     {
      "v": 61,
-     "text": "\"After this my son Er took Tamar,{n} the daughter of Aram, from Mesopotamia."
+     "text": "“After this my son Er took Tamar,{n} the daughter of Aram, from Mesopotamia."
     },
     {
      "v": 62,
@@ -1705,15 +1705,15 @@
     },
     {
      "v": 65,
-     "text": "When I threatened him, he did go in to her, but he wasted the seed on the ground, following his mother's order; and he also died in his wickedness."
+     "text": "When I threatened him, he did go in to her, but he wasted the seed on the ground, following his mother’s order; and he also died in his wickedness."
     },
     {
      "v": 66,
-     "text": "I wanted to give Shelah to her too, but my wife Bathshua would not allow it. She acted wickedly toward Tamar, because Tamar was not one of the daughters of Canaan, as she herself was.\""
+     "text": "I wanted to give Shelah to her too, but my wife Bathshua would not allow it. She acted wickedly toward Tamar, because Tamar was not one of the daughters of Canaan, as she herself was.”"
     },
     {
      "v": 67,
-     "text": "\"I knew that the race of Canaan was wicked, but the plans of youth blinded my heart."
+     "text": "“I knew that the race of Canaan was wicked, but the plans of youth blinded my heart."
     },
     {
      "v": 68,
@@ -1729,11 +1729,11 @@
     },
     {
      "v": 71,
-     "text": "and she too died, through the wickedness of her sons.\""
+     "text": "and she too died, through the wickedness of her sons.”"
     },
     {
      "v": 72,
-     "text": "\"After these things, when Tamar had been a widow for two years, she heard that I was going up to shear the sheep, and she dressed herself in bridal clothes and sat opposite the city by the gate."
+     "text": "“After these things, when Tamar had been a widow for two years, she heard that I was going up to shear the sheep, and she dressed herself in bridal clothes and sat opposite the city by the gate."
     },
     {
      "v": 73,
@@ -1745,7 +1745,7 @@
     },
     {
      "v": 75,
-     "text": "I turned aside to her and said, 'Let me come in to you.' She said, 'What will you give me?' I gave her my staff, my belt, and the diadem of my kingship, and when I went in to her she conceived."
+     "text": "I turned aside to her and said, ‘Let me come in to you.’ She said, ‘What will you give me?’ I gave her my staff, my belt, and the diadem of my kingship, and when I went in to her she conceived."
     },
     {
      "v": 76,
@@ -1757,7 +1757,7 @@
     },
     {
      "v": 78,
-     "text": "I said, 'Perhaps she did it deceitfully, having taken the pledge from someone else.'"
+     "text": "I said, ‘Perhaps she did it deceitfully, having taken the pledge from someone else.’"
     },
     {
      "v": 79,
@@ -1777,11 +1777,11 @@
     },
     {
      "v": 83,
-     "text": "I was forty-six years old and lived seventy-three years there.\""
+     "text": "I was forty-six years old and lived seventy-three years there.”"
     },
     {
      "v": 84,
-     "text": "\"Now listen, children, to your father about what I command you, and keep all my words, to do the decrees of the Lord and obey the command of the Lord God."
+     "text": "“Now listen, children, to your father about what I command you, and keep all my words, to do the decrees of the Lord and obey the command of the Lord God."
     },
     {
      "v": 85,
@@ -1789,11 +1789,11 @@
     },
     {
      "v": 86,
-     "text": "For I too boasted that in wars the face of a beautiful woman had never deceived me, and I used to reproach my brother Reuben about Bilhah, my father's wife. Then the spirit of jealousy and sexual immorality fought against me, until I fell for Bathshua the Canaanite and for Tamar, who was promised to my sons."
+     "text": "For I too boasted that in wars the face of a beautiful woman had never deceived me, and I used to reproach my brother Reuben about Bilhah, my father’s wife. Then the spirit of jealousy and sexual immorality fought against me, until I fell for Bathshua the Canaanite and for Tamar, who was promised to my sons."
     },
     {
      "v": 87,
-     "text": "I said to my father-in-law, 'I will consult my father, and then I will take your daughter.' He showed me, in the name of his daughter, an unlimited amount of gold, for he was a king."
+     "text": "I said to my father-in-law, ‘I will consult my father, and then I will take your daughter.’ He showed me, in the name of his daughter, an unlimited amount of gold, for he was a king."
     },
     {
      "v": 88,
@@ -1805,19 +1805,19 @@
     },
     {
      "v": 90,
-     "text": "I fell in love with her, gave in, and broke the Lord's command and the command of my fathers, and I took her as my wife."
+     "text": "I fell in love with her, gave in, and broke the Lord’s command and the command of my fathers, and I took her as my wife."
     },
     {
      "v": 91,
-     "text": "The Lord paid me back according to the plan of my heart, for I had no joy in her children.\""
+     "text": "The Lord paid me back according to the plan of my heart, for I had no joy in her children.”"
     },
     {
      "v": 92,
-     "text": "\"Now, my children, do not get drunk on wine, for wine twists the mind away from the truth, throws in the anger of desire, and leads the eyes into error."
+     "text": "“Now, my children, do not get drunk on wine, for wine twists the mind away from the truth, throws in the anger of desire, and leads the eyes into error."
     },
     {
      "v": 93,
-     "text": "The spirit of sexual immorality has wine as its servant, to give pleasure to the mind; for these two together take away a person's strength."
+     "text": "The spirit of sexual immorality has wine as its servant, to give pleasure to the mind; for these two together take away a person’s strength."
     },
     {
      "v": 94,
@@ -1829,7 +1829,7 @@
     },
     {
      "v": 96,
-     "text": "See, it led me astray too, so that I was not ashamed before the crowd in the city, for in the sight of all I turned aside to Tamar, and I committed a great sin, and uncovered the cover of my sons' shame."
+     "text": "See, it led me astray too, so that I was not ashamed before the crowd in the city, for in the sight of all I turned aside to Tamar, and I committed a great sin, and uncovered the cover of my sons’ shame."
     },
     {
      "v": 97,
@@ -1841,11 +1841,11 @@
     },
     {
      "v": 99,
-     "text": "If someone goes past this limit, wine invades the mind and produces the spirit of deceit. It makes the drunk speak shamefully and break the law without being ashamed, even boasting of his dishonor and thinking it good.\""
+     "text": "If someone goes past this limit, wine invades the mind and produces the spirit of deceit. It makes the drunk speak shamefully and break the law without being ashamed, even boasting of his dishonor and thinking it good.”"
     },
     {
      "v": 100,
-     "text": "\"One who commits sexual immorality and is stripped of his kingship does not get out of it; he is enslaved to immorality, as I was stripped."
+     "text": "“One who commits sexual immorality and is stripped of his kingship does not get out of it; he is enslaved to immorality, as I was stripped."
     },
     {
      "v": 101,
@@ -1861,11 +1861,11 @@
     },
     {
      "v": 104,
-     "text": "and take from the king his glory, from the brave man his strength, and from the poor man the little support of his poverty.\""
+     "text": "and take from the king his glory, from the brave man his strength, and from the poor man the little support of his poverty.”"
     },
     {
      "v": 105,
-     "text": "\"So watch the limit with wine, my children. There are four evil spirits in it: of desire, of burning passion, of recklessness, of shameful gain."
+     "text": "“So watch the limit with wine, my children. There are four evil spirits in it: of desire, of burning passion, of recklessness, of shameful gain."
     },
     {
      "v": 106,
@@ -1877,11 +1877,11 @@
     },
     {
      "v": 108,
-     "text": "Wine even reveals the mysteries of God and people to outsiders, as I too revealed the commands of God and the mysteries of my father Jacob to the Canaanite Bathshua, things God had said not to reveal. Wine is also the cause of war and disorder.\""
+     "text": "Wine even reveals the mysteries of God and people to outsiders, as I too revealed the commands of God and the mysteries of my father Jacob to the Canaanite Bathshua, things God had said not to reveal. Wine is also the cause of war and disorder.”"
     },
     {
      "v": 109,
-     "text": "\"I command you, my children, not to love money or look at the beauty of women, because it was for money and beauty that I was led astray to Bathshua the Canaanite."
+     "text": "“I command you, my children, not to love money or look at the beauty of women, because it was for money and beauty that I was led astray to Bathshua the Canaanite."
     },
     {
      "v": 110,
@@ -1897,15 +1897,15 @@
     },
     {
      "v": 113,
-     "text": "Abraham, my father's father, blessed me to be king in Israel, and Isaac likewise blessed me in the same way."
+     "text": "Abraham, my father’s father, blessed me to be king in Israel, and Isaac likewise blessed me in the same way."
     },
     {
      "v": 114,
-     "text": "I know that the kingdom will be established from me.\""
+     "text": "I know that the kingdom will be established from me.”"
     },
     {
      "v": 115,
-     "text": "\"I have read in the books of Enoch the righteous what evils you will do in the last days."
+     "text": "“I have read in the books of Enoch the righteous what evils you will do in the last days."
     },
     {
      "v": 116,
@@ -1925,11 +1925,11 @@
     },
     {
      "v": 120,
-     "text": "For the person who serves two passions opposed to the commands of God cannot obey God, because they have blinded his soul, and he walks in the day as in the night.\""
+     "text": "For the person who serves two passions opposed to the commands of God cannot obey God, because they have blinded his soul, and he walks in the day as in the night.”"
     },
     {
      "v": 121,
-     "text": "\"My children, love of money leads to idols, for those led astray by money name as gods those who are not gods, and it makes whoever has it fall into madness."
+     "text": "“My children, love of money leads to idols, for those led astray by money name as gods those who are not gods, and it makes whoever has it fall into madness."
     },
     {
      "v": 122,
@@ -1941,11 +1941,11 @@
     },
     {
      "v": 124,
-     "text": "The ruler of deceit had blinded me, and I was ignorant, as a human being, as flesh corrupted by sins. I came to know my own weakness, though I had thought I was unbeatable.\""
+     "text": "The ruler of deceit had blinded me, and I was ignorant, as a human being, as flesh corrupted by sins. I came to know my own weakness, though I had thought I was unbeatable.”"
     },
     {
      "v": 125,
-     "text": "\"Know, then, my children, that two spirits are at work in a person, the spirit of truth and the spirit of deceit."
+     "text": "“Know, then, my children, that two spirits are at work in a person, the spirit of truth and the spirit of deceit."
     },
     {
      "v": 126,
@@ -1957,15 +1957,15 @@
     },
     {
      "v": 128,
-     "text": "There is no time when a person's deeds can escape notice, for they are written on the bones of his chest before the Lord."
+     "text": "There is no time when a person’s deeds can escape notice, for they are written on the bones of his chest before the Lord."
     },
     {
      "v": 129,
-     "text": "The spirit of truth testifies to everything and accuses everyone, and the one who sinned is burned from within by his own heart, and cannot lift his face to the judge.\""
+     "text": "The spirit of truth testifies to everything and accuses everyone, and the one who sinned is burned from within by his own heart, and cannot lift his face to the judge.”"
     },
     {
      "v": 130,
-     "text": "\"Now, children, love Levi so that you may last, and do not exalt yourselves over him, or you will be destroyed."
+     "text": "“Now, children, love Levi so that you may last, and do not exalt yourselves over him, or you will be destroyed."
     },
     {
      "v": 131,
@@ -1997,11 +1997,11 @@
     },
     {
      "v": 138,
-     "text": "There will be false prophets like storms, and they will persecute all the righteous.\""
+     "text": "There will be false prophets like storms, and they will persecute all the righteous.”"
     },
     {
      "v": 139,
-     "text": "\"The Lord will bring divisions against one another on them, and there will be constant wars in Israel,"
+     "text": "“The Lord will bring divisions against one another on them, and there will be constant wars in Israel,"
     },
     {
      "v": 140,
@@ -2009,11 +2009,11 @@
     },
     {
      "v": 141,
-     "text": "He will keep the strength of my kingdom forever. For the Lord swore to me with an oath that my kingdom and my seed's would not fail all the days, forever.\""
+     "text": "He will keep the strength of my kingdom forever. For the Lord swore to me with an oath that my kingdom and my seed’s would not fail all the days, forever.”"
     },
     {
      "v": 142,
-     "text": "\"I am very grieved, my children, over the shamelessness, sorcery, and idolatry you will commit against the kingdom, following mediums, omen-readers, and demons of deceit."
+     "text": "“I am very grieved, my children, over the shamelessness, sorcery, and idolatry you will commit against the kingdom, following mediums, omen-readers, and demons of deceit."
     },
     {
      "v": 143,
@@ -2029,15 +2029,15 @@
     },
     {
      "v": 146,
-     "text": "When you return to the Lord with humble heart, repenting and walking in all the commands of God, the Lord will visit you in mercy and in love, bringing you out of the captivity of your enemies.\""
+     "text": "When you return to the Lord with humble heart, repenting and walking in all the commands of God, the Lord will visit you in mercy and in love, bringing you out of the captivity of your enemies.”"
     },
     {
      "v": 147,
-     "text": "\"After this a star will rise for you from Jacob in peace, and a man will rise from my seed like the sun of righteousness, walking with the sons of men in gentleness and righteousness, and no sin will be found in him."
+     "text": "“After this a star will rise for you from Jacob in peace, and a man will rise from my seed like the sun of righteousness, walking with the sons of men in gentleness and righteousness, and no sin will be found in him."
     },
     {
      "v": 148,
-     "text": "The heavens will be opened over him to pour out the blessing of the Holy Father's spirit, and he will pour out the spirit of grace on you,"
+     "text": "The heavens will be opened over him to pour out the blessing of the Holy Father’s spirit, and he will pour out the spirit of grace on you,"
     },
     {
      "v": 149,
@@ -2053,11 +2053,11 @@
     },
     {
      "v": 152,
-     "text": "From it will rise a rod of righteousness for the nations, to judge and save all who call on the Lord.\""
+     "text": "From it will rise a rod of righteousness for the nations, to judge and save all who call on the Lord.”"
     },
     {
      "v": 153,
-     "text": "\"After this Abraham, Isaac, and Jacob will rise to life, and I and my brothers will be chiefs, each with our scepter in Israel: Levi first, I second, Joseph third, Benjamin fourth, Simeon fifth, Issachar sixth, and so on in order, all of them."
+     "text": "“After this Abraham, Isaac, and Jacob will rise to life, and I and my brothers will be chiefs, each with our scepter in Israel: Levi first, I second, Joseph third, Benjamin fourth, Simeon fifth, Issachar sixth, and so on in order, all of them."
     },
     {
      "v": 154,
@@ -2069,23 +2069,23 @@
     },
     {
      "v": 156,
-     "text": "Those who died in sorrow will rise in joy; those who were poor for the Lord's sake will be made rich; those in need will be filled; those in weakness will be strong; and those who died for the Lord will be awakened to life."
+     "text": "Those who died in sorrow will rise in joy; those who were poor for the Lord’s sake will be made rich; those in need will be filled; those in weakness will be strong; and those who died for the Lord will be awakened to life."
     },
     {
      "v": 157,
-     "text": "The deer of Jacob will run in gladness, and the eagles of Israel will fly in joy. The ungodly will mourn, the sinners will weep, and all peoples will glorify the Lord forever.\""
+     "text": "The deer of Jacob will run in gladness, and the eagles of Israel will fly in joy. The ungodly will mourn, the sinners will weep, and all peoples will glorify the Lord forever.”"
     },
     {
      "v": 158,
-     "text": "\"So keep every law of the Lord, my children, for there is hope for all who make his way straight.\""
+     "text": "“So keep every law of the Lord, my children, for there is hope for all who make his way straight.”"
     },
     {
      "v": 159,
-     "text": "He said to them, \"I am a hundred and nineteen years old, and today I am dying before your eyes."
+     "text": "He said to them, “I am a hundred and nineteen years old, and today I am dying before your eyes."
     },
     {
      "v": 160,
-     "text": "Let no one bury me in costly clothing or cut open my belly, because those who rule will do these things. And take me up to Hebron with you.\""
+     "text": "Let no one bury me in costly clothing or cut open my belly, because those who rule will do these things. And take me up to Hebron with you.”"
     },
     {
      "v": 161,
@@ -2096,72 +2096,72 @@
     {
      "m": "a",
      "ref": "4:1",
-     "text": "\"Judah\" (Hebrew *Yehudah*) is explained in Gen 29:35 as \"I will praise Yahweh.\""
+     "text": "“Judah” (Hebrew *Yehudah*) is explained in Gen 29:35 as “I will praise Yahweh.”"
     },
     {
      "m": "b",
      "ref": "4:14",
-     "text": "\"Shur\" and the other royal names in these chapters (Taphue, Achor, Beelesa) are unknown outside this book. The spellings follow the Greek."
+     "text": "“Shur” and the other royal names in these chapters (Taphue, Achor, Beelesa) are unknown outside this book. The spellings follow the Greek."
     },
     {
      "m": "c",
      "ref": "4:16",
-     "text": "The Greek says \"sixty litrai,\" a litra being the Roman pound of about 12 ounces (327 g), so about 43 pounds (19.6 kg)."
+     "text": "The Greek says “sixty litrai,” a litra being the Roman pound of about 12 ounces (327 g), so about 43 pounds (19.6 kg)."
     },
     {
      "m": "d",
      "ref": "4:20",
-     "text": "The Greek says \"twelve cubits\"; at about 18 inches to the cubit this is about 18 feet (5.5 m)."
+     "text": "The Greek says “twelve cubits”; at about 18 inches to the cubit this is about 18 feet (5.5 m)."
     },
     {
      "m": "e",
      "ref": "4:42",
-     "text": "\"Thamna\" is the Greek spelling of Timnah, the town in the hill country of Judah, which means \"allotted portion.\""
+     "text": "“Thamna” is the Greek spelling of Timnah, the town in the hill country of Judah, which means “allotted portion.”"
     },
     {
      "m": "f",
      "ref": "4:50",
-     "text": "\"Hira\" (Hebrew *Chirah*) is the Adullamite friend of Judah in Gen 38:1. \"Adullam\" was a town in the lowland of Judah."
+     "text": "“Hira” (Hebrew *Chirah*) is the Adullamite friend of Judah in Gen 38:1. “Adullam” was a town in the lowland of Judah."
     },
     {
      "m": "g",
      "ref": "4:51",
-     "text": "\"Bathshua\" (Hebrew *Bat-shua*) means \"daughter of Shua\" or \"daughter of nobility.\" In Gen 38:2 she is the Canaanite mother of Judah's sons; the Greek spells the name \"Bessous.\""
+     "text": "“Bathshua” (Hebrew *Bat-shua*) means “daughter of Shua” or “daughter of nobility.” In Gen 38:2 she is the Canaanite mother of Judah’s sons; the Greek spells the name “Bessous.”"
     },
     {
      "m": "h",
      "ref": "4:52",
-     "text": "\"Er\" (Hebrew *Er*) may mean \"watchful\"; \"Onan\" (Hebrew *Onan*) may mean \"vigor\"; \"Shelah\" (Hebrew *Shelah*) probably means \"request\" or \"petition.\" The Greek spells the last one \"Shelom.\""
+     "text": "“Er” (Hebrew *Er*) may mean “watchful”; “Onan” (Hebrew *Onan*) may mean “vigor”; “Shelah” (Hebrew *Shelah*) probably means “request” or “petition.” The Greek spells the last one “Shelom.”"
     },
     {
      "m": "i",
      "ref": "4:53",
-     "text": "\"Esau\" (Hebrew *Esav*) is Jacob's twin brother, \"hairy\" or \"made.\""
+     "text": "“Esau” (Hebrew *Esav*) is Jacob’s twin brother, “hairy” or “made.”"
     },
     {
      "m": "j",
      "ref": "4:57",
-     "text": "The Greek says \"up to three talents.\" A talent was about 75 pounds (34 kg), so three talents is about 225 pounds (about 100 kg)."
+     "text": "The Greek says “up to three talents.” A talent was about 75 pounds (34 kg), so three talents is about 225 pounds (about 100 kg)."
     },
     {
      "m": "k",
      "ref": "4:60",
-     "text": "\"Two hundred cors.\" A cor was about 6 bushels (about 220 liters), so about 1,200 bushels (44,000 liters). The size of the cor varied."
+     "text": "“Two hundred cors.” A cor was about 6 bushels (about 220 liters), so about 1,200 bushels (44,000 liters). The size of the cor varied."
     },
     {
      "m": "l",
      "ref": "4:60",
-     "text": "\"Five hundred baths.\" A bath was about 6 gallons (about 22 liters), so about 3,000 gallons (11,000 liters)."
+     "text": "“Five hundred baths.” A bath was about 6 gallons (about 22 liters), so about 3,000 gallons (11,000 liters)."
     },
     {
      "m": "m",
      "ref": "4:60",
-     "text": "\"One thousand five hundred measures\"; the Greek says only \"measures\" (*metra*), and the size is uncertain. If the measure was the metretes, about 10 gallons (39 liters), this would be about 15,000 gallons (59,000 liters).\""
+     "text": "“One thousand five hundred measures”; the Greek says only “measures” (*metra*), and the size is uncertain. If the measure was the metretes, about 10 gallons (39 liters), this would be about 15,000 gallons (59,000 liters).”"
     },
     {
      "m": "n",
      "ref": "4:61",
-     "text": "\"Tamar\" (Hebrew *Tamar*) means \"date palm.\""
+     "text": "“Tamar” (Hebrew *Tamar*) means “date palm.”"
     }
    ],
    "heading": "The Testament of Judah, on Courage, Greed, and Sexual Immorality",
@@ -2208,7 +2208,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "A copy of the words of Issachar.{a} He called his sons and said to them, \"Listen, children, to Issachar your father; give ear to the words of one beloved by the Lord."
+     "text": "A copy of the words of Issachar.{a} He called his sons and said to them, “Listen, children, to Issachar your father; give ear to the words of one beloved by the Lord."
     },
     {
      "v": 2,
@@ -2228,27 +2228,27 @@
     },
     {
      "v": 6,
-     "text": "Rachel said, 'I will not give them to you, for they will take the place of children for me.'"
+     "text": "Rachel said, ‘I will not give them to you, for they will take the place of children for me.’"
     },
     {
      "v": 7,
-     "text": "There were two apples. Leah said, 'Let it be enough for you that you took the husband of my maidenhood. Will you take these too?'"
+     "text": "There were two apples. Leah said, ‘Let it be enough for you that you took the husband of my maidenhood. Will you take these too?’"
     },
     {
      "v": 8,
-     "text": "Rachel said, 'See, let Jacob be yours tonight in exchange for your son's mandrakes.'"
+     "text": "Rachel said, ‘See, let Jacob be yours tonight in exchange for your son’s mandrakes.’"
     },
     {
      "v": 9,
-     "text": "Leah said to her, 'Do not boast or glorify yourself. Jacob is mine, and I am the wife of his youth.'"
+     "text": "Leah said to her, ‘Do not boast or glorify yourself. Jacob is mine, and I am the wife of his youth.’"
     },
     {
      "v": 10,
-     "text": "Rachel said, 'What of it? He was betrothed to me first, and for my sake he served our father fourteen years."
+     "text": "Rachel said, ‘What of it? He was betrothed to me first, and for my sake he served our father fourteen years."
     },
     {
      "v": 11,
-     "text": "What am I to do to you, since deceit and cunning have multiplied among people, and deceit advances on the earth? Otherwise you would not be looking on Jacob's face;"
+     "text": "What am I to do to you, since deceit and cunning have multiplied among people, and deceit advances on the earth? Otherwise you would not be looking on Jacob’s face;"
     },
     {
      "v": 12,
@@ -2256,19 +2256,19 @@
     },
     {
      "v": 13,
-     "text": "My father deceived me, and moved me aside that night and did not let me see; for if I had been there, this would not have happened.'"
+     "text": "My father deceived me, and moved me aside that night and did not let me see; for if I had been there, this would not have happened.’"
     },
     {
      "v": 14,
-     "text": "Then Rachel said, 'Take one mandrake, and in exchange for the one I will hire him out to you for one night.'"
+     "text": "Then Rachel said, ‘Take one mandrake, and in exchange for the one I will hire him out to you for one night.’"
     },
     {
      "v": 15,
-     "text": "So Jacob knew Leah, and she conceived and bore me; and because of the wages I was called Issachar.\""
+     "text": "So Jacob knew Leah, and she conceived and bore me; and because of the wages I was called Issachar.”"
     },
     {
      "v": 16,
-     "text": "\"Then an angel of the Lord appeared to Jacob and said that Rachel would bear two children, because she had spat on a husband's company and had chosen self-control."
+     "text": "“Then an angel of the Lord appeared to Jacob and said that Rachel would bear two children, because she had spat on a husband’s company and had chosen self-control."
     },
     {
      "v": 17,
@@ -2284,11 +2284,11 @@
     },
     {
      "v": 20,
-     "text": "for although she longed for them, she did not eat them, but dedicated them in the house of the Lord, bringing them to the priest of the Most High who was there at that time.\""
+     "text": "for although she longed for them, she did not eat them, but dedicated them in the house of the Lord, bringing them to the priest of the Most High who was there at that time.”"
     },
     {
      "v": 21,
-     "text": "\"When I grew to manhood, my children, I walked in uprightness of heart, and became a farmer for my fathers and my brothers, and brought in produce from the fields in its season."
+     "text": "“When I grew to manhood, my children, I walked in uprightness of heart, and became a farmer for my fathers and my brothers, and brought in produce from the fields in its season."
     },
     {
      "v": 22,
@@ -2300,11 +2300,11 @@
     },
     {
      "v": 24,
-     "text": "I never spoke against anyone, nor criticized any person's way of life, but walked with simple eyes."
+     "text": "I never spoke against anyone, nor criticized any person’s way of life, but walked with simple eyes."
     },
     {
      "v": 25,
-     "text": "For this reason I took a wife only at thirty, because toil consumed my strength; I did not think about a woman's pleasure, but from the labor sleep overcame me,"
+     "text": "For this reason I took a wife only at thirty, because toil consumed my strength; I did not think about a woman’s pleasure, but from the labor sleep overcame me,"
     },
     {
      "v": 26,
@@ -2316,11 +2316,11 @@
     },
     {
      "v": 28,
-     "text": "for to every poor person and every afflicted person I gave of the good things of the land, in simplicity of heart.\""
+     "text": "for to every poor person and every afflicted person I gave of the good things of the land, in simplicity of heart.”"
     },
     {
      "v": 29,
-     "text": "\"Now listen to me, children, and walk in simplicity of heart, for I have seen in it everything that pleases the Lord."
+     "text": "“Now listen to me, children, and walk in simplicity of heart, for I have seen in it everything that pleases the Lord."
     },
     {
      "v": 30,
@@ -2332,7 +2332,7 @@
     },
     {
      "v": 32,
-     "text": "The spirits of error have no power against him. He does not even look at a woman's beauty, so that he will not pollute his mind with perversion."
+     "text": "The spirits of error have no power against him. He does not even look at a woman’s beauty, so that he will not pollute his mind with perversion."
     },
     {
      "v": 33,
@@ -2340,11 +2340,11 @@
     },
     {
      "v": 34,
-     "text": "He walks in uprightness of life and sees everything in simplicity, not letting his eyes take in wickedness from the world's error, so that he will not see any of the Lord's commands in a twisted way.\""
+     "text": "He walks in uprightness of life and sees everything in simplicity, not letting his eyes take in wickedness from the world’s error, so that he will not see any of the Lord’s commands in a twisted way.”"
     },
     {
      "v": 35,
-     "text": "\"So keep the law of God, my children, and acquire simplicity, and walk in innocence, not prying into the Lord's commands or into the neighbor's affairs,"
+     "text": "“So keep the law of God, my children, and acquire simplicity, and walk in innocence, not prying into the Lord’s commands or into the neighbor’s affairs,"
     },
     {
      "v": 36,
@@ -2372,11 +2372,11 @@
     },
     {
      "v": 42,
-     "text": "So obey them, and walk in the simplicity of your father; for to Gad it was given to destroy the raiding bands that attack Israel.\""
+     "text": "So obey them, and walk in the simplicity of your father; for to Gad it was given to destroy the raiding bands that attack Israel.”"
     },
     {
      "v": 43,
-     "text": "\"I know, my children, that in the last times your sons will abandon simplicity and cling to greed; leaving innocence, they will approach wickedness; abandoning the commands of the Lord, they will cling to Beliar;{e}"
+     "text": "“I know, my children, that in the last times your sons will abandon simplicity and cling to greed; leaving innocence, they will approach wickedness; abandoning the commands of the Lord, they will cling to Beliar;{e}"
     },
     {
      "v": 44,
@@ -2388,11 +2388,11 @@
     },
     {
      "v": 46,
-     "text": "for he is merciful and will rescue them, to bring them back to their land.\""
+     "text": "for he is merciful and will rescue them, to bring them back to their land.”"
     },
     {
      "v": 47,
-     "text": "\"I am a hundred and twenty-two years old, and I have not known any sin that deserves death."
+     "text": "“I am a hundred and twenty-two years old, and I have not known any sin that deserves death."
     },
     {
      "v": 48,
@@ -2416,7 +2416,7 @@
     },
     {
      "v": 53,
-     "text": "Do these things too, my children, and every spirit of Beliar will flee from you, and no action of wicked people will rule over you. You will bring every wild beast under your power, having with you the God of heaven, who walks with people in simplicity of heart.\""
+     "text": "Do these things too, my children, and every spirit of Beliar will flee from you, and no action of wicked people will rule over you. You will bring every wild beast under your power, having with you the God of heaven, who walks with people in simplicity of heart.”"
     },
     {
      "v": 54,
@@ -2431,27 +2431,27 @@
     {
      "m": "a",
      "ref": "5:1",
-     "text": "\"Issachar\" (Hebrew *Yissakhar*) is explained in Gen 30:18 as \"hire\" or \"reward,\" from the bargain over the mandrakes told in the next verses."
+     "text": "“Issachar” (Hebrew *Yissakhar*) is explained in Gen 30:18 as “hire” or “reward,” from the bargain over the mandrakes told in the next verses."
     },
     {
      "m": "b",
      "ref": "5:3",
-     "text": "\"Rachel\" (Hebrew *Rakhel*) means \"ewe.\""
+     "text": "“Rachel” (Hebrew *Rakhel*) means “ewe.”"
     },
     {
      "m": "c",
      "ref": "5:4",
-     "text": "\"Reuben\" (Hebrew *Re'uven*) is explained in Gen 29:32 as \"See, a son!\""
+     "text": "“Reuben” (Hebrew *Re’uven*) is explained in Gen 29:32 as “See, a son!”"
     },
     {
      "m": "d",
      "ref": "5:4",
-     "text": "\"Leah\" (Hebrew *Le'ah*) may mean \"wild cow\" or \"weary.\""
+     "text": "“Leah” (Hebrew *Le’ah*) may mean “wild cow” or “weary.”"
     },
     {
      "m": "e",
      "ref": "5:43",
-     "text": "\"Beliar\" is a name for the chief evil spirit, from Hebrew *Beliyya'al*, \"worthlessness.\""
+     "text": "“Beliar” is a name for the chief evil spirit, from Hebrew *Beliyya’al*, “worthlessness.”"
     }
    ],
    "heading": "The Testament of Issachar, on Simplicity",
@@ -2486,7 +2486,7 @@
     },
     {
      "v": 2,
-     "text": "He said to them, \"Listen to me, sons of Zebulun; pay attention to the words of your father."
+     "text": "He said to them, “Listen to me, sons of Zebulun; pay attention to the words of your father."
     },
     {
      "v": 3,
@@ -2506,19 +2506,19 @@
     },
     {
      "v": 7,
-     "text": "When they wanted to kill Joseph, I pleaded with them at length, in tears, not to commit this lawless act.\""
+     "text": "When they wanted to kill Joseph, I pleaded with them at length, in tears, not to commit this lawless act.”"
     },
     {
      "v": 8,
-     "text": "\"Simeon and Gad came at Joseph to kill him. Falling on his face, Joseph said to them,"
+     "text": "“Simeon and Gad came at Joseph to kill him. Falling on his face, Joseph said to them,"
     },
     {
      "v": 9,
-     "text": "'Have pity on me, my brothers; have mercy on the heart of Jacob our father. Do not lay your hands on me to shed innocent blood, for I have not sinned against you."
+     "text": "‘Have pity on me, my brothers; have mercy on the heart of Jacob our father. Do not lay your hands on me to shed innocent blood, for I have not sinned against you."
     },
     {
      "v": 10,
-     "text": "And if I have sinned, punish me with discipline, but do not lay your hand on me, for the sake of Jacob our father.'"
+     "text": "And if I have sinned, punish me with discipline, but do not lay your hand on me, for the sake of Jacob our father.’"
     },
     {
      "v": 11,
@@ -2534,7 +2534,7 @@
     },
     {
      "v": 14,
-     "text": "Reuben stood up and said, 'Brothers, let us not kill him, but throw him into one of these dry pits, which our fathers dug and found no water.'"
+     "text": "Reuben stood up and said, ‘Brothers, let us not kill him, but throw him into one of these dry pits, which our fathers dug and found no water.’"
     },
     {
      "v": 15,
@@ -2542,11 +2542,11 @@
     },
     {
      "v": 16,
-     "text": "The Lord did this until they sold him to the Ishmaelites.\""
+     "text": "The Lord did this until they sold him to the Ishmaelites.”"
     },
     {
      "v": 17,
-     "text": "\"I had no share in the price of Joseph, children,"
+     "text": "“I had no share in the price of Joseph, children,"
     },
     {
      "v": 18,
@@ -2554,7 +2554,7 @@
     },
     {
      "v": 19,
-     "text": "'We will not eat it, since it is the price of our brother's blood, but we will trample it, because he said he would be king over us. Let us see what becomes of his dreams.'"
+     "text": "‘We will not eat it, since it is the price of our brother’s blood, but we will trample it, because he said he would be king over us. Let us see what becomes of his dreams.’"
     },
     {
      "v": 20,
@@ -2562,11 +2562,11 @@
     },
     {
      "v": 21,
-     "text": "Joseph's brothers did not want their brother to live, and the Lord took the sandal off them in Joseph's case."
+     "text": "Joseph’s brothers did not want their brother to live, and the Lord took the sandal off them in Joseph’s case."
     },
     {
      "v": 22,
-     "text": "For when they came to Egypt, Joseph's servants took their sandals off in front of the gate, and so they bowed down to Joseph in the manner of Pharaoh's court."
+     "text": "For when they came to Egypt, Joseph’s servants took their sandals off in front of the gate, and so they bowed down to Joseph in the manner of Pharaoh’s court."
     },
     {
      "v": 23,
@@ -2574,11 +2574,11 @@
     },
     {
      "v": 24,
-     "text": "After this the Egyptians heard about all the evil we had done to Joseph.\""
+     "text": "After this the Egyptians heard about all the evil we had done to Joseph.”"
     },
     {
      "v": 25,
-     "text": "\"After this, they sat down to eat."
+     "text": "“After this, they sat down to eat."
     },
     {
      "v": 26,
@@ -2594,7 +2594,7 @@
     },
     {
      "v": 29,
-     "text": "When Reuben heard that Joseph had been sold in his absence, he tore his clothes and mourned, saying, 'How can I look on the face of Jacob my father?'"
+     "text": "When Reuben heard that Joseph had been sold in his absence, he tore his clothes and mourned, saying, ‘How can I look on the face of Jacob my father?’"
     },
     {
      "v": 30,
@@ -2606,15 +2606,15 @@
     },
     {
      "v": 32,
-     "text": "'Do not cry and do not mourn, for I have found what we can tell our father Jacob."
+     "text": "‘Do not cry and do not mourn, for I have found what we can tell our father Jacob."
     },
     {
      "v": 33,
-     "text": "Let us slaughter a kid of the goats and dip Joseph's tunic in its blood, and say, \"See whether this is your son's tunic.\"'"
+     "text": "Let us slaughter a kid of the goats and dip Joseph’s tunic in its blood, and say, “See whether this is your son’s tunic.”’"
     },
     {
      "v": 34,
-     "text": "They had stripped off the tunic of our father that Joseph was wearing when he was about to be sold, and dressed him in a slave's old cloak."
+     "text": "They had stripped off the tunic of our father that Joseph was wearing when he was about to be sold, and dressed him in a slave’s old cloak."
     },
     {
      "v": 35,
@@ -2626,15 +2626,15 @@
     },
     {
      "v": 37,
-     "text": "So he gave it over, and they did as Dan had said.\""
+     "text": "So he gave it over, and they did as Dan had said.”"
     },
     {
      "v": 38,
-     "text": "\"Now, my children, I will tell you to keep the commands of the Lord, to show mercy toward your neighbor, and to have compassion toward everyone, not only toward people, but also toward animals."
+     "text": "“Now, my children, I will tell you to keep the commands of the Lord, to show mercy toward your neighbor, and to have compassion toward everyone, not only toward people, but also toward animals."
     },
     {
      "v": 39,
-     "text": "For because of these things the Lord blessed me, and when all my brothers were sick, I passed through without illness; for the Lord knows each one's purpose."
+     "text": "For because of these things the Lord blessed me, and when all my brothers were sick, I passed through without illness; for the Lord knows each one’s purpose."
     },
     {
      "v": 40,
@@ -2646,11 +2646,11 @@
     },
     {
      "v": 42,
-     "text": "When I was in Canaan, at the seacoast, I used to catch fish for Jacob my father; and while many were drowning in the sea, I remained unharmed.\""
+     "text": "When I was in Canaan, at the seacoast, I used to catch fish for Jacob my father; and while many were drowning in the sea, I remained unharmed.”"
     },
     {
      "v": 43,
-     "text": "\"I was the first to make a boat to sail on the sea, because the Lord gave me understanding and wisdom for it."
+     "text": "“I was the first to make a boat to sail on the sea, because the Lord gave me understanding and wisdom for it."
     },
     {
      "v": 44,
@@ -2666,7 +2666,7 @@
     },
     {
      "v": 47,
-     "text": "If someone was a stranger, or sick, or old, I would boil the fish, prepare them well, and offer them to all according to each one's need, sharing their pain along with them."
+     "text": "If someone was a stranger, or sick, or old, I would boil the fish, prepare them well, and offer them to all according to each one’s need, sharing their pain along with them."
     },
     {
      "v": 48,
@@ -2678,11 +2678,11 @@
     },
     {
      "v": 50,
-     "text": "In summer I fished; in winter I shepherded with my brothers.\""
+     "text": "In summer I fished; in winter I shepherded with my brothers.”"
     },
     {
      "v": 51,
-     "text": "\"Now I will tell you what I did. I saw a man in distress, naked in the winter cold. In pity for him, I secretly took a cloak from my own house and gave it to the man in distress."
+     "text": "“Now I will tell you what I did. I saw a man in distress, naked in the winter cold. In pity for him, I secretly took a cloak from my own house and gave it to the man in distress."
     },
     {
      "v": 52,
@@ -2694,11 +2694,11 @@
     },
     {
      "v": 54,
-     "text": "I know that my hand did not find anything to give to someone in need at the moment, and still I walked with him nearly a mile{c} and wept; my heart turned inside me in sympathy for him.\""
+     "text": "I know that my hand did not find anything to give to someone in need at the moment, and still I walked with him nearly a mile{c} and wept; my heart turned inside me in sympathy for him.”"
     },
     {
      "v": 55,
-     "text": "\"So you too, my children, have compassion in mercy for every person, so that the Lord will also have compassion and mercy on you;"
+     "text": "“So you too, my children, have compassion in mercy for every person, so that the Lord will also have compassion and mercy on you;"
     },
     {
      "v": 56,
@@ -2714,15 +2714,15 @@
     },
     {
      "v": 59,
-     "text": "Looking to him, you too, my children, be free of grudges, and love one another, and do not keep count of each other's wrongs;"
+     "text": "Looking to him, you too, my children, be free of grudges, and love one another, and do not keep count of each other’s wrongs;"
     },
     {
      "v": 60,
-     "text": "for this breaks up unity, scatters every family, and troubles the soul. A person who holds a grudge has no heart of mercy.\""
+     "text": "for this breaks up unity, scatters every family, and troubles the soul. A person who holds a grudge has no heart of mercy.”"
     },
     {
      "v": 61,
-     "text": "\"Look at the water: it goes in one direction, sweeping along stones, sticks, and sand."
+     "text": "“Look at the water: it goes in one direction, sweeping along stones, sticks, and sand."
     },
     {
      "v": 62,
@@ -2754,11 +2754,11 @@
     },
     {
      "v": 69,
-     "text": "And again, by the wickedness of your words, you will provoke him to anger, and you will be rejected until the time of the end.\""
+     "text": "And again, by the wickedness of your words, you will provoke him to anger, and you will be rejected until the time of the end.”"
     },
     {
      "v": 70,
-     "text": "\"Now, my children, do not grieve that I am dying, or be cast down because I am leaving you."
+     "text": "“Now, my children, do not grieve that I am dying, or be cast down because I am leaving you."
     },
     {
      "v": 71,
@@ -2774,7 +2774,7 @@
     },
     {
      "v": 74,
-     "text": "You, fear the Lord your God with all your strength all the days of your life.\""
+     "text": "You, fear the Lord your God with all your strength all the days of your life.”"
     },
     {
      "v": 75,
@@ -2789,17 +2789,17 @@
     {
      "m": "a",
      "ref": "6:1",
-     "text": "\"Zebulun\" (Hebrew *Zevulun*) is explained in Gen 30:20 as \"honor\" or \"dwelling.\""
+     "text": "“Zebulun” (Hebrew *Zevulun*) is explained in Gen 30:20 as “honor” or “dwelling.”"
     },
     {
      "m": "b",
      "ref": "6:20",
-     "text": "\"Enoch\" (Hebrew *Chanokh*) means \"dedicated\" or \"initiated.\" The \"law of Enoch\" is not found in the Hebrew Bible; the rule resembles Deut 25:5–10, and the reference may be to the books of Enoch."
+     "text": "“Enoch” (Hebrew *Chanokh*) means “dedicated” or “initiated.” The “law of Enoch” is not found in the Hebrew Bible; the rule resembles Deut 25:5–10, and the reference may be to the books of Enoch."
     },
     {
      "m": "c",
      "ref": "6:54",
-     "text": "\"Seven stadia.\" A stadion was about 607 feet (185 m), so seven stadia is about 0.8 mile (1.3 km)."
+     "text": "“Seven stadia.” A stadion was about 607 feet (185 m), so seven stadia is about 0.8 mile (1.3 km)."
     }
    ],
    "heading": "The Testament of Zebulun, on Compassion and Mercy",
@@ -2834,7 +2834,7 @@
     },
     {
      "v": 2,
-     "text": "He called his clan together and said, \"Listen, sons of Dan, to my words; pay attention to the speech of your father's mouth."
+     "text": "He called his clan together and said, “Listen, sons of Dan, to my words; pay attention to the speech of your father’s mouth."
     },
     {
      "v": 3,
@@ -2850,11 +2850,11 @@
     },
     {
      "v": 6,
-     "text": "For the spirit of jealousy and arrogance said to me, 'You too are his son.'"
+     "text": "For the spirit of jealousy and arrogance said to me, ‘You too are his son.’"
     },
     {
      "v": 7,
-     "text": "One of the spirits of Beliar worked with me, saying, 'Take this sword, and with it kill Joseph; when he is dead, your father will love you.'"
+     "text": "One of the spirits of Beliar worked with me, saying, ‘Take this sword, and with it kill Joseph; when he is dead, your father will love you.’"
     },
     {
      "v": 8,
@@ -2862,11 +2862,11 @@
     },
     {
      "v": 9,
-     "text": "But the God of Jacob our father did not hand him over into my hands so that I could find him alone, nor did he let me carry out this lawless deed, which would have broken the two scepters in Israel.\""
+     "text": "But the God of Jacob our father did not hand him over into my hands so that I could find him alone, nor did he let me carry out this lawless deed, which would have broken the two scepters in Israel.”"
     },
     {
      "v": 10,
-     "text": "\"Now, my children, I am dying, and I tell you in truth that unless you guard yourselves against the spirit of lying and of anger, and love truth and patience, you will perish."
+     "text": "“Now, my children, I am dying, and I tell you in truth that unless you guard yourselves against the spirit of lying and of anger, and love truth and patience, you will perish."
     },
     {
      "v": 11,
@@ -2882,15 +2882,15 @@
     },
     {
      "v": 14,
-     "text": "How does it wrap his eyes? With hatred in the heart, and it gives him a heart of his own against his brother, out of envy.\""
+     "text": "How does it wrap his eyes? With hatred in the heart, and it gives him a heart of his own against his brother, out of envy.”"
     },
     {
      "v": 15,
-     "text": "\"Anger is evil, my children, for it becomes a soul to the soul itself."
+     "text": "“Anger is evil, my children, for it becomes a soul to the soul itself."
     },
     {
      "v": 16,
-     "text": "It takes the angry person's body as its own and rules his soul, giving his body power of its own to do every lawless act;"
+     "text": "It takes the angry person’s body as its own and rules his soul, giving his body power of its own to do every lawless act;"
     },
     {
      "v": 17,
@@ -2906,11 +2906,11 @@
     },
     {
      "v": 20,
-     "text": "This spirit always walks with lying at the right hand of Satan, so that his deeds are done in cruelty and falsehood.\""
+     "text": "This spirit always walks with lying at the right hand of Satan, so that his deeds are done in cruelty and falsehood.”"
     },
     {
      "v": 21,
-     "text": "\"So understand the power of anger, that it is empty."
+     "text": "“So understand the power of anger, that it is empty."
     },
     {
      "v": 22,
@@ -2934,11 +2934,11 @@
     },
     {
      "v": 27,
-     "text": "Anger and lying are a two-faced evil, and they join together to throw the mind into confusion. When the soul is continually troubled, the Lord withdraws from it, and Beliar rules it.\""
+     "text": "Anger and lying are a two-faced evil, and they join together to throw the mind into confusion. When the soul is continually troubled, the Lord withdraws from it, and Beliar rules it.”"
     },
     {
      "v": 28,
-     "text": "\"So keep the Lord's commands, my children, and guard his law; keep away from anger and hate lying, so that the Lord may live in you and Beliar may flee from you."
+     "text": "“So keep the Lord’s commands, my children, and guard his law; keep away from anger and hate lying, so that the Lord may live in you and Beliar may flee from you."
     },
     {
      "v": 29,
@@ -2986,11 +2986,11 @@
     },
     {
      "v": 40,
-     "text": "Jerusalem will no longer endure desolation, nor will Israel be taken captive, because the Lord will be in the middle of it, living with people, and the Holy One of Israel will reign over them in humility and poverty; and whoever believes in him will reign in truth in the heavens.\""
+     "text": "Jerusalem will no longer endure desolation, nor will Israel be taken captive, because the Lord will be in the middle of it, living with people, and the Holy One of Israel will reign over them in humility and poverty; and whoever believes in him will reign in truth in the heavens.”"
     },
     {
      "v": 41,
-     "text": "\"Now fear the Lord, my children, and watch yourselves against Satan and his spirits."
+     "text": "“Now fear the Lord, my children, and watch yourselves against Satan and his spirits."
     },
     {
      "v": 42,
@@ -3010,7 +3010,7 @@
     },
     {
      "v": 46,
-     "text": "In the time of Israel's lawlessness the Lord will withdraw from them, and will go after those who do his will, because among the angels there will be none like him."
+     "text": "In the time of Israel’s lawlessness the Lord will withdraw from them, and will go after those who do his will, because among the angels there will be none like him."
     },
     {
      "v": 47,
@@ -3030,7 +3030,7 @@
     },
     {
      "v": 51,
-     "text": "And bury me near my fathers.\""
+     "text": "And bury me near my fathers.”"
     },
     {
      "v": 52,
@@ -3049,7 +3049,7 @@
     {
      "m": "a",
      "ref": "7:1",
-     "text": "\"Dan\" (Hebrew *Dan*) means \"he judged,\" as in Gen 30:6, \"God has judged me.\""
+     "text": "“Dan” (Hebrew *Dan*) means “he judged,” as in Gen 30:6, “God has judged me.”"
     }
    ],
    "heading": "The Testament of Dan, on Anger and Lying",
@@ -3095,23 +3095,23 @@
     },
     {
      "v": 5,
-     "text": "Then he began to say to his sons, \"Listen, my children, sons of Naphtali; listen to the words of your father."
+     "text": "Then he began to say to his sons, “Listen, my children, sons of Naphtali; listen to the words of your father."
     },
     {
      "v": 6,
-     "text": "I was born of Bilhah.{c} Because Rachel acted shrewdly and gave Bilhah to Jacob in her place, and Bilhah bore me on Rachel's thighs, I was called Naphtali."
+     "text": "I was born of Bilhah.{c} Because Rachel acted shrewdly and gave Bilhah to Jacob in her place, and Bilhah bore me on Rachel’s thighs, I was called Naphtali."
     },
     {
      "v": 7,
-     "text": "Rachel loved me because I was born on her thighs; and when I was a tender little thing she would kiss me, saying, 'May I see a brother of yours from my own womb, like you.'"
+     "text": "Rachel loved me because I was born on her thighs; and when I was a tender little thing she would kiss me, saying, ‘May I see a brother of yours from my own womb, like you.’"
     },
     {
      "v": 8,
-     "text": "So Joseph was like me in everything, following Rachel's prayers."
+     "text": "So Joseph was like me in everything, following Rachel’s prayers."
     },
     {
      "v": 9,
-     "text": "My mother Bilhah was the daughter of Rotheus, brother of Deborah, Rebekah's nurse, who was born on the same day as Rachel."
+     "text": "My mother Bilhah was the daughter of Rotheus, brother of Deborah, Rebekah’s nurse, who was born on the same day as Rachel."
     },
     {
      "v": 10,
@@ -3123,11 +3123,11 @@
     },
     {
      "v": 12,
-     "text": "After that she bore Bilhah, and he said, 'My daughter is eager for something new, for as soon as she was born she was in a hurry to nurse.'\""
+     "text": "After that she bore Bilhah, and he said, ‘My daughter is eager for something new, for as soon as she was born she was in a hurry to nurse.’”"
     },
     {
      "v": 13,
-     "text": "\"Because I was light on my feet like a deer, my father Jacob assigned me to every errand and message; and he even blessed me as a deer."
+     "text": "“Because I was light on my feet like a deer, my father Jacob assigned me to every errand and message; and he even blessed me as a deer."
     },
     {
      "v": 14,
@@ -3135,7 +3135,7 @@
     },
     {
      "v": 15,
-     "text": "Nothing is left over, not a third of a hair's breadth from one to another; for all creation of the Most High is by weight, measure, and rule."
+     "text": "Nothing is left over, not a third of a hair’s breadth from one to another; for all creation of the Most High is by weight, measure, and rule."
     },
     {
      "v": 16,
@@ -3163,11 +3163,11 @@
     },
     {
      "v": 22,
-     "text": "If you tell the eye to hear, it cannot; so you will not be able to do the works of light while in darkness.\""
+     "text": "If you tell the eye to hear, it cannot; so you will not be able to do the works of light while in darkness.”"
     },
     {
      "v": 23,
-     "text": "\"So do not hurry, in greed, to corrupt your actions, or to deceive your souls with empty words; for if you are silent with a pure heart, you will be able to hold to the will of God and throw off the will of the devil."
+     "text": "“So do not hurry, in greed, to corrupt your actions, or to deceive your souls with empty words; for if you are silent with a pure heart, you will be able to hold to the will of God and throw off the will of the devil."
     },
     {
      "v": 24,
@@ -3183,11 +3183,11 @@
     },
     {
      "v": 27,
-     "text": "In the same way the Watchers changed the order of their nature, whom the Lord also cursed at the flood, and because of them he made the earth uninhabited and fruitless.\""
+     "text": "In the same way the Watchers changed the order of their nature, whom the Lord also cursed at the flood, and because of them he made the earth uninhabited and fruitless.”"
     },
     {
      "v": 28,
-     "text": "\"I say this, my children, because I read in the holy writing of Enoch{d} that you too will depart from the Lord, going after every evil of the nations, and will commit every lawless act of Sodom."
+     "text": "“I say this, my children, because I read in the holy writing of Enoch{d} that you too will depart from the Lord, going after every evil of the nations, and will commit every lawless act of Sodom."
     },
     {
      "v": 29,
@@ -3203,15 +3203,15 @@
     },
     {
      "v": 32,
-     "text": "and the Lord will scatter them over the face of all the earth, until the compassion of the Lord comes, a man doing righteousness and showing mercy to all, far and near.\""
+     "text": "and the Lord will scatter them over the face of all the earth, until the compassion of the Lord comes, a man doing righteousness and showing mercy to all, far and near.”"
     },
     {
      "v": 33,
-     "text": "\"In the fortieth year of my life, I saw on the Mount of Olives, east of Jerusalem, that the sun and the moon stood still."
+     "text": "“In the fortieth year of my life, I saw on the Mount of Olives, east of Jerusalem, that the sun and the moon stood still."
     },
     {
      "v": 34,
-     "text": "There was Isaac, my father's father, saying to us, 'Run and grab hold, each as you are able; whoever catches them will have the sun and the moon.'"
+     "text": "There was Isaac, my father’s father, saying to us, ‘Run and grab hold, each as you are able; whoever catches them will have the sun and the moon.’"
     },
     {
      "v": 35,
@@ -3227,7 +3227,7 @@
     },
     {
      "v": 38,
-     "text": "Then there was a bull on the earth, with two great horns and an eagle's wings on its back; we wanted to catch it, but could not."
+     "text": "Then there was a bull on the earth, with two great horns and an eagle’s wings on its back; we wanted to catch it, but could not."
     },
     {
      "v": 39,
@@ -3235,19 +3235,19 @@
     },
     {
      "v": 40,
-     "text": "I saw that I was there somewhere, and a holy writing appeared to us, saying: 'Assyrians, Medes, Persians, Elymeans, Gelachaeans, Chaldeans, and Syrians will inherit, in captivity, the twelve tribes of Israel.'\""
+     "text": "I saw that I was there somewhere, and a holy writing appeared to us, saying: ‘Assyrians, Medes, Persians, Elymeans, Gelachaeans, Chaldeans, and Syrians will inherit, in captivity, the twelve tribes of Israel.’”"
     },
     {
      "v": 41,
-     "text": "\"Seven months later I saw our father Jacob standing by the sea of Jamnia, and we his sons were with him."
+     "text": "“Seven months later I saw our father Jacob standing by the sea of Jamnia, and we his sons were with him."
     },
     {
      "v": 42,
-     "text": "A ship came sailing, full of dried fish, without sailors or pilot; and on the ship was written 'Jacob.'"
+     "text": "A ship came sailing, full of dried fish, without sailors or pilot; and on the ship was written ‘Jacob.’"
     },
     {
      "v": 43,
-     "text": "Our father said to us, 'Let us get on our ship.'"
+     "text": "Our father said to us, ‘Let us get on our ship.’"
     },
     {
      "v": 44,
@@ -3275,27 +3275,27 @@
     },
     {
      "v": 50,
-     "text": "Then our father Jacob came, and we rejoiced together.\""
+     "text": "Then our father Jacob came, and we rejoiced together.”"
     },
     {
      "v": 51,
-     "text": "\"I told these two dreams to my father, and he said to me, 'These must be fulfilled in their time, after Israel endures many things.'"
+     "text": "“I told these two dreams to my father, and he said to me, ‘These must be fulfilled in their time, after Israel endures many things.’"
     },
     {
      "v": 52,
-     "text": "Then my father said to me, 'I believe that Joseph is alive; for I always see that the Lord is counting him with you.'"
+     "text": "Then my father said to me, ‘I believe that Joseph is alive; for I always see that the Lord is counting him with you.’"
     },
     {
      "v": 53,
-     "text": "Weeping, he said, 'You are alive, Joseph my child, and I do not see you, and you do not see Jacob who fathered you.'"
+     "text": "Weeping, he said, ‘You are alive, Joseph my child, and I do not see you, and you do not see Jacob who fathered you.’"
     },
     {
      "v": 54,
-     "text": "He made us weep, too, with these words. I burned inside to tell him that Joseph had been sold, but I was afraid of my brothers.\""
+     "text": "He made us weep, too, with these words. I burned inside to tell him that Joseph had been sold, but I was afraid of my brothers.”"
     },
     {
      "v": 55,
-     "text": "\"Now, my children, I have shown you the last times, how all will happen in Israel."
+     "text": "“Now, my children, I have shown you the last times, how all will happen in Israel."
     },
     {
      "v": 56,
@@ -3323,7 +3323,7 @@
     },
     {
      "v": 62,
-     "text": "There is a time for a man's intercourse with his wife, and a time of self-control for his prayer."
+     "text": "There is a time for a man’s intercourse with his wife, and a time of self-control for his prayer."
     },
     {
      "v": 63,
@@ -3331,7 +3331,7 @@
     },
     {
      "v": 64,
-     "text": "So be wise in God and prudent, knowing the order of his commands and the rules for every matter, so that the Lord will love you.\""
+     "text": "So be wise in God and prudent, knowing the order of his commands and the rules for every matter, so that the Lord will love you.”"
     },
     {
      "v": 65,
@@ -3350,22 +3350,22 @@
     {
      "m": "a",
      "ref": "8:1",
-     "text": "\"Naphtali\" (Hebrew *Naftali*) is explained in Gen 30:8 as \"my wrestling,\" from Rachel's saying \"I have wrestled with my sister.\""
+     "text": "“Naphtali” (Hebrew *Naftali*) is explained in Gen 30:8 as “my wrestling,” from Rachel’s saying “I have wrestled with my sister.”"
     },
     {
      "m": "b",
      "ref": "8:2",
-     "text": "The Greek says \"the seventh month, the fourth day of the month.\" Counted from spring, the seventh month of the Hebrew calendar (Tishri) falls in September–October, so the fourth day is early in that span."
+     "text": "The Greek says “the seventh month, the fourth day of the month.” Counted from spring, the seventh month of the Hebrew calendar (Tishri) falls in September–October, so the fourth day is early in that span."
     },
     {
      "m": "c",
      "ref": "8:6",
-     "text": "\"Bilhah\" (Hebrew *Bilhah*) is the maid of Rachel; the meaning of the name is uncertain."
+     "text": "“Bilhah” (Hebrew *Bilhah*) is the maid of Rachel; the meaning of the name is uncertain."
     },
     {
      "m": "d",
      "ref": "8:28",
-     "text": "\"Enoch\" is the patriarch whose books (the Books of Enoch) circulated in this period. The \"holy writing of Enoch\" is probably 1 Enoch, though the exact passage is not found there."
+     "text": "“Enoch” is the patriarch whose books (the Books of Enoch) circulated in this period. The “holy writing of Enoch” is probably 1 Enoch, though the exact passage is not found there."
     }
    ],
    "heading": "The Testament of Naphtali, on Natural Order",
@@ -3400,7 +3400,7 @@
     },
     {
      "v": 2,
-     "text": "\"I was the seventh son born to Jacob, and I was brave with the flocks."
+     "text": "“I was the seventh son born to Jacob, and I was brave with the flocks."
     },
     {
      "v": 3,
@@ -3420,7 +3420,7 @@
     },
     {
      "v": 7,
-     "text": "For he had seen that I snatched a lamb out of the bear's mouth, and killed the bear, and slaughtered the lamb, which I felt sorry about because it could not live, and we ate it; and he told our father."
+     "text": "For he had seen that I snatched a lamb out of the bear’s mouth, and killed the bear, and slaughtered the lamb, which I felt sorry about because it could not live, and we ate it; and he told our father."
     },
     {
      "v": 8,
@@ -3428,11 +3428,11 @@
     },
     {
      "v": 9,
-     "text": "The spirit of hatred was in me, and I did not want to see Joseph with my eyes or hear him with my ears. He had reproved us to our faces because we were eating the animals without Judah; and everything he said to his father, his father believed.\""
+     "text": "The spirit of hatred was in me, and I did not want to see Joseph with my eyes or hear him with my ears. He had reproved us to our faces because we were eating the animals without Judah; and everything he said to his father, his father believed.”"
     },
     {
      "v": 10,
-     "text": "\"I confess my sin now, children: many times I wanted to kill him, because I hated him to the depth of my soul, and I had no mercy in my insides for him at all."
+     "text": "“I confess my sin now, children: many times I wanted to kill him, because I hated him to the depth of my soul, and I had no mercy in my insides for him at all."
     },
     {
      "v": 11,
@@ -3448,11 +3448,11 @@
     },
     {
      "v": 14,
-     "text": "But the God of my fathers rescued him from my hands, so that I would not commit a lawless act in Israel.\""
+     "text": "But the God of my fathers rescued him from my hands, so that I would not commit a lawless act in Israel.”"
     },
     {
      "v": 15,
-     "text": "\"Now hear, my children, words of truth, to do righteousness and every law of the Most High, and not to be led astray by the spirit of hatred, because it is evil in all human actions."
+     "text": "“Now hear, my children, words of truth, to do righteousness and every law of the Most High, and not to be led astray by the spirit of hatred, because it is evil in all human actions."
     },
     {
      "v": 16,
@@ -3460,11 +3460,11 @@
     },
     {
      "v": 17,
-     "text": "he blames the truth, envies the one who succeeds, welcomes slander, loves arrogance; for hatred has blinded his soul, as I too saw it in the case of Joseph.\""
+     "text": "he blames the truth, envies the one who succeeds, welcomes slander, loves arrogance; for hatred has blinded his soul, as I too saw it in the case of Joseph.”"
     },
     {
      "v": 18,
-     "text": "\"So guard yourselves, my children, against hatred, because it commits lawlessness against the Lord himself."
+     "text": "“So guard yourselves, my children, against hatred, because it commits lawlessness against the Lord himself."
     },
     {
      "v": 19,
@@ -3488,11 +3488,11 @@
     },
     {
      "v": 24,
-     "text": "The spirit of hatred, through faintheartedness, works with Satan in everything toward the death of human beings; the spirit of love, through patience, works with the law of God toward the salvation of human beings.\""
+     "text": "The spirit of hatred, through faintheartedness, works with Satan in everything toward the death of human beings; the spirit of love, through patience, works with the law of God toward the salvation of human beings.”"
     },
     {
      "v": 25,
-     "text": "\"Hatred is evil, for it continually dwells with lying, speaking against the truth. It makes small things large, treats darkness as light, calls sweet things bitter, and teaches slander, war, insult, and every abundance of evil, and it fills the heart with devilish poison."
+     "text": "“Hatred is evil, for it continually dwells with lying, speaking against the truth. It makes small things large, treats darkness as light, calls sweet things bitter, and teaches slander, war, insult, and every abundance of evil, and it fills the heart with devilish poison."
     },
     {
      "v": 26,
@@ -3532,11 +3532,11 @@
     },
     {
      "v": 35,
-     "text": "Since my liver had pressed mercilessly against Joseph, I suffered mercilessly in my liver, and was under judgment for eleven months, as long as I had held a grudge against Joseph, until he was sold.\""
+     "text": "Since my liver had pressed mercilessly against Joseph, I suffered mercilessly in my liver, and was under judgment for eleven months, as long as I had held a grudge against Joseph, until he was sold.”"
     },
     {
      "v": 36,
-     "text": "\"Now, my children, each of you love your brother, and remove hatred from your hearts, loving one another in deed, in word, and in the thinking of the soul."
+     "text": "“Now, my children, each of you love your brother, and remove hatred from your hearts, loving one another in deed, in word, and in the thinking of the soul."
     },
     {
      "v": 37,
@@ -3560,11 +3560,11 @@
     },
     {
      "v": 42,
-     "text": "But if he is shameless and persists in evil, even so forgive him from your heart, and give vengeance to God.\""
+     "text": "But if he is shameless and persists in evil, even so forgive him from your heart, and give vengeance to God.”"
     },
     {
      "v": 43,
-     "text": "\"If anyone prospers more than you, do not be sad; rather pray for him, that he may prosper completely. Perhaps it is good for you this way."
+     "text": "“If anyone prospers more than you, do not be sad; rather pray for him, that he may prosper completely. Perhaps it is good for you this way."
     },
     {
      "v": 44,
@@ -3572,11 +3572,11 @@
     },
     {
      "v": 45,
-     "text": "Examine the Lord's judgments, and so you will let it go, and your mind will be quiet."
+     "text": "Examine the Lord’s judgments, and so you will let it go, and your mind will be quiet."
     },
     {
      "v": 46,
-     "text": "If someone does get rich from evil, like Esau, my father's brother, do not be jealous; wait for the Lord's limit."
+     "text": "If someone does get rich from evil, like Esau, my father’s brother, do not be jealous; wait for the Lord’s limit."
     },
     {
      "v": 47,
@@ -3588,19 +3588,19 @@
     },
     {
      "v": 49,
-     "text": "So remove hatred from your souls, and love one another with uprightness of heart.\""
+     "text": "So remove hatred from your souls, and love one another with uprightness of heart.”"
     },
     {
      "v": 50,
-     "text": "\"Tell these things also to your children, so that they will honor Judah and Levi, for from them the Lord will raise up a savior for Israel."
+     "text": "“Tell these things also to your children, so that they will honor Judah and Levi, for from them the Lord will raise up a savior for Israel."
     },
     {
      "v": 51,
-     "text": "I know that in the end your children will fall away from them, and will be before the Lord in all wickedness, ill-treatment, and corruption.\""
+     "text": "I know that in the end your children will fall away from them, and will be before the Lord in all wickedness, ill-treatment, and corruption.”"
     },
     {
      "v": 52,
-     "text": "After resting a little, he said to them again, \"My children, obey your father, and bury me near my fathers.\""
+     "text": "After resting a little, he said to them again, “My children, obey your father, and bury me near my fathers.”"
     },
     {
      "v": 53,
@@ -3615,12 +3615,12 @@
     {
      "m": "a",
      "ref": "9:1",
-     "text": "\"Gad\" (Hebrew *Gad*) means \"good fortune\" (Gen 30:11)."
+     "text": "“Gad” (Hebrew *Gad*) means “good fortune” (Gen 30:11)."
     },
     {
      "m": "b",
      "ref": "9:3",
-     "text": "\"Two stadia.\" A stadion was about 607 feet (185 m), so two stadia is about 1,200 feet, or about 0.23 mile (370 m)."
+     "text": "“Two stadia.” A stadion was about 607 feet (185 m), so two stadia is about 1,200 feet, or about 0.23 mile (370 m)."
     }
    ],
    "heading": "The Testament of Gad, on Hatred",
@@ -3654,7 +3654,7 @@
     },
     {
      "v": 2,
-     "text": "While he was still in good health, he said to them, \"Listen, children of Asher, to your father, and I will show you everything that is right before God."
+     "text": "While he was still in good health, he said to them, “Listen, children of Asher, to your father, and I will show you everything that is right before God."
     },
     {
      "v": 3,
@@ -3682,11 +3682,11 @@
     },
     {
      "v": 9,
-     "text": "When it begins as if doing good, the end of its action drives it to do evil, because the treasury of the devil is full of the poison of an evil spirit.\""
+     "text": "When it begins as if doing good, the end of its action drives it to do evil, because the treasury of the devil is full of the poison of an evil spirit.”"
     },
     {
      "v": 10,
-     "text": "\"There is a soul, he says, that speaks the good in place of the evil, and yet leads the end of the matter into badness."
+     "text": "“There is a soul, he says, that speaks the good in place of the evil, and yet leads the end of the matter into badness."
     },
     {
      "v": 11,
@@ -3722,19 +3722,19 @@
     },
     {
      "v": 19,
-     "text": "For so God has said, on the tablets of heaven.\""
+     "text": "For so God has said, on the tablets of heaven.”"
     },
     {
      "v": 20,
-     "text": "\"So you, my children, do not be two-faced like them, partly good and partly bad; hold only to goodness, because God rests in it, and people long for it;"
+     "text": "“So you, my children, do not be two-faced like them, partly good and partly bad; hold only to goodness, because God rests in it, and people long for it;"
     },
     {
      "v": 21,
-     "text": "run away from wickedness, destroying the devil by your good actions. For the two-faced do not serve God but their own desires, in order to please Beliar and people like themselves.\""
+     "text": "run away from wickedness, destroying the devil by your good actions. For the two-faced do not serve God but their own desires, in order to please Beliar and people like themselves.”"
     },
     {
      "v": 22,
-     "text": "\"Good people who are single-faced, even if they are thought by the two-faced to sin, are righteous before God."
+     "text": "“Good people who are single-faced, even if they are thought by the two-faced to sin, are righteous before God."
     },
     {
      "v": 23,
@@ -3750,11 +3750,11 @@
     },
     {
      "v": 26,
-     "text": "because such people are like roe deer and deer: in a wild way of life they seem unclean, but they are entirely clean, because they walk in zeal for God, staying away from what God also hates and forbids by his commands, keeping evil away from the good.\""
+     "text": "because such people are like roe deer and deer: in a wild way of life they seem unclean, but they are entirely clean, because they walk in zeal for God, staying away from what God also hates and forbids by his commands, keeping evil away from the good.”"
     },
     {
      "v": 27,
-     "text": "\"See, then, children, how there are two in everything, one set against the other, and one hidden by the other."
+     "text": "“See, then, children, how there are two in everything, one set against the other, and one hidden by the other."
     },
     {
      "v": 28,
@@ -3766,11 +3766,11 @@
     },
     {
      "v": 30,
-     "text": "I have tested all this in my life, and I have not strayed from the truth of the Lord, and I have sought out the commands of the Most High, walking with all my strength single-facedly toward the good.\""
+     "text": "I have tested all this in my life, and I have not strayed from the truth of the Lord, and I have sought out the commands of the Most High, walking with all my strength single-facedly toward the good.”"
     },
     {
      "v": 31,
-     "text": "\"So you too, children, pay attention to the commands of the Lord, following the truth single-facedly,"
+     "text": "“So you too, children, pay attention to the commands of the Lord, following the truth single-facedly,"
     },
     {
      "v": 32,
@@ -3778,7 +3778,7 @@
     },
     {
      "v": 33,
-     "text": "Keep the law of the Lord, and do not treat evil as good; look instead to what is truly good, and keep it in all the Lord's commands, turning to him and finding rest in him,"
+     "text": "Keep the law of the Lord, and do not treat evil as good; look instead to what is truly good, and keep it in all the Lord’s commands, turning to him and finding rest in him,"
     },
     {
      "v": 34,
@@ -3790,11 +3790,11 @@
     },
     {
      "v": 36,
-     "text": "but if it leaves quietly, in joy, it has known the angel of peace, and he will comfort it in life.\""
+     "text": "but if it leaves quietly, in joy, it has known the angel of peace, and he will comfort it in life.”"
     },
     {
      "v": 37,
-     "text": "\"Do not be, children, like Sodom, which did not recognize the angels of the Lord and was destroyed forever."
+     "text": "“Do not be, children, like Sodom, which did not recognize the angels of the Lord and was destroyed forever."
     },
     {
      "v": 38,
@@ -3818,11 +3818,11 @@
     },
     {
      "v": 43,
-     "text": "But the Lord will gather you in faith, through the hope of his compassion, for the sake of Abraham, Isaac, and Jacob.\""
+     "text": "But the Lord will gather you in faith, through the hope of his compassion, for the sake of Abraham, Isaac, and Jacob.”"
     },
     {
      "v": 44,
-     "text": "After telling them these things, he commanded them, saying, \"Bury me in Hebron.\" And he died, falling asleep in a good sleep;"
+     "text": "After telling them these things, he commanded them, saying, “Bury me in Hebron.” And he died, falling asleep in a good sleep;"
     },
     {
      "v": 45,
@@ -3833,7 +3833,7 @@
     {
      "m": "a",
      "ref": "10:1",
-     "text": "\"Asher\" (Hebrew *Asher*) means \"happy\" or \"fortunate\" (Gen 30:13)."
+     "text": "“Asher” (Hebrew *Asher*) means “happy” or “fortunate” (Gen 30:13)."
     }
    ],
    "heading": "The Testament of Asher, on the Two Faces of Vice and Virtue",
@@ -3879,7 +3879,7 @@
     },
     {
      "v": 2,
-     "text": "\"My children and brothers, listen to Joseph, beloved of Israel; give ear, sons, to your father."
+     "text": "“My children and brothers, listen to Joseph, beloved of Israel; give ear, sons, to your father."
     },
     {
      "v": 3,
@@ -3899,11 +3899,11 @@
     },
     {
      "v": 7,
-     "text": "I was under slander, and he pleaded my case; I was under the bitter words of the Egyptians, and he rescued me; I was among envies and deceits, and he lifted me up.\""
+     "text": "I was under slander, and he pleaded my case; I was under the bitter words of the Egyptians, and he rescued me; I was among envies and deceits, and he lifted me up.”"
     },
     {
      "v": 8,
-     "text": "\"So Photimar, the chief cook of Pharaoh, entrusted his house to me."
+     "text": "“So Photimar, the chief cook of Pharaoh, entrusted his house to me."
     },
     {
      "v": 9,
@@ -3927,15 +3927,15 @@
     },
     {
      "v": 14,
-     "text": "He showed me to be approved in ten trials, and in all of them I was patient; for patience is a great medicine, and endurance gives many good things.\""
+     "text": "He showed me to be approved in ten trials, and in all of them I was patient; for patience is a great medicine, and endurance gives many good things.”"
     },
     {
      "v": 15,
-     "text": "\"How often did the Egyptian woman threaten me with death! How often, after handing me over to punishment, did she call me back and threaten me when I would not go to bed with her! And she said to me,"
+     "text": "“How often did the Egyptian woman threaten me with death! How often, after handing me over to punishment, did she call me back and threaten me when I would not go to bed with her! And she said to me,"
     },
     {
      "v": 16,
-     "text": "'You will rule over me and over everything I have, if you give yourself to me, and you will be our master.'"
+     "text": "‘You will rule over me and over everything I have, if you give yourself to me, and you will be our master.’"
     },
     {
      "v": 17,
@@ -3967,15 +3967,15 @@
     },
     {
      "v": 24,
-     "text": "I spoke to her the words of the Most High, in case she would turn away from her wicked desire.\""
+     "text": "I spoke to her the words of the Most High, in case she would turn away from her wicked desire.”"
     },
     {
      "v": 25,
-     "text": "\"How often did she flatter me with words, as if I were a holy man, deceitfully praising my self-control in front of her husband, but wanting to trip me alone!"
+     "text": "“How often did she flatter me with words, as if I were a holy man, deceitfully praising my self-control in front of her husband, but wanting to trip me alone!"
     },
     {
      "v": 26,
-     "text": "She praised me openly as self-controlled, and secretly said to me, 'Do not be afraid of my husband; he is convinced about your self-control, and even if someone tells him about us, he will not believe it.'"
+     "text": "She praised me openly as self-controlled, and secretly said to me, ‘Do not be afraid of my husband; he is convinced about your self-control, and even if someone tells him about us, he will not believe it.’"
     },
     {
      "v": 27,
@@ -3987,11 +3987,11 @@
     },
     {
      "v": 29,
-     "text": "She said to me, 'If you want me to leave my idols, be persuaded by me; and I will persuade the Egyptian to give up his idols, so that we may walk in the law of your Lord.'"
+     "text": "She said to me, ‘If you want me to leave my idols, be persuaded by me; and I will persuade the Egyptian to give up his idols, so that we may walk in the law of your Lord.’"
     },
     {
      "v": 30,
-     "text": "I said to her, 'The Lord does not say that those who revere him are in uncleanness, and he takes no pleasure in adulterers.'"
+     "text": "I said to her, ‘The Lord does not say that those who revere him are in uncleanness, and he takes no pleasure in adulterers.’"
     },
     {
      "v": 31,
@@ -3999,15 +3999,15 @@
     },
     {
      "v": 32,
-     "text": "I added fasting and prayer, so that the Lord would rescue me from her.\""
+     "text": "I added fasting and prayer, so that the Lord would rescue me from her.”"
     },
     {
      "v": 33,
-     "text": "\"At another time she said to me, 'If you do not want to commit adultery, I will kill the Egyptian, and then I will take you lawfully as my husband.'"
+     "text": "“At another time she said to me, ‘If you do not want to commit adultery, I will kill the Egyptian, and then I will take you lawfully as my husband.’"
     },
     {
      "v": 34,
-     "text": "When I heard this, I tore my robe and said, 'Woman, respect the Lord and do not do this wicked deed, or you will be destroyed; I will even tell everyone about your plan of ungodliness.'"
+     "text": "When I heard this, I tore my robe and said, ‘Woman, respect the Lord and do not do this wicked deed, or you will be destroyed; I will even tell everyone about your plan of ungodliness.’"
     },
     {
      "v": 35,
@@ -4015,11 +4015,11 @@
     },
     {
      "v": 36,
-     "text": "And she went away, trying to warm me with gifts, and sending me every pleasure of the sons of men.\""
+     "text": "And she went away, trying to warm me with gifts, and sending me every pleasure of the sons of men.”"
     },
     {
      "v": 37,
-     "text": "\"She sent me food mixed with sorcery."
+     "text": "“She sent me food mixed with sorcery."
     },
     {
      "v": 38,
@@ -4031,11 +4031,11 @@
     },
     {
      "v": 40,
-     "text": "After a day she came to me, recognized the food, and said to me, 'Why is it that you did not eat any of the food?'"
+     "text": "After a day she came to me, recognized the food, and said to me, ‘Why is it that you did not eat any of the food?’"
     },
     {
      "v": 41,
-     "text": "I said to her, 'Because you filled it with death. How could you say that you do not approach idols, but only the Lord?"
+     "text": "I said to her, ‘Because you filled it with death. How could you say that you do not approach idols, but only the Lord?"
     },
     {
      "v": 42,
@@ -4043,7 +4043,7 @@
     },
     {
      "v": 43,
-     "text": "So that you may learn that the wickedness of the ungodly does not overpower those who worship God in self-control, I took it in front of her and ate, saying, \"The God of my fathers and the angel of Abraham will be with me.\"'"
+     "text": "So that you may learn that the wickedness of the ungodly does not overpower those who worship God in self-control, I took it in front of her and ate, saying, “The God of my fathers and the angel of Abraham will be with me.”’"
     },
     {
      "v": 44,
@@ -4051,19 +4051,19 @@
     },
     {
      "v": 45,
-     "text": "and she promised not to do this ungodly act again.\""
+     "text": "and she promised not to do this ungodly act again.”"
     },
     {
      "v": 46,
-     "text": "\"But since her heart was set on me for indulgence, she kept falling at my feet, groaning."
+     "text": "“But since her heart was set on me for indulgence, she kept falling at my feet, groaning."
     },
     {
      "v": 47,
-     "text": "When the Egyptian husband saw her, he said to her, 'Why has your face fallen?' She said, 'I have a pain in my heart, and the groans of my spirit are holding me.' And he tended her though she was not ill."
+     "text": "When the Egyptian husband saw her, he said to her, ‘Why has your face fallen?’ She said, ‘I have a pain in my heart, and the groans of my spirit are holding me.’ And he tended her though she was not ill."
     },
     {
      "v": 48,
-     "text": "Then she jumped at me while her husband was still outside, and said to me, 'I will hang myself, or throw myself into a well or off a cliff, unless you are persuaded by me.'"
+     "text": "Then she jumped at me while her husband was still outside, and said to me, ‘I will hang myself, or throw myself into a well or off a cliff, unless you are persuaded by me.’"
     },
     {
      "v": 49,
@@ -4071,11 +4071,11 @@
     },
     {
      "v": 50,
-     "text": "'Why are you troubled and in an uproar, blinded by your sins? Remember that if you kill yourself, Sethon, your husband's concubine and your rival, will beat your children and wipe out your memory from the earth.'"
+     "text": "‘Why are you troubled and in an uproar, blinded by your sins? Remember that if you kill yourself, Sethon, your husband’s concubine and your rival, will beat your children and wipe out your memory from the earth.’"
     },
     {
      "v": 51,
-     "text": "She said to me, 'See, then, you love me. It is enough for me that you care about my life and my children's. I expect to enjoy my desire.'"
+     "text": "She said to me, ‘See, then, you love me. It is enough for me that you care about my life and my children’s. I expect to enjoy my desire.’"
     },
     {
      "v": 52,
@@ -4083,11 +4083,11 @@
     },
     {
      "v": 53,
-     "text": "For if someone falls under the passion of an evil desire and is enslaved to it, as she was, even if he hears something good, he takes it as it applies to the passion that has beaten him, toward evil desire.\""
+     "text": "For if someone falls under the passion of an evil desire and is enslaved to it, as she was, even if he hears something good, he takes it as it applies to the passion that has beaten him, toward evil desire.”"
     },
     {
      "v": 54,
-     "text": "\"I tell you, children, it was about noon{b} when she left me; and I knelt before the Lord the whole day and into the whole night, and toward dawn I rose in tears, asking for rescue from the Egyptian woman."
+     "text": "“I tell you, children, it was about noon{b} when she left me; and I knelt before the Lord the whole day and into the whole night, and toward dawn I rose in tears, asking for rescue from the Egyptian woman."
     },
     {
      "v": 55,
@@ -4103,11 +4103,11 @@
     },
     {
      "v": 58,
-     "text": "While I was in chains, the Egyptian woman became ill from grief, and listened to me singing to the Lord in the house of darkness, rejoicing in a glad voice and glorifying my God, only because I had a reason to be free of the Egyptian woman.\""
+     "text": "While I was in chains, the Egyptian woman became ill from grief, and listened to me singing to the Lord in the house of darkness, rejoicing in a glad voice and glorifying my God, only because I had a reason to be free of the Egyptian woman.”"
     },
     {
      "v": 59,
-     "text": "\"She often sent to me, saying, 'Agree to fulfill my desire, and I will free you from your chains and take you out of the darkness.'"
+     "text": "“She often sent to me, saying, ‘Agree to fulfill my desire, and I will free you from your chains and take you out of the darkness.’"
     },
     {
      "v": 60,
@@ -4123,11 +4123,11 @@
     },
     {
      "v": 63,
-     "text": "When I was in her house, she would uncover her arms, chest, and legs, so that I would fall for her; for she was very beautiful, especially when dressed up to trick me. But the Lord kept me from her attempts.\""
+     "text": "When I was in her house, she would uncover her arms, chest, and legs, so that I would fall for her; for she was very beautiful, especially when dressed up to trick me. But the Lord kept me from her attempts.”"
     },
     {
      "v": 64,
-     "text": "\"See, then, my children, how much patience accomplishes, and prayer with fasting."
+     "text": "“See, then, my children, how much patience accomplishes, and prayer with fasting."
     },
     {
      "v": 65,
@@ -4147,11 +4147,11 @@
     },
     {
      "v": 69,
-     "text": "and I measured myself and honored my brothers. Out of respect for them I kept silent while being sold, and did not tell the Ishmaelites my family, that I am the son of Jacob, a great and powerful man.\""
+     "text": "and I measured myself and honored my brothers. Out of respect for them I kept silent while being sold, and did not tell the Ishmaelites my family, that I am the son of Jacob, a great and powerful man.”"
     },
     {
      "v": 70,
-     "text": "\"You too, then, have the fear of God in your actions and honor your brothers. Everyone who keeps the law of the Lord will be loved by him."
+     "text": "“You too, then, have the fear of God in your actions and honor your brothers. Everyone who keeps the law of the Lord will be loved by him."
     },
     {
      "v": 71,
@@ -4159,7 +4159,7 @@
     },
     {
      "v": 72,
-     "text": "The eldest of them said to me, 'You are not a slave, for your face shows what you are'; and he threatened me with death. But I kept saying that I was their slave."
+     "text": "The eldest of them said to me, ‘You are not a slave, for your face shows what you are’; and he threatened me with death. But I kept saying that I was their slave."
     },
     {
      "v": 73,
@@ -4179,35 +4179,35 @@
     },
     {
      "v": 77,
-     "text": "and I was with him three months and five days.\""
+     "text": "and I was with him three months and five days.”"
     },
     {
      "v": 78,
-     "text": "\"At that time Memphia, the wife of Potiphar,{c} came by with great splendor, and set her eyes on me, because the eunuchs had told her about me."
+     "text": "“At that time Memphia, the wife of Potiphar,{c} came by with great splendor, and set her eyes on me, because the eunuchs had told her about me."
     },
     {
      "v": 79,
-     "text": "She told her husband about the trader, that he had grown rich through a young Hebrew; and she said, 'They say they stole him by theft from the land of Canaan."
+     "text": "She told her husband about the trader, that he had grown rich through a young Hebrew; and she said, ‘They say they stole him by theft from the land of Canaan."
     },
     {
      "v": 80,
-     "text": "Now hold a trial with him, and take the young man for your steward; and the God of the Hebrews will bless you, because heavenly grace is on him.'\""
+     "text": "Now hold a trial with him, and take the young man for your steward; and the God of the Hebrews will bless you, because heavenly grace is on him.’”"
     },
     {
      "v": 81,
-     "text": "\"Potiphar, persuaded by her words, ordered the trader to be brought and said to him, 'What is this I hear, that you are stealing people from the land of the Hebrews and selling them as slaves?'"
+     "text": "“Potiphar, persuaded by her words, ordered the trader to be brought and said to him, ‘What is this I hear, that you are stealing people from the land of the Hebrews and selling them as slaves?’"
     },
     {
      "v": 82,
-     "text": "The trader fell on his face and begged, saying, 'I beg you, my lord, I do not know what you are saying.'"
+     "text": "The trader fell on his face and begged, saying, ‘I beg you, my lord, I do not know what you are saying.’"
     },
     {
      "v": 83,
-     "text": "He said, 'Then where did you get the Hebrew boy?' He answered, 'The Ishmaelites left him with me until they come back.'"
+     "text": "He said, ‘Then where did you get the Hebrew boy?’ He answered, ‘The Ishmaelites left him with me until they come back.’"
     },
     {
      "v": 84,
-     "text": "He did not believe him, but ordered him to be beaten naked. When he held to his story, Potiphar said, 'Bring the young man.'"
+     "text": "He did not believe him, but ordered him to be beaten naked. When he held to his story, Potiphar said, ‘Bring the young man.’"
     },
     {
      "v": 85,
@@ -4215,31 +4215,31 @@
     },
     {
      "v": 86,
-     "text": "He separated me from the trader and said to me, 'Are you a slave or free?' I said, 'A slave.'"
+     "text": "He separated me from the trader and said to me, ‘Are you a slave or free?’ I said, ‘A slave.’"
     },
     {
      "v": 87,
-     "text": "He said to me, 'Whose slave?' I said, 'The Ishmaelites'.'"
+     "text": "He said to me, ‘Whose slave?’ I said, ‘The Ishmaelites’.’"
     },
     {
      "v": 88,
-     "text": "Again he said to me, 'How did you become their slave?' I said that they had bought me in Canaan."
+     "text": "Again he said to me, ‘How did you become their slave?’ I said that they had bought me in Canaan."
     },
     {
      "v": 89,
-     "text": "He did not believe it, saying, 'You are lying'; and he ordered me beaten naked.\""
+     "text": "He did not believe it, saying, ‘You are lying’; and he ordered me beaten naked.”"
     },
     {
      "v": 90,
-     "text": "\"Memphia saw through a window that I was being beaten, and sent word to her husband, saying, 'Your judgment is unjust, because you punish a free person who was stolen, as if he had done wrong.'"
+     "text": "“Memphia saw through a window that I was being beaten, and sent word to her husband, saying, ‘Your judgment is unjust, because you punish a free person who was stolen, as if he had done wrong.’"
     },
     {
      "v": 91,
-     "text": "When I did not change my story under the beating, he ordered me imprisoned, until, he said, the boy's owners came."
+     "text": "When I did not change my story under the beating, he ordered me imprisoned, until, he said, the boy’s owners came."
     },
     {
      "v": 92,
-     "text": "His wife said to him, 'Why do you hold the captive, a boy of noble birth, who ought rather to be free and to serve you?'"
+     "text": "His wife said to him, ‘Why do you hold the captive, a boy of noble birth, who ought rather to be free and to serve you?’"
     },
     {
      "v": 93,
@@ -4247,23 +4247,23 @@
     },
     {
      "v": 94,
-     "text": "He said to Memphia, 'Among the Egyptians it is not the custom to take away another's property before there is proof.'"
+     "text": "He said to Memphia, ‘Among the Egyptians it is not the custom to take away another’s property before there is proof.’"
     },
     {
      "v": 95,
-     "text": "He said this about the trader, and about me, that I should be locked up.\""
+     "text": "He said this about the trader, and about me, that I should be locked up.”"
     },
     {
      "v": 96,
-     "text": "\"After twenty-four days the Ishmaelites came; and having heard that Jacob my father was mourning over me, they said to me,"
+     "text": "“After twenty-four days the Ishmaelites came; and having heard that Jacob my father was mourning over me, they said to me,"
     },
     {
      "v": 97,
-     "text": "'Why did you say you were a slave? We have found that you are the son of a great man in Canaan, and your father is mourning for you in a pit.'"
+     "text": "‘Why did you say you were a slave? We have found that you are the son of a great man in Canaan, and your father is mourning for you in a pit.’"
     },
     {
      "v": 98,
-     "text": "I wanted to weep again, but held myself back so that I would not shame my brothers. And I said, 'I do not know; I am a slave.'"
+     "text": "I wanted to weep again, but held myself back so that I would not shame my brothers. And I said, ‘I do not know; I am a slave.’"
     },
     {
      "v": 99,
@@ -4275,15 +4275,15 @@
     },
     {
      "v": 101,
-     "text": "Then the trader said to them, 'Free me from the judgment of Potiphar.'"
+     "text": "Then the trader said to them, ‘Free me from the judgment of Potiphar.’"
     },
     {
      "v": 102,
-     "text": "They came and asked me for it, saying, 'He was bought by us with silver, and he let us go.'\""
+     "text": "They came and asked me for it, saying, ‘He was bought by us with silver, and he let us go.’”"
     },
     {
      "v": 103,
-     "text": "\"Memphia told her husband to buy me, saying, 'I hear they are selling him.'"
+     "text": "“Memphia told her husband to buy me, saying, ‘I hear they are selling him.’"
     },
     {
      "v": 104,
@@ -4295,23 +4295,23 @@
     },
     {
      "v": 106,
-     "text": "She sent another eunuch, saying, 'Even if they ask for two and a half pounds{d} of gold, take care not to spare the gold; just buy the boy and bring him.'"
+     "text": "She sent another eunuch, saying, ‘Even if they ask for two and a half pounds{d} of gold, take care not to spare the gold; just buy the boy and bring him.’"
     },
     {
      "v": 107,
-     "text": "She gave them eighty gold pieces for me, and told the Egyptian woman's husband that a hundred had been given for me."
+     "text": "She gave them eighty gold pieces for me, and told the Egyptian woman’s husband that a hundred had been given for me."
     },
     {
      "v": 108,
-     "text": "When I saw this, I kept silent, so that the eunuch would not be questioned.\""
+     "text": "When I saw this, I kept silent, so that the eunuch would not be questioned.”"
     },
     {
      "v": 109,
-     "text": "\"See, children, how much I endured so as not to shame my brothers."
+     "text": "“See, children, how much I endured so as not to shame my brothers."
     },
     {
      "v": 110,
-     "text": "You too, love one another, and in patience cover over one another's faults."
+     "text": "You too, love one another, and in patience cover over one another’s faults."
     },
     {
      "v": 111,
@@ -4323,7 +4323,7 @@
     },
     {
      "v": 113,
-     "text": "and after Jacob's death I loved them even more, and I did everything he commanded and more, and they were amazed."
+     "text": "and after Jacob’s death I loved them even more, and I did everything he commanded and more, and they were amazed."
     },
     {
      "v": 114,
@@ -4335,11 +4335,11 @@
     },
     {
      "v": 116,
-     "text": "I did not exalt myself over them in boasting because of my worldly glory, but was among them as one of the least.\""
+     "text": "I did not exalt myself over them in boasting because of my worldly glory, but was among them as one of the least.”"
     },
     {
      "v": 117,
-     "text": "\"So if you too walk in the commands of the Lord, my children, he will lift you up here, and will bless you with good things forever."
+     "text": "“So if you too walk in the commands of the Lord, my children, he will lift you up here, and will bless you with good things forever."
     },
     {
      "v": 118,
@@ -4351,11 +4351,11 @@
     },
     {
      "v": 120,
-     "text": "He gave me beauty, like a flower above the beautiful ones of Israel; and he kept me to old age in strength and beauty, for I was like Jacob in everything.\""
+     "text": "He gave me beauty, like a flower above the beautiful ones of Israel; and he kept me to old age in strength and beauty, for I was like Jacob in everything.”"
     },
     {
      "v": 121,
-     "text": "\"Listen, my children, to the dreams I saw."
+     "text": "“Listen, my children, to the dreams I saw."
     },
     {
      "v": 122,
@@ -4379,11 +4379,11 @@
     },
     {
      "v": 127,
-     "text": "For his kingdom is an everlasting kingdom that will not be shaken; but my kingdom among you will come to an end, like a fruit-watchman's hut, which is not seen after summer.\""
+     "text": "For his kingdom is an everlasting kingdom that will not be shaken; but my kingdom among you will come to an end, like a fruit-watchman’s hut, which is not seen after summer.”"
     },
     {
      "v": 128,
-     "text": "\"I know that after my death the Egyptians will oppress you; but God will take vengeance for you and bring you into the promise of your fathers."
+     "text": "“I know that after my death the Egyptians will oppress you; but God will take vengeance for you and bring you into the promise of your fathers."
     },
     {
      "v": 129,
@@ -4391,7 +4391,7 @@
     },
     {
      "v": 130,
-     "text": "Take your mother Zilpah too, and lay her near Bilhah, by the Hippodrome, close to Rachel.\""
+     "text": "Take your mother Zilpah too, and lay her near Bilhah, by the Hippodrome, close to Rachel.”"
     },
     {
      "v": 131,
@@ -4410,27 +4410,27 @@
     {
      "m": "a",
      "ref": "11:1",
-     "text": "\"Joseph\" (Hebrew *Yosef*) means \"may he add,\" from Gen 30:24, \"May Yahweh add to me another son.\""
+     "text": "“Joseph” (Hebrew *Yosef*) means “may he add,” from Gen 30:24, “May Yahweh add to me another son.”"
     },
     {
      "m": "b",
      "ref": "11:54",
-     "text": "The Greek says \"about the sixth hour,\" counted from sunrise, which is about noon."
+     "text": "The Greek says “about the sixth hour,” counted from sunrise, which is about noon."
     },
     {
      "m": "c",
      "ref": "11:78",
-     "text": "\"Potiphar\" (Hebrew *Potifar*) is from an Egyptian name meaning \"the one whom Ra gave.\" The Greek spells it \"Petephri\" or \"Petephris.\""
+     "text": "“Potiphar” (Hebrew *Potifar*) is from an Egyptian name meaning “the one whom Ra gave.” The Greek spells it “Petephri” or “Petephris.”"
     },
     {
      "m": "d",
      "ref": "11:106",
-     "text": "\"Two minas.\" A mina was one-sixtieth of a talent, about 1.25 pounds (0.57 kg), so two minas is about 2.5 pounds (1.1 kg) of gold."
+     "text": "“Two minas.” A mina was one-sixtieth of a talent, about 1.25 pounds (0.57 kg), so two minas is about 2.5 pounds (1.1 kg) of gold."
     },
     {
      "m": "e",
      "ref": "11:119",
-     "text": "\"A hundred talents.\" A talent was about 75 pounds (34 kg), so a hundred talents is about 7,500 pounds (3,400 kg)."
+     "text": "“A hundred talents.” A talent was about 75 pounds (34 kg), so a hundred talents is about 7,500 pounds (3,400 kg)."
     }
    ],
    "heading": "The Testament of Joseph, on Self-Control",
@@ -4480,7 +4480,7 @@
     },
     {
      "v": 2,
-     "text": "He kissed them and said, \"As Isaac was born to Abraham in his hundredth year, so I was to Jacob."
+     "text": "He kissed them and said, “As Isaac was born to Abraham in his hundredth year, so I was to Jacob."
     },
     {
      "v": 3,
@@ -4496,19 +4496,19 @@
     },
     {
      "v": 6,
-     "text": "For this reason I was called 'son of days,' which is Benjamin.\""
+     "text": "For this reason I was called ‘son of days,’ which is Benjamin.”"
     },
     {
      "v": 7,
-     "text": "\"When I came into Egypt and my brother Joseph recognized me, he said to me, 'What did you tell my father when they sold me?'"
+     "text": "“When I came into Egypt and my brother Joseph recognized me, he said to me, ‘What did you tell my father when they sold me?’"
     },
     {
      "v": 8,
-     "text": "I told him they had smeared your tunic with blood and sent it, saying, 'See whether this is your son's tunic.'"
+     "text": "I told him they had smeared your tunic with blood and sent it, saying, ‘See whether this is your son’s tunic.’"
     },
     {
      "v": 9,
-     "text": "He said to me, 'Yes, brother; for when the Ishmaelites took me, one of them stripped off my tunic, gave me a loincloth, flogged me, and told me to run."
+     "text": "He said to me, ‘Yes, brother; for when the Ishmaelites took me, one of them stripped off my tunic, gave me a loincloth, flogged me, and told me to run."
     },
     {
      "v": 10,
@@ -4516,11 +4516,11 @@
     },
     {
      "v": 11,
-     "text": "So his companions were frightened and sold me on to others.'\""
+     "text": "So his companions were frightened and sold me on to others.’”"
     },
     {
      "v": 12,
-     "text": "\"So you too, my children, love the Lord, the God of heaven, and keep his commands, imitating the good and holy man Joseph."
+     "text": "“So you too, my children, love the Lord, the God of heaven, and keep his commands, imitating the good and holy man Joseph."
     },
     {
      "v": 13,
@@ -4536,7 +4536,7 @@
     },
     {
      "v": 16,
-     "text": "and he cannot be overpowered by the plots of people or of wild animals, being helped by the Lord's love, which he has for his neighbor."
+     "text": "and he cannot be overpowered by the plots of people or of wild animals, being helped by the Lord’s love, which he has for his neighbor."
     },
     {
      "v": 17,
@@ -4544,15 +4544,15 @@
     },
     {
      "v": 18,
-     "text": "Jacob cried out, 'O my child Joseph, you have overcome the heart of Jacob your father.' He embraced him, and for two hours kissed him, saying,"
+     "text": "Jacob cried out, ‘O my child Joseph, you have overcome the heart of Jacob your father.’ He embraced him, and for two hours kissed him, saying,"
     },
     {
      "v": 19,
-     "text": "'The prophecy of heaven about the Lamb of God and Savior of the world will be fulfilled in you: that a spotless one will be handed over for the lawless, and a sinless one will die for the ungodly, in the blood of a covenant, for the salvation of the nations and of Israel, and he will destroy Beliar and those who serve him.'\""
+     "text": "‘The prophecy of heaven about the Lamb of God and Savior of the world will be fulfilled in you: that a spotless one will be handed over for the lawless, and a sinless one will die for the ungodly, in the blood of a covenant, for the salvation of the nations and of Israel, and he will destroy Beliar and those who serve him.’”"
     },
     {
      "v": 20,
-     "text": "\"Have you seen, children, the end of the good man? Imitate his compassion with a good mind, so that you too may wear crowns of glory."
+     "text": "“Have you seen, children, the end of the good man? Imitate his compassion with a good mind, so that you too may wear crowns of glory."
     },
     {
      "v": 21,
@@ -4568,11 +4568,11 @@
     },
     {
      "v": 24,
-     "text": "he defends the one who has the fear of God; he works with the one who loves God; the one who rejects the Most High he warns and turns back, and the one who has the grace of a good spirit he loves as his own soul.\""
+     "text": "he defends the one who has the fear of God; he works with the one who loves God; the one who rejects the Most High he warns and turns back, and the one who has the grace of a good spirit he loves as his own soul.”"
     },
     {
      "v": 25,
-     "text": "\"If you have a good mind, children, even evil people will be at peace with you, the wasteful will respect you and turn to good, and the greedy will not only give up their passion but will even give what they got by greed to the afflicted."
+     "text": "“If you have a good mind, children, even evil people will be at peace with you, the wasteful will respect you and turn to good, and the greedy will not only give up their passion but will even give what they got by greed to the afflicted."
     },
     {
      "v": 26,
@@ -4588,11 +4588,11 @@
     },
     {
      "v": 29,
-     "text": "And if someone betrays a righteous soul, and the righteous one prays and is humbled for a little while, he afterward appears much brighter, as my brother Joseph did.\""
+     "text": "And if someone betrays a righteous soul, and the righteous one prays and is humbled for a little while, he afterward appears much brighter, as my brother Joseph did.”"
     },
     {
      "v": 30,
-     "text": "\"The plan of the good man is not in the hand of the spirit of error, Beliar; for the angel of peace guides his soul."
+     "text": "“The plan of the good man is not in the hand of the spirit of error, Beliar; for the angel of peace guides his soul."
     },
     {
      "v": 31,
@@ -4616,11 +4616,11 @@
     },
     {
      "v": 36,
-     "text": "and cleansing its mind, so that it will not be condemned by God or people. Every work of Beliar is double, and has no simplicity.\""
+     "text": "and cleansing its mind, so that it will not be condemned by God or people. Every work of Beliar is double, and has no simplicity.”"
     },
     {
      "v": 37,
-     "text": "\"So, my children, flee the wickedness of Beliar, because he gives a sword to those who obey him."
+     "text": "“So, my children, flee the wickedness of Beliar, because he gives a sword to those who obey him."
     },
     {
      "v": 38,
@@ -4636,11 +4636,11 @@
     },
     {
      "v": 41,
-     "text": "for forever, those who become like Cain in envy, to the point of hating their brothers, will be judged by the same punishment.\""
+     "text": "for forever, those who become like Cain in envy, to the point of hating their brothers, will be judged by the same punishment.”"
     },
     {
      "v": 42,
-     "text": "\"So you too, my children, run away from wickedness, envy, and hatred of brothers, and cling to goodness and love."
+     "text": "“So you too, my children, run away from wickedness, envy, and hatred of brothers, and cling to goodness and love."
     },
     {
      "v": 43,
@@ -4648,11 +4648,11 @@
     },
     {
      "v": 44,
-     "text": "Just as the sun is not polluted by shining on dung and mud, but instead dries both and drives away the stench, so the pure mind, held among the pollutions of the earth, rather builds up, and is not itself polluted.\""
+     "text": "Just as the sun is not polluted by shining on dung and mud, but instead dries both and drives away the stench, so the pure mind, held among the pollutions of the earth, rather builds up, and is not itself polluted.”"
     },
     {
      "v": 45,
-     "text": "\"I suspect that there will be actions among you that are not good, from the words of Enoch the righteous. You will commit the sexual immorality of Sodom, and be destroyed, all but a few, and renew wantonness with women; and the kingdom of the Lord will not be among you, for he will take it away at once."
+     "text": "“I suspect that there will be actions among you that are not good, from the words of Enoch the righteous. You will commit the sexual immorality of Sodom, and be destroyed, all but a few, and renew wantonness with women; and the kingdom of the Lord will not be among you, for he will take it away at once."
     },
     {
      "v": 46,
@@ -4668,11 +4668,11 @@
     },
     {
      "v": 49,
-     "text": "Having come up out of Hades, he will go up from earth to heaven. I know how humble he will be on earth, and how glorious in heaven.\""
+     "text": "Having come up out of Hades, he will go up from earth to heaven. I know how humble he will be on earth, and how glorious in heaven.”"
     },
     {
      "v": 50,
-     "text": "\"When Joseph was in Egypt, I longed to see his appearance and the shape of his face; and through the prayers of Jacob my father I saw him, awake, in the daytime, just as his whole appearance was."
+     "text": "“When Joseph was in Egypt, I longed to see his appearance and the shape of his face; and through the prayers of Jacob my father I saw him, awake, in the daytime, just as his whole appearance was."
     },
     {
      "v": 51,
@@ -4688,7 +4688,7 @@
     },
     {
      "v": 54,
-     "text": "All these things they left us as an inheritance, saying, 'Keep the commands of God, until the Lord reveals his salvation to all the nations.'"
+     "text": "All these things they left us as an inheritance, saying, ‘Keep the commands of God, until the Lord reveals his salvation to all the nations.’"
     },
     {
      "v": 55,
@@ -4712,11 +4712,11 @@
     },
     {
      "v": 60,
-     "text": "But if you walk in holiness in the sight of the Lord, you will again live in hope in me; and all Israel will be gathered to the Lord.\""
+     "text": "But if you walk in holiness in the sight of the Lord, you will again live in hope in me; and all Israel will be gathered to the Lord.”"
     },
     {
      "v": 61,
-     "text": "\"No longer will I be called a ravening wolf because of your plundering, but a worker of the Lord, handing out food to those who do good."
+     "text": "“No longer will I be called a ravening wolf because of your plundering, but a worker of the Lord, handing out food to those who do good."
     },
     {
      "v": 62,
@@ -4728,15 +4728,15 @@
     },
     {
      "v": 64,
-     "text": "and he will be written about in holy books, both his work and his word; and he will be God's chosen one forever;"
+     "text": "and he will be written about in holy books, both his work and his word; and he will be God’s chosen one forever;"
     },
     {
      "v": 65,
-     "text": "and because of him Jacob my father instructed me, saying, 'He will fill up what is lacking in your tribe.'\""
+     "text": "and because of him Jacob my father instructed me, saying, ‘He will fill up what is lacking in your tribe.’”"
     },
     {
      "v": 66,
-     "text": "When he had finished his words, he said, \"I command you, my children, to carry my bones up from Egypt and bury me in Hebron, near my fathers.\""
+     "text": "When he had finished his words, he said, “I command you, my children, to carry my bones up from Egypt and bury me in Hebron, near my fathers.”"
     },
     {
      "v": 67,
@@ -4755,7 +4755,7 @@
     {
      "m": "a",
      "ref": "12:1",
-     "text": "\"Benjamin\" (Hebrew *Binyamin*) is usually explained as \"son of the right hand\" or \"son of the south\" (Gen 35:18). This book explains it as \"son of days\" (1.6)."
+     "text": "“Benjamin” (Hebrew *Binyamin*) is usually explained as “son of the right hand” or “son of the south” (Gen 35:18). This book explains it as “son of days” (1.6)."
     }
    ],
    "heading": "The Testament of Benjamin, on the Good Mind",

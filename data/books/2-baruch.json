@@ -2,7 +2,7 @@
  "id": "2-baruch",
  "name": "2 Baruch",
  "division": "Pseudepigrapha",
- "sourceNote": "This English text was prepared from the public-domain English edition of R. H. Charles, *The Apocalypse of Baruch* (1896, revised in *The Apocrypha and Pseudepigrapha of the Old Testament*, 1913), which renders the Syriac text of Antonio Ceriani's edition of the Ambrosian manuscript. The wording here is new and not a copy of Charles; his work was used to follow the sense and to keep each verse in his verse division, which most English readers of the book use. Charles's brackets and conjectures are not reproduced. Verses that Charles printed in parallel from the Greek fragment of chapters 12–14 are not given, because they are not part of the Syriac text. The divine name is not written out in the Syriac; God is called \"the Mighty One,\" \"the Most High,\" and \"the Lord,\" and this book keeps those titles. **Date and text.** The story is set in the days of the fall of Jerusalem to the Babylonians in 587/586 BC, but the book was written after the Romans destroyed Jerusalem in AD 70, most likely around AD 100, and it answers the same question as 4 Ezra: why did God let this happen, and what comes next? Most scholars think it was written in Hebrew, translated into Greek, and from Greek into Syriac. The Greek is lost except for one small papyrus fragment from Oxyrhynchus (P.Oxy. 403), which parallels part of chapters 12–14. The whole book survives in one Syriac manuscript of the sixth or seventh century, in Milan. The \"Letter of Baruch\" (chapters 78–86) also circulated separately and is found in other Syriac Bible manuscripts. An Arabic version of the book was made from the Syriac. **Numbering.** The book has 87 chapters, and the verse counts follow Charles. **Canon status.** 2 Baruch is not in the Jewish Bible, nor in the Catholic, Orthodox, or Protestant canons. Its closing Letter was copied in some Syriac Bible manuscripts. **About the book.** In 2 Baruch, the scribe Baruch, son of Neriah, hears from God that Jerusalem will fall, and he watches angels tear down its walls and hide the temple vessels. He mourns, fasts, and receives visions: a forest, a vine, and a spring that overcome a great cedar, the dark and bright waters of twelve ages of history, and the coming of the Messiah, who judges the nations and begins an age without pain. Baruch learns that the righteous will rise with the same bodies and then be changed to shine like angels, that Adam's sin brought death but each person chooses his own reward, and that the law, not the temple, is what keeps Israel alive. He is told to teach the people for forty days and sends one letter to the exiles in Babylon and another by eagle to the nine and a half tribes beyond the Euphrates. The book was meant to comfort Jews after AD 70 and to urge them to keep the law while they wait for God's end.",
+ "sourceNote": "This English text was prepared from the public-domain English edition of R. H. Charles, *The Apocalypse of Baruch* (1896, revised in *The Apocrypha and Pseudepigrapha of the Old Testament*, 1913), which renders the Syriac text of Antonio Ceriani’s edition of the Ambrosian manuscript. The wording here is new and not a copy of Charles; his work was used to follow the sense and to keep each verse in his verse division, which most English readers of the book use. Charles’s brackets and conjectures are not reproduced. Verses that Charles printed in parallel from the Greek fragment of chapters 12–14 are not given, because they are not part of the Syriac text. The divine name is not written out in the Syriac; God is called “the Mighty One,” “the Most High,” and “the Lord,” and this book keeps those titles. **Date and text.** The story is set in the days of the fall of Jerusalem to the Babylonians in 587/586 BC, but the book was written after the Romans destroyed Jerusalem in AD 70, most likely around AD 100, and it answers the same question as 4 Ezra: why did God let this happen, and what comes next? Most scholars think it was written in Hebrew, translated into Greek, and from Greek into Syriac. The Greek is lost except for one small papyrus fragment from Oxyrhynchus (P.Oxy. 403), which parallels part of chapters 12–14. The whole book survives in one Syriac manuscript of the sixth or seventh century, in Milan. The “Letter of Baruch” (chapters 78–86) also circulated separately and is found in other Syriac Bible manuscripts. An Arabic version of the book was made from the Syriac. **Numbering.** The book has 87 chapters, and the verse counts follow Charles. **Canon status.** 2 Baruch is not in the Jewish Bible, nor in the Catholic, Orthodox, or Protestant canons. Its closing Letter was copied in some Syriac Bible manuscripts. **About the book.** In 2 Baruch, the scribe Baruch, son of Neriah, hears from God that Jerusalem will fall, and he watches angels tear down its walls and hide the temple vessels. He mourns, fasts, and receives visions: a forest, a vine, and a spring that overcome a great cedar, the dark and bright waters of twelve ages of history, and the coming of the Messiah, who judges the nations and begins an age without pain. Baruch learns that the righteous will rise with the same bodies and then be changed to shine like angels, that Adam’s sin brought death but each person chooses his own reward, and that the law, not the temple, is what keeps Israel alive. He is told to teach the people for forty days and sends one letter to the exiles in Babylon and another by eagle to the nine and a half tribes beyond the Euphrates. The book was meant to comfort Jews after AD 70 and to urge them to keep the law while they wait for God’s end.",
  "chapters": [
   {
    "n": 1,
@@ -16,7 +16,7 @@
     },
     {
      "v": 2,
-     "text": "\"Do you see everything these people are doing to Me? The wrongs of these two tribes that were left are worse than the wrongs of the ten tribes that were carried off into exile."
+     "text": "“Do you see everything these people are doing to Me? The wrongs of these two tribes that were left are worse than the wrongs of the ten tribes that were carried off into exile."
     },
     {
      "v": 3,
@@ -24,29 +24,29 @@
     },
     {
      "v": 4,
-     "text": "So I am bringing disaster on this city. For a time it will be taken out of My sight, and I will scatter this people among the nations so that they may do those nations good. My people will be disciplined, and a time will come when they will long for the good days they once had.\""
+     "text": "So I am bringing disaster on this city. For a time it will be taken out of My sight, and I will scatter this people among the nations so that they may do those nations good. My people will be disciplined, and a time will come when they will long for the good days they once had.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "1:1",
-     "text": "\"Jeconiah\" is another name for King Jehoiachin; the Hebrew form *Yekonyah* means \"Yahweh will establish.\" He was taken to Babylon in 597 BC, and the book dates its opening scene by his reign, though the story itself is set later, at the fall of Jerusalem in 587/586 BC."
+     "text": "“Jeconiah” is another name for King Jehoiachin; the Hebrew form *Yekonyah* means “Yahweh will establish.” He was taken to Babylon in 597 BC, and the book dates its opening scene by his reign, though the story itself is set later, at the fall of Jerusalem in 587/586 BC."
     },
     {
      "m": "b",
      "ref": "1:1",
-     "text": "\"Judah\" (Hebrew *Yehudah*) is linked in Genesis 29 with \"praise.\" It names the southern kingdom."
+     "text": "“Judah” (Hebrew *Yehudah*) is linked in Genesis 29 with “praise.” It names the southern kingdom."
     },
     {
      "m": "c",
      "ref": "1:1",
-     "text": "\"Baruch\" (Hebrew *Barukh*) means \"blessed.\" He is the scribe who wrote down Jeremiah's words in the book of Jeremiah."
+     "text": "“Baruch” (Hebrew *Barukh*) means “blessed.” He is the scribe who wrote down Jeremiah’s words in the book of Jeremiah."
     },
     {
      "m": "d",
      "ref": "1:1",
-     "text": "\"Neriah\" (Hebrew *Neriyyah*) means \"lamp of Yahweh.\""
+     "text": "“Neriah” (Hebrew *Neriyyah*) means “lamp of Yahweh.”"
     }
    ],
    "heading": "The coming destruction of Jerusalem announced to Baruch"
@@ -59,18 +59,18 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I have told you this so that you can tell Jeremiah{a} and everyone like you to leave this city."
+     "text": "“I have told you this so that you can tell Jeremiah{a} and everyone like you to leave this city."
     },
     {
      "v": 2,
-     "text": "For your works are like a solid pillar under this city, and your prayers like a strong wall around it.\""
+     "text": "For your works are like a solid pillar under this city, and your prayers like a strong wall around it.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "2:1",
-     "text": "\"Jeremiah\" (Hebrew *Yirmeyahu*) is traditionally explained as \"Yahweh raises up\" or \"Yahweh loosens.\""
+     "text": "“Jeremiah” (Hebrew *Yirmeyahu*) is traditionally explained as “Yahweh raises up” or “Yahweh loosens.”"
     }
    ]
   },
@@ -82,7 +82,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"O Lord, my Lord, did I come into the world only to watch my mother{a} suffer? No, my Lord!"
+     "text": "I answered, “O Lord, my Lord, did I come into the world only to watch my mother{a} suffer? No, my Lord!"
     },
     {
      "v": 2,
@@ -102,19 +102,19 @@
     },
     {
      "v": 6,
-     "text": "Who will sing Your praises? To whom will the teaching of Your law be explained? Will the world go back to what it was before creation, and the age return to the silence of the beginning? Will the whole multitude of souls be swept away and the human race never be named again? And where is everything You promised about us?\""
+     "text": "Who will sing Your praises? To whom will the teaching of Your law be explained? Will the world go back to what it was before creation, and the age return to the silence of the beginning? Will the whole multitude of souls be swept away and the human race never be named again? And where is everything You promised about us?”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "3:1",
-     "text": "The city of Jerusalem, called here \"my mother,\" as Zion is often pictured as a mother in the Hebrew prophets."
+     "text": "The city of Jerusalem, called here “my mother,” as Zion is often pictured as a mother in the Hebrew prophets."
     },
     {
      "m": "b",
      "ref": "3:5",
-     "text": "\"Israel\" (Hebrew *Yisrael*) is explained in Genesis 32 as \"he struggles with God.\""
+     "text": "“Israel” (Hebrew *Yisrael*) is explained in Genesis 32 as “he struggles with God.”"
     }
    ]
   },
@@ -126,11 +126,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "The Lord said to me, \"This city will be handed over for a time. The people will be disciplined for a time. But the world will not be given over to oblivion."
+     "text": "The Lord said to me, “This city will be handed over for a time. The people will be disciplined for a time. But the world will not be given over to oblivion."
     },
     {
      "v": 2,
-     "text": "Do you think this is the city of which I said, 'I have carved you on the palms of My hands'?"
+     "text": "Do you think this is the city of which I said, ‘I have carved you on the palms of My hands’?"
     },
     {
      "v": 3,
@@ -150,24 +150,24 @@
     },
     {
      "v": 7,
-     "text": "So go, and do what I have commanded you.\""
+     "text": "So go, and do what I have commanded you.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "4:3",
-     "text": "\"Adam\" (Hebrew *adam*) means \"human being,\" from the word for the ground, *adamah*."
+     "text": "“Adam” (Hebrew *adam*) means “human being,” from the word for the ground, *adamah*."
     },
     {
      "m": "b",
      "ref": "4:4",
-     "text": "\"Abraham\" (Hebrew *Avraham*) is explained in Genesis 17 as \"father of a multitude.\""
+     "text": "“Abraham” (Hebrew *Avraham*) is explained in Genesis 17 as “father of a multitude.”"
     },
     {
      "m": "c",
      "ref": "4:5",
-     "text": "\"Moses\" (Hebrew *Mosheh*) is linked in Exodus 2 with \"drawing out.\""
+     "text": "“Moses” (Hebrew *Mosheh*) is linked in Exodus 2 with “drawing out.”"
     }
    ],
    "heading": "The heavenly Jerusalem"
@@ -180,19 +180,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"So I am to grieve over Zion{a}. Your enemies will come to this place and defile Your sanctuary, carry Your inheritance off into captivity, and lord it over those You have loved. Then they will go back to the home of their idols and boast in front of them. What will You do for Your great name?\""
+     "text": "I answered, “So I am to grieve over Zion{a}. Your enemies will come to this place and defile Your sanctuary, carry Your inheritance off into captivity, and lord it over those You have loved. Then they will go back to the home of their idols and boast in front of them. What will You do for Your great name?”"
     },
     {
      "v": 2,
-     "text": "The Lord said to me, \"My name and My glory last forever, and My judgment will take its own course in its own time."
+     "text": "The Lord said to me, “My name and My glory last forever, and My judgment will take its own course in its own time."
     },
     {
      "v": 3,
-     "text": "You will see with your own eyes that the enemy will not overthrow Zion or burn Jerusalem{b}. They will only serve for a while as the Judge's instruments."
+     "text": "You will see with your own eyes that the enemy will not overthrow Zion or burn Jerusalem{b}. They will only serve for a while as the Judge’s instruments."
     },
     {
      "v": 4,
-     "text": "But go and do everything I have told you.\""
+     "text": "But go and do everything I have told you.”"
     },
     {
      "v": 5,
@@ -211,40 +211,40 @@
     {
      "m": "a",
      "ref": "5:1",
-     "text": "\"Zion\" (Hebrew *Tsiyyon*) is the hill of Jerusalem on which the temple stood, and a poetic name for the city and its people."
+     "text": "“Zion” (Hebrew *Tsiyyon*) is the hill of Jerusalem on which the temple stood, and a poetic name for the city and its people."
     },
     {
      "m": "b",
      "ref": "5:3",
-     "text": "\"Jerusalem\" (Hebrew *Yerushalayim*) is often explained as \"foundation of peace\" or \"city of peace.\""
+     "text": "“Jerusalem” (Hebrew *Yerushalayim*) is often explained as “foundation of peace” or “city of peace.”"
     },
     {
      "m": "c",
      "ref": "5:5",
-     "text": "\"Adu\" appears only here and may be a copyist's form of another name; it is not found in the Bible. It is kept as written."
+     "text": "“Adu” appears only here and may be a copyist’s form of another name; it is not found in the Bible. It is kept as written."
     },
     {
      "m": "d",
      "ref": "5:5",
-     "text": "\"Seraiah\" (Hebrew *Serayah*) means \"Yahweh has striven\" or \"Yahweh rules.\""
+     "text": "“Seraiah” (Hebrew *Serayah*) means “Yahweh has striven” or “Yahweh rules.”"
     },
     {
      "m": "e",
      "ref": "5:5",
-     "text": "\"Jabish\" is not a name known from the Bible; the Hebrew *Yavesh* is related to \"dry,\" as in Jabesh-gilead. It is kept as written."
+     "text": "“Jabish” is not a name known from the Bible; the Hebrew *Yavesh* is related to “dry,” as in Jabesh-gilead. It is kept as written."
     },
     {
      "m": "f",
      "ref": "5:5",
-     "text": "\"Gedaliah\" (Hebrew *Gedalyahu*) means \"Yahweh is great.\" A Gedaliah was appointed governor of Judah after the fall of Jerusalem (Jeremiah 40)."
+     "text": "“Gedaliah” (Hebrew *Gedalyahu*) means “Yahweh is great.” A Gedaliah was appointed governor of Judah after the fall of Jerusalem (Jeremiah 40)."
     },
     {
      "m": "g",
      "ref": "5:5",
-     "text": "The \"Kidron\" (Hebrew *Qidron*), probably \"dark\" or \"turbid,\" is the valley east of Jerusalem between the city and the Mount of Olives."
+     "text": "The “Kidron” (Hebrew *Qidron*), probably “dark” or “turbid,” is the valley east of Jerusalem between the city and the Mount of Olives."
     }
    ],
-   "heading": "Baruch's complaint, and God's reassurance"
+   "heading": "Baruch’s complaint, and God’s reassurance"
   },
   {
    "n": 6,
@@ -270,11 +270,11 @@
     },
     {
      "v": 5,
-     "text": "Another angel began to come down from heaven. He said to them, \"Hold your lamps, and do not light them until I tell you."
+     "text": "Another angel began to come down from heaven. He said to them, “Hold your lamps, and do not light them until I tell you."
     },
     {
      "v": 6,
-     "text": "I have been sent first, to speak a word to the earth and to put into it what the Lord, the Most High, has ordered me to give.\""
+     "text": "I have been sent first, to speak a word to the earth and to put into it what the Lord, the Most High, has ordered me to give.”"
     },
     {
      "v": 7,
@@ -282,11 +282,11 @@
     },
     {
      "v": 8,
-     "text": "He called to the earth in a loud voice, \"Earth, earth, earth, hear the word of the mighty God! Receive what I entrust to you, and guard it until the last times, so that when you are ordered you may give it back, and strangers may not take possession of it."
+     "text": "He called to the earth in a loud voice, “Earth, earth, earth, hear the word of the mighty God! Receive what I entrust to you, and guard it until the last times, so that when you are ordered you may give it back, and strangers may not take possession of it."
     },
     {
      "v": 9,
-     "text": "For the time is coming when Jerusalem too will be handed over for a while, until it is said that she is restored forever.\""
+     "text": "For the time is coming when Jerusalem too will be handed over for a while, until it is said that she is restored forever.”"
     },
     {
      "v": 10,
@@ -297,7 +297,7 @@
     {
      "m": "a",
      "ref": "6:1",
-     "text": "\"Chaldeans\" (Hebrew *Kasdim*) is the Bible's name for the Babylonians."
+     "text": "“Chaldeans” (Hebrew *Kasdim*) is the Bible’s name for the Babylonians."
     }
    ],
    "heading": "The Chaldeans invade; the sacred vessels are hidden"
@@ -310,7 +310,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "After this I heard that angel say to the angels holding the lamps, \"Now destroy the wall and throw it down to its foundations, so that the enemy cannot boast and say, 'We have thrown down the wall of Zion and burned the place of the mighty God.'\""
+     "text": "After this I heard that angel say to the angels holding the lamps, “Now destroy the wall and throw it down to its foundations, so that the enemy cannot boast and say, ‘We have thrown down the wall of Zion and burned the place of the mighty God.’”"
     },
     {
      "v": 2,
@@ -331,7 +331,7 @@
     },
     {
      "v": 2,
-     "text": "\"Come in, you enemies; come, you adversaries! The One who guarded the house has left it.\""
+     "text": "“Come in, you enemies; come, you adversaries! The One who guarded the house has left it.”"
     },
     {
      "v": 3,
@@ -346,12 +346,12 @@
     {
      "m": "a",
      "ref": "8:4",
-     "text": "\"Zedekiah\" (Hebrew *Tsidqiyyahu*) means \"Yahweh is my righteousness.\" He was the last king of Judah."
+     "text": "“Zedekiah” (Hebrew *Tsidqiyyahu*) means “Yahweh is my righteousness.” He was the last king of Judah."
     },
     {
      "m": "b",
      "ref": "8:4",
-     "text": "\"Babylon\" (Hebrew *Bavel*) is linked in Genesis 11 with \"confusion,\" from the verb *balal*. The Babylonians themselves understood it as \"gate of God.\""
+     "text": "“Babylon” (Hebrew *Bavel*) is linked in Genesis 11 with “confusion,” from the verb *balal*. The Babylonians themselves understood it as “gate of God.”"
     }
    ]
   },
@@ -385,7 +385,7 @@
     },
     {
      "v": 2,
-     "text": "\"Tell Jeremiah to go and support the people in their captivity in Babylon. But you stay here among the ruins of Zion, and after these days I will show you what will happen at the end of days.\""
+     "text": "“Tell Jeremiah to go and support the people in their captivity in Babylon. But you stay here among the ruins of Zion, and after these days I will show you what will happen at the end of days.”"
     },
     {
      "v": 3,
@@ -401,11 +401,11 @@
     },
     {
      "v": 6,
-     "text": "\"Blessed is the one who was never born, or the one who was born and has died."
+     "text": "“Blessed is the one who was never born, or the one who was born and has died."
     },
     {
      "v": 7,
-     "text": "But for us who live, woe! We see Zion's sufferings and what has happened to Jerusalem."
+     "text": "But for us who live, woe! We see Zion’s sufferings and what has happened to Jerusalem."
     },
     {
      "v": 8,
@@ -449,7 +449,7 @@
     },
     {
      "v": 18,
-     "text": "Priests, take the keys of the sanctuary and throw them high into heaven. Give them to the Lord and say, \"Guard Your own house, for we have turned out to be false stewards.\""
+     "text": "Priests, take the keys of the sanctuary and throw them high into heaven. Give them to the Lord and say, “Guard Your own house, for we have turned out to be false stewards.”"
     },
     {
      "v": 19,
@@ -460,17 +460,17 @@
     {
      "m": "a",
      "ref": "10:8",
-     "text": "The Syriac has \"Lilin,\" feminine night-creatures of Jewish folklore, related to the Hebrew *lilith* (\"night creature\") in Isaiah 34:14."
+     "text": "The Syriac has “Lilin,” feminine night-creatures of Jewish folklore, related to the Hebrew *lilith* (“night creature”) in Isaiah 34:14."
     },
     {
      "m": "b",
      "ref": "10:8",
-     "text": "\"Shedim\" (Hebrew *shedim*) are demons or spirits; the word occurs in Deuteronomy 32:17 and Psalm 106:37."
+     "text": "“Shedim” (Hebrew *shedim*) are demons or spirits; the word occurs in Deuteronomy 32:17 and Psalm 106:37."
     },
     {
      "m": "c",
      "ref": "10:19",
-     "text": "\"Ophir\" is a land famous for its gold (1 Kings 9); its location is unknown, and some place it in southern Arabia, East Africa, or India. The name is kept as written."
+     "text": "“Ophir” is a land famous for its gold (1 Kings 9); its location is unknown, and some place it in southern Arabia, East Africa, or India. The name is kept as written."
     }
    ]
   },
@@ -482,7 +482,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"I also say this against you, Babylon. If you had prospered while Zion lived in her glory, our grief would still have been great, to see you made equal to Zion."
+     "text": "“I also say this against you, Babylon. If you had prospered while Zion lived in her glory, our grief would still have been great, to see you made equal to Zion."
     },
     {
      "v": 2,
@@ -506,14 +506,14 @@
     },
     {
      "v": 7,
-     "text": "'You are more blessed than we who live.'\""
+     "text": "‘You are more blessed than we who live.’”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "11:6",
-     "text": "\"Sheol\" is the Hebrew name for the place of the dead."
+     "text": "“Sheol” is the Hebrew name for the place of the dead."
     }
    ]
   },
@@ -525,7 +525,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"But I will say what I think, and I will speak against you, land, that now prospers."
+     "text": "“But I will say what I think, and I will speak against you, land, that now prospers."
     },
     {
      "v": 2,
@@ -537,7 +537,7 @@
     },
     {
      "v": 4,
-     "text": "For in its own season the wrath of God will surely wake against you, though now, in His patience, it is held back as if by reins.\""
+     "text": "For in its own season the wrath of God will surely wake against you, though now, in His patience, it is held back as if by reins.”"
     },
     {
      "v": 5,
@@ -558,7 +558,7 @@
     },
     {
      "v": 2,
-     "text": "\"Stand on your feet, Baruch, and hear the word of the mighty God."
+     "text": "“Stand on your feet, Baruch, and hear the word of the mighty God."
     },
     {
      "v": 3,
@@ -570,7 +570,7 @@
     },
     {
      "v": 5,
-     "text": "'Why has the mighty God brought this punishment on us?' you and those like you who have seen this disaster will tell them, 'This is the evil, and this is the punishment, that is coming on you and your people at its appointed time, so that the nations may be thoroughly struck down.'"
+     "text": "‘Why has the mighty God brought this punishment on us?’ you and those like you who have seen this disaster will tell them, ‘This is the evil, and this is the punishment, that is coming on you and your people at its appointed time, so that the nations may be thoroughly struck down.’"
     },
     {
      "v": 6,
@@ -582,7 +582,7 @@
     },
     {
      "v": 8,
-     "text": "'How long?' you will tell them, 'You who drank the strained wine, now drink its dregs as well. That is the judgment of the Most High, who shows no favoritism.'"
+     "text": "‘How long?’ you will tell them, ‘You who drank the strained wine, now drink its dregs as well. That is the judgment of the Most High, who shows no favoritism.’"
     },
     {
      "v": 9,
@@ -598,7 +598,7 @@
     },
     {
      "v": 12,
-     "text": "For I have always done you good, and you have always been ungrateful for it.\""
+     "text": "For I have always done you good, and you have always been ungrateful for it.”"
     }
    ],
    "notes": [],
@@ -612,7 +612,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"You have shown me how the times will run and what will come after them, and You have told me that the punishment You have spoken of will fall on the nations."
+     "text": "I answered, “You have shown me how the times will run and what will come after them, and You have told me that the punishment You have spoken of will fall on the nations."
     },
     {
      "v": 2,
@@ -628,7 +628,7 @@
     },
     {
      "v": 5,
-     "text": "What have they gained who knew You and did not walk in emptiness like the other nations, who never said to the dead, 'Give us life,' but always feared You and never left Your ways?"
+     "text": "What have they gained who knew You and did not walk in emptiness like the other nations, who never said to the dead, ‘Give us life,’ but always feared You and never left Your ways?"
     },
     {
      "v": 6,
@@ -636,7 +636,7 @@
     },
     {
      "v": 7,
-     "text": "If others did evil, it was for Zion's sake that she should have been forgiven, on account of the works of those who did good, and she should not have been overwhelmed on account of the works of those who did wrong."
+     "text": "If others did evil, it was for Zion’s sake that she should have been forgiven, on account of the works of those who did good, and she should not have been overwhelmed on account of the works of those who did wrong."
     },
     {
      "v": 8,
@@ -684,11 +684,11 @@
     },
     {
      "v": 19,
-     "text": "Now I see that the world made for our sake is still here, but we, for whom it was made, are going away.\""
+     "text": "Now I see that the world made for our sake is still here, but we, for whom it was made, are going away.”"
     }
    ],
    "notes": [],
-   "heading": "Why the righteous perish; God's answer"
+   "heading": "Why the righteous perish; God’s answer"
   },
   {
    "n": 15,
@@ -698,7 +698,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "The Lord answered me, \"You are right to be amazed at the departure of human beings, but you have not judged well the evils that come on those who sin."
+     "text": "The Lord answered me, “You are right to be amazed at the departure of human beings, but you have not judged well the evils that come on those who sin."
     },
     {
      "v": 2,
@@ -726,7 +726,7 @@
     },
     {
      "v": 8,
-     "text": "For to them this world is a struggle and a labor with much trouble, and the world that is coming is a crown with great glory.\""
+     "text": "For to them this world is a struggle and a labor with much trouble, and the world that is coming is a crown with great glory.”"
     }
    ],
    "notes": []
@@ -739,7 +739,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"O Lord, my Lord, the years of this time are few and bad. Who can win in his short time what has no measure?\""
+     "text": "I answered, “O Lord, my Lord, the years of this time are few and bad. Who can win in his short time what has no measure?”"
     }
    ],
    "notes": []
@@ -752,18 +752,18 @@
    "verses": [
     {
      "v": 1,
-     "text": "The Lord answered me, \"With the Most High, time and a few years are not counted."
+     "text": "The Lord answered me, “With the Most High, time and a few years are not counted."
     },
     {
      "v": 2,
-     "text": "What good did it do Adam that he lived nine hundred and thirty years and still broke what he was told? His long life did not help him. It brought death and cut short the years of all who were born from him. And what did Moses lose by living only a hundred and twenty years? Because he stayed under the One who formed him, he brought the law to the seed of Jacob{a} and lit a lamp for the nation of Israel.\""
+     "text": "What good did it do Adam that he lived nine hundred and thirty years and still broke what he was told? His long life did not help him. It brought death and cut short the years of all who were born from him. And what did Moses lose by living only a hundred and twenty years? Because he stayed under the One who formed him, he brought the law to the seed of Jacob{a} and lit a lamp for the nation of Israel.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "17:2",
-     "text": "\"Jacob\" (Hebrew *Yaaqov*) is explained as \"he grasps the heel\" or \"he supplants.\""
+     "text": "“Jacob” (Hebrew *Yaaqov*) is explained as “he grasps the heel” or “he supplants.”"
     }
    ]
   },
@@ -775,7 +775,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"The one who lit the lamp took from the light, and few have followed him. But the many he lit it for took from the darkness of Adam and did not rejoice in the light of the lamp.\""
+     "text": "I answered, “The one who lit the lamp took from the light, and few have followed him. But the many he lit it for took from the darkness of Adam and did not rejoice in the light of the lamp.”"
     }
    ],
    "notes": []
@@ -788,7 +788,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "He answered me, \"At that time He set a covenant before them and said, 'See, I have put before you life and death.' And He called heaven and earth to witness against them."
+     "text": "He answered me, “At that time He set a covenant before them and said, ‘See, I have put before you life and death.’ And He called heaven and earth to witness against them."
     },
     {
      "v": 2,
@@ -816,7 +816,7 @@
     },
     {
      "v": 8,
-     "text": "Listen again. Suppose each person did well for all that time, from the day death was decreed against those who disobey, and then was destroyed at the end. Everything would have been in vain.\""
+     "text": "Listen again. Suppose each person did well for all that time, from the day death was decreed against those who disobey, and then was destroyed at the end. Everything would have been in vain.”"
     }
    ],
    "notes": []
@@ -829,7 +829,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"So see, the days are coming, and the times will move faster than before, and the seasons will hurry along faster than those that are past, and the years will go by faster than the present ones."
+     "text": "“So see, the days are coming, and the times will move faster than before, and the seasons will hurry along faster than those that are past, and the years will go by faster than the present ones."
     },
     {
      "v": 2,
@@ -849,7 +849,7 @@
     },
     {
      "v": 6,
-     "text": "After that, come to that place, and I will reveal Myself to you and speak true things with you. I will give you commands about how the times run, for they are coming and will not wait.\""
+     "text": "After that, come to that place, and I will reveal Myself to you and speak true things with you. I will give you commands about how the times run, for they are coming and will not wait.”"
     }
    ],
    "notes": [],
@@ -875,7 +875,7 @@
     },
     {
      "v": 4,
-     "text": "\"You who made the earth, hear me! You fixed the sky by a word and set the height of heaven firm by Your spirit. From the beginning You called what did not yet exist, and it obeys You."
+     "text": "“You who made the earth, hear me! You fixed the sky by a word and set the height of heaven firm by Your spirit. From the beginning You called what did not yet exist, and it obeys You."
     },
     {
      "v": 5,
@@ -943,7 +943,7 @@
     },
     {
      "v": 21,
-     "text": "Show those who do not know that all that has happened to us and to our city until now has been within the patience of Your power, because for Your name's sake You called us a beloved people."
+     "text": "Show those who do not know that all that has happened to us and to our city until now has been within the patience of Your power, because for Your name’s sake You called us a beloved people."
     },
     {
      "v": 22,
@@ -959,7 +959,7 @@
     },
     {
      "v": 25,
-     "text": "Now show Your glory quickly, and do not put off what You promised.\""
+     "text": "Now show Your glory quickly, and do not put off what You promised.”"
     },
     {
      "v": 26,
@@ -970,10 +970,10 @@
     {
      "m": "a",
      "ref": "21:24",
-     "text": "\"Isaac\" (Hebrew *Yitschaq*) means \"he laughs.\""
+     "text": "“Isaac” (Hebrew *Yitschaq*) means “he laughs.”"
     }
    ],
-   "heading": "Baruch's prayer, and God's answer"
+   "heading": "Baruch’s prayer, and God’s answer"
   },
   {
    "n": 22,
@@ -987,7 +987,7 @@
     },
     {
      "v": 2,
-     "text": "\"Baruch, Baruch, why are you troubled?"
+     "text": "“Baruch, Baruch, why are you troubled?"
     },
     {
      "v": 3,
@@ -1011,7 +1011,7 @@
     },
     {
      "v": 8,
-     "text": "If someone builds a house and does not roof it and finish it, can it be called a house? Tell Me that first.\""
+     "text": "If someone builds a house and does not roof it and finish it, can it be called a house? Tell Me that first.”"
     }
    ],
    "notes": []
@@ -1024,11 +1024,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"Surely not, O Lord, my Lord.\""
+     "text": "I answered, “Surely not, O Lord, my Lord.”"
     },
     {
      "v": 2,
-     "text": "He answered me, \"Then why are you troubled about what you do not know, and uneasy about things of which you are ignorant?"
+     "text": "He answered me, “Then why are you troubled about what you do not know, and uneasy about things of which you are ignorant?"
     },
     {
      "v": 3,
@@ -1048,7 +1048,7 @@
     },
     {
      "v": 7,
-     "text": "For My redemption has truly come near; it is not far off as it was before.\""
+     "text": "For My redemption has truly come near; it is not far off as it was before.”"
     }
    ],
    "notes": []
@@ -1061,19 +1061,19 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"See, the days are coming when the books will be opened in which the sins of all who have sinned are written, and also the storehouses in which the righteousness of all who have been righteous in creation is gathered."
+     "text": "“See, the days are coming when the books will be opened in which the sins of all who have sinned are written, and also the storehouses in which the righteousness of all who have been righteous in creation is gathered."
     },
     {
      "v": 2,
-     "text": "At that time you will see, and many with you, the patience of the Most High, which has lasted through all generations, patient toward all who are born, those who sin and those who are righteous alike.\""
+     "text": "At that time you will see, and many with you, the patience of the Most High, which has lasted through all generations, patient toward all who are born, those who sin and those who are righteous alike.”"
     },
     {
      "v": 3,
-     "text": "I answered, \"But, Lord, no one knows the number of what has passed or of what is still to come."
+     "text": "I answered, “But, Lord, no one knows the number of what has passed or of what is still to come."
     },
     {
      "v": 4,
-     "text": "I know indeed what has happened to us, but what will happen to our enemies I do not know, or when You will visit Your works.\""
+     "text": "I know indeed what has happened to us, but what will happen to our enemies I do not know, or when You will visit Your works.”"
     }
    ],
    "notes": [],
@@ -1087,7 +1087,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "He answered me, \"You too will be kept until that time, until the sign that the Most High will give to the people of the earth at the end of days."
+     "text": "He answered me, “You too will be kept until that time, until the sign that the Most High will give to the people of the earth at the end of days."
     },
     {
      "v": 2,
@@ -1099,7 +1099,7 @@
     },
     {
      "v": 4,
-     "text": "they will say in their thoughts, because of all their suffering, 'The Mighty One no longer remembers the earth.' Yes, when they give up hope, then the time will wake.\""
+     "text": "they will say in their thoughts, because of all their suffering, ‘The Mighty One no longer remembers the earth.’ Yes, when they give up hope, then the time will wake.”"
     }
    ],
    "notes": [],
@@ -1113,7 +1113,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"Will that tribulation last a long time? Will that hardship go on for many years?\""
+     "text": "I answered, “Will that tribulation last a long time? Will that hardship go on for many years?”"
     }
    ],
    "notes": []
@@ -1126,7 +1126,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "He answered me, \"That time is divided into twelve parts, and each is kept for what is assigned to it."
+     "text": "He answered me, “That time is divided into twelve parts, and each is kept for what is assigned to it."
     },
     {
      "v": 2,
@@ -1182,7 +1182,7 @@
     },
     {
      "v": 15,
-     "text": "Some will leave out part of their own and take from others, and some will finish their own and others' as well, so that those living on the earth in those days will not understand that this is the end of the times.\""
+     "text": "Some will leave out part of their own and take from others, and some will finish their own and others’ as well, so that those living on the earth in those days will not understand that this is the end of the times.”"
     }
    ],
    "notes": [
@@ -1202,15 +1202,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Even so, whoever understands will be wise then."
+     "text": "“Even so, whoever understands will be wise then."
     },
     {
      "v": 2,
-     "text": "The measure and count of that time is two parts of a week of seven weeks.\""
+     "text": "The measure and count of that time is two parts of a week of seven weeks.”"
     },
     {
      "v": 3,
-     "text": "I answered, \"It is good for a man to come and see, but better that he not come, lest he fall."
+     "text": "I answered, “It is good for a man to come and see, but better that he not come, lest he fall."
     },
     {
      "v": 4,
@@ -1226,7 +1226,7 @@
     },
     {
      "v": 7,
-     "text": "Will these things take place in one place, or in one part of the earth, or will the whole earth experience them?\""
+     "text": "Will these things take place in one place, or in one part of the earth, or will the whole earth experience them?”"
     }
    ],
    "notes": []
@@ -1239,7 +1239,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "He answered me, \"Whatever will happen then will happen to the whole earth, so all who live will experience it."
+     "text": "He answered me, “Whatever will happen then will happen to the whole earth, so all who live will experience it."
     },
     {
      "v": 2,
@@ -1267,19 +1267,19 @@
     },
     {
      "v": 8,
-     "text": "At that same time the storehouse of manna will again come down from on high, and they will eat of it in those years, because these are the ones who have come to the end of the age.\""
+     "text": "At that same time the storehouse of manna will again come down from on high, and they will eat of it in those years, because these are the ones who have come to the end of the age.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "29:4",
-     "text": "\"Behemoth\" (Hebrew *behemot*) is the great land beast of Job 40:15-24."
+     "text": "“Behemoth” (Hebrew *behemot*) is the great land beast of Job 40:15-24."
     },
     {
      "m": "b",
      "ref": "29:4",
-     "text": "\"Leviathan\" (Hebrew *livyatan*) is the sea monster of Job 41 and Psalm 74:14."
+     "text": "“Leviathan” (Hebrew *livyatan*) is the sea monster of Job 41 and Psalm 74:14."
     },
     {
      "m": "c",
@@ -1296,7 +1296,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"After this, when the time of the Messiah's coming is fulfilled, he will return in glory."
+     "text": "“After this, when the time of the Messiah’s coming is fulfilled, he will return in glory."
     },
     {
      "v": 2,
@@ -1312,7 +1312,7 @@
     },
     {
      "v": 5,
-     "text": "For they will know that their torment has come and their ruin has arrived.\""
+     "text": "For they will know that their torment has come and their ruin has arrived.”"
     }
    ],
    "notes": [],
@@ -1326,7 +1326,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "After this I went to the people and said to them, \"Gather all your elders to me, and I will speak words to them.\""
+     "text": "After this I went to the people and said to them, “Gather all your elders to me, and I will speak words to them.”"
     },
     {
      "v": 2,
@@ -1334,7 +1334,7 @@
     },
     {
      "v": 3,
-     "text": "I answered and said to them, \"Hear, Israel, and I will speak to you; listen, seed of Jacob, and I will teach you."
+     "text": "I answered and said to them, “Hear, Israel, and I will speak to you; listen, seed of Jacob, and I will teach you."
     },
     {
      "v": 4,
@@ -1342,7 +1342,7 @@
     },
     {
      "v": 5,
-     "text": "For the days are coming when everything that exists will become prey to corruption, and will be as though it had never been.\""
+     "text": "For the days are coming when everything that exists will become prey to corruption, and will be as though it had never been.”"
     }
    ],
    "notes": [],
@@ -1356,7 +1356,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"But if you prepare your hearts, so that you sow the fruits of the law in them, it will protect you in that time when the Mighty One is going to shake the whole creation."
+     "text": "“But if you prepare your hearts, so that you sow the fruits of the law in them, it will protect you in that time when the Mighty One is going to shake the whole creation."
     },
     {
      "v": 2,
@@ -1380,7 +1380,7 @@
     },
     {
      "v": 7,
-     "text": "Now do not come near me for a few days, and do not look for me until I come to you.\""
+     "text": "Now do not come near me for a few days, and do not look for me until I come to you.”"
     },
     {
      "v": 8,
@@ -1388,7 +1388,7 @@
     },
     {
      "v": 9,
-     "text": "\"Where are you going, Baruch? Are you abandoning us like a father who abandons his orphaned children and leaves them?\""
+     "text": "“Where are you going, Baruch? Are you abandoning us like a father who abandons his orphaned children and leaves them?”"
     }
    ],
    "notes": []
@@ -1401,15 +1401,15 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Are these the orders your companion Jeremiah the prophet gave you when he said to you,"
+     "text": "“Are these the orders your companion Jeremiah the prophet gave you when he said to you,"
     },
     {
      "v": 2,
-     "text": "'Look after these people until I go and prepare the rest of the brothers in Babylon, who have been sentenced to be taken into captivity'?"
+     "text": "‘Look after these people until I go and prepare the rest of the brothers in Babylon, who have been sentenced to be taken into captivity’?"
     },
     {
      "v": 3,
-     "text": "Now if you also leave us, it would be better for us all to die before you, and then for you to leave us.\""
+     "text": "Now if you also leave us, it would be better for us all to die before you, and then for you to leave us.”"
     }
    ],
    "notes": []
@@ -1422,11 +1422,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered the people, \"Far be it from me to leave you or withdraw from you. I will only go to the Holy of Holies to ask the Mighty One about you and about Zion, in case I may receive more light. After this I will come back to you.\""
+     "text": "I answered the people, “Far be it from me to leave you or withdraw from you. I will only go to the Holy of Holies to ask the Mighty One about you and about Zion, in case I may receive more light. After this I will come back to you.”"
     }
    ],
    "notes": [],
-   "heading": "Baruch's lament"
+   "heading": "Baruch’s lament"
   },
   {
    "n": 35,
@@ -1440,7 +1440,7 @@
     },
     {
      "v": 2,
-     "text": "\"If only my eyes were springs and my eyelids a fountain of tears."
+     "text": "“If only my eyes were springs and my eyelids a fountain of tears."
     },
     {
      "v": 3,
@@ -1452,7 +1452,7 @@
     },
     {
      "v": 5,
-     "text": "Now our pride has been turned to dust, and the desire of our soul to sand.\""
+     "text": "Now our pride has been turned to dust, and the desire of our soul to sand.”"
     }
    ],
    "notes": []
@@ -1489,7 +1489,7 @@
     },
     {
      "v": 7,
-     "text": "I looked, and the vine opened its mouth and spoke to the cedar. It said, \"Are you not the cedar that was left from the forest of wickedness, through whom wickedness lasted and was done all those years, and goodness never?"
+     "text": "I looked, and the vine opened its mouth and spoke to the cedar. It said, “Are you not the cedar that was left from the forest of wickedness, through whom wickedness lasted and was done all those years, and goodness never?"
     },
     {
      "v": 8,
@@ -1505,7 +1505,7 @@
     },
     {
      "v": 11,
-     "text": "Now lie down in anguish and rest in torment until your last time comes, when you will come again and be tormented still more.\""
+     "text": "Now lie down in anguish and rest in torment until your last time comes, when you will come again and be tormented still more.”"
     }
    ],
    "notes": [],
@@ -1536,7 +1536,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I prayed and said, \"O Lord, my Lord, You always give light to those who are led by understanding."
+     "text": "I prayed and said, “O Lord, my Lord, You always give light to those who are led by understanding."
     },
     {
      "v": 2,
@@ -1548,7 +1548,7 @@
     },
     {
      "v": 4,
-     "text": "You know that my soul has always walked in Your law, and from my earliest days I never left Your wisdom.\""
+     "text": "You know that my soul has always walked in Your law, and from my earliest days I never left Your wisdom.”"
     }
    ],
    "notes": [],
@@ -1562,7 +1562,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "He answered me, \"Baruch, this is the meaning of the vision you saw."
+     "text": "He answered me, “Baruch, this is the meaning of the vision you saw."
     },
     {
      "v": 2,
@@ -1590,14 +1590,14 @@
     },
     {
      "v": 8,
-     "text": "As for the tall cedar left over from that forest, and the vine speaking to it the words you heard, this is what it means.\""
+     "text": "As for the tall cedar left over from that forest, and the vine speaking to it the words you heard, this is what it means.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "39:5",
-     "text": "\"Lebanon\" (Hebrew *Levanon*) means \"white,\" perhaps for its snowy peaks."
+     "text": "“Lebanon” (Hebrew *Levanon*) means “white,” perhaps for its snowy peaks."
     }
    ]
   },
@@ -1609,7 +1609,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The last ruler of that time will be left alive after the multitude of his armies has been put to the sword. He will be bound, and they will take him up to Mount Zion, and My Messiah will convict him of all his godless deeds. He will gather and set before him all the works of his armies."
+     "text": "“The last ruler of that time will be left alive after the multitude of his armies has been put to the sword. He will be bound, and they will take him up to Mount Zion, and My Messiah will convict him of all his godless deeds. He will gather and set before him all the works of his armies."
     },
     {
      "v": 2,
@@ -1621,7 +1621,7 @@
     },
     {
      "v": 4,
-     "text": "This is your vision, and this is what it means.\""
+     "text": "This is your vision, and this is what it means.”"
     }
    ],
    "notes": []
@@ -1634,7 +1634,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"For whom, and for how many, will these things be? Who will be worthy to live at that time?"
+     "text": "I answered, “For whom, and for how many, will these things be? Who will be worthy to live at that time?"
     },
     {
      "v": 2,
@@ -1654,7 +1654,7 @@
     },
     {
      "v": 6,
-     "text": "Or perhaps their time will be weighed, and they will be judged as the balance tips?\""
+     "text": "Or perhaps their time will be weighed, and they will be judged as the balance tips?”"
     }
    ],
    "notes": [],
@@ -1668,11 +1668,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "He answered me, \"I will show you this too."
+     "text": "He answered me, “I will show you this too."
     },
     {
      "v": 2,
-     "text": "As for what you said, 'For whom will these things be, and for how many?' To those who have believed, the good that was promised long ago will come, and to those who despise it, the opposite."
+     "text": "As for what you said, ‘For whom will these things be, and for how many?’ To those who have believed, the good that was promised long ago will come, and to those who despise it, the opposite."
     },
     {
      "v": 3,
@@ -1696,7 +1696,7 @@
     },
     {
      "v": 8,
-     "text": "The dust will be called and told, 'Give back what is not yours, and raise up everything you have kept until its time.'\""
+     "text": "The dust will be called and told, ‘Give back what is not yours, and raise up everything you have kept until its time.’”"
     }
    ],
    "notes": []
@@ -1709,7 +1709,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"But you, Baruch, turn your heart to what has been said to you, and understand what has been shown to you, for there are many everlasting comforts for you."
+     "text": "“But you, Baruch, turn your heart to what has been said to you, and understand what has been shown to you, for there are many everlasting comforts for you."
     },
     {
      "v": 2,
@@ -1717,7 +1717,7 @@
     },
     {
      "v": 3,
-     "text": "So go and command your people, and come to this place. After that, fast for seven days, and then I will come to you and speak with you.\""
+     "text": "So go and command your people, and come to this place. After that, fast for seven days, and then I will come to you and speak with you.”"
     }
    ],
    "notes": [],
@@ -1735,7 +1735,7 @@
     },
     {
      "v": 2,
-     "text": "\"See, I am going to my fathers, the way of all the earth."
+     "text": "“See, I am going to my fathers, the way of all the earth."
     },
     {
      "v": 3,
@@ -1787,7 +1787,7 @@
     },
     {
      "v": 15,
-     "text": "To them the world to come will be given, but the dwelling of the rest, who are many, will be in the fire.\""
+     "text": "To them the world to come will be given, but the dwelling of the rest, who are many, will be in the fire.”"
     }
    ],
    "notes": [],
@@ -1801,11 +1801,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"So, as far as you can, teach the people, for that work is ours."
+     "text": "“So, as far as you can, teach the people, for that work is ours."
     },
     {
      "v": 2,
-     "text": "If you teach them, you will give them life.\""
+     "text": "If you teach them, you will give them life.”"
     }
    ],
    "notes": []
@@ -1818,7 +1818,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "My son and the elders of the people answered me, \"Has the Mighty One humbled us so much as to take you from us so quickly?"
+     "text": "My son and the elders of the people answered me, “Has the Mighty One humbled us so much as to take you from us so quickly?"
     },
     {
      "v": 2,
@@ -1826,11 +1826,11 @@
     },
     {
      "v": 3,
-     "text": "Where will we look for the law again, and who will tell us the difference between death and life?\""
+     "text": "Where will we look for the law again, and who will tell us the difference between death and life?”"
     },
     {
      "v": 4,
-     "text": "I said to them, \"I cannot resist the throne of the Mighty One. Even so, Israel will never lack a wise man, nor the family of Jacob a son of the law."
+     "text": "I said to them, “I cannot resist the throne of the Mighty One. Even so, Israel will never lack a wise man, nor the family of Jacob a son of the law."
     },
     {
      "v": 5,
@@ -1859,7 +1859,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "When I had gone out and sent them away, I went there and said to them, \"See, I am going to Hebron{a}, for the Mighty One has sent me there.\""
+     "text": "When I had gone out and sent them away, I went there and said to them, “See, I am going to Hebron{a}, for the Mighty One has sent me there.”"
     },
     {
      "v": 2,
@@ -1870,7 +1870,7 @@
     {
      "m": "a",
      "ref": "47:1",
-     "text": "\"Hebron\" (Hebrew *Chevron*) is related to \"association\" or \"league.\" It is a city in the hills south of Jerusalem."
+     "text": "“Hebron” (Hebrew *Chevron*) is related to “association” or “league.” It is a city in the hills south of Jerusalem."
     }
    ]
   },
@@ -1886,7 +1886,7 @@
     },
     {
      "v": 2,
-     "text": "\"O my Lord, You call the coming of the times, and they stand before You. You make the power of the ages pass away, and they do not resist You. You set the order of the seasons, and they obey You."
+     "text": "“O my Lord, You call the coming of the times, and they stand before You. You make the power of the ages pass away, and they do not resist You. You set the order of the seasons, and they obey You."
     },
     {
      "v": 3,
@@ -1942,7 +1942,7 @@
     },
     {
      "v": 16,
-     "text": "We never said to our parents, 'Give birth to us,' and we never sent word to Sheol, saying, 'Take us in.'"
+     "text": "We never said to our parents, ‘Give birth to us,’ and we never sent word to Sheol, saying, ‘Take us in.’"
     },
     {
      "v": 17,
@@ -1954,7 +1954,7 @@
     },
     {
      "v": 19,
-     "text": "Look at the little ones who are subject to You, and save everyone who comes near You. Do not destroy our people's hope, and do not cut short the times of our help."
+     "text": "Look at the little ones who are subject to You, and save everyone who comes near You. Do not destroy our people’s hope, and do not cut short the times of our help."
     },
     {
      "v": 20,
@@ -1974,7 +1974,7 @@
     },
     {
      "v": 24,
-     "text": "For we are all one famous people who received one law from the One. The law among us will help us, and the surpassing wisdom in us will assist us.\""
+     "text": "For we are all one famous people who received one law from the One. The law among us will help us, and the surpassing wisdom in us will assist us.”"
     },
     {
      "v": 25,
@@ -1982,7 +1982,7 @@
     },
     {
      "v": 26,
-     "text": "He answered me, \"You have prayed simply, Baruch, and all your words have been heard."
+     "text": "He answered me, “You have prayed simply, Baruch, and all your words have been heard."
     },
     {
      "v": 27,
@@ -2022,7 +2022,7 @@
     },
     {
      "v": 36,
-     "text": "In that time many will say to many, 'Where has the multitude of understanding hidden itself, and where has the multitude of wisdom gone?'"
+     "text": "In that time many will say to many, ‘Where has the multitude of understanding hidden itself, and where has the multitude of wisdom gone?’"
     },
     {
      "v": 37,
@@ -2042,11 +2042,11 @@
     },
     {
      "v": 41,
-     "text": "Then many will certainly weep, more over the living than over the dead.\""
+     "text": "Then many will certainly weep, more over the living than over the dead.”"
     },
     {
      "v": 42,
-     "text": "I answered, \"O Adam, what have you done to all those born from you? And what will be said to the first Eve{a}, who listened to the serpent?"
+     "text": "I answered, “O Adam, what have you done to all those born from you? And what will be said to the first Eve{a}, who listened to the serpent?"
     },
     {
      "v": 43,
@@ -2066,11 +2066,11 @@
     },
     {
      "v": 47,
-     "text": "As for all of these, their end will convict them, and Your law, which they broke, will repay them on Your day.\""
+     "text": "As for all of these, their end will convict them, and Your law, which they broke, will repay them on Your day.”"
     },
     {
      "v": 48,
-     "text": "\"But now let us set the wicked aside and ask about the righteous."
+     "text": "“But now let us set the wicked aside and ask about the righteous."
     },
     {
      "v": 49,
@@ -2078,17 +2078,17 @@
     },
     {
      "v": 50,
-     "text": "For just as you have endured much labor for a little time in this passing world where you live, so in that world that has no end you will receive great light.\""
+     "text": "For just as you have endured much labor for a little time in this passing world where you live, so in that world that has no end you will receive great light.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "48:42",
-     "text": "\"Eve\" (Hebrew *Chavvah*) is traditionally linked to \"life\" or \"living.\""
+     "text": "“Eve” (Hebrew *Chavvah*) is traditionally linked to “life” or “living.”"
     }
    ],
-   "heading": "Baruch's prayer and the answer"
+   "heading": "Baruch’s prayer and the answer"
   },
   {
    "n": 49,
@@ -2098,7 +2098,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Even so, I will ask You again, Mighty One, and I will ask You, who made all things."
+     "text": "“Even so, I will ask You again, Mighty One, and I will ask You, who made all things."
     },
     {
      "v": 2,
@@ -2106,7 +2106,7 @@
     },
     {
      "v": 3,
-     "text": "Will they take on this present form again and put on these tangled limbs, which are now caught up in evils and in which evils reach their peak? Or will You perhaps change these things that have been in the world, just as You change the world?\""
+     "text": "Will they take on this present form again and put on these tangled limbs, which are now caught up in evils and in which evils reach their peak? Or will You perhaps change these things that have been in the world, just as You change the world?”"
     }
    ],
    "notes": [],
@@ -2120,7 +2120,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "He answered me, \"Listen to this word, Baruch, and write in the memory of your heart everything you will learn."
+     "text": "He answered me, “Listen to this word, Baruch, and write in the memory of your heart everything you will learn."
     },
     {
      "v": 2,
@@ -2132,7 +2132,7 @@
     },
     {
      "v": 4,
-     "text": "When they have each recognized those they know now, then the judgment will grow strong, and the things that were spoken of before will come.\""
+     "text": "When they have each recognized those they know now, then the judgment will grow strong, and the things that were spoken of before will come.”"
     }
    ],
    "notes": []
@@ -2145,7 +2145,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"When that appointed day has passed, the appearance of those who are condemned will be changed, and so will the glory of those who are declared righteous."
+     "text": "“When that appointed day has passed, the appearance of those who are condemned will be changed, and so will the glory of those who are declared righteous."
     },
     {
      "v": 2,
@@ -2205,7 +2205,7 @@
     },
     {
      "v": 16,
-     "text": "They did not choose for themselves that time which, beyond the reach of anguish, could never pass away. They chose for themselves the time whose outcomes are full of lamentation and evil. They denied the world that does not age those who come to it, and they rejected the time of glory, so that they will not come to the honor of which I told you before.\""
+     "text": "They did not choose for themselves that time which, beyond the reach of anguish, could never pass away. They chose for themselves the time whose outcomes are full of lamentation and evil. They denied the world that does not age those who come to it, and they rejected the time of glory, so that they will not come to the honor of which I told you before.”"
     }
    ],
    "notes": []
@@ -2218,7 +2218,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"How could we forget those for whom woe is then kept in store?"
+     "text": "I answered, “How could we forget those for whom woe is then kept in store?"
     },
     {
      "v": 2,
@@ -2242,7 +2242,7 @@
     },
     {
      "v": 7,
-     "text": "Make your souls ready for what is kept for you, and prepare them for the reward laid up for you.\""
+     "text": "Make your souls ready for what is kept for you, and prepare them for the reward laid up for you.”"
     }
    ],
    "notes": []
@@ -2313,7 +2313,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I pleaded with the Mighty One and said, \"You alone, Lord, know the deep things of the world from ages past. You bring about by Your word what happens in its times. In response to the works of the inhabitants of the earth You hurry the beginnings of the times, and You alone know the end of the seasons."
+     "text": "I pleaded with the Mighty One and said, “You alone, Lord, know the deep things of the world from ages past. You bring about by Your word what happens in its times. In response to the works of the inhabitants of the earth You hurry the beginnings of the times, and You alone know the end of the seasons."
     },
     {
      "v": 2,
@@ -2397,7 +2397,7 @@
     },
     {
      "v": 22,
-     "text": "You rule over those who belong to You, and You blot out from among Your own those who sin.\""
+     "text": "You rule over those who belong to You, and You blot out from among Your own those who sin.”"
     }
    ],
    "notes": [],
@@ -2423,7 +2423,7 @@
     },
     {
      "v": 4,
-     "text": "\"Baruch, why does your heart trouble you, and why does your thought disturb you?"
+     "text": "“Baruch, why does your heart trouble you, and why does your thought disturb you?"
     },
     {
      "v": 5,
@@ -2439,14 +2439,14 @@
     },
     {
      "v": 8,
-     "text": "If you have heard news of the good and evil things that are then coming and are grieved, what will you do when you see what the Majesty will reveal, which will convict some and make others rejoice?\""
+     "text": "If you have heard news of the good and evil things that are then coming and are grieved, what will you do when you see what the Majesty will reveal, which will convict some and make others rejoice?”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "55:3",
-     "text": "\"Ramiel\" (Hebrew *Remiel*) is thought to mean \"thunder of God\" or \"God has raised up.\""
+     "text": "“Ramiel” (Hebrew *Remiel*) is thought to mean “thunder of God” or “God has raised up.”"
     }
    ]
   },
@@ -2458,7 +2458,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Since you asked the Most High to explain the vision you saw, I have been sent to tell you."
+     "text": "“Since you asked the Most High to explain the vision you saw, I have been sent to tell you."
     },
     {
      "v": 2,
@@ -2518,7 +2518,7 @@
     },
     {
      "v": 16,
-     "text": "These are the first black waters.\""
+     "text": "These are the first black waters.”"
     }
    ],
    "notes": [],
@@ -2532,7 +2532,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"After these waters you saw bright waters. This is the fountain of Abraham, together with his generations and the coming of his son and his son's son, and of those like them."
+     "text": "“After these waters you saw bright waters. This is the fountain of Abraham, together with his generations and the coming of his son and his son’s son, and of those like them."
     },
     {
      "v": 2,
@@ -2540,7 +2540,7 @@
     },
     {
      "v": 3,
-     "text": "These are the bright waters you saw.\""
+     "text": "These are the bright waters you saw.”"
     }
    ],
    "notes": []
@@ -2553,18 +2553,18 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The black third waters you saw are the mixing together of all sins that the nations committed after the death of those righteous men, and the wickedness of the land of Egypt{a}, where they acted wickedly in the service by which they made their sons serve."
+     "text": "“The black third waters you saw are the mixing together of all sins that the nations committed after the death of those righteous men, and the wickedness of the land of Egypt{a}, where they acted wickedly in the service by which they made their sons serve."
     },
     {
      "v": 2,
-     "text": "Yet even these perished in the end.\""
+     "text": "Yet even these perished in the end.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "58:1",
-     "text": "\"Egypt\" translates the Hebrew *Mitsrayim*, of uncertain meaning."
+     "text": "“Egypt” translates the Hebrew *Mitsrayim*, of uncertain meaning."
     }
    ]
   },
@@ -2576,7 +2576,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The bright fourth waters you saw are the coming of Moses, Aaron{a}, Miriam{b}, Joshua{c} son of Nun, Caleb{d}, and all those like them."
+     "text": "“The bright fourth waters you saw are the coming of Moses, Aaron{a}, Miriam{b}, Joshua{c} son of Nun, Caleb{d}, and all those like them."
     },
     {
      "v": 2,
@@ -2620,29 +2620,29 @@
     },
     {
      "v": 12,
-     "text": "These are the bright fourth waters you saw.\""
+     "text": "These are the bright fourth waters you saw.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "59:1",
-     "text": "\"Aaron\" (Hebrew *Aharon*) is of uncertain meaning."
+     "text": "“Aaron” (Hebrew *Aharon*) is of uncertain meaning."
     },
     {
      "m": "b",
      "ref": "59:1",
-     "text": "\"Miriam\" (Hebrew *Miryam*) is of uncertain meaning; it may be related to \"bitter\" or \"beloved.\""
+     "text": "“Miriam” (Hebrew *Miryam*) is of uncertain meaning; it may be related to “bitter” or “beloved.”"
     },
     {
      "m": "c",
      "ref": "59:1",
-     "text": "\"Joshua\" (Hebrew *Yehoshua*) means \"Yahweh saves.\""
+     "text": "“Joshua” (Hebrew *Yehoshua*) means “Yahweh saves.”"
     },
     {
      "m": "d",
      "ref": "59:1",
-     "text": "\"Caleb\" (Hebrew *Kalev*) is often taken to mean \"dog\" or \"wholehearted.\""
+     "text": "“Caleb” (Hebrew *Kalev*) is often taken to mean “dog” or “wholehearted.”"
     }
    ]
   },
@@ -2654,11 +2654,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The black fifth waters you saw raining are the works the Amorites did, the spells of their incantations, the wickedness of their mysteries, and the mixing of their pollution."
+     "text": "“The black fifth waters you saw raining are the works the Amorites did, the spells of their incantations, the wickedness of their mysteries, and the mixing of their pollution."
     },
     {
      "v": 2,
-     "text": "Even Israel was defiled by sins in the days of the judges, although they saw many signs from the One who made them.\""
+     "text": "Even Israel was defiled by sins in the days of the judges, although they saw many signs from the One who made them.”"
     }
    ],
    "notes": []
@@ -2671,7 +2671,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The bright sixth waters you saw are the time when David{a} and Solomon{b} were born."
+     "text": "“The bright sixth waters you saw are the time when David{a} and Solomon{b} were born."
     },
     {
      "v": 2,
@@ -2691,7 +2691,7 @@
     },
     {
      "v": 6,
-     "text": "The judgment of the rulers was seen to be without deceit, and the righteousness of the Mighty One's precepts was carried out in truth."
+     "text": "The judgment of the rulers was seen to be without deceit, and the righteousness of the Mighty One’s precepts was carried out in truth."
     },
     {
      "v": 7,
@@ -2699,19 +2699,19 @@
     },
     {
      "v": 8,
-     "text": "These are the bright waters you saw.\""
+     "text": "These are the bright waters you saw.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "61:1",
-     "text": "\"David\" (Hebrew *David*) probably means \"beloved.\""
+     "text": "“David” (Hebrew *David*) probably means “beloved.”"
     },
     {
      "m": "b",
      "ref": "61:1",
-     "text": "\"Solomon\" (Hebrew *Shelomoh*) is related to *shalom*, \"peace.\""
+     "text": "“Solomon” (Hebrew *Shelomoh*) is related to *shalom*, “peace.”"
     }
    ]
   },
@@ -2723,7 +2723,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The black seventh waters you saw are the perversion that came from the plan of Jeroboam{a}, who planned to make two golden calves,"
+     "text": "“The black seventh waters you saw are the perversion that came from the plan of Jeroboam{a}, who planned to make two golden calves,"
     },
     {
      "v": 2,
@@ -2751,29 +2751,29 @@
     },
     {
      "v": 8,
-     "text": "These are the black seventh waters you saw.\""
+     "text": "These are the black seventh waters you saw.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "62:1",
-     "text": "\"Jeroboam\" (Hebrew *Yarovam*) is usually explained as \"the people contend\" or \"may the kinsman increase.\""
+     "text": "“Jeroboam” (Hebrew *Yarovam*) is usually explained as “the people contend” or “may the kinsman increase.”"
     },
     {
      "m": "b",
      "ref": "62:3",
-     "text": "\"Jezebel\" (Hebrew *Izevel*) is a Phoenician name, perhaps meaning \"where is the prince?\""
+     "text": "“Jezebel” (Hebrew *Izevel*) is a Phoenician name, perhaps meaning “where is the prince?”"
     },
     {
      "m": "c",
      "ref": "62:6",
-     "text": "\"Shalmaneser\" (Assyrian *Shulmanu-asharedu*) means \"Shulmanu is foremost.\""
+     "text": "“Shalmaneser” (Assyrian *Shulmanu-asharedu*) means “Shulmanu is foremost.”"
     },
     {
      "m": "d",
      "ref": "62:6",
-     "text": "\"Assyria\" (Hebrew *Ashshur*) is named for its chief city and god, Ashur."
+     "text": "“Assyria” (Hebrew *Ashshur*) is named for its chief city and god, Ashur."
     }
    ]
   },
@@ -2785,7 +2785,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The bright eighth waters you saw are the uprightness and honesty of Hezekiah{a}, king of Judah, and the grace that came upon him."
+     "text": "“The bright eighth waters you saw are the uprightness and honesty of Hezekiah{a}, king of Judah, and the grace that came upon him."
     },
     {
      "v": 2,
@@ -2797,7 +2797,7 @@
     },
     {
      "v": 4,
-     "text": "'See, Sennacherib is ready to destroy us, and he will be boastful and proud when he has destroyed Zion.'"
+     "text": "‘See, Sennacherib is ready to destroy us, and he will be boastful and proud when he has destroyed Zion.’"
     },
     {
      "v": 5,
@@ -2825,19 +2825,19 @@
     },
     {
      "v": 11,
-     "text": "These are the bright waters you saw.\""
+     "text": "These are the bright waters you saw.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "63:1",
-     "text": "\"Hezekiah\" (Hebrew *Chizqiyyahu*) means \"Yahweh strengthens.\""
+     "text": "“Hezekiah” (Hebrew *Chizqiyyahu*) means “Yahweh strengthens.”"
     },
     {
      "m": "b",
      "ref": "63:2",
-     "text": "\"Sennacherib\" (Assyrian *Sin-ahhe-eriba*) means \"Sin (the moon god) has replaced the brothers.\""
+     "text": "“Sennacherib” (Assyrian *Sin-ahhe-eriba*) means “Sin (the moon god) has replaced the brothers.”"
     }
    ]
   },
@@ -2849,7 +2849,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The black ninth waters you saw are all the wickedness in the days of Manasseh{a}, son of Hezekiah."
+     "text": "“The black ninth waters you saw are all the wickedness in the days of Manasseh{a}, son of Hezekiah."
     },
     {
      "v": 2,
@@ -2869,11 +2869,11 @@
     },
     {
      "v": 6,
-     "text": "Manasseh's ungodliness grew so great that it removed the praise of the Most High from the sanctuary."
+     "text": "Manasseh’s ungodliness grew so great that it removed the praise of the Most High from the sanctuary."
     },
     {
      "v": 7,
-     "text": "For this reason Manasseh was called 'the ungodly' at that time, and in the end his dwelling was in the fire."
+     "text": "For this reason Manasseh was called ‘the ungodly’ at that time, and in the end his dwelling was in the fire."
     },
     {
      "v": 8,
@@ -2885,14 +2885,14 @@
     },
     {
      "v": 10,
-     "text": "For the One who is able to help is also able to torment.\""
+     "text": "For the One who is able to help is also able to torment.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "64:1",
-     "text": "\"Manasseh\" (Hebrew *Menashsheh*) means \"he who makes forget.\""
+     "text": "“Manasseh” (Hebrew *Menashsheh*) means “he who makes forget.”"
     }
    ]
   },
@@ -2904,11 +2904,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"So Manasseh acted ungodly and thought that in his time the Mighty One would not look into these things."
+     "text": "“So Manasseh acted ungodly and thought that in his time the Mighty One would not look into these things."
     },
     {
      "v": 2,
-     "text": "These are the black ninth waters you saw.\""
+     "text": "These are the black ninth waters you saw.”"
     }
    ],
    "notes": []
@@ -2921,7 +2921,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The bright tenth waters you saw are the pure generations of Josiah{a}, king of Judah, who was the only one at that time who submitted to the Mighty One with all his heart and all his soul."
+     "text": "“The bright tenth waters you saw are the pure generations of Josiah{a}, king of Judah, who was the only one at that time who submitted to the Mighty One with all his heart and all his soul."
     },
     {
      "v": 2,
@@ -2945,14 +2945,14 @@
     },
     {
      "v": 7,
-     "text": "For his sake and for the sake of those like him, the honorable glories of which you were told before were created and prepared. These are the bright waters you saw.\""
+     "text": "For his sake and for the sake of those like him, the honorable glories of which you were told before were created and prepared. These are the bright waters you saw.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "66:1",
-     "text": "\"Josiah\" (Hebrew *Yoshiyyahu*) probably means \"Yahweh supports.\""
+     "text": "“Josiah” (Hebrew *Yoshiyyahu*) probably means “Yahweh supports.”"
     }
    ]
   },
@@ -2964,11 +2964,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The black eleventh waters you saw are the calamity that is now falling on Zion."
+     "text": "“The black eleventh waters you saw are the calamity that is now falling on Zion."
     },
     {
      "v": 2,
-     "text": "Do you think there is no anguish among the angels in the presence of the Mighty One, that Zion was handed over like this, and that the nations boast in their hearts, gather before their idols, and say, 'She who so often trampled others is trampled down, and she who enslaved others has been enslaved'?"
+     "text": "Do you think there is no anguish among the angels in the presence of the Mighty One, that Zion was handed over like this, and that the nations boast in their hearts, gather before their idols, and say, ‘She who so often trampled others is trampled down, and she who enslaved others has been enslaved’?"
     },
     {
      "v": 3,
@@ -2992,7 +2992,7 @@
     },
     {
      "v": 8,
-     "text": "But he too will fall in the end. These are the black waters.\""
+     "text": "But he too will fall in the end. These are the black waters.”"
     }
    ],
    "notes": []
@@ -3005,7 +3005,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The bright twelfth waters you saw are this word."
+     "text": "“The bright twelfth waters you saw are this word."
     },
     {
      "v": 2,
@@ -3033,7 +3033,7 @@
     },
     {
      "v": 8,
-     "text": "These are the bright waters you saw.\""
+     "text": "These are the bright waters you saw.”"
     }
    ],
    "notes": []
@@ -3046,7 +3046,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The last waters you saw, which were darker than all those before them, those that came after the twelfth and were gathered together, belong to the whole world."
+     "text": "“The last waters you saw, which were darker than all those before them, those that came after the twelfth and were gathered together, belong to the whole world."
     },
     {
      "v": 2,
@@ -3062,7 +3062,7 @@
     },
     {
      "v": 5,
-     "text": "For this reason there were no black waters mixed with black, and no bright with bright, for it is the end.\""
+     "text": "For this reason there were no black waters mixed with black, and no bright with bright, for it is the end.”"
     }
    ],
    "notes": []
@@ -3075,7 +3075,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Now hear the meaning of the last black waters that are to come after the black ones. This is the word."
+     "text": "“Now hear the meaning of the last black waters that are to come after the black ones. This is the word."
     },
     {
      "v": 2,
@@ -3111,7 +3111,7 @@
     },
     {
      "v": 10,
-     "text": "For all the earth will devour its inhabitants.\""
+     "text": "For all the earth will devour its inhabitants.”"
     }
    ],
    "notes": []
@@ -3124,7 +3124,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"The holy land will have mercy on its own and protect its inhabitants at that time."
+     "text": "“The holy land will have mercy on its own and protect its inhabitants at that time."
     },
     {
      "v": 2,
@@ -3132,7 +3132,7 @@
     },
     {
      "v": 3,
-     "text": "I have come to tell you these things because your prayer has been heard by the Most High.\""
+     "text": "I have come to tell you these things because your prayer has been heard by the Most High.”"
     }
    ],
    "notes": []
@@ -3145,7 +3145,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Now hear also about the bright lightning that is to come at the end, after these black waters. This is the word."
+     "text": "“Now hear also about the bright lightning that is to come at the end, after these black waters. This is the word."
     },
     {
      "v": 2,
@@ -3165,7 +3165,7 @@
     },
     {
      "v": 6,
-     "text": "But all who have ruled over you, or have known you, will be given up to the sword.\""
+     "text": "But all who have ruled over you, or have known you, will be given up to the sword.”"
     }
    ],
    "notes": []
@@ -3178,7 +3178,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"When he has brought low everything in the world and has sat down in peace for the age on the throne of his kingdom, then joy will be revealed and rest will appear."
+     "text": "“When he has brought low everything in the world and has sat down in peace for the age on the throne of his kingdom, then joy will be revealed and rest will appear."
     },
     {
      "v": 2,
@@ -3202,7 +3202,7 @@
     },
     {
      "v": 7,
-     "text": "Women will no longer have pain when they give birth, and they will not suffer torment when they bring forth the fruit of the womb.\""
+     "text": "Women will no longer have pain when they give birth, and they will not suffer torment when they bring forth the fruit of the womb.”"
     }
    ],
    "notes": []
@@ -3215,7 +3215,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"In those days the reapers will not grow tired and the builders will not be worn out, for the work will move ahead quickly by itself, together with those who do it, in great peace."
+     "text": "“In those days the reapers will not grow tired and the builders will not be worn out, for the work will move ahead quickly by itself, together with those who do it, in great peace."
     },
     {
      "v": 2,
@@ -3227,7 +3227,7 @@
     },
     {
      "v": 4,
-     "text": "This is the bright lightning that came after the last dark waters.\""
+     "text": "This is the bright lightning that came after the last dark waters.”"
     }
    ],
    "notes": []
@@ -3240,7 +3240,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "I answered, \"Who can understand Your goodness, Lord? It cannot be grasped."
+     "text": "I answered, “Who can understand Your goodness, Lord? It cannot be grasped."
     },
     {
      "v": 2,
@@ -3268,11 +3268,11 @@
     },
     {
      "v": 8,
-     "text": "But if we do not know why we have come, and do not acknowledge the rule of the One who brought us up out of Egypt, we will come again and look for the things of the present, and be grieved with pain over what has happened.\""
+     "text": "But if we do not know why we have come, and do not acknowledge the rule of the One who brought us up out of Egypt, we will come again and look for the things of the present, and be grieved with pain over what has happened.”"
     }
    ],
    "notes": [],
-   "heading": "Baruch's hymn"
+   "heading": "Baruch’s hymn"
   },
   {
    "n": 76,
@@ -3282,7 +3282,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "He answered me, \"Since the meaning of this vision has been explained to you as you asked, hear the word of the Most High, so that you may know what will happen to you after these things."
+     "text": "He answered me, “Since the meaning of this vision has been explained to you as you asked, hear the word of the Most High, so that you may know what will happen to you after these things."
     },
     {
      "v": 2,
@@ -3294,7 +3294,7 @@
     },
     {
      "v": 4,
-     "text": "This will happen after forty days. So go now, and during these days teach the people as far as you can, so that they may learn and not die at the last time, but may learn so that they live in the last times.\""
+     "text": "This will happen after forty days. So go now, and during these days teach the people as far as you can, so that they may learn and not die at the last time, but may learn so that they live in the last times.”"
     }
    ],
    "notes": [],
@@ -3312,7 +3312,7 @@
     },
     {
      "v": 2,
-     "text": "\"Listen, children of Israel. See how many of you remain from the twelve tribes of Israel."
+     "text": "“Listen, children of Israel. See how many of you remain from the twelve tribes of Israel."
     },
     {
      "v": 3,
@@ -3344,11 +3344,11 @@
     },
     {
      "v": 10,
-     "text": "Do you not know that because of you who sinned, what did not sin was overthrown, and because of those who did wickedly, what did not act foolishly was handed over to its enemies?\""
+     "text": "Do you not know that because of you who sinned, what did not sin was overthrown, and because of those who did wickedly, what did not act foolishly was handed over to its enemies?”"
     },
     {
      "v": 11,
-     "text": "The whole people answered me, \"As far as we can recall the good things the Mighty One has done for us, we recall them, and the things we do not remember He knows in His mercy."
+     "text": "The whole people answered me, “As far as we can recall the good things the Mighty One has done for us, we recall them, and the things we do not remember He knows in His mercy."
     },
     {
      "v": 12,
@@ -3360,11 +3360,11 @@
     },
     {
      "v": 14,
-     "text": "We are left in the darkness, among the trees of the forest, and in the thirst of the wilderness.\""
+     "text": "We are left in the darkness, among the trees of the forest, and in the thirst of the wilderness.”"
     },
     {
      "v": 15,
-     "text": "I answered them, \"Shepherds, lamps, and fountains come from the law. Though we depart, the law remains."
+     "text": "I answered them, “Shepherds, lamps, and fountains come from the law. Though we depart, the law remains."
     },
     {
      "v": 16,
@@ -3372,7 +3372,7 @@
     },
     {
      "v": 17,
-     "text": "Even so, as you have asked me, I will write to your brothers in Babylon and send it by men. In the same way I will write to the nine and a half tribes and send it by a bird.\""
+     "text": "Even so, as you have asked me, I will write to your brothers in Babylon and send it by men. In the same way I will write to the nine and a half tribes and send it by a bird.”"
     },
     {
      "v": 18,
@@ -3388,7 +3388,7 @@
     },
     {
      "v": 21,
-     "text": "\"The Most High made you higher than all birds."
+     "text": "“The Most High made you higher than all birds."
     },
     {
      "v": 22,
@@ -3408,32 +3408,32 @@
     },
     {
      "v": 26,
-     "text": "Now do not let this tire you. Turn neither right nor left, but fly straight, so that you keep the command of the Mighty One, as I have told you.\""
+     "text": "Now do not let this tire you. Turn neither right nor left, but fly straight, so that you keep the command of the Mighty One, as I have told you.”"
     }
    ],
    "notes": [
     {
      "m": "a",
      "ref": "77:18",
-     "text": "October–November: The text says the \"eighth month\" of the Hebrew calendar, which is Marcheshvan."
+     "text": "October–November: The text says the “eighth month” of the Hebrew calendar, which is Marcheshvan."
     },
     {
      "m": "b",
      "ref": "77:22",
-     "text": "\"Euphrates\" (Hebrew *Perat*) is the great river of Mesopotamia, whose name means \"fruitful.\""
+     "text": "“Euphrates” (Hebrew *Perat*) is the great river of Mesopotamia, whose name means “fruitful.”"
     },
     {
      "m": "c",
      "ref": "77:23",
-     "text": "\"Noah\" (Hebrew *Noach*) is linked in Genesis 5 with \"rest\" or \"comfort.\""
+     "text": "“Noah” (Hebrew *Noach*) is linked in Genesis 5 with “rest” or “comfort.”"
     },
     {
      "m": "d",
      "ref": "77:24",
-     "text": "\"Elijah\" (Hebrew *Eliyyahu*) means \"my God is Yahweh.\""
+     "text": "“Elijah” (Hebrew *Eliyyahu*) means “my God is Yahweh.”"
     }
    ],
-   "heading": "Baruch's address, and his two letters"
+   "heading": "Baruch’s address, and his two letters"
   },
   {
    "n": 78,
@@ -3447,7 +3447,7 @@
     },
     {
      "v": 2,
-     "text": "Baruch, son of Neriah, says this to the brothers carried into captivity: \"Mercy and peace.\" My brothers, I keep in mind the love of the One who created us. He loved us from of old and never hated us, but above all He trained us."
+     "text": "Baruch, son of Neriah, says this to the brothers carried into captivity: “Mercy and peace.” My brothers, I keep in mind the love of the One who created us. He loved us from of old and never hated us, but above all He trained us."
     },
     {
      "v": 3,
@@ -3496,7 +3496,7 @@
     {
      "m": "a",
      "ref": "79:1",
-     "text": "\"Nebuchadnezzar\" (Babylonian *Nabu-kudurri-usur*) means \"Nabu, protect my heir.\""
+     "text": "“Nebuchadnezzar” (Babylonian *Nabu-kudurri-usur*) means “Nabu, protect my heir.”"
     }
    ]
   },
@@ -3516,7 +3516,7 @@
     },
     {
      "v": 3,
-     "text": "When they had done this, they handed over to the enemy the overthrown wall, the plundered house, the burned temple, and the people, who were overcome because they had been given up, so that the enemy could not boast and say, \"By force we have been able to lay waste even the house of the Most High in war.\""
+     "text": "When they had done this, they handed over to the enemy the overthrown wall, the plundered house, the burned temple, and the people, who were overcome because they had been given up, so that the enemy could not boast and say, “By force we have been able to lay waste even the house of the Most High in war.”"
     },
     {
      "v": 4,
@@ -3553,7 +3553,7 @@
     },
     {
      "v": 3,
-     "text": "\"How long will these things last for us? Will these evils come on us always?\""
+     "text": "“How long will these things last for us? Will these evils come on us always?”"
     },
     {
      "v": 4,
@@ -3578,7 +3578,7 @@
     },
     {
      "v": 3,
-     "text": "We now see the abundance of the nations' prosperity, though they act ungodly, but they will be like a vapor."
+     "text": "We now see the abundance of the nations’ prosperity, though they act ungodly, but they will be like a vapor."
     },
     {
      "v": 4,
@@ -3716,7 +3716,7 @@
     },
     {
      "v": 2,
-     "text": "Remember that Moses once called heaven and earth to witness against you and said, \"If you break the law you will be scattered, but if you keep it you will be kept.\""
+     "text": "Remember that Moses once called heaven and earth to witness against you and said, “If you break the law you will be scattered, but if you keep it you will be kept.”"
     },
     {
      "v": 3,
@@ -3752,7 +3752,7 @@
     },
     {
      "v": 11,
-     "text": "For if He does not judge us according to the abundance of His mercies, woe to all of us who are born.\""
+     "text": "For if He does not judge us according to the abundance of His mercies, woe to all of us who are born.”"
     }
    ],
    "notes": []
@@ -3765,7 +3765,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"Know also that in former times, in the generations of old, our fathers had helpers, righteous men and holy prophets."
+     "text": "“Know also that in former times, in the generations of old, our fathers had helpers, righteous men and holy prophets."
     },
     {
      "v": 2,
@@ -3821,7 +3821,7 @@
     },
     {
      "v": 15,
-     "text": "Then He will keep safe those He can forgive and at the same time destroy those who are stained with sins.\""
+     "text": "Then He will keep safe those He can forgive and at the same time destroy those who are stained with sins.”"
     }
    ],
    "notes": []

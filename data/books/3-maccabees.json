@@ -2,7 +2,7 @@
  "id": "3-maccabees",
  "name": "3 Maccabees",
  "division": "Apocrypha",
- "sourceNote": "Translated fresh from the Greek text of 3 Maccabees in H. B. Swete's edition of the Septuagint (Cambridge, 1909; public domain), with Brenton's public-domain English version consulted as a check. Despite its title, the book has nothing to do with the Maccabean revolt: written in Greek, probably in Alexandria in the first century BC, it tells how the Jews of Egypt were persecuted under Ptolemy IV Philopator (221–204 BC) and miraculously delivered. Its style is ornate and its Greek is sometimes obscure; such places are noted. Dates by Egyptian months are given in the text with the modern month span, and the original reckoning is in a footnote. Weights and sums of money are given in approximate modern US units, with the original units and metric figures in the footnotes. Greek kyrios is translated \"Lord\" and theos \"God.\" Verse numbers follow the standard English versification. This is a draft awaiting scholarly review.",
+ "sourceNote": "Translated fresh from the Greek text of 3 Maccabees in H. B. Swete’s edition of the Septuagint (Cambridge, 1909; public domain), with Brenton’s public-domain English version consulted as a check. Despite its title, the book has nothing to do with the Maccabean revolt: written in Greek, probably in Alexandria in the first century BC, it tells how the Jews of Egypt were persecuted under Ptolemy IV Philopator (221–204 BC) and miraculously delivered. Its style is ornate and its Greek is sometimes obscure; such places are noted. Dates by Egyptian months are given in the text with the modern month span, and the original reckoning is in a footnote. Weights and sums of money are given in approximate modern US units, with the original units and metric figures in the footnotes. Greek kyrios is translated “Lord” and theos “God.” Verse numbers follow the standard English versification. This is a draft awaiting scholarly review.",
  "chapters": [
   {
    "n": 1,
@@ -15,11 +15,11 @@
    "verses": [
     {
      "v": 1,
-     "text": "Philopator,{a} learning from those who had come back of the taking away by Antiochus{b} of the places held under him, sent word to all his forces, infantry and cavalry, and taking along his sister Arsinoe{c} he marched out as far as the districts near Raphia, where Antiochus's side had pitched camp.{d}"
+     "text": "Philopator,{a} learning from those who had come back of the taking away by Antiochus{b} of the places held under him, sent word to all his forces, infantry and cavalry, and taking along his sister Arsinoe{c} he marched out as far as the districts near Raphia, where Antiochus’s side had pitched camp.{d}"
     },
     {
      "v": 2,
-     "text": "But a certain Theodotus, intending to carry out a plot, took with him the best of the Ptolemaic weapons that had earlier been put under his command and crossed over by night to Ptolemy's tent, as if alone to kill him and in this way to dissolve the war."
+     "text": "But a certain Theodotus, intending to carry out a plot, took with him the best of the Ptolemaic weapons that had earlier been put under his command and crossed over by night to Ptolemy’s tent, as if alone to kill him and in this way to dissolve the war."
     },
     {
      "v": 3,
@@ -71,7 +71,7 @@
     },
     {
      "v": 15,
-     "text": "\"But since this has happened,\" he said, \"why should I not enter in any case, whether they wish it or not?\""
+     "text": "“But since this has happened,” he said, “why should I not enter in any case, whether they wish it or not?”"
     },
     {
      "v": 16,
@@ -134,7 +134,7 @@
     {
      "m": "a",
      "ref": "1:1",
-     "text": "Ptolemy IV Philopator, king of Egypt 221–204 BC. \"Philopator\" means \"father-loving.\""
+     "text": "Ptolemy IV Philopator, king of Egypt 221–204 BC. “Philopator” means “father-loving.”"
     },
     {
      "m": "b",
@@ -154,7 +154,7 @@
     {
      "m": "e",
      "ref": "1:4",
-     "text": "Greek \"two minas of gold\"; a mina was about 1.25 lb (570 g)."
+     "text": "Greek “two minas of gold”; a mina was about 1.25 lb (570 g)."
     },
     {
      "m": "f",
@@ -169,7 +169,7 @@
     {
      "m": "h",
      "ref": "1:14",
-     "text": "Or \"that it was wrong to boast of this very thing\"; the Greek is obscure."
+     "text": "Or “that it was wrong to boast of this very thing”; the Greek is obscure."
     },
     {
      "m": "i",
@@ -214,7 +214,7 @@
     },
     {
      "v": 7,
-     "text": "Him, as he gave chase with chariots and a horde of soldiery, you flooded over with the sea's deep; yet those who had put their trust in you, the ruler of the whole creation, you carried across unharmed."
+     "text": "Him, as he gave chase with chariots and a horde of soldiery, you flooded over with the sea’s deep; yet those who had put their trust in you, the ruler of the whole creation, you carried across unharmed."
     },
     {
      "v": 8,
@@ -258,7 +258,7 @@
     },
     {
      "v": 18,
-     "text": "'The sanctified house we have trodden underfoot, just as the shrines of the loathsome idols are trodden.'"
+     "text": "‘The sanctified house we have trodden underfoot, just as the shrines of the loathsome idols are trodden.’"
     },
     {
      "v": 19,
@@ -266,7 +266,7 @@
     },
     {
      "v": 20,
-     "text": "Let your compassions overtake us quickly, and put praises in the mouths of those who are fallen and crushed in soul, making peace for us.\""
+     "text": "Let your compassions overtake us quickly, and put praises in the mouths of those who are fallen and crushed in soul, making peace for us.”"
     },
     {
      "v": 21,
@@ -290,7 +290,7 @@
     },
     {
      "v": 26,
-     "text": "He was not content with countless licentious deeds, but even went on to such a pitch of boldness that he framed slanders in those places, and many of his Friends, fixing their gaze on the king's purpose, themselves followed his will."
+     "text": "He was not content with countless licentious deeds, but even went on to such a pitch of boldness that he framed slanders in those places, and many of his Friends, fixing their gaze on the king’s purpose, themselves followed his will."
     },
     {
      "v": 27,
@@ -298,19 +298,19 @@
     },
     {
      "v": 28,
-     "text": "\"None who do not sacrifice shall enter their sanctuaries; and all the Jews shall be brought to a registration and the condition of slaves; those who speak against it shall be taken by force and removed from life."
+     "text": "“None who do not sacrifice shall enter their sanctuaries; and all the Jews shall be brought to a registration and the condition of slaves; those who speak against it shall be taken by force and removed from life."
     },
     {
      "v": 29,
-     "text": "Those who are registered shall be branded by fire on their bodies with the ivy leaf, the emblem of Dionysus, and shall be enrolled according to their former restricted status.\"{f}"
+     "text": "Those who are registered shall be branded by fire on their bodies with the ivy leaf, the emblem of Dionysus, and shall be enrolled according to their former restricted status.”{f}"
     },
     {
      "v": 30,
-     "text": "But in order not to appear hateful to all, he wrote beneath: \"But if any of them choose to live among those initiated into the mysteries, these shall have equal citizenship with the Alexandrians.\""
+     "text": "But in order not to appear hateful to all, he wrote beneath: “But if any of them choose to live among those initiated into the mysteries, these shall have equal citizenship with the Alexandrians.”"
     },
     {
      "v": 31,
-     "text": "Now some, superficially loathing the steps to be climbed toward the city's piety,{g} readily gave themselves up, as if they would share in some great fame from the association to come with the king."
+     "text": "Now some, superficially loathing the steps to be climbed toward the city’s piety,{g} readily gave themselves up, as if they would share in some great fame from the association to come with the king."
     },
     {
      "v": 32,
@@ -325,7 +325,7 @@
     {
      "m": "a",
      "ref": "2:1",
-     "text": "This verse is missing from the electronic edition of Swete's text used for this translation, though it belongs to the transmitted text; it is translated here from the Greek reflected in Brenton's version. Simon II, high priest around 219–196 BC (compare Sir 50:1–21)."
+     "text": "This verse is missing from the electronic edition of Swete’s text used for this translation, though it belongs to the transmitted text; it is translated here from the Greek reflected in Brenton’s version. Simon II, high priest around 219–196 BC (compare Sir 50:1–21)."
     },
     {
      "m": "b",
@@ -350,12 +350,12 @@
     {
      "m": "f",
      "ref": "2:29",
-     "text": "Or \"enrolled in their former restricted status\"; the Greek is obscure. The registration (laographia) apparently reduced the Jews to the status of tax-paying natives."
+     "text": "Or “enrolled in their former restricted status”; the Greek is obscure. The registration (laographia) apparently reduced the Jews to the status of tax-paying natives."
     },
     {
      "m": "g",
      "ref": "2:31",
-     "text": "The phrase is obscure; it may mean that they were glad to abandon the hard steps of their own faith for the city's religion."
+     "text": "The phrase is obscure; it may mean that they were glad to abandon the hard steps of their own faith for the city’s religion."
     }
    ]
   },
@@ -397,7 +397,7 @@
     },
     {
      "v": 7,
-     "text": "but they kept talking of the difference in worship and foods, claiming that these people were allies neither of the king nor of his forces, but were hostile and greatly opposed to the state's affairs; and they fastened no ordinary reproach upon them.{b}"
+     "text": "but they kept talking of the difference in worship and foods, claiming that these people were allies neither of the king nor of his forces, but were hostile and greatly opposed to the state’s affairs; and they fastened no ordinary reproach upon them.{b}"
     },
     {
      "v": 8,
@@ -417,7 +417,7 @@
     },
     {
      "v": 12,
-     "text": "\"King Ptolemy Philopator, to his commanders and troops throughout Egypt and in each locality: rejoice and be well."
+     "text": "“King Ptolemy Philopator, to his commanders and troops throughout Egypt and in each locality: rejoice and be well."
     },
     {
      "v": 13,
@@ -449,7 +449,7 @@
     },
     {
      "v": 20,
-     "text": "\"But we, bearing with their folly, and having come back with victory, and on arriving in Egypt meeting all the nations with humanity, have done as was fitting."
+     "text": "“But we, bearing with their folly, and having come back with victory, and on arriving in Egypt meeting all the nations with humanity, have done as was fitting."
     },
     {
      "v": 21,
@@ -485,7 +485,7 @@
     },
     {
      "v": 29,
-     "text": "Every place where a sheltered Jew is detected at all shall be made untrodden and burned with fire, and shall be shown wholly useless to every mortal creature for all time.\""
+     "text": "Every place where a sheltered Jew is detected at all shall be made untrodden and burned with fire, and shall be shown wholly useless to every mortal creature for all time.”"
     },
     {
      "v": 30,
@@ -496,27 +496,27 @@
     {
      "m": "a",
      "ref": "3:2",
-     "text": "Or \"a pretext being given by the rumor that they hindered others from keeping the laws\"; the Greek is obscure."
+     "text": "Or “a pretext being given by the rumor that they hindered others from keeping the laws”; the Greek is obscure."
     },
     {
      "m": "b",
      "ref": "3:7",
-     "text": "Or \"they attached no small blame to them.\""
+     "text": "Or “they attached no small blame to them.”"
     },
     {
      "m": "c",
      "ref": "3:15",
-     "text": "Coele-Syria (\"hollow Syria\") is the region between the Lebanon ranges, and more broadly the southern Levant."
+     "text": "Coele-Syria (“hollow Syria”) is the region between the Lebanon ranges, and more broadly the southern Levant."
     },
     {
      "m": "d",
      "ref": "3:21",
-     "text": "Greek \"of the priests always,\" perhaps of the state cults; the sense is uncertain."
+     "text": "Greek “of the priests always,” perhaps of the state cults; the sense is uncertain."
     },
     {
      "m": "e",
      "ref": "3:28",
-     "text": "Greek \"two thousand drachmas\"; a drachma was about 0.15 oz (4.3 g), so the total is about 19 lb (8.6 kg)."
+     "text": "Greek “two thousand drachmas”; a drachma was about 0.15 oz (4.3 g), so the total is about 19 lb (8.6 kg)."
     }
    ]
   },
@@ -617,7 +617,7 @@
     {
      "m": "a",
      "ref": "4:6",
-     "text": "Or \"foreign cubs\"; the image is of animals tearing their prey. The Greek is obscure."
+     "text": "Or “foreign cubs”; the image is of animals tearing their prey. The Greek is obscure."
     },
     {
      "m": "b",
@@ -725,7 +725,7 @@
     },
     {
      "v": 20,
-     "text": "the king, having a cruelty worse than that of Phalaris,{c} said that they could thank his sleep for this day; \"but without delay, for the coming day, get the elephants ready in the same way for the annihilation of the lawless Jews.\""
+     "text": "the king, having a cruelty worse than that of Phalaris,{c} said that they could thank his sleep for this day; “but without delay, for the coming day, get the elephants ready in the same way for the annihilation of the lawless Jews.”"
     },
     {
      "v": 21,
@@ -749,7 +749,7 @@
     },
     {
      "v": 26,
-     "text": "The sun's rays were not yet spreading, and while the king was receiving his Friends, Hermon stood by and summoned him to go out, pointing out that the king's desire lay ready."
+     "text": "The sun’s rays were not yet spreading, and while the king was receiving his Friends, Hermon stood by and summoned him to go out, pointing out that the king’s desire lay ready."
     },
     {
      "v": 27,
@@ -761,7 +761,7 @@
     },
     {
      "v": 29,
-     "text": "Hermon and all the Friends pointed to the beasts and the forces: \"They have been made ready, O king, in accordance with your earnest purpose.\""
+     "text": "Hermon and all the Friends pointed to the beasts and the forces: “They have been made ready, O king, in accordance with your earnest purpose.”"
     },
     {
      "v": 30,
@@ -769,11 +769,11 @@
     },
     {
      "v": 31,
-     "text": "\"If your parents were present, or your children's offspring, I would have prepared them as this abundant feast for the wild beasts, instead of the Jews, who are blameless toward me and have shown complete and firm loyalty to my ancestors in an outstanding way."
+     "text": "“If your parents were present, or your children’s offspring, I would have prepared them as this abundant feast for the wild beasts, instead of the Jews, who are blameless toward me and have shown complete and firm loyalty to my ancestors in an outstanding way."
     },
     {
      "v": 32,
-     "text": "Indeed, were it not for the affection of our upbringing together and your service, you would have been deprived of life instead of them.\"{f}"
+     "text": "Indeed, were it not for the affection of our upbringing together and your service, you would have been deprived of life instead of them.”{f}"
     },
     {
      "v": 33,
@@ -793,11 +793,11 @@
     },
     {
      "v": 37,
-     "text": "And calling Hermon, he said with threats, \"How many times must I give you orders about these very things, you most wretched man?"
+     "text": "And calling Hermon, he said with threats, “How many times must I give you orders about these very things, you most wretched man?"
     },
     {
      "v": 38,
-     "text": "Arm the elephants now once more for tomorrow, for the annihilation of the Jews.\""
+     "text": "Arm the elephants now once more for tomorrow, for the annihilation of the Jews.”"
     },
     {
      "v": 39,
@@ -805,11 +805,11 @@
     },
     {
      "v": 40,
-     "text": "\"O king, how long will you put us to the test in this way, ordering now for the third time that they be destroyed, and again undoing by a change of mind, when it comes to the deed, what you have decided?"
+     "text": "“O king, how long will you put us to the test in this way, ordering now for the third time that they be destroyed, and again undoing by a change of mind, when it comes to the deed, what you have decided?"
     },
     {
      "v": 41,
-     "text": "Because of this the city is in turmoil through the suspense; and being thronged with mobs it is already in danger of being plundered many times over.\""
+     "text": "Because of this the city is in turmoil through the suspense; and being thronged with mobs it is already in danger of being plundered many times over.”"
     },
     {
      "v": 42,
@@ -837,7 +837,7 @@
     },
     {
      "v": 48,
-     "text": "When the Jews saw the dust of the elephants going out at the gate and of the armed force following and of the crowd's march, and heard the deep-sounding din,"
+     "text": "When the Jews saw the dust of the elephants going out at the gate and of the armed force following and of the crowd’s march, and heard the deep-sounding din,"
     },
     {
      "v": 49,
@@ -871,7 +871,7 @@
     {
      "m": "d",
      "ref": "5:25",
-     "text": "Or \"through the moment that drew out their souls\"; the Greek is obscure."
+     "text": "Or “through the moment that drew out their souls”; the Greek is obscure."
     },
     {
      "m": "e",
@@ -902,7 +902,7 @@
     },
     {
      "v": 2,
-     "text": "\"King of great power, Most High, God Almighty, who govern all creation with compassion,"
+     "text": "“King of great power, Most High, God Almighty, who govern all creation with compassion,"
     },
     {
      "v": 3,
@@ -938,7 +938,7 @@
     },
     {
      "v": 11,
-     "text": "Let not the vain-minded bless their vain idols for the destruction of your beloved, saying, 'Not even their God rescued them.'"
+     "text": "Let not the vain-minded bless their vain idols for the destruction of your beloved, saying, ‘Not even their God rescued them.’"
     },
     {
      "v": 12,
@@ -954,7 +954,7 @@
     },
     {
      "v": 15,
-     "text": "Make it known to all the nations that you stand with us, O Lord, and have not turned your countenance away from us; rather, as you declared, 'Even while they were in their enemies' land, I did not disregard them,'{e} so accomplish it, Lord.\""
+     "text": "Make it known to all the nations that you stand with us, O Lord, and have not turned your countenance away from us; rather, as you declared, ‘Even while they were in their enemies’ land, I did not disregard them,’{e} so accomplish it, Lord.”"
     },
     {
      "v": 16,
@@ -974,7 +974,7 @@
     },
     {
      "v": 20,
-     "text": "Even the king's body began to shudder, and forgetfulness seized his heavy-tempered boldness."
+     "text": "Even the king’s body began to shudder, and forgetfulness seized his heavy-tempered boldness."
     },
     {
      "v": 21,
@@ -982,7 +982,7 @@
     },
     {
      "v": 22,
-     "text": "Then the king's wrath was turned to pity and tears on account of what he had devised before."
+     "text": "Then the king’s wrath was turned to pity and tears on account of what he had devised before."
     },
     {
      "v": 23,
@@ -990,7 +990,7 @@
     },
     {
      "v": 24,
-     "text": "\"You are usurping royal power, and have surpassed tyrants in cruelty; and even me, your benefactor, you are attempting to remove now from rule and from life, secretly devising things not to the advantage of the kingdom."
+     "text": "“You are usurping royal power, and have surpassed tyrants in cruelty; and even me, your benefactor, you are attempting to remove now from rule and from life, secretly devising things not to the advantage of the kingdom."
     },
     {
      "v": 25,
@@ -1006,7 +1006,7 @@
     },
     {
      "v": 28,
-     "text": "Release the sons of the almighty, heavenly, living God, who from our ancestors' time until now has granted unhindered stability with glory to our affairs.\""
+     "text": "Release the sons of the almighty, heavenly, living God, who from our ancestors’ time until now has granted unhindered stability with glory to our affairs.”"
     },
     {
      "v": 29,
@@ -1065,7 +1065,7 @@
     {
      "m": "a",
      "ref": "6:1",
-     "text": "Or \"having bidden the elders around him to call upon the holy God\"; the Greek can be taken either way."
+     "text": "Or “having bidden the elders around him to call upon the holy God”; the Greek can be taken either way."
     },
     {
      "m": "b",
@@ -1105,7 +1105,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "\"King Ptolemy Philopator, to the generals in Egypt and to all who are appointed over affairs: greetings and good health."
+     "text": "“King Ptolemy Philopator, to the generals in Egypt and to all who are appointed over affairs: greetings and good health."
     },
     {
      "v": 2,
@@ -1137,7 +1137,7 @@
     },
     {
      "v": 9,
-     "text": "Understand that should we contrive some wicked scheme against these people, or vex them in the least, it is no mortal but God Most High, master of every power, whom we shall find set against us, beyond escape, forever, to avenge these deeds. Farewell.\""
+     "text": "Understand that should we contrive some wicked scheme against these people, or vex them in the least, it is no mortal but God Most High, master of every power, whom we shall find set against us, beyond escape, forever, to avenge these deeds. Farewell.”"
     },
     {
      "v": 10,
@@ -1145,7 +1145,7 @@
     },
     {
      "v": 11,
-     "text": "alleging that men who for their stomach's sake had broken the commands of God would never be loyal to the commands of the king either."
+     "text": "alleging that men who for their stomach’s sake had broken the commands of God would never be loyal to the commands of the king either."
     },
     {
      "v": 12,
@@ -1153,7 +1153,7 @@
     },
     {
      "v": 13,
-     "text": "Then, applauding him as was fitting, their priests and the whole multitude, shouting \"Hallelujah,\"{c} departed with joy."
+     "text": "Then, applauding him as was fitting, their priests and the whole multitude, shouting “Hallelujah,”{c} departed with joy."
     },
     {
      "v": 14,
@@ -1169,7 +1169,7 @@
     },
     {
      "v": 17,
-     "text": "When they had arrived at Ptolemais, called \"rose-bearing\" because of the character of the place,{e} where the fleet waited for them seven days in accordance with their common resolve,"
+     "text": "When they had arrived at Ptolemais, called “rose-bearing” because of the character of the place,{e} where the fleet waited for them seven days in accordance with their common resolve,"
     },
     {
      "v": 18,
@@ -1181,7 +1181,7 @@
     },
     {
      "v": 20,
-     "text": "These they consecrated on a pillar, and having founded a house of prayer where the drinking feast had been held, they went away unhurt, at liberty, exceedingly glad, brought safely through by land and sea and river at the king's command, each to his own home.{f}"
+     "text": "These they consecrated on a pillar, and having founded a house of prayer where the drinking feast had been held, they went away unhurt, at liberty, exceedingly glad, brought safely through by land and sea and river at the king’s command, each to his own home.{f}"
     },
     {
      "v": 21,
@@ -1210,12 +1210,12 @@
     {
      "m": "c",
      "ref": "7:13",
-     "text": "Hebrew for \"Praise the LORD.\""
+     "text": "Hebrew for “Praise the LORD.”"
     },
     {
      "m": "d",
      "ref": "7:16",
-     "text": "Or \"set out from the city of the shouting\"; the Greek is obscure."
+     "text": "Or “set out from the city of the shouting”; the Greek is obscure."
     },
     {
      "m": "e",
@@ -1225,7 +1225,7 @@
     {
      "m": "f",
      "ref": "7:20",
-     "text": "The Greek text followed here breaks off after \"each to his\"; the words \"own home\" are supplied from the sense, and the opening of v. 21 is likewise incomplete."
+     "text": "The Greek text followed here breaks off after “each to his”; the words “own home” are supplied from the sense, and the opening of v. 21 is likewise incomplete."
     }
    ]
   }

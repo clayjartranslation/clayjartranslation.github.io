@@ -2,7 +2,7 @@
  "id": "sirach-ben-sira",
  "name": "Sirach (Ben Sira)",
  "division": "Apocrypha",
- "sourceNote": "Translated from the Greek text of Sirach (the Wisdom of Jesus son of Sirach, Ecclesiasticus) as printed in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 2 (1891; public domain), which follows Codex Vaticanus (B) with the readings of Sinaiticus (ℵ), Alexandrinus (A) and others. The book was written in Hebrew by Jesus (Yeshua) son of Eleazar son of Sira in Jerusalem about 190–180 BC and translated into Greek in Egypt by his grandfather's grandson, as the translator's Prologue explains, after 132 BC. About two-thirds of the Hebrew has been recovered, as reported: six medieval manuscripts from the Cairo Geniza (MSS A–F, found from 1896 on), a scroll from Masada (1st century BC, covering 39:27–44:17), and from Qumran 2Q18 (2QSir, fragments of chapter 6) and the Psalms Scroll 11QPs-a (51:13–20 and the end of 51:30). Where these differ in substance from the Greek, the notes mention it, in general terms unless the reading has been checked. A longer Greek recension (“GII”), attested in some manuscripts and in the Latin, adds lines and whole verses; the verses that standard English Bibles number from GII but that are absent from Swete's text are given here in square brackets with a note, and other GII additions are given in the notes. In 30:25–36:16 the Greek manuscripts have two blocks of text transposed; this translation follows the order of the Hebrew, the Latin and English Bibles (NRSV numbering), as noted at 30:25 and 33:13. Sirach is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha. The Greek translator's Prologue is printed before chapter 1. Greek *kyrios* is rendered “Lord” and *theos* “God.” Measures are given in US units with the original and metric values in the notes; dates are given as BC/AD. Variant readings not checked directly against the manuscripts are cited “as reported.” Brenton's English (1844) was consulted only as a check and not copied. CJT draft.",
+ "sourceNote": "Translated from the Greek text of Sirach (the Wisdom of Jesus son of Sirach, Ecclesiasticus) as printed in H. B. Swete, *The Old Testament in Greek according to the Septuagint*, vol. 2 (1891; public domain), which follows Codex Vaticanus (B) with the readings of Sinaiticus (ℵ), Alexandrinus (A) and others. The book was written in Hebrew by Jesus (Yeshua) son of Eleazar son of Sira in Jerusalem about 190–180 BC and translated into Greek in Egypt by his grandfather’s grandson, as the translator’s Prologue explains, after 132 BC. About two-thirds of the Hebrew has been recovered, as reported: six medieval manuscripts from the Cairo Geniza (MSS A–F, found from 1896 on), a scroll from Masada (1st century BC, covering 39:27–44:17), and from Qumran 2Q18 (2QSir, fragments of chapter 6) and the Psalms Scroll 11QPs-a (51:13–20 and the end of 51:30). Where these differ in substance from the Greek, the notes mention it, in general terms unless the reading has been checked. A longer Greek recension (“GII”), attested in some manuscripts and in the Latin, adds lines and whole verses; the verses that standard English Bibles number from GII but that are absent from Swete’s text are given here in square brackets with a note, and other GII additions are given in the notes. In 30:25–36:16 the Greek manuscripts have two blocks of text transposed; this translation follows the order of the Hebrew, the Latin and English Bibles (NRSV numbering), as noted at 30:25 and 33:13. Sirach is received as Scripture by Catholic and Orthodox churches; Protestant churches place it among the Apocrypha. The Greek translator’s Prologue is printed before chapter 1. Greek *kyrios* is rendered “Lord” and *theos* “God.” Measures are given in US units with the original and metric values in the notes; dates are given as BC/AD. Variant readings not checked directly against the manuscripts are cited “as reported.” Brenton’s English (1844) was consulted only as a check and not copied. CJT draft.",
  "chapters": [
   {
    "n": 1,
@@ -38,7 +38,7 @@
     },
     {
      "v": 5,
-     "text": "[The spring of wisdom is God's word on high,\nand her paths are commands everlasting.]{c}"
+     "text": "[The spring of wisdom is God’s word on high,\nand her paths are commands everlasting.]{c}"
     },
     {
      "v": 6,
@@ -46,7 +46,7 @@
     },
     {
      "v": 7,
-     "text": "[Wisdom's knowledge — to whom has it been shown?\nHer rich experience — who has grasped it?]"
+     "text": "[Wisdom’s knowledge — to whom has it been shown?\nHer rich experience — who has grasped it?]"
     },
     {
      "v": 8,
@@ -82,7 +82,7 @@
     },
     {
      "v": 16,
-     "text": "To fear the Lord is wisdom's fullness;\nshe makes people drunk with her fruits."
+     "text": "To fear the Lord is wisdom’s fullness;\nshe makes people drunk with her fruits."
     },
     {
      "v": 17,
@@ -90,7 +90,7 @@
     },
     {
      "v": 18,
-     "text": "The fear of the Lord is wisdom's garland,\nmaking peace and sound health bloom.{g}"
+     "text": "The fear of the Lord is wisdom’s garland,\nmaking peace and sound health bloom.{g}"
     },
     {
      "v": 19,
@@ -118,7 +118,7 @@
     },
     {
      "v": 25,
-     "text": "In wisdom's treasure chests are the proverbs of knowledge,\nbut reverence for God is a horror to the sinner."
+     "text": "In wisdom’s treasure chests are the proverbs of knowledge,\nbut reverence for God is a horror to the sinner."
     },
     {
      "v": 26,
@@ -134,7 +134,7 @@
     },
     {
      "v": 29,
-     "text": "Do not act a part in people's mouths,{j}\nand keep watch on your lips."
+     "text": "Do not act a part in people’s mouths,{j}\nand keep watch on your lips."
     },
     {
      "v": 30,
@@ -155,7 +155,7 @@
     {
      "m": "c",
      "ref": "1:5",
-     "text": "Verse 5 is lacking in Swete's text and in the oldest Greek manuscripts; it belongs to the longer Greek recension (GII) and the Latin. So also verses 7 and 21 below."
+     "text": "Verse 5 is lacking in Swete’s text and in the oldest Greek manuscripts; it belongs to the longer Greek recension (GII) and the Latin. So also verses 7 and 21 below."
     },
     {
      "m": "d",
@@ -309,7 +309,7 @@
     },
     {
      "v": 2,
-     "text": "For the Lord gave the father glory over the children,\nand made firm the mother's right over her sons."
+     "text": "For the Lord gave the father glory over the children,\nand made firm the mother’s right over her sons."
     },
     {
      "v": 3,
@@ -337,15 +337,15 @@
     },
     {
      "v": 9,
-     "text": "For a father's blessing props up the houses of children,\nbut a mother's curse pulls up foundations."
+     "text": "For a father’s blessing props up the houses of children,\nbut a mother’s curse pulls up foundations."
     },
     {
      "v": 10,
-     "text": "Do not seek glory in your father's dishonor,\nfor that is no glory to you."
+     "text": "Do not seek glory in your father’s dishonor,\nfor that is no glory to you."
     },
     {
      "v": 11,
-     "text": "For a person's glory springs from his father's honor,\nand a mother in disgrace is a reproach to her children."
+     "text": "For a person’s glory springs from his father’s honor,\nand a mother in disgrace is a reproach to her children."
     },
     {
      "v": 12,
@@ -365,7 +365,7 @@
     },
     {
      "v": 16,
-     "text": "Like one who reviles God is he who leaves his father in the lurch,\nand one who stirs his mother to anger lies under the Lord's curse."
+     "text": "Like one who reviles God is he who leaves his father in the lurch,\nand one who stirs his mother to anger lies under the Lord’s curse."
     },
     {
      "v": 17,
@@ -381,7 +381,7 @@
     },
     {
      "v": 20,
-     "text": "For the Lord's might is great,\nand by the lowly he is glorified."
+     "text": "For the Lord’s might is great,\nand by the lowly he is glorified."
     },
     {
      "v": 21,
@@ -442,12 +442,12 @@
     {
      "m": "c",
      "ref": "3:19",
-     "text": "Verse 19 is lacking in Swete's text; it belongs to GII."
+     "text": "Verse 19 is lacking in Swete’s text; it belongs to GII."
     },
     {
      "m": "d",
      "ref": "3:25",
-     "text": "Verse 25 is lacking in Swete's text and in the main Greek manuscripts; it is found in other witnesses and in the Hebrew (MS A), as reported."
+     "text": "Verse 25 is lacking in Swete’s text and in the main Greek manuscripts; it is found in other witnesses and in the Hebrew (MS A), as reported."
     }
    ]
   },
@@ -636,7 +636,7 @@
     },
     {
      "v": 7,
-     "text": "Do not wait to turn back to the Lord,\nand do not keep putting it off from day to day;\nfor suddenly the Lord's wrath will burst out,\nand in the time of punishment you will be wiped out."
+     "text": "Do not wait to turn back to the Lord,\nand do not keep putting it off from day to day;\nfor suddenly the Lord’s wrath will burst out,\nand in the time of punishment you will be wiped out."
     },
     {
      "v": 8,
@@ -660,7 +660,7 @@
     },
     {
      "v": 13,
-     "text": "Glory and disgrace come by talking,\nand a person's tongue can be his fall."
+     "text": "Glory and disgrace come by talking,\nand a person’s tongue can be his fall."
     },
     {
      "v": 14,
@@ -689,7 +689,7 @@
     },
     {
      "v": 2,
-     "text": "Do not lift yourself up in your soul's own counsel,\nor your soul will be torn in pieces as by a bull;{a}"
+     "text": "Do not lift yourself up in your soul’s own counsel,\nor your soul will be torn in pieces as by a bull;{a}"
     },
     {
      "v": 3,
@@ -878,7 +878,7 @@
     },
     {
      "v": 5,
-     "text": "Do not justify yourself before the Lord,\nand do not play the sage in the king's presence."
+     "text": "Do not justify yourself before the Lord,\nand do not play the sage in the king’s presence."
     },
     {
      "v": 6,
@@ -1024,7 +1024,7 @@
     {
      "m": "d",
      "ref": "7:26",
-     "text": "The second line is lacking in Swete's text; it is found in other witnesses and in the Hebrew (MS A), as reported."
+     "text": "The second line is lacking in Swete’s text; it is found in other witnesses and in the Hebrew (MS A), as reported."
     },
     {
      "m": "e",
@@ -1079,7 +1079,7 @@
     },
     {
      "v": 10,
-     "text": "Do not kindle a sinner's coals,\nor you may be scorched in the flame of his fire."
+     "text": "Do not kindle a sinner’s coals,\nor you may be scorched in the flame of his fire."
     },
     {
      "v": 11,
@@ -1164,7 +1164,7 @@
     },
     {
      "v": 8,
-     "text": "Turn your eye away from a shapely woman,\nand do not stare at beauty that belongs to another;\nby a woman's beauty many have been led astray,\nand from it desire is kindled like fire."
+     "text": "Turn your eye away from a shapely woman,\nand do not stare at beauty that belongs to another;\nby a woman’s beauty many have been led astray,\nand from it desire is kindled like fire."
     },
     {
      "v": 9,
@@ -1176,7 +1176,7 @@
     },
     {
      "v": 11,
-     "text": "Do not envy a sinner's glory,\nfor you do not know how he will be overthrown."
+     "text": "Do not envy a sinner’s glory,\nfor you do not know how he will be overthrown."
     },
     {
      "v": 12,
@@ -1200,7 +1200,7 @@
     },
     {
      "v": 17,
-     "text": "A work wins praise for the craftsman's hand,\nand a ruler of the people for the wisdom of his speech."
+     "text": "A work wins praise for the craftsman’s hand,\nand a ruler of the people for the wisdom of his speech."
     },
     {
      "v": 18,
@@ -1235,7 +1235,7 @@
     },
     {
      "v": 2,
-     "text": "As the people's judge is, so are his officers,\nand as the city's ruler is, so are all who dwell in it."
+     "text": "As the people’s judge is, so are his officers,\nand as the city’s ruler is, so are all who dwell in it."
     },
     {
      "v": 3,
@@ -1243,11 +1243,11 @@
     },
     {
      "v": 4,
-     "text": "Authority over the earth lies in the Lord's hand,\nand at the right season he will raise up over it the one who is fit."
+     "text": "Authority over the earth lies in the Lord’s hand,\nand at the right season he will raise up over it the one who is fit."
     },
     {
      "v": 5,
-     "text": "A man's success lies in the Lord's hand,\nand on the person of the scribe he will lay his own glory.{a}"
+     "text": "A man’s success lies in the Lord’s hand,\nand on the person of the scribe he will lay his own glory.{a}"
     },
     {
      "v": 6,
@@ -1373,7 +1373,7 @@
     {
      "m": "d",
      "ref": "10:21",
-     "text": "Verse 21 is lacking in Swete's text; it belongs to the longer Greek recension (GII)."
+     "text": "Verse 21 is lacking in Swete’s text; it belongs to the longer Greek recension (GII)."
     }
    ]
   },
@@ -1409,7 +1409,7 @@
     },
     {
      "v": 6,
-     "text": "Many potentates have been deeply disgraced,\nand men of note have been handed into others' hands."
+     "text": "Many potentates have been deeply disgraced,\nand men of note have been handed into others’ hands."
     },
     {
      "v": 7,
@@ -1417,7 +1417,7 @@
     },
     {
      "v": 8,
-     "text": "Before you hear, do not answer,\nand do not throw in words in the middle of another's speech."
+     "text": "Before you hear, do not answer,\nand do not throw in words in the middle of another’s speech."
     },
     {
      "v": 9,
@@ -1453,7 +1453,7 @@
     },
     {
      "v": 17,
-     "text": "The Lord's gift abides with the godly,\nand his good pleasure will prosper them to the age."
+     "text": "The Lord’s gift abides with the godly,\nand his good pleasure will prosper them to the age."
     },
     {
      "v": 18,
@@ -1469,7 +1469,7 @@
     },
     {
      "v": 21,
-     "text": "Do not wonder at the works of a sinner;\ntrust in the Lord and keep at your labor;\nfor it is a light thing in the Lord's eyes\nswiftly, in a moment, to make a poor man rich."
+     "text": "Do not wonder at the works of a sinner;\ntrust in the Lord and keep at your labor;\nfor it is a light thing in the Lord’s eyes\nswiftly, in a moment, to make a poor man rich."
     },
     {
      "v": 22,
@@ -1489,11 +1489,11 @@
     },
     {
      "v": 26,
-     "text": "For it is a light thing for the Lord on the day of one's end\nto pay a person back according to his ways."
+     "text": "For it is a light thing for the Lord on the day of one’s end\nto pay a person back according to his ways."
     },
     {
      "v": 27,
-     "text": "An hour of hardship makes delight forgotten,\nand at a person's end his deeds are uncovered."
+     "text": "An hour of hardship makes delight forgotten,\nand at a person’s end his deeds are uncovered."
     },
     {
      "v": 28,
@@ -1528,7 +1528,7 @@
     {
      "m": "a",
      "ref": "11:15",
-     "text": "Verses 15 and 16 are lacking in Swete's text; they belong to the longer Greek recension (GII)."
+     "text": "Verses 15 and 16 are lacking in Swete’s text; they belong to the longer Greek recension (GII)."
     }
    ]
   },
@@ -1553,7 +1553,7 @@
     },
     {
      "v": 4,
-     "text": "Give to the godly man,\nand do not take the sinner's part."
+     "text": "Give to the godly man,\nand do not take the sinner’s part."
     },
     {
      "v": 5,
@@ -1565,7 +1565,7 @@
     },
     {
      "v": 7,
-     "text": "Give to the good man,\nand do not take the sinner's part."
+     "text": "Give to the good man,\nand do not take the sinner’s part."
     },
     {
      "v": 8,
@@ -1573,7 +1573,7 @@
     },
     {
      "v": 9,
-     "text": "In a man's good times his enemies are in sorrow,\nand in his bad times even his friend goes off from him."
+     "text": "In a man’s good times his enemies are in sorrow,\nand in his bad times even his friend goes off from him."
     },
     {
      "v": 10,
@@ -1731,7 +1731,7 @@
     },
     {
      "v": 25,
-     "text": "A person's heart alters his face,\nwhether for good or for evil."
+     "text": "A person’s heart alters his face,\nwhether for good or for evil."
     },
     {
      "v": 26,
@@ -1747,7 +1747,7 @@
     {
      "m": "b",
      "ref": "13:14",
-     "text": "Verse 14 is lacking in Swete's text; it belongs to the longer Greek recension (GII)."
+     "text": "Verse 14 is lacking in Swete’s text; it belongs to the longer Greek recension (GII)."
     }
    ]
   },
@@ -1913,7 +1913,7 @@
     },
     {
      "v": 9,
-     "text": "Praise is not seemly in a sinner's mouth,\nfor it was not sent from the Lord."
+     "text": "Praise is not seemly in a sinner’s mouth,\nfor it was not sent from the Lord."
     },
     {
      "v": 10,
@@ -2122,7 +2122,7 @@
     {
      "m": "e",
      "ref": "16:15",
-     "text": "Verses 15 and 16 are lacking in Swete's text; they belong to the longer Greek recension (GII). Compare Exod 7–11."
+     "text": "Verses 15 and 16 are lacking in Swete’s text; they belong to the longer Greek recension (GII). Compare Exod 7–11."
     }
    ]
   },
@@ -2220,7 +2220,7 @@
     },
     {
      "v": 22,
-     "text": "A man's almsgiving is like a signet with him,\nand a person's kindness he will keep like the pupil of the eye."
+     "text": "A man’s almsgiving is like a signet with him,\nand a person’s kindness he will keep like the pupil of the eye."
     },
     {
      "v": 23,
@@ -2272,7 +2272,7 @@
     {
      "m": "b",
      "ref": "17:5",
-     "text": "Verse 5 is lacking in Swete's text; it belongs to the longer Greek recension (GII), which counts the five senses as powers given by the Lord. So also verses 16, 18, and 21 below."
+     "text": "Verse 5 is lacking in Swete’s text; it belongs to the longer Greek recension (GII), which counts the five senses as powers given by the Lord. So also verses 16, 18, and 21 below."
     },
     {
      "m": "c",
@@ -2282,7 +2282,7 @@
     {
      "m": "d",
      "ref": "17:9",
-     "text": "Swete's text, like the NRSV, has verses 9 and 10 in the reverse order; they are given here in numerical order."
+     "text": "Swete’s text, like the NRSV, has verses 9 and 10 in the reverse order; they are given here in numerical order."
     },
     {
      "m": "e",
@@ -2335,7 +2335,7 @@
     },
     {
      "v": 9,
-     "text": "The number of a man's days — a hundred years is many.{c}"
+     "text": "The number of a man’s days — a hundred years is many.{c}"
     },
     {
      "v": 10,
@@ -2351,7 +2351,7 @@
     },
     {
      "v": 13,
-     "text": "A person's mercy is toward his neighbor,\nbut the Lord's mercy is toward all flesh;\nhe reproves and trains and teaches\nand turns them back, as a shepherd his flock."
+     "text": "A person’s mercy is toward his neighbor,\nbut the Lord’s mercy is toward all flesh;\nhe reproves and trains and teaches\nand turns them back, as a shepherd his flock."
     },
     {
      "v": 14,
@@ -2371,7 +2371,7 @@
     },
     {
      "v": 18,
-     "text": "A fool reproaches without grace,\nand a begrudging man's gift makes the eyes waste away."
+     "text": "A fool reproaches without grace,\nand a begrudging man’s gift makes the eyes waste away."
     },
     {
      "v": 19,
@@ -2443,7 +2443,7 @@
     {
      "m": "b",
      "ref": "18:3",
-     "text": "Verse 3 is lacking in Swete's text; it belongs to the longer Greek recension (GII)."
+     "text": "Verse 3 is lacking in Swete’s text; it belongs to the longer Greek recension (GII)."
     },
     {
      "m": "c",
@@ -2511,7 +2511,7 @@
     },
     {
      "v": 12,
-     "text": "An arrow fixed in the flesh of the thigh —\nso is a word in a fool's belly."
+     "text": "An arrow fixed in the flesh of the thigh —\nso is a word in a fool’s belly."
     },
     {
      "v": 13,
@@ -2539,7 +2539,7 @@
     },
     {
      "v": 19,
-     "text": "[Knowing the Lord's commandments is a discipline that gives life,\nand those who do what pleases him pluck the fruit of the tree of deathlessness.]"
+     "text": "[Knowing the Lord’s commandments is a discipline that gives life,\nand those who do what pleases him pluck the fruit of the tree of deathlessness.]"
     },
     {
      "v": 20,
@@ -2583,7 +2583,7 @@
     },
     {
      "v": 30,
-     "text": "A man's dress and the grin of his teeth\nand the steps he takes report what he is."
+     "text": "A man’s dress and the grin of his teeth\nand the steps he takes report what he is."
     }
    ],
    "notes": [
@@ -2595,7 +2595,7 @@
     {
      "m": "b",
      "ref": "19:18",
-     "text": "Verses 18, 19, and 21 are lacking in Swete's text; they belong to the longer Greek recension (GII)."
+     "text": "Verses 18, 19, and 21 are lacking in Swete’s text; they belong to the longer Greek recension (GII)."
     }
    ]
   },
@@ -2623,7 +2623,7 @@
     },
     {
      "v": 4,
-     "text": "A eunuch's lust to deflower a girl —\nsuch is one who works out judgments by force."
+     "text": "A eunuch’s lust to deflower a girl —\nsuch is one who works out judgments by force."
     },
     {
      "v": 5,
@@ -2663,7 +2663,7 @@
     },
     {
      "v": 14,
-     "text": "A senseless man's gift will not profit you,\nfor his eyes are many instead of one.{a}"
+     "text": "A senseless man’s gift will not profit you,\nfor his eyes are many instead of one.{a}"
     },
     {
      "v": 15,
@@ -2687,7 +2687,7 @@
     },
     {
      "v": 20,
-     "text": "A proverb from a fool's mouth will be refused,\nfor he will not say it in its season."
+     "text": "A proverb from a fool’s mouth will be refused,\nfor he will not say it in its season."
     },
     {
      "v": 21,
@@ -2755,7 +2755,7 @@
     },
     {
      "v": 2,
-     "text": "As from the face of a snake, flee from sin;\nfor if you go near, it will bite you;\nits teeth are a lion's teeth,\nslaying the souls of people."
+     "text": "As from the face of a snake, flee from sin;\nfor if you go near, it will bite you;\nits teeth are a lion’s teeth,\nslaying the souls of people."
     },
     {
      "v": 3,
@@ -2767,11 +2767,11 @@
     },
     {
      "v": 5,
-     "text": "A poor man's supplication goes from his mouth to his ears,{a}\nand his judgment comes in haste."
+     "text": "A poor man’s supplication goes from his mouth to his ears,{a}\nand his judgment comes in haste."
     },
     {
      "v": 6,
-     "text": "One who hates reproof walks in the sinner's track,\nbut one who fears the Lord will turn back in his heart."
+     "text": "One who hates reproof walks in the sinner’s track,\nbut one who fears the Lord will turn back in his heart."
     },
     {
      "v": 7,
@@ -2779,7 +2779,7 @@
     },
     {
      "v": 8,
-     "text": "One who builds his house with other people's money\nis like one gathering stones for his own grave mound.{b}"
+     "text": "One who builds his house with other people’s money\nis like one gathering stones for his own grave mound.{b}"
     },
     {
      "v": 9,
@@ -2799,11 +2799,11 @@
     },
     {
      "v": 13,
-     "text": "A wise man's knowledge will swell like a flood,\nand his counsel like a spring of life."
+     "text": "A wise man’s knowledge will swell like a flood,\nand his counsel like a spring of life."
     },
     {
      "v": 14,
-     "text": "A fool's insides are like a broken jar;\nhe will hold no knowledge."
+     "text": "A fool’s insides are like a broken jar;\nhe will hold no knowledge."
     },
     {
      "v": 15,
@@ -2811,7 +2811,7 @@
     },
     {
      "v": 16,
-     "text": "A fool's narration is like a load on the road,\nbut on the lips of the understanding grace will be found."
+     "text": "A fool’s narration is like a load on the road,\nbut on the lips of the understanding grace will be found."
     },
     {
      "v": 17,
@@ -2835,7 +2835,7 @@
     },
     {
      "v": 22,
-     "text": "A fool's foot is quick into a house,\nbut a man of experience is abashed before a face."
+     "text": "A fool’s foot is quick into a house,\nbut a man of experience is abashed before a face."
     },
     {
      "v": 23,
@@ -2851,7 +2851,7 @@
     },
     {
      "v": 26,
-     "text": "In fools' mouths is their heart,\nbut in the heart of the wise is their mouth."
+     "text": "In fools’ mouths is their heart,\nbut in the heart of the wise is their mouth."
     },
     {
      "v": 27,
@@ -2866,7 +2866,7 @@
     {
      "m": "a",
      "ref": "21:5",
-     "text": "That is, to God's ears."
+     "text": "That is, to God’s ears."
     },
     {
      "m": "b",
@@ -2935,7 +2935,7 @@
     },
     {
      "v": 11,
-     "text": "Weep over a dead man, for light has failed him,\nand weep over a fool, for understanding has failed him;\nweep more gently over a dead man, for he has gone to rest,\nbut the fool's life is worse than death."
+     "text": "Weep over a dead man, for light has failed him,\nand weep over a fool, for understanding has failed him;\nweep more gently over a dead man, for he has gone to rest,\nbut the fool’s life is worse than death."
     },
     {
      "v": 12,
@@ -2963,7 +2963,7 @@
     },
     {
      "v": 18,
-     "text": "Stakes standing on a height{b}\nwill not hold against the wind;\njust so, a cowering heart, with a fool's thoughts,\nwill not hold against any fear."
+     "text": "Stakes standing on a height{b}\nwill not hold against the wind;\njust so, a cowering heart, with a fool’s thoughts,\nwill not hold against any fear."
     },
     {
      "v": 19,
@@ -3006,7 +3006,7 @@
     {
      "m": "a",
      "ref": "22:7",
-     "text": "Verses 7 and 8 are lacking in Swete's text; they belong to the longer Greek recension (GII)."
+     "text": "Verses 7 and 8 are lacking in Swete’s text; they belong to the longer Greek recension (GII)."
     },
     {
      "m": "b",
@@ -3031,7 +3031,7 @@
     },
     {
      "v": 2,
-     "text": "Who will set whips over my thinking\nand wisdom's discipline over my heart,\nthat they may not spare my failings\nand not let their sins pass by?"
+     "text": "Who will set whips over my thinking\nand wisdom’s discipline over my heart,\nthat they may not spare my failings\nand not let their sins pass by?"
     },
     {
      "v": 3,
@@ -3099,7 +3099,7 @@
     },
     {
      "v": 19,
-     "text": "What he fears is human eyes,\nand he has not grasped that the Lord's eyes\noutshine the sun ten thousandfold,\ngazing on all the ways of human beings\nand peering into hidden corners."
+     "text": "What he fears is human eyes,\nand he has not grasped that the Lord’s eyes\noutshine the sun ten thousandfold,\ngazing on all the ways of human beings\nand peering into hidden corners."
     },
     {
      "v": 20,
@@ -3160,7 +3160,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "Wisdom will sing her own soul's praise\nand will boast in the midst of her people."
+     "text": "Wisdom will sing her own soul’s praise\nand will boast in the midst of her people."
     },
     {
      "v": 2,
@@ -3180,7 +3180,7 @@
     },
     {
      "v": 6,
-     "text": "Over the sea's waves and over the whole earth,\nover every people and nation, I took possession."
+     "text": "Over the sea’s waves and over the whole earth,\nover every people and nation, I took possession."
     },
     {
      "v": 7,
@@ -3204,7 +3204,7 @@
     },
     {
      "v": 12,
-     "text": "I struck root among a people given glory,\nin the Lord's portion, his inheritance."
+     "text": "I struck root among a people given glory,\nin the Lord’s portion, his inheritance."
     },
     {
      "v": 13,
@@ -3216,7 +3216,7 @@
     },
     {
      "v": 15,
-     "text": "Like cinnamon and camel's thorn I gave off the fragrance of spices,\nand like choice myrrh I spread a sweet scent,\nlike galbanum and onycha and stacte,\nand like the vapor of frankincense in the tent.{b}"
+     "text": "Like cinnamon and camel’s thorn I gave off the fragrance of spices,\nand like choice myrrh I spread a sweet scent,\nlike galbanum and onycha and stacte,\nand like the vapor of frankincense in the tent.{b}"
     },
     {
      "v": 16,
@@ -3309,7 +3309,7 @@
     {
      "m": "c",
      "ref": "24:18",
-     "text": "Verses 18 and 24 are lacking in Swete's text; they belong to the longer Greek recension (GII)."
+     "text": "Verses 18 and 24 are lacking in Swete’s text; they belong to the longer Greek recension (GII)."
     },
     {
      "m": "d",
@@ -3324,7 +3324,7 @@
     {
      "m": "f",
      "ref": "24:27",
-     "text": "“Like light” is probably a misreading of a Hebrew word for “like the Nile” (ye'or read as 'or)."
+     "text": "“Like light” is probably a misreading of a Hebrew word for “like the Nile” (ye’or read as ‘or)."
     }
    ]
   },
@@ -3395,7 +3395,7 @@
     },
     {
      "v": 15,
-     "text": "There is no head above a snake's head,{d}\nand no wrath above an enemy's wrath."
+     "text": "There is no head above a snake’s head,{d}\nand no wrath above an enemy’s wrath."
     },
     {
      "v": 16,
@@ -3403,7 +3403,7 @@
     },
     {
      "v": 17,
-     "text": "A wife's wickedness alters her look\nand darkens her face like a bear's."
+     "text": "A wife’s wickedness alters her look\nand darkens her face like a bear’s."
     },
     {
      "v": 18,
@@ -3411,15 +3411,15 @@
     },
     {
      "v": 19,
-     "text": "Small is any wickedness beside a wife's wickedness;\nmay a sinner's lot fall upon her!"
+     "text": "Small is any wickedness beside a wife’s wickedness;\nmay a sinner’s lot fall upon her!"
     },
     {
      "v": 20,
-     "text": "A sandy climb for an old man's feet —\nso is a wife full of tongue to a quiet husband."
+     "text": "A sandy climb for an old man’s feet —\nso is a wife full of tongue to a quiet husband."
     },
     {
      "v": 21,
-     "text": "Do not fall headlong for a woman's beauty,\nand do not set your longing on a woman."
+     "text": "Do not fall headlong for a woman’s beauty,\nand do not set your longing on a woman."
     },
     {
      "v": 22,
@@ -3456,7 +3456,7 @@
     {
      "m": "c",
      "ref": "25:12",
-     "text": "Verse 12 is lacking in Swete's text; it belongs to the longer Greek recension (GII)."
+     "text": "Verse 12 is lacking in Swete’s text; it belongs to the longer Greek recension (GII)."
     },
     {
      "m": "d",
@@ -3502,11 +3502,11 @@
     },
     {
      "v": 5,
-     "text": "Of three things my heart was in dread,\nand over the fourth I made supplication:{a}\nslander in a city, a mob's gathering,\nand false accusation — all are more grievous than death."
+     "text": "Of three things my heart was in dread,\nand over the fourth I made supplication:{a}\nslander in a city, a mob’s gathering,\nand false accusation — all are more grievous than death."
     },
     {
      "v": 6,
-     "text": "But pain of heart and mourning is a wife jealous of a wife,\nand a tongue's whip that shares itself with all."
+     "text": "But pain of heart and mourning is a wife jealous of a wife,\nand a tongue’s whip that shares itself with all."
     },
     {
      "v": 7,
@@ -3518,7 +3518,7 @@
     },
     {
      "v": 9,
-     "text": "A wife's fornication shows in the lifting of her eyes,\nand by her eyelids it will be known."
+     "text": "A wife’s fornication shows in the lifting of her eyes,\nand by her eyelids it will be known."
     },
     {
      "v": 10,
@@ -3534,7 +3534,7 @@
     },
     {
      "v": 13,
-     "text": "A wife's grace delights her husband,\nand her knowing will put fat on his bones."
+     "text": "A wife’s grace delights her husband,\nand her knowing will put fat on his bones."
     },
     {
      "v": 14,
@@ -3546,7 +3546,7 @@
     },
     {
      "v": 16,
-     "text": "As the sun rising in the heights of the Lord,\nso is a good wife's beauty in the ordering of her house."
+     "text": "As the sun rising in the heights of the Lord,\nso is a good wife’s beauty in the ordering of her house."
     },
     {
      "v": 17,
@@ -3605,7 +3605,7 @@
     {
      "m": "a",
      "ref": "26:5",
-     "text": "So most witnesses; Swete's text has “my face was in dread.”"
+     "text": "So most witnesses; Swete’s text has “my face was in dread.”"
     },
     {
      "m": "b",
@@ -3615,7 +3615,7 @@
     {
      "m": "c",
      "ref": "26:19",
-     "text": "Verses 19–27 are lacking in Swete's text and the oldest Greek witnesses; they belong to the longer Greek recension (GII) and are found also in the Syriac, as reported."
+     "text": "Verses 19–27 are lacking in Swete’s text and the oldest Greek witnesses; they belong to the longer Greek recension (GII) and are found also in the Syriac, as reported."
     }
    ]
   },
@@ -3644,15 +3644,15 @@
     },
     {
      "v": 4,
-     "text": "When a sieve is shaken, the refuse stays behind;\nso a man's filth stays in his reasoning."
+     "text": "When a sieve is shaken, the refuse stays behind;\nso a man’s filth stays in his reasoning."
     },
     {
      "v": 5,
-     "text": "The furnace tests the potter's vessels,\nand a man's trial is in his reasoning."
+     "text": "The furnace tests the potter’s vessels,\nand a man’s trial is in his reasoning."
     },
     {
      "v": 6,
-     "text": "Fruit lays bare the tending of a tree;\nso the speech that expresses a thought lays bare a man's heart."
+     "text": "Fruit lays bare the tending of a tree;\nso the speech that expresses a thought lays bare a man’s heart."
     },
     {
      "v": 7,
@@ -3684,7 +3684,7 @@
     },
     {
      "v": 14,
-     "text": "The talk of a man of many oaths makes the hair stand up,\nand at their brawling one stops one's ears."
+     "text": "The talk of a man of many oaths makes the hair stand up,\nand at their brawling one stops one’s ears."
     },
     {
      "v": 15,
@@ -3700,7 +3700,7 @@
     },
     {
      "v": 18,
-     "text": "For as a man has destroyed his dead enemy,\nso you have destroyed your neighbor's friendship."
+     "text": "For as a man has destroyed his dead enemy,\nso you have destroyed your neighbor’s friendship."
     },
     {
      "v": 19,
@@ -3799,7 +3799,7 @@
     },
     {
      "v": 10,
-     "text": "As is the wood of the fire, so it will blaze;\nand as is the stubbornness of strife, so it will blaze;\nas a man's strength is, so will his wrath be,\nand in proportion to his riches he will raise his anger."
+     "text": "As is the wood of the fire, so it will blaze;\nand as is the stubbornness of strife, so it will blaze;\nas a man’s strength is, so will his wrath be,\nand in proportion to his riches he will raise his anger."
     },
     {
      "v": 11,
@@ -3831,7 +3831,7 @@
     },
     {
      "v": 18,
-     "text": "Many have fallen by the sword's mouth,\nyet not so many as those who have fallen by the tongue."
+     "text": "Many have fallen by the sword’s mouth,\nyet not so many as those who have fallen by the tongue."
     },
     {
      "v": 19,
@@ -3901,7 +3901,7 @@
     },
     {
      "v": 5,
-     "text": "Until he receives, he will kiss a man's hands,\nand he will lower his voice over his neighbor's money;\nbut at the time for repayment he will drag out the time\nand pay back words of indifference\nand lay the blame on the season."
+     "text": "Until he receives, he will kiss a man’s hands,\nand he will lower his voice over his neighbor’s money;\nbut at the time for repayment he will drag out the time\nand pay back words of indifference\nand lay the blame on the season."
     },
     {
      "v": 6,
@@ -3917,7 +3917,7 @@
     },
     {
      "v": 9,
-     "text": "For the commandment's sake take the part of a poor man,\nand in his need do not send him away empty."
+     "text": "For the commandment’s sake take the part of a poor man,\nand in his need do not send him away empty."
     },
     {
      "v": 10,
@@ -3961,7 +3961,7 @@
     },
     {
      "v": 20,
-     "text": "Take your neighbor's part as far as your strength allows,\nand look to yourself, so that you do not fall."
+     "text": "Take your neighbor’s part as far as your strength allows,\nand look to yourself, so that you do not fall."
     },
     {
      "v": 21,
@@ -3969,7 +3969,7 @@
     },
     {
      "v": 22,
-     "text": "Better a poor man's life under a shelter of beams\nthan splendid fare in other people's houses."
+     "text": "Better a poor man’s life under a shelter of beams\nthan splendid fare in other people’s houses."
     },
     {
      "v": 23,
@@ -4016,7 +4016,7 @@
     },
     {
      "v": 3,
-     "text": "One who teaches his son will rouse his enemy's jealousy\nand will exult over him before his friends."
+     "text": "One who teaches his son will rouse his enemy’s jealousy\nand will exult over him before his friends."
     },
     {
      "v": 4,
@@ -4092,7 +4092,7 @@
     },
     {
      "v": 22,
-     "text": "Gladness of heart is the life of a man,\nand a man's exultation is length of days."
+     "text": "Gladness of heart is the life of a man,\nand a man’s exultation is length of days."
     },
     {
      "v": 23,
@@ -4187,7 +4187,7 @@
     },
     {
      "v": 15,
-     "text": "Judge your neighbor's feelings from your own,\nand think over every matter."
+     "text": "Judge your neighbor’s feelings from your own,\nand think over every matter."
     },
     {
      "v": 16,
@@ -4195,7 +4195,7 @@
     },
     {
      "v": 17,
-     "text": "For manners' sake be the first to leave off,\nand do not be greedy past filling, lest you cause offense."
+     "text": "For manners’ sake be the first to leave off,\nand do not be greedy past filling, lest you cause offense."
     },
     {
      "v": 18,
@@ -4247,7 +4247,7 @@
     },
     {
      "v": 30,
-     "text": "Drunkenness swells a fool's rage to his stumbling,\ncutting down strength and adding wounds."
+     "text": "Drunkenness swells a fool’s rage to his stumbling,\ncutting down strength and adding wounds."
     },
     {
      "v": 31,
@@ -4417,7 +4417,7 @@
     },
     {
      "v": 5,
-     "text": "A fool's insides are a cartwheel,\nand his reasoning is like a spinning axle."
+     "text": "A fool’s insides are a cartwheel,\nand his reasoning is like a spinning axle."
     },
     {
      "v": 6,
@@ -4429,7 +4429,7 @@
     },
     {
      "v": 8,
-     "text": "By the Lord's knowledge they were set apart,\nand he varied the seasons and the feasts."
+     "text": "By the Lord’s knowledge they were set apart,\nand he varied the seasons and the feasts."
     },
     {
      "v": 9,
@@ -4449,7 +4449,7 @@
     },
     {
      "v": 13,
-     "text": "As the potter's clay is in his hand —\nall its ways are as he pleases —\nso human beings are in the hand of the One who made them,\nto render to them as he judges.{b}"
+     "text": "As the potter’s clay is in his hand —\nall its ways are as he pleases —\nso human beings are in the hand of the One who made them,\nto render to them as he judges.{b}"
     },
     {
      "v": 14,
@@ -4485,7 +4485,7 @@
     },
     {
      "v": 22,
-     "text": "For it is better that your children ask of you\nthan that you look to your sons' hands."
+     "text": "For it is better that your children ask of you\nthan that you look to your sons’ hands."
     },
     {
      "v": 23,
@@ -4653,7 +4653,7 @@
     },
     {
      "v": 24,
-     "text": "One who brings a sacrifice out of the goods of the poor\nis like one who slaughters a son before his father's eyes."
+     "text": "One who brings a sacrifice out of the goods of the poor\nis like one who slaughters a son before his father’s eyes."
     },
     {
      "v": 25,
@@ -4661,7 +4661,7 @@
     },
     {
      "v": 26,
-     "text": "One who takes away his neighbor's living murders him,"
+     "text": "One who takes away his neighbor’s living murders him,"
     },
     {
      "v": 27,
@@ -4726,11 +4726,11 @@
     },
     {
      "v": 6,
-     "text": "Do not appear in the Lord's presence empty-handed,{a}"
+     "text": "Do not appear in the Lord’s presence empty-handed,{a}"
     },
     {
      "v": 7,
-     "text": "for all these things are for the commandment's sake."
+     "text": "for all these things are for the commandment’s sake."
     },
     {
      "v": 8,
@@ -4766,15 +4766,15 @@
     },
     {
      "v": 16,
-     "text": "He will not take a person's part against a poor man,\nand he will hear the prayer of one who has been wronged."
+     "text": "He will not take a person’s part against a poor man,\nand he will hear the prayer of one who has been wronged."
     },
     {
      "v": 17,
-     "text": "He will never overlook the orphan's supplication,\nor the widow when she pours out her story."
+     "text": "He will never overlook the orphan’s supplication,\nor the widow when she pours out her story."
     },
     {
      "v": 18,
-     "text": "Do not a widow's tears run down her cheek,"
+     "text": "Do not a widow’s tears run down her cheek,"
     },
     {
      "v": 19,
@@ -4933,7 +4933,7 @@
     },
     {
      "v": 27,
-     "text": "A wife's beauty brightens the face\nand outdoes every desire of a man."
+     "text": "A wife’s beauty brightens the face\nand outdoes every desire of a man."
     },
     {
      "v": 28,
@@ -5003,11 +5003,11 @@
     },
     {
      "v": 4,
-     "text": "A companion takes pleasure in a friend's good cheer,\nbut in a season of affliction he will be against him."
+     "text": "A companion takes pleasure in a friend’s good cheer,\nbut in a season of affliction he will be against him."
     },
     {
      "v": 5,
-     "text": "A companion toils alongside a friend for the belly's sake,\nand in the face of battle he will take up the shield."
+     "text": "A companion toils alongside a friend for the belly’s sake,\nand in the face of battle he will take up the shield."
     },
     {
      "v": 6,
@@ -5043,7 +5043,7 @@
     },
     {
      "v": 14,
-     "text": "For a man's soul sometimes brings him word\nbetter than seven lookouts sitting on high on a watchtower."
+     "text": "For a man’s soul sometimes brings him word\nbetter than seven lookouts sitting on high on a watchtower."
     },
     {
      "v": 15,
@@ -5055,7 +5055,7 @@
     },
     {
      "v": 17,
-     "text": "As the track of the heart's turning,"
+     "text": "As the track of the heart’s turning,"
     },
     {
      "v": 18,
@@ -5135,7 +5135,7 @@
     },
     {
      "v": 3,
-     "text": "The physician's knowledge will lift up his head,\nand in the sight of great men he will be admired."
+     "text": "The physician’s knowledge will lift up his head,\nand in the sight of great men he will be admired."
     },
     {
      "v": 4,
@@ -5183,7 +5183,7 @@
     },
     {
      "v": 15,
-     "text": "One who sins in the sight of his Maker —\nlet him fall into the physician's hands.{c}"
+     "text": "One who sins in the sight of his Maker —\nlet him fall into the physician’s hands.{c}"
     },
     {
      "v": 16,
@@ -5195,7 +5195,7 @@
     },
     {
      "v": 18,
-     "text": "For from grief comes death,\nand grief of heart bends one's strength."
+     "text": "For from grief comes death,\nand grief of heart bends one’s strength."
     },
     {
      "v": 19,
@@ -5255,7 +5255,7 @@
     },
     {
      "v": 33,
-     "text": "Yet they will not be sought out for the council of the people,\nand in the assembly they will not rise high;\nthey will not sit on the judge's seat,\nand they will not understand the covenant of judgment;"
+     "text": "Yet they will not be sought out for the council of the people,\nand in the assembly they will not rise high;\nthey will not sit on the judge’s seat,\nand they will not understand the covenant of judgment;"
     },
     {
      "v": 34,
@@ -5325,11 +5325,11 @@
     },
     {
      "v": 7,
-     "text": "He will set straight his counsel and knowledge\nand ponder the Lord's hidden things."
+     "text": "He will set straight his counsel and knowledge\nand ponder the Lord’s hidden things."
     },
     {
      "v": 8,
-     "text": "He will bring to light the discipline of his teaching\nand will boast in the law of the Lord's covenant."
+     "text": "He will bring to light the discipline of his teaching\nand will boast in the law of the Lord’s covenant."
     },
     {
      "v": 9,
@@ -5429,7 +5429,7 @@
     },
     {
      "v": 33,
-     "text": "“Good, every one, are the Lord's doings,\nand each need in its hour he will furnish."
+     "text": "“Good, every one, are the Lord’s doings,\nand each need in its hour he will furnish."
     },
     {
      "v": 34,
@@ -5469,7 +5469,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "Great preoccupation has been created for every human being,\nand a heavy yoke is on the sons of Adam,\nfrom the day of their coming out of their mother's womb\nuntil the day of their return to the mother of all.{a}"
+     "text": "Great preoccupation has been created for every human being,\nand a heavy yoke is on the sons of Adam,\nfrom the day of their coming out of their mother’s womb\nuntil the day of their return to the mother of all.{a}"
     },
     {
      "v": 2,
@@ -5485,7 +5485,7 @@
     },
     {
      "v": 5,
-     "text": "there is rage and jealousy and turmoil and unsteadiness\nand fear of death and wrath and strife;\nand in the season of rest upon the bed\nnight's sleep alters his knowledge."
+     "text": "there is rage and jealousy and turmoil and unsteadiness\nand fear of death and wrath and strife;\nand in the season of rest upon the bed\nnight’s sleep alters his knowledge."
     },
     {
      "v": 6,
@@ -5581,7 +5581,7 @@
     },
     {
      "v": 29,
-     "text": "A man who looks to someone else's table —\nhis life is not to be counted as life;\nhe will defile his soul with someone else's foods,\nbut a man of understanding and discipline will be on his guard."
+     "text": "A man who looks to someone else’s table —\nhis life is not to be counted as life;\nhe will defile his soul with someone else’s foods,\nbut a man of understanding and discipline will be on his guard."
     },
     {
      "v": 30,
@@ -5631,7 +5631,7 @@
     },
     {
      "v": 6,
-     "text": "The inheritance of sinners' children will perish,\nand with their offspring reproach will continue."
+     "text": "The inheritance of sinners’ children will perish,\nand with their offspring reproach will continue."
     },
     {
      "v": 7,
@@ -5760,7 +5760,7 @@
     },
     {
      "v": 10,
-     "text": "in her virginity, lest she be defiled\nand become pregnant in her father's house;\nwhen she has a husband, lest she transgress,\nand when she is married, lest she be barren."
+     "text": "in her virginity, lest she be defiled\nand become pregnant in her father’s house;\nwhen she has a husband, lest she transgress,\nand when she is married, lest she be barren."
     },
     {
      "v": 11,
@@ -5772,11 +5772,11 @@
     },
     {
      "v": 13,
-     "text": "for from clothing comes the moth,\nand from a woman a woman's wickedness."
+     "text": "for from clothing comes the moth,\nand from a woman a woman’s wickedness."
     },
     {
      "v": 14,
-     "text": "Better a man's wickedness than a woman who does good;\nand a woman brings shame to the point of reproach.{c}"
+     "text": "Better a man’s wickedness than a woman who does good;\nand a woman brings shame to the point of reproach.{c}"
     },
     {
      "v": 15,
@@ -5784,7 +5784,7 @@
     },
     {
      "v": 16,
-     "text": "The sun that gives light looks down on all things,\nand the Lord's work is full of his glory."
+     "text": "The sun that gives light looks down on all things,\nand the Lord’s work is full of his glory."
     },
     {
      "v": 17,
@@ -6007,7 +6007,7 @@
     {
      "m": "d",
      "ref": "43:27",
-     "text": "Greek to pan. The Hebrew, as reported, reads “He is everything” (hu' hakkol)."
+     "text": "Greek to pan. The Hebrew, as reported, reads “He is everything” (hu’ hakkol)."
     }
    ]
   },
@@ -6036,7 +6036,7 @@
     },
     {
      "v": 4,
-     "text": "leaders of the people by their counsels\nand by their understanding of the people's learning,\nwise in the words of their instruction;"
+     "text": "leaders of the people by their counsels\nand by their understanding of the people’s learning,\nwise in the words of their instruction;"
     },
     {
      "v": 5,
@@ -6104,7 +6104,7 @@
     },
     {
      "v": 21,
-     "text": "For this he made it firm to him by oath\nthat in his seed nations should be blessed,\nthat he would make him many as earth's dust\nand raise his seed on high as the stars are,\nand make them heirs from sea to sea,\nfrom the River to the ends of the land."
+     "text": "For this he made it firm to him by oath\nthat in his seed nations should be blessed,\nthat he would make him many as earth’s dust\nand raise his seed on high as the stars are,\nand make them heirs from sea to sea,\nfrom the River to the ends of the land."
     },
     {
      "v": 22,
@@ -6129,7 +6129,7 @@
     {
      "m": "c",
      "ref": "44:17",
-     "text": "Gen 6:9. The Masada scroll's text breaks off at about this point, as reported."
+     "text": "Gen 6:9. The Masada scroll’s text breaks off at about this point, as reported."
     },
     {
      "m": "d",
@@ -6184,7 +6184,7 @@
     },
     {
      "v": 10,
-     "text": "with a holy robe of gold and blue and purple,\nan embroiderer's handiwork;\nwith the oracle of judgment, the signs of truth,{e}"
+     "text": "with a holy robe of gold and blue and purple,\nan embroiderer’s handiwork;\nwith the oracle of judgment, the signs of truth,{e}"
     },
     {
      "v": 11,
@@ -6236,7 +6236,7 @@
     },
     {
      "v": 23,
-     "text": "Phinehas son of Eleazar is the third in glory,{k}\nfor his zeal in the fear of the Lord,\nand for standing firm when the people turned away,\nin the goodness of his soul's eagerness;\nand he made atonement for Israel."
+     "text": "Phinehas son of Eleazar is the third in glory,{k}\nfor his zeal in the fear of the Lord,\nand for standing firm when the people turned away,\nin the goodness of his soul’s eagerness;\nand he made atonement for Israel."
     },
     {
      "v": 24,
@@ -6324,7 +6324,7 @@
    "verses": [
     {
      "v": 1,
-     "text": "Mighty in war was Joshua{a} son of Nun,\nthe successor of Moses in prophecies,\nwho became, as his name means,\ngreat for the saving of God's chosen,\nto take vengeance on enemies who rose up,\nso that he might give Israel its inheritance."
+     "text": "Mighty in war was Joshua{a} son of Nun,\nthe successor of Moses in prophecies,\nwho became, as his name means,\ngreat for the saving of God’s chosen,\nto take vengeance on enemies who rose up,\nso that he might give Israel its inheritance."
     },
     {
      "v": 2,
@@ -6400,7 +6400,7 @@
     },
     {
      "v": 20,
-     "text": "And after his falling asleep he still prophesied;\nhe made known to the king his end\nand raised his voice out of the ground in prophecy,\nto blot out the people's lawlessness.{i}"
+     "text": "And after his falling asleep he still prophesied;\nhe made known to the king his end\nand raised his voice out of the ground in prophecy,\nto blot out the people’s lawlessness.{i}"
     }
    ],
    "notes": [
@@ -6604,7 +6604,7 @@
     {
      "m": "i",
      "ref": "47:23",
-     "text": "A pun in the Hebrew, as reported: Rehoboam, “the people is broad,” is called “broad in folly” (rechab 'ivvelet). See 1 Kgs 12."
+     "text": "A pun in the Hebrew, as reported: Rehoboam, “the people is broad,” is called “broad in folly” (rechab ‘ivvelet). See 1 Kgs 12."
     },
     {
      "m": "j",
@@ -6766,7 +6766,7 @@
     {
      "m": "i",
      "ref": "48:17",
-     "text": "2 Kgs 20:20; 2 Chr 32:30. Hezekiah's tunnel in Jerusalem, about 1,750 feet (533 m) long, survives with its Siloam inscription."
+     "text": "2 Kgs 20:20; 2 Chr 32:30. Hezekiah’s tunnel in Jerusalem, about 1,750 feet (533 m) long, survives with its Siloam inscription."
     },
     {
      "m": "j",
@@ -6883,7 +6883,7 @@
     {
      "m": "d",
      "ref": "49:9",
-     "text": "The Greek is obscure (compare Ezek 13:11–13; 38:22). The Hebrew, as reported, reads “he also mentioned Job” (Ezek 14:14, 20); the Hebrew words for “enemy” ('oyeb) and “Job” ('iyyob) look alike."
+     "text": "The Greek is obscure (compare Ezek 13:11–13; 38:22). The Hebrew, as reported, reads “he also mentioned Job” (Ezek 14:14, 20); the Hebrew words for “enemy” (‘oyeb) and “Job” (‘iyyob) look alike."
     },
     {
      "m": "e",
@@ -6973,11 +6973,11 @@
     },
     {
      "v": 12,
-     "text": "And when he received the portions from the priests' hands\nwhile he himself stood by the hearth of the altar,\naround him was a garland of brothers,\nlike a young growth of cedars in Lebanon;\nand they surrounded him like the trunks of palms,"
+     "text": "And when he received the portions from the priests’ hands\nwhile he himself stood by the hearth of the altar,\naround him was a garland of brothers,\nlike a young growth of cedars in Lebanon;\nand they surrounded him like the trunks of palms,"
     },
     {
      "v": 13,
-     "text": "all the sons of Aaron in their glory,\nwith the Lord's offering in their hands,\nbefore the whole assembly of Israel."
+     "text": "all the sons of Aaron in their glory,\nwith the Lord’s offering in their hands,\nbefore the whole assembly of Israel."
     },
     {
      "v": 14,
@@ -7001,11 +7001,11 @@
     },
     {
      "v": 19,
-     "text": "And the people entreated the Lord Most High\nwith prayer in the presence of the Merciful One,\ntill the Lord's worship was fully ordered\nand his service was brought to completion."
+     "text": "And the people entreated the Lord Most High\nwith prayer in the presence of the Merciful One,\ntill the Lord’s worship was fully ordered\nand his service was brought to completion."
     },
     {
      "v": 20,
-     "text": "Then, coming down, he raised his hands\nover all the assembly of Israel's sons,\nto pronounce the Lord's blessing with his lips\nand glory in his name;{d}"
+     "text": "Then, coming down, he raised his hands\nover all the assembly of Israel’s sons,\nto pronounce the Lord’s blessing with his lips\nand glory in his name;{d}"
     },
     {
      "v": 21,
@@ -7095,7 +7095,7 @@
    ],
    "subheads": {
     "1": "A Prayer of Jesus son of Sirach",
-    "13": "Ben Sira's Search for Wisdom"
+    "13": "Ben Sira’s Search for Wisdom"
    },
    "verses": [
     {
@@ -7233,7 +7233,7 @@
     {
      "m": "c",
      "ref": "51:13",
-     "text": "Verses 13–30 form an alphabetic acrostic in the Hebrew. The Qumran Psalms Scroll (11QPs-a, first century AD) preserves 51:13–20 and the end of verse 30, as reported, as a separate poem among the Psalms of David, in a form with bolder bridal imagery than the Greek or Geniza MS B; many scholars hold that MS B's text of these verses is partly a retranslation or reworking. The other Qumran Sirach manuscript, 2Q18 (2QSir), preserves fragments of chapter 6, not of this poem."
+     "text": "Verses 13–30 form an alphabetic acrostic in the Hebrew. The Qumran Psalms Scroll (11QPs-a, first century AD) preserves 51:13–20 and the end of verse 30, as reported, as a separate poem among the Psalms of David, in a form with bolder bridal imagery than the Greek or Geniza MS B; many scholars hold that MS B’s text of these verses is partly a retranslation or reworking. The other Qumran Sirach manuscript, 2Q18 (2QSir), preserves fragments of chapter 6, not of this poem."
     },
     {
      "m": "d",
