@@ -1,0 +1,1771 @@
+{
+ "id": "ascension-of-isaiah",
+ "name": "Ascension of Isaiah",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated from the English of R. H. Charles, *The Ascension of Isaiah* (Adam and Charles Black, London, 1900), which is public domain. Charles translated the Ethiopic version, the only complete form of the book, and compared it with the Greek fragment found at Oxyrhynchus (the Amherst Papyrus), the Latin versions, and a Latin translation of the Slavonic. The Ethiopic itself, and the other early texts, were not available for this edition, so this translation is a fresh English rendering from Charles's English, made in new wording, and it should be checked against the Ethiopic when that is possible. It was not taken from the translation in *The Old Testament Pseudepigrapha* or from any other copyrighted translation. Charles marked words found in only some of the manuscripts with brackets and words he supplied with parentheses; these marks are not shown here, and only the places where the text is broken or doubtful are explained in footnotes. **Chapters and verses.** The book is divided into 11 chapters, with the verse numbers of Charles's edition. **The name of God.** The Ethiopic uses one word for “Lord” for both God and Christ, and it does not use the name Yahweh at all, so “Lord” is translated as the text has it; “the Most High,” “the Great Glory,” and “the Beloved” are titles and are explained in notes. **Measures and dates.** The days, months, and years are given as the book gives them; the “sixth hour” is explained in a footnote. **About the book.** The *Ascension of Isaiah* is a composite work. Chapters 1 to 5 tell how the prophet Isaiah was sawn in two under King Manasseh, a story that was probably Jewish and is also alluded to in Hebrews 11:37; chapters 3:13 to 4:22 are thought to be a Christian prophecy of the last days, called the “Testament of Hezekiah,” which speaks of the coming of Beliar in the form of a lawless king, usually taken to be Nero; and chapters 6 to 11 are the “Vision of Isaiah,” a journey up through seven heavens in which Isaiah sees the descent, birth, death, and ascension of the Beloved. The parts were put together in the late 1st or early 2nd century AD, and the Ethiopic version was made from the Greek in about the 5th or 6th century. The book is not in the Jewish, Catholic, Orthodox, or Protestant canons, except that it is kept in the Ethiopian Orthodox tradition's wider collection. Dates are given as BC/AD. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When Hezekiah had been on the throne twenty-six years,{a} king of Judah,{b} he summoned his son Manasseh,{c} his only son."
+    },
+    {
+     "v": 2,
+     "text": "He brought him before the prophet Isaiah{d} the son of Amoz{e} and of Josab{f} the son of Isaiah, in order to entrust to him the words of righteousness the king had himself been shown."
+    },
+    {
+     "v": 3,
+     "text": "They concerned the eternal judgments and the torments of Gehenna,{g} the ruler of this world,{h} and his angels, authorities, and powers,"
+    },
+    {
+     "v": 4,
+     "text": "and they also concerned the faith of the Beloved,{i} which the king had seen for himself while he was ill, in the fifteenth year he ruled."
+    },
+    {
+     "v": 5,
+     "text": "He handed Manasseh the written words that Samnas{j} the scribe had written, along with what Isaiah son of Amoz had given him and the prophets, so that they could copy it and keep it by him. It was about what the king had seen in his house: the judgment of the angels, the ruin of this world, the garments of the saints and how they would come forth, their transformation, and the Beloved’s persecution and ascension."
+    },
+    {
+     "v": 6,
+     "text": "In Hezekiah’s twentieth year Isaiah had seen what this prophecy says, and had given it to his son Josab. As Hezekiah gave his orders, with Josab son of Isaiah at his side,"
+    },
+    {
+     "v": 7,
+     "text": "Isaiah said to King Hezekiah (and he did not say it with Manasseh alone there), “By the life of the Lord{k}—whose name has never been sent into this world—by the life of the Beloved of my Lord, and by the life of the Spirit who speaks in me: your son Manasseh will cancel all these commands and words, and at his hands I will depart through the torture of my body."
+    },
+    {
+     "v": 8,
+     "text": "Sammael{l} Malchira{m} will become Manasseh’s servant and do all that Manasseh desires, and Manasseh will turn out to be a follower of Beliar{n} instead of me."
+    },
+    {
+     "v": 9,
+     "text": "He will draw many in Jerusalem{o} and Judea{p} away from the true faith. Beliar will settle in Manasseh, and through his hands I will be cut in two with a saw.”"
+    },
+    {
+     "v": 10,
+     "text": "Hearing these words, Hezekiah wept very bitterly. He ripped his clothes, poured dirt over his head, and threw himself face down."
+    },
+    {
+     "v": 11,
+     "text": "Isaiah said to him, “Sammael’s scheme for Manasseh is finished; nothing you do will help.”"
+    },
+    {
+     "v": 12,
+     "text": "That same day Hezekiah decided in his heart to put his son Manasseh to death."
+    },
+    {
+     "v": 13,
+     "text": "Then Isaiah told Hezekiah, “The Beloved has made your plan useless, and the intention of your heart will not be carried out. For this is the calling I was called to, and I will receive the Beloved’s inheritance.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Hebrew *Hizqiyyahu*, “Yahweh strengthens.” He reigned over Judah in about 715–686 BC."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Hebrew *Yehudah*, “praise” (Genesis 29:35)."
+    },
+    {
+     "m": "c",
+     "ref": "1:1",
+     "text": "Hebrew *Menasheh*, “causing to forget” (Genesis 41:51)."
+    },
+    {
+     "m": "d",
+     "ref": "1:2",
+     "text": "Hebrew *Yeshayahu*, “Yahweh saves.”"
+    },
+    {
+     "m": "e",
+     "ref": "1:2",
+     "text": "Hebrew *Amots*, “strong.”"
+    },
+    {
+     "m": "f",
+     "ref": "1:2",
+     "text": "Ethiopic *Jôsâb*, probably the same as Jashub (Hebrew *Yashuv*, “he returns”), the name of one of Isaiah’s sons in Isaiah 7:3."
+    },
+    {
+     "m": "g",
+     "ref": "1:3",
+     "text": "Greek *Geenna*, from the Hebrew *Gey Hinnom*, “valley of Hinnom,” a ravine south of Jerusalem that came to be used as a picture of the place of final punishment."
+    },
+    {
+     "m": "h",
+     "ref": "1:3",
+     "text": "The book uses “ruler (or prince) of this world” for Beliar, as in 2:4 and 4:2."
+    },
+    {
+     "m": "i",
+     "ref": "1:4",
+     "text": "“The Beloved” (Greek *ho agapetos*) is the title the book uses for Jesus as the chosen Son of God. Scholars note that “the Beloved” was already used for Israel and the Messiah in Jewish writings before the Christian era."
+    },
+    {
+     "m": "j",
+     "ref": "1:5",
+     "text": "Greek *Somnas*, Hebrew *Shebna* (2 Kings 18:18); the meaning is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "1:7",
+     "text": "The Ethiopic text uses one word for “Lord” throughout, for God and also for the Beloved (Christ). No form of the name Yahweh appears in the book, so “Lord” is kept as the text has it."
+    },
+    {
+     "m": "l",
+     "ref": "1:8",
+     "text": "Hebrew *Sammael*, a name of the chief of the evil angels in Jewish tradition, often explained as “poison of God” or “blind god.”"
+    },
+    {
+     "m": "m",
+     "ref": "1:8",
+     "text": "Ethiopic *Malkira*; the meaning is unknown. It seems to be another name for Sammael here; later forms of it (Belchira, Melchira) are the name of the false prophet in chapters 2 and 3."
+    },
+    {
+     "m": "n",
+     "ref": "1:8",
+     "text": "Hebrew *Beliyya‘al*, “worthlessness” (in Greek, Belial)."
+    },
+    {
+     "m": "o",
+     "ref": "1:9",
+     "text": "Hebrew *Yerushalayim*; the meaning is uncertain, often explained as “foundation of peace.”"
+    },
+    {
+     "m": "p",
+     "ref": "1:9",
+     "text": "The land of Judah."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "After Hezekiah died and Manasseh took the throne, Manasseh did not keep in mind his father’s commands; he forgot them. Sammael took up residence in him and held on tight."
+    },
+    {
+     "v": 2,
+     "text": "Manasseh gave up serving his father’s God and served Satan,{a} with his angels and his powers."
+    },
+    {
+     "v": 3,
+     "text": "He pulled his father’s household, which had stood in Hezekiah’s presence, away from words of wisdom and from the worship of God."
+    },
+    {
+     "v": 4,
+     "text": "Manasseh turned his heart toward serving Beliar, for the angel of lawlessness who rules this world is Beliar, and his name is Matanbuchus.{b} Beliar relished Jerusalem on Manasseh’s account, and he strengthened Manasseh in leading Israel{c} astray, and in the lawlessness spreading all over Jerusalem."
+    },
+    {
+     "v": 5,
+     "text": "Sorcery and magic multiplied, along with fortune-telling, omen-reading, sexual immorality, adultery, and the hounding of the righteous by Manasseh, Belchira,{d} Tobia{e} the Canaanite,{f} John{g} of Anathoth,{h} and Zadok,{i} the chief of the works."
+    },
+    {
+     "v": 6,
+     "text": "His other deeds are recorded in the book about the kings of Judah and Israel."
+    },
+    {
+     "v": 7,
+     "text": "Isaiah son of Amoz watched the lawlessness going on in Jerusalem, the worship of Satan, and his wantonness, and he withdrew from Jerusalem and made his home in Bethlehem{j} of Judah."
+    },
+    {
+     "v": 8,
+     "text": "There too lawlessness was widespread, so he left Bethlehem and lived on a mountain in a remote place."
+    },
+    {
+     "v": 9,
+     "text": "The prophet Micaiah,{k} the elderly Ananias,{l} Joel,{m} Habakkuk,{n} his son Josab, and many other faithful people, who believed that people can ascend into heaven, also moved out and settled on the mountain."
+    },
+    {
+     "v": 10,
+     "text": "All of them wore hair clothing, and all of them were prophets. They had nothing with them and were bare, and they all wailed aloud over Israel’s wandering from the right path."
+    },
+    {
+     "v": 11,
+     "text": "They ate only the wild plants they picked in the mountains. They boiled these and lived on them, with the prophet Isaiah, and they spent two years in the mountains and hills."
+    },
+    {
+     "v": 12,
+     "text": "Some time later, while they were in the wilderness, there was a man in Samaria{o} named Belchira, of the family of Zedekiah{p} son of Chenaan.{q} He was a false prophet, and his home was in Bethlehem. Now Hezekiah son of Chanani,{r} the brother of Zedekiah’s father, had, in the time of Ahab,{s} king of Israel, taught the 400 prophets of Baal.{t} He himself had struck and scolded the prophet Micaiah son of Amada.{u}"
+    },
+    {
+     "v": 13,
+     "text": "Micaiah had been rebuked by Ahab and thrown in prison. He was with the prophet Zedekiah. They stayed with Ahaziah,{v} the son of Ahab, who was king in Samaria."
+    },
+    {
+     "v": 14,
+     "text": "The prophet Elijah{w} of Tebon{x} in Gilead{y} rebuked Ahaziah and Samaria. He prophesied that Ahaziah would die on his sickbed and that Samaria would be handed over to Leba Nasr,{z} because it had killed the prophets of God."
+    },
+    {
+     "v": 15,
+     "text": "Hearing of this were the false prophets who attended Ahaziah son of Ahab, and their teacher Jalerjas{aa} of Mount Joel{ab}."
+    },
+    {
+     "v": 16,
+     "text": "(He was Zedekiah’s brother.) After hearing it, they persuaded Ahaziah, the king of Aguaron,{ac} and killed Micaiah."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:2",
+     "text": "Hebrew *satan*, “adversary.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:4",
+     "text": "The Ethiopic form is *Matanbûchûs*. The name has been explained as Hebrew *mattan bukhus*, “worthless gift,” but this is only a guess."
+    },
+    {
+     "m": "c",
+     "ref": "2:4",
+     "text": "Hebrew *Yisra’el*, “he strives with God” (Genesis 32:28)."
+    },
+    {
+     "m": "d",
+     "ref": "2:5",
+     "text": "A form of the name Malchira (1:8). Its Greek form is *Belchira* or *Melchias*; the meaning is unknown."
+    },
+    {
+     "m": "e",
+     "ref": "2:5",
+     "text": "Hebrew *Toviyyah*, “Yahweh is good.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:5",
+     "text": "The Canaanites were the people who lived in the land before Israel; the name *Kena‘an* has an uncertain meaning, perhaps “lowland” or “merchant.”"
+    },
+    {
+     "m": "g",
+     "ref": "2:5",
+     "text": "Hebrew *Yohanan*, “Yahweh is gracious.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:5",
+     "text": "Hebrew *Anatot*; the meaning is uncertain, perhaps “answers” or linked with the goddess Anat."
+    },
+    {
+     "m": "i",
+     "ref": "2:5",
+     "text": "Hebrew *Tsadoq*, “righteous.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:7",
+     "text": "Hebrew *Bet Lekhem*, “house of bread.”"
+    },
+    {
+     "m": "k",
+     "ref": "2:9",
+     "text": "Hebrew *Mikhayhu*, “who is like Yahweh?”"
+    },
+    {
+     "m": "l",
+     "ref": "2:9",
+     "text": "Greek form of Hebrew *Hananyah*, “Yahweh has been gracious.”"
+    },
+    {
+     "m": "m",
+     "ref": "2:9",
+     "text": "Hebrew *Yo’el*, “Yahweh is God.”"
+    },
+    {
+     "m": "n",
+     "ref": "2:9",
+     "text": "Hebrew *Havaqquq*; the meaning is uncertain, perhaps “embrace.”"
+    },
+    {
+     "m": "o",
+     "ref": "2:12",
+     "text": "Hebrew *Shomron*, “watch-hill”; the city was named for the hill, which King Omri bought from a man named Shemer (1 Kings 16:24)."
+    },
+    {
+     "m": "p",
+     "ref": "2:12",
+     "text": "Hebrew *Tsidqiyyahu*, “Yahweh is my righteousness.”"
+    },
+    {
+     "m": "q",
+     "ref": "2:12",
+     "text": "Hebrew *Kena‘anah* (1 Kings 22:11); the meaning is uncertain."
+    },
+    {
+     "m": "r",
+     "ref": "2:12",
+     "text": "Hebrew *Hanani*, “gracious” or “Yahweh has shown me favor.” The Ethiopic names this older “Hezekiah” as an uncle of Zedekiah; the text is uncertain here."
+    },
+    {
+     "m": "s",
+     "ref": "2:12",
+     "text": "Hebrew *Ah’av*, “father’s brother.”"
+    },
+    {
+     "m": "t",
+     "ref": "2:12",
+     "text": "Hebrew *Ba‘al*, “lord” or “master,” the title of a Canaanite storm god (1 Kings 18:19)."
+    },
+    {
+     "m": "u",
+     "ref": "2:12",
+     "text": "Ethiopic *Amâdâ*, for Hebrew *Yimlah* (Imlah, 1 Kings 22:8); the meaning of that name is uncertain."
+    },
+    {
+     "m": "v",
+     "ref": "2:13",
+     "text": "Hebrew *Ahazyahu*, “Yahweh has taken hold.”"
+    },
+    {
+     "m": "w",
+     "ref": "2:14",
+     "text": "Hebrew *Eliyyahu*, “my God is Yahweh.”"
+    },
+    {
+     "m": "x",
+     "ref": "2:14",
+     "text": "Ethiopic *Têbôn*, probably the town of Tishbe (1 Kings 17:1); the meaning is uncertain."
+    },
+    {
+     "m": "y",
+     "ref": "2:14",
+     "text": "Hebrew *Gil‘ad*, probably “rugged.”"
+    },
+    {
+     "m": "z",
+     "ref": "2:14",
+     "text": "Ethiopic *Leba Nâsr*, a corrupt form of Shalmaneser (Akkadian *Shulmanu-asharid*, “the god Shulmanu is foremost”), the king of Assyria who attacked Samaria (2 Kings 17:3)."
+    },
+    {
+     "m": "aa",
+     "ref": "2:15",
+     "text": "The meaning of this name is unknown."
+    },
+    {
+     "m": "ab",
+     "ref": "2:15",
+     "text": "The text is uncertain here; the Ethiopic manuscripts and the other versions give different readings."
+    },
+    {
+     "m": "ac",
+     "ref": "2:16",
+     "text": "Ethiopic *Aguarôn*, a corrupt form of Gomorrah (Hebrew *Amorah*; the meaning is uncertain). The writer uses “Gomorrah” as a name of contempt for Samaria; see 3:10."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Belchira learned where Isaiah and his fellow prophets were living. He was himself a resident of the Bethlehem area and a supporter of Manasseh. He gave false prophecies in Jerusalem, and many Jerusalemites sided with him. He was a Samaritan."
+    },
+    {
+     "v": 2,
+     "text": "When Alagar Zagar,{a} king of Assyria,{b} came and captured Samaria and carried off the nine and a half tribes as prisoners, he led them to the mountains of the Medes{c} and the rivers of Tazon.{d}"
+    },
+    {
+     "v": 3,
+     "text": "While still young, Belchira escaped and reached Jerusalem during the reign of Hezekiah of Judah. He did not walk in the ways of his Samaritan father, since he was afraid of Hezekiah."
+    },
+    {
+     "v": 4,
+     "text": "Under Hezekiah he was caught uttering lawless words in Jerusalem."
+    },
+    {
+     "v": 5,
+     "text": "Hezekiah’s servants denounced him, and he fled into the Bethlehem district. And they persuaded . . ."
+    },
+    {
+     "v": 6,
+     "text": "Belchira laid charges against Isaiah and his fellow prophets. He said, “Isaiah and those with him prophesy that Jerusalem and the cities of Judah will be laid waste, that the people of Judah and Benjamin{e} will go into captivity, and that you too, my lord the king, will be led off bound with hooks and iron chains.”"
+    },
+    {
+     "v": 7,
+     "text": "“But they are prophesying falsely against Israel and Judah."
+    },
+    {
+     "v": 8,
+     "text": "Isaiah has said, ‘I see more than Moses{f} the prophet.’"
+    },
+    {
+     "v": 9,
+     "text": "Moses said, ‘No one can see God and live,’ yet Isaiah says, ‘I have seen God, and look, I am alive.’"
+    },
+    {
+     "v": 10,
+     "text": "“So know this, O king, that he is lying. He has also called Jerusalem Sodom,{g} and he has declared that the leaders of Judah and Jerusalem are the people of Gomorrah.” He brought many charges against Isaiah and the prophets before Manasseh."
+    },
+    {
+     "v": 11,
+     "text": "Meanwhile Beliar lived in Manasseh’s heart, and in the hearts of the princes of Judah and Benjamin, the eunuchs, and the king’s counselors."
+    },
+    {
+     "v": 12,
+     "text": "Belchira’s words pleased Manasseh greatly, and he sent men and seized Isaiah."
+    },
+    {
+     "v": 13,
+     "text": "For Beliar was furious with Isaiah because of his vision, and because Isaiah had exposed Sammael, and because Isaiah had revealed that the Beloved would go out from the seventh heaven. Isaiah had revealed his transformation and descent and the human likeness he would take, the persecution he would suffer, and the tortures with which the children of Israel would torture him. He had foretold the arrival of his twelve disciples and their teaching, and that he would be crucified on a tree before the Sabbath, crucified together with evildoers, and buried in a tomb."
+    },
+    {
+     "v": 14,
+     "text": "He had foretold that the twelve who were with him would stumble because of him, and that guards would watch the tomb."
+    },
+    {
+     "v": 15,
+     "text": "He had also foretold how the angel of the Christian church would come down, the one who is in the heavens and whom the Lord will call in the last days."
+    },
+    {
+     "v": 16,
+     "text": "And on the third day Gabriel,{h} the angel of the Holy Spirit, with Michael,{i} the chief of the holy angels, would open the tomb."
+    },
+    {
+     "v": 17,
+     "text": "The Beloved, sitting on their shoulders, would come out and send out his twelve disciples."
+    },
+    {
+     "v": 18,
+     "text": "They would teach all nations and every language about the resurrection of the Beloved. Those who believed in his cross would be saved, and also in his ascension to the seventh heaven, from which he came."
+    },
+    {
+     "v": 19,
+     "text": "Many who believed in him would speak through the Holy Spirit."
+    },
+    {
+     "v": 20,
+     "text": "And many signs and wonders would be done in those days."
+    },
+    {
+     "v": 21,
+     "text": "Afterward, as his coming drew near, his disciples would abandon the teaching of the twelve apostles, along with their faith, their love, and their purity."
+    },
+    {
+     "v": 22,
+     "text": "There would be much quarreling as his coming drew near."
+    },
+    {
+     "v": 23,
+     "text": "In those days many would be fond of high office although they had no wisdom."
+    },
+    {
+     "v": 24,
+     "text": "There would be many lawless elders and shepherds who treated their own sheep unjustly, and they would plunder them because they had no holy shepherds."
+    },
+    {
+     "v": 25,
+     "text": "Many would trade the honor of the saints’ garments for the garments of the greedy. There would be much favoritism in those days, and many who loved the honor of this world."
+    },
+    {
+     "v": 26,
+     "text": "There would be much slander and boasting as the Lord’s coming drew near, and the Holy Spirit would leave many."
+    },
+    {
+     "v": 27,
+     "text": "In those days there would not be many prophets or people speaking trustworthy words, except one here and there in different places,"
+    },
+    {
+     "v": 28,
+     "text": "because of the spirit of error, immorality, boasting, and greed that would be found among those called servants of that One, and among those who would welcome that One."
+    },
+    {
+     "v": 29,
+     "text": "There would be great hatred between the shepherds and elders."
+    },
+    {
+     "v": 30,
+     "text": "For in the last days there would be great jealousy, and everyone would say whatever seemed right to him."
+    },
+    {
+     "v": 31,
+     "text": "They would cancel the prophecy of the prophets who were before me, and they would cancel these visions of mine too, so as to speak whatever their own hearts urged."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:2",
+     "text": "Ethiopic *Alagar Zagâr*, a corrupt form of Shalmaneser (see 2:14)."
+    },
+    {
+     "m": "b",
+     "ref": "3:2",
+     "text": "Hebrew *Ashshur*, named for the city and god Ashur; the meaning is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "3:2",
+     "text": "Hebrew *Madai*; the meaning is unknown."
+    },
+    {
+     "m": "d",
+     "ref": "3:2",
+     "text": "Ethiopic *Tâzôn*, the same as Gozan (2 Kings 17:6); the meaning is unknown."
+    },
+    {
+     "m": "e",
+     "ref": "3:6",
+     "text": "Hebrew *Binyamin*, “son of the right hand” or “son of the south.”"
+    },
+    {
+     "m": "f",
+     "ref": "3:8",
+     "text": "Hebrew *Mosheh*, which the Bible links with “drawn out” (Exodus 2:10); it is probably an Egyptian word meaning “child.”"
+    },
+    {
+     "m": "g",
+     "ref": "3:10",
+     "text": "Hebrew *Sedom*; the meaning is unknown."
+    },
+    {
+     "m": "h",
+     "ref": "3:16",
+     "text": "Hebrew *Gavri’el*, “mighty one of God” or “God is my strong one.”"
+    },
+    {
+     "m": "i",
+     "ref": "3:16",
+     "text": "Hebrew *Mikha’el*, “who is like God?”"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Listen, Hezekiah, and you, Josab my son: these are the days when the world is being brought to its end."
+    },
+    {
+     "v": 2,
+     "text": "When that end has come, Beliar, the great ruler and king of this world, who has governed it from its beginning, will descend from his firmament looking like a man: a lawless king, the killer of his own mother. This same king"
+    },
+    {
+     "v": 3,
+     "text": "will persecute the plant that the twelve apostles of the Beloved planted. One of the twelve will be handed over into his hands."
+    },
+    {
+     "v": 4,
+     "text": "This ruler will arrive in the shape of that king, and every power of this world will come with him and obey him in all that he wishes."
+    },
+    {
+     "v": 5,
+     "text": "At his command the sun will rise in the night, and he will bring out the moon at noon.{a}"
+    },
+    {
+     "v": 6,
+     "text": "He will carry out in the world whatever he wishes. He will act and talk like the Beloved, and he will announce, “I am God, and no one existed before me.”"
+    },
+    {
+     "v": 7,
+     "text": "Everyone on earth will put their faith in him."
+    },
+    {
+     "v": 8,
+     "text": "They will sacrifice to him and serve him, saying, “This is God, and there is no other beside him.”"
+    },
+    {
+     "v": 9,
+     "text": "Most of those who had united to welcome the Beloved he will draw over to himself."
+    },
+    {
+     "v": 10,
+     "text": "His miraculous power will show itself in every city and district."
+    },
+    {
+     "v": 11,
+     "text": "In every city he will have his image set up in front of him."
+    },
+    {
+     "v": 12,
+     "text": "He will hold power for three years, seven months, and twenty-seven days.{b}"
+    },
+    {
+     "v": 13,
+     "text": "Of those who believed in him, a few will remain in those days as his servants; they will run from wilderness to wilderness, awaiting the Beloved’s coming."
+    },
+    {
+     "v": 14,
+     "text": "When 1,332 days have passed,{c} the Lord will arrive with his angels and the hosts of the holy ones out of the seventh heaven, in the splendor of that heaven, and he will haul Beliar down into Gehenna, together with his armies."
+    },
+    {
+     "v": 15,
+     "text": "He will give relief to the devout he finds still alive on earth, and the sun will be put to shame,"
+    },
+    {
+     "v": 16,
+     "text": "and also to all who, out of faith in him, have cursed Beliar and his kings. The saints will accompany the Lord, wearing the garments that are now kept on high in the seventh heaven. They will come with him, their spirits clothed, and take up their presence in the world. He will give strength to those still living in the body, along with the saints, clothing them in the saints’ garments, and the Lord will wait on those who kept watch in this world."
+    },
+    {
+     "v": 17,
+     "text": "Afterward they will turn upward in their garments, and their bodies will be left behind in the world."
+    },
+    {
+     "v": 18,
+     "text": "Then the Beloved’s voice will rebuke in anger everything in heaven and on earth: the mountains and hills, the cities, the wilderness and the woods, the angel of the sun and the angel of the moon, and everything through which Beliar appeared and worked openly in this world. A resurrection and a judgment will take place among them in those days, and the Beloved will send fire out from himself to consume all the godless, so that it will be as if they had never been made."
+    },
+    {
+     "v": 19,
+     "text": "The remainder of this vision is written down in the vision of Babylon.{d}"
+    },
+    {
+     "v": 20,
+     "text": "The rest of the vision about the Lord is written in the parables, in my words, in the book that I prophesied in public."
+    },
+    {
+     "v": 21,
+     "text": "As for the Beloved’s descent into Sheol,{e} you will find it in the passage where the Lord says, “Look, my Son will understand.” All of this is written in the Psalms, among the parables of David{f} son of Jesse,{g} in the Proverbs of his son Solomon,{h} in the sayings of Korah{i} and of Ethan{j} the Israelite, in the words of Asaph,{k} and in the other Psalms that the angel of the Spirit inspired,"
+    },
+    {
+     "v": 22,
+     "text": "namely, those with no name attached to them. They are written also in the words of my father Amos{l} and of the prophets Hosea,{m} Micah,{n} Joel, Nahum,{o} Jonah,{p} Obadiah,{q} Habakkuk, Haggai,{r} Zephaniah,{s} Zechariah,{t} and Malachi,{u} and in what Joseph{v} the Just said, and in the sayings of Daniel.{w}"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:5",
+     "text": "Literally “the sixth hour.” The Jews counted the hours of daylight from about 6 a.m., so the sixth hour is about noon."
+    },
+    {
+     "m": "b",
+     "ref": "4:12",
+     "text": "This adds up to about 1,335 days, the number in Daniel 12:12, and it recalls the “time, times, and half a time” of Daniel 7:25 and Revelation 12:14. The Ethiopic text of the rest of this verse is broken and is not clear in the sources used here. It seems to say that many of the faithful, who had been hoping for the One who was crucified, Jesus the Lord Christ, will be left, after Isaiah has seen him who was crucified and ascended."
+    },
+    {
+     "m": "c",
+     "ref": "4:14",
+     "text": "The Ethiopic gives only “three hundred and thirty-two,” and the “one thousand” is supplied from the other versions. It is close to the 1,335 days of Daniel 12:12."
+    },
+    {
+     "m": "d",
+     "ref": "4:19",
+     "text": "Hebrew *Bavel*, from Akkadian *Bab-ili*, “gate of the god”; Genesis 11:9 links it with the Hebrew word for “confuse.” The writing meant is uncertain; it may refer to Isaiah’s oracles against Babylon (Isaiah 13–14 and 21) or to a lost work."
+    },
+    {
+     "m": "e",
+     "ref": "4:21",
+     "text": "Hebrew *She’ol*, the place of the dead; the meaning is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "4:21",
+     "text": "Hebrew *David*, probably “beloved.”"
+    },
+    {
+     "m": "g",
+     "ref": "4:21",
+     "text": "Hebrew *Yishay*; the meaning is uncertain."
+    },
+    {
+     "m": "h",
+     "ref": "4:21",
+     "text": "Hebrew *Shelomoh*, “peaceful.”"
+    },
+    {
+     "m": "i",
+     "ref": "4:21",
+     "text": "Hebrew *Qorach*, perhaps “bald.”"
+    },
+    {
+     "m": "j",
+     "ref": "4:21",
+     "text": "Hebrew *Eytan*, “enduring.”"
+    },
+    {
+     "m": "k",
+     "ref": "4:21",
+     "text": "Hebrew *Asaf*, “he gathers.”"
+    },
+    {
+     "m": "l",
+     "ref": "4:22",
+     "text": "Hebrew *Amos*, “carried” or “borne.”"
+    },
+    {
+     "m": "m",
+     "ref": "4:22",
+     "text": "Hebrew *Hoshea*, “salvation.”"
+    },
+    {
+     "m": "n",
+     "ref": "4:22",
+     "text": "A short form of Micaiah, “who is like Yahweh?”"
+    },
+    {
+     "m": "o",
+     "ref": "4:22",
+     "text": "Hebrew *Nachum*, “comfort.”"
+    },
+    {
+     "m": "p",
+     "ref": "4:22",
+     "text": "Hebrew *Yonah*, “dove.”"
+    },
+    {
+     "m": "q",
+     "ref": "4:22",
+     "text": "Hebrew *Ovadyah*, “servant of Yahweh.”"
+    },
+    {
+     "m": "r",
+     "ref": "4:22",
+     "text": "Hebrew *Haggai*, “festival.”"
+    },
+    {
+     "m": "s",
+     "ref": "4:22",
+     "text": "Hebrew *Tsefanyah*, “Yahweh has hidden” or “Yahweh has treasured.”"
+    },
+    {
+     "m": "t",
+     "ref": "4:22",
+     "text": "Hebrew *Zekharyah*, “Yahweh remembers.”"
+    },
+    {
+     "m": "u",
+     "ref": "4:22",
+     "text": "Hebrew *Mal’akhi*, “my messenger.”"
+    },
+    {
+     "m": "v",
+     "ref": "4:22",
+     "text": "Hebrew *Yosef*, “may he add” (Genesis 30:24)."
+    },
+    {
+     "m": "w",
+     "ref": "4:22",
+     "text": "Hebrew *Daniyye’l*, “God is my judge.”"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Because of these visions Beliar raged against Isaiah. He took up residence in Manasseh’s heart, and Manasseh had Isaiah cut in half with a wooden saw."
+    },
+    {
+     "v": 2,
+     "text": "As Isaiah was being sawn, Belchira stood and denounced him, and all the false prophets stood by, laughing and gloating over Isaiah."
+    },
+    {
+     "v": 3,
+     "text": "With the help of Mechembechus,{a} Belchira stood before Isaiah and mocked him."
+    },
+    {
+     "v": 4,
+     "text": "Belchira told Isaiah, “Say this: ‘All that I have spoken was a lie, and Manasseh’s ways are good and just."
+    },
+    {
+     "v": 5,
+     "text": "The ways of Belchira and his companions are good too.’”"
+    },
+    {
+     "v": 6,
+     "text": "He said this to him as the sawing began."
+    },
+    {
+     "v": 7,
+     "text": "But Isaiah was absorbed in a vision from the Lord; his eyes were open, yet he did not see them."
+    },
+    {
+     "v": 8,
+     "text": "Belchira spoke to Isaiah again: “Say what I tell you, and I will change their minds. I will make Manasseh, the leaders of Judah, the people, and all Jerusalem show you respect.”"
+    },
+    {
+     "v": 9,
+     "text": "Isaiah answered, “As far as I am able to speak, I say: Damned and cursed be you, and all your powers, and all your house."
+    },
+    {
+     "v": 10,
+     "text": "For you cannot take anything from me except the skin of my body.”"
+    },
+    {
+     "v": 11,
+     "text": "So they seized Isaiah son of Amoz and sawed him in two with a wooden saw."
+    },
+    {
+     "v": 12,
+     "text": "Manasseh, Belchira, the false prophets, the leaders, and all the people stood watching."
+    },
+    {
+     "v": 13,
+     "text": "Before the sawing, Isaiah had said to the prophets who were with him, “Go to the region of Tyre{b} and Sidon,{c} for God has mixed the cup for me alone.”"
+    },
+    {
+     "v": 14,
+     "text": "While he was being sawn, Isaiah neither shouted nor wept; his lips spoke with the Holy Spirit until he was cut through."
+    },
+    {
+     "v": 15,
+     "text": "Beliar did this to Isaiah through Belchira and Manasseh. For Sammael had been seething against Isaiah ever since the time of Hezekiah, king of Judah, over what Isaiah had seen concerning the Beloved,"
+    },
+    {
+     "v": 16,
+     "text": "and over the destruction of Sammael, which Isaiah had seen through the Lord while Manasseh’s father Hezekiah was still king. Manasseh acted according to the will of Satan."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:3",
+     "text": "Ethiopic *Mechembêchûs*, the same figure as Matanbuchus (2:4); the meaning is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "5:13",
+     "text": "Hebrew *Tsor*, “rock.”"
+    },
+    {
+     "m": "c",
+     "ref": "5:13",
+     "text": "Hebrew *Tsidon*; the meaning is uncertain, perhaps “fishing.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "In Hezekiah’s twentieth year as king of Judah, Isaiah son of Amoz came from Gilgal{a} to Jerusalem with his son Josab, to see Hezekiah."
+    },
+    {
+     "v": 2,
+     "text": "Isaiah went in and sat on the king’s couch. A seat was brought to him, but he would not sit on it."
+    },
+    {
+     "v": 3,
+     "text": "As Isaiah began to speak words of faith and truth with the king, all the leaders of Israel were seated, with the eunuchs and the royal counselors. Forty prophets and sons of prophets were also there, who had come from the villages, the hill country, and the lowlands on hearing that Isaiah was coming from Gilgal to Hezekiah."
+    },
+    {
+     "v": 4,
+     "text": "They had come to greet him and to hear his words."
+    },
+    {
+     "v": 5,
+     "text": "They wanted him to lay his hands on them so that they would prophesy, and so that he could hear their prophecy. They all stood before Isaiah."
+    },
+    {
+     "v": 6,
+     "text": "While Isaiah was telling Hezekiah these words of truth and faith, everyone heard a door being opened, and heard the Holy Spirit speak."
+    },
+    {
+     "v": 7,
+     "text": "The king gathered every prophet and every person present, and they came. Micaiah, aged Ananias, Joel, and Josab took seats at his right and at his left."
+    },
+    {
+     "v": 8,
+     "text": "When all of them heard the Holy Spirit’s voice, they knelt and bowed down, and gave glory to the true God, the Most High, who dwells in the upper world and sits on high, the Holy One who rests among his holy ones."
+    },
+    {
+     "v": 9,
+     "text": "They gave glory to him because he had opened a door in a foreign world, and had opened it to a man."
+    },
+    {
+     "v": 10,
+     "text": "As Isaiah was speaking by the Holy Spirit for everyone to hear, he suddenly went quiet. His mind was lifted out of him, and he no longer saw the men who stood before him,"
+    },
+    {
+     "v": 11,
+     "text": "though his eyes were open. His lips were still, and the mind within his body had been taken out of him."
+    },
+    {
+     "v": 12,
+     "text": "Yet he was still breathing, because he was watching a vision."
+    },
+    {
+     "v": 13,
+     "text": "The angel who had been sent to show it to him was not from this firmament, and he was not one of the glorious angels of this world, but had come from the seventh heaven."
+    },
+    {
+     "v": 14,
+     "text": "The bystanders did not think so, but the company of the prophets believed the holy Isaiah had been carried up."
+    },
+    {
+     "v": 15,
+     "text": "The vision the holy Isaiah beheld did not belong to this world; it came from the world kept hidden from flesh."
+    },
+    {
+     "v": 16,
+     "text": "When Isaiah had seen the vision, he described it to Hezekiah, to his son Josab, and to the other prophets who had gathered."
+    },
+    {
+     "v": 17,
+     "text": "But the leaders, the eunuchs, and the people heard nothing. Only Samnas the scribe, Joachim,{b} and Asaph the recorder heard, for they too did what is right, and the sweet fragrance of the Spirit rested on them. The people heard nothing, since Micaiah and his son Josab had sent them outside once the wisdom of this world was taken from Isaiah and he lay like a dead man."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:1",
+     "text": "Greek *Galgala*, Hebrew *Gilgal*, “circle” or “rolling.”"
+    },
+    {
+     "m": "b",
+     "ref": "6:17",
+     "text": "Ethiopic *Ijôaqêm*, Hebrew *Yehoyaqim*, “Yahweh raises up.”"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Isaiah described the vision he had seen to Hezekiah, his son Josab, Micaiah, and the other prophets. He said:"
+    },
+    {
+     "v": 2,
+     "text": "“A moment ago, while I was prophesying about the things you heard, I saw a glorious angel unlike the angels of glory that I used to see all the time. He had such glory and rank that I cannot describe his glory."
+    },
+    {
+     "v": 3,
+     "text": "He took me by the hand and lifted me up, and I said to him, ‘Who are you? What is your name? And where are you taking me up to?’ I was given strength to speak with him."
+    },
+    {
+     "v": 4,
+     "text": "He said to me, ‘When I have lifted you up through the different levels and shown you the vision I was sent to show, then you will understand who I am. But you do not know my name."
+    },
+    {
+     "v": 5,
+     "text": "You will return to this body of yours, but you will see where I am lifting you up to, for I was sent for this purpose.’"
+    },
+    {
+     "v": 6,
+     "text": "I was glad that he spoke so kindly to me."
+    },
+    {
+     "v": 7,
+     "text": "He said to me, ‘Are you glad because I have spoken kindly to you?’ And he said, ‘You will see how one greater than I am will speak with you kindly and peacefully."
+    },
+    {
+     "v": 8,
+     "text": "You will also see his Father, who is greater, for I was sent from the seventh heaven to explain all these things to you.’"
+    },
+    {
+     "v": 9,
+     "text": "The two of us ascended to the firmament, and there I saw Sammael with his hosts. A great struggle was going on there, and Satan’s angels envied each other."
+    },
+    {
+     "v": 10,
+     "text": "As it is above, so it is on the earth too, for what is on the earth is a likeness of what is in the firmament."
+    },
+    {
+     "v": 11,
+     "text": "I asked the angel beside me, ‘What is the meaning of this war, and of this envy?’"
+    },
+    {
+     "v": 12,
+     "text": "He answered, ‘It has been this way ever since the world was created, and this war will last until the one you will see arrives and destroys him.’"
+    },
+    {
+     "v": 13,
+     "text": "Then he took me up above the firmament, to the first heaven."
+    },
+    {
+     "v": 14,
+     "text": "There I saw a throne in the center, and angels stood to the right of it and to the left."
+    },
+    {
+     "v": 15,
+     "text": "The angels on the left were unlike those standing at the right. The ones on the right had greater glory, and they praised together in a single voice. A throne stood between them, and those on the left praised after them, but their voice was different from the right-hand angels’ voice, and their praise was different too."
+    },
+    {
+     "v": 16,
+     "text": "I asked the angel who was leading me, ‘Who is this praise sent to?’"
+    },
+    {
+     "v": 17,
+     "text": "He said, ‘It is offered to the One who sits in the seventh heaven, who rests in the holy world, together with his Beloved, who sent me to you. That is where it goes.’"
+    },
+    {
+     "v": 18,
+     "text": "Then he carried me up to the second heaven. That heaven is as high above the first as the heaven is above the earth and the firmament."
+    },
+    {
+     "v": 19,
+     "text": "As in the first heaven, I saw angels on the right and the left, a throne in the center, and angels praising in the second heaven. The one seated on the throne in the second heaven shone more brightly than all the others."
+    },
+    {
+     "v": 20,
+     "text": "The glory in the second heaven was immense, and its praise was not like the praise of the first heaven."
+    },
+    {
+     "v": 21,
+     "text": "I fell on my face to bow before him, but the angel who guided me would not allow it. He said, ‘Do not worship any throne or angel of the six heavens—that is why I was sent to guide you—until I say so in the seventh heaven."
+    },
+    {
+     "v": 22,
+     "text": "Your throne has been placed above every heaven and their angels, and so have your garments and your crown, which you will see.’"
+    },
+    {
+     "v": 23,
+     "text": "Great joy filled me, because the lovers of the Most High and of his Beloved will one day rise to that place under the guidance of the angel of the Holy Spirit."
+    },
+    {
+     "v": 24,
+     "text": "Next he took me up to the third heaven, and again I saw the angels at the right and the left, with a throne in the center. But there the memory of this world is never heard."
+    },
+    {
+     "v": 25,
+     "text": "I spoke to the angel with me (my appearance was shining ever more brightly as I rose from heaven to heaven): ‘Not even a trace of the emptiness of that world is spoken of here.’"
+    },
+    {
+     "v": 26,
+     "text": "He replied, ‘Nothing is spoken of, because of its weakness; yet nothing that is done there stays hidden.’"
+    },
+    {
+     "v": 27,
+     "text": "I wanted to learn how it all becomes known, and he replied, ‘When I have brought you to the seventh heaven, the one above these, from which I was sent, then you will know that nothing is concealed from the thrones, from the dwellers in the heavens, or from the angels.’ The praise they offered and the glory of the one on the throne were great, and the angels standing right and left had glory surpassing that of the heaven beneath."
+    },
+    {
+     "v": 28,
+     "text": "Then he carried me up once more, to the fourth heaven; the distance from the third heaven to the fourth was larger than the distance from the earth to the firmament."
+    },
+    {
+     "v": 29,
+     "text": "Once more I saw the angels at the right and the left, with the one seated on the throne between them, and they too were praising."
+    },
+    {
+     "v": 30,
+     "text": "The right-hand angels’ praise and glory were higher than those of the left-hand angels."
+    },
+    {
+     "v": 31,
+     "text": "The glory of the one seated on the throne exceeded that of the right-hand angels, and their glory exceeded that of the ones below."
+    },
+    {
+     "v": 32,
+     "text": "He lifted me to the fifth heaven."
+    },
+    {
+     "v": 33,
+     "text": "Once more I saw the right and left, and the one on the throne, whose glory was higher than that of the fourth heaven’s occupants."
+    },
+    {
+     "v": 34,
+     "text": "The glory of the right-hand angels was higher than that of the left-hand ones,"
+    },
+    {
+     "v": 35,
+     "text": "and the one on the throne had more glory than the angels at his right."
+    },
+    {
+     "v": 36,
+     "text": "Their praise was more splendid than the fourth heaven’s."
+    },
+    {
+     "v": 37,
+     "text": "I praised the one who has no name, the Only-begotten, who lives in the heavens and whose name no flesh knows, who has given each heaven its glory, who makes the glory of the angels great and increases still more the glory of the one who sits on the throne."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Then he lifted me once more, into the sixth heaven’s atmosphere, and I beheld a splendor unlike any I had seen in the five lower heavens."
+    },
+    {
+     "v": 2,
+     "text": "I saw angels with great glory."
+    },
+    {
+     "v": 3,
+     "text": "The praise there was holy and marvelous."
+    },
+    {
+     "v": 4,
+     "text": "I asked the angel who guided me, ‘What am I looking at, my lord?’"
+    },
+    {
+     "v": 5,
+     "text": "He said, ‘I am not your lord, but your fellow servant.’"
+    },
+    {
+     "v": 6,
+     "text": "I asked him again, ‘Why are there no angels on the left, as there are fellow servants of ours elsewhere?’"
+    },
+    {
+     "v": 7,
+     "text": "He replied, ‘From the sixth heaven upward there are no more angels at the left, and no throne set in the center. They are ruled by the might of the seventh heaven, where the One without a name dwells, and the Chosen One, whose name has not been revealed, and no heaven can find out his name."
+    },
+    {
+     "v": 8,
+     "text": "For he alone is the one whom all the heavens and thrones obey when he speaks. That is why I was given power and sent to bring you here, so that you could see this glory"
+    },
+    {
+     "v": 9,
+     "text": "and see the Lord of all those heavens, along with these thrones,"
+    },
+    {
+     "v": 10,
+     "text": "as he alters his shape, stage by stage, until he looks like you in form and likeness."
+    },
+    {
+     "v": 11,
+     "text": "I tell you, Isaiah: no one who is about to return into a body in that world has gone up or seen what you see, or understood what you have understood and what you will see."
+    },
+    {
+     "v": 12,
+     "text": "You have been granted, by the Lord’s allotment, to come here, and from here flows the power of the sixth heaven and the air.’"
+    },
+    {
+     "v": 13,
+     "text": "I praised my Lord, because through his allotment I was to come here."
+    },
+    {
+     "v": 14,
+     "text": "He said, ‘Hear this too, then, from your fellow servant: when, by God’s will, you have left the body behind and gone up, you will be given the garment you see, and you will see other garments too, counted and kept there,"
+    },
+    {
+     "v": 15,
+     "text": "and then you will be the equal of the angels in the seventh heaven.’"
+    },
+    {
+     "v": 16,
+     "text": "He took me up to the sixth heaven, where there were no angels at the left and no throne in the center, but all looked alike, and their praise was the same."
+    },
+    {
+     "v": 17,
+     "text": "Power was given to me too, and I praised with them, and that angel too, and our praise was like theirs."
+    },
+    {
+     "v": 18,
+     "text": "There they all spoke the name of the first Father and of his Beloved, the Christ,{a} and of the Holy Spirit, all in one voice."
+    },
+    {
+     "v": 19,
+     "text": "Their voice was unlike that of the angels in the five lower heavens,"
+    },
+    {
+     "v": 20,
+     "text": "or like their speech, but the voice there was different, and there was much light."
+    },
+    {
+     "v": 21,
+     "text": "Once I was in the sixth heaven, I took the light I had seen in the lower five to be just darkness."
+    },
+    {
+     "v": 22,
+     "text": "I was glad, and I praised him who has given such lights to those who wait for his promise."
+    },
+    {
+     "v": 23,
+     "text": "I begged the angel who was leading me not to send me back to the fleshly world."
+    },
+    {
+     "v": 24,
+     "text": "I tell you, Hezekiah, my son Josab, and Micaiah, that the darkness here is deep."
+    },
+    {
+     "v": 25,
+     "text": "The angel guiding me knew my thoughts and said, ‘If this light makes you rejoice, how much more you will rejoice when you see the light in the seventh heaven, where the Lord and his Beloved are, who sent me, and who is to be named “Son” in this world. He has not yet been revealed—he who will live in the perishing world—"
+    },
+    {
+     "v": 26,
+     "text": "and the garments, thrones, and crowns kept for the righteous, for those who put their trust in that Lord who will come down in your form. The light there is vast and marvelous."
+    },
+    {
+     "v": 27,
+     "text": "As for your not returning to the body, your days are not yet complete for coming here.’"
+    },
+    {
+     "v": 28,
+     "text": "On hearing this I was troubled, and he told me, ‘Let it not trouble you.’"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:18",
+     "text": "Greek *Christos*, “anointed one,” the Greek for the Hebrew *mashiach* (Messiah)."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“He brought me to the seventh heaven’s air, and I heard a voice say, ‘How high will a being of flesh climb?’ I was terrified and shook."
+    },
+    {
+     "v": 2,
+     "text": "While I was trembling, I heard another voice sent from there saying, ‘The holy Isaiah is permitted to come up here, for his garment is here.’"
+    },
+    {
+     "v": 3,
+     "text": "I asked the angel beside me, ‘Who was it that forbade me, and who was it that permitted me to come up?’"
+    },
+    {
+     "v": 4,
+     "text": "He said to me, ‘The one who forbade you is the one in charge of the praise of the sixth heaven."
+    },
+    {
+     "v": 5,
+     "text": "The one who permitted it is your Lord God, the Lord Christ, who will go by the name Jesus{a} in the world. But his name you cannot hear until you have left your body behind.’"
+    },
+    {
+     "v": 6,
+     "text": "He raised me to the seventh heaven, and there I saw a marvelous light and countless angels."
+    },
+    {
+     "v": 7,
+     "text": "There I saw all the righteous ever since Adam.{b}"
+    },
+    {
+     "v": 8,
+     "text": "There I saw the holy Abel{c} and all the righteous."
+    },
+    {
+     "v": 9,
+     "text": "There I saw Enoch{d} and everyone with him, stripped of the garments of flesh. They wore their garments of the upper world and stood like angels in great glory."
+    },
+    {
+     "v": 10,
+     "text": "But they were not sitting on their thrones, and their crowns of glory were not on them."
+    },
+    {
+     "v": 11,
+     "text": "I asked the angel who accompanied me, ‘Why have they received the garments, but not the thrones and the crowns?’"
+    },
+    {
+     "v": 12,
+     "text": "He said, ‘They are not given crowns and thrones of glory until the Beloved descends in the form you will see him take when he comes into the world at the end of days—the Lord who will be given the name Christ."
+    },
+    {
+     "v": 13,
+     "text": "Even so, they see and know whose thrones and crowns these will be when he has come down and been made in your form. They will think he is only flesh and a man."
+    },
+    {
+     "v": 14,
+     "text": "The god of that world will reach out a hand against the Son, and they will nail him to a tree and kill him without knowing who he is."
+    },
+    {
+     "v": 15,
+     "text": "So his descent, as you will see it, will be concealed even from the heavens, so that nobody will know who he is."
+    },
+    {
+     "v": 16,
+     "text": "After he has plundered the angel of death, he will rise on the third day and remain in that world five hundred forty-five days.{e}"
+    },
+    {
+     "v": 17,
+     "text": "Then many of the righteous will rise along with him; their spirits are not given their garments until the Lord Christ goes up and they go up with him."
+    },
+    {
+     "v": 18,
+     "text": "Then they will receive their garments, thrones, and crowns, when he has gone up into the seventh heaven.’"
+    },
+    {
+     "v": 19,
+     "text": "I put to him the question I had asked in the third heaven:"
+    },
+    {
+     "v": 20,
+     "text": "‘Show me how everything that is done in that world is made known here.’"
+    },
+    {
+     "v": 21,
+     "text": "While I was still speaking with him, one of the angels who stood near, more glorious than the angel who had brought me up from the world,"
+    },
+    {
+     "v": 22,
+     "text": "showed me a book. He opened it, and it contained writing, but not like any book of this world. He handed it to me, and I read it: it recorded the deeds of the people of Israel, and of others unknown to me, my son Josab."
+    },
+    {
+     "v": 23,
+     "text": "I said, ‘Truly nothing that is done in this world is hidden in the seventh heaven.’"
+    },
+    {
+     "v": 24,
+     "text": "There I saw many garments laid up, with many thrones and many crowns."
+    },
+    {
+     "v": 25,
+     "text": "I said to the angel, ‘Whose are these garments, thrones, and crowns?’"
+    },
+    {
+     "v": 26,
+     "text": "He answered, ‘Many from that world will be given these garments because they believed in the words of the One who will be named, as I told you; they will keep his commands, trust them, and trust in his cross. These are kept for them.’"
+    },
+    {
+     "v": 27,
+     "text": "I saw One standing there whose glory surpassed all the others. His glory was vast and wonderful."
+    },
+    {
+     "v": 28,
+     "text": "When I had seen him, all the righteous I had seen, and the angels as well, drew near to him. Adam, Abel, and Seth{f} and all the righteous came forward first and bowed to him, and all of them praised him in one voice. I praised along with them, and my praise matched theirs."
+    },
+    {
+     "v": 29,
+     "text": "Then all the angels came near, worshiped, and praised."
+    },
+    {
+     "v": 30,
+     "text": "I was changed again and became like an angel."
+    },
+    {
+     "v": 31,
+     "text": "Then the angel who was leading me said to me, ‘Worship this One,’ and I worshiped and praised."
+    },
+    {
+     "v": 32,
+     "text": "The angel said to me, ‘This is the Lord of all the praises that you have seen.’"
+    },
+    {
+     "v": 33,
+     "text": "As he was still speaking, I saw a second glorious One, similar to the first, and the righteous drew near, bowed, and praised, and I praised with them. But my glory was not changed to resemble theirs."
+    },
+    {
+     "v": 34,
+     "text": "Then the angels came near and worshiped him."
+    },
+    {
+     "v": 35,
+     "text": "There I saw the Lord with the second angel, both standing."
+    },
+    {
+     "v": 36,
+     "text": "The second stood at my Lord’s left. I asked, ‘Who is this?’ and he told me, ‘Worship him. This is the Holy Spirit’s angel, the one who speaks in you and in the other righteous.’"
+    },
+    {
+     "v": 37,
+     "text": "I saw the great glory with the eyes of my spirit open, and then I could not see, nor could my guiding angel, nor any of the angels I had watched worship my Lord."
+    },
+    {
+     "v": 38,
+     "text": "But I saw the righteous looking with great power on the glory of that One."
+    },
+    {
+     "v": 39,
+     "text": "My Lord approached me, together with the angel of the Spirit, and said, ‘See that it has been granted you to look on God, and that power has been given, for your sake, to the angel who is with you.’"
+    },
+    {
+     "v": 40,
+     "text": "I saw my Lord and the Spirit’s angel bow down, and the two of them praised God together."
+    },
+    {
+     "v": 41,
+     "text": "Then all the righteous came near and worshiped."
+    },
+    {
+     "v": 42,
+     "text": "The angels came near and worshiped, and all the angels praised."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:5",
+     "text": "Greek *Iesous*, from Hebrew *Yeshua* (Joshua), “Yahweh saves.”"
+    },
+    {
+     "m": "b",
+     "ref": "9:7",
+     "text": "Hebrew *Adam*, “human being,” from *adamah*, “ground.”"
+    },
+    {
+     "m": "c",
+     "ref": "9:8",
+     "text": "Hebrew *Hevel*, “breath” or “vapor.”"
+    },
+    {
+     "m": "d",
+     "ref": "9:9",
+     "text": "Hebrew *Chanokh*, “dedicated.”"
+    },
+    {
+     "m": "e",
+     "ref": "9:16",
+     "text": "The words about the third day are found in the Greek Legend and the Ethiopic, but are missing in the Latin and Slavonic. The number 545 is found only in the Ethiopic."
+    },
+    {
+     "m": "f",
+     "ref": "9:28",
+     "text": "Hebrew *Shet*, “appointed” (Genesis 4:25)."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“Then I heard the voices and the praise that I had heard in each of the lower six heavens, rising up and sounding there."
+    },
+    {
+     "v": 2,
+     "text": "All of it was being sent up to that Glorious One, on whose glory I could not gaze."
+    },
+    {
+     "v": 3,
+     "text": "I myself was hearing and seeing the praise given to him."
+    },
+    {
+     "v": 4,
+     "text": "The Lord and the Spirit’s angel watched all this and listened to it all."
+    },
+    {
+     "v": 5,
+     "text": "All the praises sent up from the six heavens can be seen as well as heard."
+    },
+    {
+     "v": 6,
+     "text": "I heard my guiding angel say, ‘This is the Most High among the high ones, who dwells in the holy world and rests among his holy ones, and whom the Holy Spirit, speaking through the lips of the righteous, will call “the Father of the Lord.”’"
+    },
+    {
+     "v": 7,
+     "text": "I heard the Most High, my Lord’s Father, speak to my Lord Christ, who will take the name Jesus:"
+    },
+    {
+     "v": 8,
+     "text": "‘Go out and descend through all the heavens. You will descend to the firmament and to that world, to the angel in Sheol, but you will not go as far as Haguel.{a}"
+    },
+    {
+     "v": 9,
+     "text": "You will take on the likeness of everyone in the five heavens."
+    },
+    {
+     "v": 10,
+     "text": "You will take care to look like the angels of the firmament, and like those in Sheol."
+    },
+    {
+     "v": 11,
+     "text": "None of the angels of that world will know that you are Lord with me over the seven heavens and their angels."
+    },
+    {
+     "v": 12,
+     "text": "They will not know you are with me until I call out to the heavens, their angels, and their lights, as low as the sixth heaven, in a loud voice, so that you may judge and destroy the rulers, angels, and gods who belong to that world, and the realm under their rule."
+    },
+    {
+     "v": 13,
+     "text": "For they have denied me, saying, “We alone exist, and no one is beside us.”"
+    },
+    {
+     "v": 14,
+     "text": "After that you will rise from the angels of death to your own place, and you will not be changed in each heaven, but ascend in glory and sit at my right side."
+    },
+    {
+     "v": 15,
+     "text": "Then the rulers and powers of that world will bow down to you.’"
+    },
+    {
+     "v": 16,
+     "text": "I heard the Great Glory giving these commands to my Lord."
+    },
+    {
+     "v": 17,
+     "text": "I watched my Lord leave the seventh heaven for the sixth."
+    },
+    {
+     "v": 18,
+     "text": "The angel guiding me told me, ‘Pay attention, Isaiah, and watch how the Lord’s transformation and descent will appear.’"
+    },
+    {
+     "v": 19,
+     "text": "I looked, and when the angels in the sixth heaven saw him, they praised and honored him, for he had not been changed into the shape of the angels there. They praised him, and I praised with them."
+    },
+    {
+     "v": 20,
+     "text": "I saw him descend to the fifth heaven, and there he took the shape of that heaven’s angels. They neither praised nor worshiped him, because he looked just as they did."
+    },
+    {
+     "v": 21,
+     "text": "Then he descended to the fourth heaven and took the shape of its angels."
+    },
+    {
+     "v": 22,
+     "text": "When they saw him, they gave him no praise or honor, since he looked like them."
+    },
+    {
+     "v": 23,
+     "text": "Again I saw him descend, to the third heaven, where he took the form of the angels there."
+    },
+    {
+     "v": 24,
+     "text": "The keepers of the third heaven’s gate asked for the password, and the Lord gave it so that he would not be recognized. When they saw him, they offered no praise or honor, since his appearance matched theirs."
+    },
+    {
+     "v": 25,
+     "text": "Again I saw him descend to the second heaven, and there too he gave the password. The gatekeepers kept demanding it, and the Lord kept giving it."
+    },
+    {
+     "v": 26,
+     "text": "I saw him make himself like the second heaven’s angels, and they looked at him and did not praise him, because he looked like them."
+    },
+    {
+     "v": 27,
+     "text": "Again I saw him descend to the first heaven, and there too he gave the password to the gatekeepers and made himself like the angels who stood at the left of that throne. They neither praised nor honored him, since he looked like them."
+    },
+    {
+     "v": 28,
+     "text": "But no one questioned me, because of the angel who was leading me."
+    },
+    {
+     "v": 29,
+     "text": "Next he descended into the firmament, where this world’s ruler lives, and told the password to those at the left. He looked like them, and they did not praise him there. Instead they envied one another and fought, for evil has power there, and they quarrel over trifles."
+    },
+    {
+     "v": 30,
+     "text": "I saw him descend and make himself resemble the angels of the air, so that he looked like one of them."
+    },
+    {
+     "v": 31,
+     "text": "He gave no password, for there one was plundering and mistreating another."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:8",
+     "text": "Ethiopic *Haguêl*, probably for Abaddon (Hebrew *Avaddon*, “destruction”), the final place of the lost; it is named only here."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "“After this the angel who spoke with me and led me said, ‘Understand, Isaiah son of Amoz, for I was sent from God for this purpose.’"
+    },
+    {
+     "v": 2,
+     "text": "I saw a woman from the family of the prophet David, named Mary,{a} a virgin, engaged to a man called Joseph,{b} a carpenter, who also belonged to the line and household of the righteous David of Bethlehem in Judah."
+    },
+    {
+     "v": 3,
+     "text": "He came into his allotment. When she was engaged, she was found to be with child, and Joseph the carpenter wanted to send her away."
+    },
+    {
+     "v": 4,
+     "text": "But the Spirit’s angel appeared in this world, and afterward Joseph did not divorce her; he kept Mary and told no one."
+    },
+    {
+     "v": 5,
+     "text": "Joseph never went near Mary; he kept her a holy virgin even though she was pregnant."
+    },
+    {
+     "v": 6,
+     "text": "For two months he did not live with her."
+    },
+    {
+     "v": 7,
+     "text": "After two months, while Joseph was in his house with his wife Mary, the two of them alone,"
+    },
+    {
+     "v": 8,
+     "text": "it happened that when they were alone, Mary at once looked up and saw a small baby, and she was amazed."
+    },
+    {
+     "v": 9,
+     "text": "After she was amazed, her womb was found as it had been before she conceived."
+    },
+    {
+     "v": 10,
+     "text": "When her husband Joseph asked her, ‘What has astonished you?’ his eyes were opened; he saw the baby and praised God, for God had come into his portion."
+    },
+    {
+     "v": 11,
+     "text": "A voice reached them: ‘Do not tell anyone about this vision.’"
+    },
+    {
+     "v": 12,
+     "text": "The news about the baby spread in Bethlehem."
+    },
+    {
+     "v": 13,
+     "text": "Some said, ‘The virgin Mary has had a baby before she had been married two months.’"
+    },
+    {
+     "v": 14,
+     "text": "Many said, ‘She has not had a baby, and no midwife went up to her, and we have not heard the cries of labor.’ They were all blind about him, and they all knew about him, though they did not know where he was from."
+    },
+    {
+     "v": 15,
+     "text": "They took him and went to Nazareth{c} in Galilee.{d}"
+    },
+    {
+     "v": 16,
+     "text": "Hezekiah and my son Josab, I saw this, and I tell it to the other prophets standing here: it escaped all the heavens, all the rulers, and all the gods of this world."
+    },
+    {
+     "v": 17,
+     "text": "I saw that in Nazareth he nursed at the breast as a baby, as is usual, so that he would not be recognized."
+    },
+    {
+     "v": 18,
+     "text": "When he was grown he performed great signs and wonders in Israel’s land and in Jerusalem."
+    },
+    {
+     "v": 19,
+     "text": "After this the adversary grew jealous of him and roused the people of Israel against him, unaware of who he was; they delivered him to the king, crucified him, and he went down to the angel of Sheol."
+    },
+    {
+     "v": 20,
+     "text": "I saw him in Jerusalem, crucified on a tree,"
+    },
+    {
+     "v": 21,
+     "text": "and likewise, after the third day, rising again and staying for days."
+    },
+    {
+     "v": 22,
+     "text": "The angel who was leading me said, ‘Understand, Isaiah.’ And I saw him send out the twelve apostles and go up."
+    },
+    {
+     "v": 23,
+     "text": "I saw him in the firmament, but he had not taken on their form; all the angels in the firmament, with the Satans, saw him and worshiped."
+    },
+    {
+     "v": 24,
+     "text": "There was great grief there as they said, ‘How did our Lord descend among us without our seeing the glory upon him—the glory we see has been on him since the sixth heaven?’"
+    },
+    {
+     "v": 25,
+     "text": "He went up to the second heaven without changing himself, and all the angels at the right and the left, and the throne in the center,"
+    },
+    {
+     "v": 26,
+     "text": "worshiped him and praised him, saying, ‘How did our Lord pass us by on his way down, and we never noticed?’"
+    },
+    {
+     "v": 27,
+     "text": "In the same way he ascended to the third heaven, and they praised him and spoke as the others had."
+    },
+    {
+     "v": 28,
+     "text": "In the fourth heaven and the fifth they spoke in just the same way."
+    },
+    {
+     "v": 29,
+     "text": "But there was one glory, and he did not change himself from it."
+    },
+    {
+     "v": 30,
+     "text": "I saw him ascend to the sixth heaven, and they bowed to him and glorified him."
+    },
+    {
+     "v": 31,
+     "text": "But in every heaven the praise swelled louder."
+    },
+    {
+     "v": 32,
+     "text": "I saw him go up to the seventh heaven, and every righteous person and every angel praised him. Then I saw him take his seat at the right of the Great Glory, on whose glory, as I told you, I could not look."
+    },
+    {
+     "v": 33,
+     "text": "I also saw the angel of the Holy Spirit sitting at the left hand."
+    },
+    {
+     "v": 34,
+     "text": "This angel said to me, ‘Isaiah son of Amoz, that is enough for you, for these are great matters, since you have seen what no child of flesh has ever seen."
+    },
+    {
+     "v": 35,
+     "text": "You will return into your garment of flesh until your days are completed. Then you will come here.’”"
+    },
+    {
+     "v": 36,
+     "text": "Isaiah saw these things and told them to everyone who stood before him, and they praised. He said to King Hezekiah, “I have spoken these things.”"
+    },
+    {
+     "v": 37,
+     "text": "Both the end of this world,"
+    },
+    {
+     "v": 38,
+     "text": "and all this vision will be completed in the last generations."
+    },
+    {
+     "v": 39,
+     "text": "Isaiah made Hezekiah vow that he would not tell the people of Israel, nor give anyone these words to copy."
+    },
+    {
+     "v": 40,
+     "text": ". . . You will read such things. Stay awake in the Holy Spirit so that you may receive your garments, thrones, and crowns of glory that are stored up in the seventh heaven."
+    },
+    {
+     "v": 41,
+     "text": "Because of these visions and prophecies, Sammael Satan cut Isaiah son of Amoz, the prophet, in two with a saw, by Manasseh’s hand."
+    },
+    {
+     "v": 42,
+     "text": "Hezekiah handed all this over to Manasseh in the twenty-sixth year."
+    },
+    {
+     "v": 43,
+     "text": "But Manasseh did not remember them or take them to heart; he became the servant of Satan and was destroyed. Here ends the vision of the prophet Isaiah, with his ascension."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:2",
+     "text": "Greek *Maria*, from Hebrew *Miryam*; the meaning is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "11:2",
+     "text": "Hebrew *Yosef*, “may he add” (see the note at 4:22)."
+    },
+    {
+     "m": "c",
+     "ref": "11:15",
+     "text": "Greek *Nazaret*, perhaps from Hebrew *netser*, “branch,” or *notsrah*, “watcher”; the meaning is uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "11:15",
+     "text": "Hebrew *Galil*, “circle” or “district.”"
+    }
+   ]
+  }
+ ]
+}
