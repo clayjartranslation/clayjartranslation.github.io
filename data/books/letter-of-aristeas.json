@@ -1,0 +1,1828 @@
+{
+ "id": "letter-of-aristeas",
+ "name": "Letter of Aristeas",
+ "division": "Pseudepigrapha",
+ "sourceNote": "Translated fresh from the Greek text of the Letter of Aristeas as edited by H. St. J. Thackeray for H. B. Swete, *An Introduction to the Old Testament in Greek* (Cambridge, 1900), which is public domain, in new English wording. The text used lacks sections 43 and 271, so chapters are broken at those gaps: chapter 1 is sections 1–11, chapter 2 is 12–27, chapter 3 is 28–42, chapter 4 is 44–82, chapter 5 is 83–120, chapter 6 is 121–171, chapter 7 is 172–186, chapter 8 is 187–223, chapter 9 is 224–270, chapter 10 is 272–294, and chapter 11 is 295–322. The verse numbers inside each chapter count from 1, and the traditional section number is the verse number plus the number of the last section before the chapter began. Where the Greek is corrupt or doubtful, the notes say so. The English translation of Thackeray (1904), which is also public domain, was used only as a check against over-close wording. The modern English translations in *The Old Testament Pseudepigrapha* and elsewhere, and the OCP English, were not used for wording. CJT draft.",
+ "chapters": [
+  {
+   "n": 1,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Philocrates,{a} the account of our meeting with Eleazar,{b} the high priest of the Jews, is worth telling. You have set great store by hearing it, by my going over each point and explaining why we were sent and for what purpose, and so I have tried to set it out plainly for you, knowing how much you love learning,"
+    },
+    {
+     "v": 2,
+     "text": "which is the highest good a person can have: to keep learning, and to keep taking in something further, whether through histories or through living the events oneself. For in this way a pure disposition is formed in the soul. It takes up what is finest, and, turning to piety, the most commanding thing of all, it governs itself by a rule that never misleads."
+    },
+    {
+     "v": 3,
+     "text": "We were set on examining divine matters with care, and so we offered ourselves for an embassy to the man I mentioned. He is held in the highest honor for his nobility and good name by his citizens and by others, and he has won very great benefits for those with him and for his fellow citizens elsewhere. Our purpose was the translation of the divine law, since it is written among them on skins in Hebrew letters."
+    },
+    {
+     "v": 4,
+     "text": "We carried this out eagerly, once we had found an opening with the king about the people who had been moved to Egypt from Judea{c} by the king’s father, who had been the first to take possession of the city{d} and to take over Egypt.{e} It is worth telling you this as well."
+    },
+    {
+     "v": 5,
+     "text": "I am convinced that you lean strongly toward reverence and toward the character of people who live by the holy law, and so you will gladly hear what we intend to tell. You have only lately come to us from the island,{f} and you wish to hear whatever helps to renew the soul."
+    },
+    {
+     "v": 6,
+     "text": "I also sent you an account earlier of matters I thought worth remembering, which we received from the high priests of Egypt, that most learned land, about the people of the Jews."
+    },
+    {
+     "v": 7,
+     "text": "You love learning, and so it is right to share with you whatever can benefit the mind. It is right to share it with all who are like you, and much more with you, who hold such an honest conviction. You are not only my brother by kinship in character; you are also the same as I am in your eagerness for what is good."
+    },
+    {
+     "v": 8,
+     "text": "For the charm of gold, or any other costly possession prized by the vain, does not bring the same benefit as the discipline of education and the care taken over it. But so that we do not become tiresome by dragging out the preliminaries, I will go back to the continuous course of the account."
+    },
+    {
+     "v": 9,
+     "text": "Demetrius of Phalerum,{g} who had been put in charge of the king’s library, was given large and varied sums in order to gather together, if he could, all the books in the inhabited world. By purchases and by copying, he carried the king’s purpose as far toward its end as was in his power."
+    },
+    {
+     "v": 10,
+     "text": "We were present when he was asked, “About how many tens of thousands of books are there?” He said, “More than two hundred thousand,{h} O king. I will take pains, within a short time, to bring the rest up to five hundred thousand.{i} I have been told that the laws of the Jews are also worth copying and worth a place in your library.”"
+    },
+    {
+     "v": 11,
+     "text": "“What is stopping you from doing this?” the king asked. “Everything you need has been put at your disposal.” Demetrius said, “They need translation. They use letters of their own, as the Egyptians have their own arrangement of letters, and they have a language of their own as well. They are assumed to use Syriac,{j} but that is not so; theirs is a different kind.” The king took in each point and gave orders that a letter should go to the Jews’ high priest, so that what had been said might be carried out."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "1:1",
+     "text": "Greek *Philokrates*, “lover of power” or “lover of rule.” He is the narrator’s brother (verse 7)."
+    },
+    {
+     "m": "b",
+     "ref": "1:1",
+     "text": "Hebrew *Elazar*, “God has helped.”"
+    },
+    {
+     "m": "c",
+     "ref": "1:4",
+     "text": "Greek *Ioudaia*, from Hebrew *Yehudah*, “praised.”"
+    },
+    {
+     "m": "d",
+     "ref": "1:4",
+     "text": "The city is Alexandria, named for Alexander the Great (Greek *Alexandros*, “defender of men”)."
+    },
+    {
+     "m": "e",
+     "ref": "1:4",
+     "text": "Greek *Aigyptos*; the meaning of the name is uncertain."
+    },
+    {
+     "m": "f",
+     "ref": "1:5",
+     "text": "The text does not say which island is meant."
+    },
+    {
+     "m": "g",
+     "ref": "1:9",
+     "text": "Greek *Demetrios*, “devoted to Demeter,” the goddess of grain; *Phaleron* was a harbor of Athens, and the meaning of its name is uncertain."
+    },
+    {
+     "m": "h",
+     "ref": "1:10",
+     "text": "Greek: “twenty myriads”; a myriad is ten thousand."
+    },
+    {
+     "m": "i",
+     "ref": "1:10",
+     "text": "Greek: “fifty myriads.”"
+    },
+    {
+     "m": "j",
+     "ref": "1:11",
+     "text": "Greek *Syriake*; here it probably means Aramaic, the language of Syria, which Jews of that time also spoke."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I thought the moment had come to press what I had often asked of Sosibius{a} of Tarentum{b} and Andreas,{c} the chiefs of the bodyguard: the release of those who had been moved out of Judea by the king’s father. For that king had gone through all of Coele-Syria{d} and Phoenicia,{e} using his success together with courage. Some people he deported, and others he took captive, bringing everything under his hand by fear. In the course of this he carried off to Egypt about a hundred thousand people{f} from the land of the Jews."
+    },
+    {
+     "v": 2,
+     "text": "Of these he armed about thirty thousand{g} picked men and settled them in the country in the garrisons. (Many had already come in earlier, with the Persian{h}, and others before them had been sent as allies to fight the king of the Ethiopians{i} with Psammetichus.{j} But those were not as many as the ones Ptolemy{k} son of Lagus{l} brought over.)"
+    },
+    {
+     "v": 3,
+     "text": "As I said, he chose those who were best in age and outstanding in strength and armed them. The rest of the crowd, older and younger and women as well, he left in servitude. This was not what he really wanted in his heart; he was overruled by his soldiers because of the services they had rendered in the struggles of war. When we found a pretext for their release, as I have already explained, we spoke to the king in these words."
+    },
+    {
+     "v": 4,
+     "text": "“It would be absurd, O king, to be proved wrong by the facts themselves. A body of law lies before all the Jews, and we intend not only to copy it but to translate it. What reason could we give for sending it, while great numbers of the same people are in servitude in your kingdom? No, with a perfect and generous spirit, release those who are held in misery. For the God who gave them their law is guiding your kingdom, as I have found by inquiry.{m}"
+    },
+    {
+     "v": 5,
+     "text": "They worship the God who oversees all things and created them, whom all people worship, and we as well, O king, though under other names, Zeus and Dios.{n} The first people to name him this way did so fittingly: that by which everything receives life and comes into being is the guide and lord of all. You surpass all people in the brightness of your mind, so release those who are held in servitude.”"
+    },
+    {
+     "v": 6,
+     "text": "After a short time, as we prayed in our hearts to God that he would shape the king’s mind toward the release of them all (for the human race is God’s creation, and God changes and turns it as he wishes; so in many and various ways I called on the one who rules the heart, that he might be compelled, as I asked, to do it),"
+    },
+    {
+     "v": 7,
+     "text": "for I had great hope, as I made my plea for the rescue of human beings, that God would bring about what was asked. What people believe they are doing in holiness, for justice and the care of good works, is directed in its deeds and plans by God, who rules over all."
+    },
+    {
+     "v": 8,
+     "text": "The king looked up, glanced at me with a cheerful face, and said, “About how many tens of thousands do you think they will number?” Andreas, who was standing by, answered, “A little over a hundred thousand.” “A small thing indeed,” the king said, “that Aristeas{o} asks of us.” Sosibius and some of those present said, “It is also worthy of your generosity to present their release to the most high God as an offering of thanks. You have been honored supremely by the one who rules all things, and made more glorious than your ancestors. So if you make very great thank offerings, it is fitting for you.”"
+    },
+    {
+     "v": 9,
+     "text": "The king was greatly delighted. He ordered that the soldiers’ pay be increased, that twenty drachmas{p} be paid for each person, and that an order be issued about this, with the registrations made at once. He acted with generous eagerness, since God was bringing to completion our whole purpose and forcing the king to ransom not only the men who had arrived along with his father’s army but also anyone who had been there before or was brought into the kingdom afterward. They reckoned the payment at more than four hundred talents (about 30,000 pounds of silver).{q}"
+    },
+    {
+     "v": 10,
+     "text": "I think it is useful to include a copy of the order as well. The king’s generosity will be far clearer and more obvious, since God was strengthening him to bring rescue to so many multitudes."
+    },
+    {
+     "v": 11,
+     "text": "It read as follows. “By order of the king: All those who served in the army with our father in the regions of Syria{r} and Phoenicia, and who entered the land of the Jews and gained possession of Jewish persons and brought them to the city and the country, or sold them to others, and likewise anyone who had them earlier or has had them brought in since, are to release them at once, for money. Each owner is to receive twenty drachmas for each person: soldiers as an addition to their pay, and the others from the royal bank."
+    },
+    {
+     "v": 12,
+     "text": "We consider that these people were taken captive against our father’s wish and contrary to what is right, and that, because of the recklessness of soldiers, their land was laid waste and the removal of the Jews to Egypt took place. The gain the soldiers made in the field was enough. Therefore the oppression of human beings is altogether unreasonable."
+    },
+    {
+     "v": 13,
+     "text": "We acknowledge that justice is owed to all people, and much more to those who are wrongly oppressed. We seek in every way what is right toward justice and toward piety for all. We therefore order that all Jewish persons who are in servitude anywhere in the kingdom, in whatever way, are to be released by those who hold them, on receipt of the stated sum, and that no one is to handle these matters with malicious delay. The registrations are to be made within three days from the day this order is posted, before those appointed for the purpose, and the persons are to be produced at once."
+    },
+    {
+     "v": 14,
+     "text": "We judge that this will serve us and our affairs. Whoever wishes to report those who disobey may do so, on the understanding that he will gain control of the one found guilty. The property of such people will be taken into the royal treasury.”"
+    },
+    {
+     "v": 15,
+     "text": "The order was brought in to be read to the king, and it contained all of this except the words “and anyone who had them earlier or has had them brought in since.” The king added this himself, in his generosity and greatness of spirit. He also ordered that the whole sum of the payments be divided up among the officers’ attendants in the divisions and the royal bankers."
+    },
+    {
+     "v": 16,
+     "text": "So it was decided and confirmed within seven days. The payment came to more than six hundred sixty talents (about 49,500 pounds of silver).{s} Many nursing infants were set free with their mothers, too. When the king was asked whether the twenty drachmas would be paid for these as well, he ordered that this too be done, carrying out completely what he had decided."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "2:1",
+     "text": "Greek *Sosibios*, “life-saving.”"
+    },
+    {
+     "m": "b",
+     "ref": "2:1",
+     "text": "Greek *Taras*, a Greek city of southern Italy; the meaning of the name is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "2:1",
+     "text": "Greek *Andreas*, “manly.”"
+    },
+    {
+     "m": "d",
+     "ref": "2:1",
+     "text": "Greek *Koile Syria*, “Hollow Syria,” the valley country between the Lebanon and Anti-Lebanon ranges, later used for all of southern Syria."
+    },
+    {
+     "m": "e",
+     "ref": "2:1",
+     "text": "Greek *Phoinike*, perhaps “land of purple.”"
+    },
+    {
+     "m": "f",
+     "ref": "2:1",
+     "text": "Greek: “ten myriads.”"
+    },
+    {
+     "m": "g",
+     "ref": "2:2",
+     "text": "Greek: “three myriads.”"
+    },
+    {
+     "m": "h",
+     "ref": "2:2",
+     "text": "Greek *Persēs*; the Persian king Cambyses (reigned 530–522 BC) conquered Egypt. The name is Old Persian, perhaps from *Pārsa*, the land of Persia."
+    },
+    {
+     "m": "i",
+     "ref": "2:2",
+     "text": "Greek *Aithiopes*, “burnt-faced.”"
+    },
+    {
+     "m": "j",
+     "ref": "2:2",
+     "text": "Greek *Psammitichos*, from the Egyptian royal name Psamtik; the meaning is uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "2:2",
+     "text": "Greek *Ptolemaios*, “warlike.”"
+    },
+    {
+     "m": "l",
+     "ref": "2:2",
+     "text": "Greek *Lagos*, “hare.”"
+    },
+    {
+     "m": "m",
+     "ref": "2:4",
+     "text": "The Greek of the last clause is awkward, and the sentence may be damaged."
+    },
+    {
+     "m": "n",
+     "ref": "2:5",
+     "text": "Greek *Zeus* and *Dios* are the nominative and genitive forms of the same Greek name; the two forms were read as meaning “through whom” (*di’ hon*) life comes."
+    },
+    {
+     "m": "o",
+     "ref": "2:8",
+     "text": "Greek *Aristeas*, “best” or “excellent.”"
+    },
+    {
+     "m": "p",
+     "ref": "2:9",
+     "text": "A drachma was a Greek silver coin; the amount is left unconverted because its buying power varied."
+    },
+    {
+     "m": "q",
+     "ref": "2:9",
+     "text": "Greek: “over four hundred talents.” A talent is taken here as about 75 pounds (34 kg); the weights used for talents varied. The text does not name the metal, and silver is assumed."
+    },
+    {
+     "m": "r",
+     "ref": "2:11",
+     "text": "Greek *Syria*, probably a shortened form of *Assyria*."
+    },
+    {
+     "m": "s",
+     "ref": "2:16",
+     "text": "Greek: “more than six hundred sixty talents.” A talent is taken here as about 75 pounds (34 kg)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When this had been accomplished, the king ordered Demetrius to submit a proposal about the copying of the Jewish books. Everything under these kings was handled by written orders and with great care, and nothing was done carelessly or at random. For this reason I have included the text of the proposal and copies of the letters, the number of the gifts sent, and the workmanship of each, since every one of them stood out for its lavishness and skill. This is a copy of the proposal."
+    },
+    {
+     "v": 2,
+     "text": "“To the great king, from Demetrius. You gave orders, O king, that the books still missing to complete the library be gathered in, and that those that have fallen into disrepair receive proper restoration. I have given careful attention to these matters, and I now report the following to you."
+    },
+    {
+     "v": 3,
+     "text": "The books of the law of the Jews are missing, along with a few others. They happen to be written in Hebrew letters and language, but they have been set down rather carelessly and not as they really stand, as those who know them report; for they have never had the king’s care."
+    },
+    {
+     "v": 4,
+     "text": "It is necessary that these too be in your possession in an exact form, since this legislation is wiser and unspoiled, as one would expect of a divine law. For that reason, writers, poets, and the whole crowd of historians have kept their distance from mentioning these books and the men who have lived and still live by them, because the thinking in them is pure and solemn, as Hecataeus of Abdera{a} says."
+    },
+    {
+     "v": 5,
+     "text": "If it seems good to you, O king, a letter will be written to the high priest in Jerusalem{b} to send elderly men whose lives have been the best, experienced in their own law, six from each tribe. We will then examine what the majority agree on, obtain an accurate translation, and set it down clearly, in a way worthy of the matter and of your purpose. May you prosper always.”"
+    },
+    {
+     "v": 6,
+     "text": "When this proposal had been presented, the king ordered a letter to be written to Eleazar about these matters, reporting also the release of the captives that had taken place. He gave, too, for the making of mixing bowls, cups, a table, and bowls for pouring offerings, fifty talents’ weight of gold (about 3,750 pounds){c} and seventy talents of silver (about 5,250 pounds), along with a great quantity of precious stones. He ordered the keepers of the treasure chests to let the craftsmen choose whichever stones they preferred. He also gave coined money for sacrifices and other needs, nearly a hundred talents (about 7,500 pounds of silver)."
+    },
+    {
+     "v": 7,
+     "text": "I will tell you about the workmanship once I have gone through the copies of the letters. The king’s letter was in this form."
+    },
+    {
+     "v": 8,
+     "text": "“King Ptolemy sends Eleazar the high priest greetings, and wishes him health. It has happened that many Jews have been settled in our country, having been carried off from Jerusalem by the Persians during the time they ruled, and that others came to Egypt with our father as captives."
+    },
+    {
+     "v": 9,
+     "text": "Of these our father enrolled many in the army on higher pay. He also judged those who were there earlier to be trustworthy, built forts, and handed these over to them, so that the nation of the Egyptians would be afraid because of them. Now that we have taken over the kingdom, we deal with everyone more kindly, and much more so with your fellow citizens."
+    },
+    {
+     "v": 10,
+     "text": "We have set free more than a hundred thousand captives, giving their owners the silver they were owed, and putting right whatever was done wrongly through the rush of the crowds. We have judged that this was a pious thing to do, and we offer it in thanks to the greatest God, who has held our realm in peace and raised it to the height of glory throughout the whole inhabited world. We have placed those in the prime of life in the army, and those who are able to be near us and are worthy of trust at court we have set over our affairs."
+    },
+    {
+     "v": 11,
+     "text": "We wish to show favor both to these people and to all the Jews in the world, and to those who come after them. We have therefore decided that your law be translated into Greek letters from the Hebrew letters, as they are called among you, so that these books too may be in our library with the other royal books."
+    },
+    {
+     "v": 12,
+     "text": "You will do well, and in a manner worthy of our eagerness, to choose elderly men who have lived good lives, who are experienced in the law and able to translate it, six from each tribe, so that agreement may be found among the larger number, since the inquiry concerns weighty matters. For we believe that when this is finished we will win great fame."
+    },
+    {
+     "v": 13,
+     "text": "We have sent Andreas, of the chiefs of the bodyguard, and Aristeas, who are held in honor among us, to talk with you. They are bringing first offerings of dedicated gifts for the temple, and a hundred talents of silver (about 7,500 pounds) for sacrifices and other needs. If you write to us about whatever you wish, you will please us and do something worthy of friendship, and what you choose will be carried out as quickly as possible. Farewell.”"
+    },
+    {
+     "v": 14,
+     "text": "Eleazar answered this letter, in suitable terms. It went like this: “Eleazar, high priest, to King Ptolemy, his true friend: greetings. May you be well, and the queen Arsinoe,{d} your sister, and your children; it would be as we wish. We are well also."
+    },
+    {
+     "v": 15,
+     "text": "When we received your letter, we rejoiced greatly over your purpose and your good plan. We gathered the whole community and read it aloud to them, so that they would learn how devout you are toward our God. We also showed them the gifts you sent: bowls, twenty of gold and thirty of silver, with five mixing bowls, and a table for dedication, and a hundred talents of silver (about 7,500 pounds) for bringing sacrifices and for repairs of whatever the temple needs,"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "3:4",
+     "text": "Greek *Hekataios*, perhaps “far-shooter,” a title of the god Apollo; *Abdera* was a Greek city on the coast of Thrace, and the meaning of its name is uncertain."
+    },
+    {
+     "m": "b",
+     "ref": "3:5",
+     "text": "Greek *Hierosolyma*, from Hebrew *Yerushalayim*, perhaps “foundation of peace.”"
+    },
+    {
+     "m": "c",
+     "ref": "3:6",
+     "text": "Greek: “fifty talents.” A talent is taken here as about 75 pounds (34 kg); the weights used for talents varied."
+    },
+    {
+     "m": "d",
+     "ref": "3:14",
+     "text": "Greek *Arsinoe*, perhaps “man-minded.” She was the king’s sister and wife."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "for we will obey in everything that is to your advantage, even if it goes against our nature, since this is a sign of friendship and affection. You, too, have done great and unforgettable good to our citizens in many ways."
+    },
+    {
+     "v": 2,
+     "text": "Immediately, then, we offered sacrifices for you, for your sister, your children, and your friends. The whole community prayed that all you intend may always come to you, that God, who rules over all, may keep your kingdom safe in peace and glory, and that the copying of the holy law may be carried out to your benefit and in safety."
+    },
+    {
+     "v": 3,
+     "text": "In the presence of everyone we chose good and fine elderly men, six from each tribe, and we have sent them with the law. You will do well, righteous king, to give orders that when the copying of the books is finished, the men are brought back to us again in safety. Farewell.”"
+    },
+    {
+     "v": 4,
+     "text": "These are the men. From the first tribe: Joseph, Hezekiah, Zechariah, John, Hezekiah, Elisha.{a} From the second: Judah, Simon, Samuel, Adaeus, Mattathias, Eschlemias.{b} From the third: Nehemiah, Joseph, Theodosius, Baseas, Ornias, Dakis.{c}"
+    },
+    {
+     "v": 5,
+     "text": "From the fourth: Jonathan, Abaeus, Elisha, Hananiah, Chabrias, Chelkias (this last name is doubtful in the Greek).{d} From the fifth: Isaac, Jacob, Jesus, Sabbataeus, Simon, Levi.{e} From the sixth: Judah, Joseph, Simon, Zechariah, Samuel, Selemias.{f}"
+    },
+    {
+     "v": 6,
+     "text": "From the seventh: Sabbataeus, Zedekiah, Jacob, Isaac, Jesias, Natthaeus.{g} From the eighth: Theodosius, Jason, Jesus, Theodotus, John, Jonathan.{h} From the ninth: Theophilus, Abram, Arsamus, Jason, Endemias, Daniel.{i}"
+    },
+    {
+     "v": 7,
+     "text": "From the tenth: Jeremiah, Eleazar, Zechariah, Baneas, Elisha, Dathaeus.{j} From the eleventh: Samuel, Joseph, Judah, Jonathan, Chabeu, Dositheus.{k} From the twelfth: Isael, John, Theodosius, Arsamus, Abietes, Ezekiel.{l} In all they were seventy-two."
+    },
+    {
+     "v": 8,
+     "text": "Such was the reply that Eleazar and those with him made to the king’s letter. I will now do as I promised and describe the works of craftsmanship. They were completed with outstanding skill, since the king contributed lavishly and looked in on the craftsmen at every stage. So they could not overlook anything or finish anything carelessly. First I will explain to you what concerns the table."
+    },
+    {
+     "v": 9,
+     "text": "The king was eager to make the piece enormous in its measurements. He ordered inquiry to be made of people in that region about how large the table already standing in the temple in Jerusalem was."
+    },
+    {
+     "v": 10,
+     "text": "When they told him the measurements, he asked whether he should also make a larger one. Some of the priests, and others, said that nothing prevented it. He said he wished to make it five times the size, but he was afraid it might become useless for the services."
+    },
+    {
+     "v": 11,
+     "text": "For he did not want what came from him merely to sit in that place. He would be far more pleased if the proper services were carried out correctly on the pieces he had made, by those to whom that duty fell."
+    },
+    {
+     "v": 12,
+     "text": "“The earlier pieces are small,” he said, “not for lack of gold; it appears that they were made to these measures for some reason. If there had been an instruction to make them larger, nothing would have been withheld. So what has been rightly done must not be overstepped or set aside.”"
+    },
+    {
+     "v": 13,
+     "text": "He ordered them to use as much variety of craftsmanship as possible, planning everything with dignity and having a fine natural sense for the expressiveness of things. Where nothing was prescribed in writing, he ordered them to make it beautiful; where it was prescribed in writing, the measures were to follow it."
+    },
+    {
+     "v": 14,
+     "text": "They made it two cubits (3 feet) long and a cubit and a half (27 inches) high,{m} working it in tested gold, solid all the way through. I mean that the gold was not wrapped around some other material; the hammered plate itself was joined together."
+    },
+    {
+     "v": 15,
+     "text": "They made a rim a palm (about 3 inches) wide{n} all around. The moldings were twisted, carved in relief with a pattern of cords, and wonderful in their run when seen from the three sides, for the piece was three-cornered."
+    },
+    {
+     "v": 16,
+     "text": "On each side the design of the work had the same arrangement, so that whichever side was turned, the appearance was the same. With the molding laid along the rim, the slope toward the table itself held the pattern of beauty, and the outward slope faced the view of the person approaching."
+    },
+    {
+     "v": 17,
+     "text": "So the ridge between the two slopes came to a sharp edge, standing up, as we said, because it was built three-cornered whichever side was turned. Settings of costly stones lay in it between the cords, one beside another, with a weaving that no one could imitate."
+    },
+    {
+     "v": 18,
+     "text": "All were held through drilled holes by gold pins for security. At the corners, clasps drew them tight to hold them together."
+    },
+    {
+     "v": 19,
+     "text": "At the sides, around the rim, on the part facing upward, a pattern of eggs was made with stones set in it, with a design that drew the eye in continuous fluted reliefs, set close together all around the table."
+    },
+    {
+     "v": 20,
+     "text": "Beneath the stone-set pattern of eggs the craftsmen made a wreath of every kind of fruit, standing out clearly in relief: bunches of grapes and heads of grain, with dates, apples, olives, pomegranates, and the like. They cut the stones to the shapes of these fruits, each kind in its own color, and bound them in the gold, all around the whole edge of the table."
+    },
+    {
+     "v": 21,
+     "text": "After the arrangement of the wreath, the same pattern was made as for the eggs, and the rest of the fluting and carving was done in the same way. This was because the table was made usable on both sides, whichever side was lifted, so that the placing of the moldings and of the rim was also at the end where the legs were."
+    },
+    {
+     "v": 22,
+     "text": "They made a solid plate four fingers (about 3 inches) thick{o} across the whole width of the table, so that the legs could be set into it, fastened with pins and clasps at the rim. That way, whichever side was lifted would be the one in use. This can be seen on the surface, since the piece was made to be used either way up."
+    },
+    {
+     "v": 23,
+     "text": "On the table itself they made a meander in relief, with costly stones standing out in the middle of it, of various kinds: carbuncles and emeralds, onyx, and other kinds outstanding in beauty."
+    },
+    {
+     "v": 24,
+     "text": "After the arrangement of the meander lay a latticework, wonderful to see, making a diamond pattern in the middle. On it a crystal stone and what is called electrum{p} were set in relief, making a sight that no one could imitate."
+    },
+    {
+     "v": 25,
+     "text": "They made the legs with capitals shaped like lilies, with the lilies bending back beneath the table, and the face toward the inside had its petals standing straight."
+    },
+    {
+     "v": 26,
+     "text": "The base on which the leg rested on the floor was a palm (about 3 inches) high on every side and made of stone, set like a plinth in appearance, and eight fingers (about 6 inches) wide. On it rested the whole plate of the leg.{q}"
+    },
+    {
+     "v": 27,
+     "text": "They made ivy growing out of the stone, interwoven with acanthus, winding with a vine around the leg, with clusters of grapes, which were also worked in stone, up to the top. The same arrangement was used on all four legs. Everything was made so lifelike and fitted so well that the skill of the craftsmen matched the real thing exactly. Even when a breath of wind stirred the air, the leaves would move, since everything was modeled on the living thing."
+    },
+    {
+     "v": 28,
+     "text": "They made the top of the table in three parts, like a three-leaved panel, fitted to one another with dovetail joints through the thickness of the piece, and they made the joining of the seams so that it could not be seen or found. The thickness of the whole table was not less than half a cubit (about 9 inches), so that the whole piece was worth many talents."
+    },
+    {
+     "v": 29,
+     "text": "For the king had decided not to add anything to the size, and what would have had to be spent on making larger pieces he gave instead for these, in greater amount. According to his plan, everything was completed wonderfully and notably, inimitable in its craftsmanship and outstanding in beauty."
+    },
+    {
+     "v": 30,
+     "text": "Of the mixing bowls, two were made of gold. They had a scale pattern that ran from the base to the middle, and between the scales stones were set with great skill."
+    },
+    {
+     "v": 31,
+     "text": "Then came a meander a cubit (18 inches) high, with its relief in varied stonework, showing with beauty the painstaking labor of the craft. Above this was fluting, and above that an interweaving of diamond shapes with a net-like face, all the way up to the mouth."
+    },
+    {
+     "v": 32,
+     "text": "In the middle were little shields of stones, one beside another, each of a different kind, not less than four fingers (about 3 inches) across, and they filled out the clear beauty of the piece. On the rim of the body a relief of lilies with honeysuckle ornaments, and twisting cords of grape clusters, were modeled all around."
+    },
+    {
+     "v": 33,
+     "text": "The gold ones had this construction, and each held more than two measures (more than 20 gallons).{r} The silver ones had a smooth surface that served as a mirror, wonderful for this purpose, so that anything brought near was reflected more clearly than in ordinary mirrors."
+    },
+    {
+     "v": 34,
+     "text": "It is not possible to describe what was accomplished for the sake of lifelike effect. When the pieces were finished and set one beside another (I mean first a silver bowl, then a gold one, then silver and gold again), the effect on the eye was altogether indescribable, and those who came to look could not tear themselves away, because of the dazzling light and the pleasure of the sight."
+    },
+    {
+     "v": 35,
+     "text": "The effect of the surface was varied. Those who looked at the gold work felt a spell of wonder, as the mind turned continually to each piece of craft. And when someone wished to look at the arrangement of the silver pieces, everything shone around from every side, wherever one stood, and increased the delight of those who watched. So the many arts used in them were beyond description."
+    },
+    {
+     "v": 36,
+     "text": "The gold cups they engraved with wreaths of vine in the middle, and around the rims they wove a wreath in relief of ivy, myrtle, and olive, setting costly stones in them. The rest of the work they finished in different ways, all of them striving to add to the king’s glory."
+    },
+    {
+     "v": 37,
+     "text": "All in all, no work of such expense and craftsmanship existed in the royal treasuries or anywhere else. The king took no small care, since he loved glory in fine things."
+    },
+    {
+     "v": 38,
+     "text": "He often put aside public business and sat attentively beside the craftsmen, so that they would finish the works in a way fitting to the place to which they were being sent. So everything was done with dignity, and worthy of the king who sent it and of the high priest who presided over the place."
+    },
+    {
+     "v": 39,
+     "text": "The number of stones was lavish, and they were large, not fewer than five thousand, and all were of the highest craftsmanship, so that the gift of the stones and the work of the craftsmen were worth five times the gold."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "4:4",
+     "text": "Greek forms of Hebrew names. In order: Joseph (*Yosef*), “may he add”; Hezekiah (*Chizqiyah*), “Yahweh strengthens”; Zechariah (*Zekharyah*), “Yahweh remembers”; John (*Yochanan*), “Yahweh is gracious”; Hezekiah again; Elisha (*Elisha*), “God saves.” The Greek text gives the tribes by number, not by name."
+    },
+    {
+     "m": "b",
+     "ref": "4:4",
+     "text": "In order: Judah (*Yehudah*), “praised”; Simon (Greek form of *Shim’on*, Simeon), “he has heard”; Samuel (*Shemu’el*), “name of God” or “God has heard”; Adaeus, perhaps from *Adayah*, “Yahweh has adorned”; Mattathias (*Mattityah*), “gift of Yahweh”; Eschlemias, perhaps from *Shelemyah*, “Yahweh repays,” but the name is uncertain."
+    },
+    {
+     "m": "c",
+     "ref": "4:4",
+     "text": "In order: Nehemiah (*Nechemyah*), “Yahweh comforts”; Joseph; Theodosius, a Greek name meaning “gift of God”; Baseas, Ornias, and Dakis, whose meanings are uncertain."
+    },
+    {
+     "m": "d",
+     "ref": "4:5",
+     "text": "In order: Jonathan (*Yehonatan*), “Yahweh has given”; Abaeus, meaning uncertain; Elisha; Hananiah (*Chananyah*), “Yahweh has been gracious”; Chabrias, a Greek name, perhaps “graceful”; Chelkias, perhaps for Hilkiah (*Chilqiyah*), “Yahweh is my portion.”"
+    },
+    {
+     "m": "e",
+     "ref": "4:5",
+     "text": "In order: Isaac (*Yitschaq*), “he laughs”; Jacob (*Ya’aqov*), “he grasps the heel” or “may God protect”; Jesus, the Greek form of *Yeshua*, Joshua, “Yahweh saves”; Sabbataeus, “born on the Sabbath”; Simon; Levi (*Levi*), “joined.”"
+    },
+    {
+     "m": "f",
+     "ref": "4:5",
+     "text": "Selemias, perhaps for Shelemiah (*Shelemyah*), “Yahweh repays” or “Yahweh is peace.” The other names are explained above."
+    },
+    {
+     "m": "g",
+     "ref": "4:6",
+     "text": "In order: Sabbataeus; Zedekiah (*Tsidqiyah*), “Yahweh is my righteousness”; Jacob; Isaac; Jesias, perhaps for Isaiah or Joshua; Natthaeus, meaning uncertain."
+    },
+    {
+     "m": "h",
+     "ref": "4:6",
+     "text": "Jason, a Greek name meaning “healer,” often used by Jews in place of Joshua; Theodotus, a Greek name meaning “given by God.”"
+    },
+    {
+     "m": "i",
+     "ref": "4:6",
+     "text": "In order: Theophilus, “friend of God”; Abram (*Avram*), “exalted father”; Arsamus, a name of Persian or Semitic origin, meaning uncertain; Jason; Endemias, meaning uncertain; Daniel (*Daniyel*), “God is my judge.”"
+    },
+    {
+     "m": "j",
+     "ref": "4:7",
+     "text": "Jeremiah (*Yirmeyahu*), “Yahweh lifts up” or “Yahweh loosens”; Baneas, perhaps for Benaiah (*Benayahu*), “Yahweh has built”; Dathaeus, meaning uncertain."
+    },
+    {
+     "m": "k",
+     "ref": "4:7",
+     "text": "Chabeu, meaning uncertain; Dositheus, a Greek name meaning “gift of God.”"
+    },
+    {
+     "m": "l",
+     "ref": "4:7",
+     "text": "Isael, perhaps for Israel (*Yisra’el*), “he struggles with God”; Abietes, perhaps for Abiah (*Aviyah*), “Yahweh is my father”; Ezekiel (*Yechezqel*), “God strengthens.”"
+    },
+    {
+     "m": "m",
+     "ref": "4:14",
+     "text": "Greek: “two cubits” and “a cubit and a half”; a cubit is taken as 18 inches (45 cm)."
+    },
+    {
+     "m": "n",
+     "ref": "4:15",
+     "text": "Greek: a “palm,” one-fourth of a cubit’s measure of six palms, taken here as about 3 inches (7.5 cm)."
+    },
+    {
+     "m": "o",
+     "ref": "4:22",
+     "text": "Greek: “four fingers”; a finger is taken as about three-quarters of an inch (1.9 cm)."
+    },
+    {
+     "m": "p",
+     "ref": "4:24",
+     "text": "Greek *elektron*, which can mean either amber or an alloy of gold and silver."
+    },
+    {
+     "m": "q",
+     "ref": "4:26",
+     "text": "The Greek of this verse is damaged, and the sense is uncertain."
+    },
+    {
+     "m": "r",
+     "ref": "4:33",
+     "text": "Greek: “more than two *metretai*.” A *metretes* is taken here as about 10 gallons (39 L); the size varied from place to place."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "I thought a record of these things was also necessary, and so I have made them plain to you. Next comes the account of our trip to Eleazar; before that, I will describe the lie of the whole country. When we reached those parts, we saw the city lying in the middle of all Judea, on a mountain rising to a great height."
+    },
+    {
+     "v": 2,
+     "text": "On the summit the temple had been built, splendid to look at. It had three enclosing walls, each more than seventy cubits (about 105 feet) in size,{a} and the breadth and length matched the design of the house itself. Everything was built with a grandeur and lavishness that surpassed all else."
+    },
+    {
+     "v": 3,
+     "text": "The doorway, the fastenings around it along the doorposts, and the strength of the lintels made it plain that money had been spent without stint."
+    },
+    {
+     "v": 4,
+     "text": "The curtain was made very much like the doorway in every respect. Because the air moved beneath it, the woven fabric was kept in constant motion, as the billowing, which began at the floor, stretched all the way up to the top. The sight was pleasant and hard to turn away from."
+    },
+    {
+     "v": 5,
+     "text": "The altar was built to suit the place, and the sacrifices that were burned up by fire were offered on it. The approach to the altar was laid out for good order, and the priests who served were covered down to the ankles in tunics of fine linen."
+    },
+    {
+     "v": 6,
+     "text": "The house faces east, with its back to the west. The whole floor is paved with stone and slopes toward suitable places so that water can be carried off, which is needed to wash away the blood of the sacrifices; for tens of thousands of animals are brought in on feast days."
+    },
+    {
+     "v": 7,
+     "text": "The supply of water never fails. A spring with abundant flow wells up naturally from within, and there are also wonderful and indescribable reservoirs underground, reaching, as they showed us, five stadia (about 3,000 feet) around the foundation of the temple.{b} From each of these run countless pipes, where the streams join together on every side."
+    },
+    {
+     "v": 8,
+     "text": "All of these were lined with lead on the floor and the wall, and a great quantity of plaster had been poured over them, everything done with care. There were many openings at the base, invisible to everyone except those who perform the service, so that at a signal all the blood of the great mass of sacrifices that collects can be washed away."
+    },
+    {
+     "v": 9,
+     "text": "I will describe the construction of the reservoirs as I myself became convinced of it. They led me out of the city more than four stadia (about half a mile), and at one place they told me to bend down and listen to the noise of the waters meeting. In this way the size of the vessels became clear to me, as I have said."
+    },
+    {
+     "v": 10,
+     "text": "The service of the priests is in every respect unsurpassed in strength and in orderly, silent arrangement. All work hard of their own accord, though it is very toilsome, and each one cares for what has been assigned to him. They serve without pause, some bringing wood, others oil, others fine flour, others spices, and others burning the flesh of the offerings, using exceptional strength."
+    },
+    {
+     "v": 11,
+     "text": "They take hold of the calves’ legs with both hands (each calf weighs about two talents or more, about 150 pounds){c} and fling them up to a wonderful height, one with each hand, and never miss the placing. The sheep and goats, too, are remarkable for weight and fat. Those in charge always choose animals without blemish and outstanding in plumpness, and so what I have described is accomplished."
+    },
+    {
+     "v": 12,
+     "text": "A place is set aside for their rest, where those who are taking a break sit. When that happens, those of the others who have stopped rise up eagerly, with no one giving orders for the service."
+    },
+    {
+     "v": 13,
+     "text": "Complete silence prevails, so that one would suppose no human being was present in the place, though the ministers there number about seven hundred, besides a great crowd of those bringing offerings. Yet everything is carried out with reverence, in a way worthy of great divinity."
+    },
+    {
+     "v": 14,
+     "text": "It caused us great astonishment when we saw Eleazar at his service, with the splendor of his dress and the glory that comes from the robe he wears and the stones about him. Golden bells hang around his ankle-length robe, giving out a distinctive sound of melody, and beside each of these are little pomegranates embroidered with flowers, wonderful in color."
+    },
+    {
+     "v": 15,
+     "text": "He was girded with a splendid belt of unusual make, woven through with the loveliest colors. On his chest he wears what is called the breastpiece, in which twelve stones of different kinds are fastened, set in gold, with the names of the tribal leaders in the order established from the beginning. Each one flashes out the natural color proper to it, beyond description."
+    },
+    {
+     "v": 16,
+     "text": "He wears on his head the so-called turban, and on that the inimitable headband, the consecrated royal emblem, with the name of God{d} stamped in sacred letters on a gold plate in the middle of his brow. He is full of glory, since he was judged worthy of these things for the services."
+    },
+    {
+     "v": 17,
+     "text": "The sight of all this brings fear and confusion, so that one thinks one has come into another world outside this one. I assure you that every person who comes near to see the things I have described will be filled with amazement and indescribable wonder, his mind changed by the holy arrangement of every part."
+    },
+    {
+     "v": 18,
+     "text": "To get to know everything, we climbed to the citadel beside the city and looked around. It stands in a very high place, secured by many towers, which were built up to the top with long stones, as we learned, to guard the places around the temple,"
+    },
+    {
+     "v": 19,
+     "text": "so that if there should be an attack, an uprising, or an assault by enemies, no one could force a way into the enclosures around the house. Arrow-shooting engines stood on the towers of the citadel, and engines of various kinds, and the place lay above the enclosures I have described,"
+    },
+    {
+     "v": 20,
+     "text": "and the towers were guarded by the most trustworthy men, who had given great proofs of loyalty to their country. They had no authority to leave the citadel except on feast days, and then only some of them, and they allowed no one to come in."
+    },
+    {
+     "v": 21,
+     "text": "They were very strict even when an order came through the one in command to admit certain people to see the place, as happened in our own case. They barely admitted the two of us, unarmed, to observe the sacrifices."
+    },
+    {
+     "v": 22,
+     "text": "They said that this was also confirmed by oaths. All of them had sworn, under the compulsion of their religion, to keep the rule: since there were five hundred of them, no more than five persons could be let in together. For the whole guarding of the temple is the citadel, and whoever is in charge of it is made secure in this way against the dangers I have mentioned."
+    },
+    {
+     "v": 23,
+     "text": "The extent of the city is proportionate, with a circuit of about forty stadia (about 4½ miles), as far as one can estimate. The towers are arranged like the rows of a theater, and passages can be seen, some lower down and some above, with ways through them. The ground slopes because the city is built on a mountain, and stairways lead up to the passages."
+    },
+    {
+     "v": 24,
+     "text": "Some people take their road on the upper level and others beneath, and they keep well away from the road, because of those who are in states of purification, so that they touch nothing they should not."
+    },
+    {
+     "v": 25,
+     "text": "It was not without reason that the first builders laid out the city in fitting proportion; they planned it wisely. The country is large and fine. Some of it is plain, the part around what is called Samaria{e} and the parts adjoining the land of the Idumeans,{f} and some is mountainous, the part adjoining the land of the Jews. These regions need constant attention to farming and the care of the soil, so that the people may have good harvests. This is what is done, and all of it is farmed with great abundance in the whole country I have described."
+    },
+    {
+     "v": 26,
+     "text": "As for the cities, those of great size and a matching prosperity tend to be well populated while the countryside is neglected, since everyone is inclined toward cheerfulness of spirit, and by their very make-up all human beings are prone to pleasures."
+    },
+    {
+     "v": 27,
+     "text": "That is what happened around Alexandria, which surpasses all cities in size and prosperity. People who came into it from the country as visitors stayed on for a long time and caused farming to decline."
+    },
+    {
+     "v": 28,
+     "text": "So, to keep them from staying, the king ordered that no one remain as a visitor for more than twenty days. He also gave written instructions to the officials, that if it was necessary to summon anyone, they should decide the matter within five days."
+    },
+    {
+     "v": 29,
+     "text": "He gave great weight also to the revenue officers and their assistants, and he appointed them by districts, so that the farmers and the city’s leading men, by making profit, would not run down the storehouses, I mean the produce of farming."
+    },
+    {
+     "v": 30,
+     "text": "We have gone off on this subject because Eleazar showed us the things above so well. The industry of those who farm is great. The country is full of olive trees in large numbers, of grain crops and pulses, and also of vines and abundant honey. Other tree fruits and dates are not even counted among them."
+    },
+    {
+     "v": 31,
+     "text": "There are many mixed herds, and abundant pasture for them. For that reason they saw rightly that the region needs a large population, and they laid out the city and the villages accordingly."
+    },
+    {
+     "v": 32,
+     "text": "A great quantity of spices, costly stones, and gold is brought to the place through the Arabs.{g} The country is made for working and trade, the city is rich in crafts, and nothing brought by sea is lacking."
+    },
+    {
+     "v": 33,
+     "text": "It has convenient harbors that supply it: the one at Ascalon,{h} Joppa,{i} and Gaza,{j} and also Ptolemais,{k} which the king founded. Jerusalem lies in the middle of these places and not far from them. The country has everything in abundance, well watered on every side and very secure."
+    },
+    {
+     "v": 34,
+     "text": "The river called the Jordan,{l} which never stops flowing, runs around it. In ancient times the land measured no less than sixty million arouras (about forty million acres),{m} though later the neighbors encroached on it, and six hundred thousand men were established as landholders, each with a hundred arouras (about seventy acres). The river fills, like the Nile,{n} in the days of the harvest, and it waters much of the land."
+    },
+    {
+     "v": 35,
+     "text": "This river sends its stream into another river in the territory of Ptolemais, and that one goes out to the sea. Other streams called torrents run down, taking in the parts toward Gaza and the land of the Azotians.{o}"
+    },
+    {
+     "v": 36,
+     "text": "The country is enclosed by natural defenses. It is hard to invade and impassable for large forces, because the approaches are narrow, with cliffs alongside and deep ravines, and the whole mountain range surrounding the entire country is rugged."
+    },
+    {
+     "v": 37,
+     "text": "It was also said that mines of copper and iron used to be worked in the neighboring mountains of Arabia. These were abandoned in the time when the Persians ruled, because those then in charge spread the charge that working them was useless and very expensive,"
+    },
+    {
+     "v": 38,
+     "text": "so that, because of the mining of those metals, the country would not be ruined and, in effect, taken over through their power, since they would have a pretext for entering the land. I have now given you a summary of what was needed on these matters, my brother Philocrates. What concerns the translation I will explain in what follows."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "5:2",
+     "text": "Greek: “seventy cubits”; a cubit is taken as 18 inches (45 cm). The Greek says “in size,” and height is probably meant."
+    },
+    {
+     "m": "b",
+     "ref": "5:7",
+     "text": "Greek: “five stadia.” A stadion is taken as about 600 feet (185 m); five stadia is therefore just over half a mile."
+    },
+    {
+     "m": "c",
+     "ref": "5:11",
+     "text": "Greek: “more than two talents.” A talent is taken here as about 75 pounds (34 kg)."
+    },
+    {
+     "m": "d",
+     "ref": "5:16",
+     "text": "The name Yahweh, in holy Hebrew letters, is meant."
+    },
+    {
+     "m": "e",
+     "ref": "5:25",
+     "text": "Greek *Samareitis*, from Hebrew *Shomron*, “watch hill.”"
+    },
+    {
+     "m": "f",
+     "ref": "5:25",
+     "text": "Greek *Idoumaioi*, the people of Edom, whose name means “red.”"
+    },
+    {
+     "m": "g",
+     "ref": "5:32",
+     "text": "Greek *Arabes*, from a Semitic word probably meaning “desert dwellers” or “nomads.”"
+    },
+    {
+     "m": "h",
+     "ref": "5:33",
+     "text": "Greek *Askalon*, Hebrew *Ashqelon*; the meaning is uncertain."
+    },
+    {
+     "m": "i",
+     "ref": "5:33",
+     "text": "Hebrew *Yafo*, “beautiful.”"
+    },
+    {
+     "m": "j",
+     "ref": "5:33",
+     "text": "Hebrew *Azzah*, “strong.”"
+    },
+    {
+     "m": "k",
+     "ref": "5:33",
+     "text": "Greek *Ptolemais*, “city of Ptolemy”; this was the old Phoenician port of Acco, renamed for a Ptolemy."
+    },
+    {
+     "m": "l",
+     "ref": "5:34",
+     "text": "Hebrew *Yarden*, “descender.”"
+    },
+    {
+     "m": "m",
+     "ref": "5:34",
+     "text": "Greek: “six thousand myriads of *aroura*.” An *aroura* is taken as about two-thirds of an acre (0.28 hectare)."
+    },
+    {
+     "m": "n",
+     "ref": "5:34",
+     "text": "Greek *Neilos*; the origin of the name is uncertain."
+    },
+    {
+     "m": "o",
+     "ref": "5:35",
+     "text": "Greek *Azotioi*, the people of Azotus, Hebrew *Ashdod*, “fortress.”"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "For Eleazar had picked the best men, outstanding in education, since they came from distinguished parents. They had not only gained a command of the Jewish writings but had also paid serious attention to Greek learning."
+    },
+    {
+     "v": 2,
+     "text": "For this reason they were well suited for embassies and carried them out whenever it was needed. They also had great natural ability in conversation and in discussions about the law. They pursued the middle course, which is the finest, laying aside what is rough and uncultured in the mind. Likewise they had risen above conceit and the belief that they were superior to others. They had taken up courtesy, listening, and giving each person a fitting answer. All of them kept these habits, and each wanted to outdo the others in them, and all were worthy of their leader and of his excellence."
+    },
+    {
+     "v": 3,
+     "text": "It was easy to see how they loved Eleazar and could hardly be parted from him, and he loved them. Besides writing to the king about their return, he urged Andreas strongly to do the same, asking him to help as far as we could."
+    },
+    {
+     "v": 4,
+     "text": "When we promised to see to this, he said that he was very anxious, for he knew that the king, who loves what is good, counts it the greatest thing of all to send for any person who is named, in whatever place, as outstanding above others in conduct and understanding."
+    },
+    {
+     "v": 5,
+     "text": "I have learned that the king rightly says that if he has just and sensible men around him, he will have the greatest protection for his kingdom, since friends will advise him frankly for his benefit; and this is the case with those sent by him."
+    },
+    {
+     "v": 6,
+     "text": "He also gave his oath not to let these men be used up on any other need of his own, but to send them out only for the common improvement of all the citizens."
+    },
+    {
+     "v": 7,
+     "text": "“Living well,” he said, “lies in keeping the commandments of the law, and this is accomplished by hearing far more than by reading.” By putting forward these and similar thoughts he made plain the attitude he had toward them."
+    },
+    {
+     "v": 8,
+     "text": "It is worth mentioning briefly what he showed us in answer to what we asked. I think that many people are curious about certain things in the legislation, about foods and drinks and the animals thought to be unclean."
+    },
+    {
+     "v": 9,
+     "text": "We asked why, when there is a single creation, some animals are held unclean for eating and others even for touching. (The law is scrupulous in most matters, and in these it is extremely so.) He began his answer in this way."
+    },
+    {
+     "v": 10,
+     "text": "“You see,” he said, “what effect our habits and our associations have, for when people keep company with the wicked they pick up twisted ways and are wretched through the whole of their lives. But if they live with the wise and sensible, they pass out of ignorance and find the setting right of their lives."
+    },
+    {
+     "v": 11,
+     "text": "So our lawgiver first set out the matters of piety and justice and taught each of them, not only by forbidding but by showing, making plain both the harms and the punishments that God sends on those responsible—"
+    },
+    {
+     "v": 12,
+     "text": "for he showed first of all that God is the only God, that his power is made plain through all things, that every place is filled with his dominion, and that nothing done on earth by people in secret escapes him. Whatever anyone does is plain to him, and so are the things that will come about—"
+    },
+    {
+     "v": 13,
+     "text": "and by working these points out exactly and setting them in plain view, he showed that if anyone should even think of committing wrong, it would not go unnoticed, still less if he did it, since throughout the whole law he displays the power of God."
+    },
+    {
+     "v": 14,
+     "text": "After this opening, having shown that all other peoples apart from us believe in many gods, though they are in themselves far stronger than the gods they worship for nothing—"
+    },
+    {
+     "v": 15,
+     "text": "for they make statues of stone and wood, and they say these are images of people who discovered something useful for living, and they bow down to them, though the lack of feeling in these things lies right at their feet."
+    },
+    {
+     "v": 16,
+     "text": "If anyone were a god on that basis, because of an invention, it would be completely senseless. For these inventors took certain things already in creation, put them together, and showed that they were useful; they did not make the substance of them themselves. So it is empty and foolish to make gods of people like themselves."
+    },
+    {
+     "v": 17,
+     "text": "Even now there are many people more inventive and better taught than the people of earlier times, and yet no one would be in a hurry to worship them. The Greeks who shaped these ideas and spun these tales believe themselves to be the wisest."
+    },
+    {
+     "v": 18,
+     "text": "Why even speak of the other worthless worshipers, the Egyptians and those like them, who have trusted in wild beasts and in nearly every sort of reptile and animal, and bow down to them and sacrifice to them, both living and dead?"
+    },
+    {
+     "v": 19,
+     "text": "When our lawgiver, a wise man equipped by God for knowledge of all things, had considered each point, he fenced us in with unbroken palisades and walls of iron, so that we would not mix with any of the other nations in any way. We were to stay pure in body and soul, freed from empty beliefs, worshiping the one mighty God over the whole of creation."
+    },
+    {
+     "v": 20,
+     "text": "For this reason the leading priests of Egypt, who have looked deeply into many things and shared in many affairs, call us “men of God.” This title does not belong to the rest, unless someone worships the God who truly is. The others are men of food and drink and shelter,"
+    },
+    {
+     "v": 21,
+     "text": "for their whole outlook takes refuge in these things. Among our people these count for nothing, and their thought is given to the dominion of God throughout the whole of life."
+    },
+    {
+     "v": 22,
+     "text": "So that we would not be corrupted by mixing with anyone or by keeping company with the base, he fenced us in on every side with rules of purity, in accordance with the law, concerning foods and drinks and touch and hearing and sight."
+    },
+    {
+     "v": 23,
+     "text": "In general, all things are alike by natural reason, governed by one power, and each one has a deep meaning in what we avoid using and what we do use. As an example, I will go over one or two points briefly for you."
+    },
+    {
+     "v": 24,
+     "text": "Do not fall into the cheap view that Moses{a} made these laws out of fussiness over mice and weasels and such creatures. No: everything has been arranged with dignity, for the sake of pure inquiry and the shaping of character toward justice."
+    },
+    {
+     "v": 25,
+     "text": "Of the birds we eat, all are tame and distinguished by their cleanness, feeding on wheat and pulses: doves, turtledoves, francolins, and partridges, and also geese and others of the kind."
+    },
+    {
+     "v": 26,
+     "text": "As for the birds that are forbidden, you will find them wild and meat-eating, lording it over the rest by their strength, and feeding unjustly on the tame birds I have mentioned. Not only this, but they snatch up lambs and kids, and they harm people, both dead and living."
+    },
+    {
+     "v": 27,
+     "text": "By naming these birds unclean, he set a mark on them. It showed that those for whom the law was laid down must practice justice in their souls and not lord it over anyone, trusting in their own strength, nor take anything away, but steer the affairs of life by what is right, just as the tame birds I mentioned feed on the pulses that grow on the ground and do not use their power to destroy their own kind."
+    },
+    {
+     "v": 28,
+     "text": "Through such examples the lawgiver handed down a sign for those with understanding: to be just, to carry out nothing by force, and not to lord it over others by relying on one’s own strength."
+    },
+    {
+     "v": 29,
+     "text": "Since he did not allow us even to touch the creatures I mentioned, because of the character of each, how could one fail to take great care that our own conduct is not bent toward such things?"
+    },
+    {
+     "v": 30,
+     "text": "So all the concessions made to us about these birds and about cattle are set out in figurative terms. For having a cloven foot, with the hoof divided into claws, is a sign of separating each action toward what is good."
+    },
+    {
+     "v": 31,
+     "text": "The strength of the whole body, with its working power, rests on the shoulders and legs. So the sign given through these animals compels us to do everything with discrimination, toward justice. It also reminds us that we have been set apart from all other people."
+    },
+    {
+     "v": 32,
+     "text": "Most of the rest of mankind defile themselves by their intercourse, and so commit great injustice, and whole countries and cities are proud of it. They not only take males as partners, but they also defile their own mothers and even daughters. We have been set apart from these things."
+    },
+    {
+     "v": 33,
+     "text": "He has also stamped the mark of remembrance on the very same thing that the mode of separation concerns. For all animals that part the hoof and bring up the cud set forth, clearly for those who understand, the idea of memory."
+    },
+    {
+     "v": 34,
+     "text": "For chewing the cud is nothing other than a recalling of life and existence, since he reckons that life is sustained by food."
+    },
+    {
+     "v": 35,
+     "text": "That is why scripture also urges us, saying: “You shall remember well Yahweh,{b} who has done great and wonderful things in you.” For when they are looked into, these things prove great and glorious: first of all, how the body is put together, how food is handled, and the separation of each limb;"
+    },
+    {
+     "v": 36,
+     "text": "and much more, the ordering of the senses, the working of the mind and its unseen motion, the quickness to act in each matter, and the invention of crafts, all of which hold a manner beyond understanding."
+    },
+    {
+     "v": 37,
+     "text": "So he urges us to remember that these things are kept in being by divine power along with their construction. For he has set aside every time and every place for constantly remembering the God who rules and sustains."
+    },
+    {
+     "v": 38,
+     "text": "He commands that over food and drink we first make an offering and only then use them. Through our garments, too, he has given us a mark of remembrance, and in the same way he has ordered us to place the words on our gates and doors, as a reminder of God."
+    },
+    {
+     "v": 39,
+     "text": "On the hands he expressly commands that the sign be fastened, showing plainly that every action must be carried out with justice, remembering our own makeup, and above all the fear of God."
+    },
+    {
+     "v": 40,
+     "text": "He commands also that when we lie down and when we rise we think over the works of God, observing not merely in speech but by reflection the movement and perception that come over us when we go to sleep, and our waking, and how divine and beyond grasp is the change from one to the other."
+    },
+    {
+     "v": 41,
+     "text": "You have now been shown the deeper meaning of the law about separation and remembrance, in our account of the split hoof and the chewing of the cud. These things were not laid down at random or on whatever came into the mind, but for the sake of truth and the marking out of right reasoning."
+    },
+    {
+     "v": 42,
+     "text": "For having given instructions about foods and drinks and everything to do with touch, he commands that we do nothing and hear nothing at random, and that we not use the power of speech to turn toward injustice."
+    },
+    {
+     "v": 43,
+     "text": "The same can be found with the animals. The way of the weasel and of creatures like it, those named in the law, is harmful."
+    },
+    {
+     "v": 44,
+     "text": "Mice damage and harm everything, not only for their own food but so as to make completely useless to a person whatever they happen to set upon harming."
+    },
+    {
+     "v": 45,
+     "text": "The kind of weasel is peculiar. Apart from what was said, it has a damaging nature, for it conceives by way of the ears and gives birth by way of the mouth."
+    },
+    {
+     "v": 46,
+     "text": "For this reason such a way among people is unclean. Those who take in things by hearing and then give them a body in speech, rolling others into evil, accomplish no ordinary wrong, and they are themselves wholly polluted with the stain of impiety. Your king does well to put such people to death, as we understand.”"
+    },
+    {
+     "v": 47,
+     "text": "I said, “I suppose you mean the informers; for he keeps bringing on them torture and painful deaths.” “Those are the very ones I mean,” he said, “for keeping watch to bring about people’s ruin is unholy."
+    },
+    {
+     "v": 48,
+     "text": "Our law orders us to do no harm to anyone, whether in word or in deed. So on these matters, too, I have shown you briefly that everything has been regulated toward justice, and that nothing in scripture has been laid down at random or as a fable. Its purpose is that through the whole of life, and in our actions, we practice justice toward all people, remembering the ruling God."
+    },
+    {
+     "v": 49,
+     "text": "So the whole account of foods and of unclean reptiles and animals points toward justice and just dealing among people.”"
+    },
+    {
+     "v": 50,
+     "text": "It seemed to me that he defended each point well. He also said, about the offerings of calves, rams, and goats, that these must be taken from herds and flocks and be tame animals when sacrificed, and nothing wild, so that those who bring the sacrifices will be aware of nothing proud in themselves, keeping in view the sign given by the one who laid down the rule. For the person who brings the sacrifice makes the offering of his own soul, of his whole manner of life."
+    },
+    {
+     "v": 51,
+     "text": "I think that what was said in that conversation is worth recording on these matters too. So I have gone on to explain to you, Philocrates, the dignity and natural reasoning of the law, because of your love of learning."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "6:24",
+     "text": "Greek *Mouses*, from Hebrew *Mosheh*, “drawn out” (Exodus 2:10)."
+    },
+    {
+     "m": "b",
+     "ref": "6:35",
+     "text": "The Greek has *Kyrios*, “Lord,” the word the Greek Bible uses in place of the Hebrew name Yahweh. The words echo Deuteronomy 7:18 and 10:21."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Eleazar offered a sacrifice, chose the men, prepared many gifts for the king, and dispatched us with a heavy escort."
+    },
+    {
+     "v": 2,
+     "text": "When we reached Alexandria, the king was told of our arrival. Andreas and I were admitted to the court, and we greeted the king warmly and handed over the letters from Eleazar."
+    },
+    {
+     "v": 3,
+     "text": "He placed great value on meeting the men who had been sent, and ordered every other official dismissed and the men summoned."
+    },
+    {
+     "v": 4,
+     "text": "This struck everyone as remarkable, since the custom was that people who came on business could reach the king’s presence only on the fifth day, and envoys from kings or from important cities were barely admitted to the court within thirty. But he thought those who had come worthy of greater honor, and he judged the standing of the one who had sent them. So he dismissed those he thought unnecessary and waited, walking about, until he could greet them as they came in."
+    },
+    {
+     "v": 5,
+     "text": "They came forward with the gifts that had been sent and the precious skins on which the law was written in gold letters in Hebrew script. The parchment was wonderfully worked, and the joins between the sheets had been made so that they could not be felt. When the king caught sight of the men, he inquired about the books."
+    },
+    {
+     "v": 6,
+     "text": "They uncovered the wrappings and unrolled the sheets. The king stood there a long time, bowed down about seven times, and said, “I thank you, men, and the one who sent you even more, and above all God, whose words these are.”"
+    },
+    {
+     "v": 7,
+     "text": "Everyone who had come, and everyone who was present, cried out together with one voice, “Well said, O king!” Tears came to him, and he was full of joy. For the strain on the soul and the weight of such an honor force tears at moments of success."
+    },
+    {
+     "v": 8,
+     "text": "He ordered the rolls to be put back in order. Then he greeted the men and said, “It was right, you godly men, that I first pay reverence to the books for whose sake I sent for you, and only after that hold out my right hand to you. That is why I did this first."
+    },
+    {
+     "v": 9,
+     "text": "I count this day, on which you arrived, a great day, and it will be marked every year all the days of our life. It also happens to coincide with news of our victory in the sea battle against Antigonus.{a} So today I will want to dine with you."
+    },
+    {
+     "v": 10,
+     "text": "Everything will be provided for you in a fitting way,” he said, “for you to use, and for me with you.” They were delighted. He ordered that the best lodgings near the citadel be given them and that the banquet be prepared."
+    },
+    {
+     "v": 11,
+     "text": "Nicanor,{b} the chief usher, called in Dorotheus,{c} who had been put in charge of these matters, and ordered him to carry out the preparations for each person. For this was how the kings had arranged it, as you can still see today: for every city that has its own customs in drink, food, and bedding, there was an officer in charge. Preparations were made according to those customs whenever the envoys came before the kings, so that, troubled in nothing, they could pass the time cheerfully. That was done for these men too."
+    },
+    {
+     "v": 12,
+     "text": "Dorotheus was a very careful man and had charge of such matters. He laid out everything that was handled through him, divided up for such receptions. He made the arrangement of the couches in two groups, as the king had ordered: half of the guests were to recline at his right hand, and the rest after his own couch, leaving nothing lacking in honoring the men."
+    },
+    {
+     "v": 13,
+     "text": "When they were seated, the king told Dorotheus to proceed according to the customs followed by all who come to him from Judea. For that reason he excused the sacred heralds, the sacrificers, and the others who were accustomed to make the prayers, and he asked Elisha,{d} who had come with us and was an elder among the priests, to make the prayer. Elisha stood and spoke in a worthy way."
+    },
+    {
+     "v": 14,
+     "text": "“O king, may God Almighty fill you with all the good things he has created. May he grant that you keep these, with your wife and children and those who share your mind, never failing, all the days of your life.”"
+    },
+    {
+     "v": 15,
+     "text": "When he had said this, applause burst out with shouting and glad joy for a long time. Then they turned to enjoy what had been prepared, with all the services carried out under Dorotheus’s direction. Among those serving were royal pages and some of those honored by the king."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "7:9",
+     "text": "Greek *Antigonos*, perhaps “worthy of his fathers.” The sea battle is not identified with certainty."
+    },
+    {
+     "m": "b",
+     "ref": "7:11",
+     "text": "Greek *Nikanor*, “victorious.”"
+    },
+    {
+     "m": "c",
+     "ref": "7:11",
+     "text": "Greek *Dorotheos*, “gift of God.”"
+    },
+    {
+     "m": "d",
+     "ref": "7:13",
+     "text": "Hebrew *Elisha*, “God saves.” He is the Elisha of the first tribe named in 4:4."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "When he found an opening after an interval, he asked the man on the first couch (for they were seated by age), “How could I keep my kingdom free of stumbling to the end?”"
+    },
+    {
+     "v": 2,
+     "text": "After a brief pause he said, “You would govern best by imitating God’s constant gentleness. If you practice patience and treat those who deserve it more mildly, as each deserves, you will turn them from wickedness and bring them to repentance.”"
+    },
+    {
+     "v": 3,
+     "text": "The king praised him and asked the next, “How could I do everything well?” He answered, “If you keep justice toward everyone, you will do each thing well for yourself, understanding that every thought is clear to God. If you begin from the fear of God, you will fail in nothing.”"
+    },
+    {
+     "v": 4,
+     "text": "The king gladly accepted this answer and asked another, “How could I have friends who are like myself?” He said, “If they see you taking great care of the crowds you rule. You will do this by observing the good God does for the human race, supplying health and food and everything else in due season.”"
+    },
+    {
+     "v": 5,
+     "text": "The king confirmed this and asked the next, “How could I win good reports in my business and judgments, even from those who lose their case?” He said, “If you are the same to all in what you say, and do nothing proudly or by the force of your own strength against those who do wrong."
+    },
+    {
+     "v": 6,
+     "text": "You will do this by looking at the order God has set. Requests are granted to those who are worthy, and those who fail are shown, through dreams or events, the harm that is theirs. God does not strike them according to their sins or the greatness of his strength; he acts with gentleness.”"
+    },
+    {
+     "v": 7,
+     "text": "He praised this man well too and asked the next in order, “How could I be undefeated in the demands of war?” He said, “If you do not put your trust in crowds or forces, but call on God in everything, so that he may direct your undertakings as you carry out everything justly.”"
+    },
+    {
+     "v": 8,
+     "text": "He welcomed this man too and asked another, “How could I be feared by my enemies?” He said, “If, though you have a great supply of arms and forces, you know that these are empty and over a long time accomplish little in the end. For God, who grants respites and shows the fear of his dominion, builds it into every mind.”"
+    },
+    {
+     "v": 9,
+     "text": "He praised this man as well and said to the next, “What would be the finest thing for me in life?” He said, “To know that God is ruler of all, and that even in our finest actions it is not we who direct what we have planned. God brings everyone’s plans to completion and guides them with his power.”"
+    },
+    {
+     "v": 10,
+     "text": "He said this man too spoke well, and asked another, “How could I keep everything unharmed and hand down the same disposition to my descendants to the end?” He said, “By praying always to God to receive good thoughts for what is to be done, and by urging your descendants not to be dazzled by fame or riches. For these are granted by God, and they do not hold their supremacy over everything by their own doing.”"
+    },
+    {
+     "v": 11,
+     "text": "He confirmed this and asked the one after him, “How could I bear what happens with moderation?” He said, “If you accept in advance that God made all people to share in the greatest evils as well as in goods, and that no human being can be free from a mixture of them. God gives courage, and he must be asked for it.”"
+    },
+    {
+     "v": 12,
+     "text": "He welcomed this man too, and said that everyone was answering well. “I will ask one more and then stop for now, so that we may turn to pleasure and pass the time agreeably. In the next six days, one after another, I will learn something more from the rest.”"
+    },
+    {
+     "v": 13,
+     "text": "Then he asked the man, “What does courage aim at?” He said, “That what has been rightly planned be carried out as intended in the actions of danger. And God brings everything to completion for you, O king, since you plan well and to good purpose.”"
+    },
+    {
+     "v": 14,
+     "text": "Everyone cheered and signaled their approval with applause. The king said to the philosophers (not a few were present with them), “These men, I think, stand out in virtue and have greater understanding, since, though given such questions on the spur of the moment, they answered as they should, all of them making God the starting point of their discourse.”"
+    },
+    {
+     "v": 15,
+     "text": "Menedemus{a} of Eretria,{b} a philosopher, said, “Yes, O king. All things are governed by providence, and they have rightly assumed that man is God’s creation, so it follows that all power and all beauty of speech begin with God.”"
+    },
+    {
+     "v": 16,
+     "text": "The king nodded, the discussion of these matters ended, and they turned to merriment. When evening came, the banquet broke up."
+    },
+    {
+     "v": 17,
+     "text": "On the next day the reclining and the drinking went on in the same arrangement. When the king thought it a good time to ask the men something, he questioned those who came next after the ones who had answered the day before."
+    },
+    {
+     "v": 18,
+     "text": "He began the conversation with the eleventh, for ten had been questioned the day before. When there was silence, he asked, “How could one stay rich?”"
+    },
+    {
+     "v": 19,
+     "text": "After a short pause, the one who received the question said, “If he does nothing unworthy of himself or dissolute, if he does not spend on empty and vain things, and if he wins those under him to goodwill by kindness. For God is the cause of good things for all, and one must follow him.”"
+    },
+    {
+     "v": 20,
+     "text": "The king praised this man and asked another, “How could one keep to the truth?” He answered, “By knowing that a lie brings great shame on everyone, and much more on kings. Since they have authority to do what they want, why would they lie? You must also take this in, O king: God loves truth.”"
+    },
+    {
+     "v": 21,
+     "text": "He welcomed this man too, looked at the next, and said, “What does the teaching of wisdom consist of?” The other declared, “As you do not want evils to come to yourself but want a share in all good things, so you ought to deal with your subjects and with those who do wrong, and admonish the good and noble among people rather gently. For God leads all people with gentleness.”"
+    },
+    {
+     "v": 22,
+     "text": "He praised him and said to the next, “How could one be kind to people?” He said, “By observing that the human race grows and is born over a long time and with the greatest suffering. So one should not punish readily or heap abuse on people, knowing that human life is made of pains and penalties. If you think over each case, you will turn toward mercy, for God is merciful.”"
+    },
+    {
+     "v": 23,
+     "text": "He welcomed this man and put to the next man this question: “What does a kingdom need most?” “To keep oneself free of bribes,” he said, “to be sober for most of one’s life, to put justice first, and to make friends of such people. For God loves justice.”"
+    },
+    {
+     "v": 24,
+     "text": "He took note of this and turned to another: “What does piety consist of?” He said, “To understand that God is at work and aware of everything at every moment, and that no one who commits an injustice or an evil could escape him. As God benefits the whole world, so you also, if you imitate him, would be free from stumbling.”"
+    },
+    {
+     "v": 25,
+     "text": "He applauded this and said to another, “What is the limit of ruling?” He said, “To rule oneself well, and, not being carried away by wealth and glory, to desire nothing proud or unseemly, if you reason well. For everything is at your command as if it were nothing. God needs nothing and is gentle. You too, so far as you are human, should keep this in mind, and not reach for many things, but for what suffices for ruling.”"
+    },
+    {
+     "v": 26,
+     "text": "He praised him and asked another, “How could one best deliberate?” He answered, “If he constantly puts justice before everything and considers injustice a loss of life. For God always foretells the greatest good for the just.”"
+    },
+    {
+     "v": 27,
+     "text": "He praised this man and said to the next, “How could one be untroubled in sleep?” He said, “You have asked a thing that is hard to explain. We cannot keep ourselves in hand in what happens in sleep, but are held by a perception that does not reason."
+    },
+    {
+     "v": 28,
+     "text": "In the soul we are affected by what comes upon us as if we were really seeing it. We lose our reason, in that we suppose we are out on the open sea in ships, or flying through the air and carried off to other places, and other things of the kind, and the one who supposes these things does not stand firm.{c}"
+    },
+    {
+     "v": 29,
+     "text": "Still, as far as I can reach it, I have understood it this way. In every way, O king, bring both what is said and what is done back to piety, so that you are conscious that, keeping to virtue, you choose neither to show favor against reason nor, using your authority, to set aside what is just."
+    },
+    {
+     "v": 30,
+     "text": "In most cases, the matters in which each person passes the time while awake are the same ones in which the mind dwells during sleep. And a person who directs all reasoning and action toward what is finest does so awake and asleep. For that reason steadiness is always with you.”"
+    },
+    {
+     "v": 31,
+     "text": "He praised this man warmly and said to the other, “Since you are the tenth to give an answer, once you have spoken we will turn to the dinner.”"
+    },
+    {
+     "v": 32,
+     "text": "He asked, “How could we do nothing unworthy of ourselves?” He said, “Keep your eye always on your own reputation and eminence, so that you speak and think in keeping with them, knowing that all those you rule think and talk about you."
+    },
+    {
+     "v": 33,
+     "text": "For you must not appear the least of the actors. The role they must play, they watch carefully and do everything to match it. But you are not playing a part; you truly reign, since God has given you rule that suits your character.”"
+    },
+    {
+     "v": 34,
+     "text": "The king applauded him warmly and with great friendliness for a long time, and then the men were urged to go and sleep. When this was finished, they went on to the next day’s banquet."
+    },
+    {
+     "v": 35,
+     "text": "On the following day the same arrangement was followed, and when the king thought it a good time to ask the men something, he asked the first of those who remained for the next question: “What is the strongest rule?”"
+    },
+    {
+     "v": 36,
+     "text": "He said, “To rule oneself and not be swept along by one’s impulses. For in every person the mind naturally leans toward something."
+    },
+    {
+     "v": 37,
+     "text": "Most people are likely to be inclined toward food, drink, and pleasures; kings, toward the conquest of territory, in keeping with the greatness of their glory. But moderation in everything is good. Take what God gives and hold on to it; do not desire what is out of reach.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "8:15",
+     "text": "Greek *Menedemos*, “staying with the people.”"
+    },
+    {
+     "m": "b",
+     "ref": "8:15",
+     "text": "Greek *Eretria*, a city on the island of Euboea, perhaps “city of rowers.”"
+    },
+    {
+     "m": "c",
+     "ref": "8:28",
+     "text": "The Greek of this verse is damaged, and the sense is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Pleased with what had been said, he asked the next, “How could one be free of envy?” After a pause he said, “First, if he understood that God apportions glory and great wealth to kings, and that no one is king by his own doing. All people want a share in this glory, but they cannot have it, for it is God’s gift.”"
+    },
+    {
+     "v": 2,
+     "text": "He praised the man at some length and asked another, “How could one look down on his enemies?” He said, “If you have practiced goodwill toward all people and built up friendships, you would take no one into account. To be well liked by all and to have received this fine gift from God is the strongest protection.”"
+    },
+    {
+     "v": 3,
+     "text": "He agreed with this and told the next to answer, asking, “How could one keep a good reputation?” He said, “By being generous and open-handed to others, with eagerness and kindness, you would never lose your reputation. And so that what I have said may last for you, call on God always.”"
+    },
+    {
+     "v": 4,
+     "text": "He praised him and asked another, “How should one show a love of honor?” He said, “Everyone thinks one should show it to those who are friendly to us. I suppose we should show a gracious generosity above all toward those who think differently, so that we may thereby lead them to what is fitting and to their own advantage. One must pray to God that this be accomplished, for he controls the minds of all.”"
+    },
+    {
+     "v": 5,
+     "text": "He agreed with this and told the sixth to give his view, asking, “Whom should one show favor to?” He answered, “To parents always, for God has made the greatest commandment about honoring parents. Next he approves devotion to friends, calling a friend equal to one’s own soul. You do well to bring all people into friendship with you.”"
+    },
+    {
+     "v": 6,
+     "text": "He encouraged this man and asked the next after him, “What is worthy of being called beauty?” He said, “Piety. For this is a kind of beauty that takes first place, and its power is love, which is God’s gift. You too possess it, with all good things contained in it.”"
+    },
+    {
+     "v": 7,
+     "text": "He applauded most warmly and said to another, “How could one who has stumbled win back the same reputation?” He said, “It is not possible for you to stumble, since you have sown kindnesses among all people, and these sprout goodwill, which is stronger than the greatest weapons and carries the greatest security."
+    },
+    {
+     "v": 8,
+     "text": "If some do stumble, they must no longer do the things at which they stumble, but win friendship and act justly. To be a doer of good, and not of the opposite, is God’s gift.”"
+    },
+    {
+     "v": 9,
+     "text": "He was pleased with this and said to the next, “How could one be free of grief?” He said, “If he harms no one but helps everyone, following justice. For its fruits produce freedom from grief."
+    },
+    {
+     "v": 10,
+     "text": "One must also beg God to keep from harming us what comes up against our own choice. I mean such things as death, sickness, griefs, and the like. As for you, since you are pious, none of these will come near you.”"
+    },
+    {
+     "v": 11,
+     "text": "He praised this man too, and asked the tenth, “What is greatest in glory?” He said, “Honoring God. This is done by neither gifts nor sacrifices, but by a pure soul and a holy understanding, that all things are made and governed by God according to his will. You have always held this view, and it can be seen by everyone from what you have accomplished and are accomplishing.”"
+    },
+    {
+     "v": 12,
+     "text": "Raising his voice, the king welcomed them all and urged them on, and those present joined in the cheers, especially the philosophers. For the visitors were far ahead of them in conduct and speech, since they made God their starting point. After that the king went on to show his friendliness by proposing toasts."
+    },
+    {
+     "v": 13,
+     "text": "On the next day the banquet followed the same arrangement. When the moment suited the king, he put his questions to those who followed the men already answered. He said to the first, “Can understanding be taught?” He said, “It is the makeup of the soul, through divine power, to take in everything fine and to turn away from the opposite.”"
+    },
+    {
+     "v": 14,
+     "text": "He agreed and asked the next, “What contributes most to health?” He said, “Self-control. It cannot be gained unless God shapes the mind toward it.”"
+    },
+    {
+     "v": 15,
+     "text": "He encouraged this man and said to another, “How could one repay parents with the thanks they deserve?” He said, “By causing them no grief. That cannot be unless God leads the mind to the finest things.”"
+    },
+    {
+     "v": 16,
+     "text": "He nodded to this and asked the next, “How could one be a good listener?” He said, “By understanding that it is useful to know everything, so that when events come, one may choose something of what he has heard and set it against the circumstances of the moment, with God’s hand to guide him. That is to say, the accomplishment of one’s actions comes from God.”"
+    },
+    {
+     "v": 17,
+     "text": "He praised this man and said to another, “How could one do nothing against the law?” He said, “By knowing that God gave the ideas to the lawmakers to preserve the lives of people, you would follow them.”"
+    },
+    {
+     "v": 18,
+     "text": "He welcomed this man and said to another, “What is the benefit of kinship?” He declared, “If, when misfortune comes on our relatives, we count ourselves diminished and suffer as if it were ourselves, then the strength of kinship appears.{a}"
+    },
+    {
+     "v": 19,
+     "text": "When this is done, glory and progress will be found among such people. For help given with goodwill, as if from oneself, cannot be dissolved by anything, and in good times there is no need of anything from them. But one must pray to God, who makes everything good.”"
+    },
+    {
+     "v": 20,
+     "text": "In the same way he welcomed this man and asked another, “How does fearlessness come about?” He said, “When the mind is aware that it has done nothing wrong, and God directs it to deliberate well in everything.”"
+    },
+    {
+     "v": 21,
+     "text": "He applauded this and said to another, “How could one keep right reason ready at hand?” He said, “If he always keeps in view the misfortunes of people, knowing that God takes away prosperity and raises up others to be honored.”"
+    },
+    {
+     "v": 22,
+     "text": "He welcomed this man too, and asked the next to answer, “How could one avoid turning to ease and pleasures?” He said, “By keeping in mind that he rules a great kingdom and leads many crowds, and that his thoughts should be on nothing else but the care of them. And by asking God that none of his duties be neglected.”"
+    },
+    {
+     "v": 23,
+     "text": "He praised this man, the tenth, and asked, “How could one recognize those who act toward him with some deceit?” He declared, “By watching whether their conduct is free and whether good order holds in their greetings, in their counsel, and in the rest of their dealings with those around him, and whether they overdo nothing beyond what is right in friendliness and in the rest of their behavior."
+    },
+    {
+     "v": 24,
+     "text": "God will lead your mind to the finest things, O king.” The king applauded them all and praised each by name, and those present did the same. Then they turned to song."
+    },
+    {
+     "v": 25,
+     "text": "On the next day, finding the occasion, he put a question to the next, “What is the greatest neglect?” He said, “If someone is careless about his children and does not strive to bring them up in every way. We always pray to God, less for ourselves than for our descendants, that every good thing may be theirs. That children come to share in self-control happens by God’s power.”"
+    },
+    {
+     "v": 26,
+     "text": "He said this man spoke well and asked another, “How could one be a lover of his country?” He said, “By setting it before himself that it is good to live, and also to die, in one’s own country. Living abroad brings contempt on the poor and shame on the rich, as if they had been driven out for wickedness. By doing good to all, as you constantly do, since God gives you favor with all, you will appear a lover of your country.”"
+    },
+    {
+     "v": 27,
+     "text": "He listened to him and asked the following man, “How should one get along with a wife?” He said, “By knowing that the female sex is bold, and energetic in whatever it wants, and easily turned by faulty reasoning, and by nature made weak. One must treat her sensibly and not oppose her in quarrels."
+    },
+    {
+     "v": 28,
+     "text": "For life is steered rightly when the one at the helm knows to what goal the course must be made. And by calling on God, life is steered rightly in everything.”"
+    },
+    {
+     "v": 29,
+     "text": "He agreed with this man and asked the next, “How could one be without fault?” He said, “By doing everything with careful thought and not believing slanders, but being yourself the tester of what is said, directing the matters brought before you by judgment, and carrying them out by judgment. In that way you would be without fault, O king. To devise such things and to live by them is the work of divine power.”"
+    },
+    {
+     "v": 30,
+     "text": "He was delighted by what was said and asked another, “How could one be free of anger?” He said, “By knowing that he has authority over all, and that if he gave way to anger he would bring death, which is useless and painful if the life of many is taken away because he is lord. When all are subject and no one is opposing, why would he be angry?"
+    },
+    {
+     "v": 31,
+     "text": "One must know that God governs the whole world with kindness and without any anger. You must follow him, O king.”"
+    },
+    {
+     "v": 32,
+     "text": "He said this man had answered well and asked the one after, “What is good counsel?” He declared, “To do everything well with careful thought, setting out in the planning the harmful things on the opposite side of the argument, so that when we have thought through each one, we may be well advised and what was proposed may be carried out. And best of all, by God’s power every plan will reach its completion for you as you practice piety.”"
+    },
+    {
+     "v": 33,
+     "text": "He said this man too had done well and asked another, “What is philosophy?” He declared, “To reason well about each thing that happens and not be carried away by impulses, but to study the harms that come out of desires, and to do what suits the moment in a properly measured way. To gain a firm grasp of these things, we must serve God.”"
+    },
+    {
+     "v": 34,
+     "text": "He marked this answer and asked another, “How could one win acceptance as a stranger in a foreign land?” He said, “By being equal to everyone, and appearing to be lesser rather than greater than those among whom he is a stranger. For in general God welcomes what is humble according to nature, and the human race is kind to those who submit.”"
+    },
+    {
+     "v": 35,
+     "text": "He affirmed these answers and asked another, “How could what one builds last afterward?” He said, “If he makes great and dignified works, so that those who see them spare them for their beauty; if he sends away none of those who work on them; and if he does not force others to do the needed work without pay."
+    },
+    {
+     "v": 36,
+     "text": "By thinking that God cares for the human race, providing them with health and keen senses and the rest, he will himself do something fitting, paying back the reward for their labors. What is done in justice is also what lasts.”"
+    },
+    {
+     "v": 37,
+     "text": "Saying that this man also spoke well, he questioned the tenth: “What does wisdom yield?” He said, “Not to be aware of having done any wrong, and to pass one’s life in truth."
+    },
+    {
+     "v": 38,
+     "text": "From these, the greatest joy and steadiness of soul come to you, O greatest of kings, and good hopes in God, as you hold your rule with piety.” When all heard this, they cheered with louder applause. After this the king, filled with joy, turned to the toasts."
+    },
+    {
+     "v": 39,
+     "text": "On the next day the arrangements for the drinking went as before, and when the moment came, the king put questions to those who were left. To the first he said, “How could one avoid turning to pride?”"
+    },
+    {
+     "v": 40,
+     "text": "He answered, “If he keeps equality and reminds himself in each case that, though a man, he rules over men. God brings down the proud and lifts up the gentle and humble.”"
+    },
+    {
+     "v": 41,
+     "text": "He encouraged him and put a question to the next: “Which counselors should one use?” “Those who have been tested through many affairs,” he said, “and who keep their goodwill toward him unspoiled, and all who share his ways. God shows himself to the worthy in such matters.”"
+    },
+    {
+     "v": 42,
+     "text": "He praised him and turned to another: “What must a king possess above all?” “The kindness and love of those under him,” he answered. “For through these an unbreakable bond of goodwill comes about. That these arise by choice, God brings about.”"
+    },
+    {
+     "v": 43,
+     "text": "He praised him highly and questioned another, “What is the goal of speech?” He said, “To persuade the one who disagrees, by showing the harms through an ordered series of points. In this way you will win the listener not by opposing him but by using praise to persuade. Persuasion is directed by God’s working.”"
+    },
+    {
+     "v": 44,
+     "text": "He said this man spoke well and asked another, “How could one get along with the crowds of every kind in the kingdom?” “By playing the fitting part with each,” he said, “taking justice as your guide, as you do, since God gives you the ability to reason well.”"
+    },
+    {
+     "v": 45,
+     "text": "He was pleased with this and said to another, “What should one grieve over?” He answered, “What happens to friends, when we see it become long-lasting and inescapable. When they have died and are released from evils, reason does not call for grief. But people refer things back to themselves and to what concerns them, and so all people grieve. To escape every evil comes by God’s power.”"
+    },
+    {
+     "v": 46,
+     "text": "He said that this man had answered as he should, and said to another, “How does dishonor come about?” He said, “When pride leads, and boldness that never stops, contempt grows up with them, and the loss of glory. God is lord of all glory, and tips it where he wishes.”"
+    },
+    {
+     "v": 47,
+     "text": "He confirmed this answer too and asked the next, “Whom should one trust?” “Those who are with you out of goodwill,” he said, “and not out of fear or for the sake of attention, bringing everything round to profit. The one is a sign of love; the other, of ill will and opportunism, for whoever is driven by greed is born a traitor. You have well-wishers all around you, since God gives you good counsel.”"
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "9:18",
+     "text": "The Greek of verses 18 and 19 is difficult, and the sense is uncertain."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "He encouraged this man and asked another, “What preserves favor and honor?” He said, “Virtue. For it is the accomplishment of fine works and drives off evil. You keep up your nobility toward everyone, having it as a gift from God.”"
+    },
+    {
+     "v": 2,
+     "text": "He received this man warmly too and asked the eleventh (for there were two more than seventy),{a} “How could one be at peace in spirit even in wars?” He declared, “By understanding that he has done no wrong to anyone under him, and that all will struggle on behalf of his benefactions, knowing that even if they depart from life, you are the caretaker of their lives."
+    },
+    {
+     "v": 3,
+     "text": "For you never cease setting everyone right, since God has given you good sense.” The king marked their approval with applause and welcomed them all warmly. Toasting each one at greater length, he turned to enjoyment, keeping company with the men in cheer and great joy."
+    },
+    {
+     "v": 4,
+     "text": "On the seventh of the days, with greater preparation made and many more arriving from the cities (for there were a good number of envoys), the king, when the occasion came, asked the leader of those who remained to be questioned, “How could one avoid being led astray by false reasoning?”"
+    },
+    {
+     "v": 5,
+     "text": "He said, “By testing the speaker, and what is said, and what it is about, and by asking the same things over a longer time in different ways. A keen mind, able to judge each matter, is a fine gift of God, and you have it, O king.”"
+    },
+    {
+     "v": 6,
+     "text": "The king marked his approval with applause and asked another, “Why do most people not accept virtue?” “Because all people are by nature lacking in self-control and have turned toward pleasures,” he said. “From this injustice grows, and the flood of greed."
+    },
+    {
+     "v": 7,
+     "text": "The state of virtue holds back those who are carried toward indulgence, and orders them to put self-control and justice first. And God leads in all of these.”"
+    },
+    {
+     "v": 8,
+     "text": "The king said this man had answered well and asked, “What should kings follow?” He said, “The laws, so that through just actions they may rebuild people’s lives. By doing this you have laid down a memorial of yourself that will never fade, following a divine command.”"
+    },
+    {
+     "v": 9,
+     "text": "Saying this man had also spoken well, he asked the next, “Who should be made a general?” He said, “Those who hate evil, who imitate your conduct so as always to be well thought of, and who do what is just. This is what you do, greatest of kings, since God has given you a crown of justice.”"
+    },
+    {
+     "v": 10,
+     "text": "He welcomed him aloud, looked at the next, and said, “Whom should one set over the armies as commanders?” He declared, “Those who excel in courage and justice, who think much more of saving their men than of winning, and who risk their own lives in daring. As God does good to all, you too, imitating him, do good to those under you.”"
+    },
+    {
+     "v": 11,
+     "text": "The king said this man had answered well and asked another, “What kind of person is worth admiring?” He said, “One who is supplied with glory, wealth, and power and yet is equal to all in spirit. You are admirable in doing this, since God gives you the care for such things.”"
+    },
+    {
+     "v": 12,
+     "text": "He applauded this man too and said to another, “What should kings occupy themselves with for most of their time?” He said, “With reading, and with studying the reports of missions and journeys, whatever has been written about kingdoms to set people right and keep them safe. In doing this you have gained a glory that others cannot reach, since God brings your wishes to completion.”"
+    },
+    {
+     "v": 13,
+     "text": "He addressed this man too with energy and asked another, “What pastimes should one choose in times of relaxation and ease?” He said, “To watch whatever is played out with restraint, and to set before one’s eyes the things of life that are done with propriety and decorum. For even in these there is some benefit."
+    },
+    {
+     "v": 14,
+     "text": "Often even from the smallest things something worth choosing is shown. You, having practiced every kind of restraint, philosophize through your actions out of nobility, and are honored by God.”"
+    },
+    {
+     "v": 15,
+     "text": "He was pleased with what had been said and asked the ninth, “How should one spend banquets?” He said, “By inviting those who love learning and are able to remind one of what benefits the kingdom and the lives of those who are ruled. You would find nothing more harmonious or more musical than these."
+    },
+    {
+     "v": 16,
+     "text": "For such people are dear to God, having trained their minds toward the finest things. You do this too, since everything is directed for you by God.”"
+    },
+    {
+     "v": 17,
+     "text": "He was delighted with this and asked the next, “Which is better for the crowds: to have as king over them one who was a private citizen, or one born of a king?” He said, “The one who is best by nature."
+    },
+    {
+     "v": 18,
+     "text": "For kings born of kings become savage and harsh toward their subjects. And even more, some private citizens who have known evils and shared in poverty have, once they ruled crowds, turned out harsher than godless tyrants."
+    },
+    {
+     "v": 19,
+     "text": "But as I said, a good character that has had a share in education is able to rule. So you are a great king, not so much for the glory of your rule and wealth as for the fact that in gentleness and kindness you surpass all people, since God has given you these.”"
+    },
+    {
+     "v": 20,
+     "text": "He praised this man too for a long time and asked the last of all, “What is greatest in a kingdom?” He said, “That those under him always live in peace, and that justice is quickly obtained in the courts."
+    },
+    {
+     "v": 21,
+     "text": "These come about through the leader, when he hates evil and loves good and values highly the saving of a human life. You too have regarded injustice as the greatest evil, and by governing everything justly you have built up a reputation that will not fade, since God has given you a mind that is pure and unmixed with any evil.”"
+    },
+    {
+     "v": 22,
+     "text": "When he had finished, applause burst out with shouting and joy for a long while. When it stopped, the king took a cup and drank a toast to all who were present and to the words that had been spoken. Before them all he said, “The greatest good has come to me through your coming."
+    },
+    {
+     "v": 23,
+     "text": "I have been helped in many ways, since you have laid down teaching for me on how to rule.” He ordered three talents of silver{b} to be given to each one, and an attendant to take him back to his quarters. When all cheered, the banquet was filled with joy, and the king, without pause, turned to cheerfulness."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "10:2",
+     "text": "The seventy-two translators had been questioned ten at a time on seven days. That leaves two more for the last day."
+    },
+    {
+     "m": "b",
+     "ref": "10:23",
+     "text": "About 225 pounds (102 kilograms) of silver for each man. The Greek says three *talents*, at about 75 pounds each."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paras": [
+    1
+   ],
+   "verses": [
+    {
+     "v": 1,
+     "text": "Forgive me, Philocrates, if I have said too much on these matters. I admired the men beyond what was needed, since they gave on the spot answers that would have needed a great deal of time."
+    },
+    {
+     "v": 2,
+     "text": "The questioner had thought through each point, and the answerers matched their replies to his questions. To me they seemed deserving of wonder, and so to those present, above all the philosophers. I think the record will seem unbelievable to all who take it up."
+    },
+    {
+     "v": 3,
+     "text": "To lie about what is recorded is not fitting, and if I strayed at all, it would be unholy in matters like these. What happened is what we set out, keeping clear of every error. That is why, after I had accepted the force of their speech, I tried to get from the recorders each of the things that were done in the king’s audiences and at the banquets."
+    },
+    {
+     "v": 4,
+     "text": "For it is the custom, as you also know, that from the day the king starts his business until he lies down to sleep, everything said and done is written down, and this is a good and useful practice."
+    },
+    {
+     "v": 5,
+     "text": "On the next day, what was done and said the day before is read aloud before the business begins, and if anything was done improperly, the act is corrected."
+    },
+    {
+     "v": 6,
+     "text": "So I got everything accurately from the records, as I have said, and have set it down, knowing your love of learning for what is useful."
+    },
+    {
+     "v": 7,
+     "text": "After three days Demetrius took them, crossed the sea-wall of seven stadia{a} that runs out to the island,{b} crossed the bridge, and went on toward the northern part. He held a meeting in a house prepared by the shore, splendid and set in great stillness, and urged the men to complete the translation, with everything needed provided."
+    },
+    {
+     "v": 8,
+     "text": "They carried out each part, making their versions agree with one another by comparing them. What came out of the agreement was properly written down by Demetrius."
+    },
+    {
+     "v": 9,
+     "text": "The sessions went on until the ninth hour,{c} and after that the men were released to care for their bodies, with everything they chose provided in abundance."
+    },
+    {
+     "v": 10,
+     "text": "Besides this, Dorotheus also provided every day everything that was prepared for the king, since he had been ordered to by the king. At dawn each day they came to the court, and after greeting the king they went back to their own place."
+    },
+    {
+     "v": 11,
+     "text": "As is the custom of all the Jews, they washed their hands in the sea so that they could pray to God, and then turned to reading and explaining each passage."
+    },
+    {
+     "v": 12,
+     "text": "I asked this too: “Why do they pray after washing their hands?” They explained that it is a witness that they have done no evil, since every action is carried out through the hands. They were transferring everything, nobly and piously, to justice and truth."
+    },
+    {
+     "v": 13,
+     "text": "As we said before, they gathered each day at that place, which was pleasant for its quiet and brightness, and completed the task set. And so it happened that the translation was finished in seventy-two days, as though it had been planned that way."
+    },
+    {
+     "v": 14,
+     "text": "When it was completed, Demetrius gathered the Jewish community at the place where the translation had been finished and read it to everyone, with the translators present. They also received great approval from the crowd, as men who had brought about great good."
+    },
+    {
+     "v": 15,
+     "text": "In the same way they welcomed Demetrius and urged him to give the whole law, now translated, to their leaders."
+    },
+    {
+     "v": 16,
+     "text": "When the scrolls had been read, the priests, the elders of the translators, those from the community, and the leaders of the crowd stood and said, “Since it has been translated well and piously and with precision in every respect, it is right that it remain as it is and that no alteration be made.”"
+    },
+    {
+     "v": 17,
+     "text": "All agreed. As is their custom, they ordered a curse on anyone who altered it by adding anything, changing any part of what was written, or removing anything. They did this rightly, so that it would always be kept lasting and unchanged."
+    },
+    {
+     "v": 18,
+     "text": "When this was reported to the king, he rejoiced greatly, for the purpose he had held seemed to have been safely accomplished. All of it was read to him, and he was amazed at the thought of the lawgiver. He asked Demetrius, “Why is it that, though such great matters were accomplished, none of the historians or poets set out to mention them?”"
+    },
+    {
+     "v": 19,
+     "text": "Demetrius said, “Because the legislation is sacred and came through God. Some who tried were struck by God and gave up the attempt."
+    },
+    {
+     "v": 20,
+     "text": "I heard from Theopompus{d} that when he was about to include in his history some of the things already translated from the law, rather rashly, his mind was disturbed for more than thirty days. In a lull he pleaded with God, and it became clear to him why this was happening."
+    },
+    {
+     "v": 21,
+     "text": "It was shown to him in a dream that he wanted to pry into divine matters and carry them out to common people. After he held back, he recovered."
+    },
+    {
+     "v": 22,
+     "text": "I also learned from Theodectes,{e} the tragic poet, that when he was about to bring something recorded in the book into a play, his eyes went blind with cataract. He suspected that this had happened to him for that reason, appeased God, and after many days recovered.”"
+    },
+    {
+     "v": 23,
+     "text": "When the king, as I said, had learned these things from Demetrius, he bowed in reverence and gave orders that the books be guarded with great care and kept pure."
+    },
+    {
+     "v": 24,
+     "text": "He urged the translators to come to him more often if they returned to Judea. It was right, he said, that he send them off, and when they came, as was proper, they would have him as a friend and would receive the greatest attention from him."
+    },
+    {
+     "v": 25,
+     "text": "He ordered their departure to be prepared, and showed the men great generosity. He gave each of them three of the finest robes, two talents of gold,{f} a cup worth a talent,{g} and a complete set of furnishings for a dining room with three couches."
+    },
+    {
+     "v": 26,
+     "text": "He also sent to Eleazar, along with their escort, ten couches with silver feet and all their equipment, a cup worth thirty talents,{h} ten robes, purple cloth, a splendid crown, a hundred bolts of fine linen, and bowls, dishes, and two golden mixing bowls for dedication."
+    },
+    {
+     "v": 27,
+     "text": "He wrote also to urge that if any of the men chose to come back to him, Eleazar should not stop them. He valued the company of educated men and wished to spend his wealth lavishly on such people and not on vain things."
+    },
+    {
+     "v": 28,
+     "text": "You, Philocrates, as I promised, now have the account. I think it will please you more than the books of the myth-tellers, for you lean toward the study of things that can benefit the mind, and spend most of your time on them. I will try to write down the rest of what is noteworthy as well, so that as you go through it you may carry off the finest prize of your wish."
+    }
+   ],
+   "notes": [
+    {
+     "m": "a",
+     "ref": "11:7",
+     "text": "About 4,200 feet (1.3 kilometers). The Greek says seven *stadia*, at about 600 feet each."
+    },
+    {
+     "m": "b",
+     "ref": "11:7",
+     "text": "The island of Pharos, whose name means “lighthouse,” though this verse does not name it."
+    },
+    {
+     "m": "c",
+     "ref": "11:9",
+     "text": "About 3 p.m. The Greek counts daytime hours from about 6 a.m."
+    },
+    {
+     "m": "d",
+     "ref": "11:20",
+     "text": "Greek *Theopompos*, “sent by God.” Theopompus of Chios was a Greek historian of the fourth century BC."
+    },
+    {
+     "m": "e",
+     "ref": "11:22",
+     "text": "Greek *Theodektes*, “received by God.” Theodectes of Phaselis was a tragic poet of the fourth century BC."
+    },
+    {
+     "m": "f",
+     "ref": "11:25",
+     "text": "About 150 pounds (68 kilograms) of gold. The Greek says two *talents*, at about 75 pounds each."
+    },
+    {
+     "m": "g",
+     "ref": "11:25",
+     "text": "About 75 pounds (34 kilograms)."
+    },
+    {
+     "m": "h",
+     "ref": "11:26",
+     "text": "About 2,250 pounds (1,020 kilograms)."
+    }
+   ]
+  }
+ ]
+}
