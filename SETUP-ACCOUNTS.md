@@ -149,7 +149,7 @@ If you later accept that cost:
 
 ## Downloads
 
-The public-domain files (PDF, EPUB, JSON, plain text, USFM) are built by `node tools/build-downloads.js` and linked from the menu and the footer. GitHub Actions (`.github/workflows/downloads.yml`) rebuilds them when the book text changes. They are the translation, not anyone’s account. After this is on GitHub Pages they are at:
+The translation files (PDF, EPUB, JSON, plain text, USFM), © 2026 Jose Santiago, CC BY 4.0, are built by `node tools/build-downloads.js` and linked from the menu and the footer. GitHub Actions (`.github/workflows/downloads.yml`) rebuilds them when the book text changes. They are the translation, not anyone’s account. After this is on GitHub Pages they are at:
 
 - https://clayjartranslation.github.io/downloads/
 - https://clayjartranslation.github.io/downloads/clay-jar-translation.pdf

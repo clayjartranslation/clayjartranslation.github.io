@@ -1,7 +1,10 @@
 # Clay Jar Translation™ (CJT): reading website and installable app
 
-A free, static Bible reader for the Clay Jar Translation. The translation text is dedicated to the
-public domain. No account is required, and there are no ads, no paywall, and no analytics. With
+A free, static Bible reader for the Clay Jar Translation. © 2026 Jose Santiago. Licensed under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”
+Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.
+No account is required, and there are no ads, no paywall, and no analytics. With
 `js/account-config.js` left empty, the site never loads a third-party script: every file is in this
 folder, and all paths are relative, so it runs from a domain root or a subpath (for example
 `https://USERNAME.github.io/cjt-bible/`).

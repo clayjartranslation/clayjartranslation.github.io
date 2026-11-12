@@ -1,7 +1,7 @@
 /* Service worker: saves the whole site for offline reading. Bump VERSION when files change
    (tools/add-book.js does this automatically). All paths are relative, so the site works
    from a domain root or a subpath such as https://USER.github.io/cjt-bible/. */
-const VERSION = 'cjt-v301';
+const VERSION = 'cjt-v302';
 const CORE = [
   './', 'index.html', 'terms.html', 'privacy.html', 'css/style.css',
   'js/account-config.js', 'js/sync-merge.js', 'js/phone.js', 'js/app.js', 'js/accounts.js', 'manifest.webmanifest',
@@ -34,7 +34,7 @@ self.addEventListener('fetch', (event) => {
   const req = event.request;
   if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
   const path = new URL(req.url).pathname;
-  // Large public-domain downloads stay on the network. Caching a whole Bible
+  // Large translation downloads stay on the network. Caching a whole Bible
   // PDF inside the service worker would fill a phone's storage.
   if (/\/downloads\/.+\.(pdf|epub|json|txt|zip|usfm|md)$/i.test(path)) return;
   const isData = /\/data\/.+\.json$/.test(path);

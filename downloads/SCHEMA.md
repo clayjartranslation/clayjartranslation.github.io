@@ -1,17 +1,28 @@
 # Clay Jar Translation JSON
 
-`clay-jar-translation.json` is the whole draft in one file. The translation text is
-dedicated to the public domain. This file is Draft 0.1.
+`clay-jar-translation.json` is the whole draft in one file. © 2026 Jose Santiago.
+Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”
+
+Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.
+
+This file is Draft 0.1.
 
 The file is UTF-8 JSON. It is one object:
 
 | Field | Meaning |
 | --- | --- |
 | `format` | Always `cjt-text`. |
-| `version` | `1` for this shape. |
+| `version` | `2` for this shape. |
 | `title` | Clay Jar Translation. |
 | `edition` | Draft label, such as Draft 0.1. |
-| `license` | `public-domain`. |
+| `license` | `CC-BY-4.0`. |
+| `licenseUrl` | https://creativecommons.org/licenses/by/4.0/ |
+| `copyright` | © 2026 Jose Santiago. |
+| `attribution` | Suggested credit line. |
+| `trademark` | The names and logos are trademarks and are not covered by CC BY. |
 | `language` | `en`. |
 | `books` | Array of books, in reading order. |
 

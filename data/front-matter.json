@@ -1,6 +1,6 @@
 {
  "title": "The Clay Jar Translation™ (CJT)",
- "summary": "A new English Bible, translated afresh from the oldest available witnesses and given freely to the public domain. This is the project home: the charter, the prayer, the sources, the canon tracker, and the complete book of Genesis as a sample. The full text of every translated book is on the website, clayjartranslation.github.io.",
+ "summary": "A new English Bible, translated afresh from the oldest available witnesses. The text is © 2026 Jose Santiago, licensed under CC BY 4.0. This is the project home: the charter, the prayer, the sources, the canon tracker, and the complete book of Genesis as a sample. The full text of every translated book is on the website, clayjartranslation.github.io.",
  "sections": [
   {
    "type": "section",
@@ -24,7 +24,7 @@
       },
       {
        "label": "Copyright",
-       "value": "None. Dedicated to the public domain"
+       "value": "© 2026 Jose Santiago. Licensed under CC BY 4.0"
       },
       {
        "label": "Scope",
@@ -48,26 +48,26 @@
   },
   {
    "type": "section",
-   "heading": "Free forever: no copyright",
+   "heading": "License: CC BY 4.0",
    "id": "free",
    "blocks": [
     {
      "type": "callout",
-     "lead": "This Bible is not copyrighted.",
+     "lead": "© 2026 Jose Santiago.",
      "tone": "info",
-     "text": "The Clay Jar Translation, including its text, footnotes, introductions, and tables, is given to the public domain. No one owns it, and no one ever may."
+     "text": "Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). https://creativecommons.org/licenses/by/4.0/"
     },
     {
      "type": "text",
-     "text": "We, the makers of this translation, give up every copyright and related right we might hold in this work, everywhere in the world, as fully as the law allows. Where the law does not allow such a waiver, we grant everyone a permanent, free, unconditional permission to use the work in any way."
+     "text": "Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”"
     },
     {
      "type": "text",
-     "text": "You may copy it, print it, read it aloud, record it, quote any amount of it, put it on a website or in an app, translate it into other languages, revise it, sell it, or give it away, all without asking anyone and without paying anyone. Credit is welcome but not required."
+     "text": "You may copy, print, read aloud, record, quote, share, adapt, translate, or redistribute the text, including commercially, if you give that attribution and indicate if you changed it. The license terms are at https://creativecommons.org/licenses/by/4.0/."
     },
     {
      "type": "text",
-     "text": "The text itself is public domain. The name “Clay Jar Translation” and the CJT logo are trademarks of Jose Santiago. This protects only the name, not the words. If you copy the text without changing it, you may call it the Clay Jar Translation or the CJT. If you change the wording, you are free to do so, but please give your version a different name and do not use the CJT name or logo on it. That way readers can always tell the original from a changed version."
+     "text": "Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source."
     },
     {
      "type": "text",

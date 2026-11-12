@@ -154,7 +154,7 @@
         <img class="hero-logo" src="icons/cjt-logo-720.jpg" width="330" height="330"
              alt="Clay Jar Translation logo: a terracotta clay jar holding a scroll, with rays of light rising from it.">
         <h1 id="homeTitle">${NAME}${TM}<span class="visually-hidden"> trademark</span></h1>
-        <p class="tag">A new English Bible from the oldest witnesses, given freely to the public domain.</p>
+        <p class="tag">A new English Bible from the oldest witnesses. © 2026 Jose Santiago, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
         <p class="free-line"><strong>Free forever:</strong> no sign-up, no ads, no tracking.</p>
         <div class="cta">
           ${last.book ? `<a class="btn primary" href="#/read/${esc(last.book)}/${last.ch}${last.v > 1 ? '/' + last.v : ''}">Continue ${esc(last.name)} ${last.ch}${last.v > 1 ? ':' + last.v : ''}</a>` : ''}
@@ -177,7 +177,7 @@
 
       <section class="card share" aria-labelledby="shareTitle" style="margin-top:1.25rem">
         <h2 id="shareTitle" style="margin:0;font-size:1.1rem">Download and share</h2>
-        <p class="muted" style="margin:.35rem 0 .75rem">The translation text is in the public domain. You may copy, print, share, put it on your own website or app, translate it, or sell it, without asking anyone. The full text is available here as plain data files, and this site works offline once opened.</p>
+        <p class="muted" style="margin:.35rem 0 .75rem">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source. The full text is available here as files, and this site works offline once opened.</p>
         <div class="cta" style="justify-content:flex-start;margin:0">
           <button class="btn" type="button" id="shareBtn">Share this Bible</button>
           ${done.map((b) => `<a class="btn" href="${esc(b.file)}" download>Download ${esc(b.name)} (JSON)</a>`).join('')}
@@ -186,12 +186,12 @@
 
       <ul class="links" aria-label="More">
         <li><a href="#/saved">Bookmarks and highlights <span>${store.bm.length} bookmark${store.bm.length === 1 ? '' : 's'}, ${store.hl.length} highlight${store.hl.length === 1 ? '' : 's'}</span></a></li>
-        <li><a href="#/about">About this translation <span>name, free dedication, method, sources</span></a></li>
+        <li><a href="#/about">About this translation <span>name, CC BY 4.0 license, method, sources</span></a></li>
         <li><a href="#/about/approach">How we translate <span>word for word, thought for thought</span></a></li>
         <li><a href="#/about/draft">A note on this draft <span>AI-assisted, awaiting review</span></a></li>
       </ul>`);
     $('#shareBtn').addEventListener('click', async () => {
-      const data = { title: NAME + '™ (CJT)', text: 'A new public-domain English Bible: free to read, copy, and share.', url: location.href.split('#')[0] };
+      const data = { title: NAME + '™ (CJT)', text: 'Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0. https://creativecommons.org/licenses/by/4.0/', url: location.href.split('#')[0] };
       if (navigator.share) { try { await navigator.share(data); } catch (e) {} return; }
       try { await navigator.clipboard.writeText(data.url); $('#shareBtn').textContent = 'Link copied'; } catch (e) { prompt('Copy this link:', data.url); }
     });
@@ -406,10 +406,11 @@
   async function about(anchor) {
     const fm = await loadFront();
     setTitle('');
+    const withLinks = (s) => esc(s).replace(/https:\/\/creativecommons\.org\/licenses\/by\/4\.0\/?/g, (url) => `<a href="https://creativecommons.org/licenses/by/4.0/">${url}</a>`);
     const block = (b, level) => {
       switch (b.type) {
-        case 'text': return `<p>${esc(b.text)}</p>`;
-        case 'callout': return `<div class="callout ${esc(b.tone)}" role="note"><strong>${esc(b.lead)}</strong><p>${esc(b.text)}</p></div>`;
+        case 'text': return `<p>${withLinks(b.text)}</p>`;
+        case 'callout': return `<div class="callout ${esc(b.tone)}" role="note"><strong>${esc(b.lead)}</strong><p>${withLinks(b.text)}</p></div>`;
         case 'properties': return `<dl class="props">${b.items.map((i) => `<dt>${esc(i.label)}</dt><dd>${esc(i.value)}</dd>`).join('')}</dl>`;
         case 'steps': return `<ol class="steps">${b.steps.map((s) => `<li><b>${esc(s.title)}</b><span>${esc(s.detail)}</span></li>`).join('')}</ol>`;
         case 'table': return `<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="stack"><thead><tr>${b.columns.map((c) => `<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${b.rows.map((r) => `<tr>${r.map((c, i) => `<td${b.columns[i] ? ` data-label="${esc(b.columns[i])}"` : ''}>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
