@@ -145,7 +145,7 @@ If you later accept that cost:
 
 ## 11. Privacy pages and the contact address
 
-`privacy.html` and `terms.html` use the placeholder address `contact@example.com`. Search the repository for `contact@example.com` and replace it with an address you read before you rely on those pages. The privacy page states that data stays on the device until someone signs in, what syncs, that the session stays in the browser, and that sign-out can keep or clear this device.
+`privacy.html` and `terms.html` use [contact.clayjar@protonmail.com](mailto:contact.clayjar@protonmail.com) as the contact address. The privacy page states that data stays on the device until someone signs in, what syncs, that the session stays in the browser, and that sign-out can keep or clear this device.
 
 ## Downloads
 
