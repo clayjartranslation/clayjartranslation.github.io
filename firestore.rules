@@ -1,0 +1,65 @@
+rules_version = '2';
+// Each signed-in person may read and write only the document users/{their uid}.
+// Nobody else can read it, and there is no public collection.
+// The web config in js/account-config.js is not a password. These rules are what
+// keep one reader's bookmarks off everyone else's devices.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+    function isOwner(userId) {
+      return signedIn() && request.auth.uid == userId;
+    }
+    function readingOk(v) {
+      return v == null || (
+        v.keys().hasOnly(['book', 'name', 'ch', 'v', 't'])
+        && v.book is string && v.book.size() > 0 && v.book.size() <= 80
+        && v.name is string && v.name.size() <= 80
+        && v.ch is int && v.ch >= 0 && v.ch < 1000
+        && v.v is int && v.v >= 0 && v.v < 1000
+        && v.t is int
+      );
+    }
+    function audioOk(v) {
+      return v == null || (
+        v.keys().hasOnly(['book', 'name', 'ch', 'v', 'time', 't'])
+        && v.book is string && v.book.size() > 0 && v.book.size() <= 80
+        && v.name is string && v.name.size() <= 80
+        && v.ch is int && v.ch >= 0 && v.ch < 1000
+        && v.v is int && v.v >= 0 && v.v < 1000
+        && v.time is number && v.time >= 0 && v.time <= 86400
+        && v.t is int
+      );
+    }
+    function settingsOk(v) {
+      return v.keys().hasOnly(['theme', 'size', 'notes', 'resume', 'rate', 'voice', 'voiceName', 'autoNext', 'sleepChoice', 'sleepCustom', 'narr', 'updatedAt'])
+        && v.theme in ['auto', 'light', 'dark']
+        && v.size is int && v.size >= 14 && v.size <= 30
+        && v.notes is bool
+        && v.resume is bool
+        && v.rate is number && v.rate >= 0.5 && v.rate <= 2
+        && v.voice is string && v.voice.size() <= 200
+        && v.voiceName is string && v.voiceName.size() <= 120
+        && v.autoNext is bool
+        && v.sleepChoice in ['off', '5', '10', '15', '30', '45', '60', '90', 'eoc', 'custom']
+        && v.sleepCustom is int && v.sleepCustom >= 1 && v.sleepCustom <= 600
+        && v.narr in ['', 'device', 'af_heart', 'am_michael', 'drama_f', 'drama_m']
+        && v.updatedAt is int;
+    }
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+      allow create, update: if isOwner(userId)
+        && request.resource.data.keys().hasOnly(['bookmarks', 'highlights', 'reading', 'audio', 'settings'])
+        && request.resource.data.bookmarks is list
+        && request.resource.data.bookmarks.size() <= 5000
+        && request.resource.data.highlights is list
+        && request.resource.data.highlights.size() <= 8000
+        && readingOk(request.resource.data.reading)
+        && audioOk(request.resource.data.audio)
+        && settingsOk(request.resource.data.settings)
+        && request.resource.size() < 1000000;
+      allow delete: if isOwner(userId);
+    }
+  }
+}

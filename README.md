@@ -1,9 +1,21 @@
 # Clay Jar Translation™ (CJT): reading website and installable app
 
-A free, static Bible reader for the Clay Jar Translation. The translation text is dedicated to the
-public domain. No login, no accounts, no ads, no paywall, no tracking or analytics, and no third-party
-scripts, fonts, or CDNs: every file is in this folder, and all paths are relative, so it runs from a
-domain root or a subpath (for example `https://USERNAME.github.io/cjt-bible/`).
+A free, static Bible reader for the Clay Jar Translation. © 2026 Jose Santiago. Licensed under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”
+Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.
+No account is required, and there are no ads, no paywall, and no analytics. With
+`js/account-config.js` left empty, the site never loads a third-party script: every file is in this
+folder, and all paths are relative, so it runs from a domain root or a subpath (for example
+`https://USERNAME.github.io/cjt-bible/`).
+
+Optional sign-in (Google or email; Apple or phone only if you turn those flags on) syncs a
+reading place, bookmarks, highlights, and listening place after someone chooses to sign in.
+Until then everything stays on the device. Phone sign-in stays off on the free plan because
+text messages cost money. Click-by-click steps are in `SETUP-ACCOUNTS.md`.
+
+Free downloads of the whole translation (PDF, EPUB, JSON, plain text, USFM) are built by
+`node tools/build-downloads.js` and linked from the menu and the footer.
 
 ## What is here
 
@@ -11,6 +23,11 @@ domain root or a subpath (for example `https://USERNAME.github.io/cjt-bible/`).
 index.html              the app shell (one page, hash routes such as #/read/genesis/1)
 css/style.css           all styling (light and dark, palette from the CJT logo)
 js/app.js               the reader: home, books, chapters, footnotes, search, front matter
+js/account-config.js    optional Firebase config; leave the keys empty and sign-in stays off
+js/accounts.js          optional sign-in and sync (does nothing while the config is empty)
+js/sync-merge.js        combines this device's saved progress with the signed-in copy
+firestore.rules         Firestore rules: a person can read and write only their own document
+SETUP-ACCOUNTS.md       how to turn sign-in on with the free Firebase Spark plan
 sw.js                   service worker: saves everything for offline reading
 manifest.webmanifest    install-to-home-screen info and icons
 icons/                  logo and app icons, made from the CJT logo
