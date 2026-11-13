@@ -164,6 +164,22 @@
         <p class="verse-quote">“We have this treasure in clay jars, so that the surpassing power belongs to God and not to us.”<br><small>2 Corinthians 4:7</small></p>
       </section>
 
+      <section class="card dev-email" data-devotional-email hidden aria-labelledby="devEmailHomeTitle">
+        <h2 id="devEmailHomeTitle">Get it by email</h2>
+        <p>The day’s devotional, sent at 4:00 in the morning, US Eastern time. It is free. You confirm once, and you can unsubscribe any time.</p>
+        <form class="dev-email-form" method="post" action="" accept-charset="UTF-8" data-devotional-email-form>
+          <label for="devEmailHome">Email address</label>
+          <input id="devEmailHome" name="EMAIL" type="email" required autocomplete="email" inputmode="email" autocapitalize="none" autocorrect="off" spellcheck="false" maxlength="254" placeholder="you@example.com" enterkeyhint="go">
+          <p class="dev-email-hp" aria-hidden="true">
+            <label for="devEmailHomeCheck">Leave this empty</label>
+            <input id="devEmailHomeCheck" name="email_address_check" type="text" value="" tabindex="-1" autocomplete="off">
+          </p>
+          <input type="hidden" name="locale" value="en">
+          <button class="btn primary" type="submit">Subscribe</button>
+          <p class="dev-email-note">After you subscribe, the sender asks you to confirm. Your address is used only for this devotional. <a href="privacy.html">Privacy</a></p>
+        </form>
+      </section>
+
       <section class="card prayer" aria-labelledby="prayerTitle">
         <h2 id="prayerTitle">${esc(prayer.heading)}</h2>
         ${prayerHtml}
@@ -1546,6 +1562,14 @@
       if (h.indexOf('#/saved') === 0 || h === '' || h === '#' || h === '#/') route();
     } finally { syncSilent--; }
   }
+  function syncBarHeight() {
+    const bar = document.getElementById('bar');
+    if (!bar) return;
+    root.style.setProperty('--bar-height', bar.offsetHeight + 'px');
+  }
+  syncBarHeight();
+  window.addEventListener('resize', syncBarHeight);
+
   window.CJT_READER = {
     exportState: exportSyncState,
     exportBackup: backupText,

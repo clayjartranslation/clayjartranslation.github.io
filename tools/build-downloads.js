@@ -373,6 +373,8 @@ function writePage(files) {
     const label = size >= 1048576 ? (size / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(size / 1024)) + ' KB';
     return { href: f.name, title: f.title, detail: f.detail, size, label };
   });
+  // Site nav lives in this template. A rebuild replaces downloads/index.html,
+  // so a nav added only to that file would disappear (that happened once).
   const html = `<!doctype html>
 <html lang="en">
 <head>
@@ -380,11 +382,20 @@ function writePage(files) {
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Downloads · Clay Jar Translation</title>
   <meta name="description" content="Free downloads of the whole Clay Jar Translation: PDF, EPUB, JSON, plain text, and USFM. © 2026 Jose Santiago, CC BY 4.0.">
+  <link rel="icon" href="../icons/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="../icons/favicon-48.png" sizes="48x48" type="image/png">
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
   <a class="skip" href="#content">Skip to content</a>
-  <header class="bar"><a class="brand" href="../">CJT</a></header>
+  <header class="bar">
+    <div class="bar-main"><a class="brand" href="../"><img src="../icons/emblem-96.png" alt="" width="30" height="30"><span>CJT</span></a></div>
+    <nav class="site-nav" aria-label="Site">
+      <a href="../">Read</a>
+      <a href="../devotional.html">Devotional</a>
+      <a href="./" aria-current="page">Downloads</a>
+    </nav>
+  </header>
   <main id="content" class="prose downloads">
     <p class="eyebrow">CC BY 4.0</p>
     <h1>Download the Clay Jar Translation</h1>
@@ -402,7 +413,7 @@ function writePage(files) {
     <p>The JSON file is one object per book, chapter, and verse. The shape is described in <a href="SCHEMA.md">SCHEMA.md</a>. The plain-text file is for search and print scripts. The USFM zip is one file per book for translation tools that read USFM.</p>
     <p>These files are rebuilt from the site’s book data when the text changes. <a href="../terms.html">Terms</a> · <a href="../privacy.html">Privacy</a> · <a href="../">Back to the reader</a></p>
   </main>
-  <footer class="foot"><p class="foot-links"><a href="../">Home</a> <a href="../devotional.html">Devotional</a> <a href="../terms.html">Terms</a> <a href="../privacy.html">Privacy</a></p></footer>
+  <footer class="foot"><p class="foot-links"><a href="../">Home</a> <a href="../devotional.html">Devotional</a> <a href="./">Downloads</a> <a href="../terms.html">Terms</a> <a href="../privacy.html">Privacy</a></p></footer>
 </body>
 </html>
 `;
