@@ -402,7 +402,7 @@ function writePage(files) {
     <p>The JSON file is one object per book, chapter, and verse. The shape is described in <a href="SCHEMA.md">SCHEMA.md</a>. The plain-text file is for search and print scripts. The USFM zip is one file per book for translation tools that read USFM.</p>
     <p>These files are rebuilt from the site’s book data when the text changes. <a href="../terms.html">Terms</a> · <a href="../privacy.html">Privacy</a> · <a href="../">Back to the reader</a></p>
   </main>
-  <footer class="foot"><p class="foot-links"><a href="../">Home</a> <a href="../terms.html">Terms</a> <a href="../privacy.html">Privacy</a></p></footer>
+  <footer class="foot"><p class="foot-links"><a href="../">Home</a> <a href="../devotional.html">Devotional</a> <a href="../terms.html">Terms</a> <a href="../privacy.html">Privacy</a></p></footer>
 </body>
 </html>
 `;
