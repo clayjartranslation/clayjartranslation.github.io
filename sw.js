@@ -1,11 +1,11 @@
 /* Service worker: saves the whole site for offline reading. Bump VERSION when files change
    (tools/add-book.js does this automatically). All paths are relative, so the site works
    from a domain root or a subpath such as https://USER.github.io/cjt-bible/. */
-const VERSION = 'cjt-v303';
+const VERSION = 'cjt-v304';
 const CORE = [
-  './', 'index.html', 'terms.html', 'privacy.html', 'css/style.css',
-  'js/account-config.js', 'js/sync-merge.js', 'js/phone.js', 'js/app.js', 'js/accounts.js', 'manifest.webmanifest',
-  'data/books.json', 'data/front-matter.json',
+  './', 'index.html', 'terms.html', 'privacy.html', 'devotional.html', 'css/style.css',
+  'js/account-config.js', 'js/sync-merge.js', 'js/phone.js', 'js/app.js', 'js/accounts.js', 'js/devotional.js', 'manifest.webmanifest',
+  'data/books.json', 'data/front-matter.json', 'data/devotionals.json',
   'icons/cjt-logo-720.jpg', 'icons/emblem-96.png', 'icons/icon-192.png', 'icons/icon-512.png',
   'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png', 'icons/favicon-48.png',
 ];

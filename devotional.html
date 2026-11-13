@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Today's devotional · Clay Jar Translation</title>
+  <meta name="description" content="A free daily devotional for the Clay Jar Translation. Today's reading, a short reflection, and a prayer. No ads and no tracking.">
+  <meta name="theme-color" content="#fff9eb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1d1410" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="icons/favicon-48.png" sizes="48x48" type="image/png">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    // Apply saved reading settings before first paint (no flash of wrong theme).
+    (function () {
+      try {
+        var s = JSON.parse(localStorage.getItem('cjt-settings') || '{}');
+        var d = document.documentElement;
+        if (s.theme === 'dark' || s.theme === 'light') d.dataset.theme = s.theme;
+        if (s.size) d.style.setProperty('--read-size', s.size + 'px');
+        if (s.notes === false) d.classList.add('notes-off');
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="bar">
+    <a class="brand" href="./">CJT</a>
+  </header>
+  <main id="content" class="prose" tabindex="-1">
+    <p class="eyebrow">Clay Jar Translation</p>
+    <h1 id="pageTitle">Today's devotional</h1>
+    <p id="note" class="muted dev-note" role="status" hidden></p>
+    <article id="devotional" class="devotional" aria-busy="true" aria-labelledby="pageTitle">
+      <p class="muted">Loading…</p>
+    </article>
+    <noscript>
+      <p>This page uses a script kept on this site to choose the reading for your date. It does not load anything from another site, and it does not track you.</p>
+    </noscript>
+    <p class="dev-license"><a href="https://creativecommons.org/licenses/by/4.0/">Devotionals © 2026 Jose Santiago, licensed CC BY 4.0</a>.</p>
+    <p class="muted dev-license">Scripture is quoted from the Clay Jar Translation (CJT), © 2026 Jose Santiago, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+    <h2 id="archiveTitle">Archive</h2>
+    <ul id="archive" class="archive"></ul>
+  </main>
+  <footer class="foot">
+    <p class="foot-links"><a href="./">Home</a> <a href="devotional.html">Devotional</a> <a href="downloads/">Downloads</a> <a href="terms.html">Terms</a> <a href="privacy.html">Privacy</a></p>
+  </footer>
+  <script src="js/devotional.js"></script>
+</body>
+</html>

@@ -21,8 +21,10 @@ Free downloads of the whole translation (PDF, EPUB, JSON, plain text, USFM) are 
 
 ```
 index.html              the app shell (one page, hash routes such as #/read/genesis/1)
+devotional.html         daily devotional for the reader's local month-day, plus an archive
 css/style.css           all styling (light and dark, palette from the CJT logo)
 js/app.js               the reader: home, books, chapters, footnotes, search, front matter
+js/devotional.js        chooses today's devotional, or the one in ?d=MM-DD
 js/account-config.js    optional Firebase config; leave the keys empty and sign-in stays off
 js/accounts.js          optional sign-in and sync (does nothing while the config is empty)
 js/sync-merge.js        combines this device's saved progress with the signed-in copy
@@ -33,6 +35,7 @@ manifest.webmanifest    install-to-home-screen info and icons
 icons/                  logo and app icons, made from the CJT logo
 data/books.json         the canon: all 98 books in 4 collections, with which chapters are done
 data/front-matter.json  name, dedication, prayer, method, conventions, sources, draft note
+data/devotionals.json   daily devotionals keyed by month-day (MM-DD)
 data/books/genesis.json Genesis (chapters done so far): verses, paragraph starts, lettered footnotes
 tools/add-book.js       adds a new or updated book JSON (validates it, updates the catalog)
 tools/extract-from-canvas.js  re-extracts the text from the project Page's source
@@ -65,6 +68,30 @@ browsers block loading the data files from `file://`.)
    It checks the file, saves it as `data/books/exodus.json`, marks the chapters as ready (the book
    stops showing "coming soon"), and bumps the offline cache version in `sw.js` so installed copies update.
 3. Upload the changed files to the host.
+
+## Adding a daily devotional
+
+Devotionals are data, not hand-edited HTML. They live in `data/devotionals.json`, one entry per month and day (`MM-DD`, including `02-29` when you reach it). `devotional.html` shows the entry for the reader's local date. If that day is not written yet, it shows the nearest entry and the archive, so the page is never blank. `devotional.html?d=11-13` opens one day. The archive lists every entry.
+
+Append about seven days at a time until all 366 are written. Copy `verseText` from `data/books/<book>.json` unchanged, including line breaks and footnote markers such as `{a}`. Set `book`, `chapter`, and `verse` so the page can link into the reader. Write an original reflection of about 120 to 200 words and a short prayer. Do not copy another devotional.
+
+```json
+{
+  "date": "11-13",
+  "title": "This Day",
+  "verseReference": "Psalms 118:24",
+  "verseText": "This is the day that Yahweh has made;\nlet us rejoice and be glad in it.",
+  "reflection": "…",
+  "prayer": "…",
+  "book": "psalms",
+  "chapter": 118,
+  "verse": 24
+}
+```
+
+The file's `notice`, and the line on the page, stay: Devotionals © 2026 Jose Santiago, licensed CC BY 4.0.
+
+After you add entries, add 1 to `VERSION` in `sw.js` (for example `cjt-v304` becomes `cjt-v305`) so phones that saved the site pick up the new file.
 
 To pull everything again from the project Page, save the Page source to a text file and run
 `node tools/extract-from-canvas.js page-source.txt`, then bump `VERSION` in `sw.js` (for example

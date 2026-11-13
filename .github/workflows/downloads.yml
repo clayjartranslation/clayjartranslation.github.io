@@ -4,7 +4,10 @@ on:
   push:
     branches: [main]
     paths:
-      - 'data/**'
+      # Bible text only. data/devotionals.json is not part of the download build.
+      - 'data/books/**'
+      - 'data/books.json'
+      - 'data/front-matter.json'
       - 'tools/build-downloads.js'
       - 'downloads/SCHEMA.md'
       - '.github/workflows/downloads.yml'
