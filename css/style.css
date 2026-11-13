@@ -121,6 +121,27 @@ h3 { font-size: 1.12rem; margin: 1.75rem 0 .5rem; }
 .prose p, .prose li { font-family: var(--serif); font-size: calc(var(--read-size) * .92); line-height: 1.65; }
 .card { background: var(--bg-raised); border: 1px solid var(--line); border-radius: 18px; padding: 1.1rem 1.2rem; box-shadow: var(--shadow); }
 
+/* ---------- Daily devotional ---------- */
+.devotional h2 { margin-top: .35rem; }
+.devotional h3 { margin-top: 1.6rem; }
+.devotional .card p { margin: .2rem 0; }
+.dev-ref { font-family: var(--sans); font-weight: 600; letter-spacing: .02em; color: var(--clay); margin: 0 0 .35rem; }
+.dev-ref a { color: inherit; text-decoration: underline; text-underline-offset: .15em; }
+.dev-verse {
+  font-family: var(--serif); font-size: calc(var(--read-size) * 1.05); line-height: 1.7;
+  white-space: pre-line; margin: .35rem 0 .5rem;
+}
+.dev-note { margin: 0 0 1rem; }
+.prose p.dev-license { font-family: var(--sans); font-size: .92rem; color: var(--ink-soft); line-height: 1.5; }
+.archive { list-style: none; padding: 0; margin: .5rem 0 0; display: grid; gap: .5rem; }
+.archive a {
+  display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .35rem 1rem;
+  padding: .85rem 1.05rem; border-radius: 14px; background: var(--bg-raised); border: 1px solid var(--line);
+  text-decoration: none; color: var(--ink); font-weight: 600; min-height: 44px;
+}
+.archive a span:last-child { color: var(--ink-faint); font-weight: 400; font-size: .92rem; white-space: nowrap; }
+.archive a[aria-current="page"] { border-color: var(--clay); box-shadow: inset 3px 0 0 var(--clay); }
+
 /* ---------- Home ---------- */
 .hero { text-align: center; padding: 1.5rem 0 .5rem; }
 .hero-logo { display: block; width: min(78vw, 330px); height: auto; aspect-ratio: 1; margin: 0 auto; border-radius: 28px; box-shadow: var(--shadow); }
