@@ -1,10 +1,11 @@
 /* Service worker: saves the whole site for offline reading. Bump VERSION when files change
    (tools/add-book.js does this automatically). All paths are relative, so the site works
    from a domain root or a subpath such as https://USER.github.io/cjt-bible/. */
-const VERSION = 'cjt-v304';
+const VERSION = 'cjt-v305';
 const CORE = [
   './', 'index.html', 'terms.html', 'privacy.html', 'devotional.html', 'css/style.css',
-  'js/account-config.js', 'js/sync-merge.js', 'js/phone.js', 'js/app.js', 'js/accounts.js', 'js/devotional.js', 'manifest.webmanifest',
+  'js/account-config.js', 'js/devotional-email-config.js', 'js/devotional-email.js',
+  'js/sync-merge.js', 'js/phone.js', 'js/app.js', 'js/accounts.js', 'js/devotional.js', 'manifest.webmanifest',
   'data/books.json', 'data/front-matter.json', 'data/devotionals.json',
   'icons/cjt-logo-720.jpg', 'icons/emblem-96.png', 'icons/icon-192.png', 'icons/icon-512.png',
   'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png', 'icons/favicon-48.png',
@@ -38,12 +39,13 @@ self.addEventListener('fetch', (event) => {
   // PDF inside the service worker would fill a phone's storage.
   if (/\/downloads\/.+\.(pdf|epub|json|txt|zip|usfm|md)$/i.test(path)) return;
   const isData = /\/data\/.+\.json$/.test(path);
-  const isConfig = /\/js\/account-config\.js$/.test(path);
+  const isConfig = /\/js\/(?:account-config|devotional-email-config)\.js$/.test(path);
   event.respondWith((async () => {
     const cache = await caches.open(VERSION);
     if (isConfig) {
-      // The owner pastes Firebase keys into this one file. Always try the network
-      // first so a new config is picked up without waiting on an old cached copy.
+      // The owner pastes Firebase keys, or the devotional form address, into these
+      // files. Always try the network first so a new config is picked up without
+      // waiting on an old cached copy.
       try {
         const fresh = await fetch(req, { cache: 'no-cache' });
         if (fresh.ok) { cache.put(req, fresh.clone()); return fresh; }

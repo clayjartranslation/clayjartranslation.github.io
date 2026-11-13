@@ -32,12 +32,13 @@
 <body>
   <a class="skip" href="#main">Skip to content</a>
   <header class="bar" id="bar">
+    <div class="bar-main">
     <a class="brand" href="#/" aria-label="Home">
       <img src="icons/emblem-96.png" alt="" width="30" height="30">
       <span>CJT</span>
     </a>
     <button class="bar-title" id="barTitle" type="button" hidden></button>
-    <nav class="bar-actions">
+    <nav class="bar-actions" aria-label="Reader">
       <a class="icon-btn" href="#/books" aria-label="Books" title="Books">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5zM4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/></svg>
       </a>
@@ -47,6 +48,12 @@
       <button class="icon-btn" id="settingsBtn" type="button" aria-label="Menu: reading settings, bookmarks, highlights" title="Menu and reading settings" aria-expanded="false" aria-controls="settings">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg>
       </button>
+    </nav>
+    </div>
+    <nav class="site-nav" aria-label="Site">
+      <a href="#/" aria-current="page">Read</a>
+      <a href="devotional.html">Devotional</a>
+      <a href="downloads/">Downloads</a>
     </nav>
   </header>
 
@@ -188,9 +195,11 @@
   </footer>
 
   <script src="js/account-config.js"></script>
+  <script src="js/devotional-email-config.js"></script>
   <script src="js/sync-merge.js"></script>
   <script src="js/phone.js"></script>
   <script src="js/app.js" defer></script>
   <script src="js/accounts.js" defer></script>
+  <script src="js/devotional-email.js" defer></script>
 </body>
 </html>
