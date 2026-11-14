@@ -20,7 +20,7 @@ assert.ok(terms.includes('Marshfield, Massachusetts'));
   assert.ok(terms.toLowerCase().includes(s.toLowerCase()), 'terms missing ' + s);
 });
 
-['index.html', 'devotional.html', 'privacy.html', 'terms.html', 'downloads/index.html'].forEach((file) => {
+['index.html', 'devotional.html', 'privacy.html', 'terms.html', 'downloads/index.html', 'unsubscribe.html'].forEach((file) => {
   const html = fs.readFileSync(path.join(root, file), 'utf8');
   assert.ok(html.includes('By using this site you agree'), file);
 });
@@ -28,6 +28,8 @@ assert.ok(fs.readFileSync(path.join(root, 'devotional.html'), 'utf8').includes('
 assert.ok(fs.readFileSync(path.join(root, 'js/app.js'), 'utf8').includes('By subscribing you agree'));
 assert.ok(fs.readFileSync(path.join(root, 'tools/build-downloads.js'), 'utf8').includes('By using this site you agree'));
 
+assert.ok(privacy.includes('time zone'));
+assert.ok(privacy.includes('schedule') || privacy.includes('4:00 in the morning in the time zone') || privacy.includes('time zone collected'));
 assert.ok(terms.includes('Email delivery is not guaranteed'));
 assert.ok(terms.includes('marked as spam by your email provider'));
 const spamNote = 'check your spam or junk folder for the confirmation email';

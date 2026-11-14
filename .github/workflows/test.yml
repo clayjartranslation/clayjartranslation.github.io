@@ -1,0 +1,29 @@
+name: Tests
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - name: Run project tests
+        run: |
+          node tests/devotional-email.test.js
+          node tests/devotional.test.js
+          node tests/language.test.js
+          node tests/legal.test.js
+          node tests/nav.test.js
+          node tests/phone.test.js
+          node tests/security.test.js
+          node tests/sync-merge.test.js

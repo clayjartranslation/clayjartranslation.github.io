@@ -1,6 +1,6 @@
 # Send the daily devotional by email (free)
 
-The site can email that day’s devotional at 4:00 in the morning, US Eastern time (New York time). Summer and winter are both covered. The email is optional. Reading the Bible on the site stays the same, with no account and no ads.
+The site can email that day’s devotional at 4:00 in the morning in each subscriber’s own time zone. The email is optional. Reading the Bible on the site stays the same, with no account and no ads.
 
 This uses Brevo’s free plan. The free plan sends up to 300 emails a day. One devotional is one email per person. You do not need a credit card. Do not pick a paid plan, and do not add a card if Brevo offers one.
 
@@ -80,6 +80,7 @@ The website does not use Brevo’s script. It only posts the email address to a 
     `https://xxxxxxxx.sibforms.com/serve/a-long-string`
 
 15. Copy **only** that `https://` address. Do not copy the rest of the code. Do not paste Brevo’s `<script>` tags into this website.
+16. In the same form, add the `TIMEZONE` contact attribute as a hidden field if Brevo lets you pick attributes. The website already posts a hidden `TIMEZONE` field with the reader’s time zone (for example `America/New_York`). If the hosted form has no `TIMEZONE` field, Brevo may ignore that value, and those readers are emailed at 4:00 Eastern until the time zone is stored. The send job creates the `TIMEZONE` and `LAST_DEVO_DATE` attributes if they are missing.
 16. Tap **Done** so the form is saved.
 
 ## 5. Create an API key
@@ -141,19 +142,17 @@ The list number and the sender email may instead be stored as repository **varia
 4. In Brevo, open the **Clay Jar Devotional** list. Your address should be there after you confirm.
 5. On GitHub, open the **Actions** tab of the repository, then **Send daily devotional**, then **Run workflow**.
 6. Leave **Print the email and do not send it** turned **on**. Tap **Run workflow**.
-7. Open that run when it finishes and read the log. You should see today’s title, the verse, the reflection, the prayer, and the line `Devotionals © 2026 Jose Santiago, licensed CC BY 4.0`. Nobody is emailed.
-8. Run it again and turn **Print the email and do not send it** **off**. That sends today’s devotional to the list. Check your inbox.
-9. If you run the real send again the same day, it does not send a second copy.
-
-The first real send can be at any time of day. You do not have to wait until 4:00.
+7. Open that run when it finishes and read the log. You should see a count of contacts in each time zone, today’s title, the verse, the reflection, the prayer, and the line `Devotionals © 2026 Jose Santiago, licensed CC BY 4.0`. Nobody is emailed.
+8. A live run (the print switch off) still emails only people whose local time is in the 4 AM hour. To send a one-off copy to yourself, use the **test email** box. That does not email the list.
+9. If the same person is due again in that local day, they are not emailed a second copy. The job stores `LAST_DEVO_DATE` on the contact after a successful send.
 
 ## What happens every morning
 
 You do not tap anything.
 
-GitHub starts a job at 8:00 UTC and again at 9:00 UTC. In summer, 4:00 AM Eastern is the first of those. In winter, it is the second. The job sends only when the clock in New York is still in the 4 AM hour, so a delay of part of an hour is fine. The other start sees that it is not 4 AM and stops.
+GitHub starts a job at the top of every hour. The script emails only confirmed subscribers whose local time is in the 4 AM hour and who have not already received that local date’s reading. The reading itself is the one for the reader’s local date. If a time zone is missing or invalid, America/New_York is used.
 
-The campaign name includes the date, for example `Clay Jar devotional 2026-11-13`. If a campaign with that name already exists, it does not send again that day.
+Unsubscribed or blocklisted addresses are skipped. Each email has an unsubscribe link to this site’s unsubscribe page, and Brevo adds a List-Unsubscribe header so Gmail, Yahoo, and Outlook can show their own Unsubscribe control.
 
 If that day’s reading is not in `data/devotionals.json` yet, the job stops without emailing. It does not send a different day in its place.
 
@@ -166,7 +165,7 @@ If the list has no confirmed subscribers, the job stops without failing.
 - The subscribe box is missing. The config file still has empty quotes, or the site has not updated yet. Reload after a minute. The address must start with `https://`.
 - Subscribe opens an error. The form address is incomplete, or CAPTCHA or a required checkbox is turned on in Brevo. Fix the form in Brevo. Leave CAPTCHA off.
 - The person never appears on the list. They have not tapped the confirmation email yet. Double confirmation waits for that tap.
-- The morning job is red. Open it and read the last lines. The usual causes are: the sender is not verified, the API key was copied wrong or Brevo turned it off, or the list number does not match a list. Fix that and use **Run workflow** with the print switch off to send that day. A second run the same day will not duplicate a send that already went out.
+- The morning job is red. Open it and read the last lines. The usual causes are: the sender is not verified, the API key was copied wrong or Brevo turned it off, or the list number does not match a list. Fix that and use a dry run first. A live run still only emails people in their 4 AM hour, and will not duplicate a send already marked on the contact.
 - More than 300 people are on the list. The free plan cannot email all of them in one day. The site itself stays free.
 
 The free plan may put a small Brevo note at the bottom of the email. That is expected. You do not need to pay to remove it.

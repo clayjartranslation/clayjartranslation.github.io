@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const root = path.join(__dirname, '..');
-const pages = ['index.html', 'devotional.html', 'privacy.html', 'terms.html', 'downloads/index.html'];
+const pages = ['index.html', 'devotional.html', 'privacy.html', 'terms.html', 'downloads/index.html', 'unsubscribe.html'];
 const htmls = pages.map((file) => ({ file, html: fs.readFileSync(path.join(root, file), 'utf8') }));
 const csp = htmls[0].html.match(/Content-Security-Policy" content="([^"]+)"/)[1];
 
@@ -50,7 +50,7 @@ const rules = fs.readFileSync(path.join(root, 'firestore.rules'), 'utf8');
 assert.ok(rules.includes('request.auth.uid == userId'));
 assert.ok(!/allow read, write: if true/.test(rules));
 
-['devotional-email.yml', 'downloads.yml'].forEach((name) => {
+['devotional-email.yml', 'downloads.yml', 'test.yml'].forEach((name) => {
   const yml = fs.readFileSync(path.join(root, '.github/workflows', name), 'utf8');
   assert.ok(!/uses: actions\/checkout@v\d/.test(yml), name + ' should pin checkout');
   assert.ok(!/uses: actions\/setup-node@v\d/.test(yml), name + ' should pin setup-node');

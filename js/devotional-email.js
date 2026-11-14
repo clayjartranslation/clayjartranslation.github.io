@@ -20,6 +20,32 @@
     return { formAction: action, listId: listId };
   }
 
+
+  function detectTimeZone() {
+    try {
+      return (Intl.DateTimeFormat().resolvedOptions().timeZone || '').trim();
+    } catch (e) {
+      return '';
+    }
+  }
+
+  function fillTimeZone(root, timeZone) {
+    var tz = timeZone == null ? detectTimeZone() : String(timeZone || '');
+    var scope = root || document;
+    var forms = scope.querySelectorAll('form[data-devotional-email-form]');
+    Array.prototype.forEach.call(forms, function (form) {
+      var input = form.querySelector('input[name="TIMEZONE"]');
+      if (!input) {
+        input = scope.createElement ? scope.createElement('input') : document.createElement('input');
+        input.type = 'hidden';
+        input.name = 'TIMEZONE';
+        form.appendChild(input);
+      }
+      input.value = tz;
+    });
+    return tz;
+  }
+
   function apply(root, cfg) {
     var scope = root || document;
     var on = ready(cfg);
@@ -32,6 +58,7 @@
         return;
       }
       if (form) form.setAttribute('action', on.formAction);
+      fillTimeZone(block);
       block.hidden = false;
     });
     return blocks.length;
@@ -51,5 +78,5 @@
     };
   }
 
-  return { ready: ready, apply: apply, mount: mount };
+  return { ready: ready, apply: apply, mount: mount, detectTimeZone: detectTimeZone, fillTimeZone: fillTimeZone };
 });
