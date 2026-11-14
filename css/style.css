@@ -211,6 +211,7 @@ h3 { font-size: 1.12rem; margin: 1.75rem 0 .5rem; }
 }
 .dev-email-form .btn { min-height: 44px; }
 .dev-email-note { flex: 1 1 100%; margin: .15rem 0 0; font-family: var(--sans); font-size: .9rem; color: var(--ink-soft); line-height: 1.45; }
+.dev-email-spam { flex: 1 1 100%; margin: .35rem 0 0; font-family: var(--sans); font-size: .92rem; color: var(--ink); line-height: 1.45; }
 .dev-email-hp {
   position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;
 }
