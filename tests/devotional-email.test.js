@@ -19,8 +19,12 @@ assert.deepStrictEqual(
 );
 
 const cfg = fs.readFileSync(path.join(root, 'js/devotional-email-config.js'), 'utf8');
-assert.match(cfg, /formAction:\s*''/);
-assert.match(cfg, /listId:\s*''/);
+const formAction = (cfg.match(/formAction:\s*'([^']+)'/) || [])[1] || '';
+const listId = (cfg.match(/listId:\s*'([^']*)'/) || [])[1] || '';
+assert.strictEqual(listId, '3');
+assert.ok(formAction.startsWith('https://5b7e23a5.sibforms.com/serve/'));
+assert.ok(cfg.includes("formAction: '" + formAction + "'"));
+assert.ok(!/api[_-]?key\s*[:=]/i.test(cfg), 'do not put the Brevo API key in the public config');
 
 const sw = fs.readFileSync(path.join(root, 'sw.js'), 'utf8');
 assert.match(sw, /devotional-email-config\.js/);

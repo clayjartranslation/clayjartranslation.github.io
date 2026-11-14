@@ -17,6 +17,6 @@
    Do not put the Brevo API key in this file. The website is public.
    The key belongs in the GitHub secret BREVO_API_KEY. */
 window.CJT_DEVOTIONAL_EMAIL = {
-  formAction: '',
-  listId: '',
+  formAction: 'https://5b7e23a5.sibforms.com/serve/MUIFAAn9L-qrtXgZo3jjIEDZ4EToTRIQtSzSkssWuSEupZLW6QHr7sf-A2ZoN9Mlnt1WqeC8CQ6qjpG4S2eScEr6WmSd59xbXDAsrJ9yz02FVisNEMJlgJlk7SiZ8V4WTcnA1D_PKw_-1ZxOiqhmEa8FV08HFNmmRRI-z1ZQt8HvuV3NRoGu740Wat4LAfq081uukcrwAW1Pj619Ww==',
+  listId: '3',
 };
