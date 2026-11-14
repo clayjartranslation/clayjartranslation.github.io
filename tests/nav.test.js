@@ -28,6 +28,9 @@ function headerNav(file) {
 assert.ok(builder.includes('class="site-nav"'), 'download builder must write the top nav');
 assert.ok(builder.includes('../devotional.html'), 'builder keeps the devotional link');
 assert.ok(builder.includes('aria-current="page">Downloads'), 'builder marks Downloads as the current page');
+assert.ok(builder.includes('id="cjtLang"'), 'builder keeps the language menu');
+assert.ok(builder.includes('aria-label="Language"'), 'builder labels the language menu');
+assert.ok(builder.includes('../js/language.js'), 'builder loads the language script');
 
 const downloads = fs.readFileSync(path.join(root, 'downloads/index.html'), 'utf8');
 assert.ok(downloads.includes('class="site-nav"'));
@@ -41,7 +44,9 @@ assert.match(css, /\.site-nav \{[\s\S]{0,240}flex-wrap:\s*wrap/);
 const devotional = fs.readFileSync(path.join(root, 'devotional.html'), 'utf8');
 assert.match(devotional, /data-devotional-email[^>]*hidden/);
 assert.ok(devotional.includes('Get it by email'));
-assert.ok(!/sibforms|brevo\.com|googleapis|googletagmanager/i.test(devotional));
+const devWithoutCsp = devotional.replace(/<meta http-equiv="Content-Security-Policy"[^>]*>/, '');
+assert.ok(!/sibforms|brevo\.com|googletagmanager/i.test(devWithoutCsp), 'the page does not embed Brevo; the CSP only names the form host');
+assert.ok(!/src=["']https?:/i.test(devotional), 'devotional HTML does not load a third-party script');
 
 const app = fs.readFileSync(path.join(root, 'js/app.js'), 'utf8');
 assert.ok(app.includes('Get it by email'));

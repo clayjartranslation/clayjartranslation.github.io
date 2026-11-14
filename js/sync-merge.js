@@ -19,12 +19,14 @@
   function num(n, fallback) { return typeof n === 'number' && isFinite(n) ? n : fallback; }
   function str(s, n) { return typeof s === 'string' ? s.slice(0, n) : ''; }
   function intIn(n, max) { return Number.isInteger(n) && n >= 0 && n < max; }
+  function safeId(id) { return /^[A-Za-z0-9_-]{1,40}$/.test(id); }
+  function safeBook(book) { return /^[a-z0-9-]{1,80}$/.test(book); }
 
   function cleanBookmark(b) {
     if (!b || typeof b !== 'object') return null;
     if (!intIn(b.ch, 1000) || !intIn(b.v, 1000) || typeof b.book !== 'string' || !b.book) return null;
     var id = str(b.id, 40);
-    if (!id) return null;
+    if (!safeId(id) || !safeBook(b.book)) return null;
     return {
       id: id, book: str(b.book, 80), name: str(b.name, 80), ch: b.ch, v: b.v,
       text: str(b.text, 400), t: num(b.t, 0), deleted: !!b.deleted,
@@ -34,9 +36,9 @@
   function cleanHighlight(h) {
     if (!h || typeof h !== 'object') return null;
     if (!intIn(h.ch, 1000) || !intIn(h.v, 1000) || !intIn(h.s, 100000) || !intIn(h.e, 100000)) return null;
-    if (h.e <= h.s || COLORS.indexOf(h.color) < 0 || typeof h.text !== 'string' || typeof h.book !== 'string' || !h.book) return null;
+    if (h.e <= h.s || COLORS.indexOf(h.color) < 0 || typeof h.text !== 'string' || !safeBook(h.book)) return null;
     var id = str(h.id, 40);
-    if (!id) return null;
+    if (!safeId(id)) return null;
     return {
       id: id, book: str(h.book, 80), name: str(h.name, 80), ch: h.ch, v: h.v, s: h.s, e: h.e,
       color: h.color, text: str(h.text, 3000), whole: !!h.whole, t: num(h.t, 0), deleted: !!h.deleted,

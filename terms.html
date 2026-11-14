@@ -3,11 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self' https://*.sibforms.com; script-src 'self' 'sha256-XfiOjixlN6OMWa4rVzxY5TwF+kBlnWUkmTaaMqDpIjc=' https://clayjartranslation.github.io https://www.gstatic.com https://apis.google.com https://www.google.com; style-src 'self' https://clayjartranslation.github.io; img-src 'self' https://clayjartranslation.github.io data: blob:; font-src 'self' data:; connect-src 'self' https://clayjartranslation.github.io https://www.gstatic.com https://www.googleapis.com https://www.google.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://firestore.googleapis.com wss://firestore.googleapis.com https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co https://translate.googleapis.com; media-src 'self' blob: https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co; worker-src 'self' blob:; manifest-src 'self'; frame-src https://accounts.google.com https://*.firebaseapp.com https://*.web.app https://apis.google.com https://www.google.com https://recaptcha.google.com; upgrade-insecure-requests">
   <title>Terms of Service · Clay Jar Translation</title>
-  <meta name="description" content="Terms for the free Clay Jar Translation website. The text is © 2026 Jose Santiago, CC BY 4.0.">
+  <meta name="description" content="Terms for the free Clay Jar Translation website. The English text is official. Machine translation is as-is. © 2026 Jose Santiago, CC BY 4.0.">
   <link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="icon" href="icons/favicon-48.png" sizes="48x48" type="image/png">
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/boot.js"></script>
 </head>
 <body>
   <a class="skip" href="#content">Skip to content</a>
@@ -19,51 +22,110 @@
       <a href="./">Read</a>
       <a href="devotional.html">Devotional</a>
       <a href="downloads/">Downloads</a>
+      <div class="lang-switch">
+        <label class="lang-label" for="cjtLang">
+          <svg class="lang-globe" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.8 3.8 5.8 3.8 9s-1.3 6.2-3.8 9c-2.5-2.8-3.8-5.8-3.8-9s1.3-6.2 3.8-9z"/></svg>
+          <span class="lang-word">Language</span>
+        </label>
+        <select id="cjtLang" aria-label="Language" autocomplete="off"></select>
+      </div>
     </nav>
+    <p class="mt-notice" id="mtNotice" hidden>Machine translation by Google. The English text is the official Clay Jar Translation.</p>
   </header>
   <main id="content" class="prose legal">
     <p class="eyebrow">Clay Jar Translation</p>
     <h1>Terms of Service</h1>
-    <p class="muted">12 November 2026. These terms are in plain language. They are not legal advice, and they do not create a lawyer-client relationship.</p>
-    <p>Questions about these terms: <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a>.</p>
+    <p class="muted">Last updated November 14, 2026. These terms are in plain language. They are not legal advice, and they do not create a lawyer-client relationship.</p>
+    <p>These terms are between you and <strong>Jose Santiago</strong>, Marshfield, Massachusetts, USA (“Jose Santiago”, “we”). Questions: <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a>.</p>
+
+    <h2>Using the site means you agree</h2>
+    <p>By using this website, creating an account, subscribing to the devotional email, or sending a donation, you agree to these terms and to the <a href="privacy.html">Privacy Policy</a>. The same notice is in the footer of every page and on the email signup form. If you do not agree, do not use the site. You can still read a copy of the English text that you already downloaded under the CC BY 4.0 license, which is a separate license for the text.</p>
+    <p>These terms do not make a lawsuit impossible. They do not stop you from complaining to a regulator, using small claims court, or going to a court that the law where you live keeps open. Limits below apply only to the extent the law allows.</p>
 
     <h2>The translation text is CC BY 4.0</h2>
-    <p>© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” You may copy, share, adapt, and redistribute the text, including commercially, if you give that attribution and say if you changed it. The downloads page offers the same text as files. This license covers the text. It does not promise that every feature of this website will stay unchanged.</p>
-    <p>Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.</p>
+    <p class="notranslate" translate="no">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” You may copy, share, adapt, and redistribute the text, including commercially, if you give that attribution and say if you changed it. The downloads page offers the same text as files. This license covers the English text. It does not promise that every feature of this website will stay unchanged.</p>
+    <p class="notranslate" translate="no">Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.</p>
+    <p>Section 5 of CC BY 4.0 already offers the licensed text as-is and as-available, and limits the licensor’s liability for the text to the extent the license allows. These website terms do not replace that license. Where the two both speak, the CC BY 4.0 license governs the text, and these terms govern the website, the accounts, the email, the audio player, and machine translation.</p>
+
+    <h2>Machine translation</h2>
+    <p>You may ask the site to show a page through machine translation. That translation is provided as-is, for convenience. It may contain errors, omissions, and wording that does not match the English. <strong>The English text is the official and controlling text</strong> of the Clay Jar Translation. A machine translation is not the Clay Jar Translation, is not an official edition, and must not be presented as the official Clay Jar Translation or as Jose Santiago’s own wording. The CC BY 4.0 license and the trademark notices still apply to the English text. If you share a machine translation, say that it is a machine translation and that the English text is the official one, and keep the attribution. Choosing a language sends the page to Google as the Privacy Policy describes. Nothing is sent for translation until you pick a language.</p>
 
     <h2>The website</h2>
-    <p>This website is a free reader and a free set of downloads. There is no paywall and there are no ads. An account is optional. If you do not sign in, the reader still works, and what you save stays on your device. If you sign in, you are asking the site to keep a copy of your bookmarks, highlights, reading place, listening place, and reading settings so another device can use them. The <a href="privacy.html">Privacy Policy</a> describes that choice. Phone sign-in is off unless the owner later turns it on, and turning it on is not part of the free plan because text messages cost money.</p>
+    <p>This website is a free reader and a free set of downloads. There is no paywall and there are no ads. An account is optional. If you do not sign in, the reader still works, and what you save stays on your device. If you sign in, you are asking the site to keep a copy of your bookmarks, highlights, reading place, listening place, and reading settings so another device can use them. The <a href="privacy.html">Privacy Policy</a> describes that choice.</p>
+
+    <h2>Daily devotional by email</h2>
+    <p>The email list is optional. You are not subscribed by opening the site. If you subscribe, you agree to these terms and the Privacy Policy, as the form says. Brevo sends a confirmation link first (double opt-in). You are not on the list until you confirm. The address is used only to send the devotional. You can unsubscribe any time from the link in each email, or by writing to the contact address. Unsubscribing does not affect your right to read the Bible here.</p>
+
+    <h2>Donations</h2>
+    <p>A donation is a voluntary gift. It is not required to read, listen, download, or use an account. It is not a purchase of the text, not a fee, and not a payment for goods or services. You receive no goods or services in return. It is not tax-deductible. Jose Santiago is not a section 501(c)(3) organization and donations are not charitable contributions for U.S. federal income-tax purposes.</p>
+    <p>If you give through PayPal, PayPal processes the payment under PayPal’s terms. We do not receive your full card number through this website. A completed gift is non-refundable, except where the law requires a refund of an unauthorized charge or a charge you did not make. Asking for a refund of a voluntary gift is not a way to buy different terms.</p>
 
     <h2>Acceptable use</h2>
-    <p>You may use the reader and the downloads for any lawful purpose, including sharing the text under CC BY 4.0. Please do not:</p>
+    <p>You may use the reader and the downloads for any lawful purpose, including sharing the English text under CC BY 4.0. Please do not:</p>
     <ul>
       <li>Break into an account, or try to read someone else’s bookmarks or account.</li>
       <li>Attack, overload, or disrupt the site.</li>
       <li>Use the site to break the law or to harm someone.</li>
-      <li>Present this draft as a finished edition that scholars have reviewed. It is not that.</li>
+      <li>Present this draft, or a machine translation of it, as a finished edition that scholars have reviewed, or as the official Clay Jar Translation in a language other than English.</li>
+      <li>Use the names Clay Jar Translation™ or Clay Jar Treasure Bible™, or the logos, except to credit the source.</li>
     </ul>
 
+    <h2>Not professional advice</h2>
+    <p>The Bible text, footnotes, devotionals, prayers, and any machine translation are for personal reading. They are not medical advice, legal advice, financial advice, or mental-health advice. They are not professional pastoral counseling and not a relationship with a counselor. If you need medical, legal, financial, or mental-health help, ask a qualified professional. If you may be in danger, contact local emergency services.</p>
+
     <h2>Draft notice</h2>
-    <p>This is Draft 0.1. It was made with AI assistance and has not yet been reviewed by scholars. It is a reading text, not pastoral counseling, not medical or legal advice, and not a claim that every translation decision is settled. Footnotes and the About pages describe how the draft was made.</p>
+    <p>This is Draft 0.1. It was made with AI assistance and has not yet been reviewed by scholars. It is a reading text, not a claim that every translation decision is settled. Footnotes and the About pages describe how the draft was made.</p>
 
-    <h2>No warranty, and a limit on liability</h2>
-    <p>The website and the files are provided free and as they are. To the extent the law allows, the people who publish the site are not liable for lost profits, lost data, or other damages that result from using the site, the files, or an account. Some places do not allow a limit like that. In those places, the limit applies only as far as the law allows, and rights you cannot waive are unchanged. Nothing here excludes liability that the law says cannot be excluded.</p>
+    <h2>Warranty disclaimer</h2>
+    <p class="legal-caps">THE WEBSITE, THE FILES, THE AUDIO, THE DEVOTIONALS, THE ACCOUNTS, AND ANY MACHINE TRANSLATION ARE PROVIDED “AS IS” AND “AS AVAILABLE.”</p>
+    <p>To the extent the law allows, Jose Santiago disclaims all warranties, whether express, implied, statutory, or other. This includes warranties of title, merchantability, fitness for a particular purpose, non-infringement, accuracy, quiet enjoyment, and the absence of errors, for both the website and the licensed text, consistent with section 5 of CC BY 4.0. There is no warranty that the site will be uninterrupted, that a translation will be correct, that audio will play on every phone, or that an account will always sync. Where a disclaimer of warranties is not allowed in full, it applies only as far as the law allows, and rights you cannot waive are unchanged. Consumer guarantees that a statute says cannot be excluded (including under the Australian Consumer Law) are not excluded.</p>
 
-    <h2>Accounts</h2>
-    <p>You can stop using an account by signing out. Signing out lets you keep or remove the copy on that device. You can delete the account and its stored data from the account screen. We may refuse or remove an account that is used to attack the site or to break these terms. The Bible text stays available either way.</p>
+    <h2>Limitation of liability</h2>
+    <p>To the extent the law allows, Jose Santiago is not liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for lost profits, lost data, or loss of goodwill, arising out of the site, the text, a machine translation, an account, an email, or a donation, even if advised that such damages were possible.</p>
+    <p>To the extent the law allows a cap, Jose Santiago’s total liability for a claim about the website will not exceed the greater of (a) the amount you paid Jose Santiago for use of the website in the twelve months before the claim (that amount is often US$0, because reading is free) or (b) fifty U.S. dollars (US$50). A voluntary donation is a gift, not a payment for the website, and is not added to that amount unless a court says the law requires it.</p>
+    <p>This limit does not apply to liability that the law does not allow a contract to limit, including liability for fraud, willful misconduct, or death or personal injury caused by negligence where that limit is forbidden. The CC BY 4.0 limitation of liability for the licensed text remains in effect. Nothing here is a promise that you cannot sue.</p>
 
-    <h2>Governing law</h2>
-    <p>These terms are governed by the laws of the Commonwealth of Massachusetts, USA, without regard to conflict-of-law rules, except where the law where you live gives you rights that cannot be waived by this sentence. Courts in Massachusetts may hear a dispute about these terms, except where a mandatory consumer rule says you may bring a claim in your own courts.</p>
+    <h2>Your responsibility to others</h2>
+    <p>To the extent the law allows, you will indemnify Jose Santiago against reasonable losses, costs, and attorneys’ fees from a third-party claim caused by your misuse of the site, your violation of these terms, or your violation of the law, including presenting a machine translation as the official Clay Jar Translation. You do not have to cover a claim that arises from Jose Santiago’s own negligence, fraud, or willful misconduct. This section does not apply where a consumer-protection law forbids it, including for consumers in Quebec and, where they apply, the EU, the EEA, and the UK.</p>
 
-    <h2>Changes</h2>
-    <p>If these terms change, the date at the top of this page changes. A change to these website terms does not by itself change the CC BY 4.0 license already granted for the text.</p>
+    <h2>Governing law and venue</h2>
+    <p>These website terms are governed by the laws of the Commonwealth of Massachusetts, USA, without regard to conflict-of-law rules, except where the law where you live gives you rights that cannot be waived, including mandatory consumer law in the EU, the EEA, the UK, Australia, and Quebec. For a court claim that these terms allow to be filed in court, the state and federal courts located in Plymouth County, Massachusetts are the venue, except where a mandatory rule lets you sue in the courts where you live.</p>
+
+    <h2>Arbitration, class actions, and juries</h2>
+    <p>Please read this section. It changes where many disputes are heard. It does not apply where the section “Where your local law gives you rights” says it does not apply, including for consumers in Quebec and where EU, EEA, or UK law forbids a pre-dispute arbitration clause.</p>
+    <p>Except for the small-claims option below, and except for a claim this section cannot cover, you and Jose Santiago agree that any dispute arising out of these terms or the website will be resolved by individual binding arbitration, and not in court. The Federal Arbitration Act (9 U.S.C. § 1 and following) governs this agreement to arbitrate. The arbitration will be administered by the American Arbitration Association under its Consumer Arbitration Rules, which are at <a href="https://www.adr.org/consumer">https://www.adr.org/consumer</a>. If those rules conflict with this section, this section controls where the law allows.</p>
+    <p>The arbitration will be individual only. <strong>YOU AND JOSE SANTIAGO WAIVE ANY RIGHT TO A CLASS ACTION, A CLASS ARBITRATION, OR A REPRESENTATIVE ACTION, TO THE EXTENT THE LAW ALLOWS.</strong> If a court finds that waiver unenforceable for a particular claim, that claim will proceed in court and not as a class arbitration. <strong>YOU AND JOSE SANTIAGO WAIVE ANY RIGHT TO A TRIAL BY JURY, TO THE EXTENT THE LAW ALLOWS.</strong> This section does not limit a right to seek public injunctive relief where the law does not allow that right to be waived.</p>
+    <p>Either person may bring an individual claim in small claims court instead of arbitration, if the claim is within that court’s jurisdiction. You may file there without first filing with the AAA. In Massachusetts, small claims are heard in the District Court. You do not have to travel to Massachusetts for arbitration: you may ask for a hearing by documents, telephone, or video under the AAA Consumer Rules. Jose Santiago will pay the fees those rules assign to the business. If the AAA will not administer the case, or those fees are not paid, you may bring the claim in court.</p>
+    <p><strong>Opt out.</strong> You may opt out of this arbitration section within 30 days after you first use the site. Email <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a> with the subject line “Arbitration opt-out” and your name and the email address you want on record. An opt-out does not cancel the rest of these terms. If you opt out, either person may sue in court as the venue section describes, and the class and jury waivers in this section do not apply to you.</p>
+
+    <h2>Time limit to bring a claim</h2>
+    <p>Where the law allows a contract to shorten the time, you must start a claim within one year after the claim arose. Where the law gives a longer time that a contract cannot shorten, including some consumer-protection claims, that longer time applies. This sentence does not apply to a claim that cannot be time-limited by contract.</p>
+
+    <h2>Where your local law gives you rights</h2>
+    <p>These limits, disclaimers, the venue clause, the arbitration clause, the class waiver, the jury waiver, the one-year period, and the indemnity apply only to the fullest extent the law allows. They do not remove non-waivable consumer rights. In particular:</p>
+    <ul>
+      <li><strong>EU and EEA.</strong> Mandatory consumer law, including rights under the Unfair Contract Terms Directive, still applies. A term that takes away a non-waivable right is not binding. You may bring a claim in the courts of your member state where that law says so. A pre-dispute waiver of the right to go to court is not binding on you where EU law says it is not.</li>
+      <li><strong>United Kingdom.</strong> The Consumer Rights Act 2015 still applies. Unfair terms are not binding. Statutory rights that cannot be waived are not waived.</li>
+      <li><strong>Australia.</strong> The Australian Consumer Law guarantees are not excluded. A term that tries to exclude, restrict, or modify those guarantees is void to that extent. Unfair terms in a standard-form consumer contract may be void.</li>
+      <li><strong>Canada, including Quebec.</strong> If you are a consumer in Quebec, the Civil Code and the Consumer Protection Act apply. A clause that forces arbitration, bars a class action, requires a court outside Quebec, or chooses a law other than Canadian or Quebec law is not binding on you to the extent article 11.1 and related provisions say so. You may go to court in Quebec and take part in a class action to the extent Quebec law allows. Consumers elsewhere in Canada keep the rights their province does not allow a contract to waive.</li>
+      <li><strong>Other places.</strong> If your local law gives you a right that a contract cannot waive, that right remains. The rest of these terms still apply.</li>
+    </ul>
+
+    <h2>Other legal terms</h2>
+    <p><strong>Severability.</strong> If one part of these terms is held invalid, the rest stays in effect, except as the arbitration section says when a class waiver falls.</p>
+    <p><strong>No waiver.</strong> If Jose Santiago does not enforce a term once, that is not a waiver of the right to enforce it later.</p>
+    <p><strong>Entire agreement.</strong> These terms plus the Privacy Policy and the CC BY 4.0 license for the text are the whole agreement about the website. They do not change the CC BY 4.0 license already granted for the English text.</p>
+    <p><strong>Changes.</strong> If these terms change, the date at the top of this page changes, and this page is the notice. Continued use after that date means you accept the new terms, except that a change to the arbitration section applies only to claims that arise after the change, and you may opt out of the new arbitration section within 30 days by the email method above. A change to these website terms does not by itself change the CC BY 4.0 license already granted for the text.</p>
 
     <h2>Contact</h2>
     <p>Email <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a>.</p>
     <p><a href="privacy.html">Privacy Policy</a> · <a href="downloads/">Downloads</a> · <a href="./">Back to the reader</a></p>
   </main>
   <footer class="foot">
+    <p class="accept">By using this site you agree to the <a href="terms.html">Terms of Service</a> and the <a href="privacy.html">Privacy Policy</a>.</p>
     <p class="foot-links"><a href="./">Home</a> <a href="devotional.html">Devotional</a> <a href="downloads/">Downloads</a> <a href="terms.html">Terms</a> <a href="privacy.html">Privacy</a></p>
   </footer>
+  <script src="js/languages.js"></script>
+  <script src="js/language.js"></script>
 </body>
 </html>

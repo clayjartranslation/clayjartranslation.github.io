@@ -166,3 +166,15 @@ The translation files (PDF, EPUB, JSON, plain text, USFM), © 2026 Jose Santiago
 - The menu has no Account row — `apiKey` in `js/account-config.js` is still empty, or the browser is still on a cached copy of that file. Reload once. The service worker updates that one file from the network.
 - A reader can sign in but a second device stays empty — open Firestore **Rules** and confirm they match `firestore.rules`, then **Publish** again.
 - To turn accounts back off, set `apiKey` back to `''` and push. The Sign in button disappears. Books already saved on a device stay on that device. The Firebase project can sit unused on the free plan, or you can delete it from **Project settings → Delete project**.
+
+## 12. Lock the API key, and App Check
+
+The web API key is not a password. `firestore.rules` is what keeps one reader’s document private. Still, in Google Cloud Console (the project Firebase created), open **APIs & Services → Credentials**, open the browser key, and under **Application restrictions** choose **HTTP referrers**. Allow only:
+
+- `https://clayjartranslation.github.io/*`
+- `http://localhost:8000/*` (only if you still test on this computer)
+- `https://*.firebaseapp.com/*` (Firebase’s sign-in helper)
+
+Under **API restrictions**, limit the key to the Firebase APIs this site uses (Identity Toolkit, Token Service, Cloud Firestore). Save.
+
+Firebase App Check can require a free reCAPTCHA v3 attestation before Firestore accepts a request. Turning it on needs the Firebase console: **App Check → Apps → Register** the web app, then **Enforce** on Cloud Firestore. Do that only after the site key is in the project. Enforcing App Check before the page sends a token would block sign-in. This repository does not turn App Check on by itself, because there is no site key to ship.
