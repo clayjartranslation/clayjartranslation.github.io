@@ -395,6 +395,63 @@ function mockRequest(handlers) {
   assert.match(r.logs.join('\n'), /The list was not emailed/);
   assert.ok(!r.logs.join('\n').includes('secret-key'), 'logs must not print the API key');
 
+
+  const permCalls = [];
+  r = await quiet({
+    EVENT_NAME: 'workflow_dispatch',
+    DRY_RUN: 'true',
+    NOW: '2026-11-13T09:10:00Z',
+    BREVO_API_KEY: 'secret-key',
+    BREVO_LIST_ID: '3',
+    BREVO_SENDER_EMAIL: 'news@example.com',
+  }, {
+    request: mockRequest({
+      '*': async (key, method, url, body) => {
+        permCalls.push({ method, url, body });
+        if (method === 'POST' && url.startsWith('/contacts/attributes/')) {
+          return { ok: false, status: 403, json: { message: 'api key is not authorized for resource "contacts"', code: 'permission_denied' }, text: '{"code":"permission_denied"}' };
+        }
+        if (method === 'GET' && url.startsWith('/contacts?')) return { ok: true, status: 200, json: { contacts: [
+          { email: 'due@example.com', attributes: { TIMEZONE: 'America/New_York' } },
+        ] }, text: '' };
+        if (method === 'GET' && url.startsWith('/smtp/blockedContacts')) return { ok: true, status: 200, json: { contacts: [] }, text: '' };
+        throw new Error('dry run must not send ' + method + ' ' + url);
+      },
+    }),
+  });
+  assert.strictEqual(r.code, 0);
+  assert.match(r.logs.join('\n'), /needs Contacts permission/);
+  assert.match(r.logs.join('\n'), /America\/New_York/);
+  assert.match(r.logs.join('\n'), /1 due/);
+  assert.ok(!r.logs.join('\n').includes('secret-key'));
+
+  r = await quiet({
+    EVENT_NAME: 'workflow_dispatch',
+    DRY_RUN: 'true',
+    NOW: '2026-11-13T09:10:00Z',
+    BREVO_API_KEY: 'secret-key',
+    BREVO_LIST_ID: '3',
+    BREVO_SENDER_EMAIL: 'news@example.com',
+  }, {
+    request: mockRequest({
+      '*': async (key, method, url) => {
+        if (method === 'POST' && url.startsWith('/contacts/attributes/')) {
+          return { ok: false, status: 403, json: { code: 'permission_denied' }, text: '' };
+        }
+        if (method === 'GET' && url.startsWith('/contacts?')) {
+          const err = new Error('Could not list contacts (403). permission_denied');
+          err.result = { status: 403, ok: false, text: 'permission_denied' };
+          throw err;
+        }
+        throw new Error('unexpected ' + method + ' ' + url);
+      },
+    }),
+  });
+  assert.strictEqual(r.code, 0);
+  assert.match(r.logs.join('\n'), /Could not load the subscriber list/);
+  assert.match(r.logs.join('\n'), /Nothing is sent/);
+  assert.ok(r.logs.join('\n').includes(entry.verseText));
+
   console.log('devotional email tests passed');
 })().catch((err) => {
   console.error(err);
