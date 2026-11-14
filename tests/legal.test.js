@@ -28,4 +28,11 @@ assert.ok(fs.readFileSync(path.join(root, 'devotional.html'), 'utf8').includes('
 assert.ok(fs.readFileSync(path.join(root, 'js/app.js'), 'utf8').includes('By subscribing you agree'));
 assert.ok(fs.readFileSync(path.join(root, 'tools/build-downloads.js'), 'utf8').includes('By using this site you agree'));
 
+assert.ok(terms.includes('Email delivery is not guaranteed'));
+assert.ok(terms.includes('marked as spam by your email provider'));
+const spamNote = 'check your spam or junk folder for the confirmation email';
+assert.ok(fs.readFileSync(path.join(root, 'devotional.html'), 'utf8').includes(spamNote));
+assert.ok(fs.readFileSync(path.join(root, 'js/app.js'), 'utf8').includes(spamNote));
+assert.ok(fs.readFileSync(path.join(root, 'devotional.html'), 'utf8').includes('contact.clayjar@protonmail.com'));
+
 console.log('legal tests passed');
