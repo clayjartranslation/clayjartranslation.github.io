@@ -197,6 +197,8 @@ async function quiet(env, deps) {
   assert.match(yml, /cron:\s*'0 9 \* \* \*'/);
   assert.match(yml, /workflow_dispatch:/);
   assert.match(yml, /dry_run:/);
+  assert.match(yml, /test_email:/);
+  assert.match(yml, /TEST_EMAIL:/);
   assert.match(yml, /BREVO_API_KEY/);
   assert.match(yml, /BREVO_LIST_ID/);
   assert.match(yml, /BREVO_SENDER_EMAIL/);
@@ -210,6 +212,56 @@ async function quiet(env, deps) {
   assert.strictEqual(child.status, 0, child.stderr);
   assert.match(child.stdout, /Skipping/);
   assert.doesNotMatch(child.stdout + child.stderr, /Error|throw/i);
+
+  assert.strictEqual(mail.parseTestEmail({}).set, false);
+  assert.strictEqual(mail.parseTestEmail({ TEST_EMAIL: 'not-an-email' }).ok, false);
+  assert.deepStrictEqual(mail.parseTestEmail({ TEST_EMAIL: ' reader@example.com ' }), {
+    set: true, ok: true, email: 'reader@example.com',
+  });
+  const stripped = mail.forTestSend(email.html + '\n' + email.text);
+  assert.ok(!stripped.includes('{{ unsubscribe }}'));
+  assert.ok(stripped.includes('This was a one-off test. The subscriber list was not emailed.'));
+
+  r = await quiet({
+    EVENT_NAME: 'schedule',
+    TEST_EMAIL: 'not-an-email',
+    NOW: '2026-11-13T15:00:00Z',
+  });
+  assert.strictEqual(r.code, 1);
+  assert.match(r.logs.join('\n'), /not an email address/);
+
+  calls = [];
+  let listed = 0;
+  r = await quiet({
+    EVENT_NAME: 'schedule',
+    TEST_EMAIL: 'reader@example.com',
+    NOW: '2026-11-13T15:00:00Z',
+    BREVO_API_KEY: 'secret-key',
+    BREVO_LIST_ID: '4',
+    BREVO_SENDER_EMAIL: 'news@example.com',
+  }, {
+    listCampaigns: async () => { listed += 1; return [{ id: 9, name: 'Clay Jar devotional 2026-11-13', status: 'sent' }]; },
+    request: async (key, method, url, body) => {
+      calls.push({ key, method, url, body });
+      if (method === 'POST' && url === '/smtp/email') {
+        return { ok: true, status: 201, json: { messageId: '<test-message-id@smtp-relay.mailin.fr>' }, text: '{"messageId":"<test-message-id@smtp-relay.mailin.fr>"}' };
+      }
+      throw new Error('unexpected ' + method + ' ' + url);
+    },
+  });
+  assert.strictEqual(r.code, 0);
+  assert.strictEqual(listed, 0, 'a test send must not list campaigns');
+  assert.strictEqual(calls.length, 1);
+  assert.strictEqual(calls[0].url, '/smtp/email');
+  assert.deepStrictEqual(calls[0].body.to, [{ email: 'reader@example.com' }]);
+  assert.ok(calls[0].body.subject.startsWith('[Test] '));
+  assert.ok(calls[0].body.htmlContent.includes(entry.verseText));
+  assert.ok(!calls[0].body.htmlContent.includes('{{ unsubscribe }}'));
+  assert.ok(!JSON.stringify(calls[0].body).includes('listIds'));
+  assert.match(r.logs.join('\n'), /only to reader@example.com/);
+  assert.match(r.logs.join('\n'), /messageId <test-message-id@smtp-relay.mailin.fr>/);
+  assert.match(r.logs.join('\n'), /The list was not emailed/);
+  assert.ok(!r.logs.join('\n').includes('secret-key'), 'logs must not print the API key');
 
   console.log('devotional email tests passed');
 })().catch((err) => {

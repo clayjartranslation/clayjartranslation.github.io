@@ -12,6 +12,9 @@
    Env: BREVO_API_KEY, BREVO_LIST_ID, BREVO_SENDER_EMAIL
         DRY_RUN=true prints the message and does not call Brevo
         EVENT_NAME=workflow_dispatch allows a manual run outside 4 AM
+        TEST_EMAIL=address sends today's devotional only to that address
+        through Brevo transactional mail. The list is not emailed, no
+        campaign is created, and the daily send is not marked as done.
         NOW=ISO-8601 is a test clock. The workflow does not set it. */
 'use strict';
 
@@ -165,6 +168,35 @@ function readSecrets(env) {
   return { ok: true, apiKey, listId: Number(listRaw), sender };
 }
 
+function parseTestEmail(env) {
+  const raw = String((env && env.TEST_EMAIL) || '').trim();
+  if (!raw) return { set: false, ok: true, email: '' };
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(raw)) return { set: true, ok: false, email: raw };
+  return { set: true, ok: true, email: raw };
+}
+
+function readTransactionalSecrets(env) {
+  const apiKey = String(env.BREVO_API_KEY || '').trim();
+  const sender = String(env.BREVO_SENDER_EMAIL || '').trim();
+  const missing = [];
+  if (!apiKey) missing.push('BREVO_API_KEY');
+  if (!sender) missing.push('BREVO_SENDER_EMAIL');
+  if (missing.length) return { ok: false, missing };
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(sender)) {
+    return { ok: false, invalid: 'BREVO_SENDER_EMAIL is set but is not an email address.' };
+  }
+  return { ok: true, apiKey, sender };
+}
+
+function forTestSend(content) {
+  return String(content || '')
+    .replace(/<p[^>]*>\s*<a href="\{\{ unsubscribe \}\}"[^>]*>Unsubscribe<\/a>\s*<\/p>/g,
+      '<p style="margin:8px 0 0;font-family:-apple-system,BlinkMacSystemFont,\'Segoe UI\',sans-serif;font-size:14px;line-height:1.5;color:#6b4a37;">This was a one-off test. The subscriber list was not emailed.</p>')
+    .replace(/Unsubscribe:\s*\{\{ unsubscribe \}\}/g,
+      'This was a one-off test. The subscriber list was not emailed.')
+    .replace(/\{\{ unsubscribe \}\}/g, '');
+}
+
 function isOurCampaign(name, isoDate) {
   const n = String(name || '');
   // Date plus our name, so a second list on the same Brevo account
@@ -252,14 +284,21 @@ async function run(env, deps) {
   const parts = nyParts(now);
   const dry = String(env.DRY_RUN || '').toLowerCase() === 'true';
   const manual = env.EVENT_NAME === 'workflow_dispatch';
+  const testTo = parseTestEmail(env);
+  const testing = testTo.set;
   const stamp = parts.isoDate + ' ' + String(parts.hour).padStart(2, '0') + ':' + String(parts.minute).padStart(2, '0') + ' America/New_York';
 
-  if (!manual && !inSendHour(parts)) {
+  if (testing && !testTo.ok) {
+    log('TEST_EMAIL is set but is not an email address.');
+    return 1;
+  }
+
+  if (!manual && !testing && !inSendHour(parts)) {
     log('Not the 4 AM hour in America/New_York (' + stamp + '). Skipping.');
     return 0;
   }
 
-  const secrets = readSecrets(env);
+  const secrets = testing ? readTransactionalSecrets(env) : readSecrets(env);
   const entries = (deps && deps.load ? deps.load() : loadDevotionals());
   const entry = findEntry(entries, parts.key);
   const email = entry ? buildEmail(entry, parts.isoDate) : null;
@@ -270,6 +309,7 @@ async function run(env, deps) {
       return 0;
     }
     log('Dry run for ' + stamp + '. The message below is not sent.');
+    if (testing) log('If sent, this would go only to ' + testTo.email + '. The list would not be emailed.');
     log('Campaign: ' + email.name);
     log('Subject: ' + email.subject);
     log('--- plain text ---');
@@ -294,6 +334,27 @@ async function run(env, deps) {
   }
 
   const request = (deps && deps.request) || brevo;
+
+  if (testing) {
+    const payload = {
+      sender: { name: 'Clay Jar Translation', email: secrets.sender },
+      replyTo: { email: secrets.sender },
+      to: [{ email: testTo.email }],
+      subject: '[Test] ' + email.subject,
+      htmlContent: forTestSend(email.html),
+      textContent: forTestSend(email.text),
+    };
+    const sent = await request(secrets.apiKey, 'POST', '/smtp/email', payload);
+    if (!sent.ok) {
+      const err = new Error('Brevo did not send the test email (' + sent.status + '). ' + clip(sent.text));
+      err.result = sent;
+      throw err;
+    }
+    const messageId = sent.json && sent.json.messageId;
+    log('Sent a test of ' + email.name + ' only to ' + testTo.email + (messageId ? ' (messageId ' + messageId + ')' : '') + '. The list was not emailed.');
+    return 0;
+  }
+
   const campaigns = deps && deps.listCampaigns
     ? await deps.listCampaigns(secrets.apiKey)
     : await listCampaigns(secrets.apiKey, request);
@@ -360,6 +421,9 @@ module.exports = {
   campaignName,
   buildEmail,
   readSecrets,
+  parseTestEmail,
+  readTransactionalSecrets,
+  forTestSend,
   classify,
   isOurCampaign,
   isEmptyAudience,
