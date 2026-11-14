@@ -73,8 +73,12 @@ assert.strictEqual(pick(2028, 2, 29, null).mode, 'nearest');
 const html = fs.readFileSync(path.join(root, 'devotional.html'), 'utf8');
 assert.ok(html.includes(api.NOTICE), 'page must label the devotionals');
 const srcs = [...html.matchAll(/<script[^>]*\ssrc="([^"]+)"/g)].map((m) => m[1]);
-assert.deepStrictEqual(srcs, ['js/devotional-email-config.js', 'js/devotional-email.js', 'js/devotional.js']);
-assert.ok(!/googleapis|firebase|googletagmanager|cdn\.|analytics/i.test(html));
+assert.deepStrictEqual(srcs, [
+  'js/boot.js', 'js/languages.js', 'js/language.js',
+  'js/devotional-email-config.js', 'js/devotional-email.js', 'js/devotional.js',
+]);
+const devWithoutCsp = html.replace(/<meta http-equiv="Content-Security-Policy"[^>]*>/, '');
+assert.ok(!/googleapis|firebase|googletagmanager|cdn\.|analytics/i.test(devWithoutCsp));
 
 const sw = fs.readFileSync(path.join(root, 'sw.js'), 'utf8');
 assert.match(sw, /'devotional\.html'/);

@@ -3,11 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self' https://*.sibforms.com; script-src 'self' 'sha256-XfiOjixlN6OMWa4rVzxY5TwF+kBlnWUkmTaaMqDpIjc=' https://clayjartranslation.github.io https://www.gstatic.com https://apis.google.com https://www.google.com; style-src 'self' https://clayjartranslation.github.io; img-src 'self' https://clayjartranslation.github.io data: blob:; font-src 'self' data:; connect-src 'self' https://clayjartranslation.github.io https://www.gstatic.com https://www.googleapis.com https://www.google.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://firestore.googleapis.com wss://firestore.googleapis.com https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co https://translate.googleapis.com; media-src 'self' blob: https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co; worker-src 'self' blob:; manifest-src 'self'; frame-src https://accounts.google.com https://*.firebaseapp.com https://*.web.app https://apis.google.com https://www.google.com https://recaptcha.google.com; upgrade-insecure-requests">
   <title>Privacy Policy · Clay Jar Translation</title>
-  <meta name="description" content="Privacy policy for the Clay Jar Translation website. Reading is free. Data stays on your device unless you choose to sign in. An optional devotional email stores the address with Brevo only to send that email.">
+  <meta name="description" content="Privacy policy for the Clay Jar Translation website. Reading is free. A language choice is sent to Google Translate only if you pick one. Data stays on your device unless you choose to sign in, subscribe, or donate.">
   <link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="icon" href="icons/favicon-48.png" sizes="48x48" type="image/png">
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/boot.js"></script>
 </head>
 <body>
   <a class="skip" href="#content">Skip to content</a>
@@ -19,27 +22,36 @@
       <a href="./">Read</a>
       <a href="devotional.html">Devotional</a>
       <a href="downloads/">Downloads</a>
+      <div class="lang-switch">
+        <label class="lang-label" for="cjtLang">
+          <svg class="lang-globe" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.8 3.8 5.8 3.8 9s-1.3 6.2-3.8 9c-2.5-2.8-3.8-5.8-3.8-9s1.3-6.2 3.8-9z"/></svg>
+          <span class="lang-word">Language</span>
+        </label>
+        <select id="cjtLang" aria-label="Language" autocomplete="off"></select>
+      </div>
     </nav>
+    <p class="mt-notice" id="mtNotice" hidden>Machine translation by Google. The English text is the official Clay Jar Translation.</p>
   </header>
   <main id="content" class="prose legal">
     <p class="eyebrow">Clay Jar Translation</p>
     <h1>Privacy Policy</h1>
-    <p class="muted">13 November 2026. This page is written in plain language so you can see what happens to information. It is not legal advice, and it does not create a lawyer-client relationship.</p>
-    <p>Questions about this policy: <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a>.</p>
+    <p class="muted">Last updated November 14, 2026. This page is written in plain language so you can see what happens to information. It is not legal advice, and it does not create a lawyer-client relationship.</p>
+    <p>The person responsible for this website is <strong>Jose Santiago</strong>, Marshfield, Massachusetts, USA. Questions about this policy: <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a>. For South Africa’s POPIA, that address is also the information officer. For China’s PIPL and the EU and UK GDPR, that is the contact for the controller.</p>
 
     <h2>The short version</h2>
     <ul>
       <li>Reading and listening are free. No account, no ads, no paywall, and no analytics.</li>
+      <li>Opening the site in English does not send the page to Google. If you pick another language, that page is sent to Google Translate. Nothing is sent for translation otherwise.</li>
+      <li>The language you pick is saved only in this browser’s localStorage. It stays on your device.</li>
       <li>Until you sign in, bookmarks, highlights, your reading place, your listening place, and reading settings stay in this browser. They are not sent to a server.</li>
-      <li>Signing in is optional. The sign-in screen says what will sync. If you sign in, that information is copied to your account at Google Firebase and merged with what is already there, so another device can use it.</li>
-      <li>You can save a backup file with no account. Restoring a file merges it into this device. The file is yours. We do not upload it.</li>
-      <li>The sign-in session is stored only in this browser. Signing out asks whether to keep or remove this device’s copy. Deleting the account removes the server copy and this device’s copy.</li>
+      <li>Signing in is optional. If you sign in, that information is copied to your account at Google Firebase.</li>
+      <li>The daily devotional email is optional. If you subscribe, Brevo stores the address only to send that email, and only after you confirm the link (double opt-in). You can unsubscribe any time.</li>
+      <li>A gift is never required. If you choose to donate, including through PayPal, PayPal processes the payment. The gift is not a purchase and is not tax-deductible.</li>
       <li>We do not sell personal information, and we do not share it for advertising.</li>
-      <li>The daily devotional email is optional. If you subscribe, your email address is stored with Brevo only to send that devotional. It is never sold, and you can unsubscribe any time.</li>
     </ul>
 
     <h2>Who this is about</h2>
-    <p>This policy covers the Clay Jar Translation website (the reader at this domain, including the downloads of the translation text). The text is © 2026 Jose Santiago, licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source. The downloads are that text, not your account.</p>
+    <p class="notranslate" translate="no">This policy covers the Clay Jar Translation website (the reader at this domain, including the downloads of the translation text). The text is © 2026 Jose Santiago, licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source. The downloads are that text, not your account. English is the official text. A machine translation is not.</p>
 
     <h2>What stays on your device</h2>
     <p>With no account, the site stores these in the browser on that device only:</p>
@@ -48,21 +60,33 @@
       <li>Reading place</li>
       <li>Listening place and listening settings (speed, voice choice, whether to continue into the next chapter)</li>
       <li>Reading settings such as text size, light or dark mode, and whether footnotes are shown</li>
+      <li>The language you picked, if you picked one, under the localStorage key <code>cjt-lang</code></li>
     </ul>
-    <p>That copy is not uploaded. You can export it as a JSON file from Bookmarks → Backup, and from the Account screen when sign-in is turned on. Importing a file merges it with what is already on the device: existing items are kept, and a newer reading place or setting wins. A backup file you saved is under your control. We cannot delete a file you stored somewhere else.</p>
+    <p>That copy is not uploaded. We do not set a cookie to remember the language. You can export bookmarks as a JSON file from Bookmarks → Backup, and from the Account screen when sign-in is turned on. Importing a file merges it with what is already on the device. A backup file you saved is under your control.</p>
+
+    <h2>Language and Google Translate</h2>
+    <p>The language menu is off until you use it. Loading a page in English does not load a Google script and does not send the page to Google for translation.</p>
+    <p>If you choose a language other than English, the site opens the current page through Google’s website translator. Google then receives:</p>
+    <ul>
+      <li>The page address, including the path, query, and hash (for example the chapter you were reading)</li>
+      <li>The page content Google fetches or that the page sends so the words can be translated</li>
+      <li>Your IP address and ordinary browser data (such as browser type) that Google receives with that request</li>
+    </ul>
+    <p>Google’s own privacy policy is at <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>. Google may process that request in the United States and other countries. We do not control Google’s later use of what Google receives. Choosing a language is the consent for that transfer. Choosing English again, or clearing this site’s data in the browser, stops further translation requests from this device. The saved choice never leaves the device except as part of opening the translated view you asked for.</p>
+    <p>A machine translation can be wrong. The English Clay Jar Translation on this site is the official text. The copyright and trademark notices stay in English on purpose.</p>
 
     <h2>What syncs if you sign in</h2>
-    <p>Nothing in the list above is sent until you choose to sign in. The sign-in screen states this before you continue. Signing in is the opt-in.</p>
+    <p>Nothing in the reading list above is sent until you choose to sign in. The sign-in screen states this before you continue. Signing in is the opt-in.</p>
     <p>After you sign in, the site stores, in a Google Firebase project, tied to your sign-in:</p>
     <ul>
       <li>The account identifier Firebase assigns (a uid)</li>
       <li>The email address, if you use Google or email</li>
-      <li>A phone number only if the owner later turns phone sign-in on and you use it. Phone sign-in is off. It is not part of the free setup, because text messages cost money.</li>
+      <li>A phone number only if phone sign-in is later turned on and you use it. Phone sign-in is off.</li>
       <li>Your display name, if the provider sends one</li>
       <li>Bookmarks, highlights, reading place, listening place, and reading settings</li>
     </ul>
-    <p>The first sign-in on a device merges what is already on that device with what is already in the account. A deletion on one device is kept, so an older copy does not put it back. The sign-in session itself stays in this browser only (Firebase local persistence). It is not a cookie we share with other sites, and we do not run a separate session server.</p>
-    <p>Signing out asks you to keep the copy on this device, or to remove bookmarks, highlights, reading place, and listening place from this device. Text size and appearance stay either way. Signing out does not delete the account. “Delete my data and account” removes the Firebase copy and the bookmarks, highlights, and places on this device. That cannot be undone. A backup file you already saved is untouched.</p>
+    <p>The language choice is not part of the synced account. The first sign-in on a device merges what is already on that device with what is already in the account. The sign-in session itself stays in this browser only (Firebase local persistence). It is not a cookie we share with other sites.</p>
+    <p>Signing out asks you to keep the copy on this device, or to remove bookmarks, highlights, reading place, and listening place from this device. Text size and appearance stay either way. “Delete my data and account” removes the Firebase copy and the bookmarks, highlights, and places on this device.</p>
 
     <h2>What we do not do</h2>
     <ul>
@@ -71,58 +95,76 @@
       <li>No analytics and no tracking pixels on this website.</li>
       <li>We do not require an account to read or listen.</li>
       <li>We do not sell the devotional list, and we do not use it for ads.</li>
+      <li>We do not send the page to Google Translate unless you pick a non-English language.</li>
     </ul>
 
     <h2>Daily devotional by email</h2>
-    <p>You can ask to receive the day’s devotional by email. This is separate from reading. Opening the site does not sign you up. The form stays hidden until the owner connects it, and it does not load an outside script onto this page.</p>
-    <p>If you subscribe, you type your email address into the form. The form sends that address to <strong>Brevo</strong>, the company that keeps the list and sends the message. Brevo then emails you a confirmation link. You are not on the list until you tap that link. The address is stored with Brevo only to send the devotional. It is never sold. It is not used for advertising. You can unsubscribe any time from the link in each email. You can also write to <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a> and ask to be removed.</p>
-    <p>The message goes out around 4:00 in the morning, US Eastern time. It contains that day’s title, verse, reflection, and prayer, plus a link back to the devotional page. Bookmarks, highlights, and your reading place are not part of it. Brevo may record that a message was delivered. We do not use that for ads, and we do not sell it.</p>
+    <p>You can ask to receive the day’s devotional by email. This is separate from reading. Opening the site does not sign you up. The form stays hidden until it is connected, and subscribing does not load an outside script onto this page for people who do not use the form.</p>
+    <p>If you subscribe, you type your email address into the form. The form sends that address to <strong>Brevo</strong> (the company that keeps the list and sends the message). Brevo then emails you a confirmation link. You are not on the list until you tap that link. That is double opt-in. The address is stored with Brevo only to send the devotional. It is never sold. It is not used for advertising. You can unsubscribe any time from the link in each email. You can also write to <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a> and ask to be removed.</p>
+    <p>The message goes out around 4:00 in the morning, US Eastern time. It contains that day’s title, verse, reflection, and prayer, plus a link back to the devotional page. Bookmarks, highlights, and your reading place are not part of it. Brevo may record that a message was delivered. We do not use that for ads, and we do not sell it. Brevo’s privacy policy is at <a href="https://www.brevo.com/legal/privacypolicy/">https://www.brevo.com/legal/privacypolicy/</a>.</p>
+
+    <h2>Donations</h2>
+    <p>Reading is free. A donation is never required, and the site does not withhold the Bible if you do not give. If you choose to send a gift, including through <strong>PayPal</strong>, PayPal processes that payment under PayPal’s own terms and privacy policy: <a href="https://www.paypal.com/legalhub/privacy-full">https://www.paypal.com/legalhub/privacy-full</a>. PayPal receives the payment details you enter on PayPal’s side. We do not receive your full card number through this website. A gift is not a purchase of the text, not a fee for an account, and not tax-deductible. Jose Santiago is not a 501(c)(3) organization. See the Terms of Service for what a gift is.</p>
 
     <h2>Who processes information</h2>
     <p>These are the processors. We do not send them your bookmarks unless you sign in, and we never send them an ad profile because we do not make one.</p>
     <ul>
-      <li><strong>Google Firebase</strong> (Authentication and Firestore), only if you sign in. Account data and the synced reading information live there. The project owner chooses the database region when they create it.</li>
-      <li><strong>GitHub Pages</strong> hosts this website and the download files of the translation. That is the site itself, not your account. A scheduled job on GitHub sends the day’s devotional through Brevo when the email list is turned on. That job does not receive your address. Brevo does.</li>
-      <li><strong>Brevo</strong> stores the email address of a person who subscribes to the daily devotional, and sends that email, including the unsubscribe link. Brevo does not receive bookmarks, highlights, or a reading place. If you never subscribe, Brevo receives nothing about you.</li>
-      <li><strong>Hugging Face</strong> hosts the recorded and dramatized audio files of the translation. Those files are the CC BY 4.0 reading, not your listening place. Your listening place stays on the device unless you sign in.</li>
+      <li><strong>Google Translate</strong>, only if you pick a non-English language. Google receives the page address, the page content needed to translate it, and your IP address and browser data. <a href="https://policies.google.com/privacy">Google’s privacy policy</a>.</li>
+      <li><strong>Google Firebase</strong> (Authentication and Firestore), only if you sign in. Account data and the synced reading information live there.</li>
+      <li><strong>GitHub Pages</strong> hosts this website and the download files. A scheduled job on GitHub sends the day’s devotional through Brevo when the email list is turned on. That job does not receive your address. Brevo does.</li>
+      <li><strong>Brevo</strong> stores the email address of a person who subscribes to the daily devotional, after they confirm, and sends that email, including the unsubscribe link. If you never subscribe, Brevo receives nothing about you.</li>
+      <li><strong>Hugging Face</strong> hosts the recorded and dramatized audio files. Those files are the reading, not your listening place. Your listening place stays on the device unless you sign in.</li>
+      <li><strong>PayPal</strong>, only if you choose to donate through PayPal. PayPal processes the payment. If you never donate, PayPal receives nothing from this site about you.</li>
     </ul>
 
     <h2>How long it is kept</h2>
-    <p>Information on the device stays until you clear the site’s data in the browser, sign out and choose to remove it, or delete the account (which also clears bookmarks, highlights, and places on that device). Information in Firebase stays until you delete the account or you ask us, at the contact address, to delete it. If you subscribe to the daily devotional, that email address stays at Brevo until you unsubscribe or you ask us, at <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a>, to remove it. This website does not keep its own copy of that list.</p>
+    <p>Information on the device stays until you clear the site’s data in the browser, sign out and choose to remove it, or delete the account. The language choice stays until you choose English or clear the site’s data. Information in Firebase stays until you delete the account or you ask us to delete it. A devotional address stays at Brevo until you unsubscribe or you ask us to remove it. A PayPal payment record stays under PayPal’s own retention rules. This website does not keep its own copy of the donation list or the email list.</p>
 
     <h2>Children</h2>
-    <p>The site is a Bible reader for a general audience. You do not give personal information to read. Do not create an account, and do not subscribe to the devotional email, if you are under 13, or under the age your country requires for this kind of account (in parts of Europe that can be 16). We do not knowingly collect personal information from children. If we learn an account or a devotional subscription belongs to a child under the age that applies, we will delete it. Write to the contact address if you believe that has happened. This is how we approach the U.S. Children’s Online Privacy Protection Act (COPPA) and similar age rules. It is not a statement that every country’s rule is identical.</p>
+    <p>The site is a Bible reader for a general audience. You do not give personal information to read. Do not create an account, do not subscribe to the devotional email, and do not donate if you are under 13, or under the age your country requires for this kind of account (in parts of Europe that can be 16). Choosing a language sends the page address and content to Google, which receives the IP address of the device. We do not knowingly collect personal information from children. If we learn an account, a devotional subscription, or a donation belongs to a child under the age that applies, we will delete what we can and ask the processor to delete it. Write to the contact address if you believe that has happened.</p>
 
     <h2>Laws people ask about</h2>
     <p>The paragraphs below describe, in ordinary words, how this site lines up with laws readers often ask about. They are not a claim that a regulator has reviewed this page, and they are not legal advice. Where a law gives you a right, you can use the contact address. You can also complain to your own authority. We will not charge you or cut off the free Bible because you asked.</p>
 
     <h3>GDPR and UK GDPR</h3>
-    <p>If those laws apply, the lawful basis for the account is the service you asked for by signing in: storing and syncing the reading information listed above (contract). We do not process that information for reading while you are signed out, because it stays on your device. If you subscribe to the devotional email, the lawful basis for that address is your consent. You can withdraw it by unsubscribing, or by writing to the contact address. Withdrawing it does not affect reading the Bible here. You can ask to access information, correct it, delete it, restrict it, or object, and you can take a copy (the backup file is the portable copy of what syncs). You can complain to a supervisory authority. In the UK that is the ICO. In the EU it is the authority in your country.</p>
+    <p>If those laws apply, Jose Santiago is the controller. The lawful basis for an account is the service you asked for by signing in (contract). The lawful basis for a devotional email address is your consent, given when you subscribe and confirm the link. You can withdraw it by unsubscribing. The lawful basis for sending a page to Google Translate is your consent, given when you pick a language. You withdraw it by choosing English or clearing this site’s data. Withdrawing consent does not affect reading the English text. You can ask to access information, correct it, delete it, restrict it, or object, and you can take a copy. You can complain to a supervisory authority. In the UK that is the ICO. In the EU it is the authority in your country. You can also use the European Data Protection Board’s list of authorities. These rights are not waived by the Terms of Service.</p>
 
     <h3>CCPA / CPRA (California)</h3>
-    <p>We do not sell personal information. We do not share it for cross-context behavioral advertising. You can ask what we hold, ask us to correct it, and ask us to delete it. You will not be treated differently for asking. The free reader stays free either way.</p>
+    <p>We do not sell personal information. We do not share it for cross-context behavioral advertising. Sending a page to Google Translate because you asked for a translation, or sending an email address to Brevo because you subscribed, or sending a payment to PayPal because you donated, is not a sale and is not “sharing” for ads. You can ask what we hold, ask us to correct it, and ask us to delete it. You will not be treated differently for asking. The free reader stays free either way.</p>
 
     <h3>LGPD (Brazil)</h3>
-    <p>If the LGPD applies, the basis for account data is the sync you requested. You can ask for confirmation, access, correction, anonymization, deletion, portability, and information about who else processes it. You can revoke the choice to sync by signing out and deleting the account.</p>
+    <p>If the LGPD applies, the basis for account data is the sync you requested. The basis for a devotional address and for a translation request is your consent. You can ask for confirmation, access, correction, anonymization, deletion, portability, and information about who else processes it. You can revoke consent by unsubscribing, choosing English, signing out, and deleting the account.</p>
 
     <h3>PIPEDA (Canada)</h3>
-    <p>If PIPEDA applies, we take responsibility for the account information we actually hold, we ask you to sign in before it leaves the device, and you can ask for access and correction at the contact address.</p>
+    <p>If PIPEDA applies, we take responsibility for the account, email, and donation information we actually hold. We ask before reading information leaves the device, before an address is stored for the devotional, and before a page is sent to Google Translate. You can ask for access and correction at the contact address. Quebec’s consumer rules are also described in the Terms of Service. They are not waived here.</p>
+
+    <h3>PIPL (China)</h3>
+    <p>If the Personal Information Protection Law applies, the purpose of a translation request is to show this page in the language you picked. The overseas recipient is Google. The purpose of an account is the sync you asked for. The overseas recipient is Google Firebase. The purpose of a devotional subscription is that email. The overseas recipient may be Brevo. The purpose of a donation is the gift you chose to send. The overseas recipient is PayPal. Picking a language, signing in, subscribing, or donating is a separate act that starts that transfer. You can ask to access, copy, correct, or delete personal information we hold, and you can withdraw consent. Write to the contact address. We do not use personal information for automated decisions that affect your legal rights.</p>
+
+    <h3>APPI (Japan)</h3>
+    <p>If the Act on the Protection of Personal Information applies, a transfer to Google, Brevo, PayPal, GitHub, or Hugging Face is a transfer to a third party in a foreign country. Those companies publish their own privacy policies. The countries where they process data may not have a regime identical to Japan’s. You start a transfer only by signing in, subscribing, donating, or picking a language. You can ask for disclosure, correction, and deletion at the contact address.</p>
+
+    <h3>POPIA (South Africa)</h3>
+    <p>If POPIA applies, Jose Santiago is the responsible party and the information officer, reachable at <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a>. You can ask whether we hold information about you, ask for access, ask for a correction or deletion, and object to processing that POPIA lets you object to. You can complain to the Information Regulator. Cross-border processing (Google, Brevo, PayPal, GitHub, Hugging Face) happens only for the purpose you started: translation, the devotional, a gift, hosting, or audio.</p>
 
     <h3>Australia’s Privacy Act</h3>
-    <p>If the Australian Privacy Principles apply, you can ask for access to, and correction of, the account information we hold. You can complain to us first, and you can complain to the Office of the Australian Information Commissioner (OAIC).</p>
+    <p>If the Australian Privacy Principles apply, you can ask for access to, and correction of, the information we hold. You can complain to us first, and you can complain to the Office of the Australian Information Commissioner (OAIC). Overseas recipients are named in the processor list above.</p>
 
     <h2>International transfers</h2>
-    <p>GitHub Pages and Hugging Face may store the public site and the public audio in the United States or other countries. If you sign in, Firebase stores the account in the region the project owner selected, and Google may process it in other countries under Google’s own terms and safeguards. We do not run an extra transfer of your bookmarks beyond that. A backup file moves only where you send it. If you subscribe, Brevo may store the email address in the European Union or another country where Brevo operates, under Brevo’s own terms. That address is still only for the devotional.</p>
+    <p>GitHub Pages and Hugging Face may store the public site and the public audio in the United States or other countries. If you sign in, Firebase stores the account in the region the project owner selected, and Google may process it in other countries under Google’s own terms. If you pick a language, Google Translate may process the page in the United States or another country. If you subscribe, Brevo may store the email address in the European Union or another country where Brevo operates. If you donate through PayPal, PayPal may process the payment in the United States or another country where PayPal operates. We do not run an extra transfer of your bookmarks beyond the sync you asked for. A backup file moves only where you send it.</p>
 
     <h2>Changes to this policy</h2>
-    <p>If this policy changes, the date at the top changes and this page is the notice. For a change that affects an account, the sign-in screen will keep stating what syncs. Reading without an account does not depend on accepting a new use of personal information, because that reading still does not send it.</p>
+    <p>If this policy changes, the date at the top changes and this page is the notice. For a change that affects an account, the sign-in screen will keep stating what syncs. Reading the English text without an account does not depend on accepting a new use of personal information. A translation still happens only when you pick a language.</p>
 
     <h2>Contact</h2>
     <p>Email <a href="mailto:contact.clayjar@protonmail.com">contact.clayjar@protonmail.com</a>. Please do not send a password or a text-message code by email.</p>
     <p><a href="terms.html">Terms of Service</a> · <a href="./">Back to the reader</a></p>
   </main>
   <footer class="foot">
+    <p class="accept">By using this site you agree to the <a href="terms.html">Terms of Service</a> and the <a href="privacy.html">Privacy Policy</a>.</p>
     <p class="foot-links"><a href="./">Home</a> <a href="devotional.html">Devotional</a> <a href="downloads/">Downloads</a> <a href="terms.html">Terms</a> <a href="privacy.html">Privacy</a></p>
   </footer>
+  <script src="js/languages.js"></script>
+  <script src="js/language.js"></script>
 </body>
 </html>

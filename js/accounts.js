@@ -326,9 +326,13 @@
     var sel = $('#accountCountry');
     if (!sel || !window.CJT_PHONE) return;
     var list = window.CJT_PHONE.countries;
-    sel.innerHTML = list.map(function (c) {
-      return '<option value="' + c.iso + '">' + c.name.replace(/</g, '') + ' +' + c.dial + '</option>';
-    }).join('');
+    sel.textContent = '';
+    list.forEach(function (c) {
+      var opt = document.createElement('option');
+      opt.value = c.iso;
+      opt.textContent = c.name + ' +' + c.dial;
+      sel.appendChild(opt);
+    });
     var guess = window.CJT_PHONE.guessIso();
     if (list.some(function (c) { return c.iso === guess; })) sel.value = guess;
   }

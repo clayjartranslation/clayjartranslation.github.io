@@ -155,4 +155,20 @@ function state(partial) {
   assert.strictEqual(merged.settings.theme, 'dark');
 }
 
+// A hostile backup cannot smuggle a book id or a highlight color into markup.
+{
+  const merged = mergeState(state({}), state({
+    bookmarks: [bm('ok', 1, T(10), { text: '<img src=x onerror=alert(1)>' }), { id: 'bad<script>', book: 'genesis', name: 'Genesis', ch: 1, v: 2, text: 'x', t: T(10) }, { id: 'badbook', book: 'gen<img>', name: 'Genesis', ch: 1, v: 3, text: 'x', t: T(10) }],
+    highlights: [hl('h1', 0, 2, T(10), { color: 'yellow" onmouseover="alert(1)' })],
+    settings: { size: '19;background:url(//evil)', theme: 'dark"><script>', updatedAt: 5 },
+  }), now);
+  const live = visible(merged.bookmarks);
+  assert.strictEqual(live.length, 1);
+  assert.strictEqual(live[0].id, 'ok');
+  assert.strictEqual(live[0].text, '<img src=x onerror=alert(1)>');
+  assert.strictEqual(visible(merged.highlights).length, 0);
+  assert.strictEqual(merged.settings.size, 19);
+  assert.strictEqual(merged.settings.theme, 'auto');
+}
+
 console.log('sync-merge tests passed');

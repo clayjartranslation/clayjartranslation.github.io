@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self' https://*.sibforms.com; script-src 'self' 'sha256-XfiOjixlN6OMWa4rVzxY5TwF+kBlnWUkmTaaMqDpIjc=' https://clayjartranslation.github.io https://www.gstatic.com https://apis.google.com https://www.google.com; style-src 'self' https://clayjartranslation.github.io; img-src 'self' https://clayjartranslation.github.io data: blob:; font-src 'self' data:; connect-src 'self' https://clayjartranslation.github.io https://www.gstatic.com https://www.googleapis.com https://www.google.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://firestore.googleapis.com wss://firestore.googleapis.com https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co https://translate.googleapis.com; media-src 'self' blob: https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co; worker-src 'self' blob:; manifest-src 'self'; frame-src https://accounts.google.com https://*.firebaseapp.com https://*.web.app https://apis.google.com https://www.google.com https://recaptcha.google.com; upgrade-insecure-requests">
   <title>Clay Jar Translation™ (CJT)</title>
   <meta name="description" content="Clay Jar Translation™: a new English Bible translated from the oldest available witnesses. © 2026 Jose Santiago, CC BY 4.0.">
   <meta name="theme-color" content="#fff9eb" media="(prefers-color-scheme: light)">
@@ -16,18 +18,16 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="CJT Bible">
   <link rel="stylesheet" href="css/style.css">
-  <script>
-    // Apply saved reading settings before first paint (no flash of wrong theme).
-    (function () {
-      try {
-        var s = JSON.parse(localStorage.getItem('cjt-settings') || '{}');
-        var d = document.documentElement;
-        if (s.theme === 'dark' || s.theme === 'light') d.dataset.theme = s.theme;
-        if (s.size) d.style.setProperty('--read-size', s.size + 'px');
-        if (s.notes === false) d.classList.add('notes-off');
-      } catch (e) {}
-    })();
+  <script type="importmap">
+  {
+    "integrity": {
+      "https://www.gstatic.com/firebasejs/11.6.0/firebase-app.js": "sha384-P+iFrwsiok461zJMFNzaLCJ6d5taHsN2f/1LvJIbpS0rtmujFeLbSOgCXf/crZvt",
+      "https://www.gstatic.com/firebasejs/11.6.0/firebase-auth.js": "sha384-NsG72Fl71xNx6nswLdXSGXAbx1k12Jn+w88F/h3JEqZYqCJH2uBF8Vis2SlbwYfL",
+      "https://www.gstatic.com/firebasejs/11.6.0/firebase-firestore.js": "sha384-6QxeL5G6MDbdIGSX2HReBbwKEUGqiWqrrPjOdXy5yiS4yusI+qIuowuPhggbLsPm"
+    }
+  }
   </script>
+  <script src="js/boot.js"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -54,7 +54,15 @@
       <a href="#/" aria-current="page">Read</a>
       <a href="devotional.html">Devotional</a>
       <a href="downloads/">Downloads</a>
+      <div class="lang-switch">
+        <label class="lang-label" for="cjtLang">
+          <svg class="lang-globe" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.8 3.8 5.8 3.8 9s-1.3 6.2-3.8 9c-2.5-2.8-3.8-5.8-3.8-9s1.3-6.2 3.8-9z"/></svg>
+          <span class="lang-word">Language</span>
+        </label>
+        <select id="cjtLang" aria-label="Language" autocomplete="off"></select>
+      </div>
     </nav>
+    <p class="mt-notice" id="mtNotice" hidden>Machine translation by Google. The English text is the official Clay Jar Translation.</p>
   </header>
 
   <div class="sheet-backdrop settings-backdrop" id="settingsBackdrop" hidden></div>
@@ -188,12 +196,15 @@
   <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 
   <footer class="foot" id="foot">
-    <p><strong>Clay Jar Translation™ (CJT)</strong>. © 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”</p>
-    <p>Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.</p>
+    <p class="notranslate" translate="no"><strong>Clay Jar Translation™ (CJT)</strong>. © 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”</p>
+    <p class="notranslate" translate="no">Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.</p>
     <p class="foot-small">Draft 0.1, made with AI assistance and not yet reviewed by scholars. <a href="#/about/draft">Read the note on this draft</a>.</p>
+    <p class="accept">By using this site you agree to the <a href="terms.html">Terms of Service</a> and the <a href="privacy.html">Privacy Policy</a>.</p>
     <p class="foot-links"><a href="devotional.html">Devotional</a> <a href="downloads/">Downloads</a> <a href="terms.html">Terms of Service</a> <a href="privacy.html">Privacy Policy</a></p>
   </footer>
 
+  <script src="js/languages.js"></script>
+  <script src="js/language.js"></script>
   <script src="js/account-config.js"></script>
   <script src="js/devotional-email-config.js"></script>
   <script src="js/sync-merge.js"></script>

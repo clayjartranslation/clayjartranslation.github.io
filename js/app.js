@@ -12,7 +12,7 @@
   function readJSON(k) { try { return JSON.parse(localStorage.getItem(k) || '{}'); } catch (e) { return {}; } }
   const SETTING_DEFAULTS = { theme: 'auto', size: 19, notes: true, resume: false, rate: 1, voice: '', voiceName: '', autoNext: true, sleepChoice: 'off', sleepCustom: 20, narr: '', updatedAt: 0 };
   const savedSettings = readJSON('cjt-settings');
-  const settings = Object.assign({}, SETTING_DEFAULTS, savedSettings);
+  const settings = Object.assign({}, SETTING_DEFAULTS, window.CJT_SYNC ? window.CJT_SYNC.cleanSettings(savedSettings) : savedSettings);
   let syncSilent = 0;
   const syncListeners = new Set();
   function notifySync(reason) {
@@ -34,8 +34,11 @@
     }
   }
   function applySettings() {
-    if (settings.theme === 'auto') delete root.dataset.theme; else root.dataset.theme = settings.theme;
-    root.style.setProperty('--read-size', settings.size + 'px');
+    if (settings.theme === 'dark' || settings.theme === 'light') root.dataset.theme = settings.theme;
+    else delete root.dataset.theme;
+    var readSize = parseInt(settings.size, 10);
+    if (!(readSize >= 14 && readSize <= 30)) readSize = 19;
+    root.style.setProperty('--read-size', readSize + 'px');
     root.classList.toggle('notes-off', !settings.notes);
     $('#sizeOut').textContent = settings.size;
     $('#notesToggle').checked = settings.notes;
@@ -146,7 +149,7 @@
     const totalCh = cat.books.reduce((n, b) => n + (parseInt(b.chapterCount, 10) || 0), 0);
     const doneCh = cat.books.reduce((n, b) => n + b.translated.length, 0);
     const first = done[0];
-    const last = readJSON('cjt-last');
+    const last = (window.CJT_SYNC && window.CJT_SYNC.normalize({ reading: readJSON('cjt-last') }).reading) || {};
     setTitle('');
     const prayerHtml = prayer.blocks.filter((b) => b.type === 'text').map((b) => `<p>${esc(b.text)}</p>`).join('');
     render(`
@@ -176,7 +179,7 @@
           </p>
           <input type="hidden" name="locale" value="en">
           <button class="btn primary" type="submit">Subscribe</button>
-          <p class="dev-email-note">After you subscribe, the sender asks you to confirm. Your address is used only for this devotional. <a href="privacy.html">Privacy</a></p>
+          <p class="dev-email-note">By subscribing you agree to the <a href="terms.html">Terms of Service</a> and the <a href="privacy.html">Privacy Policy</a>. After you subscribe, the sender asks you to confirm. Your address is used only for this devotional. You can unsubscribe any time.</p>
         </form>
       </section>
 
@@ -186,15 +189,15 @@
       </section>
 
       <section class="card progress" aria-labelledby="progTitle">
-        <h2 id="progTitle" style="margin:0;font-size:1.1rem">Progress</h2>
-        <p class="muted" style="margin:.35rem 0 0">${done.map((b) => `${esc(b.name)} ${rangeText(b.translated)}`).join(', ') || 'Nothing yet'} translated so far: ${doneCh} of about ${totalCh} chapters in ${cat.books.length} books.</p>
-        <div class="meter" role="img" aria-label="${doneCh} of about ${totalCh} chapters translated"><i style="width:${Math.max(1, (doneCh / totalCh) * 100).toFixed(2)}%"></i></div>
+        <h2 id="progTitle" class="h-tight">Progress</h2>
+        <p class="muted lead-tight">${done.map((b) => `${esc(b.name)} ${rangeText(b.translated)}`).join(', ') || 'Nothing yet'} translated so far: ${doneCh} of about ${totalCh} chapters in ${cat.books.length} books.</p>
+        <div class="meter" role="img" aria-label="${doneCh} of about ${totalCh} chapters translated"><i id="progMeter"></i></div>
       </section>
 
-      <section class="card share" aria-labelledby="shareTitle" style="margin-top:1.25rem">
-        <h2 id="shareTitle" style="margin:0;font-size:1.1rem">Download and share</h2>
-        <p class="muted" style="margin:.35rem 0 .75rem">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source. The full text is available here as files, and this site works offline once opened.</p>
-        <div class="cta" style="justify-content:flex-start;margin:0">
+      <section class="card share card-gap" aria-labelledby="shareTitle">
+        <h2 id="shareTitle" class="h-tight">Download and share</h2>
+        <p class="muted lead-tight-b notranslate" translate="no">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source. The full text is available here as files, and this site works offline once opened.</p>
+        <div class="cta cta-start">
           <button class="btn" type="button" id="shareBtn">Share this Bible</button>
           ${done.map((b) => `<a class="btn" href="${esc(b.file)}" download>Download ${esc(b.name)} (JSON)</a>`).join('')}
         </div>
@@ -206,6 +209,8 @@
         <li><a href="#/about/approach">How we translate <span>word for word, thought for thought</span></a></li>
         <li><a href="#/about/draft">A note on this draft <span>AI-assisted, awaiting review</span></a></li>
       </ul>`);
+    const bar = $('#progMeter');
+    if (bar && totalCh) bar.style.width = Math.max(1, (doneCh / totalCh) * 100).toFixed(2) + '%';
     $('#shareBtn').addEventListener('click', async () => {
       const data = { title: NAME + '™ (CJT)', text: 'Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0. https://creativecommons.org/licenses/by/4.0/', url: location.href.split('#')[0] };
       if (navigator.share) { try { await navigator.share(data); } catch (e) {} return; }
@@ -426,7 +431,10 @@
     const block = (b, level) => {
       switch (b.type) {
         case 'text': return `<p>${withLinks(b.text)}</p>`;
-        case 'callout': return `<div class="callout ${esc(b.tone)}" role="note"><strong>${esc(b.lead)}</strong><p>${withLinks(b.text)}</p></div>`;
+        case 'callout': {
+          const tone = b.tone === 'warning' || b.tone === 'info' || b.tone === 'note' ? b.tone : 'info';
+          return `<div class="callout ${tone}" role="note"><strong>${esc(b.lead)}</strong><p>${withLinks(b.text)}</p></div>`;
+        }
         case 'properties': return `<dl class="props">${b.items.map((i) => `<dt>${esc(i.label)}</dt><dd>${esc(i.value)}</dd>`).join('')}</dl>`;
         case 'steps': return `<ol class="steps">${b.steps.map((s) => `<li><b>${esc(s.title)}</b><span>${esc(s.detail)}</span></li>`).join('')}</ol>`;
         case 'table': return `<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="stack"><thead><tr>${b.columns.map((c) => `<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${b.rows.map((r) => `<tr>${r.map((c, i) => `<td${b.columns[i] ? ` data-label="${esc(b.columns[i])}"` : ''}>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
@@ -453,9 +461,19 @@
   // =====================================================================
   const COLORS = ['yellow', 'green', 'blue', 'pink'];
   const loadArr = (k) => { try { const a = JSON.parse(localStorage.getItem(k) || '[]'); return Array.isArray(a) ? a : []; } catch (e) { return []; } };
-  const store = { bm: loadArr('cjt-bookmarks'), hl: loadArr('cjt-highlights') };
+  function cleanLists(bm, hl) {
+    if (!window.CJT_SYNC) return { bm: bm, hl: hl };
+    const n = window.CJT_SYNC.normalize({ bookmarks: bm, highlights: hl });
+    return { bm: window.CJT_SYNC.visible(n.bookmarks), hl: window.CJT_SYNC.visible(n.highlights), allBm: n.bookmarks, allHl: n.highlights };
+  }
+  const loadedSaved = cleanLists(loadArr('cjt-bookmarks'), loadArr('cjt-highlights'));
+  const store = { bm: loadedSaved.bm, hl: loadedSaved.hl };
   const tombRaw = readJSON('cjt-tombstones');
-  const tomb = { bm: Array.isArray(tombRaw.bm) ? tombRaw.bm : [], hl: Array.isArray(tombRaw.hl) ? tombRaw.hl : [] };
+  const loadedTomb = cleanLists(Array.isArray(tombRaw.bm) ? tombRaw.bm : [], Array.isArray(tombRaw.hl) ? tombRaw.hl : []);
+  const tomb = {
+    bm: (loadedTomb.allBm || loadedTomb.bm).filter((b) => b.deleted),
+    hl: (loadedTomb.allHl || loadedTomb.hl).filter((h) => h.deleted),
+  };
   let readerCtx = null;       // { id, name, ch } for the chapter on screen
   let storeWarned = false;
   function persist() {
@@ -1365,7 +1383,7 @@
       .map(([k, l, n]) => `<a class="tab" href="#/saved/${k}" role="tab" aria-selected="${k === tab}">${l}${n === null ? '' : `<small>${n}</small>`}</a>`).join('');
     let body = '';
     if (tab === 'bookmarks') {
-      const last = readJSON('cjt-last');
+      const last = (window.CJT_SYNC && window.CJT_SYNC.normalize({ reading: readJSON('cjt-last') }).reading) || {};
       const items = store.bm.slice().sort(cmp).map((b) => {
         const ref = `${bookName(b.book, b.name)} ${b.ch}:${b.v}`;
         return `<li class="saved-item"><a class="saved-link" href="#/read/${encodeURIComponent(b.book)}/${b.ch}/${b.v}"><span class="ref">${esc(ref)}</span><span class="txt">${esc(b.text || '')}</span></a>
@@ -1375,7 +1393,8 @@
         <label class="switch resume-switch" for="resumeToggle2"><span class="setting-label">Open the app where I left off</span><input type="checkbox" id="resumeToggle2" role="switch"${settings.resume ? ' checked' : ''}><span class="track" aria-hidden="true"></span></label>
         ${items ? `<ul class="saved-list">${items}</ul>` : '<p class="empty">No bookmarks yet. While reading, tap a verse and then the ribbon button.</p>'}`;
     } else if (tab === 'highlights') {
-      const f = sessionStorage.getItem('cjt-hlfilter') || 'all';
+      const fRaw = sessionStorage.getItem('cjt-hlfilter') || 'all';
+      const f = fRaw === 'all' || COLORS.indexOf(fRaw) >= 0 ? fRaw : 'all';
       const chips = ['all'].concat(COLORS).map((c) => `<button type="button" class="chip${c === f ? ' on' : ''}" data-filter="${c}" aria-pressed="${c === f}">${c === 'all' ? 'All' : `<i class="dot hl-${c}"></i>${c[0].toUpperCase() + c.slice(1)}`}</button>`).join('');
       const items = store.hl.filter((h) => f === 'all' || h.color === f).sort(cmp).map((h) => {
         const ref = `${bookName(h.book, h.name)} ${h.ch}:${h.v}`;
@@ -1386,14 +1405,14 @@
         ${items ? `<ul class="saved-list">${items}</ul>` : `<p class="empty">${store.hl.length ? 'No highlights in this color.' : 'No highlights yet. While reading, select some words or tap a verse, then pick a color.'}</p>`}`;
     } else {
       body = `<p class="muted" id="bkLead">No account is needed. This file holds your bookmarks, highlights, reading place, listening place, and reading settings. Merging a file adds it to what is already on this device. Nothing is uploaded.</p>
-        <div class="cta" style="justify-content:flex-start;margin:1rem 0">
+        <div class="cta cta-backup">
           <button type="button" class="btn primary" id="expBtn">Save backup file</button>
           <button type="button" class="btn" id="shareBk" hidden>Share backup…</button>
           <label class="btn" for="impFile">Restore from file</label><input type="file" id="impFile" accept="application/json,.json" class="visually-hidden">
         </div>
         <details class="paste"><summary>Copy or paste backup text instead</summary>
           <textarea id="bkText" rows="5" spellcheck="false" aria-label="Backup text"></textarea>
-          <div class="cta" style="justify-content:flex-start;margin:.5rem 0 0"><button type="button" class="btn" id="copyBk">Copy backup text</button><button type="button" class="btn" id="pasteBk">Restore from this text</button></div>
+          <div class="cta cta-paste"><button type="button" class="btn" id="copyBk">Copy backup text</button><button type="button" class="btn" id="pasteBk">Restore from this text</button></div>
         </details>
         <p class="count" id="bkMsg" role="status" aria-live="polite">${store.bm.length} bookmark${store.bm.length === 1 ? '' : 's'} and ${store.hl.length} highlight${store.hl.length === 1 ? '' : 's'} saved on this device.</p>`;
     }
@@ -1422,8 +1441,10 @@
   });
   const backupText = () => JSON.stringify(backupData(), null, 1);
   function importData(text) {
+    if (typeof text !== 'string' || text.length > 1500000) return { err: 'That file is too large to restore.' };
     let d; try { d = JSON.parse(text); } catch (e) { return { err: 'That does not look like a backup file.' }; }
-    if (!d || d.format !== 'cjt-saved' || !Array.isArray(d.bookmarks) || !Array.isArray(d.highlights)) return { err: 'That file is not a Clay Jar Translation backup.' };
+    if (!d || typeof d !== 'object' || Array.isArray(d) || d.format !== 'cjt-saved' || !Array.isArray(d.bookmarks) || !Array.isArray(d.highlights)) return { err: 'That file is not a Clay Jar Translation backup.' };
+    if (d.bookmarks.length > 5000 || d.highlights.length > 8000) return { err: 'That file has more saved items than this reader can keep.' };
     if (!window.CJT_SYNC) return { err: 'This page could not merge the file.' };
     const local = exportSyncState();
     const incoming = { bookmarks: d.bookmarks, highlights: d.highlights, reading: d.lastRead || d.reading || null, audio: d.audio || null, settings: d.settings || null };
@@ -1473,7 +1494,7 @@
     if (!settings.resume || sessionStorage.getItem('cjt-resumed')) return;
     sessionStorage.setItem('cjt-resumed', '1');
     if (location.hash && location.hash !== '#' && location.hash !== '#/') return;
-    const l = readJSON('cjt-last');
+    const l = (window.CJT_SYNC && window.CJT_SYNC.normalize({ reading: readJSON('cjt-last') }).reading) || {};
     if (l.book && l.ch) history.replaceState(null, '', `#/read/${encodeURIComponent(l.book)}/${l.ch}${l.v > 1 ? '/' + l.v : ''}`);
   })();
 

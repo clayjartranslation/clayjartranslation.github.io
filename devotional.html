@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self' https://*.sibforms.com; script-src 'self' 'sha256-XfiOjixlN6OMWa4rVzxY5TwF+kBlnWUkmTaaMqDpIjc=' https://clayjartranslation.github.io https://www.gstatic.com https://apis.google.com https://www.google.com; style-src 'self' https://clayjartranslation.github.io; img-src 'self' https://clayjartranslation.github.io data: blob:; font-src 'self' data:; connect-src 'self' https://clayjartranslation.github.io https://www.gstatic.com https://www.googleapis.com https://www.google.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://firestore.googleapis.com wss://firestore.googleapis.com https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co https://translate.googleapis.com; media-src 'self' blob: https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co; worker-src 'self' blob:; manifest-src 'self'; frame-src https://accounts.google.com https://*.firebaseapp.com https://*.web.app https://apis.google.com https://www.google.com https://recaptcha.google.com; upgrade-insecure-requests">
   <title>Today's devotional · Clay Jar Translation</title>
   <meta name="description" content="A free daily devotional for the Clay Jar Translation. Today's reading, a short reflection, and a prayer. No ads and no tracking.">
   <meta name="theme-color" content="#fff9eb" media="(prefers-color-scheme: light)">
@@ -10,18 +12,7 @@
   <link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="icon" href="icons/favicon-48.png" sizes="48x48" type="image/png">
   <link rel="stylesheet" href="css/style.css">
-  <script>
-    // Apply saved reading settings before first paint (no flash of wrong theme).
-    (function () {
-      try {
-        var s = JSON.parse(localStorage.getItem('cjt-settings') || '{}');
-        var d = document.documentElement;
-        if (s.theme === 'dark' || s.theme === 'light') d.dataset.theme = s.theme;
-        if (s.size) d.style.setProperty('--read-size', s.size + 'px');
-        if (s.notes === false) d.classList.add('notes-off');
-      } catch (e) {}
-    })();
-  </script>
+  <script src="js/boot.js"></script>
 </head>
 <body>
   <a class="skip" href="#content">Skip to content</a>
@@ -33,7 +24,15 @@
       <a href="./">Read</a>
       <a href="devotional.html" aria-current="page">Devotional</a>
       <a href="downloads/">Downloads</a>
+      <div class="lang-switch">
+        <label class="lang-label" for="cjtLang">
+          <svg class="lang-globe" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.8 3.8 5.8 3.8 9s-1.3 6.2-3.8 9c-2.5-2.8-3.8-5.8-3.8-9s1.3-6.2 3.8-9z"/></svg>
+          <span class="lang-word">Language</span>
+        </label>
+        <select id="cjtLang" aria-label="Language" autocomplete="off"></select>
+      </div>
     </nav>
+    <p class="mt-notice" id="mtNotice" hidden>Machine translation by Google. The English text is the official Clay Jar Translation.</p>
   </header>
   <main id="content" class="prose" tabindex="-1">
     <p class="eyebrow">Clay Jar Translation</p>
@@ -51,7 +50,7 @@
         </p>
         <input type="hidden" name="locale" value="en">
         <button class="btn primary" type="submit">Subscribe</button>
-        <p class="dev-email-note" id="devEmailNote">After you subscribe, the sender asks you to confirm. Your address is used only for this devotional. <a href="privacy.html">Privacy</a></p>
+        <p class="dev-email-note" id="devEmailNote">By subscribing you agree to the <a href="terms.html">Terms of Service</a> and the <a href="privacy.html">Privacy Policy</a>. After you subscribe, the sender asks you to confirm. Your address is used only for this devotional. You can unsubscribe any time.</p>
       </form>
     </section>
     <article id="devotional" class="devotional" aria-busy="true" aria-labelledby="pageTitle">
@@ -60,14 +59,17 @@
     <noscript>
       <p>This page uses a script kept on this site to choose the reading for your date. It does not load anything from another site, and it does not track you.</p>
     </noscript>
-    <p class="dev-license"><a href="https://creativecommons.org/licenses/by/4.0/">Devotionals © 2026 Jose Santiago, licensed CC BY 4.0</a>.</p>
-    <p class="muted dev-license">Scripture is quoted from the Clay Jar Translation (CJT), © 2026 Jose Santiago, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+    <p class="dev-license notranslate" translate="no"><a href="https://creativecommons.org/licenses/by/4.0/">Devotionals © 2026 Jose Santiago, licensed CC BY 4.0</a>.</p>
+    <p class="muted dev-license notranslate" translate="no">Scripture is quoted from the Clay Jar Translation (CJT), © 2026 Jose Santiago, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
     <h2 id="archiveTitle">Archive</h2>
     <ul id="archive" class="archive"></ul>
   </main>
   <footer class="foot">
+    <p class="accept">By using this site you agree to the <a href="terms.html">Terms of Service</a> and the <a href="privacy.html">Privacy Policy</a>.</p>
     <p class="foot-links"><a href="./">Home</a> <a href="devotional.html">Devotional</a> <a href="downloads/">Downloads</a> <a href="terms.html">Terms</a> <a href="privacy.html">Privacy</a></p>
   </footer>
+  <script src="js/languages.js"></script>
+  <script src="js/language.js"></script>
   <script src="js/devotional-email-config.js"></script>
   <script src="js/devotional-email.js"></script>
   <script src="js/devotional.js"></script>
