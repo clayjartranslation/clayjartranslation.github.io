@@ -19,12 +19,12 @@
    on the Blaze plan. Text messages cost money, so leave this false on the
    free Spark plan. Google and email still work. */
 window.CJT_ACCOUNTS = {
-  apiKey: '',
-  authDomain: '',
-  projectId: '',
-  appId: '',
-  storageBucket: '',
-  messagingSenderId: '',
+  apiKey: 'AIzaSyDyLUz3OtUMcazzoLHMT4vi3lsdaL5QTSk',
+  authDomain: 'clayjar-bible.firebaseapp.com',
+  projectId: 'clayjar-bible',
+  appId: '1:504034531119:web:0170b2bda12275933af3da',
+  storageBucket: 'clayjar-bible.firebasestorage.app',
+  messagingSenderId: '504034531119',
   appleSignIn: false,
   phone: false,
 };

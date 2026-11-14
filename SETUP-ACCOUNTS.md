@@ -14,6 +14,8 @@ project. Do not change it while doing this.
 
 Time: about 20 minutes the first time.
 
+This has already been done on the Spark project `clayjar-bible`. Email/password and Google sign-in are on; Apple and phone stay off. The public web config is in `js/account-config.js`. The `/treasure/` path uses a different Spark project (`clayjar-treasure`); do not copy this config there.
+
 ## 1. Create the Firebase project
 
 1. Open <https://console.firebase.google.com> and sign in with the Google account that should own the project.
