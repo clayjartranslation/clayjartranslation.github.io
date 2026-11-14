@@ -166,6 +166,7 @@ If the list has no confirmed subscribers, the job stops without failing.
 - Subscribe opens an error. The form address is incomplete, or CAPTCHA or a required checkbox is turned on in Brevo. Fix the form in Brevo. Leave CAPTCHA off.
 - The person never appears on the list. They have not tapped the confirmation email yet. Double confirmation waits for that tap.
 - The morning job is red. Open it and read the last lines. The usual causes are: the sender is not verified, the API key was copied wrong or Brevo turned it off, or the list number does not match a list. Fix that and use a dry run first. A live run still only emails people in their 4 AM hour, and will not duplicate a send already marked on the contact.
+- A dry run or morning job says the API key is not authorized for Contacts. In Brevo, create or edit the API key so it can manage contacts (not only transactional email or campaigns). The job needs that to read time zones, skip unsubscribed addresses, and record `LAST_DEVO_DATE`. Until then, a dry run still prints a sample and sends nothing, and the hourly send cannot go out to the list.
 - More than 300 people are on the list. The free plan cannot email all of them in one day. The site itself stays free.
 
 The free plan may put a small Brevo note at the bottom of the email. That is expected. You do not need to pay to remove it.
