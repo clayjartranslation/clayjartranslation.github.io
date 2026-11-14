@@ -169,7 +169,7 @@
 
       <section class="card dev-email" data-devotional-email hidden aria-labelledby="devEmailHomeTitle">
         <h2 id="devEmailHomeTitle">Get it by email</h2>
-        <p>The day’s devotional, sent at 4:00 in the morning, US Eastern time. It is free. You confirm once, and you can unsubscribe any time.</p>
+        <p>The day’s devotional, sent at 4:00 in the morning in your time zone. It is free. You confirm once, and you can unsubscribe any time.</p>
         <form class="dev-email-form" method="post" action="" accept-charset="UTF-8" data-devotional-email-form>
           <label for="devEmailHome">Email address</label>
           <input id="devEmailHome" name="EMAIL" type="email" required autocomplete="email" inputmode="email" autocapitalize="none" autocorrect="off" spellcheck="false" maxlength="254" placeholder="you@example.com" enterkeyhint="go">
@@ -178,6 +178,7 @@
             <input id="devEmailHomeCheck" name="email_address_check" type="text" value="" tabindex="-1" autocomplete="off">
           </p>
           <input type="hidden" name="locale" value="en">
+          <input type="hidden" name="TIMEZONE" value="">
           <button class="btn primary" type="submit">Subscribe</button>
           <p class="dev-email-note">By subscribing you agree to the <a href="terms.html">Terms of Service</a> and the <a href="privacy.html">Privacy Policy</a>. After you subscribe, the sender asks you to confirm. Your address is used only for this devotional. You can unsubscribe any time.</p>
           <p class="dev-email-spam">After signing up, check your spam or junk folder for the confirmation email, and add <span class="notranslate" translate="no">contact.clayjar@protonmail.com</span> to your contacts so daily devotionals reach your inbox.</p>

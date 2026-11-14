@@ -23,6 +23,7 @@ function headerNav(file) {
   'privacy.html',
   'terms.html',
   'downloads/index.html',
+  'unsubscribe.html',
 ].forEach(headerNav);
 
 assert.ok(builder.includes('class="site-nav"'), 'download builder must write the top nav');
