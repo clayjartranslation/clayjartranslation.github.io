@@ -52,6 +52,19 @@ function typstEsc(s) {
     return t;
   }).join('\n');
 }
+function typstNote(ch, m) {
+  const note = (ch.notes || []).find((n) => n.m === m);
+  if (!note) return `#super[${typstEsc(m)}]`;
+  const body = '(' + typstEsc(note.ref) + ') ' + typstEsc(note.text);
+  return `#footnote(numbering: (..) => "${m}")[${body}]`;
+}
+function typstMarked(text, ch) {
+  return String(text).split(/(\{[a-z]+\})/g).map((part) => {
+    const mm = part.match(/^\{([a-z]+)\}$/);
+    if (mm) return typstNote(ch, mm[1]);
+    return typstEsc(part);
+  }).join('');
+}
 function plain(s) { return String(s).replace(/\{[a-z]+\}/g, '').replace(/\s+/g, ' ').trim(); }
 
 function loadBooks() {
@@ -206,8 +219,17 @@ with zipfile.ZipFile(out, 'w', compression=zipfile.ZIP_DEFLATED) as z:
   return zip;
 }
 
+function htmlNoteRef(bookId, ch, m) {
+  const id = 'fn-' + bookId + '-' + ch.n + '-' + m;
+  const refid = 'fnref-' + bookId + '-' + ch.n + '-' + m;
+  // Letter markers, not doc-noteref: Pandoc would otherwise renumber them 1, 2, 3.
+  return `<sup class="fn"><a href="#${id}" id="${refid}" epub:type="noteref">${m}</a></sup>`;
+}
+function htmlMarked(text, bookId, ch) {
+  return htmlEsc(text).replace(/\{([a-z]+)\}/g, (_, m) => htmlNoteRef(bookId, ch, m));
+}
 function htmlVerse(bookId, ch, v) {
-  const text = htmlEsc(v.text).replace(/\{([a-z]+)\}/g, (_, m) => `<sup class="fn">${m}</sup>`).replace(/\n/g, '<br>');
+  const text = htmlMarked(v.text, bookId, ch).replace(/\n/g, '<br>');
   return `<sup class="v">${v.v}</sup> ${text}`;
 }
 
@@ -232,8 +254,8 @@ function writeHtml(books) {
     body.push('</ol></div>');
     for (const ch of full.chapters || []) {
       body.push(`<h2 id="${bid}-c${ch.n}">Chapter ${ch.n}</h2>`);
-      if (ch.heading) body.push(`<p class="ch-heading">${htmlEsc(ch.heading)}</p>`);
-      if (ch.title) body.push(`<p class="ch-title">${htmlEsc(ch.title).replace(/\{([a-z]+)\}/g, '<sup>$1</sup>')}</p>`);
+      if (ch.heading) body.push(`<p class="ch-heading">${htmlMarked(ch.heading, meta.id, ch)}</p>`);
+      if (ch.title) body.push(`<p class="ch-title">${htmlMarked(ch.title, meta.id, ch)}</p>`);
       let first = true;
       for (const group of chapterParagraphs(ch)) {
         const poetry = group.some((v) => String(v.text).includes('\n'));
@@ -246,17 +268,19 @@ function writeHtml(books) {
         first = false;
       }
       if (ch.notes && ch.notes.length) {
-        body.push('<ol class="notes">');
+        body.push('<div class="notes">');
         for (const n of ch.notes) {
-          body.push(`<li><sup>${htmlEsc(n.m)}</sup> ${htmlEsc(n.ref)} ${htmlEsc(n.text)}</li>`);
+          const id = 'fn-' + meta.id + '-' + ch.n + '-' + n.m;
+          const refid = 'fnref-' + meta.id + '-' + ch.n + '-' + n.m;
+          body.push(`<div id="${id}" class="fn" epub:type="footnote"><p><a href="#${refid}"><sup>${htmlEsc(n.m)}</sup></a> ${htmlEsc(n.ref)} ${htmlEsc(n.text)}</p></div>`);
         }
-        body.push('</ol>');
+        body.push('</div>');
       }
     }
     if (full.sourceNote) body.push(`<p class="source">${htmlEsc(full.sourceNote)}</p>`);
   }
   const html = `<!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
 <meta charset="utf-8">
 <title>Clay Jar Translation</title>
@@ -288,6 +312,7 @@ function writeTypst(books) {
   out.push(`#set text(font: "Libertinus Serif", size: 11pt, lang: "en")`);
   out.push(`#set page(width: 5.5in, height: 8.5in, margin: (inside: 0.7in, outside: 0.55in, top: 0.72in, bottom: 0.65in), numbering: "1")`);
   out.push(`#set par(justify: true, leading: 0.68em, spacing: 0.72em, first-line-indent: 0pt)`);
+  out.push(`#show footnote.entry: set text(size: 8.5pt)`);
   out.push(`#let vn(n) = super(text(size: 0.62em, weight: "bold", fill: rgb("#6b3a22"))[#n])`);
   out.push(`#show heading.where(level: 1): it => { pagebreak(weak: true); v(1.2em); align(center, text(size: 22pt, weight: "bold", it.body)); v(0.8em) }`);
   out.push(`#align(center)[
@@ -311,8 +336,9 @@ function writeTypst(books) {
     out.push(`#align(center)[#emph[${typstEsc(full.division || '')}]]`);
     for (const ch of full.chapters || []) {
       out.push(`== Chapter ${ch.n}`);
-      if (ch.heading) out.push(`#align(center)[#smallcaps[${typstEsc(ch.heading)}]]`);
-      if (ch.title) out.push(`#align(center)[#emph[${typstEsc(String(ch.title).replace(/\{[a-z]+\}/g, ''))}]]`);
+      out.push('#counter(footnote).update(0)');
+      if (ch.heading) out.push(`#align(center)[#smallcaps[${typstMarked(ch.heading, ch)}]]`);
+      if (ch.title) out.push(`#align(center)[#emph[${typstMarked(ch.title, ch)}]]`);
       for (const group of chapterParagraphs(ch)) {
         const poetry = group.some((v) => String(v.text).includes('\n'));
         if (poetry) {
@@ -320,35 +346,18 @@ function writeTypst(books) {
             if (ch.subheads && ch.subheads[v.v]) out.push(`#emph[${typstEsc(ch.subheads[v.v])}]`);
             const lines = String(v.text).split('\n');
             const bits = lines.map((line, i) => {
-              const marked = line.split(/(\{[a-z]+\})/g).map((part) => {
-                const mm = part.match(/^\{([a-z]+)\}$/);
-                if (mm) return `#super[${mm[1]}]`;
-                return typstEsc(part);
-              }).join('');
-              return (i === 0 ? `#vn(${v.v}) ` : '#h(1.1em) ') + marked;
+              return (i === 0 ? `#vn(${v.v}) ` : '#h(1.1em) ') + typstMarked(line, ch);
             });
             out.push(bits.join(' \\\n'));
           }
         } else {
           const sentence = group.map((v) => {
             const sub = ch.subheads && ch.subheads[v.v] ? `#emph[${typstEsc(ch.subheads[v.v])}] ` : '';
-            const marked = String(v.text).split(/(\{[a-z]+\})/g).map((part) => {
-              const mm = part.match(/^\{([a-z]+)\}$/);
-              if (mm) return `#super[${mm[1]}]`;
-              return typstEsc(part);
-            }).join('');
-            return sub + `#vn(${v.v}) ` + marked;
+            return sub + `#vn(${v.v}) ` + typstMarked(v.text, ch);
           }).join(' ');
           out.push(sentence);
           out.push('');
         }
-      }
-      if (ch.notes && ch.notes.length) {
-        out.push('#v(0.4em)');
-        out.push('#text(size: 9pt)[');
-        out.push('#strong[Notes]');
-        for (const n of ch.notes) out.push(`- ${typstEsc(n.m)} (${typstEsc(n.ref)}) ${typstEsc(n.text)}`);
-        out.push(']');
       }
     }
   }
@@ -384,6 +393,13 @@ function writePage(files) {
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self' https://*.sibforms.com; script-src 'self' 'sha256-XfiOjixlN6OMWa4rVzxY5TwF+kBlnWUkmTaaMqDpIjc=' https://clayjartranslation.github.io https://www.gstatic.com https://apis.google.com https://www.google.com; style-src 'self' https://clayjartranslation.github.io; img-src 'self' https://clayjartranslation.github.io data: blob:; font-src 'self' data:; connect-src 'self' https://clayjartranslation.github.io https://www.gstatic.com https://www.googleapis.com https://www.google.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://firestore.googleapis.com wss://firestore.googleapis.com https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co https://translate.googleapis.com; media-src 'self' blob: https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co; worker-src 'self' blob:; manifest-src 'self'; frame-src https://accounts.google.com https://*.firebaseapp.com https://*.web.app https://apis.google.com https://www.google.com https://recaptcha.google.com; upgrade-insecure-requests">
   <title>Downloads · Clay Jar Translation</title>
   <meta name="description" content="Free downloads of the whole Clay Jar Translation: PDF, EPUB, JSON, plain text, and USFM. © 2026 Jose Santiago, CC BY 4.0.">
+  <link rel="canonical" href="https://clayjartranslation.github.io/downloads/">
+  <meta property="og:title" content="Downloads · Clay Jar Translation">
+  <meta property="og:description" content="Free downloads of the whole Clay Jar Translation: PDF, EPUB, JSON, plain text, and USFM. © 2026 Jose Santiago, CC BY 4.0.">
+  <meta property="og:url" content="https://clayjartranslation.github.io/downloads/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://clayjartranslation.github.io/icons/cjt-logo-720.jpg">
+  <meta property="og:site_name" content="Clay Jar Translation">
   <link rel="icon" href="../icons/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="icon" href="../icons/favicon-48.png" sizes="48x48" type="image/png">
   <link rel="stylesheet" href="../css/style.css">
@@ -425,7 +441,7 @@ function writePage(files) {
     <p>The JSON file is one object per book, chapter, and verse. The shape is described in <a href="SCHEMA.md">SCHEMA.md</a>. The plain-text file is for search and print scripts. The USFM zip is one file per book for translation tools that read USFM.</p>
     <p>These files are rebuilt from the site’s book data when the text changes. <a href="../terms.html">Terms</a> · <a href="../privacy.html">Privacy</a> · <a href="../">Back to the reader</a></p>
   </main>
-  <footer class="foot"><p class="accept">By using this site you agree to the <a href="../terms.html">Terms of Service</a> and the <a href="../privacy.html">Privacy Policy</a>.</p><p class="foot-links"><a href="../">Home</a> <a href="../devotional.html">Devotional</a> <a href="./">Downloads</a> <a href="../terms.html">Terms</a> <a href="../privacy.html">Privacy</a></p></footer>
+  <footer class="foot"><p class="accept">By using this site you agree to the <a href="../terms.html">Terms of Service</a> and the <a href="../privacy.html">Privacy Policy</a>.</p><p class="foot-links"><a href="../">Home</a> <a href="../devotional.html">Devotional</a> <a href="./">Downloads</a> <a href="../how-to-use.html">How to use</a> <a href="../terms.html">Terms</a> <a href="../privacy.html">Privacy</a></p></footer>
   <script src="../js/languages.js"></script>
   <script src="../js/language.js"></script>
 </body>
@@ -468,8 +484,8 @@ function main() {
   console.log('PDF…');
   run('typst', ['compile', '--root', WORK, typ, path.join(OUT, 'clay-jar-translation.pdf')]);
   const files = [
-    { path: path.join(OUT, 'clay-jar-translation.pdf'), name: 'clay-jar-translation.pdf', title: 'Full Bible PDF', detail: 'Readable pages, a contents list of every book, and PDF bookmarks for each book and chapter. Verse numbers are in the text. Footnotes sit at the end of each chapter.' },
-    { path: path.join(OUT, 'clay-jar-translation.epub'), name: 'clay-jar-translation.epub', title: 'EPUB', detail: 'EPUB 3 with a navigation document. Each book is its own section, with a chapter list at the start of the book and in the contents.' },
+    { path: path.join(OUT, 'clay-jar-translation.pdf'), name: 'clay-jar-translation.pdf', title: 'Full Bible PDF', detail: 'Readable pages, a contents list of every book, and PDF bookmarks for each book and chapter. Verse numbers are in the text. Footnotes sit at the bottom of the same page as their letters.' },
+    { path: path.join(OUT, 'clay-jar-translation.epub'), name: 'clay-jar-translation.epub', title: 'EPUB', detail: 'EPUB 3 with a navigation document. Each book is its own section, with a chapter list at the start of the book and in the contents. Footnotes are linked from their letters; many reading apps show them as popups, and a notes list also sits at the end of each chapter.' },
     { path: path.join(OUT, 'clay-jar-translation.json'), name: 'clay-jar-translation.json', title: 'JSON', detail: 'Book, chapter, and verse structure, plus footnotes. See SCHEMA.md.' },
     { path: path.join(OUT, 'clay-jar-translation.txt'), name: 'clay-jar-translation.txt', title: 'Plain text', detail: 'One file, chapter by chapter, for search and simple printing.' },
     { path: path.join(OUT, 'clay-jar-translation-usfm.zip'), name: 'clay-jar-translation-usfm.zip', title: 'USFM (zip)', detail: 'One USFM file per book, for tools that edit or convert Bible text.' },
