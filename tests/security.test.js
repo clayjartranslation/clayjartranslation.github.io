@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const root = path.join(__dirname, '..');
-const pages = ['index.html', 'devotional.html', 'privacy.html', 'terms.html', 'downloads/index.html', 'unsubscribe.html'];
+const pages = ['index.html', 'devotional.html', 'privacy.html', 'terms.html', 'downloads/index.html', 'unsubscribe.html', 'how-to-use.html'];
 const htmls = pages.map((file) => ({ file, html: fs.readFileSync(path.join(root, file), 'utf8') }));
 const csp = htmls[0].html.match(/Content-Security-Policy" content="([^"]+)"/)[1];
 

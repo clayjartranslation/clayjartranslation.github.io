@@ -397,6 +397,7 @@ function writePage(files) {
       <a href="../">Read</a>
       <a href="../devotional.html">Devotional</a>
       <a href="./" aria-current="page">Downloads</a>
+      <a href="../how-to-use.html">How to use</a>
       <div class="lang-switch">
         <label class="lang-label" for="cjtLang">
           <svg class="lang-globe" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.8 3.8 5.8 3.8 9s-1.3 6.2-3.8 9c-2.5-2.8-3.8-5.8-3.8-9s1.3-6.2 3.8-9z"/></svg>

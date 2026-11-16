@@ -630,3 +630,6 @@ body.settings-open, body.account-open { overflow: hidden; }
 .home-signin-btns .btn { flex: 1 1 10rem; min-height: 44px; justify-content: center; }
 @media (max-width: 420px) { .home-signin-btns .btn { flex-basis: 100%; } }
 .home-signin .account-out-actions .btn { flex-basis: 100%; }
+
+.home-help { margin: .85rem 0 0; text-align: center; }
+.home-help a { font-weight: 600; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; }

@@ -13,6 +13,7 @@ function headerNav(file) {
   assert.ok(header.includes('>Read<') || header.includes('>Read</a>'), file + ' Read link');
   assert.ok(/Devotional/.test(header), file + ' Devotional link');
   assert.ok(/Downloads/.test(header), file + ' Downloads link');
+  assert.ok(/>How to use</.test(header), file + ' How to use link');
   assert.ok(!/<u>/.test(header), file + ' nav should not be underlined text');
   return html;
 }
@@ -24,6 +25,7 @@ function headerNav(file) {
   'terms.html',
   'downloads/index.html',
   'unsubscribe.html',
+  'how-to-use.html',
 ].forEach(headerNav);
 
 assert.ok(builder.includes('class="site-nav"'), 'download builder must write the top nav');
