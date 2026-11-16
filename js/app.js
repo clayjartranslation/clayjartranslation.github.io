@@ -164,6 +164,7 @@
           ${first ? `<a class="btn ${last.book ? '' : 'primary'}" href="#/read/${first.id}/${first.translated[0]}">Start reading ${esc(first.name)}</a>` : ''}
           <a class="btn" href="#/books">All books</a>
         </div>
+        <p class="home-help"><a href="how-to-use.html">New here? How to use</a></p>
         <p class="verse-quote">“We have this treasure in clay jars, so that the surpassing power belongs to God and not to us.”<br><small>2 Corinthians 4:7</small></p>
       </section>
 
