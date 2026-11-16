@@ -580,10 +580,13 @@ body.settings-open, body.account-open { overflow: hidden; }
   position: fixed; inset: 0; z-index: 60; background: rgba(20, 12, 6, .45);
   display: flex; align-items: flex-end; justify-content: center;
   padding: env(safe-area-inset-top) 0 0 0;
+  height: 100%;
+  max-height: 100dvh;
+  max-height: 100svh;
 }
 .account-dialog[hidden] { display: none !important; }
 .account-card {
-  width: min(32rem, 100%); max-height: min(92dvh, 100%); overflow: auto; -webkit-overflow-scrolling: touch;
+  width: min(32rem, 100%); max-height: calc(100% - .25rem); overflow: auto; -webkit-overflow-scrolling: touch;
   background: var(--bg-raised); color: var(--ink); border-radius: 18px 18px 0 0;
   padding: .85rem max(1rem, env(safe-area-inset-right)) calc(1rem + env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left));
   box-shadow: var(--shadow);
@@ -606,8 +609,14 @@ body.settings-open, body.account-open { overflow: hidden; }
 .account-dialog [hidden] { display: none !important; }
 @media (min-width: 721px) {
   .account-dialog { align-items: center; padding: 1rem; }
-  .account-card { border-radius: 18px; max-height: min(85dvh, 40rem); }
+  .account-card { border-radius: 18px; max-height: min(85svh, 85dvh, 40rem); }
 }
+.account-out-actions { flex-direction: column; }
+.account-out-actions .btn { width: 100%; flex: 1 1 auto; }
+#homeSignOutBox { margin-top: .75rem; text-align: left; }
+#homeSignOutBox p { margin: 0 0 .5rem; }
+#accountSignOutBox { margin: .35rem 0 .75rem; }
+#accountSignedIn { padding-top: .15rem; }
 :root[data-theme="dark"] .account-error, :root[data-theme="dark"] .account-danger { color: #ffb4ab; border-color: #ffb4ab; }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .account-error,
@@ -620,3 +629,4 @@ body.settings-open, body.account-open { overflow: hidden; }
 .home-signin-btns { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem; }
 .home-signin-btns .btn { flex: 1 1 10rem; min-height: 44px; justify-content: center; }
 @media (max-width: 420px) { .home-signin-btns .btn { flex-basis: 100%; } }
+.home-signin .account-out-actions .btn { flex-basis: 100%; }

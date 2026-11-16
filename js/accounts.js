@@ -22,6 +22,30 @@
   var ready = null;
 
   function $(sel, el) { return (el || document).querySelector(sel); }
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c];
+    });
+  }
+  function isStandaloneOrIOS() {
+    var ua = navigator.userAgent || '';
+    var iOS = /iPad|iPhone|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    var standalone = navigator.standalone === true || (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches);
+    return iOS || standalone;
+  }
+  function clearAuthPersistence() {
+    ['localStorage', 'sessionStorage'].forEach(function (which) {
+      try {
+        var store = window[which];
+        var keys = [];
+        for (var i = 0; i < store.length; i++) keys.push(store.key(i));
+        keys.forEach(function (k) {
+          if (k && k.indexOf('firebase:') === 0) store.removeItem(k);
+        });
+      } catch (e) {}
+    });
+    try { indexedDB.deleteDatabase('firebaseLocalStorageDb'); } catch (e) {}
+  }
   function canon(state) { return JSON.stringify(sync.normalize(state)); }
   function human(err) {
     var code = err && err.code || '';
@@ -131,19 +155,9 @@
     dialog.innerHTML = [
       '<div class="account-card">',
       '<div class="account-head"><h2 id="accountTitle">Sign in</h2><button type="button" class="icon-btn" id="accountClose" aria-label="Close account"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>',
+      '<div id="accountSignedOut">',
       '<p class="account-sync-note" id="accountSyncNote">Nothing leaves this device until you sign in. Signing in is optional. If you do, this browser’s bookmarks, highlights, reading place, listening place, and reading settings are copied to your account and merged with what is already saved there, so your other devices can use them. The Bible stays free either way. No ads.</p>',
       '<p class="account-privacy">The sign-in session stays in this browser only. It is not a cookie we share with advertisers, and we do not run a separate account server. <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></p>',
-      '<section class="account-backup" id="accountBackup" aria-labelledby="accountBackupTitle">',
-      '<h3 id="accountBackupTitle">Backup file</h3>',
-      '<p class="account-hint">No account needed. The file stays with you. Restoring merges it into this device: nothing already here is thrown away, and the newer place or setting wins.</p>',
-      '<div class="account-actions">',
-      '<button type="button" class="btn" id="accountExport">Save backup file</button>',
-      '<label class="btn" for="accountImport">Restore from file</label>',
-      '<input id="accountImport" type="file" accept="application/json,.json" class="visually-hidden">',
-      '</div>',
-      '<p class="account-hint" id="accountBackupMsg" role="status" aria-live="polite"></p>',
-      '</section>',
-      '<div id="accountSignedOut">',
       '<button type="button" class="btn primary account-wide" id="accountGoogle">Continue with <span class="notranslate" translate="no">Google</span></button>',
       '<button type="button" class="btn account-wide" id="accountGithub">Continue with <span class="notranslate" translate="no">GitHub</span></button>',
       '<button type="button" class="btn account-wide" id="accountApple">Sign in with Apple</button>',
@@ -177,10 +191,11 @@
       '<button type="button" class="btn account-wide" id="accountSignOut">Sign out</button>',
       '<div id="accountSignOutBox" hidden>',
       '<p>Your account stays. Choose what happens to the copy in this browser. Text size and appearance stay either way.</p>',
-      '<div class="account-actions">',
-      '<button type="button" class="btn" id="accountSignOutKeep">Keep data on this device</button>',
-      '<button type="button" class="btn" id="accountSignOutClear">Remove bookmarks, highlights, and places from this device</button>',
-      '<button type="button" class="btn" id="accountSignOutCancel">Cancel</button>',
+      '<p class="account-error" id="accountSignOutError" role="alert" hidden></p>',
+      '<div class="account-actions account-out-actions">',
+      '<button type="button" class="btn primary account-wide" id="accountSignOutKeep">Sign out and keep data on this device</button>',
+      '<button type="button" class="btn account-wide" id="accountSignOutClear">Sign out and remove bookmarks, highlights, and places from this device</button>',
+      '<button type="button" class="btn account-wide" id="accountSignOutCancel">Cancel</button>',
       '</div></div>',
       '<button type="button" class="btn account-danger account-wide" id="accountDelete">Delete my data and account</button>',
       '<div id="accountDeleteBox" hidden>',
@@ -192,7 +207,19 @@
       '<input id="accountDeleteCode" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="8" hidden>',
       '<p class="account-error" id="accountDeleteError" role="alert" hidden></p>',
       '<div class="account-actions"><button type="button" class="btn account-danger" id="accountDeleteYes">Delete everything</button><button type="button" class="btn" id="accountDeleteNo">Cancel</button></div>',
-      '</div></div></div>',
+      '</div></div>',
+      '<section class="account-backup" id="accountBackup" aria-labelledby="accountBackupTitle">',
+      '<h3 id="accountBackupTitle">Backup file</h3>',
+      '<p class="account-hint">No account needed. The file stays with you. Restoring merges it into this device: nothing already here is thrown away, and the newer place or setting wins.</p>',
+      '<div class="account-actions">',
+      '<button type="button" class="btn" id="accountExport">Save backup file</button>',
+      '<label class="btn" for="accountImport">Restore from file</label>',
+      '<input id="accountImport" type="file" accept="application/json,.json" class="visually-hidden">',
+      '</div>',
+      '<p class="account-hint" id="accountBackupMsg" role="status" aria-live="polite"></p>',
+      '</section>',
+      '<p class="account-privacy" id="accountPrivacyFoot"><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></p>',
+      '</div>',
     ].join('');
     document.body.appendChild(dialog);
     paintAccount();
@@ -208,7 +235,15 @@
     $('#accountForm').addEventListener('submit', onSubmit);
     $('#accountMode').addEventListener('click', toggleMode);
     $('#accountForgot').addEventListener('click', onForgot);
-    $('#accountSignOut').addEventListener('click', function () { $('#accountSignOutBox').hidden = false; });
+    $('#accountSignOut').addEventListener('click', function () {
+      var box = $('#accountSignOutBox');
+      box.hidden = false;
+      var err = $('#accountSignOutError');
+      if (err) { err.hidden = true; err.textContent = ''; }
+      if (box.scrollIntoView) box.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      var keep = $('#accountSignOutKeep');
+      if (keep) keep.focus();
+    });
     $('#accountSignOutCancel').addEventListener('click', function () { $('#accountSignOutBox').hidden = true; });
     $('#accountSignOutKeep').addEventListener('click', function () { finishSignOut(false); });
     $('#accountSignOutClear').addEventListener('click', function () { finishSignOut(true); });
@@ -237,13 +272,26 @@
     $('#accountImport').addEventListener('change', onImportFile);
   }
 
+  function closeSettingsIfOpen() {
+    var done = document.querySelector('[data-settings-done]');
+    var settings = $('#settings');
+    if (settings && !settings.hidden && done) done.click();
+    else if (settings) {
+      settings.hidden = true;
+      document.body.classList.remove('settings-open');
+    }
+  }
   function openDialog() {
+    closeSettingsIfOpen();
     var dialog = $('#accountDialog');
     dialog.hidden = false;
     document.body.classList.add('account-open');
     paintAccount();
     var focus = user ? $('#accountSignOut') : $('#accountEmail');
-    if (focus) focus.focus();
+    if (focus) {
+      if (focus.scrollIntoView) focus.scrollIntoView({ block: 'center' });
+      focus.focus();
+    }
   }
   function closeDialog() {
     var dialog = $('#accountDialog');
@@ -251,7 +299,9 @@
     dialog.hidden = true;
     document.body.classList.remove('account-open');
     var box = $('#accountDeleteBox'); if (box) box.hidden = true;
+    var out = $('#accountSignOutBox'); if (out) out.hidden = true;
     showError('');
+    var err = $('#accountSignOutError'); if (err) { err.hidden = true; err.textContent = ''; }
     var btn = $('#accountBtn'); if (btn) btn.focus();
   }
   function trapKeys(e) {
@@ -305,25 +355,57 @@
   function paintHomeSignIn() {
     var main = $('#main');
     if (!main) return;
-    var old = $('#homeSignIn', main);
-    if (user || !isHome()) { if (old) old.remove(); return; }
-    if (old) return;
+    var old = $('#homeSignIn');
+    if (!isHome()) { if (old) old.remove(); return; }
+    var state = user ? 'in' : 'out';
+    if (old && old.getAttribute('data-state') === state) return;
+    if (old) old.remove();
     var hero = $('.hero', main);
     if (!hero) return;
     var box = document.createElement('div');
     box.className = 'home-signin';
     box.id = 'homeSignIn';
-    box.innerHTML = '<p class="home-signin-lead">Sign in to save your place on your other devices. Optional: your reading stays on this device unless you sign in.</p>'
-      + '<div class="home-signin-btns">'
-      + '<button type="button" class="btn primary" data-provider="google">Continue with <span class="notranslate" translate="no">Google</span></button>'
-      + '<button type="button" class="btn" data-provider="github">Continue with <span class="notranslate" translate="no">GitHub</span></button>'
-      + '<button type="button" class="btn" data-home-email>Use email</button>'
-      + '</div>';
+    box.setAttribute('data-state', state);
+    if (user) {
+      var who = user.phoneNumber || user.email || user.displayName || 'your account';
+      box.innerHTML = '<p class="home-signin-lead">Signed in as <span class="notranslate" translate="no">' + esc(who) + '</span>.</p>'
+        + '<div class="home-signin-btns">'
+        + '<button type="button" class="btn" data-home-account>Account</button>'
+        + '<button type="button" class="btn" data-home-signout>Sign out</button>'
+        + '</div>'
+        + '<div id="homeSignOutBox" hidden>'
+        + '<p>Your account stays. Choose what happens to the copy on this device. Text size and appearance stay either way.</p>'
+        + '<p class="account-error" id="homeSignOutError" role="alert" hidden></p>'
+        + '<div class="home-signin-btns account-out-actions">'
+        + '<button type="button" class="btn primary" data-home-out-keep>Sign out and keep data on this device</button>'
+        + '<button type="button" class="btn" data-home-out-clear>Sign out and remove data from this device</button>'
+        + '<button type="button" class="btn" data-home-out-cancel>Cancel</button>'
+        + '</div></div>';
+    } else {
+      box.innerHTML = '<p class="home-signin-lead">Sign in to save your place on your other devices. Optional: your reading stays on this device unless you sign in.</p>'
+        + '<div class="home-signin-btns">'
+        + '<button type="button" class="btn primary" data-provider="google">Continue with <span class="notranslate" translate="no">Google</span></button>'
+        + '<button type="button" class="btn" data-provider="github">Continue with <span class="notranslate" translate="no">GitHub</span></button>'
+        + '<button type="button" class="btn" data-home-email>Use email</button>'
+        + '</div>';
+    }
     var cta = $('.cta', hero);
     if (cta && cta.parentNode) cta.parentNode.insertBefore(box, cta.nextSibling); else hero.appendChild(box);
-    $('[data-provider="google"]', box).addEventListener('click', function () { runProvider('google', true); });
-    $('[data-provider="github"]', box).addEventListener('click', function () { runProvider('github', true); });
-    $('[data-home-email]', box).addEventListener('click', function () { openDialog(); });
+    if (user) {
+      $('[data-home-account]', box).addEventListener('click', function () { openDialog(); });
+      $('[data-home-signout]', box).addEventListener('click', function () {
+        var confirmBox = $('#homeSignOutBox', box);
+        confirmBox.hidden = false;
+        if (confirmBox.scrollIntoView) confirmBox.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      });
+      $('[data-home-out-keep]', box).addEventListener('click', function () { finishSignOut(false); });
+      $('[data-home-out-clear]', box).addEventListener('click', function () { finishSignOut(true); });
+      $('[data-home-out-cancel]', box).addEventListener('click', function () { $('#homeSignOutBox', box).hidden = true; });
+    } else {
+      $('[data-provider="google"]', box).addEventListener('click', function () { runProvider('google', true); });
+      $('[data-provider="github"]', box).addEventListener('click', function () { runProvider('github', true); });
+      $('[data-home-email]', box).addEventListener('click', function () { openDialog(); });
+    }
   }
   function watchHome() {
     var main = $('#main');
@@ -442,17 +524,42 @@
       if (msg) msg.textContent = 'That file could not be read.';
     }
   }
+  function showSignOutError(msg) {
+    var els = [$('#accountSignOutError'), $('#homeSignOutError'), $('#accountError')];
+    var shown = false;
+    els.forEach(function (el) {
+      if (!el) return;
+      el.hidden = !msg;
+      el.textContent = msg || '';
+      if (msg && !el.closest('[hidden]')) shown = true;
+    });
+    if (msg && !shown) reader.toast(msg);
+  }
   async function finishSignOut(clear) {
+    showSignOutError('');
     try {
       var api = await ensure();
       await api.signOut();
       if (clear) reader.clearSyncedLocal();
+      user = null;
+      creating = false;
+      paintAccount();
+      explainCopy();
+      paintHomeSignIn();
       var box = $('#accountSignOutBox');
       if (box) box.hidden = true;
-      reader.toast(clear
+      clearAuthPersistence();
+      closeDialog();
+      var msg = clear
         ? 'Signed out. Bookmarks, highlights, and places were removed from this device. The account is still there until you delete it.'
-        : 'Signed out. The copy on this device stays here.');
-    } catch (err) { showError(human(err)); }
+        : 'Signed out. The copy on this device stays here.';
+      if (isStandaloneOrIOS()) {
+        try { sessionStorage.setItem('cjt-signed-out', msg); } catch (e) {}
+        location.reload();
+        return;
+      }
+      reader.toast(msg);
+    } catch (err) { showSignOutError(human(err)); }
   }
 
   async function onDelete() {
@@ -682,6 +789,13 @@
 
   buildUI();
   watchHome();
+  try {
+    var signedOutMsg = sessionStorage.getItem('cjt-signed-out');
+    if (signedOutMsg) {
+      sessionStorage.removeItem('cjt-signed-out');
+      reader.toast(signedOutMsg);
+    }
+  } catch (e) {}
   ensure().then(function (api) { api.listen(onUser); }).catch(function () {
     var msg = 'Sign-in could not be reached. You can keep reading; progress stays on this device.';
     setStatus(msg);
