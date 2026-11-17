@@ -1,0 +1,15 @@
+{
+  "note": "Map a year's MM-DD devotional to a public-domain or CC0 image hosted on this site. If a day has no entry, the sender uses that book's public-domain opening picture from downloads/images/ when the file exists. Only Public domain and CC0 works belong here.",
+  "byDate": {
+    "11-17": {
+      "file": "cjt-luke-6-31.jpg",
+      "url": "https://clayjartranslation.github.io/email-images/cjt-luke-6-31.jpg",
+      "alt": "Carl Bloch, The Sermon on the Mount",
+      "caption": "Carl Bloch, The Sermon on the Mount (1877). Public domain, Wikimedia Commons.",
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Bloch_-_The_Sermon_on_the_Mount.jpg",
+      "license": "Public domain",
+      "artist": "Carl Bloch",
+      "title": "The Sermon on the Mount"
+    }
+  }
+}

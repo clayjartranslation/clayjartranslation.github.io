@@ -32,6 +32,58 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const NOTICE = 'Devotionals © 2026 Jose Santiago, licensed CC BY 4.0';
 const SITE = 'https://clayjartranslation.github.io/devotional.html';
+const IMAGE_HOST = 'https://clayjartranslation.github.io/email-images/';
+const BOOK_ART_HOST = 'https://clayjartranslation.github.io/downloads/images/';
+
+function loadDevotionalImages() {
+  const p = path.join(ROOT, 'data', 'devotional-images.json');
+  if (!fs.existsSync(p)) return { byDate: {} };
+  try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch (e) { return { byDate: {} }; }
+}
+
+function pickDevotionalImage(entry) {
+  const map = loadDevotionalImages();
+  const dateKey = String((entry && entry.date) || '');
+  const chosen = map.byDate && map.byDate[dateKey];
+  if (chosen && (chosen.url || chosen.file)) {
+    return {
+      url: chosen.url || (IMAGE_HOST + chosen.file),
+      alt: chosen.alt || chosen.title || 'Devotional image',
+      caption: chosen.caption || '',
+    };
+  }
+  const book = String((entry && entry.book) || '').trim();
+  if (!book) return null;
+  const local = path.join(ROOT, 'downloads', 'images', book + '.jpg');
+  if (!fs.existsSync(local)) return null;
+  let caption = 'A public-domain or CC0 picture related to this book.';
+  const manPath = path.join(ROOT, 'downloads', 'images', 'manifest.json');
+  if (fs.existsSync(manPath)) {
+    try {
+      const man = JSON.parse(fs.readFileSync(manPath, 'utf8'));
+      if (man[book] && man[book].caption) {
+        caption = man[book].caption + '. Public domain or CC0, Wikimedia Commons.';
+      }
+    } catch (e) { /* use the generic caption */ }
+  }
+  return { url: BOOK_ART_HOST + book + '.jpg', alt: caption, caption };
+}
+
+function imageRows(image) {
+  if (!image || !image.url) return '';
+  const cap = image.caption ? `
+          <tr>
+            <td style="padding:8px 22px 0;font-family:Georgia,'Iowan Old Style',Times,serif;font-size:12px;line-height:1.4;font-style:italic;color:#6b4a37;">${esc(image.caption)}</td>
+          </tr>` : '';
+  return `
+          <tr>
+            <td style="padding:0;font-size:0;line-height:0;">
+              <img src="${esc(image.url)}" alt="${esc(image.alt || '')}" width="600" style="display:block;width:100%;max-width:600px;height:auto;border:0;">
+            </td>
+          </tr>${cap}`;
+}
+
+
 const UNSUBSCRIBE_PAGE = 'https://clayjartranslation.github.io/unsubscribe.html';
 const SENDER_NAME = 'Clay Jar Translation';
 const DEFAULT_TZ = 'America/New_York';
@@ -251,6 +303,7 @@ function buildEmail(entry, isoDate, unsub) {
   const prayer = String(entry.prayer || '');
   const subject = title + ' · ' + when;
   const unsubLink = unsub || unsubscribeUrl('');
+  const image = pickDevotionalImage(entry);
   const text = [
     title,
     when,
@@ -275,10 +328,19 @@ function buildEmail(entry, isoDate, unsub) {
   ].join('\n');
   const html = `<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><title>${esc(title)}</title></head>
-<body style="margin:0;padding:0;background:#fff9eb;color:#3f2416;">
-  <div style="max-width:36rem;margin:0 auto;padding:28px 20px;font-family:Georgia,'Iowan Old Style',serif;font-size:18px;line-height:1.6;">
-    <p style="margin:0 0 8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#a6522d;">Clay Jar Translation</p>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${esc(title)}</title></head>
+<body style="margin:0;padding:0;background-color:#f3e4c4;color:#3f2416;-webkit-text-size-adjust:100%;">
+  <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:#f3e4c4;">
+    <tr>
+      <td align="center" style="padding:20px 10px;">
+        <table role="presentation" width="600" border="0" cellspacing="0" cellpadding="0" style="width:100%;max-width:600px;background-color:#fffaf3;border:1px solid #e4d2ae;">
+          <tr>
+            <td style="background-color:#7a3b22;padding:14px 22px;">
+              <p style="margin:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#f7e7c8;">Clay Jar Translation</p>
+            </td>
+          </tr>${imageRows(image)}
+          <tr>
+            <td style="padding:18px 22px 8px;font-family:Georgia,'Iowan Old Style',Times,serif;font-size:18px;line-height:1.6;color:#3f2416;">
     <h1 style="margin:0 0 8px;font-size:28px;line-height:1.2;font-weight:600;">${esc(title)}</h1>
     <p style="margin:0 0 20px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:16px;color:#6b4a37;">${esc(when)}</p>
     <p style="margin:0 0 8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-weight:700;color:#a6522d;">${esc(ref)}</p>
@@ -290,7 +352,12 @@ function buildEmail(entry, isoDate, unsub) {
     <p style="margin:28px 0 8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:16px;"><a href="${esc(url)}" style="color:#a6522d;">Read this devotional on the site</a></p>
     <p style="margin:20px 0 8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:14px;line-height:1.5;color:#6b4a37;">${esc(NOTICE)}</p>
     <p style="margin:8px 0 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:14px;line-height:1.5;"><a href="${esc(unsubLink)}" style="color:#a6522d;">Unsubscribe</a></p>
-  </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </body>
 </html>
 `;
