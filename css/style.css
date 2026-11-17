@@ -639,3 +639,4 @@ body.settings-open, body.account-open { overflow: hidden; }
 .help-finish p { margin: 0; line-height: 1.55; overflow-wrap: anywhere; }
 .help-finish .home-help { margin-top: .75rem; }
 .help-sign { font-style: italic; white-space: nowrap; }
+.help-finish .help-small { margin-top: .5rem; font-size: .8rem; color: var(--ink-soft); text-align: center; }
