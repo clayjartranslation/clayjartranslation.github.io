@@ -6,17 +6,17 @@ const root = path.join(__dirname, '..');
 const privacy = fs.readFileSync(path.join(root, 'privacy.html'), 'utf8');
 const terms = fs.readFileSync(path.join(root, 'terms.html'), 'utf8');
 
-assert.ok(privacy.includes('Last updated November 16, 2026'));
-assert.ok(terms.includes('Last updated November 16, 2026'));
+assert.ok(privacy.includes('Last updated November 17, 2026'));
+assert.ok(terms.includes('Last updated November 17, 2026'));
 assert.ok(privacy.includes('Jose Santiago'));
 assert.ok(privacy.includes('Marshfield'));
-assert.ok(terms.includes('Marshfield, Massachusetts'));
+assert.ok(terms.includes('Marshfield, Plymouth County, Massachusetts'));
 
 ['Google Translate', 'policies.google.com/privacy', 'localStorage', 'Brevo', 'double opt-in', 'unsubscribe', 'PayPal', 'GDPR', 'CCPA', 'LGPD', 'PIPEDA', 'PIPL', 'APPI', 'POPIA'].forEach((s) => {
   assert.ok(privacy.includes(s), 'privacy missing ' + s);
 });
 
-['AS IS', 'AS AVAILABLE', 'US$50', 'DMCA', 'COPPA', 'Downloads (PDF and EPUB)', 'trademark rights are not licensed', 'Force majeure', 'Assignment', 'Termination', 'Donations are NOT tax-deductible', 'indemnif', 'not medical advice', 'not tax-deductible', '501(c)(3)', 'Plymouth County', 'Federal Arbitration Act', 'class action', 'Jury', '30 days', 'Arbitration opt-out', 'small claims', 'one year', 'Severability', 'Where your local law gives you rights', 'Quebec', 'Australian Consumer Law', 'do not make a lawsuit impossible', 'English text is the official', 'must not be presented as the official', 'CC BY 4.0'].forEach((s) => {
+['AS IS', 'AS AVAILABLE', 'US$50', 'DMCA', 'COPPA', 'Downloads (PDF and EPUB)', 'trademark rights are not licensed', 'Force majeure', 'Assignment', 'Termination', 'Donations are NOT tax-deductible', 'indemnif', 'not medical advice', 'not tax-deductible', '501(c)(3)', 'Plymouth County', 'Federal Arbitration Act', 'class action', 'Jury', '30 days', 'Arbitration opt-out', 'small claims', 'one year', 'Severability', 'Where your local law gives you rights', 'Quebec', 'Australian Consumer Law', 'Notice of Dispute', '60 days', 'hold harmless', 'California Civil Code section 1542', 'fullest extent permitted by law', 'chapter 260, section 5A', 'Feedback', 'Use at your own risk', 'English text is the official', 'must not be presented as the official', 'CC BY 4.0'].forEach((s) => {
   assert.ok(terms.toLowerCase().includes(s.toLowerCase()), 'terms missing ' + s);
 });
 
@@ -36,5 +36,11 @@ const spamNote = 'check your spam or junk folder for the confirmation email';
 assert.ok(fs.readFileSync(path.join(root, 'devotional.html'), 'utf8').includes(spamNote));
 assert.ok(fs.readFileSync(path.join(root, 'js/app.js'), 'utf8').includes(spamNote));
 assert.ok(fs.readFileSync(path.join(root, 'devotional.html'), 'utf8').includes('contact.clayjar@protonmail.com'));
+
+assert.ok(fs.readFileSync(path.join(root, 'devotional.html'), 'utf8').includes('type="checkbox" required'));
+assert.ok(fs.readFileSync(path.join(root, 'js/app.js'), 'utf8').includes('type="checkbox" required'));
+assert.ok(fs.readFileSync(path.join(root, 'js/accounts.js'), 'utf8').includes('By continuing with any sign-in option'));
+assert.ok(fs.readFileSync(path.join(root, 'tools/build-downloads.js'), 'utf8').includes('By downloading a file, you agree'));
+assert.ok(privacy.includes('Security and limits'));
 
 console.log('legal tests passed');

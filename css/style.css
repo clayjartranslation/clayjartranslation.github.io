@@ -640,3 +640,7 @@ body.settings-open, body.account-open { overflow: hidden; }
 .help-finish .home-help { margin-top: .75rem; }
 .help-sign { font-style: italic; white-space: nowrap; }
 .help-finish .help-small { margin-top: .5rem; font-size: .8rem; color: var(--ink-soft); text-align: center; }
+
+.agree-check { display: flex; gap: .5rem; align-items: flex-start; margin: .6rem 0; font-size: .95rem; line-height: 1.45; }
+.agree-check input { width: auto; flex: none; margin-top: .25rem; }
+.agree-note, .account-terms { font-size: .92rem; line-height: 1.45; }
