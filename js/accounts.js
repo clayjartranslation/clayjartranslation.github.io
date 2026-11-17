@@ -158,6 +158,7 @@
       '<div id="accountSignedOut">',
       '<p class="account-sync-note" id="accountSyncNote">Nothing leaves this device until you sign in. Signing in is optional. If you do, this browser’s bookmarks, highlights, reading place, listening place, and reading settings are copied to your account and merged with what is already saved there, so your other devices can use them. The Bible stays free either way. No ads.</p>',
       '<p class="account-privacy">The sign-in session stays in this browser only. It is not a cookie we share with advertisers, and we do not run a separate account server. <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></p>',
+      '<p class="account-terms">By continuing with any sign-in option, you agree to the <a href="terms.html">Terms of Service</a> and acknowledge the <a href="privacy.html">Privacy Policy</a>.</p>',
       '<button type="button" class="btn primary account-wide" id="accountGoogle">Continue with <span class="notranslate" translate="no">Google</span></button>',
       '<button type="button" class="btn account-wide" id="accountGithub">Continue with <span class="notranslate" translate="no">GitHub</span></button>',
       '<button type="button" class="btn account-wide" id="accountApple">Sign in with Apple</button>',
@@ -387,7 +388,8 @@
         + '<button type="button" class="btn primary" data-provider="google">Continue with <span class="notranslate" translate="no">Google</span></button>'
         + '<button type="button" class="btn" data-provider="github">Continue with <span class="notranslate" translate="no">GitHub</span></button>'
         + '<button type="button" class="btn" data-home-email>Use email</button>'
-        + '</div>';
+        + '</div>'
+        + '<p class="account-terms">By continuing with any sign-in option, you agree to the <a href="terms.html">Terms of Service</a> and acknowledge the <a href="privacy.html">Privacy Policy</a>.</p>';
     }
     var cta = $('.cta', hero);
     if (cta && cta.parentNode) cta.parentNode.insertBefore(box, cta.nextSibling); else hero.appendChild(box);

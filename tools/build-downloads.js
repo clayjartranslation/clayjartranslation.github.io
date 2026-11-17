@@ -513,6 +513,7 @@ function writePage(files) {
     <p class="notranslate" translate="no">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” These files are the whole draft: all 98 books. You may copy, share, adapt, and redistribute the text, including commercially, if you give that attribution. This is Draft 0.1, made with AI assistance and not yet reviewed by scholars.</p>
     <p class="notranslate" translate="no">Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.</p>
     <p>Nothing here is an account. The files are the Bible text, not anyone’s bookmarks.</p>
+    <p class="agree-note">By downloading a file, you agree to the <a href="../terms.html">Terms of Service</a>, including their downloads section, and acknowledge the <a href="../privacy.html">Privacy Policy</a>.</p>
     <div class="card">
       ${rows.map((r) => `<div class="file-row"><a href="${htmlEsc(r.href)}">${htmlEsc(r.title)}</a><span class="size">${htmlEsc(r.label)}</span></div><p class="muted file-detail">${htmlEsc(r.detail)}</p>`).join('\n')}
     </div>
