@@ -35,9 +35,9 @@ data.devotionals.forEach((e) => {
   assert.ok(verse, e.verseReference);
   assert.strictEqual(e.verseText, verse.text, 'quote mismatch ' + e.verseReference);
   const words = e.reflection.trim().split(/\s+/).filter(Boolean);
-  assert.ok(words.length >= 120 && words.length <= 200, e.date + ' reflection words ' + words.length);
+  assert.ok(words.length >= 300 && words.length <= 400, e.date + ' reflection words ' + words.length);
   const prayerWords = e.prayer.trim().split(/\s+/).filter(Boolean);
-  assert.ok(prayerWords.length >= 15 && prayerWords.length <= 80, e.date + ' prayer words ' + prayerWords.length);
+  assert.ok(prayerWords.length >= 100 && prayerWords.length <= 150, e.date + ' prayer words ' + prayerWords.length);
   assert.ok(e.verseReference.indexOf(String(e.chapter)) !== -1, e.verseReference);
   assert.strictEqual(api.readerHref(e), 'index.html#/read/' + e.book + '/' + e.chapter + '/' + e.verse);
 });
