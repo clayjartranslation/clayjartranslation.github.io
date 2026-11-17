@@ -16,7 +16,7 @@ assert.ok(terms.includes('Marshfield, Plymouth County, Massachusetts'));
   assert.ok(privacy.includes(s), 'privacy missing ' + s);
 });
 
-['AS IS', 'AS AVAILABLE', 'US$50', 'DMCA', 'COPPA', 'Downloads (PDF and EPUB)', 'trademark rights are not licensed', 'Force majeure', 'Assignment', 'Termination', 'Donations are NOT tax-deductible', 'indemnif', 'not medical advice', 'not tax-deductible', '501(c)(3)', 'Plymouth County', 'Federal Arbitration Act', 'class action', 'Jury', '30 days', 'Arbitration opt-out', 'small claims', 'one year', 'Severability', 'Where your local law gives you rights', 'Quebec', 'Australian Consumer Law', 'Notice of Dispute', '60 days', 'hold harmless', 'California Civil Code section 1542', 'fullest extent permitted by law', 'chapter 260, section 5A', 'Feedback', 'Use at your own risk', 'English text is the official', 'must not be presented as the official', 'CC BY 4.0'].forEach((s) => {
+['AS IS', 'AS AVAILABLE', 'US$50', 'DMCA', 'COPPA', 'Downloads (PDF and EPUB)', 'trademark rights are not licensed', 'Force majeure', 'Assignment', 'Termination', 'Donations are NOT tax-deductible', 'indemnif', 'not medical advice', 'not tax-deductible', '501(c)(3)', 'Plymouth County', 'chapter 218, section 21', 'class action', 'Jury', 'no arbitration', 'small claims', 'one year', 'Severability', 'Where your local law gives you rights', 'Quebec', 'Australian Consumer Law', 'Notice of Dispute', '60 days', 'hold harmless', 'California Civil Code section 1542', 'fullest extent permitted by law', 'chapter 260, section 5A', 'Feedback', 'Use at your own risk', 'English text is the official', 'must not be presented as the official', 'CC BY 4.0'].forEach((s) => {
   assert.ok(terms.toLowerCase().includes(s.toLowerCase()), 'terms missing ' + s);
 });
 
