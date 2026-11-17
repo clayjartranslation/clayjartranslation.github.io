@@ -10,7 +10,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 274637,
     "width": 793,
-    "height": 1000
+    "height": 1000,
+    "year": "",
+    "artist_death_year": "1883",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Gustave Doré died in 1883 (born 1832) and was published before 1931."
   },
   "exodus": {
     "file": "exodus.jpg",
@@ -23,20 +26,26 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 79178,
     "width": 1000,
-    "height": 556
+    "height": 556,
+    "year": "1891",
+    "artist_death_year": "1900",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Ivan Aivazovsky died in 1900 (born 1817); the work is dated 1891 and was published before 1931."
   },
   "amos": {
     "file": "amos.jpg",
     "caption": "18 cen. icon painter, Amos-prophet",
-    "artist": "18 cen. icon painter",
-    "title": "Amos-prophet",
+    "artist": "Anonymous Russian icon painter",
+    "title": "The Prophet Amos",
     "source": "https://commons.wikimedia.org/wiki/File:Amos-prophet.jpg",
     "commons_title": "File:Amos-prophet.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 53087,
     "width": 401,
-    "height": 500
+    "height": 500,
+    "year": "first quarter of the 18th century",
+    "artist_death_year": "before 1926 (first quarter of the 18th century)",
+    "license_basis": "Public domain. Faithful photograph of a 2D icon from the prophets’ row of the Kizhi iconostasis, painted in the first quarter of the 18th century. Any artist of that date died before 1926; the work was published long before 1931."
   },
   "numbers": {
     "file": "numbers.jpg",
@@ -49,7 +58,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 106533,
     "width": 1000,
-    "height": 728
+    "height": 728,
+    "year": "1653–1654",
+    "artist_death_year": "1671",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Sébastien Bourdon died in 1671 (born 1616); the work is dated 1653–1654 and was published before 1931."
   },
   "1-samuel": {
     "file": "1-samuel.jpg",
@@ -62,7 +74,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 113547,
     "width": 1000,
-    "height": 777
+    "height": 777,
+    "year": "c. 1601",
+    "artist_death_year": "1610",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Caravaggio died in 1610 (born 1571); the work is dated c. 1601 and was published before 1931."
   },
   "malachi": {
     "file": "malachi.jpg",
@@ -75,7 +90,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 293345,
     "width": 1000,
-    "height": 921
+    "height": 921,
+    "year": "c. 1311",
+    "artist_death_year": "1319",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Duccio di Buoninsegna died in 1319 (born 1255); the work is dated c. 1311 and was published before 1931."
   },
   "2-kings": {
     "file": "2-kings.jpg",
@@ -88,7 +106,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 121620,
     "width": 1000,
-    "height": 653
+    "height": 653,
+    "year": "c. 1740",
+    "artist_death_year": "1798",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Giuseppe Angeli died in 1798 (born 1709); the work is dated c. 1740 and was published before 1931."
   },
   "esther": {
     "file": "esther.jpg",
@@ -101,20 +122,31 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 173320,
     "width": 1000,
-    "height": 994
+    "height": 994,
+    "year": "c. 1660",
+    "artist_death_year": "1669",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rembrandt died in 1669 (born 1606); the work is dated c. 1660 and was published before 1931."
   },
   "ezra": {
     "file": "ezra.jpg",
-    "caption": "Unknown authorUnknown author, Ezra reading the Law",
-    "artist": "Unknown authorUnknown author",
-    "title": "Ezra reading the Law",
-    "source": "https://commons.wikimedia.org/wiki/File:Ezra_reading_the_Law.jpg",
-    "commons_title": "File:Ezra reading the Law.jpg",
+    "caption": "Gustave Doré, Ezra Kneels in Prayer",
+    "artist": "Gustave Doré",
+    "title": "Ezra Kneels in Prayer",
+    "year": "1866",
+    "artist_birth": 1832,
+    "artist_death": 1883,
+    "death_note": null,
+    "artist_qid": "Q6682",
+    "source": "https://commons.wikimedia.org/wiki/File:107.Ezra_Kneels_in_Prayer.jpg",
+    "commons_title": "File:107.Ezra Kneels in Prayer.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 166792,
-    "width": 647,
-    "height": 1000
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died 1883; work dated 1866 (published before 1931).",
+    "bytes": 231244,
+    "width": 787,
+    "height": 1000,
+    "replaced_because": "Modern composite of a Dura-Europos fresco with a Dead Sea Scroll fragment as a background, adding new authorship",
+    "artist_death_year": "1883"
   },
   "lamentations": {
     "file": "lamentations.jpg",
@@ -127,7 +159,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 117666,
     "width": 688,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1842",
+    "artist_death_year": "1882",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Francesco Hayez died in 1882 (born 1791); the work is dated c. 1842 and was published before 1931."
   },
   "psalms": {
     "file": "psalms.jpg",
@@ -140,7 +175,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 157567,
     "width": 800,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1622",
+    "artist_death_year": "1656",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Gerard van Honthorst died in 1656 (born 1592); the work is dated c. 1622 and was published before 1931."
   },
   "song-of-songs": {
     "file": "song-of-songs.jpg",
@@ -153,38 +191,47 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 163727,
     "width": 1000,
-    "height": 935
+    "height": 935,
+    "year": "1853",
+    "artist_death_year": "1898",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Gustave Moreau died in 1898 (born 1826); the work is dated 1853 and was published before 1931."
   },
   "2-samuel": {
     "file": "2-samuel.jpg",
     "caption": "Unknown, Gustave dore bibel death of absalom",
-    "artist": "Unknown",
-    "title": "Gustave dore bibel death of absalom",
+    "artist": "Gustave Doré",
+    "title": "The Death of Absalom",
     "source": "https://commons.wikimedia.org/wiki/File:Gustave_dore_bibel_death_of_absalom.jpg",
     "commons_title": "File:Gustave dore bibel death of absalom.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 299910,
     "width": 793,
-    "height": 1000
+    "height": 1000,
+    "year": "1866",
+    "artist_death_year": "1883",
+    "license_basis": "Public domain (PD-Art, PD-old-100-expired). Gustave Doré died in 1883; the Bible illustration was published in 1866."
   },
   "habakkuk": {
     "file": "habakkuk.jpg",
     "caption": "18 century icon painter, Habakkuk",
-    "artist": "18 century icon painter",
-    "title": "Habakkuk",
+    "artist": "Anonymous Russian icon painter",
+    "title": "The Prophet Habakkuk",
     "source": "https://commons.wikimedia.org/wiki/File:Habakkuk.jpg",
     "commons_title": "File:Habakkuk.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 62333,
     "width": 505,
-    "height": 500
+    "height": 500,
+    "year": "first quarter of the 18th century",
+    "artist_death_year": "before 1926 (first quarter of the 18th century)",
+    "license_basis": "Public domain. Faithful photograph of a 2D icon from the Kizhi iconostasis, first quarter of the 18th century. The painter died before 1926; the work was published long before 1931."
   },
   "hosea": {
     "file": "hosea.jpg",
     "caption": "AnonymousUnknown author, Hosea and Gomer",
-    "artist": "AnonymousUnknown author",
+    "artist": "Anonymous illuminator of the Bible Historiale",
     "title": "Hosea and Gomer",
     "source": "https://commons.wikimedia.org/wiki/File:Hosea_and_Gomer.jpg",
     "commons_title": "File:Hosea and Gomer.jpg",
@@ -192,7 +239,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 164819,
     "width": 675,
-    "height": 1000
+    "height": 1000,
+    "year": "1372",
+    "artist_death_year": "before 1926 (dated 1372)",
+    "license_basis": "Public domain (PD-Art, PD-old-100-expired). Faithful photograph of a 2D manuscript miniature in the Bible Historiale (Den Haag, MMW, 10 B 23), dated 1372."
   },
   "isaiah": {
     "file": "isaiah.jpg",
@@ -205,7 +255,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 145825,
     "width": 687,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1512",
+    "artist_death_year": "1564",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Michelangelo died in 1564 (born 1475); the work is dated c. 1512 and was published before 1931."
   },
   "joshua": {
     "file": "joshua.jpg",
@@ -218,7 +271,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 92620,
     "width": 1000,
-    "height": 754
+    "height": 754,
+    "year": "1816",
+    "artist_death_year": "1854",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). John Martin died in 1854 (born 1789); the work is dated 1816 and was published before 1931."
   },
   "ruth": {
     "file": "ruth.jpg",
@@ -231,7 +287,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 141547,
     "width": 1000,
-    "height": 844
+    "height": 844,
+    "year": "1828",
+    "artist_death_year": "1872",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Julius Schnorr von Carolsfeld died in 1872 (born 1794); the work is dated 1828 and was published before 1931."
   },
   "wisdom-of-solomon": {
     "file": "wisdom-of-solomon.jpg",
@@ -244,7 +303,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 128748,
     "width": 554,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1874",
+    "artist_death_year": "1905",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Simeon Solomon died in 1905 (born 1840); the work is dated c. 1874 and was published before 1931."
   },
   "job": {
     "file": "job.jpg",
@@ -257,20 +319,31 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 162269,
     "width": 882,
-    "height": 1000
+    "height": 1000,
+    "year": "1880",
+    "artist_death_year": "1922",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Léon Bonnat died in 1922 (born 1833); the work is dated 1880 and was published before 1931."
   },
   "micah": {
     "file": "micah.jpg",
-    "caption": "Unknown, Micah",
-    "artist": "Unknown",
-    "title": "Micah",
-    "source": "https://commons.wikimedia.org/wiki/File:Micah.jpg",
-    "commons_title": "File:Micah.jpg",
+    "caption": "Gustave Doré, Micah Exhorts the Israelites to Repent",
+    "artist": "Gustave Doré",
+    "title": "Micah Exhorts the Israelites to Repent",
+    "year": "1866",
+    "artist_birth": 1832,
+    "artist_death": 1883,
+    "death_note": null,
+    "artist_qid": "Q6682",
+    "source": "https://commons.wikimedia.org/wiki/File:139.Micah_Exhorts_the_Israelites_to_Repent.jpg",
+    "commons_title": "File:139.Micah Exhorts the Israelites to Repent.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 124208,
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died 1883; work dated 1866 (published before 1931).",
+    "bytes": 332578,
     "width": 1000,
-    "height": 943
+    "height": 796,
+    "replaced_because": "No artist, source, or date on Commons (PD-old only); unverifiable under the death-year and publication-year rules",
+    "artist_death_year": "1883"
   },
   "genesis": {
     "file": "genesis.jpg",
@@ -283,7 +356,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 99985,
     "width": 1000,
-    "height": 461
+    "height": 461,
+    "year": "c. 1512",
+    "artist_death_year": "1564",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Michelangelo died in 1564 (born 1475); the work is dated c. 1512 and was published before 1931."
   },
   "zechariah": {
     "file": "zechariah.jpg",
@@ -296,7 +372,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 166435,
     "width": 926,
-    "height": 970
+    "height": 970,
+    "year": "c. 1512",
+    "artist_death_year": "1564",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Michelangelo died in 1564 (born 1475); the work is dated c. 1512 and was published before 1931."
   },
   "joel": {
     "file": "joel.jpg",
@@ -309,7 +388,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 161738,
     "width": 742,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1512",
+    "artist_death_year": "1564",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Michelangelo died in 1564 (born 1475); the work is dated c. 1512 and was published before 1931."
   },
   "nehemiah": {
     "file": "nehemiah.jpg",
@@ -322,20 +404,31 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 158083,
     "width": 1000,
-    "height": 753
+    "height": 753,
+    "year": "c. 1700",
+    "artist_death_year": "1712",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Jan Luyken died in 1712 (born 1649); the work is dated c. 1700 and was published before 1931."
   },
   "obadiah": {
     "file": "obadiah.jpg",
-    "caption": "Unknown, Obadiah",
-    "artist": "Unknown",
-    "title": "Obadiah",
-    "source": "https://commons.wikimedia.org/wiki/File:Obadiah.jpg",
-    "commons_title": "File:Obadiah.jpg",
+    "caption": "Byzantine illuminators of the Menologion of Basil II (workshop of Pantoleon and others), The Prophet Obadiah",
+    "artist": "Byzantine illuminators of the Menologion of Basil II (workshop of Pantoleon and others)",
+    "title": "The Prophet Obadiah",
+    "year": "c. 985",
+    "artist_birth": null,
+    "artist_death": 985,
+    "death_note": "c. 985 (workshop; illuminators died before 1926)",
+    "artist_qid": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Prophet_Obadiah_(Menologion_of_Basil_II).jpg",
+    "commons_title": "File:Prophet Obadiah (Menologion of Basil II).jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 142090,
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died c. 985 (workshop; illuminators died before 1926); work dated c. 985 (published before 1931).",
+    "bytes": 239483,
     "width": 1000,
-    "height": 943
+    "height": 716,
+    "replaced_because": "No artist, source, or date on Commons (PD-old only); unverifiable under the death-year and publication-year rules",
+    "artist_death_year": "c. 985 (workshop; illuminators died before 1926)"
   },
   "2-chronicles": {
     "file": "2-chronicles.jpg",
@@ -348,7 +441,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 144830,
     "width": 1000,
-    "height": 667
+    "height": 667,
+    "year": "c. 1664",
+    "artist_death_year": "1688",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Philips Koninck died in 1688 (born 1619); the work is dated c. 1664 and was published before 1931."
   },
   "ecclesiastes": {
     "file": "ecclesiastes.jpg",
@@ -361,7 +457,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 85041,
     "width": 1000,
-    "height": 703
+    "height": 703,
+    "year": "1632",
+    "artist_death_year": "1660",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Pieter Claesz died in 1660 (born 1596); the work is dated 1632 and was published before 1931."
   },
   "jonah": {
     "file": "jonah.jpg",
@@ -374,7 +473,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 149850,
     "width": 1000,
-    "height": 677
+    "height": 677,
+    "year": "c. 1620",
+    "artist_death_year": "1633",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Pieter Lastman died in 1633 (born 1583); the work is dated c. 1620 and was published before 1931."
   },
   "ezekiel": {
     "file": "ezekiel.jpg",
@@ -387,7 +489,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 142539,
     "width": 719,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1518",
+    "artist_death_year": "1520",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Raphael died in 1520 (born 1483); the work is dated c. 1518 and was published before 1931."
   },
   "deuteronomy": {
     "file": "deuteronomy.jpg",
@@ -400,7 +505,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 124643,
     "width": 801,
-    "height": 1000
+    "height": 1000,
+    "year": "1659",
+    "artist_death_year": "1669",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rembrandt died in 1669 (born 1606); the work is dated 1659 and was published before 1931."
   },
   "tobit": {
     "file": "tobit.jpg",
@@ -413,7 +521,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 141876,
     "width": 760,
-    "height": 1000
+    "height": 1000,
+    "year": "1637",
+    "artist_death_year": "1669",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rembrandt died in 1669 (born 1606); the work is dated 1637 and was published before 1931."
   },
   "jeremiah": {
     "file": "jeremiah.jpg",
@@ -426,7 +537,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 80449,
     "width": 786,
-    "height": 1000
+    "height": 1000,
+    "year": "1630",
+    "artist_death_year": "1669",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rembrandt died in 1669 (born 1606); the work is dated 1630 and was published before 1931."
   },
   "judges": {
     "file": "judges.jpg",
@@ -439,7 +553,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 136108,
     "width": 1000,
-    "height": 905
+    "height": 905,
+    "year": "c. 1609–1610",
+    "artist_death_year": "1640",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Peter Paul Rubens died in 1640 (born 1577); the work is dated c. 1609–1610 and was published before 1931."
   },
   "daniel": {
     "file": "daniel.jpg",
@@ -452,20 +569,31 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 119242,
     "width": 1000,
-    "height": 676
+    "height": 676,
+    "year": "c. 1614–1616",
+    "artist_death_year": "1640",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Peter Paul Rubens died in 1640 (born 1577); the work is dated c. 1614–1616 and was published before 1931."
   },
   "1-chronicles": {
     "file": "1-chronicles.jpg",
-    "caption": "the Providence Lithograph Company, The Ark Brought to Jerusalem",
-    "artist": "the Providence Lithograph Company",
-    "title": "The Ark Brought to Jerusalem",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Ark_Brought_to_Jerusalem.jpg",
-    "commons_title": "File:The Ark Brought to Jerusalem.jpg",
+    "caption": "Jan de Bray, King David Leading the Ark of the Covenant to Jerusalem",
+    "artist": "Jan de Bray",
+    "title": "King David Leading the Ark of the Covenant to Jerusalem",
+    "year": "1670",
+    "artist_birth": 1627,
+    "artist_death": 1697,
+    "death_note": null,
+    "artist_qid": "Q346487",
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_de_Bray_-_K%C3%B6nig_David_geleitet_die_Bundeslade_nach_Jerusalem_-_2962_-_Staatliche_Kunsthalle_Karlsruhe.jpg",
+    "commons_title": "File:Jan de Bray - König David geleitet die Bundeslade nach Jerusalem - 2962 - Staatliche Kunsthalle Karlsruhe.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 147634,
-    "width": 775,
-    "height": 898
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died 1697; work dated 1670 (published before 1931).",
+    "bytes": 59567,
+    "width": 685,
+    "height": 640,
+    "replaced_because": "Providence Lithograph Company Bible card, 1896; corporate/anonymous illustrator, no named artist who died before 1926",
+    "artist_death_year": "1697"
   },
   "nahum": {
     "file": "nahum.jpg",
@@ -478,12 +606,15 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 172924,
     "width": 758,
-    "height": 1000
+    "height": 1000,
+    "year": "1915",
+    "artist_death_year": "1915",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Louis Chalon died in 1915 (born 1862); the work is dated 1915 and was published before 1931."
   },
   "1-kings": {
     "file": "1-kings.jpg",
     "caption": "Pernille Klemp/Davids Samling (photographer), The Judgment of Solomon",
-    "artist": "Pernille Klemp/Davids Samling (photographer)",
+    "artist": "Shaykh 'Abbasi",
     "title": "The Judgment of Solomon",
     "source": "https://commons.wikimedia.org/wiki/File:The_Judgment_of_Solomon.jpg",
     "commons_title": "File:The Judgment of Solomon.jpg",
@@ -491,7 +622,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 202403,
     "width": 640,
-    "height": 1000
+    "height": 1000,
+    "year": "1664",
+    "artist_death_year": "before 1926 (fl. 1650–1684)",
+    "license_basis": "Public domain (PD-US; faithful photograph of a 2D Persian miniature). The painter Shaykh 'Abbasi was active 1650–1684, so he died before 1926; the miniature is dated 1664 (published before 1931)."
   },
   "leviticus": {
     "file": "leviticus.jpg",
@@ -504,20 +638,26 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 59282,
     "width": 750,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1896–1902",
+    "artist_death_year": "1902",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). James Tissot died in 1902 (born 1836); the work is dated c. 1896–1902 and was published before 1931."
   },
   "zephaniah": {
     "file": "zephaniah.jpg",
     "caption": "18 cen. icon painter, Zephaniah",
-    "artist": "18 cen. icon painter",
-    "title": "Zephaniah",
+    "artist": "Anonymous Russian icon painter",
+    "title": "The Prophet Zephaniah",
     "source": "https://commons.wikimedia.org/wiki/File:Zephaniah.jpg",
     "commons_title": "File:Zephaniah.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 52570,
     "width": 413,
-    "height": 500
+    "height": 500,
+    "year": "first quarter of the 18th century",
+    "artist_death_year": "before 1926 (first quarter of the 18th century)",
+    "license_basis": "Public domain. Faithful photograph of a 2D icon from the Kizhi iconostasis, first quarter of the 18th century. The painter died before 1926; the work was published long before 1931."
   },
   "psalm-151": {
     "file": "psalm-151.jpg",
@@ -530,7 +670,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 120324,
     "width": 855,
-    "height": 1000
+    "height": 1000,
+    "year": null,
+    "artist_death_year": "1690",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). David Teniers the Younger died in 1690 (born 1610) and was published before 1931."
   },
   "1-esdras": {
     "file": "1-esdras.jpg",
@@ -543,7 +686,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 295919,
     "width": 791,
-    "height": 1000
+    "height": 1000,
+    "year": "1866",
+    "artist_death_year": "1883",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Gustave Doré died in 1883 (born 1832); the work is dated 1866 and was published before 1931."
   },
   "additions-to-daniel-susanna": {
     "file": "additions-to-daniel-susanna.jpg",
@@ -556,7 +702,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 95074,
     "width": 788,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1610",
+    "artist_death_year": "1653",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Artemisia Gentileschi died in 1653 (born 1593); the work is dated c. 1610 and was published before 1931."
   },
   "2-baruch": {
     "file": "2-baruch.jpg",
@@ -569,12 +718,15 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 332037,
     "width": 814,
-    "height": 1000
+    "height": 1000,
+    "year": "1866",
+    "artist_death_year": "1883",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Gustave Doré died in 1883 (born 1832); the work is dated 1866 and was published before 1931."
   },
   "matthew": {
     "file": "matthew.jpg",
     "caption": "Caravaggio, The Calling of Saint Matthew",
-    "artist": "Caravaggio",
+    "artist": "Michelangelo",
     "title": "The Calling of Saint Matthew",
     "source": "https://commons.wikimedia.org/wiki/File:Caravaggio,_Michelangelo_Merisi_da_-_The_Calling_of_Saint_Matthew_-_1599-1600_(hi_res).jpg",
     "commons_title": "File:Caravaggio, Michelangelo Merisi da - The Calling of Saint Matthew - 1599-1600 (hi res).jpg",
@@ -582,7 +734,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 120562,
     "width": 1000,
-    "height": 935
+    "height": 935,
+    "year": "1599–1600",
+    "artist_death_year": "1564",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Michelangelo died in 1564 (born 1475); the work is dated 1599–1600 and was published before 1931."
   },
   "judith": {
     "file": "judith.jpg",
@@ -595,7 +750,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 105451,
     "width": 1000,
-    "height": 741
+    "height": 741,
+    "year": "c. 1599",
+    "artist_death_year": "1610",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Caravaggio died in 1610 (born 1571); the work is dated c. 1599 and was published before 1931."
   },
   "colossians": {
     "file": "colossians.jpg",
@@ -608,7 +766,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 107688,
     "width": 791,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1610–1614",
+    "artist_death_year": "1614",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). El Greco died in 1614 (born 1541); the work is dated c. 1610–1614 and was published before 1931."
   },
   "james": {
     "file": "james.jpg",
@@ -621,7 +782,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 153284,
     "width": 769,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1610",
+    "artist_death_year": "1614",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). El Greco died in 1614 (born 1541); the work is dated c. 1610 and was published before 1931."
   },
   "additions-to-esther": {
     "file": "additions-to-esther.jpg",
@@ -634,51 +798,63 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 152781,
     "width": 1000,
-    "height": 647
+    "height": 647,
+    "year": "1888",
+    "artist_death_year": "1923",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Ernest Normand died in 1923 (born 1857); the work is dated 1888 and was published before 1931."
   },
   "sirach-ben-sira": {
     "file": "sirach-ben-sira.jpg",
     "caption": "Nadar, Eugène Scribe. Auteur dramatique : [photographie, tirage de démonstration] / [Atelier N…",
-    "artist": "Nadar",
-    "title": "Eugène Scribe. Auteur dramatique : [photographie, tirage de démonstration] / [Atelier N…",
+    "artist": "Nadar (Gaspard-Félix Tournachon)",
+    "title": "Portrait of Eugène Scribe",
     "source": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Scribe_par_Nadar.png",
     "commons_title": "File:Eugène Scribe par Nadar.png",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 96009,
     "width": 731,
-    "height": 1000
+    "height": 1000,
+    "year": "1855–1859",
+    "artist_death_year": "1910",
+    "license_basis": "Public domain (PD-old-100-expired). This is a photograph, so the photographer’s own copyright is the relevant one: Nadar died in 1910, and the portrait was published in 1855–1859 (before 1931). The photograph itself is therefore PD worldwide under a life-plus-100 term."
   },
   "additions-to-daniel-prayer-of-azariah-and-song-of-the-three": {
     "file": "additions-to-daniel-prayer-of-azariah-and-song-of-the-three.jpg",
     "caption": "http://www.cts.edu/ImageLibrary/Images/slides/threeyth.jpg, fiery furnace",
-    "artist": "http://www.cts.edu/ImageLibrary/Images/slides/threeyth.jpg",
-    "title": "fiery furnace",
+    "artist": "Anonymous early Christian painter",
+    "title": "The Three Hebrews in the Fiery Furnace",
     "source": "https://commons.wikimedia.org/wiki/File:Fiery_furnace_02.jpg",
     "commons_title": "File:Fiery furnace 02.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 86079,
     "width": 782,
-    "height": 503
+    "height": 503,
+    "year": "late 3rd–early 4th century",
+    "artist_death_year": "before 1926 (3rd–4th century fresco)",
+    "license_basis": "Public domain (PD-Art). Faithful photograph of a 2D catacomb fresco in the Catacomb of Priscilla, painted in the late 3rd or early 4th century. The painter died many centuries before 1926."
   },
   "4-maccabees": {
     "file": "4-maccabees.jpg",
     "caption": "Unknown authorUnknown author, Fresco of the 7 Maccabean Martyrs",
-    "artist": "Unknown authorUnknown author",
-    "title": "Fresco of the 7 Maccabean Martyrs",
+    "artist": "Anonymous fresco painter",
+    "title": "The Seven Maccabean Martyrs",
     "source": "https://commons.wikimedia.org/wiki/File:Fresco_of_the_7_Maccabean_Martyrs.jpg",
     "commons_title": "File:Fresco of the 7 Maccabean Martyrs.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 80843,
     "width": 480,
-    "height": 450
+    "height": 450,
+    "year": "13th–15th century",
+    "artist_death_year": "before 1926 (13th–15th century fresco)",
+    "license_basis": "Public domain. Faithful photograph of a 2D fresco dated to the 13th–15th century. The painter died centuries before 1926."
   },
   "3-maccabees": {
     "file": "3-maccabees.jpg",
     "caption": "This file was donated to Wikimedia Commons as part of a project by the Metrop…, Gold oktadrachm of Ptolemy…",
-    "artist": "This file was donated to Wikimedia Commons as part of a project by the Metrop…",
+    "artist": "Unknown Ptolemaic mint (coin); photograph dedicated CC0 by the Metropolitan Museum of Art",
     "title": "Gold oktadrachm of Ptolemy IV Philopator",
     "source": "https://commons.wikimedia.org/wiki/File:Gold_oktadrachm_of_Ptolemy_IV_Philopator_MET_DP139890.jpg",
     "commons_title": "File:Gold oktadrachm of Ptolemy IV Philopator MET DP139890.jpg",
@@ -686,7 +862,10 @@
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "bytes": 160715,
     "width": 1000,
-    "height": 997
+    "height": 997,
+    "year": "221–204 BC (coin)",
+    "artist_death_year": "ancient (coin); photograph: CC0 dedication",
+    "license_basis": "CC0 1.0 dedication by the Metropolitan Museum of Art, which waives copyright in the photograph of this 3D coin. The coin itself is ancient and in the public domain. The CC0 dedication satisfies the rule for photographs of 3D objects."
   },
   "mark": {
     "file": "mark.jpg",
@@ -699,7 +878,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 148287,
     "width": 658,
-    "height": 1000
+    "height": 1000,
+    "year": "1503–1508",
+    "artist_death_year": "1521",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Jean Bourdichon died in 1521 (born 1457); the work is dated 1503–1508 and was published before 1931."
   },
   "acts": {
     "file": "acts.jpg",
@@ -712,20 +894,26 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 123725,
     "width": 1000,
-    "height": 589
+    "height": 589,
+    "year": "1732",
+    "artist_death_year": "1768",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Jean Restout died in 1768 (born 1692); the work is dated 1732 and was published before 1931."
   },
   "prayer-of-manasseh": {
     "file": "prayer-of-manasseh.jpg",
     "caption": "Published by Guillaume Rouille(1518?-1589), Manases-Manasseh",
-    "artist": "Published by Guillaume Rouille(1518?-1589)",
-    "title": "Manases-Manasseh",
+    "artist": "Anonymous designer; published by Guillaume Rouillé",
+    "title": "Manasseh, King of Judah",
     "source": "https://commons.wikimedia.org/wiki/File:Manases-Manasseh.jpg",
     "commons_title": "File:Manases-Manasseh.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 70751,
     "width": 420,
-    "height": 422
+    "height": 422,
+    "year": "1553",
+    "artist_death_year": "Rouillé 1589; designer before 1926 (published 1553)",
+    "license_basis": "Public domain. 2D woodcut portrait from the Promptuarii Iconum Insigniorum, published by Guillaume Rouillé (d. 1589) in 1553. The designer was a 16th-century artisan and died before 1926; the book was published before 1931."
   },
   "hebrews": {
     "file": "hebrews.jpg",
@@ -738,51 +926,73 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 174881,
     "width": 1000,
-    "height": 750
+    "height": 750,
+    "year": "c. 1625",
+    "artist_death_year": "1640",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Peter Paul Rubens died in 1640 (born 1577); the work is dated c. 1625 and was published before 1931."
   },
   "philemon": {
     "file": "philemon.jpg",
     "caption": "Fer.filol, Onesimus",
-    "artist": "Fer.filol",
-    "title": "Onesimus",
+    "artist": "Photographer released the photograph as PD-self (2006); subject is ancient Pompeii graffiti (CIL IV 008380)",
+    "title": "Graffito CIL IV 008380 (Onesimus)",
     "source": "https://commons.wikimedia.org/wiki/File:Onesimus.jpg",
     "commons_title": "File:Onesimus.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 268284,
     "width": 1000,
-    "height": 667
+    "height": 667,
+    "year": "1st century (graffiti); photograph 2006",
+    "artist_death_year": "graffiti: 1st century; photograph: public-domain dedication by its maker",
+    "license_basis": "The photograph itself is in the public domain (Commons PD-self dedication by the photographer). The subject is 1st-century graffiti at Pompeii, long in the public domain. This meets the rule that a photograph of a 3D setting is allowed when the photograph itself is PD or CC0."
   },
   "2-timothy": {
     "file": "2-timothy.jpg",
-    "caption": "Warner Bros., Paul Muni I am a Fugitive From a Chain Gang",
-    "artist": "Warner Bros.",
-    "title": "Paul Muni I am a Fugitive From a Chain Gang",
-    "source": "https://commons.wikimedia.org/wiki/File:Paul_Muni_I_am_a_Fugitive_From_a_Chain_Gang.jpg",
-    "commons_title": "File:Paul Muni I am a Fugitive From a Chain Gang.jpg",
+    "caption": "Valentin de Boulogne, Saint Paul Writing His Epistles",
+    "artist": "Valentin de Boulogne",
+    "title": "Saint Paul Writing His Epistles",
+    "year": "c. 1618–1620",
+    "artist_birth": 1591,
+    "artist_death": 1632,
+    "death_note": null,
+    "artist_qid": "Q1337275",
+    "source": "https://commons.wikimedia.org/wiki/File:Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles_-_BF.1991.4_-_Museum_of_Fine_Arts.jpg",
+    "commons_title": "File:Valentin de Boulogne - Saint Paul Writing His Epistles - BF.1991.4 - Museum of Fine Arts.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 63795,
-    "width": 930,
-    "height": 700
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died 1632; work dated c. 1618–1620 (published before 1931).",
+    "bytes": 93766,
+    "width": 1000,
+    "height": 735,
+    "replaced_because": "Warner Bros. 1932 film still (I Am a Fugitive from a Chain Gang); published 1932, not worldwide PD, not a Bible work",
+    "artist_death_year": "1632"
   },
   "1-thessalonians": {
     "file": "1-thessalonians.jpg",
-    "caption": "Unknown authorUnknown author, Paul preaching",
-    "artist": "Unknown authorUnknown author",
-    "title": "Paul preaching",
-    "source": "https://commons.wikimedia.org/wiki/File:Paul_preaching.jpg",
-    "commons_title": "File:Paul preaching.jpg",
+    "caption": "Raphael, Saint Paul Preaching in Athens",
+    "artist": "Raphael",
+    "title": "Saint Paul Preaching in Athens",
+    "year": "1515",
+    "artist_birth": 1483,
+    "artist_death": 1520,
+    "death_note": null,
+    "artist_qid": "Q5597",
+    "source": "https://commons.wikimedia.org/wiki/File:V%26A_-_Raphael,_St_Paul_Preaching_in_Athens_(1515).jpg",
+    "commons_title": "File:V&A - Raphael, St Paul Preaching in Athens (1515).jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 225927,
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died 1520; work dated 1515 (published before 1931).",
+    "bytes": 180414,
     "width": 1000,
-    "height": 797
+    "height": 769,
+    "replaced_because": "Anonymous 1873 Bible illustration (The story of the Bible from Genesis to Revelation); artist death year could not be proved to be before 1926 (same Commons file as 1-corinthians)",
+    "artist_death_year": "1520"
   },
   "1-maccabees": {
     "file": "1-maccabees.jpg",
     "caption": "Peter Paul Rubens and workshop, Judas Maccabeus finds the hidden treasure of the heathen and prays for the…",
-    "artist": "Peter Paul Rubens and workshop",
+    "artist": "Peter Paul Rubens",
     "title": "Judas Maccabeus finds the hidden treasure of the heathen and prays for the souls of the…",
     "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_and_workshop_002.jpg",
     "commons_title": "File:Peter Paul Rubens and workshop 002.jpg",
@@ -790,7 +1000,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 143402,
     "width": 727,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1610s",
+    "artist_death_year": "1640",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Peter Paul Rubens died in 1640 (born 1577); the work is dated c. 1610s and was published before 1931."
   },
   "philippians": {
     "file": "philippians.jpg",
@@ -803,12 +1016,15 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 57260,
     "width": 597,
-    "height": 718
+    "height": 718,
+    "year": "1627",
+    "artist_death_year": "1669",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rembrandt died in 1669 (born 1606); the work is dated 1627 and was published before 1931."
   },
   "additions-to-daniel-bel-and-the-dragon": {
     "file": "additions-to-daniel-bel-and-the-dragon.jpg",
     "caption": "Pseudo-Ortkens, Roundel with Daniel Slaying the Dragon",
-    "artist": "Pseudo-Ortkens",
+    "artist": "Pseudo-Ortkens (South Netherlandish)",
     "title": "Roundel with Daniel Slaying the Dragon",
     "source": "https://commons.wikimedia.org/wiki/File:Roundel_with_Daniel_Slaying_the_Dragon_MET_cdi32-24-49.jpg",
     "commons_title": "File:Roundel with Daniel Slaying the Dragon MET cdi32-24-49.jpg",
@@ -816,12 +1032,15 @@
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "bytes": 210859,
     "width": 1000,
-    "height": 998
+    "height": 998,
+    "year": "c. 1520",
+    "artist_death_year": "before 1926 (active 1510–1540)",
+    "license_basis": "CC0 1.0 dedication by the Metropolitan Museum of Art. The underlying work is a 2D stained-glass roundel of c. 1520 by Pseudo-Ortkens (active 1510–1540), so the artist died before 1926 and the work was published before 1931."
   },
   "1-john": {
     "file": "1-john.jpg",
     "caption": "unknown Russian (Timofei Semionovich?), Saint John the Evangelist",
-    "artist": "unknown Russian (Timofei Semionovich?)",
+    "artist": "Unknown Russian painter (possibly Timofei Semionovich)",
     "title": "Saint John the Evangelist",
     "source": "https://commons.wikimedia.org/wiki/File:Saint_John_the_Evangelist.jpg",
     "commons_title": "File:Saint John the Evangelist.jpg",
@@ -829,7 +1048,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 130415,
     "width": 683,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1760",
+    "artist_death_year": "before 1926 (icon dated c. 1760)",
+    "license_basis": "Public domain (PD-Art). Faithful photograph of a 2D Russian icon dated circa 1760. Any painter working in 1760 died before 1926; the work was published long before 1931."
   },
   "romans": {
     "file": "romans.jpg",
@@ -842,7 +1064,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 84061,
     "width": 797,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1657",
+    "artist_death_year": "1669",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rembrandt died in 1669 (born 1606); the work is dated c. 1657 and was published before 1931."
   },
   "titus": {
     "file": "titus.jpg",
@@ -855,12 +1080,15 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 76844,
     "width": 438,
-    "height": 600
+    "height": 600,
+    "year": "c. 1452–1460",
+    "artist_death_year": "1481",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Jean Fouquet died in 1481 (born 1420); the work is dated c. 1452–1460 and was published before 1931."
   },
   "2-peter": {
     "file": "2-peter.jpg",
     "caption": "Attributed to Giovanni Lanfranco (1582-1647), Saint Peter",
-    "artist": "Attributed to Giovanni Lanfranco (1582-1647)",
+    "artist": "Giovanni Lanfranco",
     "title": "Saint Peter",
     "source": "https://commons.wikimedia.org/wiki/File:Saint_Peter.jpg",
     "commons_title": "File:Saint Peter.jpg",
@@ -868,20 +1096,31 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 197917,
     "width": 912,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1620s",
+    "artist_death_year": "1647",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Giovanni Lanfranco died in 1647 (born 1582); the work is dated c. 1620s and was published before 1931."
   },
   "1-timothy": {
     "file": "1-timothy.jpg",
-    "caption": "Unknown authorUnknown author, Saint Timothy",
-    "artist": "Unknown authorUnknown author",
+    "caption": "Byzantine illuminators of the Menologion of Basil II (workshop of Pantoleon and others), Saint Timothy",
+    "artist": "Byzantine illuminators of the Menologion of Basil II (workshop of Pantoleon and others)",
     "title": "Saint Timothy",
-    "source": "https://commons.wikimedia.org/wiki/File:Saint_Timothy.jpg",
-    "commons_title": "File:Saint Timothy.jpg",
+    "year": "c. 985",
+    "artist_birth": null,
+    "artist_death": 985,
+    "death_note": "c. 985 (workshop; illuminators died before 1926)",
+    "artist_qid": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Timothy_(Menologion_of_Basil_II).jpg",
+    "commons_title": "File:Saint Timothy (Menologion of Basil II).jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 57854,
-    "width": 443,
-    "height": 600
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died c. 985 (workshop; illuminators died before 1926); work dated c. 985 (published before 1931).",
+    "bytes": 214271,
+    "width": 1000,
+    "height": 696,
+    "replaced_because": "Unknown artist, undated Orthodox icon licensed only PD-Art (PD-old-70), which does not establish death before 1926",
+    "artist_death_year": "c. 985 (workshop; illuminators died before 1926)"
   },
   "2-maccabees": {
     "file": "2-maccabees.jpg",
@@ -894,7 +1133,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 102795,
     "width": 1000,
-    "height": 695
+    "height": 695,
+    "year": "1844",
+    "artist_death_year": "1875",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Wojciech Stattler died in 1875 (born 1800); the work is dated 1844 and was published before 1931."
   },
   "galatians": {
     "file": "galatians.jpg",
@@ -907,25 +1149,36 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 123754,
     "width": 801,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1600–1601",
+    "artist_death_year": "1610",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Caravaggio died in 1610 (born 1571); the work is dated c. 1600–1601 and was published before 1931."
   },
   "1-peter": {
     "file": "1-peter.jpg",
-    "caption": "Rob van Hegelsom, The Crucifixion of Saint Peter",
-    "artist": "Rob van Hegelsom",
+    "caption": "Caravaggio, The Crucifixion of Saint Peter",
+    "artist": "Caravaggio",
     "title": "The Crucifixion of Saint Peter",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Crucifixion_of_Saint_Peter.jpg",
-    "commons_title": "File:The Crucifixion of Saint Peter.jpg",
+    "year": "1601",
+    "artist_birth": 1571,
+    "artist_death": 1610,
+    "death_note": null,
+    "artist_qid": "Q42207",
+    "source": "https://commons.wikimedia.org/wiki/File:Crucifixion_of_Saint_Peter-Caravaggio_(c.1600).jpg",
+    "commons_title": "File:Crucifixion of Saint Peter-Caravaggio (c.1600).jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 51547,
-    "width": 649,
-    "height": 1000
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died 1610; work dated 1601 (published before 1931).",
+    "bytes": 130157,
+    "width": 776,
+    "height": 1000,
+    "replaced_because": "2016 museum photo credited to Rob van Hegelsom and tagged CC BY-SA 4.0 as well as PD-Art",
+    "artist_death_year": "1610"
   },
   "letter-of-jeremiah": {
     "file": "letter-of-jeremiah.jpg",
     "caption": "Giorgio Ghisi / Michelangelo / Nicolaus van Aelst, The Prophet Jeremiah, from the series of Prophets and Si…",
-    "artist": "Giorgio Ghisi / Michelangelo / Nicolaus van Aelst",
+    "artist": "Giorgio Ghisi, after Michelangelo, published by Nicolaus van Aelst",
     "title": "The Prophet Jeremiah, from the series of Prophets and Sibyls in the Sistine Chapel",
     "source": "https://commons.wikimedia.org/wiki/File:The_Prophet_Jeremiah,_from_the_series_of_Prophets_and_Sibyls_in_the_Sistine_Chapel_MET_DP821566.jpg",
     "commons_title": "File:The Prophet Jeremiah, from the series of Prophets and Sibyls in the Sistine Chapel MET DP821566.jpg",
@@ -933,7 +1186,10 @@
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "bytes": 215225,
     "width": 763,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1570–1575 (after a fresco of c. 1512)",
+    "artist_death_year": "Ghisi 1582; Michelangelo 1564; van Aelst 1613",
+    "license_basis": "CC0 1.0 dedication by the Metropolitan Museum of Art. The print is a 2D engraving of the late 16th century after Michelangelo (d. 1564); Ghisi died in 1582 and van Aelst in 1613. All died before 1926; the print was published before 1931."
   },
   "2-esdras": {
     "file": "2-esdras.jpg",
@@ -946,7 +1202,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 142533,
     "width": 1000,
-    "height": 750
+    "height": 750,
+    "year": "c. 1896–1902",
+    "artist_death_year": "1902",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). James Tissot died in 1902 (born 1836); the work is dated c. 1896–1902 and was published before 1931."
   },
   "luke": {
     "file": "luke.jpg",
@@ -959,20 +1218,26 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 84116,
     "width": 608,
-    "height": 768
+    "height": 768,
+    "year": "c. 1435–1440",
+    "artist_death_year": "1464",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rogier van der Weyden died in 1464 (born 1390); the work is dated c. 1435–1440 and was published before 1931."
   },
   "joseph-and-aseneth": {
     "file": "joseph-and-aseneth.jpg",
     "caption": "Unknown Master, Flemish (active around 1500 in Brussels), Joseph receives Asenath, daughter of the priest P…",
-    "artist": "Unknown Master, Flemish (active around 1500 in Brussels)",
-    "title": "Joseph receives Asenath, daughter of the priest Potipherah, as wife (Genesis 41:45) lab…",
+    "artist": "Unknown Master, Flemish (Master of the Joseph Sequence), active around 1500 in Brussels",
+    "title": "Joseph and Asenath",
     "source": "https://commons.wikimedia.org/wiki/File:15th-century_unknown_painters_-_Joseph_and_Asenath_-_WGA23597.png",
     "commons_title": "File:15th-century unknown painters - Joseph and Asenath - WGA23597.png",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 150728,
     "width": 1000,
-    "height": 981
+    "height": 981,
+    "year": "c. 1500",
+    "artist_death_year": "before 1926 (active around 1500)",
+    "license_basis": "Public domain (PD-Art, PD-old-100). Faithful photograph of a 2D panel painting of about 1500. The painter died centuries before 1926."
   },
   "jubilees": {
     "file": "jubilees.jpg",
@@ -985,25 +1250,31 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 89365,
     "width": 672,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1784",
+    "artist_death_year": "1820",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Benjamin West died in 1820 (born 1738); the work is dated c. 1784 and was published before 1931."
   },
   "psalms-152-to-155": {
     "file": "psalms-152-to-155.jpg",
     "caption": "Rijksmuseum, David speelt op zijn harp, David doodt de leeuw en de beer, David door Samuël gezalfd,…",
-    "artist": "Rijksmuseum",
-    "title": "David speelt op zijn harp, David doodt de leeuw en de beer, David door Samuël gezalfd,…",
+    "artist": "Unnamed 16th-century printmaker (Rijksmuseum collection)",
+    "title": "Scenes from the life of David",
     "source": "https://commons.wikimedia.org/wiki/File:David_speelt_op_zijn_harp,_David_doodt_de_leeuw_en_de_beer,_David_door_Samu%C3%ABl_gezalfd,_David_spreekt_met_soldaten_ove,_RP-P-2015-10-105.jpg",
     "commons_title": "File:David speelt op zijn harp, David doodt de leeuw en de beer, David door Samuël gezalfd, David spreekt met soldaten ove, RP-P-2015-10-105.jpg",
     "license": "CC0",
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "bytes": 176888,
     "width": 1000,
-    "height": 729
+    "height": 729,
+    "year": "1575",
+    "artist_death_year": "before 1926 (print dated 1575)",
+    "license_basis": "CC0 1.0 dedication by the Rijksmuseum. The underlying work is a 2D print dated 1575, so its maker died before 1926 and the work was published before 1931."
   },
   "2-john": {
     "file": "2-john.jpg",
     "caption": "anonymous, The Virgin Mary Receiving the Eucharist from Saint John the Apostle",
-    "artist": "anonymous",
+    "artist": "Anonymous Flemish painter",
     "title": "The Virgin Mary Receiving the Eucharist from Saint John the Apostle",
     "source": "https://commons.wikimedia.org/wiki/File:Flemish_School_-_The_Virgin_Mary_Receiving_the_Eucharist_from_Saint_John_the_Apostle_-_84.049_-_Fyvie_Castle.jpg",
     "commons_title": "File:Flemish School - The Virgin Mary Receiving the Eucharist from Saint John the Apostle - 84.049 - Fyvie Castle.jpg",
@@ -1011,7 +1282,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 136645,
     "width": 700,
-    "height": 1000
+    "height": 1000,
+    "year": "1650",
+    "artist_death_year": "before 1926 (dated 1650)",
+    "license_basis": "Public domain (PD-Art, PD-old-100-expired). Faithful photograph of a 2D painting dated 1650. The painter died before 1926."
   },
   "revelation": {
     "file": "revelation.jpg",
@@ -1024,33 +1298,42 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 132721,
     "width": 1000,
-    "height": 645
+    "height": 645,
+    "year": "c. 1851",
+    "artist_death_year": "1854",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). John Martin died in 1854 (born 1789); the work is dated c. 1851 and was published before 1931."
   },
   "life-of-adam-and-eve": {
     "file": "life-of-adam-and-eve.jpg",
     "caption": "Masaccio, Expulsion from the Garden of Eden",
     "artist": "Masaccio",
-    "title": "Expulsion from the Garden of Eden",
+    "title": "The Expulsion from the Garden of Eden",
     "source": "https://commons.wikimedia.org/wiki/File:Masaccio-TheExpulsionOfAdamAndEveFromEden-Restoration.jpg",
     "commons_title": "File:Masaccio-TheExpulsionOfAdamAndEveFromEden-Restoration.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 163343,
     "width": 778,
-    "height": 1000
+    "height": 1000,
+    "year": "1426–1428",
+    "artist_death_year": "1428",
+    "license_basis": "Public domain (PD-Art, PD-old-100-expired). Faithful photograph of Masaccio’s 2D fresco in the Brancacci Chapel, painted 1426–1428. Masaccio died in 1428. A 1980 conservation campaign recovered the original painting (including removal of later fig leaves); it is treated as a restoration of the 15th-century work, not as a new copyrightable authorship."
   },
   "3-john": {
     "file": "3-john.jpg",
     "caption": "Master of the Rotterdam Saint John on Patmos / Circle of Dieric Bouts, Saint John the Evangelist on Patmos",
-    "artist": "Master of the Rotterdam Saint John on Patmos / Circle of Dieric Bouts",
-    "title": "Saint John the Evangelist on Patmos",
+    "artist": "Master of the Rotterdam Saint John on Patmos (circle of Dieric Bouts)",
+    "title": "Saint John on Patmos",
     "source": "https://commons.wikimedia.org/wiki/File:Master_of_the_Rotterdam_Saint_John_on_Patmos_001.jpg",
     "commons_title": "File:Master of the Rotterdam Saint John on Patmos 001.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 208672,
     "width": 930,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1475–1500",
+    "artist_death_year": "before 1926 (active 1475–1500); Bouts died 1475",
+    "license_basis": "Public domain (PD-Art, PD-old-100). Faithful photograph of a 2D Early Netherlandish panel of c. 1475–1500. The painter died centuries before 1926."
   },
   "1-enoch": {
     "file": "1-enoch.jpg",
@@ -1063,7 +1346,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 188109,
     "width": 1000,
-    "height": 721
+    "height": 721,
+    "year": "1562",
+    "artist_death_year": "1569",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Pieter Bruegel the Elder died in 1569 (born 1525); the work is dated 1562 and was published before 1931."
   },
   "letter-of-aristeas": {
     "file": "letter-of-aristeas.jpg",
@@ -1076,7 +1362,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 113831,
     "width": 711,
-    "height": 1000
+    "height": 1000,
+    "year": "1813",
+    "artist_death_year": "1844",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Vincenzo Camuccini died in 1844 (born 1771); the work is dated 1813 and was published before 1931."
   },
   "testaments-of-the-twelve-patriarchs": {
     "file": "testaments-of-the-twelve-patriarchs.jpg",
@@ -1089,7 +1378,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 108564,
     "width": 1000,
-    "height": 839
+    "height": 839,
+    "year": "1656",
+    "artist_death_year": "1669",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rembrandt died in 1669 (born 1606); the work is dated 1656 and was published before 1931."
   },
   "apocalypse-of-abraham": {
     "file": "apocalypse-of-abraham.jpg",
@@ -1102,46 +1394,63 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 72922,
     "width": 539,
-    "height": 450
+    "height": 450,
+    "year": "1646",
+    "artist_death_year": "1669",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Rembrandt died in 1669 (born 1606); the work is dated 1646 and was published before 1931."
   },
   "psalms-of-solomon": {
     "file": "psalms-of-solomon.jpg",
     "caption": "Rijksmuseum, Tempel van Salomo Den tempel Salomons (titel op object), RP-P-2015-17-79-2(V)",
-    "artist": "Rijksmuseum",
-    "title": "Tempel van Salomo Den tempel Salomons (titel op object), RP-P-2015-17-79-2(V)",
+    "artist": "Unnamed 17th-century printmaker (Rijksmuseum collection)",
+    "title": "The Temple of Solomon",
     "source": "https://commons.wikimedia.org/wiki/File:Tempel_van_Salomo_Den_tempel_Salomons_(titel_op_object),_RP-P-2015-17-79-2(V).jpg",
     "commons_title": "File:Tempel van Salomo Den tempel Salomons (titel op object), RP-P-2015-17-79-2(V).jpg",
     "license": "CC0",
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "bytes": 177865,
     "width": 712,
-    "height": 1000
+    "height": 1000,
+    "year": "1629",
+    "artist_death_year": "before 1926 (print dated 1629)",
+    "license_basis": "CC0 1.0 dedication by the Rijksmuseum. The underlying work is a 2D print dated 1629, so its maker died before 1926 and the work was published before 1931."
   },
   "ascension-of-isaiah": {
     "file": "ascension-of-isaiah.jpg",
-    "caption": "Scan by NYPL, The Lower Pool of Siloam. The old mulberry-tree, supported by stones, is said to mark t…",
-    "artist": "Scan by NYPL",
-    "title": "The Lower Pool of Siloam. The old mulberry-tree, supported by stones, is said to mark t…",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Lower_Pool_of_Siloam._The_old_mulberry-tree,_supported_by_stones,_is_said_to_mark_the_spot_where_the_Prophet_Isaiah_was_sawn_asunder,_in_the_presence_of_King_Manasseh_(NYPL_b10607452-80301).tiff",
-    "commons_title": "File:The Lower Pool of Siloam. The old mulberry-tree, supported by stones, is said to mark the spot where the Prophet Isaiah was sawn asunder, in the presence of King Manasseh (NYPL b10607452-80301).tiff",
+    "caption": "Anonymous French illuminator, Martyre d'Isaïe (The Martyrdom of Isaiah)",
+    "artist": "Anonymous French illuminator",
+    "title": "Martyre d'Isaïe (The Martyrdom of Isaiah)",
+    "year": "c. 1220–1270",
+    "artist_birth": null,
+    "artist_death": 1270,
+    "death_note": "active 1220–1270 (died before 1926)",
+    "artist_qid": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Martyre_d%27Isa%C3%AFe_-_btv1b105748281.jpg",
+    "commons_title": "File:Martyre d'Isaïe - btv1b105748281.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 137803,
-    "width": 1000,
-    "height": 846
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died active 1220–1270 (died before 1926); work dated c. 1220–1270 (published before 1931).",
+    "bytes": 73136,
+    "width": 512,
+    "height": 768,
+    "replaced_because": "1881 Picturesque Palestine drawing (NYPL scan); plate illustrator not named, so death before 1926 could not be proved",
+    "artist_death_year": "active 1220–1270 (died before 1926)"
   },
   "jude": {
     "file": "jude.jpg",
     "caption": "http://www.atlantedellarteitaliana.it/artwork-10457.html, Ugolino di Nerio - Polittico di Santa Croce 05",
-    "artist": "http://www.atlantedellarteitaliana.it/artwork-10457.html",
-    "title": "Ugolino di Nerio - Polittico di Santa Croce 05",
+    "artist": "Ugolino di Nerio",
+    "title": "Saint John the Evangelist, from the Santa Croce Polyptych",
     "source": "https://commons.wikimedia.org/wiki/File:Ugolino_di_Nerio_-_Polittico_di_Santa_Croce_05.jpg",
     "commons_title": "File:Ugolino di Nerio - Polittico di Santa Croce 05.jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 219043,
     "width": 875,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1325–1330",
+    "artist_death_year": "1330",
+    "license_basis": "Public domain (faithful photograph of a 2D panel painting). Ugolino di Nerio died in 1330; the polyptych was painted in the early 14th century (published before 1931)."
   },
   "4-baruch": {
     "file": "4-baruch.jpg",
@@ -1154,7 +1463,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 68540,
     "width": 816,
-    "height": 1000
+    "height": 1000,
+    "year": "1866",
+    "artist_death_year": "1843",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Washington Allston died in 1843 (born 1779); the work is dated 1866 and was published before 1931."
   },
   "odes-of-solomon": {
     "file": "odes-of-solomon.jpg",
@@ -1167,7 +1479,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 160175,
     "width": 1000,
-    "height": 991
+    "height": 991,
+    "year": "c. 1830s",
+    "artist_death_year": "1861",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Wilhelm Hensel died in 1861 (born 1794); the work is dated c. 1830s and was published before 1931."
   },
   "2-enoch": {
     "file": "2-enoch.jpg",
@@ -1180,7 +1495,10 @@
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "bytes": 47935,
     "width": 703,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1824–1827",
+    "artist_death_year": "1827",
+    "license_basis": "CC0 1.0 dedication by the National Gallery of Art, covering the photograph of this 2D drawing. William Blake died in 1827; the drawing dates from c. 1824–1827."
   },
   "proverbs": {
     "file": "proverbs.jpg",
@@ -1193,7 +1511,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 128748,
     "width": 554,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1874",
+    "artist_death_year": "1905",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Simeon Solomon died in 1905 (born 1840); the work is dated c. 1874 and was published before 1931."
   },
   "baruch": {
     "file": "baruch.jpg",
@@ -1206,12 +1527,15 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 332037,
     "width": 814,
-    "height": 1000
+    "height": 1000,
+    "year": "1866",
+    "artist_death_year": "1883",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Gustave Doré died in 1883 (born 1832); the work is dated 1866 and was published before 1931."
   },
   "john": {
     "file": "john.jpg",
     "caption": "unknown Russian (Timofei Semionovich?), Saint John the Evangelist",
-    "artist": "unknown Russian (Timofei Semionovich?)",
+    "artist": "Unknown Russian painter (possibly Timofei Semionovich)",
     "title": "Saint John the Evangelist",
     "source": "https://commons.wikimedia.org/wiki/File:Saint_John_the_Evangelist.jpg",
     "commons_title": "File:Saint John the Evangelist.jpg",
@@ -1219,20 +1543,31 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 130415,
     "width": 683,
-    "height": 1000
+    "height": 1000,
+    "year": "c. 1760",
+    "artist_death_year": "before 1926 (icon dated c. 1760)",
+    "license_basis": "Public domain (PD-Art). Faithful photograph of a 2D Russian icon dated circa 1760. Any painter working in 1760 died before 1926; the work was published long before 1931."
   },
   "1-corinthians": {
     "file": "1-corinthians.jpg",
-    "caption": "Unknown authorUnknown author, Paul preaching",
-    "artist": "Unknown authorUnknown author",
-    "title": "Paul preaching",
-    "source": "https://commons.wikimedia.org/wiki/File:Paul_preaching.jpg",
-    "commons_title": "File:Paul preaching.jpg",
+    "caption": "Raphael, Saint Paul Preaching in Athens",
+    "artist": "Raphael",
+    "title": "Saint Paul Preaching in Athens",
+    "year": "1515",
+    "artist_birth": 1483,
+    "artist_death": 1520,
+    "death_note": null,
+    "artist_qid": "Q5597",
+    "source": "https://commons.wikimedia.org/wiki/File:V%26A_-_Raphael,_St_Paul_Preaching_in_Athens_(1515).jpg",
+    "commons_title": "File:V&A - Raphael, St Paul Preaching in Athens (1515).jpg",
     "license": "Public domain",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "bytes": 225927,
+    "license_basis": "Public domain (faithful reproduction of a 2D work). Artist died 1520; work dated 1515 (published before 1931).",
+    "bytes": 180414,
     "width": 1000,
-    "height": 797
+    "height": 769,
+    "replaced_because": "Anonymous 1873 Bible illustration (The story of the Bible from Genesis to Revelation); artist death year could not be proved to be before 1926",
+    "artist_death_year": "1520"
   },
   "2-corinthians": {
     "file": "2-corinthians.jpg",
@@ -1245,7 +1580,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 76844,
     "width": 438,
-    "height": 600
+    "height": 600,
+    "year": "c. 1452–1460",
+    "artist_death_year": "1481",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Jean Fouquet died in 1481 (born 1420); the work is dated c. 1452–1460 and was published before 1931."
   },
   "ephesians": {
     "file": "ephesians.jpg",
@@ -1258,7 +1596,10 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 76844,
     "width": 438,
-    "height": 600
+    "height": 600,
+    "year": "c. 1452–1460",
+    "artist_death_year": "1481",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Jean Fouquet died in 1481 (born 1420); the work is dated c. 1452–1460 and was published before 1931."
   },
   "2-thessalonians": {
     "file": "2-thessalonians.jpg",
@@ -1271,6 +1612,9 @@
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "bytes": 76844,
     "width": 438,
-    "height": 600
+    "height": 600,
+    "year": "c. 1452–1460",
+    "artist_death_year": "1481",
+    "license_basis": "Public domain (faithful photograph or scan of a 2D work). Jean Fouquet died in 1481 (born 1420); the work is dated c. 1452–1460 and was published before 1931."
   }
 }
