@@ -165,7 +165,11 @@
           <a class="btn" href="#/books">All books</a>
         </div>
         <p class="home-help"><a href="how-to-use.html">New here? How to use</a></p>
-        <p class="home-help"><a href="https://paypal.me/Pdogg35" target="_blank" rel="noopener noreferrer">Support this free Bible: Donate with PayPal</a></p>
+        <aside class="help-finish" aria-labelledby="helpFinishTitle">
+          <h2 id="helpFinishTitle">Help finish this Bible</h2>
+          <p>The full text is translated, and I’m still working on the extras: dramatized and narrated audio for every chapter, new daily devotionals, a print-ready edition, and more. Right now I pay the costs out of my own pocket, so I can only do a little at a time, and it will take a while to finish until donations come in. If you’d like to help, you can give through PayPal. Gifts are voluntary, non-refundable, and not tax-deductible. <span class="help-sign">— Jose</span></p>
+          <p class="home-help"><a class="btn" href="https://paypal.me/Pdogg35" target="_blank" rel="noopener noreferrer">Donate with PayPal</a></p>
+        </aside>
         <p class="verse-quote">“We have this treasure in clay jars, so that the surpassing power belongs to God and not to us.”<br><small>2 Corinthians 4:7</small></p>
       </section>
 
