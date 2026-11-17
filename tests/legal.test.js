@@ -6,8 +6,8 @@ const root = path.join(__dirname, '..');
 const privacy = fs.readFileSync(path.join(root, 'privacy.html'), 'utf8');
 const terms = fs.readFileSync(path.join(root, 'terms.html'), 'utf8');
 
-assert.ok(privacy.includes('Last updated November 14, 2026'));
-assert.ok(terms.includes('Last updated November 14, 2026'));
+assert.ok(privacy.includes('Last updated November 16, 2026'));
+assert.ok(terms.includes('Last updated November 16, 2026'));
 assert.ok(privacy.includes('Jose Santiago'));
 assert.ok(privacy.includes('Marshfield'));
 assert.ok(terms.includes('Marshfield, Massachusetts'));
@@ -16,7 +16,7 @@ assert.ok(terms.includes('Marshfield, Massachusetts'));
   assert.ok(privacy.includes(s), 'privacy missing ' + s);
 });
 
-['AS IS', 'AS AVAILABLE', 'US$50', 'indemnif', 'not medical advice', 'not tax-deductible', '501(c)(3)', 'Plymouth County', 'Federal Arbitration Act', 'class action', 'Jury', '30 days', 'Arbitration opt-out', 'small claims', 'one year', 'Severability', 'Where your local law gives you rights', 'Quebec', 'Australian Consumer Law', 'do not make a lawsuit impossible', 'English text is the official', 'must not be presented as the official', 'CC BY 4.0'].forEach((s) => {
+['AS IS', 'AS AVAILABLE', 'US$0', 'DMCA', 'COPPA', 'Downloads (PDF and EPUB)', 'trademark rights are not licensed', 'Force majeure', 'Assignment', 'Termination', 'Donations are NOT tax-deductible', 'indemnif', 'not medical advice', 'not tax-deductible', '501(c)(3)', 'Plymouth County', 'Federal Arbitration Act', 'class action', 'Jury', '30 days', 'Arbitration opt-out', 'small claims', 'one year', 'Severability', 'Where your local law gives you rights', 'Quebec', 'Australian Consumer Law', 'do not make a lawsuit impossible', 'English text is the official', 'must not be presented as the official', 'CC BY 4.0'].forEach((s) => {
   assert.ok(terms.toLowerCase().includes(s.toLowerCase()), 'terms missing ' + s);
 });
 
