@@ -1,0 +1,26 @@
+[
+ {
+  "mode": "ask",
+  "engine": "Qwen3 0.6B (the phone model)",
+  "model": "onnx-community/Qwen3-0.6B-ONNX",
+  "question": "What does it mean to be born again?",
+  "secs_on_test_cpu": 49.098,
+  "answer": "To be born again means to be reborn spiritually, meaning to be renewed in faith and to have a new beginning in the resurrection. This is a reference to Jesus' promise that if someone believes in Him, they will live forever, as stated in John 11:26. Being born again signifies a new life and a new beginning, as described in John 11:23\u201327, where Jesus says, \"Your brother will rise again,\" and Martha says, \"I know he will rise again in the resurrection on the last day.\" This promise is fulfilled in John 11:26, where Jesus says, \"I am the resurrection and the life. The one who believes in me will live, even though he dies; and no one who lives and believes in me will ever die.\"\n\n[John 11:26]"
+ },
+ {
+  "mode": "ask",
+  "engine": "Qwen3 0.6B (the phone model)",
+  "model": "onnx-community/Qwen3-0.6B-ONNX",
+  "question": "What is love like, according to Paul?",
+  "secs_on_test_cpu": 26.348,
+  "answer": "According to Paul, love is patient and kind, and it does not seek its own interests. Love is not jealous or puffed up, and it does not take delight in injustice. It bears all things, believes all things, hopes all things, and endsures all things. [16:21]\n\nLove is patient and kind, and it does not seek its own interests. Love is not jealous or puffed up, and it does not take delight in injustice. It bears all things, believes all things, hopes all things, and endsures all things. [16:24]"
+ },
+ {
+  "mode": "pray",
+  "engine": "Qwen3 0.6B (the phone model)",
+  "model": "onnx-community/Qwen3-0.6B-ONNX",
+  "question": "peace when I'm worried",
+  "secs_on_test_cpu": 14.86,
+  "answer": "Father, thank you that you hear me when I call [Psalms 122:6]. When I feel alone, remind me that you are near [Psalms 122:8]. Peace comes when I\u2019m worried, and no need for fear. May all who love you live at ease! May peace be within your ramparts, security within your towers! For the sake of my kin and my companions, I will speak: \u201cWithin you be peace!\u201d May the Lord of peace himself give you peace at all times and in every way. Amen."
+ }
+]
