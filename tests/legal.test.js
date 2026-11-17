@@ -43,4 +43,10 @@ assert.ok(fs.readFileSync(path.join(root, 'js/accounts.js'), 'utf8').includes('B
 assert.ok(fs.readFileSync(path.join(root, 'tools/build-downloads.js'), 'utf8').includes('By downloading a file, you agree'));
 assert.ok(privacy.includes('Security and limits'));
 
+['Sharing verses', 'Truth Social', 'Threads', 'No endorsement'].forEach((s) => assert.ok(terms.includes(s), 'terms missing ' + s));
+['Sharing verses', 'Web Share API', 'Truth Social', 'without a referrer'].forEach((s) => assert.ok(privacy.includes(s), 'privacy missing ' + s));
+const shareJs = fs.readFileSync(path.join(root, 'js/share.js'), 'utf8');
+assert.ok(!/<script|connect\.facebook|platform\.twitter|widgets\.js/.test(shareJs), 'share.js must not load third-party SDKs');
+assert.ok(fs.existsSync(path.join(root, 's/genesis/1.html')), 'share pages missing');
+
 console.log('legal tests passed');
