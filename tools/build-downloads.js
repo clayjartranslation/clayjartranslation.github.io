@@ -233,7 +233,7 @@ function htmlVerse(bookId, ch, v) {
   return `<sup class="v">${v.v}</sup> ${text}`;
 }
 
-function writeHtml(books) {
+function writeHtml(books, images) {
   const body = [];
   body.push('<div class="front">');
   body.push('<p class="eyebrow">CC BY 4.0</p>');
@@ -247,6 +247,10 @@ function writeHtml(books) {
     const bid = 'b-' + meta.id;
     body.push(`<h1 id="${htmlEsc(bid)}">${htmlEsc(full.name)}</h1>`);
     body.push(`<p class="div">${htmlEsc(meta.division)}</p>`);
+    const im = images && images[meta.id];
+    if (im && im.file) {
+      body.push(`<figure class="book-art"><img src="images/${htmlEsc(im.file)}" alt="${htmlEsc(im.caption || full.name)}" /><figcaption>${htmlEsc(im.caption || '')}</figcaption></figure>`);
+    }
     body.push('<div class="book-toc"><p>Chapters</p><ol>');
     for (const ch of full.chapters || []) {
       body.push(`<li><a href="#${bid}-c${ch.n}">Chapter ${ch.n}</a></li>`);
@@ -292,48 +296,79 @@ ${body.join('\n')}
 `;
   const file = path.join(WORK, 'book.html');
   fs.writeFileSync(file, html);
-  const css = `body{font-family:Georgia,serif;line-height:1.55;}
-h1{page-break-before:always;font-size:1.6rem;}
-h2{font-size:1.15rem;margin-top:1.4rem;}
+  const css = `body{font-family:Georgia,serif;font-size:1.125rem;line-height:1.55;}
+h1{page-break-before:always;font-size:1.75rem;}
+h2{font-size:1.25rem;margin-top:1.4rem;}
 .v,.fn{font-size:.65em;font-weight:700;vertical-align:super;}
 p{margin:.45em 0;}
 .poem{margin-left:1em;}
 .book-toc{font-size:.9rem;}
-.notes{font-size:.85rem;}
+.notes{font-size:.9rem;}
 .front h1{page-break-before:auto;}
+.book-art{margin:0.8em auto 1.2em;text-align:center;max-width:28rem;}
+.book-art img{width:100%;height:auto;display:block;}
+.book-art figcaption{font-size:.75rem;font-style:italic;color:#5a4632;margin-top:.4em;}
 `;
   fs.writeFileSync(path.join(WORK, 'epub.css'), css);
   return file;
 }
 
-function writeTypst(books) {
+function loadImageManifest() {
+  const p = path.join(OUT, 'images', 'manifest.json');
+  if (!fs.existsSync(p)) return {};
+  return JSON.parse(fs.readFileSync(p, 'utf8'));
+}
+
+function typstBookImage(bookId, images) {
+  const im = images[bookId];
+  if (!im || !im.file) return '';
+  const src = '/images/' + im.file;
+  const cap = typstEsc(im.caption || '');
+  return `#align(center)[
+  #block(width: 3.9in)[
+    #image("${src}", width: 100%, height: 4.15in, fit: "contain")
+    #v(0.28em)
+    #text(size: 8.5pt, fill: rgb("#5a4632"), style: "italic")[${cap}]
+  ]
+]
+#pagebreak()`;
+}
+
+function writeTypst(books, images) {
   const out = [];
   out.push(`#set document(title: "Clay Jar Translation", author: "Jose Santiago", description: "© 2026 Jose Santiago. Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/")`);
-  out.push(`#set text(font: "Libertinus Serif", size: 11pt, lang: "en")`);
+  out.push(`#set text(font: "Libertinus Serif", size: 14pt, lang: "en")`);
   out.push(`#set page(width: 5.5in, height: 8.5in, margin: (inside: 0.7in, outside: 0.55in, top: 0.72in, bottom: 0.65in), numbering: "1")`);
-  out.push(`#set par(justify: true, leading: 0.68em, spacing: 0.72em, first-line-indent: 0pt)`);
-  out.push(`#show footnote.entry: set text(size: 8.5pt)`);
+  out.push(`#set par(justify: true, leading: 0.78em, spacing: 0.82em, first-line-indent: 0pt)`);
+  out.push(`#show footnote.entry: set text(size: 10pt)`);
   out.push(`#let vn(n) = super(text(size: 0.62em, weight: "bold", fill: rgb("#6b3a22"))[#n])`);
-  out.push(`#show heading.where(level: 1): it => { pagebreak(weak: true); v(1.2em); align(center, text(size: 22pt, weight: "bold", it.body)); v(0.8em) }`);
+  out.push(`#show heading.where(level: 1): it => { pagebreak(weak: true); v(1em); align(center, text(size: 28pt, weight: "bold", it.body)); v(0.55em) }`);
+  out.push(`#show heading.where(level: 2): set text(size: 18pt, weight: "bold")`);
   out.push(`#align(center)[
-    #text(size: 22pt, weight: "bold")[Clay Jar Translation]
-    #v(0.7em)
+    #text(size: 28pt, weight: "bold")[Clay Jar Translation]
+    #v(0.8em)
+    #text(size: 11pt)[
     © 2026 Jose Santiago. Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
     #v(0.4em)
     #link("https://creativecommons.org/licenses/by/4.0/")[https://creativecommons.org/licenses/by/4.0/]
-    #v(0.6em)
+    #v(0.55em)
     Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”
-    #v(0.6em)
+    #v(0.55em)
     Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.
-    #v(0.6em)
+    #v(0.55em)
     Draft 0.1. Made with AI assistance and not yet reviewed by scholars.
+    #v(0.55em)
+    Each book opens with a public-domain or CC0 image of its story or a related scene. Sources and licenses are listed in IMAGE-CREDITS.md.
+    ]
   ]`);
   out.push(`#pagebreak()`);
   out.push(`#outline(title: [Contents], depth: 1)`);
   out.push(`#pagebreak()`);
-  for (const { full } of books) {
+  for (const { meta, full } of books) {
     out.push(`= ${typstEsc(full.name)}`);
     out.push(`#align(center)[#emph[${typstEsc(full.division || '')}]]`);
+    const art = typstBookImage(meta.id, images);
+    if (art) out.push(art);
     for (const ch of full.chapters || []) {
       out.push(`== Chapter ${ch.n}`);
       out.push('#counter(footnote).update(0)');
@@ -366,7 +401,55 @@ function writeTypst(books) {
   return file;
 }
 
+
+function embedEpubImages() {
+  const script = `
+import zipfile, re
+from pathlib import Path
+root = Path(__file__).resolve().parents[1] if False else Path(__import__('os').environ['CJT_ROOT'])
+src = root / 'downloads' / 'clay-jar-translation.epub'
+imgdir = root / 'downloads' / 'images'
+tmp = src.with_suffix('.epub.tmp')
+images = sorted(imgdir.glob('*.jpg'))
+with zipfile.ZipFile(src, 'r') as zin, zipfile.ZipFile(tmp, 'w') as zout:
+    mout = zin.getinfo('mimetype')
+    zout.writestr(mout, zin.read('mimetype'), compress_type=zipfile.ZIP_STORED)
+    for info in zin.infolist():
+        if info.filename == 'mimetype':
+            continue
+        data = zin.read(info)
+        name = info.filename
+        if name.endswith('.opf'):
+            text = data.decode('utf-8')
+            items = [f'    <item id="img-{p.stem}" href="images/{p.name}" media-type="image/jpeg"/>' for p in images]
+            if '</manifest>' not in text:
+                raise SystemExit('no manifest')
+            text = text.replace('</manifest>', '\\n'.join(items) + '\\n  </manifest>', 1)
+            data = text.encode('utf-8')
+        elif name.endswith('.xhtml') or name.endswith('.html'):
+            text = data.decode('utf-8')
+            text = re.sub(r'src="[^"]*images/([^"]+)"', r'src="../images/\\1"', text)
+            data = text.encode('utf-8')
+        zout.writestr(info, data)
+    for p in images:
+        zout.write(p, f'EPUB/images/{p.name}', compress_type=zipfile.ZIP_DEFLATED)
+tmp.replace(src)
+print('embedded', len(images), 'images')
+`
+  const r = spawnSync('python3', ['-c', script], {
+    encoding: 'utf8',
+    env: Object.assign({}, process.env, { CJT_ROOT: ROOT }),
+  });
+  if (r.status !== 0) {
+    console.error(r.stdout);
+    console.error(r.stderr);
+    throw new Error('embed epub images failed');
+  }
+  if (r.stdout) console.log(r.stdout.trim());
+}
+
 function run(cmd, args) {
+
   const r = spawnSync(cmd, args, { encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 });
   if (r.status !== 0) {
     console.error(r.stdout);
@@ -438,7 +521,7 @@ function writePage(files) {
     <h2>Apple Books</h2>
     <p>On a Mac, open the EPUB and it offers Apple Books. On an iPhone or iPad, download the EPUB in Safari, tap the file, and choose Books, or use the Files app and share it to Books. The book is stored on that device.</p>
     <h2>Other reading apps</h2>
-    <p>The JSON file is one object per book, chapter, and verse. The shape is described in <a href="SCHEMA.md">SCHEMA.md</a>. The plain-text file is for search and print scripts. The USFM zip is one file per book for translation tools that read USFM.</p>
+    <p>The JSON file is one object per book, chapter, and verse. The shape is described in <a href="SCHEMA.md">SCHEMA.md</a>. The plain-text file is for search and print scripts. The USFM zip is one file per book for translation tools that read USFM. The opening picture for each book, with its source and license, is listed in <a href="IMAGE-CREDITS.md">IMAGE-CREDITS.md</a>.</p>
     <p>These files are rebuilt from the site’s book data when the text changes. <a href="../terms.html">Terms</a> · <a href="../privacy.html">Privacy</a> · <a href="../">Back to the reader</a></p>
   </main>
   <footer class="foot"><p class="accept">By using this site you agree to the <a href="../terms.html">Terms of Service</a> and the <a href="../privacy.html">Privacy Policy</a>.</p><p class="foot-links"><a href="../">Home</a> <a href="../devotional.html">Devotional</a> <a href="./">Downloads</a> <a href="../how-to-use.html">How to use</a> <a href="../terms.html">Terms</a> <a href="../privacy.html">Privacy</a></p></footer>
@@ -456,11 +539,12 @@ function main() {
   console.log('Loading books…');
   const { cat, books } = loadBooks();
   console.log(books.length + ' books');
+  const images = loadImageManifest();
   writeJSON(books, cat);
   writeText(books);
   writeUsfm(books);
-  const html = writeHtml(books);
-  const typ = writeTypst(books);
+  const html = writeHtml(books, images);
+  const typ = writeTypst(books, images);
   console.log('EPUB…');
   run('pandoc', [
     html, '-o', path.join(OUT, 'clay-jar-translation.epub'),
@@ -475,6 +559,8 @@ function main() {
     '--metadata', 'identifier=urn:uuid:6f1e4b3a-9c2d-4e7a-8b15-0a1c2d3e4f50',
     '--metadata', 'description=Draft 0.1 of the Clay Jar Translation. © 2026 Jose Santiago, CC BY 4.0.',
   ]);
+  console.log('Embedding book images in EPUB…');
+  embedEpubImages();
   if (fs.existsSync(EPUBCHECK)) {
     console.log('epubcheck…');
     run('java', ['-jar', EPUBCHECK, path.join(OUT, 'clay-jar-translation.epub')]);
@@ -482,10 +568,10 @@ function main() {
     console.warn('epubcheck jar not found, skipped');
   }
   console.log('PDF…');
-  run('typst', ['compile', '--root', WORK, typ, path.join(OUT, 'clay-jar-translation.pdf')]);
+  run('typst', ['compile', '--root', OUT, typ, path.join(OUT, 'clay-jar-translation.pdf')]);
   const files = [
-    { path: path.join(OUT, 'clay-jar-translation.pdf'), name: 'clay-jar-translation.pdf', title: 'Full Bible PDF', detail: 'Readable pages, a contents list of every book, and PDF bookmarks for each book and chapter. Verse numbers are in the text. Footnotes sit at the bottom of the same page as their letters.' },
-    { path: path.join(OUT, 'clay-jar-translation.epub'), name: 'clay-jar-translation.epub', title: 'EPUB', detail: 'EPUB 3 with a navigation document. Each book is its own section, with a chapter list at the start of the book and in the contents. Footnotes are linked from their letters; many reading apps show them as popups, and a notes list also sits at the end of each chapter.' },
+    { path: path.join(OUT, 'clay-jar-translation.pdf'), name: 'clay-jar-translation.pdf', title: 'Full Bible PDF', detail: 'Readable pages, a contents list of every book, and PDF bookmarks for each book and chapter. The main text is 14 point, and the footnotes are 10 point at the bottom of the same page as their letters. Each book opens with a public-domain or CC0 image of its story or a related scene.' },
+    { path: path.join(OUT, 'clay-jar-translation.epub'), name: 'clay-jar-translation.epub', title: 'EPUB', detail: 'EPUB 3 with a navigation document. Each book is its own section, with a chapter list at the start of the book and in the contents. Each book opens with a public-domain or CC0 image of its story or a related scene. Footnotes are linked from their letters; many reading apps show them as popups, and a notes list also sits at the end of each chapter. Type size follows the reading app.' },
     { path: path.join(OUT, 'clay-jar-translation.json'), name: 'clay-jar-translation.json', title: 'JSON', detail: 'Book, chapter, and verse structure, plus footnotes. See SCHEMA.md.' },
     { path: path.join(OUT, 'clay-jar-translation.txt'), name: 'clay-jar-translation.txt', title: 'Plain text', detail: 'One file, chapter by chapter, for search and simple printing.' },
     { path: path.join(OUT, 'clay-jar-translation-usfm.zip'), name: 'clay-jar-translation-usfm.zip', title: 'USFM (zip)', detail: 'One USFM file per book, for tools that edit or convert Bible text.' },

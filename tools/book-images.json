@@ -1,0 +1,788 @@
+{
+  "genesis": {
+    "search": "Michelangelo Creation of Adam Sistine",
+    "files": [
+      "Michelangelo, Creation of Adam 02.jpg",
+      "Creación de Adán (Miguel Ángel).jpg",
+      "The Creation of Adam.jpg"
+    ]
+  },
+  "exodus": {
+    "search": "Aivazovsky Passage of the Jews through the Red Sea",
+    "files": [
+      "Ivan Aivazovsky - Passage of the Jews through the Red Sea.jpg",
+      "Poussin Crossing of the Red Sea.jpg",
+      "The Crossing of the Red Sea.jpeg"
+    ]
+  },
+  "leviticus": {
+    "search": "Tissot High Priest vestments",
+    "files": [
+      "Tissot The High Priest.jpg",
+      "James Tissot - The High Priest.jpg",
+      "The Tabernacle in the Wilderness.jpg"
+    ]
+  },
+  "numbers": {
+    "search": "Brazen Serpent Moses painting Bourdon or Fetti",
+    "files": [
+      "Sébastien Bourdon - Moses and the Brazen Serpent.jpg",
+      "The Brazen Serpent (Fetti).jpg",
+      "Moses and the Brazen Serpent Van Dyck.jpg",
+      "Die eherne Schlange.jpg"
+    ]
+  },
+  "deuteronomy": {
+    "search": "Rembrandt Moses tablets of the Law",
+    "files": [
+      "Rembrandt Harmensz. van Rijn - Moses Smashing the Tablets of the Law - Google Art Project.jpg",
+      "Rembrandt - Moses with the Ten Commandments.jpg",
+      "Moses with the Tablets of the Law.jpg"
+    ]
+  },
+  "joshua": {
+    "search": "John Martin Joshua Commanding the Sun",
+    "files": [
+      "John Martin - Joshua Commanding the Sun to Stand Still upon Gibeon (1816).jpg",
+      "Joshua Commanding the Sun to Stand Still.jpg"
+    ]
+  },
+  "judges": {
+    "search": "Rubens Samson and Delilah",
+    "files": [
+      "Peter Paul Rubens - Samson and Delilah - National Gallery.jpg",
+      "Samson and Delilah by Rubens.jpg",
+      "Francesco Hayez - Samson and the Lion.jpg"
+    ]
+  },
+  "ruth": {
+    "search": "Ruth in the field of Boaz Schnorr",
+    "files": [
+      "Julius Schnorr von Carolsfeld- Ruth im Feld des Boaz.jpg",
+      "Ruth gleaning.jpg",
+      "Ruth in Boaz's Field.jpg"
+    ]
+  },
+  "1-samuel": {
+    "search": "Caravaggio David with the Head of Goliath",
+    "files": [
+      "Caravaggio, David with the Head of Goliath, 1609-1610.jpg",
+      "Michelangelo Merisi da Caravaggio - David with the Head of Goliath - Galleria Borghese.jpg",
+      "David with the Head of Goliath - Caravaggio.jpg"
+    ]
+  },
+  "2-samuel": {
+    "search": "Death of Absalom Bible painting Doré",
+    "files": [
+      "Gustave Doré - Death of Absalom.jpg",
+      "The Death of Absalom.jpg",
+      "David mourning Absalom.jpg"
+    ]
+  },
+  "1-kings": {
+    "search": "Poussin Judgment of Solomon Louvre",
+    "files": [
+      "Nicolas Poussin - The Judgment of Solomon.jpg",
+      "Poussin - Le Jugement de Salomon.jpg",
+      "The Judgment of Solomon.jpg"
+    ]
+  },
+  "2-kings": {
+    "search": "Elijah chariot of fire painting",
+    "files": [
+      "Elijah Taken Up in a Chariot of Fire.jpg",
+      "The Ascent of Elijah.jpg",
+      "Fiery Ascent of Elijah.jpg"
+    ]
+  },
+  "1-chronicles": {
+    "search": "David bringing the Ark of the Covenant painting",
+    "files": [
+      "The Ark of the Covenant brought into Jerusalem.jpg",
+      "David before the Ark.jpg",
+      "King David dancing before the Ark.jpg"
+    ]
+  },
+  "2-chronicles": {
+    "search": "Solomon dedicating the Temple painting",
+    "files": [
+      "The Dedication of the Temple of Solomon.jpg",
+      "Solomon building the Temple.jpg",
+      "Queen of Sheba before Solomon.jpg"
+    ]
+  },
+  "ezra": {
+    "search": "Ezra reading the Law Bible painting",
+    "files": [
+      "Ezra Reads the Law.jpg",
+      "Gustave Doré Ezra.jpg",
+      "Ezra in prayer.jpg"
+    ]
+  },
+  "nehemiah": {
+    "search": "Nehemiah rebuilding the walls of Jerusalem",
+    "files": [
+      "Nehemiah viewing the ruins of Jerusalem.jpg",
+      "Nehemiah Rebuilds the Walls.jpg",
+      "Gustave Doré Nehemiah.jpg"
+    ]
+  },
+  "esther": {
+    "search": "Esther before Ahasuerus Tintoretto",
+    "files": [
+      "Tintoretto - Esther before Ahasuerus.jpg",
+      "Esther before Ahasuerus.jpg",
+      "Artemisia Gentileschi Esther before Ahasuerus.jpg"
+    ]
+  },
+  "job": {
+    "search": "Léon Bonnat Job painting",
+    "files": [
+      "Léon Bonnat - Job.jpg",
+      "Bonnat Job.jpg",
+      "William Blake Job and his Comforters.jpg"
+    ]
+  },
+  "psalms": {
+    "search": "Gerard van Honthorst King David Playing the Harp",
+    "files": [
+      "King David Playing the Harp (1622) Gerard van Honthorst.jpg",
+      "David Playing the Harp by Honthorst.jpg",
+      "King David with Harp.jpg"
+    ]
+  },
+  "proverbs": {
+    "search": "King Solomon wisdom painting",
+    "files": [
+      "King Solomon in Old Age.jpg",
+      "King Solomon.jpg",
+      "The Wisdom of Solomon.jpg"
+    ]
+  },
+  "ecclesiastes": {
+    "search": "Pieter Claesz Vanitas Still Life",
+    "files": [
+      "Pieter Claesz, Vanitas Still Life.jpg",
+      "Pieter Claesz - Vanitas Still Life.jpg",
+      "Vanitas still life Claesz.jpg"
+    ]
+  },
+  "song-of-songs": {
+    "search": "Song of Songs Bible painting Moreau",
+    "files": [
+      "Gustave Moreau - The Song of Songs.jpg",
+      "The Shulamite Song of Solomon.jpg",
+      "Canticles Song of Songs.jpg"
+    ]
+  },
+  "isaiah": {
+    "search": "Michelangelo Prophet Isaiah Sistine Chapel",
+    "files": [
+      "Michelangelo, Isaiah.jpg",
+      "The Prophet Isaiah Michelangelo.jpg",
+      "Sistine Isaiah.jpg"
+    ]
+  },
+  "jeremiah": {
+    "search": "Rembrandt Jeremiah Lamenting the Destruction of Jerusalem",
+    "files": [
+      "Rembrandt - Jeremiah Lamenting the Destruction of Jerusalem - Google Art Project.jpg",
+      "Jeremiah Lamenting the Destruction of Jerusalem.jpg"
+    ]
+  },
+  "lamentations": {
+    "search": "Destruction of Jerusalem Temple Hayez or Roberts",
+    "files": [
+      "Francesco Hayez 021.jpg",
+      "The Destruction of the Temple of Jerusalem.jpg",
+      "Destruction of Jerusalem.jpg"
+    ]
+  },
+  "ezekiel": {
+    "search": "Raphael Ezekiel's Vision",
+    "files": [
+      "Raphael - Ezekiel's Vision.jpg",
+      "Ezekiel's Vision Raphael.jpg",
+      "Vision of Ezekiel.jpg"
+    ]
+  },
+  "daniel": {
+    "search": "Rubens Daniel in the Lions Den National Gallery of Art",
+    "files": [
+      "Peter Paul Rubens - Daniel in the Lions' Den - National Gallery of Art.jpg",
+      "Rubens Daniel in the Lions Den.jpg",
+      "Daniel in the Lions' Den.jpg"
+    ]
+  },
+  "hosea": {
+    "search": "Hosea and Gomer Bible illustration",
+    "files": [
+      "Hosea and Gomer.jpg",
+      "The Prophet Hosea.jpg",
+      "Gustave Doré Hosea.jpg"
+    ]
+  },
+  "joel": {
+    "search": "Prophet Joel painting Michelangelo Sistine",
+    "files": [
+      "Michelangelo, Joel.jpg",
+      "The Prophet Joel.jpg",
+      "Joel and the locusts.jpg"
+    ]
+  },
+  "amos": {
+    "search": "Prophet Amos painting or Doré",
+    "files": [
+      "The Prophet Amos.jpg",
+      "Amos the Prophet.jpg",
+      "Gustave Doré Amos.jpg"
+    ]
+  },
+  "obadiah": {
+    "search": "Prophet Obadiah Bible illustration",
+    "files": [
+      "The Prophet Obadiah.jpg",
+      "Obadiah.jpg",
+      "Gustave Doré Obadiah.jpg"
+    ]
+  },
+  "jonah": {
+    "search": "Pieter Lastman Jonah and the Whale",
+    "files": [
+      "Pieter Lastman - Jonah and the Whale.jpg",
+      "Jonah and the Whale.jpg",
+      "Jonah and the Great Fish.jpg"
+    ]
+  },
+  "micah": {
+    "search": "Prophet Micah Bible painting",
+    "files": [
+      "The Prophet Micah.jpg",
+      "Micah.jpg",
+      "Gustave Doré Micah.jpg"
+    ]
+  },
+  "nahum": {
+    "search": "Fall of Nineveh painting Bible Nahum",
+    "files": [
+      "The Fall of Nineveh.jpg",
+      "Destruction of Nineveh.jpg",
+      "The Prophet Nahum.jpg"
+    ]
+  },
+  "habakkuk": {
+    "search": "Prophet Habakkuk painting",
+    "files": [
+      "The Prophet Habakkuk.jpg",
+      "Habakkuk.jpg",
+      "Michelangelo Habakkuk.jpg"
+    ]
+  },
+  "zephaniah": {
+    "search": "Prophet Zephaniah Bible illustration",
+    "files": [
+      "The Prophet Zephaniah.jpg",
+      "Zephaniah.jpg",
+      "Gustave Doré Zephaniah.jpg"
+    ]
+  },
+  "haggai": {
+    "search": "Rebuilding the Temple Haggai Bible",
+    "files": [
+      "Rebuilding the Temple.jpg",
+      "The Prophet Haggai.jpg",
+      "Haggai.jpg"
+    ]
+  },
+  "zechariah": {
+    "search": "Prophet Zechariah vision Bible painting",
+    "files": [
+      "The Prophet Zechariah.jpg",
+      "Zechariah.jpg",
+      "Michelangelo Zechariah.jpg"
+    ]
+  },
+  "malachi": {
+    "search": "Prophet Malachi Duccio or medieval painting",
+    "files": [
+      "Duccio di Buoninsegna 038.jpg",
+      "The Prophet Malachi Sistine.jpg",
+      "Malachi the Prophet.jpg"
+    ]
+  },
+  "tobit": {
+    "search": "Rembrandt Angel Raphael Leaving Tobias Family",
+    "files": [
+      "Rembrandt - The Angel Raphael Leaving Tobias' Family.jpg",
+      "Tobias and the Angel Verrocchio.jpg",
+      "Filippino Lippi Tobias.jpg"
+    ]
+  },
+  "judith": {
+    "search": "Caravaggio Judith Beheading Holofernes",
+    "files": [
+      "Caravaggio Judith Beheading Holofernes.jpg",
+      "Judith Beheading Holofernes Caravaggio.jpg",
+      "Artemisia Gentileschi - Judith Beheading Holofernes.jpg"
+    ]
+  },
+  "additions-to-esther": {
+    "search": "Esther before Ahasuerus painting",
+    "files": [
+      "Esther Denouncing Haman.jpg",
+      "Esther and Ahasuerus.jpg",
+      "Esther before Ahasuerus.jpg"
+    ]
+  },
+  "wisdom-of-solomon": {
+    "search": "Allegory of Wisdom Solomon painting",
+    "files": [
+      "Allegory of Wisdom.jpg",
+      "Wisdom of Solomon.jpg",
+      "King Solomon.jpg"
+    ]
+  },
+  "sirach-ben-sira": {
+    "search": "Scribe teacher of wisdom medieval or Bible",
+    "files": [
+      "A Scribe.jpg",
+      "The Teacher of Wisdom.jpg",
+      "Ezra the Scribe.jpg"
+    ]
+  },
+  "baruch": {
+    "search": "Baruch the scribe Bible illustration",
+    "files": [
+      "Baruch.jpg",
+      "Baruch writing.jpg",
+      "Gustave Doré Baruch.jpg"
+    ]
+  },
+  "letter-of-jeremiah": {
+    "search": "Michelangelo Prophet Jeremiah Sistine Chapel",
+    "files": [
+      "Michelangelo, Jeremiah.jpg",
+      "The Prophet Jeremiah Michelangelo.jpg",
+      "Sistine Jeremiah.jpg"
+    ]
+  },
+  "additions-to-daniel-prayer-of-azariah-and-song-of-the-three": {
+    "search": "Three Hebrews in the Fiery Furnace painting",
+    "files": [
+      "The Three Hebrews in the Fiery Furnace.jpg",
+      "Shadrach Meshach and Abednego.jpg",
+      "The Fiery Furnace.jpg"
+    ]
+  },
+  "additions-to-daniel-susanna": {
+    "search": "Artemisia Gentileschi Susanna and the Elders",
+    "files": [
+      "Susanna and the Elders - Artemisia Gentileschi.jpg",
+      "Artemisia Gentileschi - Susanna and the Elders.jpg",
+      "Tintoretto Susanna and the Elders.jpg"
+    ]
+  },
+  "additions-to-daniel-bel-and-the-dragon": {
+    "search": "Daniel Bel and the Dragon Bible illustration",
+    "files": [
+      "Daniel and the Dragon.jpg",
+      "Bel and the Dragon.jpg",
+      "Gustave Doré Bel.jpg"
+    ]
+  },
+  "1-maccabees": {
+    "search": "Judas Maccabaeus triumph painting or Doré",
+    "files": [
+      "The Triumph of Judas Maccabeus.jpg",
+      "Judas Maccabeus Doré.jpg",
+      "Stattler Maccabees.jpg",
+      "Reubens Triumph of Judas Maccabeus.jpg"
+    ]
+  },
+  "2-maccabees": {
+    "search": "Martyrdom of the Seven Maccabees painting",
+    "files": [
+      "The Martyrdom of the Seven Maccabees by Vouet.jpg",
+      "Martyrdom of the Maccabees Boulle.jpg",
+      "Die Mutter der Makkabäer.jpg"
+    ]
+  },
+  "3-maccabees": {
+    "search": "Ptolemy IV Philopator or Jews in Alexandria painting",
+    "files": [
+      "Ptolemy IV Philopator.jpg",
+      "The Temple of Jerusalem model or painting.jpg",
+      "Alexandria ancient library painting.jpg"
+    ]
+  },
+  "4-maccabees": {
+    "search": "Maccabean mother and seven sons martyrdom painting",
+    "files": [
+      "The Mother of the Maccabees.jpg",
+      "Martyrdom of the Seven Maccabees.jpg",
+      "The Maccabean Martyrs.jpg"
+    ]
+  },
+  "1-esdras": {
+    "search": "Ezra reads the law large painting or engraving",
+    "files": [
+      "Ezra Reads the Law to the People.jpg",
+      "Guillaume Rouille Ezra.jpg",
+      "Ezra the priest.jpg"
+    ]
+  },
+  "2-esdras": {
+    "search": "Vision of Ezra apocalypse Bible engraving",
+    "files": [
+      "Ezra praying.jpg",
+      "The prophet Ezra.jpg",
+      "Esdras.jpg"
+    ]
+  },
+  "prayer-of-manasseh": {
+    "search": "Manasseh in captivity Bible Doré",
+    "files": [
+      "Manasseh.jpg",
+      "King Manasseh.jpg",
+      "Gustave Doré Manasseh.jpg"
+    ]
+  },
+  "psalm-151": {
+    "search": "David the shepherd harp or sling painting",
+    "files": [
+      "David the Shepherd.jpg",
+      "Young David with a sling.jpg",
+      "David with his sling.jpg"
+    ]
+  },
+  "matthew": {
+    "search": "Caravaggio The Calling of Saint Matthew",
+    "files": [
+      "Caravaggio - The Calling of Saint Matthew.jpg",
+      "The Calling of Saint Matthew.jpg",
+      "Calling of Matthew Caravaggio.jpg"
+    ]
+  },
+  "mark": {
+    "search": "Saint Mark the Evangelist painting lion",
+    "files": [
+      "Saint Mark the Evangelist.jpg",
+      "St Mark Il Pordenone.jpg",
+      "The Evangelist Mark.jpg"
+    ]
+  },
+  "luke": {
+    "search": "Rogier van der Weyden Saint Luke Drawing the Virgin",
+    "files": [
+      "Rogier van der Weyden - Saint Luke Drawing the Virgin.jpg",
+      "Saint Luke Drawing the Virgin.jpg",
+      "Fra Angelico Annunciation.jpg"
+    ]
+  },
+  "john": {
+    "search": "Domenichino Saint John the Evangelist",
+    "files": [
+      "Domenichino - Saint John the Evangelist.jpg",
+      "Saint John the Evangelist.jpg",
+      "Last Supper Leonardo da Vinci.jpg"
+    ]
+  },
+  "acts": {
+    "search": "Jean Restout Pentecost 1732",
+    "files": [
+      "Jean II Restout - Pentecôte.jpg",
+      "Pentecost Restout.jpg",
+      "The Pentecost.jpg"
+    ]
+  },
+  "romans": {
+    "search": "Rembrandt Apostle Paul painting",
+    "files": [
+      "Rembrandt - The Apostle Paul.jpg",
+      "Rembrandt Apostle Paul.jpg",
+      "Saint Paul Rembrandt.jpg"
+    ]
+  },
+  "1-corinthians": {
+    "search": "Saint Paul preaching painting",
+    "files": [
+      "Saint Paul Preaching in Athens.jpg",
+      "Raphael Paul Preaching at Athens.jpg",
+      "Paul preaching.jpg"
+    ]
+  },
+  "2-corinthians": {
+    "search": "Saint Paul writing epistle painting",
+    "files": [
+      "Saint Paul writing.jpg",
+      "The Apostle Paul writing.jpg",
+      "Saint Paul.jpg"
+    ]
+  },
+  "galatians": {
+    "search": "Caravaggio Conversion of Saint Paul",
+    "files": [
+      "Caravaggio - Conversion of Saint Paul.jpg",
+      "The Conversion of Saint Paul.jpg",
+      "Conversion on the Way to Damascus.jpg"
+    ]
+  },
+  "ephesians": {
+    "search": "Saint Paul Ephesus preaching",
+    "files": [
+      "Paul at Ephesus.jpg",
+      "The Preaching of Saint Paul.jpg",
+      "Saint Paul.jpg"
+    ]
+  },
+  "philippians": {
+    "search": "Saint Paul in prison painting",
+    "files": [
+      "Saint Paul in Prison.jpg",
+      "Paul in prison at Philippi.jpg",
+      "Paul and Silas in prison.jpg"
+    ]
+  },
+  "colossians": {
+    "search": "Saint Paul the Apostle painting",
+    "files": [
+      "El Greco Saint Paul.jpg",
+      "Saint Paul the Apostle.jpg",
+      "Apostle Paul.jpg"
+    ]
+  },
+  "1-thessalonians": {
+    "search": "Paul preaching to the Thessalonians",
+    "files": [
+      "Paul preaching.jpg",
+      "Saint Paul preaching.jpg",
+      "The Apostle Paul.jpg"
+    ]
+  },
+  "2-thessalonians": {
+    "search": "Saint Paul with a book or sword painting",
+    "files": [
+      "Saint Paul with sword.jpg",
+      "Apostle Paul.jpg",
+      "Saint Paul.jpg"
+    ]
+  },
+  "1-timothy": {
+    "search": "Saint Paul and Timothy painting",
+    "files": [
+      "Paul and Timothy.jpg",
+      "Saint Timothy.jpg",
+      "The Apostle Paul teaching.jpg"
+    ]
+  },
+  "2-timothy": {
+    "search": "Saint Paul chained prison epistle",
+    "files": [
+      "Paul in chains.jpg",
+      "Saint Paul in prison.jpg",
+      "The Apostle Paul.jpg"
+    ]
+  },
+  "titus": {
+    "search": "Saint Titus or Paul and Titus",
+    "files": [
+      "Saint Titus.jpg",
+      "The Apostle Paul.jpg",
+      "Saint Paul.jpg"
+    ]
+  },
+  "philemon": {
+    "search": "Saint Paul and Onesimus Philemon",
+    "files": [
+      "Paul and Onesimus.jpg",
+      "Onesimus.jpg",
+      "Saint Paul writing.jpg"
+    ]
+  },
+  "hebrews": {
+    "search": "Melchizedek and Abraham or high priest tabernacle painting",
+    "files": [
+      "Meeting of Abraham and Melchizedek.jpg",
+      "The High Priest.jpg",
+      "Christ the High Priest.jpg"
+    ]
+  },
+  "james": {
+    "search": "El Greco Saint James the Greater",
+    "files": [
+      "El Greco - Saint James the Greater.jpg",
+      "Saint James the Greater El Greco.jpg",
+      "St James by El Greco.jpg",
+      "Saint James the Just.jpg"
+    ]
+  },
+  "1-peter": {
+    "search": "Caravaggio Crucifixion of Saint Peter",
+    "files": [
+      "Caravaggio Crucifixion of Saint Peter.jpg",
+      "The Crucifixion of Saint Peter.jpg",
+      "Saint Peter.jpg"
+    ]
+  },
+  "2-peter": {
+    "search": "Saint Peter the Apostle painting keys",
+    "files": [
+      "Saint Peter with the keys.jpg",
+      "Peter the Apostle.jpg",
+      "Saint Peter.jpg"
+    ]
+  },
+  "1-john": {
+    "search": "Saint John the Evangelist with eagle painting",
+    "files": [
+      "Saint John the Evangelist with eagle.jpg",
+      "St John on Patmos.jpg",
+      "Saint John the Evangelist.jpg"
+    ]
+  },
+  "2-john": {
+    "search": "Saint John the Apostle painting",
+    "files": [
+      "Saint John the Apostle.jpg",
+      "The Evangelist John.jpg",
+      "Saint John.jpg"
+    ]
+  },
+  "3-john": {
+    "search": "Saint John writing gospel painting",
+    "files": [
+      "Saint John writing.jpg",
+      "John the Evangelist writing.jpg",
+      "Saint John.jpg"
+    ]
+  },
+  "jude": {
+    "search": "Saint Jude Thaddeus painting",
+    "files": [
+      "Saint Jude Thaddeus.jpg",
+      "San Judas Tadeo.jpg",
+      "Saint Jude.jpg"
+    ]
+  },
+  "revelation": {
+    "search": "John Martin The Great Day of His Wrath",
+    "files": [
+      "John Martin - The Great Day of His Wrath.jpg",
+      "Memling Last Judgment.jpg",
+      "Albrecht Dürer - Four Horsemen of the Apocalypse.jpg"
+    ]
+  },
+  "1-enoch": {
+    "search": "Bruegel Fall of the Rebel Angels",
+    "files": [
+      "Pieter Bruegel the Elder - The Fall of the Rebel Angels.jpg",
+      "The Fall of the Rebel Angels.jpg",
+      "William Blake Enoch.jpg"
+    ]
+  },
+  "jubilees": {
+    "search": "Moses receiving the Law or Genesis creation painting",
+    "files": [
+      "Moses receiving the Law.jpg",
+      "Moses on Mount Sinai.jpg",
+      "The Creation.jpg"
+    ]
+  },
+  "2-enoch": {
+    "search": "Enoch walking with God Bible engraving Doré Schnorr",
+    "files": [
+      "Enoch walking with God.jpg",
+      "Schnorr von Carolsfeld Enoch.jpg",
+      "Gustave Doré Enoch.jpg",
+      "And Enoch walked with God.jpg"
+    ]
+  },
+  "2-baruch": {
+    "search": "Baruch lamenting Jerusalem destruction",
+    "files": [
+      "Baruch lamenting.jpg",
+      "The Destruction of Jerusalem.jpg",
+      "Baruch.jpg"
+    ]
+  },
+  "4-baruch": {
+    "search": "Jeremiah dictating to Baruch painting",
+    "files": [
+      "Jeremiah dictating to Baruch.jpg",
+      "Baruch writing Jeremiah's words.jpg",
+      "The Prophet Jeremiah and Baruch.jpg"
+    ]
+  },
+  "testaments-of-the-twelve-patriarchs": {
+    "search": "Jacob blessing his twelve sons painting",
+    "files": [
+      "Jacob blessing his sons by Bol.jpg",
+      "Jacob Blessing the Sons of Joseph Rembrandt.jpg",
+      "The Twelve Patriarchs.jpg"
+    ]
+  },
+  "psalms-of-solomon": {
+    "search": "King Solomon in the Temple prayer painting",
+    "files": [
+      "Solomon Prays at the Dedication of the Temple.jpg",
+      "King Solomon in the Temple.jpg",
+      "Solomon kneeling.jpg"
+    ]
+  },
+  "psalms-152-to-155": {
+    "search": "Young King David playing the harp painting Honthorst or other",
+    "files": [
+      "Young David Harp.jpg",
+      "David as a shepherd with harp.jpg",
+      "King David as a youth.jpg"
+    ]
+  },
+  "odes-of-solomon": {
+    "search": "biblical singers of praise or Song of Solomon illumination",
+    "files": [
+      "Miriam's song of praise.jpg",
+      "The Song of Miriam.jpg",
+      "Singers in the Temple.jpg"
+    ]
+  },
+  "life-of-adam-and-eve": {
+    "search": "Masaccio Expulsion from the Garden of Eden Brancacci",
+    "files": [
+      "Masaccio, Cacciata dei progenitori dall'Eden.jpg",
+      "Masaccio Expulsion.jpg",
+      "The Expulsion from Paradise.jpg"
+    ]
+  },
+  "joseph-and-aseneth": {
+    "search": "Joseph and Aseneth or Joseph governor of Egypt painting",
+    "files": [
+      "Joseph and Asenath.jpg",
+      "Joseph interpreting Pharaoh's dreams.jpg",
+      "Joseph in Egypt Pontormo.jpg"
+    ]
+  },
+  "apocalypse-of-abraham": {
+    "search": "Rembrandt Abraham and the angels",
+    "files": [
+      "Rembrandt Abraham and the Three Angels.jpg",
+      "Abraham and the three angels.jpg",
+      "Abraham looking at the stars.jpg"
+    ]
+  },
+  "ascension-of-isaiah": {
+    "search": "Martyrdom of Isaiah sawn asunder Bible illustration",
+    "files": [
+      "Isaiah sawn asunder.jpg",
+      "The Martyrdom of Isaiah.jpg",
+      "Isaiah's martyrdom.jpg"
+    ]
+  },
+  "letter-of-aristeas": {
+    "search": "Ptolemy II Philadelphus Library of Alexandria painting",
+    "files": [
+      "Ptolemy II Philadelphus.jpg",
+      "The Library of Alexandria Victorian painting.jpg",
+      "Septuagint translators.jpg"
+    ]
+  }
+}
