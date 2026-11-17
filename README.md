@@ -83,7 +83,7 @@ browsers block loading the data files from `file://`.)
 
 Devotionals are data, not hand-edited HTML. They live in `data/devotionals.json`, one entry per month and day (`MM-DD`, including `02-29` when you reach it). `devotional.html` shows the entry for the reader's local date. If that day is not written yet, it shows the nearest entry and the archive, so the page is never blank. `devotional.html?d=11-13` opens one day. The archive lists every entry.
 
-Append about seven days at a time until all 366 are written. Copy `verseText` from `data/books/<book>.json` unchanged, including line breaks and footnote markers such as `{a}`. Set `book`, `chapter`, and `verse` so the page can link into the reader. Write an original reflection of about 120 to 200 words and a short prayer. Do not copy another devotional.
+Append about seven days at a time until all 366 are written. Copy `verseText` from `data/books/<book>.json` unchanged, including line breaks and footnote markers such as `{a}`. Set `book`, `chapter`, and `verse` so the page can link into the reader. Write an original reflection of about 300 to 400 words and a prayer of about 100 to 150 words. Do not copy another devotional.
 
 ```json
 {
