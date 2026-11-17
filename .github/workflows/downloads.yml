@@ -10,6 +10,8 @@ on:
       - 'data/front-matter.json'
       - 'tools/build-downloads.js'
       - 'downloads/SCHEMA.md'
+      - 'downloads/IMAGE-CREDITS.md'
+      - 'downloads/images/**'
       - '.github/workflows/downloads.yml'
   workflow_dispatch:
 
