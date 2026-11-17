@@ -386,7 +386,7 @@ function mockRequest(handlers) {
   assert.strictEqual(testCalls.length, 1);
   assert.strictEqual(testCalls[0].url, '/smtp/email');
   assert.deepStrictEqual(testCalls[0].body.to, [{ email: 'reader@example.com' }]);
-  assert.ok(testCalls[0].body.subject.startsWith('[Test] '));
+  assert.ok(testCalls[0].body.subject.startsWith('[Preview] '));
   assert.ok(testCalls[0].body.htmlContent.includes(entry.verseText));
   assert.ok(!testCalls[0].body.htmlContent.includes('unsubscribe.html'));
   assert.ok(!JSON.stringify(testCalls[0].body).includes('listIds'));
