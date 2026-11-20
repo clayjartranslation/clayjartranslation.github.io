@@ -157,7 +157,7 @@
         <img class="hero-logo" src="icons/cjt-logo-720.jpg" width="330" height="330"
              alt="Clay Jar Translation logo: a terracotta clay jar holding a scroll, with rays of light rising from it.">
         <h1 id="homeTitle">${NAME}${TM}<span class="visually-hidden"> trademark</span></h1>
-        <p class="tag">A new English Bible from the oldest witnesses. © 2026 Jose Santiago, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+        <p class="tag">A new English Bible from the oldest witnesses. © 2026 Jose Santiago, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
         <p class="free-line"><strong>Free forever:</strong> no sign-up, no ads, no tracking.</p>
         <div class="cta">
           ${last.book ? `<a class="btn primary" href="#/read/${esc(last.book)}/${last.ch}${last.v > 1 ? '/' + last.v : ''}">Continue ${esc(last.name)} ${last.ch}${last.v > 1 ? ':' + last.v : ''}</a>` : ''}
@@ -206,7 +206,7 @@
 
       <section class="card share card-gap" aria-labelledby="shareTitle">
         <h2 id="shareTitle" class="h-tight">Download and share</h2>
-        <p class="muted lead-tight-b notranslate" translate="no">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source. The full text is available here as files, and this site works offline once opened.</p>
+        <p class="muted lead-tight-b notranslate" translate="no">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)</a>: free to share and adapt with credit, not for commercial use; adaptations must use the same license. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0.” Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY-NC-SA license covers the text, not the names or logos, which may be used only to credit the source. The full text is available here as files, and this site works offline once opened.</p>
         <div class="cta cta-start">
           <button class="btn" type="button" id="shareBtn">Share this Bible</button>
           ${done.map((b) => `<a class="btn" href="${esc(b.file)}" download>Download ${esc(b.name)} (JSON)</a>`).join('')}
@@ -215,14 +215,14 @@
 
       <ul class="links" aria-label="More">
         <li><a href="#/saved">Bookmarks and highlights <span>${store.bm.length} bookmark${store.bm.length === 1 ? '' : 's'}, ${store.hl.length} highlight${store.hl.length === 1 ? '' : 's'}</span></a></li>
-        <li><a href="#/about">About this translation <span>name, CC BY 4.0 license, method, sources</span></a></li>
+        <li><a href="#/about">About this translation <span>name, CC BY-NC-SA 4.0 license, method, sources</span></a></li>
         <li><a href="#/about/approach">How we translate <span>word for word, thought for thought</span></a></li>
         <li><a href="#/about/draft">A note on this draft <span>AI-assisted, awaiting review</span></a></li>
       </ul>`);
     const bar = $('#progMeter');
     if (bar && totalCh) bar.style.width = Math.max(1, (doneCh / totalCh) * 100).toFixed(2) + '%';
     $('#shareBtn').addEventListener('click', async () => {
-      const data = { title: NAME + '™ (CJT)', text: 'Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0. https://creativecommons.org/licenses/by/4.0/', url: location.href.split('#')[0] };
+      const data = { title: NAME + '™ (CJT)', text: 'Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0. https://creativecommons.org/licenses/by-nc-sa/4.0/', url: location.href.split('#')[0] };
       if (navigator.share) { try { await navigator.share(data); } catch (e) {} return; }
       try { await navigator.clipboard.writeText(data.url); $('#shareBtn').textContent = 'Link copied'; } catch (e) { prompt('Copy this link:', data.url); }
     });
@@ -437,7 +437,7 @@
   async function about(anchor) {
     const fm = await loadFront();
     setTitle('');
-    const withLinks = (s) => esc(s).replace(/https:\/\/creativecommons\.org\/licenses\/by\/4\.0\/?/g, (url) => `<a href="https://creativecommons.org/licenses/by/4.0/">${url}</a>`);
+    const withLinks = (s) => esc(s).replace(/https:\/\/creativecommons\.org\/licenses\/by-nc-sa\/4\.0\/?/g, (url) => `<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">${url}</a>`);
     const block = (b, level) => {
       switch (b.type) {
         case 'text': return `<p>${withLinks(b.text)}</p>`;

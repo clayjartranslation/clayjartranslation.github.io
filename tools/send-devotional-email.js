@@ -30,7 +30,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
-const NOTICE = 'Devotionals © 2026 Jose Santiago, licensed CC BY 4.0';
+const NOTICE = 'Devotionals © 2026 Jose Santiago, licensed CC BY-NC-SA 4.0';
 const SITE = 'https://clayjartranslation.github.io/devotional.html';
 const IMAGE_HOST = 'https://clayjartranslation.github.io/email-images/';
 const BOOK_ART_HOST = 'https://clayjartranslation.github.io/downloads/images/';

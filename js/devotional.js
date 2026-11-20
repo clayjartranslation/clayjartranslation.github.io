@@ -11,7 +11,7 @@
 })(function () {
   'use strict';
 
-  var NOTICE = 'Devotionals © 2026 Jose Santiago, licensed CC BY 4.0';
+  var NOTICE = 'Devotionals © 2026 Jose Santiago, licensed CC BY-NC-SA 4.0';
   var MONTHS = [null, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   var DIM = [0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 

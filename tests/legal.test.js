@@ -6,8 +6,8 @@ const root = path.join(__dirname, '..');
 const privacy = fs.readFileSync(path.join(root, 'privacy.html'), 'utf8');
 const terms = fs.readFileSync(path.join(root, 'terms.html'), 'utf8');
 
-assert.ok(privacy.includes('Last updated November 17, 2026'));
-assert.ok(terms.includes('Last updated November 17, 2026'));
+assert.ok(privacy.includes('Last updated November 20, 2026'));
+assert.ok(terms.includes('Last updated November 20, 2026'));
 assert.ok(privacy.includes('Jose Santiago'));
 assert.ok(privacy.includes('Marshfield'));
 assert.ok(terms.includes('Marshfield, Plymouth County, Massachusetts'));
@@ -16,7 +16,7 @@ assert.ok(terms.includes('Marshfield, Plymouth County, Massachusetts'));
   assert.ok(privacy.includes(s), 'privacy missing ' + s);
 });
 
-['AS IS', 'AS AVAILABLE', 'US$50', 'DMCA', 'COPPA', 'Downloads (PDF and EPUB)', 'trademark rights are not licensed', 'Force majeure', 'Assignment', 'Termination', 'Donations are NOT tax-deductible', 'indemnif', 'not medical advice', 'not tax-deductible', '501(c)(3)', 'Plymouth County', 'chapter 218, section 21', 'class action', 'Jury', 'no arbitration', 'small claims', 'one year', 'Severability', 'Where your local law gives you rights', 'Quebec', 'Australian Consumer Law', 'Notice of Dispute', '60 days', 'hold harmless', 'California Civil Code section 1542', 'fullest extent permitted by law', 'chapter 260, section 5A', 'Feedback', 'Use at your own risk', 'English text is the official', 'must not be presented as the official', 'CC BY 4.0'].forEach((s) => {
+['AS IS', 'AS AVAILABLE', 'US$50', 'DMCA', 'COPPA', 'Downloads (PDF and EPUB)', 'trademark rights are not licensed', 'Force majeure', 'Assignment', 'Termination', 'Donations are NOT tax-deductible', 'indemnif', 'not medical advice', 'not tax-deductible', '501(c)(3)', 'Plymouth County', 'chapter 218, section 21', 'class action', 'Jury', 'no arbitration', 'small claims', 'one year', 'Severability', 'Where your local law gives you rights', 'Quebec', 'Australian Consumer Law', 'Notice of Dispute', '60 days', 'hold harmless', 'California Civil Code section 1542', 'fullest extent permitted by law', 'chapter 260, section 5A', 'Feedback', 'Use at your own risk', 'English text is the official', 'must not be presented as the official', 'CC BY-NC-SA 4.0', 'not for commercial use', 'same license'].forEach((s) => {
   assert.ok(terms.toLowerCase().includes(s.toLowerCase()), 'terms missing ' + s);
 });
 

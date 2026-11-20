@@ -9,7 +9,7 @@ const books = JSON.parse(fs.readFileSync(path.join(root, 'data/books.json'), 'ut
 const byId = Object.fromEntries(books.books.map((b) => [b.id, b]));
 
 assert.strictEqual(data.notice, api.NOTICE);
-assert.strictEqual(api.NOTICE, 'Devotionals © 2026 Jose Santiago, licensed CC BY 4.0');
+assert.strictEqual(api.NOTICE, 'Devotionals © 2026 Jose Santiago, licensed CC BY-NC-SA 4.0');
 assert.ok(Array.isArray(data.devotionals) && data.devotionals.length >= 7);
 
 const dates = data.devotionals.map((e) => e.date);
