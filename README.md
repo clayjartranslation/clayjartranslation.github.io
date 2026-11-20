@@ -1,9 +1,9 @@
 # Clay Jar Translation™ (CJT): reading website and installable app
 
 A free, static Bible reader for the Clay Jar Translation. © 2026 Jose Santiago. Licensed under the
-[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”
-Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0.” You may share and adapt the text with credit, not for commercial use; adaptations must use the same license.
+Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY-NC-SA license covers the text, not the names or logos, which may be used only to credit the source.
 No account is required, and there are no ads, no paywall, and no analytics. With
 `js/account-config.js` left empty, the site never loads a third-party script: every file is in this
 folder, and all paths are relative, so it runs from a domain root or a subpath (for example
@@ -99,7 +99,7 @@ Append about seven days at a time until all 366 are written. Copy `verseText` fr
 }
 ```
 
-The file's `notice`, and the line on the page, stay: Devotionals © 2026 Jose Santiago, licensed CC BY 4.0.
+The file's `notice`, and the line on the page, stay: Devotionals © 2026 Jose Santiago, licensed CC BY-NC-SA 4.0.
 
 The morning email is built from this same file. A day with no entry is not emailed. The subscribe box stays hidden, and no email is sent, until the steps in `SETUP-EMAIL.md` are done.
 

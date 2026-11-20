@@ -142,7 +142,7 @@ The list number and the sender email may instead be stored as repository **varia
 4. In Brevo, open the **Clay Jar Devotional** list. Your address should be there after you confirm.
 5. On GitHub, open the **Actions** tab of the repository, then **Send daily devotional**, then **Run workflow**.
 6. Leave **Print the email and do not send it** turned **on**. Tap **Run workflow**.
-7. Open that run when it finishes and read the log. You should see a count of contacts in each time zone, today’s title, the verse, the reflection, the prayer, and the line `Devotionals © 2026 Jose Santiago, licensed CC BY 4.0`. Nobody is emailed.
+7. Open that run when it finishes and read the log. You should see a count of contacts in each time zone, today’s title, the verse, the reflection, the prayer, and the line `Devotionals © 2026 Jose Santiago, licensed CC BY-NC-SA 4.0`. Nobody is emailed.
 8. A live run (the print switch off) still emails only people whose local time is in the 4 AM hour. To send a one-off copy to yourself, use the **test email** box. That does not email the list.
 9. If the same person is due again in that local day, they are not emailed a second copy. The job stores `LAST_DEVO_DATE` on the contact after a successful send.
 

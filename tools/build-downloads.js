@@ -1,4 +1,4 @@
-/* Build the CC BY 4.0 downloads from data/books.
+/* Build the CC BY-NC-SA 4.0 downloads from data/books.
    Free tools only: Node writes the files, Typst writes the PDF,
    Pandoc writes the EPUB, epubcheck checks it.
    Usage: node tools/build-downloads.js
@@ -98,11 +98,11 @@ function writeJSON(books, cat) {
     version: 2,
     title: 'Clay Jar Translation',
     edition: cat.edition || 'Draft 0.1',
-    license: 'CC-BY-4.0',
-    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    license: 'CC-BY-NC-SA-4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
     copyright: '© 2026 Jose Santiago',
-    attribution: 'Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.',
-    trademark: 'Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.',
+    attribution: 'Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0.',
+    trademark: 'Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY-NC-SA license covers the text, not the names or logos, which may be used only to credit the source.',
     language: 'en',
     books: books.map(({ meta, full, usfm }) => ({
       id: meta.id,
@@ -129,10 +129,10 @@ function writeJSON(books, cat) {
 function writeText(books) {
   const parts = [];
   parts.push('CLAY JAR TRANSLATION');
-  parts.push('© 2026 Jose Santiago. Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).');
-  parts.push('https://creativecommons.org/licenses/by/4.0/');
-  parts.push('Suggested attribution: Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.');
-  parts.push('Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.');
+  parts.push('© 2026 Jose Santiago. Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0): free to share and adapt with credit, not for commercial use; adaptations must use the same license.');
+  parts.push('https://creativecommons.org/licenses/by-nc-sa/4.0/');
+  parts.push('Suggested attribution: Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0.');
+  parts.push('Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY-NC-SA license covers the text, not the names or logos, which may be used only to credit the source.');
   parts.push('Draft 0.1. Not yet reviewed by scholars.');
   parts.push('');
   for (const { full } of books) {
@@ -170,9 +170,9 @@ function writeUsfm(books) {
     const lines = [
       '\\id ' + usfm,
       '\\ide UTF-8',
-      '\\rem © 2026 Jose Santiago. Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). https://creativecommons.org/licenses/by/4.0/',
-      '\\rem Suggested attribution: Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.',
-      '\\rem Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.',
+      '\\rem © 2026 Jose Santiago. Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). https://creativecommons.org/licenses/by-nc-sa/4.0/',
+      '\\rem Suggested attribution: Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0.',
+      '\\rem Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY-NC-SA license covers the text, not the names or logos, which may be used only to credit the source.',
       '\\h ' + usfmEscape(full.name),
       '\\toc1 ' + usfmEscape(full.name),
       '\\mt1 ' + usfmEscape(full.name),
@@ -236,11 +236,11 @@ function htmlVerse(bookId, ch, v) {
 function writeHtml(books, images) {
   const body = [];
   body.push('<div class="front">');
-  body.push('<p class="eyebrow">CC BY 4.0</p>');
+  body.push('<p class="eyebrow">CC BY-NC-SA 4.0</p>');
   body.push('<p class="site-title">Clay Jar Translation</p>');
-  body.push('<p>© 2026 Jose Santiago. Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></p>');
-  body.push('<p>Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”</p>');
-  body.push('<p>Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.</p>');
+  body.push('<p>© 2026 Jose Santiago. Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0): free to share and adapt with credit, not for commercial use; adaptations must use the same license. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a></p>');
+  body.push('<p>Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0.”</p>');
+  body.push('<p>Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY-NC-SA license covers the text, not the names or logos, which may be used only to credit the source.</p>');
   body.push('<p>Draft 0.1, made with AI assistance and not yet reviewed by scholars.</p>');
   body.push('</div>');
   for (const { meta, full } of books) {
@@ -336,7 +336,7 @@ function typstBookImage(bookId, images) {
 
 function writeTypst(books, images) {
   const out = [];
-  out.push(`#set document(title: "Clay Jar Translation", author: "Jose Santiago", description: "© 2026 Jose Santiago. Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/")`);
+  out.push(`#set document(title: "Clay Jar Translation", author: "Jose Santiago", description: "© 2026 Jose Santiago. Licensed under CC BY-NC-SA 4.0. https://creativecommons.org/licenses/by-nc-sa/4.0/")`);
   out.push(`#set text(font: "Libertinus Serif", size: 14pt, lang: "en")`);
   out.push(`#set page(width: 5.5in, height: 8.5in, margin: (inside: 0.7in, outside: 0.55in, top: 0.72in, bottom: 0.65in), numbering: "1")`);
   out.push(`#set par(justify: true, leading: 0.78em, spacing: 0.82em, first-line-indent: 0pt)`);
@@ -348,13 +348,13 @@ function writeTypst(books, images) {
     #text(size: 28pt, weight: "bold")[Clay Jar Translation]
     #v(0.8em)
     #text(size: 11pt)[
-    © 2026 Jose Santiago. Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+    © 2026 Jose Santiago. Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0): free to share and adapt with credit, not for commercial use; adaptations must use the same license.
     #v(0.4em)
-    #link("https://creativecommons.org/licenses/by/4.0/")[https://creativecommons.org/licenses/by/4.0/]
+    #link("https://creativecommons.org/licenses/by-nc-sa/4.0/")[https://creativecommons.org/licenses/by-nc-sa/4.0/]
     #v(0.55em)
-    Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.”
+    Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0.”
     #v(0.55em)
-    Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.
+    Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY-NC-SA license covers the text, not the names or logos, which may be used only to credit the source.
     #v(0.55em)
     Draft 0.1. Made with AI assistance and not yet reviewed by scholars.
     #v(0.55em)
@@ -475,10 +475,10 @@ function writePage(files) {
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self' https://*.sibforms.com; script-src 'self' 'sha256-XfiOjixlN6OMWa4rVzxY5TwF+kBlnWUkmTaaMqDpIjc=' https://clayjartranslation.github.io https://www.gstatic.com https://apis.google.com https://www.google.com; style-src 'self' https://clayjartranslation.github.io; img-src 'self' https://clayjartranslation.github.io data: blob:; font-src 'self' data:; connect-src 'self' https://clayjartranslation.github.io https://www.gstatic.com https://www.googleapis.com https://www.google.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://firestore.googleapis.com wss://firestore.googleapis.com https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co https://translate.googleapis.com; media-src 'self' blob: https://huggingface.co https://cdn-lfs.huggingface.co https://cdn-lfs-us-1.huggingface.co https://us.aws.cdn.hf.co https://eu.aws.cdn.hf.co https://cas-bridge.xethub.hf.co; worker-src 'self' blob:; manifest-src 'self'; frame-src https://accounts.google.com https://*.firebaseapp.com https://*.web.app https://apis.google.com https://www.google.com https://recaptcha.google.com; upgrade-insecure-requests">
   <title>Downloads · Clay Jar Translation</title>
-  <meta name="description" content="Free downloads of the whole Clay Jar Translation: PDF, EPUB, JSON, plain text, and USFM. © 2026 Jose Santiago, CC BY 4.0.">
+  <meta name="description" content="Free downloads of the whole Clay Jar Translation: PDF, EPUB, JSON, plain text, and USFM. © 2026 Jose Santiago, CC BY-NC-SA 4.0.">
   <link rel="canonical" href="https://clayjartranslation.github.io/downloads/">
   <meta property="og:title" content="Downloads · Clay Jar Translation">
-  <meta property="og:description" content="Free downloads of the whole Clay Jar Translation: PDF, EPUB, JSON, plain text, and USFM. © 2026 Jose Santiago, CC BY 4.0.">
+  <meta property="og:description" content="Free downloads of the whole Clay Jar Translation: PDF, EPUB, JSON, plain text, and USFM. © 2026 Jose Santiago, CC BY-NC-SA 4.0.">
   <meta property="og:url" content="https://clayjartranslation.github.io/downloads/">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://clayjartranslation.github.io/icons/cjt-logo-720.jpg">
@@ -508,17 +508,17 @@ function writePage(files) {
     <p class="mt-notice" id="mtNotice" hidden>Machine translation by Google. The English text is the official Clay Jar Translation.</p>
   </header>
   <main id="content" class="prose downloads">
-    <p class="eyebrow">CC BY 4.0</p>
+    <p class="eyebrow">CC BY-NC-SA 4.0</p>
     <h1>Download the Clay Jar Translation</h1>
-    <p class="notranslate" translate="no">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY 4.0.” These files are the whole draft: all 98 books. You may copy, share, adapt, and redistribute the text, including commercially, if you give that attribution. This is Draft 0.1, made with AI assistance and not yet reviewed by scholars.</p>
-    <p class="notranslate" translate="no">Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY license covers the text, not the names or logos, which may be used only to credit the source.</p>
+    <p class="notranslate" translate="no">© 2026 Jose Santiago. Licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)</a>: free to share and adapt with credit, not for commercial use; adaptations must use the same license. Suggested attribution: “Clay Jar Translation (CJT), © 2026 Jose Santiago, CC BY-NC-SA 4.0.” These files are the whole draft: all 98 books. You may copy, share, and adapt the text for non-commercial purposes if you give that attribution. If you adapt the text, you must share your adaptation under the same license. This is Draft 0.1, made with AI assistance and not yet reviewed by scholars.</p>
+    <p class="notranslate" translate="no">Clay Jar Translation™, Clay Jar Treasure Bible™ and their logos are trademarks of Jose Santiago. The CC BY-NC-SA license covers the text, not the names or logos, which may be used only to credit the source.</p>
     <p>Nothing here is an account. The files are the Bible text, not anyone’s bookmarks.</p>
     <p class="agree-note">By downloading a file, you agree to the <a href="../terms.html">Terms of Service</a>, including their downloads section, and acknowledge the <a href="../privacy.html">Privacy Policy</a>.</p>
     <div class="card">
       ${rows.map((r) => `<div class="file-row"><a href="${htmlEsc(r.href)}">${htmlEsc(r.title)}</a><span class="size">${htmlEsc(r.label)}</span></div><p class="muted file-detail">${htmlEsc(r.detail)}</p>`).join('\n')}
     </div>
     <h2>Kindle</h2>
-    <p>Amazon’s Send to Kindle accepts EPUB. On a computer, open <a href="https://www.amazon.com/sendtokindle">Send to Kindle</a>, sign in, and drop <em>clay-jar-translation.epub</em> onto the page. On a phone, use the Send to Kindle app or share the file to it. The book then appears in your Kindle library. You do not buy it. It is the CC BY 4.0 file.</p>
+    <p>Amazon’s Send to Kindle accepts EPUB. On a computer, open <a href="https://www.amazon.com/sendtokindle">Send to Kindle</a>, sign in, and drop <em>clay-jar-translation.epub</em> onto the page. On a phone, use the Send to Kindle app or share the file to it. The book then appears in your Kindle library. You do not buy it. It is the CC BY-NC-SA 4.0 file, for personal, non-commercial use.</p>
     <h2>Apple Books</h2>
     <p>On a Mac, open the EPUB and it offers Apple Books. On an iPhone or iPad, download the EPUB in Safari, tap the file, and choose Books, or use the Files app and share it to Books. The book is stored on that device.</p>
     <h2>Other reading apps</h2>
@@ -556,9 +556,9 @@ function main() {
     '--metadata', 'title=Clay Jar Translation',
     '--metadata', 'lang=en',
     '--metadata', 'creator=Jose Santiago',
-    '--metadata', 'rights=© 2026 Jose Santiago. Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). https://creativecommons.org/licenses/by/4.0/',
+    '--metadata', 'rights=© 2026 Jose Santiago. Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). https://creativecommons.org/licenses/by-nc-sa/4.0/',
     '--metadata', 'identifier=urn:uuid:6f1e4b3a-9c2d-4e7a-8b15-0a1c2d3e4f50',
-    '--metadata', 'description=Draft 0.1 of the Clay Jar Translation. © 2026 Jose Santiago, CC BY 4.0.',
+    '--metadata', 'description=Draft 0.1 of the Clay Jar Translation. © 2026 Jose Santiago, CC BY-NC-SA 4.0.',
   ]);
   console.log('Embedding book images in EPUB…');
   embedEpubImages();
