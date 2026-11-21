@@ -7,7 +7,7 @@ const privacy = fs.readFileSync(path.join(root, 'privacy.html'), 'utf8');
 const terms = fs.readFileSync(path.join(root, 'terms.html'), 'utf8');
 
 assert.ok(privacy.includes('Last updated November 20, 2026'));
-assert.ok(terms.includes('Last updated November 20, 2026'));
+assert.ok(terms.includes('Last updated November 21, 2026'));
 assert.ok(privacy.includes('Jose Santiago'));
 assert.ok(privacy.includes('Marshfield'));
 assert.ok(terms.includes('Marshfield, Plymouth County, Massachusetts'));
@@ -44,6 +44,7 @@ assert.ok(fs.readFileSync(path.join(root, 'tools/build-downloads.js'), 'utf8').i
 assert.ok(privacy.includes('Security and limits'));
 
 ['Sharing verses', 'Truth Social', 'Threads', 'No endorsement'].forEach((s) => assert.ok(terms.includes(s), 'terms missing ' + s));
+['Fair use, commentary, and quotation', '17 U.S.C. § 107', 'no separate “Fair Use Act.”', 'not legal advice'].forEach((s) => assert.ok(terms.includes(s), 'terms missing ' + s));
 ['Sharing verses', 'Web Share API', 'Truth Social', 'without a referrer'].forEach((s) => assert.ok(privacy.includes(s), 'privacy missing ' + s));
 const shareJs = fs.readFileSync(path.join(root, 'js/share.js'), 'utf8');
 assert.ok(!/<script|connect\.facebook|platform\.twitter|widgets\.js/.test(shareJs), 'share.js must not load third-party SDKs');
