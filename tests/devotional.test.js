@@ -14,7 +14,7 @@ assert.ok(Array.isArray(data.devotionals) && data.devotionals.length >= 7);
 
 const dates = data.devotionals.map((e) => e.date);
 assert.strictEqual(new Set(dates).size, dates.length, 'dates must be unique');
-['11-13', '11-14', '11-15', '11-16', '11-17', '11-18', '11-19', '11-20', '11-21', '11-22', '11-23', '11-24', '11-25', '11-26'].forEach((d) => {
+['11-13', '11-14', '11-15', '11-16', '11-17', '11-18', '11-19', '11-20', '11-21', '11-22', '11-23', '11-24', '11-25', '11-26', '11-27', '11-28', '11-29', '11-30', '12-01', '12-02', '12-03'].forEach((d) => {
   assert.ok(dates.includes(d), 'missing ' + d);
 });
 
@@ -64,10 +64,10 @@ assert.strictEqual(pick(2026, 11, 13, '13-40').mode, 'today');
 assert.strictEqual(pick(2026, 11, 13, '13-40').invalidRequest, true);
 assert.strictEqual(pick(2026, 11, 13, '01-01').invalidRequest, true);
 assert.strictEqual(pick(2026, 11, 13, '01-01').entry.date, '11-13');
-assert.strictEqual(pick(2026, 1, 1, null).entry.date, '11-26');
-assert.strictEqual(pick(2026, 3, 1, null).entry.date, '11-26');
+assert.strictEqual(pick(2026, 1, 1, null).entry.date, '12-03');
+assert.strictEqual(pick(2026, 3, 1, null).entry.date, '12-03');
 assert.strictEqual(pick(2026, 7, 1, null).entry.date, '11-13');
-assert.strictEqual(pick(2026, 12, 15, null).entry.date, '11-26');
+assert.strictEqual(pick(2026, 12, 15, null).entry.date, '12-03');
 assert.strictEqual(pick(2028, 2, 29, null).mode, 'nearest');
 
 const html = fs.readFileSync(path.join(root, 'devotional.html'), 'utf8');
