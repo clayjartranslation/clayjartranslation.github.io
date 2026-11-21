@@ -329,6 +329,7 @@ h3 { font-size: 1.12rem; margin: 1.75rem 0 .5rem; }
 
 /* ---------- Search ---------- */
 .search-box { position: relative; margin: .5rem 0 .75rem; }
+.search-note { margin: -.35rem 0 .85rem; color: var(--ink-faint); font-size: .85rem; line-height: 1.45; }
 .search-box input {
   width: 100%; font: inherit; font-size: 1.05rem; padding: .85rem 1rem .85rem 2.75rem; border-radius: 14px;
   border: 1px solid var(--line); background: var(--bg-raised); color: var(--ink); -webkit-appearance: none;
