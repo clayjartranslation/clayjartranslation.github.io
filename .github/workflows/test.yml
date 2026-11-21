@@ -27,3 +27,4 @@ jobs:
           node tests/phone.test.js
           node tests/security.test.js
           node tests/sync-merge.test.js
+          node tests/verse-search.test.js

@@ -374,8 +374,9 @@
       <form class="search-box" role="search" id="searchForm">
         <label for="q" class="visually-hidden">Search the translated text</label>
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-        <input id="q" type="search" placeholder="Search words or a reference, e.g. Genesis 3:15" value="${esc(q)}" autocomplete="off" enterkeyhint="search">
+        <input id="q" type="search" placeholder="Search words, a topic, or a reference, e.g. shepherd or Genesis 3:15" value="${esc(q)}" autocomplete="off" enterkeyhint="search">
       </form>
+      <p class="search-note">Some topics also find related words, such as shepherd with flock and sheep, or rainbow with bow and covenant. Nothing you type is sent anywhere.</p>
       <div class="search-opts"><label><input type="checkbox" id="inNotes"> Include footnotes</label></div>
       <p class="count" id="count" aria-live="polite"></p>
       <ul class="results" id="results"></ul>`, 'Search');
@@ -383,32 +384,38 @@
     inNotes.checked = sessionStorage.getItem('cjt-innotes') === '1';
     const loaded = await Promise.all(avail.map((b) => loadBook(b.id)));
     const index = [];
+    let order = 0;
+    const foldVerse = window.CJT_SEARCH.fold;
     loaded.forEach((book) => book && book.chapters.forEach((c) => {
-      c.verses.forEach((v) => index.push({ kind: 'v', book, c: c.n, v: v.v, text: plain(v.text) }));
-      c.notes.forEach((x) => index.push({ kind: 'n', book, c: c.n, v: +(x.ref.split(':')[1] || 0), m: x.m, text: x.text }));
+      c.verses.forEach((v) => {
+        const text = plain(v.text);
+        index.push({ kind: 'v', book, c: c.n, v: v.v, text: text, folded: foldVerse(text), order: order++ });
+      });
+      c.notes.forEach((x) => index.push({ kind: 'n', book, c: c.n, v: +(x.ref.split(':')[1] || 0), m: x.m, text: x.text, folded: foldVerse(x.text), order: order++ }));
     }));
     const run = () => {
       const raw = input.value.trim();
       history.replaceState(null, '', '#/search' + (raw ? '?q=' + encodeURIComponent(raw) : ''));
       const out = $('#results'), count = $('#count');
       if (raw.length < 2) { out.innerHTML = ''; count.textContent = raw ? 'Type at least two letters.' : `Searching ${avail.map((b) => b.name + ' ' + rangeText(b.translated)).join(', ')}.`; return; }
-      // Reference lookup, e.g. "gen 3:15" or "Genesis 3"
-      const ref = /^([1-4]?\s*[a-z][a-z .]*?)\s*(\d+)(?::(\d+))?$/i.exec(raw);
-      if (ref) {
-        const nm = fold(ref[1]).replace(/\s+/g, '');
-        const b = avail.find((x) => fold(x.name).replace(/\s+/g, '').startsWith(nm));
-        if (b && b.translated.includes(+ref[2])) {
-          count.textContent = '';
-          out.innerHTML = `<li><a href="#/read/${b.id}/${ref[2]}${ref[3] ? '/' + ref[3] : ''}"><span class="ref">Go to ${esc(b.name)} ${ref[2]}${ref[3] ? ':' + ref[3] : ''}</span></a></li>`;
-          return;
-        }
+      const found = window.CJT_SEARCH.search(index, raw, { notes: inNotes.checked, books: avail });
+      if (found.kind === 'ref') {
+        const b = found.book;
+        count.textContent = '';
+        out.innerHTML = `<li><a href="#/read/${b.id}/${found.chapter}${found.verse ? '/' + found.verse : ''}"><span class="ref">Go to ${esc(b.name)} ${found.chapter}${found.verse ? ':' + found.verse : ''}</span></a></li>`;
+        return;
       }
-      const terms = fold(raw).replace(/"/g, '').split(/\s+/).filter(Boolean);
-      const hits = index.filter((e) => (e.kind === 'v' || inNotes.checked) && terms.every((t) => fold(e.text).includes(t)));
-      count.textContent = hits.length ? `${hits.length} result${hits.length === 1 ? '' : 's'}${hits.length > 200 ? ', showing the first 200' : ''}` : 'No matches in the chapters translated so far.';
+      const hits = found.hits;
+      const exactN = hits.reduce((n, h) => n + (h.exact ? 1 : 0), 0);
+      const relatedN = hits.length - exactN;
+      if (!hits.length) count.textContent = 'No matches in the chapters translated so far.';
+      else if (relatedN) {
+        count.textContent = (exactN ? `${exactN} with these words, plus ${relatedN} by related words` : `${relatedN} result${relatedN === 1 ? '' : 's'} by related words`) + (hits.length > 200 ? ', showing the best 200' : '');
+      } else count.textContent = `${hits.length} result${hits.length === 1 ? '' : 's'}${hits.length > 200 ? ', showing the first 200' : ''}`;
       out.innerHTML = hits.slice(0, 200).map((e) => {
         const ref = `${e.book.name} ${e.c}:${e.v}`;
-        return `<li><a href="#/read/${e.book.id}/${e.c}/${e.v}"><span class="ref">${esc(ref)}${e.kind === 'n' ? ` <small>footnote ${e.m}</small>` : ''}</span><span class="txt">${highlight(e.text, terms)}</span></a></li>`;
+        const related = !e.exact && e.related && e.related.length ? ` <small>related: ${esc(e.related.join(', '))}</small>` : '';
+        return `<li><a href="#/read/${e.book.id}/${e.c}/${e.v}"><span class="ref">${esc(ref)}${e.kind === 'n' ? ` <small>footnote ${e.m}</small>` : ''}${related}</span><span class="txt">${highlight(e.text, e.marks || found.terms)}</span></a></li>`;
       }).join('');
     };
     let timer;
