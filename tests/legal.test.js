@@ -6,7 +6,7 @@ const root = path.join(__dirname, '..');
 const privacy = fs.readFileSync(path.join(root, 'privacy.html'), 'utf8');
 const terms = fs.readFileSync(path.join(root, 'terms.html'), 'utf8');
 
-assert.ok(privacy.includes('Last updated November 20, 2026'));
+assert.ok(privacy.includes('Last updated November 21, 2026'));
 assert.ok(terms.includes('Last updated November 21, 2026'));
 assert.ok(privacy.includes('Jose Santiago'));
 assert.ok(privacy.includes('Marshfield'));
@@ -29,6 +29,7 @@ assert.ok(fs.readFileSync(path.join(root, 'js/app.js'), 'utf8').includes('By sub
 assert.ok(fs.readFileSync(path.join(root, 'tools/build-downloads.js'), 'utf8').includes('By using this site you agree'));
 
 assert.ok(privacy.includes('time zone'));
+assert.ok(privacy.includes('Bible in a Year reading email'));
 assert.ok(privacy.includes('schedule') || privacy.includes('4:00 in the morning in the time zone') || privacy.includes('time zone collected'));
 assert.ok(terms.includes('Email delivery is not guaranteed'));
 assert.ok(terms.includes('marked as spam by your email provider'));
