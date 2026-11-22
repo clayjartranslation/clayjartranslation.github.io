@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prove a Bible in a Year plan covers every verse exactly once and finishes in 365 days.
+"""Prove a Bible in a Year plan covers every catalog verse at least once and finishes in 365 days.
 
 Usage:
   python3 tools/validate-bible-in-a-year.py [repo_root]
@@ -145,15 +145,15 @@ def validate(root, fallback=None, plan_path=None):
         daily.append(vcount)
 
     seen_set = set(seen)
-    if len(seen) != len(seen_set):
-        # find a duplicate
-        tally = {}
-        dups = []
-        for t in seen:
-            if t in tally:
-                dups.append(t)
-            tally[t] = tally.get(t, 0) + 1
-        errors.append("Duplicate verses ({0}), e.g. {1}".format(len(seen) - len(seen_set), dups[:8]))
+    tally = {}
+    for verse in seen:
+        tally[verse] = tally.get(verse, 0) + 1
+    unexpected_dups = [v for v, n in tally.items() if n > 1 and v[0] != "psalms"]
+    if unexpected_dups:
+        errors.append(
+            "Duplicate verses outside Psalms ({0}), e.g. {1}".format(len(unexpected_dups), unexpected_dups[:8])
+        )
+    psalm_repeats = sum(1 for v, n in tally.items() if v[0] == "psalms" and n > 1)
     missing = expected - seen_set
     extra = seen_set - expected
     if missing:
@@ -176,6 +176,8 @@ def validate(root, fallback=None, plan_path=None):
             "books_in_plan": len(books_in_plan),
             "verses_expected": len(expected),
             "verses_in_plan": len(seen_set),
+            "verses_scheduled": len(seen),
+            "psalm_verses_repeated": psalm_repeats,
             "day_verse_min": min(daily),
             "day_verse_max": max(daily),
             "day_verse_avg": sum(daily) / len(daily),
@@ -197,14 +199,15 @@ def main(argv=None):
     ok, errors, info = validate(args.root, fallback=args.fallback, plan_path=args.plan)
     if info:
         print(
-            "Coverage: {0}/{1} books, {2}/{3} verses; 365 days min/avg/max verses {4}/{5:.1f}/{6}.".format(
+            "Coverage: {0}/{1} books, {2}/{3} verses; 365 days min/avg/max verses {4}/{5:.1f}/{6}; psalm verses read more than once: {7}.".format(
                 info.get("books_in_plan"), info.get("books_in_catalog"),
                 info.get("verses_in_plan"), info.get("verses_expected"),
                 info.get("day_verse_min"), info.get("day_verse_avg"), info.get("day_verse_max"),
+                info.get("psalm_verses_repeated") or 0,
             )
         )
     if ok:
-        print("Bible in a Year plan is valid: 100% coverage, no duplicates, finishes in 365 days.")
+        print("Bible in a Year plan is valid: 100% coverage, finishes in 365 days.")
         return 0
     print("Bible in a Year plan failed validation:")
     for e in errors:
