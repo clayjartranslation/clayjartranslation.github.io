@@ -64,7 +64,7 @@ assert.strictEqual(last.ps[0].book, 'psalms');
 assert.ok(/Psalm 150/.test(last.ps[0].label), 'Psalms should finish on day 365: ' + last.ps[0].label);
 assert.strictEqual(last.pr[0].book, 'proverbs');
 assert.ok(/Proverbs 31/.test(last.pr[0].label), 'Proverbs should finish on day 365: ' + last.pr[0].label);
-assert.strictEqual(last.nt[last.nt.length - 1].book, 'revelation');
+assert.ok(last.nt.length, 'NT portion on day 365');
 
 const timed = biay.clipTimes({ v: { '1': 0, '2': 5.5, '3': 10, '4': 14.2 } }, 1, 3);
 assert.deepStrictEqual(timed, { start: 0, end: 14.2, timed: true });
@@ -72,7 +72,7 @@ assert.strictEqual(biay.clipTimes({ v: {} }, 1, 3), null);
 
 const check = spawnSync('python3', [path.join(root, 'tools/validate-bible-in-a-year.py'), root], { encoding: 'utf8' });
 assert.strictEqual(check.status, 0, check.stdout + check.stderr);
-assert.match(check.stdout, /100% coverage, no duplicates, finishes in 365 days/);
+assert.match(check.stdout, /100% coverage, finishes in 365 days/);
 
 
 const genHtml = biay.portionScripture(genesis, 1, 1, 3, { label: 'Genesis 1:1–3', kindLabel: 'Old Testament' });
@@ -198,4 +198,27 @@ assert.strictEqual(biay.textSource('ctb', { source: 'ctb' }, { ctbPublished: tru
 assert.strictEqual(biay.textSource('ctb', null, { ctbPublished: true }), 'ctb');
 assert.strictEqual(biay.textSource('ctb', null, { ctbPublished: false }), 'cjt');
 
+
+const psalmVerses = new Map();
+for (const day of plan.days) {
+  for (const item of day.ps) {
+    const start = Number(item.v) || 1;
+    for (let i = 0; i < item.verses; i++) {
+      const key = item.book + ':' + item.ch + ':' + (start + i);
+      psalmVerses.set(key, (psalmVerses.get(key) || 0) + 1);
+    }
+  }
+}
+assert.ok(psalmVerses.size >= 2461, 'all psalm verses should appear');
+assert.ok([...psalmVerses.values()].every((n) => n >= 2), 'the psalter is read at least twice');
+
+const jan = plan.days[0];
+assert.ok(jan.ot.every((item) => !item.v || item.v === 1), 'January 1 OT should be whole chapters');
+const dec = plan.days[364];
+assert.ok(/Psalm 150/.test(dec.ps[0].label), 'second pass ends on Psalm 150: ' + dec.ps[0].label);
+assert.strictEqual(dec.pr[0].book, 'proverbs');
+
+assert.ok(plan.placement && Array.isArray(plan.placement.nt_extras) && plan.placement.nt_extras.length, 'extra books follow Revelation in the NT stream');
+assert.ok(plan.placement.ot_extras.includes('tobit') && plan.placement.ot_extras.includes('1-enoch'));
+assert.ok(plan.placement.nt_extras.includes('odes-of-solomon'));
 console.log('bible-in-a-year tests ok');
