@@ -574,7 +574,7 @@
           '<p class="biay-nav"><a class="btn" href="?d=' + prev + '">← ' + esc(shortDate(prev)) + '</a> ' +
           (isToday ? '' : '<a class="btn" href="bible-in-a-year.html">Today</a> ') +
           '<a class="btn" href="?d=' + next + '">' + esc(shortDate(next)) + ' →</a></p></section>';
-        html += '<h2 id="biayYear">The whole year</h2><p class="muted">Each day has a reading from the Old Testament, the Psalms, Proverbs, and the New Testament. Tap a reading to open it.</p>';
+        html += '<h2 id="biayYear">The whole year</h2><p class="muted">Each day has a reading from the Old Testament (including the extra books in this edition), the Psalms, Proverbs, and the New Testament. Tap a reading to open it.</p>';
         for (var m = 0; m < 12; m++) {
           var mm = String(m + 1).padStart(2, '0');
           var rows = plan.days.filter(function (d) { return d.date.slice(0, 2) === mm; });

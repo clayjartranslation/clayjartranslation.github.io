@@ -21,6 +21,7 @@ jobs:
         run: |
           node tests/devotional-email.test.js
           node tests/bible-in-a-year-email.test.js
+          python3 tools/validate-bible-in-a-year.py .
           node tests/bible-in-a-year.test.js
           node tests/devotional.test.js
           node tests/language.test.js
