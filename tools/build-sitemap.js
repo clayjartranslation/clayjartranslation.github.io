@@ -36,7 +36,8 @@ function walkHtml(dir, rel) {
 function isPublic(rel) {
   const base = path.basename(rel);
   return !/^google[0-9a-f]+\.html$/i.test(base)
-    && !/^yandex_[0-9a-f]+\.html$/i.test(base);
+    && !/^yandex_[0-9a-f]+\.html$/i.test(base)
+    && !/^naver[0-9a-f]+\.html$/i.test(base);
 }
 
 function locFor(rel) {
