@@ -221,4 +221,19 @@ assert.strictEqual(dec.pr[0].book, 'proverbs');
 assert.ok(plan.placement && Array.isArray(plan.placement.nt_extras) && plan.placement.nt_extras.length, 'extra books follow Revelation in the NT stream');
 assert.ok(plan.placement.ot_extras.includes('tobit') && plan.placement.ot_extras.includes('1-enoch'));
 assert.ok(plan.placement.nt_extras.includes('odes-of-solomon'));
+assert.ok(plan.placement.ot_extras.includes('joseph-and-aseneth'), 'Joseph and Aseneth belongs in the OT stream');
+assert.ok(!plan.placement.nt_extras.includes('joseph-and-aseneth'), 'Joseph and Aseneth must not follow Revelation');
+
+const jaDays = [];
+let lastGenesis = -1;
+for (let i = 0; i < plan.days.length; i++) {
+  const day = plan.days[i];
+  if (day.ot.some((item) => item.book === 'genesis')) lastGenesis = i;
+  if (day.ot.some((item) => item.book === 'joseph-and-aseneth')) jaDays.push(i);
+  assert.ok(!day.nt.some((item) => item.book === 'joseph-and-aseneth'), 'Joseph and Aseneth must not appear in the NT stream on ' + day.date);
+}
+assert.ok(jaDays.length, 'Joseph and Aseneth must appear in the OT stream');
+assert.ok(lastGenesis >= 0, 'Genesis should appear in the OT stream');
+assert.ok(jaDays[0] === lastGenesis || jaDays[0] === lastGenesis + 1, 'Joseph and Aseneth should follow Genesis: last Genesis day ' + plan.days[lastGenesis].date + ', first Joseph and Aseneth day ' + plan.days[jaDays[0]].date);
+
 console.log('bible-in-a-year tests ok');

@@ -13,9 +13,10 @@ Shape of a day:
     also finishes on day 365.
 
 The Apocrypha and the remaining Pseudepigrapha are placed in the Old
-Testament stream, in this Bible’s book order. A smaller set of extra books
-(early-Christian or similar in size to a New Testament chapter) follows
-Revelation in the New Testament stream.
+Testament stream, in this Bible’s book order, except Joseph and Aseneth,
+which is read immediately after Genesis because it continues the Joseph
+story. A smaller set of extra books (early-Christian or similar in size
+to a New Testament chapter) follows Revelation in the New Testament stream.
 
 Every catalog verse appears at least once (Psalms appear twice). The plan
 finishes in 365 days. February 29 in a leap year reuses February 28.
@@ -44,16 +45,21 @@ LONG_CHAPTER_WORDS = 2200
 LONG_CHUNK_VERSES = 30
 LONG_CHUNK_WORDS = 1800
 # Extra books that follow Revelation in the NT stream.
+# Joseph and Aseneth is an Old Testament story (a sequel to Genesis 37–50)
+# and belongs in the OT stream, immediately after Genesis.
 NT_STREAM_EXTRAS = (
     "odes-of-solomon",
     "ascension-of-isaiah",
     "4-baruch",
     "4-maccabees",
-    "joseph-and-aseneth",
     "letter-of-aristeas",
     "psalms-of-solomon",
     "psalms-152-to-155",
 )
+# Lift a book out of catalog order and insert it after a given OT book.
+OT_NARRATIVE_AFTER = {
+    "joseph-and-aseneth": "genesis",
+}
 TRADITIONAL_NT = {
     "matthew", "mark", "luke", "john", "acts", "romans",
     "1-corinthians", "2-corinthians", "galatians", "ephesians",
@@ -594,6 +600,17 @@ def extra_nt_ids(catalog_books):
     return [b["id"] for b in catalog_books if b.get("division") == "New Testament" and b["id"] not in TRADITIONAL_NT]
 
 
+def place_ot_narrative(ot_ids):
+    """Move narratively placed books (e.g. Joseph and Aseneth after Genesis)."""
+    ids = list(ot_ids)
+    for book, after in OT_NARRATIVE_AFTER.items():
+        if book not in ids or after not in ids:
+            continue
+        ids.remove(book)
+        ids.insert(ids.index(after) + 1, book)
+    return ids
+
+
 def summarize_unit_days(name, day_units):
     sizes = [sum(u["verses"] for u in du) for du in day_units]
     words = [sum(u["words"] for u in du) for du in day_units]
@@ -619,12 +636,12 @@ def build(root, fallback=None, out_path=None):
     books = {b["id"]: b for b in catalog_books}
     present = {b["id"] for b in catalog_books}
     nt_extras = [i for i in NT_STREAM_EXTRAS if i in present]
-    ot_ids = [
+    ot_ids = place_ot_narrative([
         b["id"] for b in catalog_books
         if b.get("division") in ("Old Testament", "Apocrypha", "Pseudepigrapha")
         and b["id"] not in (PSALMS_ID, PROVERBS_ID)
         and b["id"] not in nt_extras
-    ]
+    ])
     nt_ids = [b["id"] for b in catalog_books if b.get("division") == "New Testament"] + nt_extras
     covered_ids = set(ot_ids) | set(nt_ids) | {PSALMS_ID, PROVERBS_ID}
     missing = [b["id"] for b in catalog_books if b["id"] not in covered_ids]
@@ -686,9 +703,11 @@ def build(root, fallback=None, out_path=None):
         "Each day has four readings: a longer Old Testament reading in whole chapters "
         "(including most of the Apocrypha and Pseudepigrapha, in this Bible’s book order), "
         "about one psalm, a couple of verses of Proverbs, and about one New Testament chapter. "
-        "After Revelation, the New Testament stream continues with Odes of Solomon, "
-        "Ascension of Isaiah, 4 Baruch, 4 Maccabees, Joseph and Aseneth, the Letter of Aristeas, "
-        "Psalms of Solomon, and Psalms 152–155, so that stream also fills the year. "
+        "Joseph and Aseneth is read in the Old Testament stream right after Genesis, because "
+        "it continues the story of Joseph. After Revelation, the New Testament stream "
+        "continues with Odes of Solomon, Ascension of Isaiah, 4 Baruch, 4 Maccabees, the "
+        "Letter of Aristeas, Psalms of Solomon, and Psalms 152–155, so that stream also "
+        "fills the year. "
         "The 150 psalms are read through twice; a very long psalm such as Psalm 119 is split "
         "by stanza. On February 29 in a leap year, read the February 28 portion again, or use "
         "the day to catch up. The plan finishes on December 31."
