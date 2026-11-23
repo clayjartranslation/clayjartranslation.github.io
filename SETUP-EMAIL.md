@@ -143,14 +143,14 @@ The list number and the sender email may instead be stored as repository **varia
 5. On GitHub, open the **Actions** tab of the repository, then **Send daily devotional**, then **Run workflow**.
 6. Leave **Print the email and do not send it** turned **on**. Tap **Run workflow**.
 7. Open that run when it finishes and read the log. You should see a count of contacts in each time zone, today’s title, the verse, the reflection, the prayer, and the line `Devotionals © 2026 Jose Santiago, licensed CC BY-NC-SA 4.0`. Nobody is emailed.
-8. A live run (the print switch off) still emails only people whose local time is in the 4 AM hour. To send a one-off copy to yourself, use the **test email** box. That does not email the list.
+8. A live run (the print switch off) still emails only people whose local time is 4:00 AM or later and who have not already received today’s reading. To send a one-off copy to yourself, use the **test email** box. That does not email the list.
 9. If the same person is due again in that local day, they are not emailed a second copy. The job stores `LAST_DEVO_DATE` on the contact after a successful send.
 
 ## What happens every morning
 
 You do not tap anything.
 
-GitHub starts a job at the top of every hour. The script emails only confirmed subscribers whose local time is in the 4 AM hour and who have not already received that local date’s reading. The reading itself is the one for the reader’s local date. If a time zone is missing or invalid, America/New_York is used.
+GitHub starts a job at the top of every hour, with extra runs around 4–6 AM Eastern. The script emails only confirmed subscribers whose local time is 4:00 AM or later and who have not already received that local date’s reading. The reading itself is the one for the reader’s local date. If a time zone is missing or invalid, America/New_York is used.
 
 Unsubscribed or blocklisted addresses are skipped. Each email has an unsubscribe link to this site’s unsubscribe page, and Brevo adds a List-Unsubscribe header so Gmail, Yahoo, and Outlook can show their own Unsubscribe control.
 
@@ -165,7 +165,7 @@ If the list has no confirmed subscribers, the job stops without failing.
 - The subscribe box is missing. The config file still has empty quotes, or the site has not updated yet. Reload after a minute. The address must start with `https://`.
 - Subscribe opens an error. The form address is incomplete, or CAPTCHA or a required checkbox is turned on in Brevo. Fix the form in Brevo. Leave CAPTCHA off.
 - The person never appears on the list. They have not tapped the confirmation email yet. Double confirmation waits for that tap.
-- The morning job is red. Open it and read the last lines. The usual causes are: the sender is not verified, the API key was copied wrong or Brevo turned it off, or the list number does not match a list. Fix that and use a dry run first. A live run still only emails people in their 4 AM hour, and will not duplicate a send already marked on the contact.
+- The morning job is red. Open it and read the last lines. The usual causes are: the sender is not verified, the API key was copied wrong or Brevo turned it off, or the list number does not match a list. Fix that and use a dry run first. A live run still only emails people after 4 AM in their local time, and will not duplicate a send already marked on the contact.
 - A dry run or morning job says the API key is not authorized for Contacts. In Brevo, create or edit the API key so it can manage contacts (not only transactional email or campaigns). The job needs that to read time zones, skip unsubscribed addresses, and record `LAST_DEVO_DATE`. Until then, a dry run still prints a sample and sends nothing, and the hourly send cannot go out to the list.
 - More than 300 people are on the list. The free plan cannot email all of them in one day. The site itself stays free.
 
