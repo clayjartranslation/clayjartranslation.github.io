@@ -190,7 +190,45 @@ assert.notStrictEqual(female.v, male.v, 'the same currentTime should not assume 
 assert.strictEqual(biay.highlightForPlayback(psF, tMid, 11, 16, { usedFullChapter: true, clipStart: psF.v['11'], clipEnd: psF.v['17'] }), null);
 assert.strictEqual(biay.timingsReliable({ v: { '1': 0, '2': 1 } }, 1, 4), false);
 assert.strictEqual(biay.timingsReliable({ v: { '1': 10, '2': 5 } }, 1, 2), false);
+
 assert.strictEqual(biay.clipTimes({ v: { '1': 3, '2': 8 }, d: 12.5 }, 1, 2).end, 12.5);
+
+// Full chapters must play from the start of the file until "ended", not a verse-1
+// seek or a timing-file duration that cuts the last words and the next intro.
+const jubMeta = { v: { '1': 3.27, '33': 351.0 }, d: 360.07, intro: 0.3 };
+const jubSeg = { book: 'jubilees', ch: 24, startV: 1, endV: 33, lastV: 33, fullChapter: true };
+const jubWin = biay.playbackWindow(jubSeg, jubMeta);
+assert.strictEqual(jubWin.start, 0, 'full chapter starts at 0 so the intro is heard');
+assert.strictEqual(jubWin.end, null, 'full chapter waits for the ended event');
+assert.strictEqual(jubWin.timed, false);
+assert.strictEqual(jubWin.usedFullChapter, false);
+assert.strictEqual(biay.shouldAdvanceAtTime(360.02, jubWin.end, true), false, 'must not cut a full chapter at meta.d');
+assert.strictEqual(biay.shouldAdvanceAtTime(360.07, jubWin.end, true), false);
+
+const psSeg = { book: 'psalms', ch: 119, startV: 17, endV: 40, lastV: 176, fullChapter: false };
+const psMeta = { v: { '17': 80.1, '18': 85, '40': 200, '41': 210.5 }, d: 809.57 };
+const psWin = biay.playbackWindow(psSeg, psMeta);
+assert.strictEqual(psWin.start, 80.1);
+assert.strictEqual(psWin.end, 210.5);
+assert.strictEqual(psWin.timed, true);
+assert.ok(biay.shouldAdvanceAtTime(210.46, psWin.end, true), 'partial clip advances at the next verse');
+assert.ok(!biay.shouldAdvanceAtTime(209.0, psWin.end, true), 'partial clip must not advance early');
+assert.ok(!biay.shouldAdvanceAtTime(210.46, psWin.end, false), 'paused clip must not advance');
+
+const prSeg = { book: 'proverbs', ch: 29, startV: 14, endV: 15, lastV: 27, fullChapter: false };
+const prMeta = { v: { '14': 70, '15': 75, '16': 80.2 }, d: 143.56 };
+const prWin = biay.playbackWindow(prSeg, prMeta);
+assert.strictEqual(prWin.start, 70);
+assert.strictEqual(prWin.end, 80.2);
+
+const untimed = biay.playbackWindow({ startV: 10, endV: 12, fullChapter: false }, { v: {} });
+assert.strictEqual(untimed.start, 0);
+assert.strictEqual(untimed.end, null);
+assert.strictEqual(untimed.usedFullChapter, true);
+
+const janWindows = janList.filter((s) => s.book === 'genesis').map((s) => biay.playbackWindow(s, { v: { '1': 3.1, '2': 8 }, d: 200 }));
+assert.ok(janWindows.length && janWindows.every((w) => w.start === 0 && w.end == null), 'January 1 Genesis chapters play in full');
+
 
 assert.strictEqual(biay.textSource('cjt', { source: 'cjt' }, {}), 'cjt');
 assert.strictEqual(biay.textSource('ctb', { source: 'cjt', fellBackToCjt: true }, { ctbPublished: true }), 'cjt');
