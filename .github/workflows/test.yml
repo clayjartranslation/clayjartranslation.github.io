@@ -31,4 +31,5 @@ jobs:
           node tests/security.test.js
           node tests/sync-merge.test.js
           node tests/verse-search.test.js
+          node tests/footnotes.test.js
           node tests/sitemap.test.js

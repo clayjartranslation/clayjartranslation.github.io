@@ -100,6 +100,8 @@
 
   // ---------- Helpers ----------
   const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  // Footnotes mark transliterations with *asterisks*. Turn those into <i> only after escaping, so user text cannot inject HTML.
+  const mdEm = (s) => String(s).replace(/\*([^*<>\n]+)\*/g, '<i>$1</i>');
   const plain = (t) => t.replace(/\{[a-z]+\}/g, '');
   const fold = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[’‘]/g, "'").replace(/[“”]/g, '"').toLowerCase();
   const DIV_NOTES = {
@@ -310,7 +312,7 @@
       const sub = ch.subheads && ch.subheads[s] ? `<h3 class="ch-sub">${esc(ch.subheads[s])}</h3>` : '';
       return `${sub}<p${poem ? ' class="poem"' : ''}>${vs}</p>`;
     }).join('');
-    const notes = ch.notes.map((x) => `<li id="note-${x.m}"><span class="m">${x.m}</span><a class="r" href="#/read/${id}/${ch.n}/${x.ref.split(':')[1] || ''}">${esc(x.ref)}</a><span>${esc(x.text)}</span></li>`).join('');
+    const notes = ch.notes.map((x) => `<li id="note-${x.m}"><span class="m">${x.m}</span><a class="r" href="#/read/${id}/${ch.n}/${x.ref.split(':')[1] || ''}">${esc(x.ref)}</a><span>${mdEm(esc(x.text))}</span></li>`).join('');
     const bookMeta = cat.books.find((b) => b.id === id);
     setTitle(`${book.name} ${ch.n}`, () => { location.hash = '#/books/' + id; });
     render(`
@@ -351,7 +353,7 @@
     document.querySelectorAll('.fn.active').forEach((x) => x.classList.remove('active'));
     trigger.classList.add('active');
     $('#sheetRef').textContent = `Note ${note.m} · ${note.ref}`;
-    $('#sheetText').textContent = note.text;
+    $('#sheetText').innerHTML = mdEm(esc(note.text));
     sheet.hidden = false; backdrop.hidden = false;
     $('#sheetClose').focus();
   }
