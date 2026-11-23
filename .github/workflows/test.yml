@@ -33,3 +33,4 @@ jobs:
           node tests/verse-search.test.js
           node tests/footnotes.test.js
           node tests/sitemap.test.js
+          node tests/indexnow.test.js
