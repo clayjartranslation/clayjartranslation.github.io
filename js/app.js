@@ -1528,7 +1528,18 @@
 
   // ---------- Offline ----------
   if ('serviceWorker' in navigator && location.protocol !== 'file:') {
-    window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch((e) => console.warn('Offline mode unavailable:', e.message)));
+    window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').then((reg) => {
+      try { reg.update(); } catch (e) {}
+      document.addEventListener('visibilitychange', () => { if (!document.hidden) try { reg.update(); } catch (e) {} });
+    }).catch((e) => console.warn('Offline mode unavailable:', e.message));
+    let refreshing = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (refreshing) return;
+      refreshing = true;
+      location.reload();
+    });
+  });
   }
   function offlineBadge() {
     let b = $('.offline-badge');
