@@ -1,12 +1,12 @@
 /* Service worker: saves the whole site for offline reading. Bump VERSION when files change
    (tools/add-book.js does this automatically). All paths are relative, so the site works
    from a domain root or a subpath such as https://USER.github.io/cjt-bible/. */
-const VERSION = 'cjt-v346';
+const VERSION = 'cjt-v347';
 const CORE = [
   './', 'index.html', 'terms.html', 'privacy.html', 'devotional.html', 'bible-in-a-year.html', 'unsubscribe.html', 'how-to-use.html', 'css/style.css',
   'js/boot.js', 'js/languages.js', 'js/language.js',
   'js/account-config.js', 'js/devotional-email-config.js', 'js/devotional-email.js',
-  'js/sync-merge.js', 'js/phone.js', 'js/share.js', 'js/verse-search.js', 'js/app.js', 'js/accounts.js', 'js/devotional.js', 'js/bible-in-a-year.js', 'js/range-response.js', 'js/unsubscribe.js', 'manifest.webmanifest',
+  'js/sync-merge.js', 'js/phone.js', 'js/share.js', 'js/verse-search.js', 'js/app.js', 'js/accounts.js', 'js/devotional.js', 'js/bible-in-a-year.js', 'js/sw-update.js', 'js/range-response.js', 'js/unsubscribe.js', 'manifest.webmanifest',
   'data/books.json', 'data/front-matter.json', 'data/devotionals.json', 'data/bible-in-a-year.json',
   'icons/cjt-logo-720.jpg', 'icons/emblem-96.png', 'icons/icon-192.png', 'icons/icon-512.png',
   'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png', 'icons/favicon-48.png',

@@ -208,17 +208,18 @@ assert.strictEqual(biay.shouldAdvanceAtTime(360.07, jubWin.end, true), false);
 const psSeg = { book: 'psalms', ch: 119, startV: 17, endV: 40, lastV: 176, fullChapter: false };
 const psMeta = { v: { '17': 80.1, '18': 85, '40': 200, '41': 210.5 }, d: 809.57 };
 const psWin = biay.playbackWindow(psSeg, psMeta);
-assert.strictEqual(psWin.start, 80.1);
+assert.ok(psWin.start <= 80.1 && psWin.start >= 80.1 - 0.16, 'partial clip starts with a short lead-in, got ' + psWin.start);
 assert.strictEqual(psWin.end, 210.5);
 assert.strictEqual(psWin.timed, true);
-assert.ok(biay.shouldAdvanceAtTime(210.46, psWin.end, true), 'partial clip advances at the next verse');
+assert.ok(!biay.shouldAdvanceAtTime(210.46, psWin.end, true), 'must not leave a partial clip 50ms early');
+assert.ok(biay.shouldAdvanceAtTime(210.5, psWin.end, true), 'partial clip advances at the next verse');
 assert.ok(!biay.shouldAdvanceAtTime(209.0, psWin.end, true), 'partial clip must not advance early');
-assert.ok(!biay.shouldAdvanceAtTime(210.46, psWin.end, false), 'paused clip must not advance');
+assert.ok(!biay.shouldAdvanceAtTime(210.5, psWin.end, false), 'paused clip must not advance');
 
 const prSeg = { book: 'proverbs', ch: 29, startV: 14, endV: 15, lastV: 27, fullChapter: false };
 const prMeta = { v: { '14': 70, '15': 75, '16': 80.2 }, d: 143.56 };
 const prWin = biay.playbackWindow(prSeg, prMeta);
-assert.strictEqual(prWin.start, 70);
+assert.ok(prWin.start <= 70 && prWin.start >= 70 - 0.16, 'proverbs lead-in, got ' + prWin.start);
 assert.strictEqual(prWin.end, 80.2);
 
 const untimed = biay.playbackWindow({ startV: 10, endV: 12, fullChapter: false }, { v: {} });
@@ -273,5 +274,21 @@ for (let i = 0; i < plan.days.length; i++) {
 assert.ok(jaDays.length, 'Joseph and Aseneth must appear in the OT stream');
 assert.ok(lastGenesis >= 0, 'Genesis should appear in the OT stream');
 assert.ok(jaDays[0] === lastGenesis || jaDays[0] === lastGenesis + 1, 'Joseph and Aseneth should follow Genesis: last Genesis day ' + plan.days[lastGenesis].date + ', first Joseph and Aseneth day ' + plan.days[jaDays[0]].date);
+
+
+const swSrc = fs.readFileSync(path.join(root, 'sw.js'), 'utf8');
+assert.strictEqual(biay.CACHE_VERSION, (swSrc.match(/const VERSION = '(cjt-v\d+)'/) || [])[1], 'player version must match the service worker');
+
+// Every verse in a mid-chapter portion should highlight, including the last
+// verse right up to the next verse's timestamp.
+const highlightMeta = { v: { '17': 80.1, '18': 85, '19': 90, '20': 95, '21': 100.5 }, d: 120 };
+for (let v = 17; v <= 20; v++) {
+  const ts = highlightMeta.v[String(v)];
+  const hit = biay.highlightForPlayback(highlightMeta, ts + 0.1, 17, 20, { clipStart: 80.1 - 0.15, clipEnd: 100.5 });
+  assert.ok(hit && hit.kind === 'verse' && hit.v === v, 'verse ' + v + ' should highlight at ' + (ts + 0.1) + ' got ' + JSON.stringify(hit));
+}
+const lastHit = biay.highlightForPlayback(highlightMeta, 100.4, 17, 20, { clipStart: 80.1 - 0.15, clipEnd: 100.5 });
+assert.ok(lastHit && lastHit.v === 20, 'last verse should stay highlighted until the next verse starts, got ' + JSON.stringify(lastHit));
+assert.strictEqual(biay.highlightForPlayback(highlightMeta, 100.5, 17, 20, { clipStart: 80.1 - 0.15, clipEnd: 100.5 }), null);
 
 console.log('bible-in-a-year tests ok');
