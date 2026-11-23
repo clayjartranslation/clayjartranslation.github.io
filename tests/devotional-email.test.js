@@ -44,9 +44,9 @@ assert.strictEqual(winter.send, true);
 assert.strictEqual(partsAt('2026-11-13T08:00:00Z', 'America/New_York').send, false, '08:00 UTC is 3 AM in November');
 assert.strictEqual(partsAt('2026-11-13T09:59:00Z', 'America/New_York').send, true);
 assert.strictEqual(partsAt('2026-11-13T10:00:00Z', 'America/New_York').hour, 5);
-assert.strictEqual(partsAt('2026-11-13T10:00:00Z', 'America/New_York').send, false);
+assert.strictEqual(partsAt('2026-11-13T10:00:00Z', 'America/New_York').send, true, '5 AM is still due if today’s email has not gone out');
 assert.strictEqual(partsAt('2026-07-15T08:00:00Z', 'America/New_York').send, true, '08:00 UTC is 4 AM in July');
-assert.strictEqual(partsAt('2026-07-15T09:00:00Z', 'America/New_York').send, false, '09:00 UTC is 5 AM in July');
+assert.strictEqual(partsAt('2026-07-15T09:00:00Z', 'America/New_York').send, true, '09:00 UTC is 5 AM in July, still due');
 assert.strictEqual(partsAt('2026-03-08T08:00:00Z', 'America/New_York').hour, 4, 'spring-forward morning still has a 4 AM');
 assert.strictEqual(partsAt('2026-11-01T09:00:00Z', 'America/New_York').hour, 4, 'fall-back morning still has a 4 AM');
 assert.strictEqual(partsAt('2026-11-01T09:00:00Z', 'America/New_York').send, true);
@@ -86,8 +86,9 @@ assert.strictEqual(byTz['America/New_York'].skippedExcluded, 2);
 assert.strictEqual(byTz['America/Los_Angeles'].due, false);
 assert.strictEqual(byTz['America/Los_Angeles'].recipients.length, 0);
 assert.strictEqual(byTz['America/Los_Angeles'].skippedWrongHour, 1);
-assert.ok(!byTz['Asia/Kolkata'].due);
-assert.strictEqual(mail.dueCount(grouped), 3);
+assert.ok(byTz['Asia/Kolkata'].due, '2:40 PM in Kolkata is after 4 AM local');
+assert.strictEqual(byTz['Asia/Kolkata'].recipients[0].email, 'india@example.com');
+assert.strictEqual(mail.dueCount(grouped), 4);
 assert.strictEqual(mail.alreadySentTodayCount(grouped), 1);
 
 const atAucklandFour = mail.groupByTimeZone([
@@ -99,7 +100,7 @@ const nyLater = atAucklandFour.find((g) => g.timeZone === 'America/New_York');
 assert.strictEqual(akl.due, true);
 assert.strictEqual(akl.localDate, '2026-11-15');
 assert.strictEqual(akl.recipients[0].email, 'akl@example.com');
-assert.strictEqual(nyLater.due, false);
+assert.strictEqual(nyLater.due, true, '10 AM in New York is after 4 AM local');
 
 const limited = mail.applyDailyLimit([
   { due: true, recipients: new Array(200).fill({ email: 'a@b.co' }), skippedAlready: 0 },
@@ -176,7 +177,7 @@ function mockRequest(handlers) {
     }),
   });
   assert.strictEqual(r.code, 0);
-  assert.match(r.logs.join('\n'), /Nothing was sent|not in the 4 AM hour|No subscribers are in the 4 AM hour/);
+  assert.match(r.logs.join('\n'), /Nothing was sent|before 4 AM/);
 
   r = await quiet({ EVENT_NAME: 'schedule', NOW: '2026-11-13T09:30:00Z' });
   assert.strictEqual(r.code, 0);
@@ -281,6 +282,32 @@ function mockRequest(handlers) {
   assert.strictEqual(second.filter((c) => c.url === '/smtp/email').length, 0, 'reruns must not double-send');
   assert.match(r.logs.join('\n'), /already received|already sent|Nothing was sent/i);
 
+  const late = [];
+  r = await quiet({
+    EVENT_NAME: 'schedule',
+    NOW: '2026-11-13T14:10:00Z',
+    BREVO_API_KEY: 'secret-key',
+    BREVO_LIST_ID: '3',
+    BREVO_SENDER_EMAIL: 'news@example.com',
+  }, {
+    request: mockRequest({
+      '*': async (key, method, url, body) => {
+        late.push({ method, url, body });
+        if (method === 'POST' && url.startsWith('/contacts/attributes/')) return { ok: true, status: 201, json: {}, text: '' };
+        if (method === 'GET' && url.startsWith('/contacts?')) return { ok: true, status: 200, json: { contacts: [
+          { email: 'due@example.com', emailBlacklisted: false, attributes: { TIMEZONE: 'America/New_York' } },
+        ] }, text: '' };
+        if (method === 'GET' && url.startsWith('/smtp/blockedContacts')) return { ok: true, status: 200, json: { contacts: [] }, text: '' };
+        if (method === 'POST' && url === '/smtp/email') return { ok: true, status: 201, json: { messageIds: ['<id-late>'] }, text: '' };
+        if (method === 'POST' && url === '/contacts/batch') return { ok: true, status: 204, json: null, text: '' };
+        throw new Error('unexpected ' + method + ' ' + url);
+      },
+    }),
+  });
+  assert.strictEqual(r.code, 0);
+  assert.strictEqual(late.filter((c) => c.url === '/smtp/email').length, 1, 'a later run still sends today’s email if it has not gone out');
+  assert.match(r.logs.join('\n'), /Sent Clay Jar devotional 2026-11-13 to 1 subscriber/);
+
   const dryCalls = [];
   r = await quiet({
     EVENT_NAME: 'workflow_dispatch',
@@ -313,6 +340,8 @@ function mockRequest(handlers) {
 
   const yml = fs.readFileSync(path.join(root, '.github/workflows/devotional-email.yml'), 'utf8');
   assert.match(yml, /cron:\s*'0 \* \* \* \*'/);
+  assert.match(yml, /cron:\s*'5 9,10 \* \* \*'/);
+  assert.match(yml, /cron:\s*'35 9,10 \* \* \*'/);
   assert.ok(!/cron:\s*'0 8 \* \* \*'/.test(yml));
   assert.ok(!/cron:\s*'0 9 \* \* \*'/.test(yml));
   assert.match(yml, /workflow_dispatch:/);
