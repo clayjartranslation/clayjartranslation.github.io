@@ -4548,7 +4548,7 @@
     },
     {
      "v": 9,
-     "text": "The land mourns and languishes;\nLebanon is abashed and moulders;\nSharon has become like the desert plain,\nand Bashan and Carmel shed their foliage.{f}"
+     "text": "The land mourns and languishes;\nLebanon is abashed and molders;\nSharon has become like the desert plain,\nand Bashan and Carmel shed their foliage.{f}"
     },
     {
      "v": 10,
@@ -8008,7 +8008,7 @@
     },
     {
      "v": 17,
-     "text": "No weapon formed against you shall succeed,\nand every tongue that rises against you in judgment you shall condemn.{k}\nThis is the inheritance of the servants of Yahweh,\nand their vindication from me,” declares Yahweh.\nthe Septuagint has “strangers shall come to you by me.”"
+     "text": "No weapon formed against you shall succeed,\nand every tongue that rises against you in judgment you shall condemn.{k}\nThis is the inheritance of the servants of Yahweh,\nand their vindication from me,” declares Yahweh.{l}"
     }
    ],
    "notes": [
@@ -8066,6 +8066,11 @@
      "m": "k",
      "ref": "54:17",
      "text": "The Great Isaiah Scroll lacks this line."
+    },
+    {
+     "m": "l",
+     "ref": "54:17",
+     "text": "The Septuagint has “strangers shall come to you by me.”"
     }
    ]
   },
