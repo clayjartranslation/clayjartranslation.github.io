@@ -15,6 +15,10 @@ const yandex = fs.readFileSync(path.join(root, 'yandex_53cf987660058f19.html'), 
 assert.ok(yandex.includes('Verification: 53cf987660058f19'));
 const index = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
 assert.ok(index.includes('<meta name="yandex-verification" content="53cf987660058f19" />'));
+assert.ok(index.includes('<meta name="naver-site-verification" content="899dabad1790dc9b12d9b187413966eb658379d2" />'));
+const naver = fs.readFileSync(path.join(root, 'naver17874dff61b908f064b379fb28bfa3d6.html'));
+assert.strictEqual(naver.toString('utf8'), 'naver-site-verification: naver17874dff61b908f064b379fb28bfa3d6.html');
+assert.ok(!naver.includes(10), 'Naver verification file must have no trailing newline');
 
 assert.strictEqual(urlFor('index.html'), BASE);
 assert.strictEqual(urlFor('devotional.html'), BASE + 'devotional.html');
@@ -24,6 +28,7 @@ assert.strictEqual(urlFor('s/genesis/1.html'), BASE + 's/genesis/1.html');
 assert.strictEqual(urlFor('data/devotionals.json'), BASE + 'devotional.html');
 assert.strictEqual(urlFor('data/bible-in-a-year.json'), BASE + 'bible-in-a-year.html');
 assert.strictEqual(urlFor('yandex_53cf987660058f19.html'), null);
+assert.strictEqual(urlFor('naver17874dff61b908f064b379fb28bfa3d6.html'), null);
 assert.strictEqual(urlFor('google0e7f4b7c27f37d53.html'), null);
 assert.strictEqual(urlFor('tools/ping-indexnow.js'), null);
 assert.strictEqual(urlFor('sw.js'), null);

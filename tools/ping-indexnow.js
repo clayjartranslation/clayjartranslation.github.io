@@ -26,7 +26,8 @@ const BASE = isCtb
 
 function isVerificationPage(name) {
   return /^google[0-9a-f]+\.html$/i.test(name)
-    || /^yandex_[0-9a-f]+\.html$/i.test(name);
+    || /^yandex_[0-9a-f]+\.html$/i.test(name)
+    || /^naver[0-9a-f]+\.html$/i.test(name);
 }
 
 function urlFor(rel) {
