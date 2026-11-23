@@ -1,16 +1,40 @@
 /* Service worker: saves the whole site for offline reading. Bump VERSION when files change
    (tools/add-book.js does this automatically). All paths are relative, so the site works
    from a domain root or a subpath such as https://USER.github.io/cjt-bible/. */
-const VERSION = 'cjt-v343';
+const VERSION = 'cjt-v344';
 const CORE = [
   './', 'index.html', 'terms.html', 'privacy.html', 'devotional.html', 'bible-in-a-year.html', 'unsubscribe.html', 'how-to-use.html', 'css/style.css',
   'js/boot.js', 'js/languages.js', 'js/language.js',
   'js/account-config.js', 'js/devotional-email-config.js', 'js/devotional-email.js',
-  'js/sync-merge.js', 'js/phone.js', 'js/share.js', 'js/verse-search.js', 'js/app.js', 'js/accounts.js', 'js/devotional.js', 'js/bible-in-a-year.js', 'js/unsubscribe.js', 'manifest.webmanifest',
+  'js/sync-merge.js', 'js/phone.js', 'js/share.js', 'js/verse-search.js', 'js/app.js', 'js/accounts.js', 'js/devotional.js', 'js/bible-in-a-year.js', 'js/range-response.js', 'js/unsubscribe.js', 'manifest.webmanifest',
   'data/books.json', 'data/front-matter.json', 'data/devotionals.json', 'data/bible-in-a-year.json',
   'icons/cjt-logo-720.jpg', 'icons/emblem-96.png', 'icons/icon-192.png', 'icons/icon-512.png',
   'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png', 'icons/favicon-48.png',
 ];
+
+importScripts('js/range-response.js');
+
+
+/* Serve byte ranges from the cache so iOS Safari can play cached audio. */
+async function respondWithRange(event, req, cache, fallback) {
+  const cached = await cache.match(req, { ignoreSearch: true });
+  if (cached && cached.status === 200 && cached.ok) {
+    return sliceRangeResponse(req, cached);
+  }
+  // Fetch the whole file (no Range) so the cache stores a complete copy,
+  // then slice it. Never cache a 206 fragment.
+  try {
+    const fullReq = new Request(req.url, { method: 'GET', mode: req.mode, credentials: req.credentials });
+    const res = await fetch(fullReq);
+    if (res.ok && res.status === 200) {
+      cache.put(req.url, res.clone());
+      if (req.headers.has('Range')) return sliceRangeResponse(req, res);
+      return res;
+    }
+  } catch (e) { /* offline */ }
+  if (fallback) return fallback();
+  return cached || Response.error();
+}
 
 self.addEventListener('install', (event) => {
   event.waitUntil((async () => {
@@ -43,6 +67,9 @@ self.addEventListener('fetch', (event) => {
   const isConfig = /\/js\/(?:account-config|devotional-email-config)\.js$/.test(path);
   event.respondWith((async () => {
     const cache = await caches.open(VERSION);
+    if (req.headers.has('Range')) {
+      return respondWithRange(event, req, cache, null);
+    }
     if (isConfig) {
       // The owner pastes Firebase keys, or the devotional form address, into these
       // files. Always try the network first so a new config is picked up without
