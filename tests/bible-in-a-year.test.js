@@ -21,7 +21,7 @@ assert.strictEqual(catalog.books.length, 98);
 
 const inPlan = new Set();
 for (const day of plan.days) {
-  for (const k of ['ot', 'ps', 'pr', 'nt']) {
+  for (const k of ['ot', 'ps', 'pr', 'nt', 'ex']) {
     assert.ok((day[k] || []).length, day.date + ' missing ' + k);
     for (const item of day[k]) {
       inPlan.add(item.book);
@@ -51,13 +51,14 @@ assert.strictEqual(ntExtra.length, 0, 'this edition lists no extra New Testament
 
 const jan1 = plan.days[0];
 assert.strictEqual(jan1.ot[0].book, 'genesis');
-const janList = biay.dayPlaylist(jan1, { genesis, psalms, proverbs });
+const janList = biay.dayPlaylist(jan1, { genesis, psalms, proverbs }, catalog);
 assert.ok(janList.length >= 4);
 assert.strictEqual(janList[0].kind, 'ot');
 assert.strictEqual(janList[0].book, 'genesis');
 assert.strictEqual(janList[0].ch, 1);
 const genChs = janList.filter((s) => s.book === 'genesis').map((s) => s.ch);
-assert.deepStrictEqual(genChs, [1, 2, 3]);
+assert.deepStrictEqual(genChs, [1, 2]);
+assert.strictEqual(janList.find((s) => s.book === 'genesis' && s.ch === 1).fullChapter, true);
 
 const last = plan.days[364];
 assert.strictEqual(last.ps[0].book, 'psalms');
@@ -65,6 +66,9 @@ assert.ok(/Psalm 150/.test(last.ps[0].label), 'Psalms should finish on day 365: 
 assert.strictEqual(last.pr[0].book, 'proverbs');
 assert.ok(/Proverbs 31/.test(last.pr[0].label), 'Proverbs should finish on day 365: ' + last.pr[0].label);
 assert.ok(last.nt.length, 'NT portion on day 365');
+assert.ok(last.ex.length, 'extra-book portion on day 365');
+assert.ok(/Revelation 22/.test(last.nt[last.nt.length - 1].label), 'NT should finish on day 365: ' + last.nt[last.nt.length - 1].label);
+assert.ok(/Aristeas/.test(last.ex[last.ex.length - 1].label), 'extras should finish on day 365: ' + last.ex[last.ex.length - 1].label);
 
 const timed = biay.clipTimes({ v: { '1': 0, '2': 5.5, '3': 10, '4': 14.2 } }, 1, 3);
 assert.deepStrictEqual(timed, { start: 0, end: 14.2, timed: true });
@@ -72,7 +76,7 @@ assert.strictEqual(biay.clipTimes({ v: {} }, 1, 3), null);
 
 const check = spawnSync('python3', [path.join(root, 'tools/validate-bible-in-a-year.py'), root], { encoding: 'utf8' });
 assert.strictEqual(check.status, 0, check.stdout + check.stderr);
-assert.match(check.stdout, /100% coverage, finishes in 365 days/);
+assert.match(check.stdout, /100% coverage, no repeats, finishes in 365 days/);
 
 
 const genHtml = biay.portionScripture(genesis, 1, 1, 3, { label: 'Genesis 1:1–3', kindLabel: 'Old Testament' });
@@ -227,8 +231,10 @@ assert.strictEqual(untimed.start, 0);
 assert.strictEqual(untimed.end, null);
 assert.strictEqual(untimed.usedFullChapter, true);
 
-const janWindows = janList.filter((s) => s.book === 'genesis').map((s) => biay.playbackWindow(s, { v: { '1': 3.1, '2': 8 }, d: 200 }));
-assert.ok(janWindows.length && janWindows.every((w) => w.start === 0 && w.end == null), 'January 1 Genesis chapters play in full');
+const janWindows = janList.filter((s) => s.book === 'genesis' && s.fullChapter).map((s) => biay.playbackWindow(s, { v: { '1': 3.1, '2': 8 }, d: 200 }));
+assert.ok(janWindows.length && janWindows.every((w) => w.start === 0 && w.end == null), 'January 1 whole Genesis chapters play in full');
+const genPartial = janList.find((s) => s.book === 'genesis' && !s.fullChapter);
+assert.ok(genPartial, 'January 1 also has a mid-chapter Genesis cut for even length');
 
 
 assert.strictEqual(biay.textSource('cjt', { source: 'cjt' }, {}), 'cjt');
@@ -249,31 +255,50 @@ for (const day of plan.days) {
   }
 }
 assert.ok(psalmVerses.size >= 2461, 'all psalm verses should appear');
-assert.ok([...psalmVerses.values()].every((n) => n >= 2), 'the psalter is read at least twice');
+assert.ok([...psalmVerses.values()].every((n) => n === 1), 'the psalter is read once, with no repeats');
 
-const jan = plan.days[0];
-assert.ok(jan.ot.every((item) => !item.v || item.v === 1), 'January 1 OT should be whole chapters');
 const dec = plan.days[364];
-assert.ok(/Psalm 150/.test(dec.ps[0].label), 'second pass ends on Psalm 150: ' + dec.ps[0].label);
+assert.ok(/Psalm 150/.test(dec.ps[dec.ps.length - 1].label), 'Psalms should finish on Psalm 150: ' + dec.ps[dec.ps.length - 1].label);
 assert.strictEqual(dec.pr[0].book, 'proverbs');
 
-assert.ok(plan.placement && Array.isArray(plan.placement.nt_extras) && plan.placement.nt_extras.length, 'extra books follow Revelation in the NT stream');
-assert.ok(plan.placement.ot_extras.includes('tobit') && plan.placement.ot_extras.includes('1-enoch'));
-assert.ok(plan.placement.nt_extras.includes('odes-of-solomon'));
-assert.ok(plan.placement.ot_extras.includes('joseph-and-aseneth'), 'Joseph and Aseneth belongs in the OT stream');
-assert.ok(!plan.placement.nt_extras.includes('joseph-and-aseneth'), 'Joseph and Aseneth must not follow Revelation');
+assert.strictEqual(biay.kindLabelFor('genesis', catalog), 'Old Testament');
+assert.strictEqual(biay.kindLabelFor('psalms', catalog), 'Psalms');
+assert.strictEqual(biay.kindLabelFor('proverbs', catalog), 'Proverbs');
+assert.strictEqual(biay.kindLabelFor('matthew', catalog), 'New Testament');
+assert.strictEqual(biay.kindLabelFor('4-maccabees', catalog), 'Apocrypha');
+assert.strictEqual(biay.kindLabelFor('jubilees', catalog), 'Pseudepigrapha');
+assert.strictEqual(biay.kindLabelFor('joseph-and-aseneth', catalog), 'Pseudepigrapha');
 
-const jaDays = [];
-let lastGenesis = -1;
-for (let i = 0; i < plan.days.length; i++) {
-  const day = plan.days[i];
-  if (day.ot.some((item) => item.book === 'genesis')) lastGenesis = i;
-  if (day.ot.some((item) => item.book === 'joseph-and-aseneth')) jaDays.push(i);
+assert.ok(plan.placement && plan.placement.streams);
+assert.ok(plan.placement.streams.ex.includes('tobit') && plan.placement.streams.ex.includes('1-enoch'));
+assert.ok(plan.placement.streams.ex.includes('4-maccabees') && plan.placement.streams.ex.includes('jubilees'));
+assert.ok(plan.placement.streams.ex.includes('joseph-and-aseneth'), 'Joseph and Aseneth belongs with the extra books');
+assert.ok(!plan.placement.streams.ot.includes('joseph-and-aseneth'));
+assert.ok(!plan.placement.streams.nt.includes('joseph-and-aseneth'));
+assert.ok(!plan.placement.streams.nt.includes('4-maccabees'));
+assert.ok(!plan.placement.streams.ot.includes('jubilees'));
+
+let jaDays = 0;
+for (const day of plan.days) {
+  assert.ok(!day.ot.some((item) => item.book === 'joseph-and-aseneth'), 'Joseph and Aseneth must not appear in the OT stream on ' + day.date);
   assert.ok(!day.nt.some((item) => item.book === 'joseph-and-aseneth'), 'Joseph and Aseneth must not appear in the NT stream on ' + day.date);
+  if (day.ex.some((item) => item.book === 'joseph-and-aseneth')) jaDays += 1;
+  const groups = biay.portionGroups(day, catalog);
+  assert.ok(groups.length >= 5, day.date + ' should list every section');
+  for (const g of groups) {
+    for (const item of g.items) {
+      const want = biay.kindLabelFor(item.book, catalog);
+      assert.strictEqual(g.kindLabel, want, day.date + ' ' + item.label + ' labeled ' + g.kindLabel + ', expected ' + want);
+      const div = (catalog.books.find((b) => b.id === item.book) || {}).division;
+      if (div === 'Apocrypha' || div === 'Pseudepigrapha') {
+        assert.strictEqual(g.kind, 'ex', item.book + ' must be in the extras stream on ' + day.date);
+        assert.ok(g.kindLabel !== 'Old Testament' && g.kindLabel !== 'New Testament', item.book + ' must not be labeled as a testament on ' + day.date);
+      }
+      if (div === 'New Testament') assert.strictEqual(g.kindLabel, 'New Testament');
+    }
+  }
 }
-assert.ok(jaDays.length, 'Joseph and Aseneth must appear in the OT stream');
-assert.ok(lastGenesis >= 0, 'Genesis should appear in the OT stream');
-assert.ok(jaDays[0] === lastGenesis || jaDays[0] === lastGenesis + 1, 'Joseph and Aseneth should follow Genesis: last Genesis day ' + plan.days[lastGenesis].date + ', first Joseph and Aseneth day ' + plan.days[jaDays[0]].date);
+assert.ok(jaDays, 'Joseph and Aseneth must appear in the extras stream');
 
 
 const swSrc = fs.readFileSync(path.join(root, 'sw.js'), 'utf8');

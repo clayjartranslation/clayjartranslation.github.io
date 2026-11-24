@@ -1,25 +1,15 @@
 #!/usr/bin/env python3
 """Build a 365-day Bible in a Year plan from a site's own canon.
 
-Shape of a day:
-  - Old Testament: one or more whole chapters, sized by word count. A chapter
-    is split only when it is very long.
-  - Psalms: about one psalm a day. Short psalms stay whole; long ones such as
-    Psalm 119 are split by stanza or into about 8–20 verses. The 150 psalms
-    are read through twice so the stream fills the year.
-  - Proverbs: about two or three verses a day.
-  - New Testament: about one chapter a day, in whole chapters. After
-    Revelation, selected extra books fill the remaining days so this stream
-    also finishes on day 365.
+Each catalog section is divided evenly over 365 days and finishes on
+December 31: Old Testament (except Psalms and Proverbs), Psalms,
+Proverbs, New Testament, and the extra books (Apocrypha and
+Pseudepigrapha, in this Bible’s book order). Days are balanced by
+verse count. A chapter is kept whole when that stays close to the
+even target; long chapters are split by verse when that helps.
 
-The Apocrypha and the remaining Pseudepigrapha are placed in the Old
-Testament stream, in this Bible’s book order, except Joseph and Aseneth,
-which is read immediately after Genesis because it continues the Joseph
-story. A smaller set of extra books (early-Christian or similar in size
-to a New Testament chapter) follows Revelation in the New Testament stream.
-
-Every catalog verse appears at least once (Psalms appear twice). The plan
-finishes in 365 days. February 29 in a leap year reuses February 28.
+Every catalog book and verse appears exactly once. No book is skipped
+or repeated. February 29 in a leap year reuses February 28.
 
 Usage:
   python3 tools/build-bible-in-a-year.py [repo_root]
@@ -37,36 +27,15 @@ import sys
 DAYS = 365
 PSALMS_ID = "psalms"
 PROVERBS_ID = "proverbs"
-# Split a chapter only when it would make a day unreasonably long
-# (about 13+ minutes at 150 words/minute, or a rare very high verse count
-# that is also wordy). Genealogies with many short verses stay whole.
+STREAM_KEYS = ("ot", "ps", "pr", "nt", "ex")
+# Exact verse-even cuts (0 = no snap). A nearby chapter snap would
+# so short chapters stay whole when that barely changes the day's length.
+CHAPTER_SNAP = 0
+# Kept for the unused long-chapter helpers below (not used by the even packer).
 LONG_CHAPTER_VERSES = 90
 LONG_CHAPTER_WORDS = 2200
 LONG_CHUNK_VERSES = 30
 LONG_CHUNK_WORDS = 1800
-# Extra books that follow Revelation in the NT stream.
-# Joseph and Aseneth is an Old Testament story (a sequel to Genesis 37–50)
-# and belongs in the OT stream, immediately after Genesis.
-NT_STREAM_EXTRAS = (
-    "odes-of-solomon",
-    "ascension-of-isaiah",
-    "4-baruch",
-    "4-maccabees",
-    "letter-of-aristeas",
-    "psalms-of-solomon",
-    "psalms-152-to-155",
-)
-# Lift a book out of catalog order and insert it after a given OT book.
-OT_NARRATIVE_AFTER = {
-    "joseph-and-aseneth": "genesis",
-}
-TRADITIONAL_NT = {
-    "matthew", "mark", "luke", "john", "acts", "romans",
-    "1-corinthians", "2-corinthians", "galatians", "ephesians",
-    "philippians", "colossians", "1-thessalonians", "2-thessalonians",
-    "1-timothy", "2-timothy", "titus", "philemon", "hebrews", "james",
-    "1-peter", "2-peter", "1-john", "2-john", "3-john", "jude", "revelation",
-}
 
 
 def load_json(path):
@@ -359,6 +328,13 @@ def verses_to_units(items, s, e):
     return units
 
 
+def pack_stream_even(chapters, days=DAYS, snap=CHAPTER_SNAP):
+    """Cut a chapter stream into exactly `days` portions, even by verse count."""
+    items = proverb_items(chapters)
+    cuts = split_verses(items, days, snap=snap)
+    return [verses_to_units(items, s, e) for s, e in cuts]
+
+
 def psalm_units_for_year(psalm_chapters, days=DAYS):
     """Two passes of the 150 psalms, splitting long ones so the stream fills 365 days."""
     def whole(ch):
@@ -596,26 +572,51 @@ def entries_from_units(units, books):
     return portion_entries(merge_units(units), books)
 
 
-def extra_nt_ids(catalog_books):
-    return [b["id"] for b in catalog_books if b.get("division") == "New Testament" and b["id"] not in TRADITIONAL_NT]
-
-
-def place_ot_narrative(ot_ids):
-    """Move narratively placed books (e.g. Joseph and Aseneth after Genesis)."""
-    ids = list(ot_ids)
-    for book, after in OT_NARRATIVE_AFTER.items():
-        if book not in ids or after not in ids:
+def stream_ids(catalog_books):
+    """Split the catalog into the five daily sections, in book-list order."""
+    ot, nt, extra = [], [], []
+    for b in catalog_books:
+        bid, div = b["id"], b.get("division")
+        if bid == PSALMS_ID or bid == PROVERBS_ID:
             continue
-        ids.remove(book)
-        ids.insert(ids.index(after) + 1, book)
-    return ids
+        if div == "Old Testament":
+            ot.append(bid)
+        elif div == "New Testament":
+            nt.append(bid)
+        elif div in ("Apocrypha", "Pseudepigrapha"):
+            extra.append(bid)
+        else:
+            raise SystemExit("Unknown division for {0}: {1}".format(bid, div))
+    return {
+        "ot": ot,
+        "ps": [PSALMS_ID],
+        "pr": [PROVERBS_ID],
+        "nt": nt,
+        "ex": extra,
+    }
 
 
 def summarize_unit_days(name, day_units):
     sizes = [sum(u["verses"] for u in du) for du in day_units]
     words = [sum(u["words"] for u in du) for du in day_units]
+    books = []
+    for du in day_units:
+        for u in du:
+            if u["book"] not in books:
+                books.append(u["book"])
+    chapters = 0
+    seen_ch = set()
+    for du in day_units:
+        for u in du:
+            key = (u["book"], u["ch"])
+            if key not in seen_ch:
+                seen_ch.add(key)
+                chapters += 1
     return {
         "stream": name,
+        "books": len(books),
+        "book_ids": books,
+        "chapters": chapters,
         "verses": sum(sizes),
         "words": sum(words),
         "days": len(day_units),
@@ -634,51 +635,27 @@ def build(root, fallback=None, out_path=None):
     cat = load_json(os.path.join(root, "data", "books.json"))
     catalog_books = cat["books"]
     books = {b["id"]: b for b in catalog_books}
-    present = {b["id"] for b in catalog_books}
-    nt_extras = [i for i in NT_STREAM_EXTRAS if i in present]
-    ot_ids = place_ot_narrative([
-        b["id"] for b in catalog_books
-        if b.get("division") in ("Old Testament", "Apocrypha", "Pseudepigrapha")
-        and b["id"] not in (PSALMS_ID, PROVERBS_ID)
-        and b["id"] not in nt_extras
-    ])
-    nt_ids = [b["id"] for b in catalog_books if b.get("division") == "New Testament"] + nt_extras
-    covered_ids = set(ot_ids) | set(nt_ids) | {PSALMS_ID, PROVERBS_ID}
-    missing = [b["id"] for b in catalog_books if b["id"] not in covered_ids]
+    ids = stream_ids(catalog_books)
+    covered_ids = []
+    for key in STREAM_KEYS:
+        covered_ids.extend(ids[key])
+    missing = [b["id"] for b in catalog_books if b["id"] not in set(covered_ids)]
     if missing:
         raise SystemExit("Catalog books not placed in any stream: " + ", ".join(missing))
+    if len(covered_ids) != len(set(covered_ids)):
+        raise SystemExit("A book was placed in more than one stream")
 
     counts = {}
     fallbacks = set()
-
-    ot_chapters, ot_counts, ot_fb = load_chapters(root, catalog_books, ot_ids, fallback)
-    counts.update(ot_counts)
-    fallbacks.update(ot_fb)
-    ot_units = units_from_chapters(ot_chapters, split_long=True)
-    ot_cuts = pack_units(ot_units, DAYS)
-    ot_days = [ot_units[s:e] for s, e in ot_cuts]
-
-    nt_chapters, nt_counts, nt_fb = load_chapters(root, catalog_books, nt_ids, fallback)
-    counts.update(nt_counts)
-    fallbacks.update(nt_fb)
-    nt_units = units_from_chapters(nt_chapters, split_long=True, traditional_nt_ids=TRADITIONAL_NT)
-    nt_units = group_short_units(nt_units, DAYS)
-    nt_cuts = pack_units(nt_units, DAYS)
-    nt_days = [nt_units[s:e] for s, e in nt_cuts]
-
-    ps_chapters, ps_counts, ps_fb = load_chapters(root, catalog_books, [PSALMS_ID], fallback)
-    counts.update(ps_counts)
-    fallbacks.update(ps_fb)
-    ps_days = psalm_units_for_year(ps_chapters, DAYS)
-
-    pr_chapters, pr_counts, pr_fb = load_chapters(root, catalog_books, [PROVERBS_ID], fallback)
-    counts.update(pr_counts)
-    fallbacks.update(pr_fb)
-    pr_items = proverb_items(pr_chapters)
-    pr_cuts = split_verses(pr_items, DAYS, snap=0)
-    pr_days = [verses_to_units(pr_items, s, e) for s, e in pr_cuts]
-
-    day_units = {"ot": ot_days, "ps": ps_days, "pr": pr_days, "nt": nt_days}
+    day_units = {}
+    for key in STREAM_KEYS:
+        chapters, ch_counts, used_fb = load_chapters(root, catalog_books, ids[key], fallback)
+        counts.update(ch_counts)
+        fallbacks.update(used_fb)
+        packed = pack_stream_even(chapters, DAYS)
+        if len(packed) != DAYS:
+            raise SystemExit("{0} stream packed into {1} days, not 365".format(key, len(packed)))
+        day_units[key] = packed
 
     start = datetime.date(2025, 1, 1)
     days = []
@@ -688,7 +665,7 @@ def build(root, fallback=None, out_path=None):
         day = {"date": date.strftime("%m-%d")}
         verse_total = 0
         word_total = 0
-        for key in ("ot", "ps", "pr", "nt"):
+        for key in STREAM_KEYS:
             units = day_units[key][d]
             day[key] = entries_from_units(units, books)
             verse_total += sum(u["verses"] for u in units)
@@ -698,19 +675,15 @@ def build(root, fallback=None, out_path=None):
 
     apoc = [b["id"] for b in catalog_books if b.get("division") == "Apocrypha"]
     pseud = [b["id"] for b in catalog_books if b.get("division") == "Pseudepigrapha"]
-    catalog_nt_extra = extra_nt_ids(catalog_books)
     note = (
-        "Each day has four readings: a longer Old Testament reading in whole chapters "
-        "(including most of the Apocrypha and Pseudepigrapha, in this Bible’s book order), "
-        "about one psalm, a couple of verses of Proverbs, and about one New Testament chapter. "
-        "Joseph and Aseneth is read in the Old Testament stream right after Genesis, because "
-        "it continues the story of Joseph. After Revelation, the New Testament stream "
-        "continues with Odes of Solomon, Ascension of Isaiah, 4 Baruch, 4 Maccabees, the "
-        "Letter of Aristeas, Psalms of Solomon, and Psalms 152–155, so that stream also "
-        "fills the year. "
-        "The 150 psalms are read through twice; a very long psalm such as Psalm 119 is split "
-        "by stanza. On February 29 in a leap year, read the February 28 portion again, or use "
-        "the day to catch up. The plan finishes on December 31."
+        "Each day has five readings, one from each section of this Bible: the "
+        "Old Testament (except Psalms and Proverbs), the Psalms, Proverbs, the "
+        "New Testament, and the extra books (the Apocrypha and the "
+        "Pseudepigrapha, in this Bible’s book order). Each section is divided "
+        "evenly over 365 days by verse count and finishes on December 31. A "
+        "long chapter is split by verse when that keeps the days even. Every "
+        "book and verse is read once. On February 29 in a leap year, read the "
+        "February 28 portion again, or use the day to catch up."
     )
     out = {
         "title": "Bible in a Year",
@@ -718,8 +691,7 @@ def build(root, fallback=None, out_path=None):
         "canonBooks": len(catalog_books),
         "leapDay": {"02-29": "02-28"},
         "placement": {
-            "ot_extras": [i for i in ot_ids if books[i].get("division") in ("Apocrypha", "Pseudepigrapha")],
-            "nt_extras": nt_extras,
+            "streams": ids,
         },
         "verseCounts": counts,
         "days": days,
@@ -728,24 +700,20 @@ def build(root, fallback=None, out_path=None):
     with open(dest, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, separators=(",", ":"))
 
-    stats = {k: summarize_unit_days(k, day_units[k]) for k in day_units}
+    stats = {k: summarize_unit_days(k, day_units[k]) for k in STREAM_KEYS}
     totals_v = [x["verses"] for x in daily]
     totals_w = [x["words"] for x in daily]
     samples = {}
-    for key in ("01-01", "11-22", "12-31"):
+    for key in ("01-01", "11-24", "12-31"):
         day = next(x for x in days if x["date"] == key)
-        samples[key] = {k: [it["label"] for it in day[k]] for k in ("ot", "ps", "pr", "nt")}
+        samples[key] = {k: [it["label"] for it in day[k]] for k in STREAM_KEYS}
     report = {
         "output": dest,
         "catalog_books": len(catalog_books),
         "covered_books": len(covered_ids),
-        "ot_stream_books": ot_ids,
-        "nt_stream_books": nt_ids,
+        "stream_books": ids,
         "apocrypha": apoc,
         "pseudepigrapha": pseud,
-        "nt_extra_books": catalog_nt_extra,
-        "nt_stream_extras": nt_extras,
-        "ot_stream_extras": out["placement"]["ot_extras"],
         "fallback_books": sorted(fallbacks),
         "streams": stats,
         "samples": samples,
@@ -766,24 +734,22 @@ def build(root, fallback=None, out_path=None):
 def print_report(report):
     print("Wrote", report["output"])
     print("Books in catalog / covered: {0} / {1}".format(report["catalog_books"], report["covered_books"]))
-    print("OT stream: {0} books".format(len(report["ot_stream_books"])))
-    print("  Extra books in the OT stream ({0}): {1}".format(
-        len(report["ot_stream_extras"]), ", ".join(report["ot_stream_extras"])))
-    print("NT stream: {0} books".format(len(report["nt_stream_books"])))
-    print("  Extra books after Revelation ({0}): {1}".format(
-        len(report["nt_stream_extras"]), ", ".join(report["nt_stream_extras"])))
-    if report["nt_extra_books"]:
-        print("  Extra books listed in the New Testament division: {0}".format(
-            ", ".join(report["nt_extra_books"])))
-    else:
-        print("  Extra books listed in the New Testament division: none in this edition.")
+    names = {
+        "ot": "Old Testament",
+        "ps": "Psalms",
+        "pr": "Proverbs",
+        "nt": "New Testament",
+        "ex": "Extra books (Apocrypha and Pseudepigrapha)",
+    }
     if report["fallback_books"]:
         print("  Used fallback text for: {0}".format(", ".join(report["fallback_books"])))
-    for k, s in report["streams"].items():
+    for k in STREAM_KEYS:
+        s = report["streams"][k]
         print(
-            "{0}: {1} verses, {2} words; per day verses {3:.2f} (min {4}, max {5}); "
-            "mid-chapter days {6}; fills 365: {7}".format(
-                k, s["verses"], s["words"], s["verse_avg"], s["verse_min"], s["verse_max"],
+            "{0}: {1} books, {2} chapters, {3} verses, {4} words; "
+            "per day {5:.2f} verses (min {6}, max {7}); mid-chapter days {8}; fills 365: {9}".format(
+                names[k], s["books"], s["chapters"], s["verses"], s["words"],
+                s["verse_avg"], s["verse_min"], s["verse_max"],
                 s["mid_chapter_days"], s["last_end"],
             )
         )
