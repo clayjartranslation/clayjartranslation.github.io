@@ -316,4 +316,19 @@ const lastHit = biay.highlightForPlayback(highlightMeta, 100.4, 17, 20, { clipSt
 assert.ok(lastHit && lastHit.v === 20, 'last verse should stay highlighted until the next verse starts, got ' + JSON.stringify(lastHit));
 assert.strictEqual(biay.highlightForPlayback(highlightMeta, 100.5, 17, 20, { clipStart: 80.1 - 0.15, clipEnd: 100.5 }), null);
 
+// Partial/unpublished CTB books fall back to CJT chapters cleanly.
+const partialCtb = { id: 'isaiah', name: 'Isaiah', chapters: [{ n: 38, verses: [{ v: 1, text: 'a' }, { v: 2, text: 'b' }] }] };
+const fullCjt = { id: 'isaiah', name: 'Isaiah', chapters: [
+  { n: 38, verses: [{ v: 1, text: 'x' }, { v: 2, text: 'y' }] },
+  { n: 39, verses: [{ v: 1, text: 'z' }, { v: 2, text: 'w' }] }
+] };
+assert.strictEqual(biay.bookNeedsFallback(null, [{ book: 'ezekiel', ch: 28, v: 1, verses: 26 }]), true);
+assert.strictEqual(biay.bookNeedsFallback(partialCtb, [{ book: 'isaiah', ch: 38, v: 1, verses: 2 }]), false);
+assert.strictEqual(biay.bookNeedsFallback(partialCtb, [{ book: 'isaiah', ch: 38, v: 1, verses: 4 }]), true);
+assert.strictEqual(biay.bookNeedsFallback(partialCtb, [{ book: 'isaiah', ch: 39, v: 1, verses: 2 }]), true);
+const merged = biay.mergeBooks(partialCtb, fullCjt);
+assert.strictEqual(merged.chapters.length, 2);
+assert.strictEqual(merged.chapters[0].verses[0].text, 'a');
+assert.strictEqual(merged.chapters[1].n, 39);
+
 console.log('bible-in-a-year tests ok');
