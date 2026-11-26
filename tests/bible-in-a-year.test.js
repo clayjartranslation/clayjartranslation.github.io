@@ -331,4 +331,22 @@ assert.strictEqual(merged.chapters.length, 2);
 assert.strictEqual(merged.chapters[0].verses[0].text, 'a');
 assert.strictEqual(merged.chapters[1].n, 39);
 
+// Portions ending on the chapter's last verse wait for native 'ended' (end: null) instead of cutting at meta.d.
+const lastVerseWin = biay.playbackWindow({ book: 'ezekiel', ch: 29, startV: 18, endV: 21, lastV: 21, fullChapter: false }, {
+  v: { '17': 160, '18': 175.0, '19': 185, '20': 198, '21': 211.99 },
+  d: 220.84
+});
+assert.ok(lastVerseWin.start >= 174.8 && lastVerseWin.start <= 175.0);
+assert.strictEqual(lastVerseWin.end, null, 'last-verse partial clip must wait for ended rather than cutting at meta.d');
+assert.strictEqual(lastVerseWin.usedFullChapter, false);
+
+// Unreliable (non-monotonic) verse timings must fall back to full chapter safely rather than cutting off.
+const corruptWin = biay.playbackWindow({ book: 'ezekiel', ch: 30, startV: 5, endV: 10, lastV: 26, fullChapter: false }, {
+  v: { '5': 50, '6': 40, '11': 80 },
+  d: 238.18
+});
+assert.strictEqual(corruptWin.start, 0);
+assert.strictEqual(corruptWin.end, null);
+assert.strictEqual(corruptWin.usedFullChapter, true);
+
 console.log('bible-in-a-year tests ok');

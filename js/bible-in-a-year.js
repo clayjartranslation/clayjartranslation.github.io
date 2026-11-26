@@ -17,7 +17,7 @@
   var CTB_REC = 'https://huggingface.co/datasets/pdoggjoe/clay-jar-treasure-audio/resolve/main/';
   var REC_FALLBACK = { drama_f: 'af_heart', drama_m: 'am_michael' };
   var SETTINGS_KEY = { cjt: 'cjt-settings', ctb: 'ctb-settings' };
-  var CACHE_VERSION = 'cjt-v352';
+  var CACHE_VERSION = 'cjt-v353';
 
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
   function nyToday(now) {
@@ -157,10 +157,26 @@
   // the timing file's duration as the end, cuts off the intro and the last
   // words at a chapter or reading transition — especially on iPhone Safari,
   // which also fires "ended" when the src is swapped early.
+  function timingsOrdered(meta, startV, endV) {
+    if (!meta || !meta.v) return false;
+    var prev = -Infinity, have = 0;
+    for (var v = startV; v <= endV; v++) {
+      var ts = meta.v[String(v)];
+      if (ts == null || ts === '' || isNaN(Number(ts))) continue;
+      ts = Number(ts);
+      if (ts < prev - 0.001) return false;
+      prev = ts;
+      have += 1;
+    }
+    return have > 0;
+  }
+
   function playbackWindow(seg, meta) {
     var clip = meta ? clipTimes(meta, seg.startV, seg.endV) : null;
     var full = !!(seg && seg.fullChapter);
-    var usedFull = !full && !clip;
+    var ordered = seg && clip ? timingsOrdered(meta, seg.startV, seg.endV) : false;
+    var badEnd = clip && clip.end != null && clip.end <= clip.start;
+    var usedFull = !full && (!clip || !ordered || badEnd);
     if (full || usedFull) {
       return { start: 0, end: null, timed: false, usedFullChapter: usedFull };
     }
@@ -174,7 +190,11 @@
       floor = Number(prev) + Math.max(0.2, (clip.start - Number(prev)) * 0.7);
     }
     start = Math.max(floor, clip.start - lead, 0);
-    return { start: start, end: clip.end, timed: true, usedFullChapter: false };
+    // When this portion ends at the chapter's last verse (no next verse in meta.v),
+    // wait for the native 'ended' event rather than cutting off at meta.d.
+    var hasNext = meta && meta.v && meta.v[String(Number(seg.endV) + 1)] != null && meta.v[String(Number(seg.endV) + 1)] !== '';
+    var end = hasNext ? clip.end : null;
+    return { start: start, end: end, timed: true, usedFullChapter: false };
   }
 
   function shouldAdvanceAtTime(currentTime, clipEnd, playing) {
@@ -408,6 +428,9 @@
       meta: null,
       canHighlight: false,
       seekPending: false,
+      seekIssuedAt: 0,
+      seekRetries: 0,
+      lastHighlightKey: '',
       times: []
     };
 
@@ -429,7 +452,7 @@
 
     function loadIndex(which) {
       if (recIndexes[which] && recIndexes[which].then) return recIndexes[which];
-      recIndexes[which] = fetch(recBase(which) + 'index.json').then(function (r) {
+      recIndexes[which] = fetch(recBase(which) + 'index.json', { cache: 'no-cache' }).then(function (r) {
         return r.ok ? r.json() : null;
       }).catch(function () { return null; });
       return recIndexes[which];
@@ -449,7 +472,7 @@
       var h = await sha12(chapterHashText(ch));
       if (h !== want) return null;
       var base = recBase(which) + v + '/' + seg.book + '/' + seg.ch;
-      var res = await fetch(base + '.json');
+      var res = await fetch(base + '.json', { cache: 'no-cache' });
       if (!res.ok) return null;
       var meta = await res.json();
       if (meta.h !== want) return null;
@@ -527,6 +550,7 @@
     }
 
     function clearSpeaking() {
+      player.lastHighlightKey = '';
       var root = scriptureEl();
       if (!root) return;
       Array.prototype.forEach.call(root.querySelectorAll('.speaking'), function (x) { x.classList.remove('speaking'); });
@@ -535,8 +559,10 @@
     function markSpeaking() {
       var root = scriptureEl();
       if (!root) return;
-      clearSpeaking();
-      if (!player.canHighlight || player.advancing) return;
+      if (!player.canHighlight || player.advancing) {
+        if (player.lastHighlightKey) clearSpeaking();
+        return;
+      }
       var seg = player.list[player.i];
       var audio = player.audio;
       if (!seg || !audio) return;
@@ -545,9 +571,16 @@
         clipEnd: player.clipEnd,
         usedFullChapter: !!player.clipUsedFull
       });
-      if (!target) return;
+      if (!target) {
+        if (player.lastHighlightKey) clearSpeaking();
+        return;
+      }
+      var hKey = player.i + ':' + target.kind + ':' + target.v;
       var el = target.kind === 'title' ? root.querySelector('.ch-title') : document.getElementById('biay-v' + target.v);
       if (!el) return;
+      if (hKey === player.lastHighlightKey && el.classList.contains('speaking')) return;
+      clearSpeaking();
+      player.lastHighlightKey = hKey;
       el.classList.add('speaking');
       var bar = barEl();
       var header = document.querySelector('header.bar');
@@ -580,6 +613,7 @@
         });
         pane.innerHTML = html || '<p class="muted">The text for this portion could not be loaded.</p>';
         pane.hidden = false;
+        player.lastHighlightKey = '';
         markSpeaking();
       });
     }
@@ -619,17 +653,30 @@
       }
     }
 
+    function seekHasLanded(a) {
+      var t = Number(a && a.currentTime);
+      if (isNaN(t)) return false;
+      if (inClipWindow(t, player.clipStart, player.clipEnd)) return true;
+      if (Math.abs(t - (player.clipStart || 0)) <= 0.6) return true;
+      return !a.seeking && player.clipStart > 0.15 && t >= player.clipStart - 1.2 && (player.clipEnd == null || t < player.clipEnd);
+    }
+
     function startClock() {
       stopClock();
       player.clock = setInterval(function () {
         if (!player.playing || !player.audio) return;
         var a = player.audio;
         if (player.seekPending) {
-          if (inClipWindow(a.currentTime, player.clipStart, player.clipEnd) ||
-              Math.abs((a.currentTime || 0) - (player.clipStart || 0)) <= 0.35) {
+          if (seekHasLanded(a)) {
             player.seekPending = false;
-          } else if (!player.advancing && player.clipStart > 0.15) {
-            try { a.currentTime = player.clipStart; } catch (e) {}
+          } else {
+            if (!player.advancing && !a.seeking && a.readyState >= 1 && player.clipStart > 0.15 &&
+                player.seekRetries < 3 && (Date.now() - player.seekIssuedAt) > 450) {
+              player.seekIssuedAt = Date.now();
+              player.seekRetries += 1;
+              try { a.currentTime = player.clipStart; } catch (e) {}
+            }
+            return;
           }
         }
         if (shouldAdvanceAtTime(a.currentTime, player.clipEnd, player.playing && !player.advancing)) {
@@ -662,7 +709,7 @@
       a.addEventListener('timeupdate', function () {
         if (player.advancing) return;
         if (player.seekPending) {
-          if (inClipWindow(a.currentTime, player.clipStart, player.clipEnd)) {
+          if (seekHasLanded(a)) {
             player.seekPending = false;
             markSpeaking();
           }
@@ -711,6 +758,9 @@
           player.canHighlight = timingsReliable(player.meta, seg.startV, seg.endV) && !info.usedFullChapter;
           player.times = recTimes(player.meta, portionItems(player.meta, seg.startV, seg.endV));
           player.seekPending = start > 0.15;
+          player.seekIssuedAt = 0;
+          player.seekRetries = 0;
+          player.lastHighlightKey = '';
           var sameSrc = audio.getAttribute('data-src') === info.url;
           if (!sameSrc) {
             try { audio.pause(); } catch (e) {}
@@ -731,14 +781,19 @@
               }
               return;
             }
+            if (audio.seeking) return;
             try {
-              if (Math.abs((audio.currentTime || 0) - start) > 0.12) audio.currentTime = start;
+              if (Math.abs((audio.currentTime || 0) - start) > 0.12) {
+                player.seekIssuedAt = Date.now();
+                audio.currentTime = start;
+              }
             } catch (e) {}
           };
           var seekDone = function () {
             if (tok !== player.token) return;
-            if (start <= 0.15 || inClipWindow(audio.currentTime, player.clipStart, player.clipEnd)) {
+            if (start <= 0.15 || seekHasLanded(audio)) {
               player.seekPending = false;
+              audio.removeEventListener('seeked', seekDone);
               markSpeaking();
             }
           };
@@ -751,7 +806,7 @@
             audio.addEventListener('loadedmetadata', applySeek, { once: true });
             audio.addEventListener('canplay', applySeek, { once: true });
           }
-          audio.addEventListener('seeked', seekDone, { once: true });
+          audio.addEventListener('seeked', seekDone);
           audio.addEventListener('playing', function () {
             if (tok !== player.token) return;
             releaseAdvance();
@@ -766,19 +821,20 @@
           if (pr && pr.then) {
             pr.then(function () {
               if (tok !== player.token) return;
-              applySeek();
+              if (player.seekPending) applySeek();
               releaseAdvance();
               startClock();
               markSpeaking();
             }).catch(function (err) {
-              if (err && err.name === 'AbortError') return;
               if (tok !== player.token) return;
-              player.advancing = false;
+              releaseAdvance();
+              if (err && err.name === 'AbortError') return;
               player.playing = false;
               updateUi();
             });
           }
           prefetch(i + 1, settings);
+          prefetch(i + 2, settings);
           return;
         }
         player.skipped.push(seg.label);
@@ -811,7 +867,9 @@
       if (player.advancing && !manual) return;
       var next = player.i + (dir || 1);
       player.advancing = true;
-      try { ensureAudio().pause(); } catch (e) {}
+      if (manual || next < 0 || next >= player.list.length) {
+        try { ensureAudio().pause(); } catch (e) {}
+      }
       if (next < 0) {
         var audio = ensureAudio();
         try { audio.currentTime = 0; } catch (e) {}
