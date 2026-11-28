@@ -6,13 +6,13 @@ const root = path.join(__dirname, '..');
 const privacy = fs.readFileSync(path.join(root, 'privacy.html'), 'utf8');
 const terms = fs.readFileSync(path.join(root, 'terms.html'), 'utf8');
 
-assert.ok(privacy.includes('Last updated November 21, 2026'));
-assert.ok(terms.includes('Last updated November 21, 2026'));
+assert.ok(privacy.includes('Last updated November 28, 2026'));
+assert.ok(terms.includes('Last updated November 28, 2026'));
 assert.ok(privacy.includes('Jose Santiago'));
 assert.ok(privacy.includes('Marshfield'));
 assert.ok(terms.includes('Marshfield, Plymouth County, Massachusetts'));
 
-['Google Translate', 'policies.google.com/privacy', 'localStorage', 'Brevo', 'double opt-in', 'unsubscribe', 'PayPal', 'GDPR', 'CCPA', 'LGPD', 'PIPEDA', 'PIPL', 'APPI', 'POPIA'].forEach((s) => {
+['Google Translate', 'policies.google.com/privacy', 'localStorage', 'Brevo', 'double opt-in', 'unsubscribe', 'PayPal', 'GDPR', 'CCPA', 'LGPD', 'PIPEDA', 'PIPL', 'APPI', 'POPIA', 'Abacus', 'visitor total'].forEach((s) => {
   assert.ok(privacy.includes(s), 'privacy missing ' + s);
 });
 
