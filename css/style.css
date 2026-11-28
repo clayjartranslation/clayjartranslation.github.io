@@ -393,6 +393,8 @@ td:first-child { font-weight: 600; min-width: 8rem; }
 .downloads .file-row a { font-weight: 700; min-height: 44px; display: inline-flex; align-items: center; }
 .downloads .size { color: var(--ink-soft); font-variant-numeric: tabular-nums; white-space: nowrap; }
 .foot p { max-width: 34rem; margin: 0 auto .4rem; }
+.foot-visitors { font-variant-numeric: tabular-nums; }
+.foot-visitors[hidden] { display: none !important; }
 .foot-small { font-size: .8rem; color: var(--ink-faint); }
 .accept { font-size: .92rem; }
 

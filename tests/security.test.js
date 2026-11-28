@@ -11,6 +11,7 @@ assert.ok(csp.includes("default-src 'self'"));
 assert.ok(!/unsafe-inline/.test(csp));
 assert.ok(!/unsafe-eval/.test(csp));
 assert.ok(csp.includes('https://translate.googleapis.com'));
+assert.ok(csp.includes('https://abacus.jasoncameron.dev'));
 assert.ok(csp.includes('https://*.sibforms.com'));
 assert.ok(csp.includes('https://us.aws.cdn.hf.co'));
 assert.ok(csp.includes('https://identitytoolkit.googleapis.com'));
@@ -20,6 +21,7 @@ htmls.forEach(({ file, html }) => {
   assert.ok(html.includes('name="referrer" content="strict-origin-when-cross-origin"'), file);
   assert.ok(html.includes(csp), file + ' CSP should match the reader page');
   assert.ok(html.includes('js/boot.js'), file);
+  assert.ok(html.includes('js/visitors.js') && html.includes('data-visitor-total'), file);
   assert.ok(!/<script(?![^>]*\bsrc=)(?![^>]*type="importmap")[^>]*>/i.test(html), file + ' has an inline script');
   const blanks = html.match(/<a\b[^>]*target\s*=\s*["']_blank["'][^>]*>/gi) || [];
   blanks.forEach((tag) => {
@@ -39,6 +41,7 @@ assert.ok(boot.includes("localStorage.getItem('cjt-lang')") || boot.includes('cj
 const sw = fs.readFileSync(path.join(root, 'sw.js'), 'utf8');
 assert.ok(sw.includes("'js/language.js'"));
 assert.ok(sw.includes("'js/boot.js'"));
+assert.ok(sw.includes("'js/visitors.js'"));
 assert.ok(/const VERSION = 'cjt-v30[6-9]'|const VERSION = 'cjt-v3[1-9]\d'|const VERSION = 'cjt-v[4-9]/.test(sw) || Number(sw.match(/cjt-v(\d+)/)[1]) >= 306);
 
 const sec = fs.readFileSync(path.join(root, '.well-known/security.txt'), 'utf8');

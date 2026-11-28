@@ -75,7 +75,7 @@ assert.ok(html.includes(api.NOTICE), 'page must label the devotionals');
 const srcs = [...html.matchAll(/<script[^>]*\ssrc="([^"]+)"/g)].map((m) => m[1]);
 assert.deepStrictEqual(srcs, [
   'js/boot.js', 'js/languages.js', 'js/language.js',
-  'js/devotional-email-config.js', 'js/devotional-email.js', 'js/devotional.js',
+  'js/devotional-email-config.js', 'js/devotional-email.js', 'js/devotional.js', 'js/visitors.js',
 ]);
 const devWithoutCsp = html.replace(/<meta http-equiv="Content-Security-Policy"[^>]*>/, '');
 assert.ok(!/googleapis|firebase|googletagmanager|cdn\.|analytics/i.test(devWithoutCsp));
